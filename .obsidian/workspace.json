@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53685a1c51e025ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Año/Administracion de Datos I/Testeando 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando.md",
+                "file": "Primer Año/Administracion de Datos I/Testeando 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando.md",
+                "file": "Primer Año/Administracion de Datos I/Testeando 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando.md"
+                "file": "Primer Año/Administracion de Datos I/Testeando 2.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a6c8d30a25fe81ee",
+  "active": "53685a1c51e025ec",
   "lastOpenFiles": [
     "Primer Año/Administracion de Datos I/Testeando.md",
+    "Primer Año/Administracion de Datos I/Testeando 2.md",
     "Primer Año/Administracion de Datos I",
     "Primer Año"
   ]
