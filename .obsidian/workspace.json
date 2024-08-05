@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53685a1c51e025ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando 2.md",
+                "file": "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando 2.md",
+                "file": "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando 2.md",
+                "file": "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando 2.md"
+                "file": "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md"
               }
             }
           }
@@ -160,10 +147,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "53685a1c51e025ec",
+  "active": "a6c8d30a25fe81ee",
   "lastOpenFiles": [
-    "Primer Año/Administracion de Datos I/Testeando.md",
     "Primer Año/Administracion de Datos I/Testeando 2.md",
+    "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md",
     "Primer Año/Administracion de Datos I",
     "Primer Año"
   ]
