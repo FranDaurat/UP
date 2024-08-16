@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md",
+                "file": "Primer Año/Administracion de Datos I/Clase 05-08-2024; Introduccion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a0a14d6719ec108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Año/Analisis Matematico II/A tener en cuenta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md",
+                "file": "Primer Año/Analisis Matematico II/A tener en cuenta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md",
+                "file": "Primer Año/Analisis Matematico II/A tener en cuenta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md"
+                "file": "Primer Año/Analisis Matematico II/A tener en cuenta.md"
               }
             }
           }
@@ -147,10 +160,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a6c8d30a25fe81ee",
+  "active": "9a0a14d6719ec108",
   "lastOpenFiles": [
+    "Primer Año/Administracion de Datos I/Clase 05-08-2024; Introduccion.md",
+    "Primer Año/Analisis Matematico II/A tener en cuenta.md",
+    "Primer Año/Analisis Matematico II",
+    "Parciales.md",
     "Primer Año/Administracion de Datos I/Testeando 2.md",
-    "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md",
     "Primer Año/Administracion de Datos I",
     "Primer Año"
   ]
