@@ -15,5 +15,6 @@ Recuperatorio fuera de fecha de cursada --> 28/11
 4) Asíntotas (AV, AH, OB)
 5) Intersecciones con ejes
 6) Gráfico
-
+Ej recomendado por el profesor:
+![[Pasted image 20240817201119.png]]
 -- - 
