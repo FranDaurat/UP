@@ -49,13 +49,53 @@ Proceso para que lo gerentes (aptitudes/habilidades) desempeñen actividades con
 Proceso --> Forma sistematica de hacer las cosas.
 
 **Actividades basicas del proceso administrativo:**
-1. Planificar
-2. Organizar
-3. Dirigir
-4. Controlar
+1. Planificar --> Proceso de establecer metas y un curso de accion adecuado para alcanzarlas.
+2. Organizar --> Ordenar y distribuir el trabajo, autoridad y recursos entre los miembros para alcanzar cierta meta (Diferente metas requieren diferentes estructuras).
+3. Dirigir --> Implica mandar, influir y motivar a los empleados para que realicen las tareas esenciales.
+4. Controlar --> Asegurar que las actividades reales se ajusten a las planificadas:
+	1. Estandares de desempeño.
+	2. Medir resultados actuales.
+	3. Comparar resultados actuales con los establecidos.
+	4. Aplicar correctivos.
+
+### Niveles de gerencia
+1. Alta gerencia: --> Habilidad Conceptual
+		1. Establecer politicas de las operaciones.
+		2. Dirigr interaccion de la organizacion con el entorno.
+2. Gerencia media: --> Habilidad Humanista
+		1. Dirigir actividades que garanticen la aplicacion de las politcas de la organizacion.
+		2. Equilibrar demandas y capacidades de su equipo gerente.
+3. Gerencia de primera linea: --> Habilidad Tecnica
+	- Dirigen empleados no gerentes.
+
+### Actividades llevadas a cabo:
+Gtes funcionales --> Responsable de una sola actividad de la organizacion.
+Gtes generales --> Responsable de todas las actividades funcionales de la organizacion.
+
+## Diseño y estructura
+### Diseño organizacional
+*Determina la estrucutra de la organizacion* que es mas conveniente para la estrategia, el personal, la tecnologia y las tareas de la organizacion.
+### Estrucutra organizacional
+1. Forma de dividir, organizar y coordinar las actividades de una organizacion.
+**Se basa en los procesos:***
+	1. Division del trabajo: Forma de descomponer una tarea compleja en varias subtareas menos complejas para que las personas sean responsables de una serie determinada de actividades
+	2. Departamentalizacion:  Forma en la que se agrupan los departamentos y/o gerencias en actividades similares o que tengan alguna relacion logica en comun. 
+	3. Jerarquia: Hace referencia a los diversos niveles que la organizacion adpota con el fin de guir a la misma en los objetivos macros de la compañia.
+		- Tramo de control administrativo: Cantidad de personas y departamentos que dependen directamente de un gerente en especifico:
+		- Cadena de mando: Plan que especifica quien depende de quien.
+		- Jerarquia: Patron de diversos niveles de la estructura de la organizacion.
+	4. Coordinacion: Permite integrar las actvidades de distintas areas funcionales a fin de lograr las metas de la organizacion.
+
+Organigrama --> Representacion grafica en la cual se muestra las agrupaciones de las estructuras organizacionales.
+
+**Tipos de estructura:**
+1. Lineal
+2. Funcional: Las personas se dedican a una actividad funcional especifica y se agrupan en unidades funcionales; Finanzas, Operaciones, Sistemas, Etc.
+3. Por producto/mercado: Consta en organizar la empresa en diferentes divisiones que abarquen las funciones de personas relacionadas con las tareas de un determinado producto, mercado, cliente, etc.
+4. Matricial
 
 
-
+Organizacion y metodos --> Se ocupa de analizar los problemas de estructura y procedimientos de una empresa a fin de optimizar la infraestructura administrativa para el logro de los objetivos definidos.
 
 
 
