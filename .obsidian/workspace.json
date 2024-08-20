@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b178fd2b17d1f03c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primer Año/SIstemas y Metodos/Clase 20-08-24 (Introduccion a la Administracion).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f9fde82122c6da7c",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
