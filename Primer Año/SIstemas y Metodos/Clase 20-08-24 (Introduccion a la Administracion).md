@@ -96,6 +96,7 @@ Organigrama --> Representacion grafica en la cual se muestra las agrupaciones de
 
 
 Organizacion y metodos --> Se ocupa de analizar los problemas de estructura y procedimientos de una empresa a fin de optimizar la infraestructura administrativa para el logro de los objetivos definidos.
+-- -
 
 
 
