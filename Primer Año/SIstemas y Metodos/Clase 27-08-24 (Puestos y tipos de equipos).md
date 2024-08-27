@@ -107,3 +107,4 @@ Para fomentar mayor satisfaccion laboral
 Dejobbing: Proceso de estructuracion de las organizaciones en torno a proyectos, no por puestos de trabajo. 
 
 Horarios Flexibles: Organizacion de funciones laborales en modo flexible. Requiere breindar entrenamiento a supervisores y gerentes para la coordinacion de equipos de trabajo.
+--- -
