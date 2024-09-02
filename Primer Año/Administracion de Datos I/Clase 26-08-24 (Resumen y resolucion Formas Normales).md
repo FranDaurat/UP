@@ -1,7 +1,7 @@
 -- -
 ## 0 Forma normal
 ### ¿En que consiste?
-Consiste en la estructura completa sin marcar claves primarias, ni foraneas ni nada (Es la estructura hecha sin ninguna modificacion)
+- Consiste en la estructura completa sin marcar claves primarias, ni foraneas ni nada (Es la estructura hecha sin ninguna modificacion)
 
 **Sucursal:**
 
@@ -18,20 +18,22 @@ Consiste en la estructura completa sin marcar claves primarias, ni foraneas ni n
 -- -
 ## 1ra Forma Normal
 ### ¿En que consiste?
-Consiste en eliminar estructuras repetitivas.
+- Consiste en eliminar estructuras repetitivas.
 
-Paso A) Copiar la estructura repetitiva:
-Paso B) Elegir clave primaria
-Paso C) Pasar la clave foranea
+1.  Paso A) Copiar la estructura repetitiva:
+2. Paso B) Elegir clave primaria
+3. Paso C) Pasar la clave foranea
 
-
+*Atributos primos* ---> Atributos que **SON** la clave primaria
+*Atributos **NO** Primos* ---> Atributos que **NO** son la clave primaria
 
 | *Nro_suc*     |
 | ------------- |
 | nombre_suc    |
 | cod_post_suc  |
 | localidad_suc |
-Es primera forma normal ya que no tiene grupos repetitivos.
+Es primera forma normal ya que no tiene grupos repetitivos y ya que todos los atributos no primos tienen un solo valor para la clave primaria.
+
 
 | *nro_suc*(FK)    |
 | ---------------- |
@@ -44,8 +46,9 @@ Es primera forma nomal porque no tiene estructuras repetitivas
 -- -
 ## 2da Formal normal
 ### ¿En que consiste?
-Consiste en eliminar dependencias parciales.
-(Analizar atributos que dependan de parte de la clave ---> Analizar entidades con CLAVE COMPUESTA) ---> Todos los atributos deben depender de la clave completa
+- Consiste en eliminar dependencias parciales.
+- (Analizar atributos que dependan de parte de la clave ---> Analizar entidades con CLAVE COMPUESTA) ---> Todos los atributos deben depender de la clave completa
+- Se eliminan dependencias **PARCIALES** de la **clave primaria**. 
 
 | *Nro_suc*     |
 | ------------- |
