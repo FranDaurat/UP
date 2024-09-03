@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Clase 2-9-2024 (Practica).md",
+                "file": "Primer Año/SIstemas y Metodos/Clase 27-08-24 (Puestos y tipos de equipos).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0666410f73707aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Año/SIstemas y Metodos/Clase 03-09-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Clase 2-9-2024 (Practica).md",
+                "file": "Primer Año/SIstemas y Metodos/Clase 03-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Clase 2-9-2024 (Practica).md",
+                "file": "Primer Año/SIstemas y Metodos/Clase 03-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Clase 2-9-2024 (Practica).md"
+                "file": "Primer Año/SIstemas y Metodos/Clase 03-09-24.md"
               }
             }
           }
@@ -172,23 +184,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "82c8d1d4a316a47f",
+  "active": "0666410f73707aba",
   "lastOpenFiles": [
-    "Primer Año/Administracion de Datos I/Clase 26-08-24 (Resumen y resolucion Formas Normales).md",
-    "Primer Año/Administracion de Datos I/Clase 2-9-2024 (Practica).md",
-    "Primer Año/Administracion de Datos I/Clase 20-08-24 (Introduccion a la Administracion).md",
-    "Primer Año/Administracion de Datos I/Clase 26-08-24 (Tema nuevo y Practica).md",
     "Primer Año/SIstemas y Metodos/A tener en cuenta.md",
+    "Primer Año/SIstemas y Metodos/Clase 03-09-24.md",
+    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (GPT).md",
+    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (Introduccion a la Organizacion).md",
+    "Primer Año/SIstemas y Metodos/Clase 27-08-24 (Puestos y tipos de equipos).md",
+    "Primer Año/Administracion de Datos I/Clase 2-9-2024 (Practica).md",
+    "Primer Año/Administracion de Datos I/Clase 26-08-24 (Resumen y resolucion Formas Normales).md",
+    "Primer Año/Administracion de Datos I/Clase 05-08-24  (Introduccion).md",
+    "Primer Año/Administracion de Datos I/Clase 20-08-24 (Introduccion a la Administracion).md",
+    "Primer Año/Administracion de Datos I/Clase 19-08-24 (Practica).md",
+    "Primer Año/Administracion de Datos I/Clase 26-08-24 (Tema nuevo y Practica).md",
     "Primer Año/Seminario Comunicacion/Clase 21-08-24 (Introduccion).md",
     "Primer Año/Computacion Aplicada/Clase 23-08-24 (Introduccion).md",
     "Primer Año/Analisis Matematico II/A tener en cuenta.md",
-    "Primer Año/Administracion de Datos I/Clase 05-08-24  (Introduccion).md",
     "Primer Año/Seminario Comunicacion/Clase 28-08-24.md",
-    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (GPT).md",
     "Primer Año/Computacion Aplicada",
-    "Primer Año/SIstemas y Metodos/Clase 27-08-24 (Puestos y tipos de equipos).md",
-    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (Introduccion a la Organizacion).md",
-    "Primer Año/Administracion de Datos I/Clase 19-08-24 (Practica).md",
     "Primer Año/Seminario Comunicacion",
     "Primer Año/Analisis Matematico II/Clase 08-08-24.md",
     "Primer Año/SIstemas y Metodos",
