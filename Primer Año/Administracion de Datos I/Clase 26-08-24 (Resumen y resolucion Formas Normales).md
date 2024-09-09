@@ -1,4 +1,4 @@
--- -
+|-- -
 ## 0 Forma normal
 ### ¿En que consiste?
 - Consiste en la estructura completa sin marcar claves primarias, ni foraneas ni nada (Es la estructura hecha sin ninguna modificacion)
@@ -21,9 +21,9 @@
 - Consiste en eliminar estructuras repetitivas.
 
 1.  Paso A) Copiar la estructura repetitiva:
-2. Paso B) Elegir clave primaria
-3. Paso C) Pasar la clave foranea
-
+2.  Paso B) Elegir clave primaria
+3.  Paso C) Pasar la clave foranea
+4.  Paso D) Si la foranea tiene un solo valor queda igual (solo foranea). Pero si la foranea tuviera mas de 1 valor se convierte en atributo primo(le agrego el *).
 *Atributos primos* ---> Atributos que **SON** la clave primaria
 *Atributos **NO** Primos* ---> Atributos que **NO** son la clave primaria
 
