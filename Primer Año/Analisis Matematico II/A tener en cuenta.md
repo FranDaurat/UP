@@ -21,3 +21,25 @@ Ej recomendado por el profesor:
 ## Integral definida y calculo de areas
 **Lo considera tema importanta**
 
+- Preguntar si entran ejercicios bolitas como el 4 la guia 1 (previa a estudio completo)
+- Preguntar que tipos de discontinuidades/continuuidades que entran
+
+-- - 
+### Clase de repaso 1er Parcial
+
+![[Pasted image 20240919190913.png]]
+Revisar bien el Lhopital (asegurarse que sea una indeterminacion correctamente)
+
+--- 
+# Analisis Matematico II
+
+Como le gusta que ponga el dominio: 
+![[Pasted image 20241003185751.png]]
+
+Si no es ninguna de estas, el dominio es R^2
+![[Pasted image 20241003191705.png]]
+
+Hiperbola:
+![[Pasted image 20241003192830.png]]
+
+EN EL PARCIAL NO TOMA CURVA DE NIVEL PERO QUIZAS EN FINALES SI.
