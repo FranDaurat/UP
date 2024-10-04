@@ -8,3 +8,4 @@ Mail de la profesora --> mblanc1@palermo.edu
 *Primer recuperatorio 19/11*
 *Segundo recuperatorio 3/12* (Fuera de cursada)
 -- -
+Preguntar cuanto va a entrar sobre las teorias de la motivacion
