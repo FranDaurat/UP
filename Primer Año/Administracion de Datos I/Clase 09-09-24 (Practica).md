@@ -70,7 +70,7 @@ NombreMarca
 NombreSucursal
 TelefonoSuc
 
-Elijo NroSucursal como clave primaria ya que lo pide en las dependencias funcionales
+Elijo NroSucursal como clave primaria ya que lo pide en las dependencias funcionales y de esta manera consigo que los atributos no queden multievaluados.
 
 NroSucursal (FK)
 *CuilRepartidor*
@@ -104,6 +104,7 @@ NombreRepartidor
 ApellidoRepartidor
 CodLocalidadRepartidor
 NombreLocalidad
+
 
 *CodArticulo*
 DescArticulo
