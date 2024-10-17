@@ -4,35 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "ea9776727a1aae3a",
+        "id": "b8862066c1f3ecb3",
         "type": "tabs",
         "children": [
           {
-            "id": "fb2ad7f0aa6e5d85",
+            "id": "7aeeaaba3969d66f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Año/SIstemas y Metodos/Clase 03-09-24.md",
+                "file": "Primer Año/Administracion de Datos I/Clase 26-08-24 (Resumen y resolucion Formas Normales).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5e823e187de358aa",
+            "id": "a5056564e2d864fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Año/Analisis Matematico II/A tener en cuenta.md",
+                "file": "Primer Año/SIstemas y Metodos/Clase 03-09-24 (La direccion).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b62a6db7249f93d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Año/SIstemas y Metodos/A tener en cuenta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7617161c44f7cb67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Año/Administracion de Datos I/Clase 23-09-2024 (Consultas).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28b99932baf54e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Año/Analisis Matematico II/A tener en cuenta.md",
+                "file": "Campus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Año/Analisis Matematico II/A tener en cuenta.md",
+                "file": "Campus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Año/Analisis Matematico II/A tener en cuenta.md"
+                "file": "Campus.md"
               }
             }
           }
@@ -160,53 +196,51 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5e823e187de358aa",
+  "active": "28b99932baf54e0a",
   "lastOpenFiles": [
-    "Pasted image 20241003195119.png",
-    "Campus.md",
-    "Primer Año/Analisis Matematico II/A tener en cuenta.md",
-    "Pasted image 20241003192830.png",
+    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241003192830.png",
+    "Primer Año/Administracion de Datos I/Clase 26-08-24 (Resumen y resolucion Formas Normales).md",
+    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241003195119.png",
+    "Primer Año/Administracion de Datos I/Clase 23-09-2024 (Consultas).md",
+    "Primer Año/SIstemas y Metodos/Parcial.md",
+    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (La organizacion).md",
+    "Primer Año/SIstemas y Metodos/Clase 03-09-24.md",
     "Primer Año/Analisis Matematico II/fotos/Pasted image 20241003192810.png",
+    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241003192629.png",
+    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241003191705.png",
+    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241003185751.png",
     "Primer Año/Analisis Matematico II/fotos/Pasted image 20240928135510.png",
     "Primer Año/Analisis Matematico II/fotos/Pasted image 20240919190913.png",
     "Primer Año/Analisis Matematico II/fotos/Pasted image 20240817201119.png",
-    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241003192629.png",
-    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241003191705.png",
     "Primer Año/Analisis Matematico II/fotos",
-    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241003185751.png",
-    "Primer Año/SIstemas y Metodos/Parcial.md",
-    "Primer Año/SIstemas y Metodos/Clase 03-09-24.md",
-    "Primer Año/SIstemas y Metodos/Clase 10-09-24 (La planificacion y el control).md",
-    "Primer Año/Seminario Comunicacion/Clase 21-08-24 (Introduccion).md",
-    "Primer Año/Computacion Aplicada/Clase 23-08-24 (Introduccion).md",
-    "Primer Año/SIstemas y Metodos/Clase 27-08-24 (Puestos y tipos de equipos).md",
-    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (La organizacion).md",
-    "Primer Año/SIstemas y Metodos/Clase 03-09-24 (La direccion).md",
-    "Primer Año/SIstemas y Metodos/A tener en cuenta.md",
-    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (Introduccion a la Organizacion).md",
-    "Primer Año/Administracion de Datos I/Clase 26-08-24 (Resumen y resolucion Formas Normales).md",
-    "Primer Año/Administracion de Datos I/Clase 02-09-2024 (Practica).md",
-    "Primer Año/Administracion de Datos I/Clase 2-9-2024 (Practica).md",
-    "Primer Año/Administracion de Datos I/Clase 09-09-24 (Practica).md",
-    "Primer Año/Administracion de Datos I/Clase 12-08-24 (Practica).md",
-    "Primer Año/Administracion de Datos I/Clase 19-08-24 (Practica).md",
-    "Primer Año/SIstemas y Metodos/Imagenes/Pasted image 20240910105415.png",
-    "Primer Año/SIstemas y Metodos/Imagenes/Pasted image 20240910104559.png",
-    "Primer Año\\SIstemas y Metodos\\Imagenes",
-    "Primer Año\\SIstemas y Metodos",
-    "Primer Año\\Analisis Matematico II",
-    "Primer Año\\Administracion de Datos I",
-    "Primer Año/Seminario Comunicacion/Clase 28-08-24.md",
-    "Primer Año\\Seminario Comunicacion",
-    "Primer Año/SIstemas y Metodos/Imagenes",
-    "Primer Año/Administracion de Datos I/Clase 05-08-24  (Introduccion).md",
-    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (Introduccion a la Administracion).md",
-    "Primer Año/Seminario Comunicacion",
-    "Primer Año/Computacion Aplicada",
+    "Campus.md",
     "Primer Año/Administracion de Datos I/Clase 20-08-24 (Introduccion a la Administracion).md",
+    "Primer Año/Administracion de Datos I/Clase 19-08-24 (Practica).md",
+    "Primer Año/Administracion de Datos I/Clase 30-09-2024 (Practica).md",
+    "Primer Año/SIstemas y Metodos/A tener en cuenta.md",
+    "Primer Año/SIstemas y Metodos/Clase 10-09-24 (La planificacion y el control).md",
+    "Primer Año/SIstemas y Metodos/Imagenes/Pasted image 20240917084046.png",
+    "Primer Año/SIstemas y Metodos/Clase 03-09-24 (La direccion).md",
+    "Primer Año/Administracion de Datos I/Clase 09-09-24 (Practica).md",
+    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (Introduccion a la Organizacion).md",
+    "Primer Año/SIstemas y Metodos/Clase 27-08-24 (Puestos y tipos de equipos).md",
+    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (GPT).md",
+    "Primer Año/Administracion de Datos I/Clase 05-08-24  (Introduccion).md",
+    "Primer Año/Administracion de Datos I/Clase 02-09-2024 (Practica).md",
+    "Primer Año/Administracion de Datos I/Clase 12-08-24 (Practica).md",
+    "Primer Año/Analisis Matematico II/A tener en cuenta.md",
+    "Primer Año/Seminario Comunicacion/Clase 21-08-24 (Introduccion).md",
+    "Primer Año/Seminario Comunicacion/Clase 28-08-24.md",
+    "Primer Año/Computacion Aplicada/Clase 23-08-24 (Introduccion).md",
+    "Primer Año/SIstemas y Metodos/Imagenes",
+    "Primer Año/Administracion de Datos I/Clase 26-08-24 (Tema nuevo y Practica).md",
+    "Primer Año/Computacion Aplicada",
+    "Primer Año/Seminario Comunicacion",
     "Primer Año/Analisis Matematico II/Clase 08-08-24.md",
     "Primer Año/SIstemas y Metodos",
-    "Primer Año/Administracion de Datos I/Clase 05-08-2024 ; Introduccion.md",
-    "Primer Año/Administracion de Datos I/Testeando 2.md"
+    "Primer Año/Administracion de Datos I/Untitled",
+    "Primer Año/Analisis Matematico II",
+    "Primer Año/Administracion de Datos I",
+    "Primer Año"
   ]
 }
