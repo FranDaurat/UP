@@ -16,7 +16,7 @@ Recuperatorio fuera de fecha de cursada --> 28/11
 5) Intersecciones con ejes
 6) Gráfico
 Ej recomendado por el profesor:
-![[Pasted image 20240817201119.png]]
+![[Pasted image 20240817201119 1.png]]
 -- - 
 ## Integral definida y calculo de areas
 **Lo considera tema importanta**
@@ -43,3 +43,6 @@ Hiperbola:
 ![[Pasted image 20241003192830.png]]
 
 EN EL PARCIAL NO TOMA CURVA DE NIVEL PERO QUIZAS EN FINALES SI.
+
+-- -
+![[Pasted image 20241024190217.png]]
