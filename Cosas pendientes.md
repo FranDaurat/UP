@@ -8,13 +8,14 @@
 
 Labs/Paths de portswigger para hacer
 - [ ] XXE
-- [x] SSRF (devuelta)
-- [x] PATH traversal (devuelta)
-- [x] Access control (devuelta)
+- [ ] SSRF 
+- [ ] PATH traversal
+- [ ] Access control 
+- [ ] 
 - [x] Authentication
 - [x] Information Disclosure (devuelta)
 - [x] Business Logic 
-- [x] HTTP host header attacks
+- [ ] HTTP host header attacks
 - [x] File upload
 - [x] Essential skills
 - [x] API Testing (Devuelta)
