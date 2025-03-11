@@ -8,35 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21d9fdd74ca8df55",
+            "id": "09dda3af277778ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosas pendientes.md",
+                "file": "Segundo año/Probabilidad y Estadistica/Clase 1 -- 10-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosas pendientes"
+              "title": "Clase 1 -- 10-03-25"
             }
           },
           {
-            "id": "641290e3ff452dd9",
+            "id": "19b4c9f5229a0805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosas pendientes.md",
+                "file": "Segundo año/Probabilidad y Estadistica/Clase 1 -- 10-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosas pendientes"
+              "title": "Clase 1 -- 10-03-25"
+            }
+          },
+          {
+            "id": "3459a8a32272a8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A tener en cuenta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A tener en cuenta"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,24 +193,33 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "641290e3ff452dd9",
+  "active": "3459a8a32272a8fa",
   "lastOpenFiles": [
+    "Pasted image 20250310191045.png",
+    "Segundo año/Probabilidad y Estadistica/Clase 1 -- 10-03-25.md",
+    "A tener en cuenta.md",
+    "Segundo año/Fundamentos de Ciberseguridad",
+    "Segundo año/Probabilidad y Estadistica/a tener en cuenta.md",
+    "Segundo año/Probabilidad y Estadistica/📊 Clasificación de Variables Aleatorias.md",
+    "Cosas pendientes.md",
+    "Pasted image 20250310090004.png",
+    "Segundo año/Probabilidad y Estadistica/Fotos/Pasted image 20250310081258.png",
+    "Segundo año/Probabilidad y Estadistica/Fotos",
+    "Primer Año/Computacion Aplicada/Clase 23-08-24 (Introduccion).md",
+    "Segundo año/Probabilidad y Estadistica",
+    "Segundo año",
+    "Pasted image 20241123170125.png",
     "Pasted image 20241120130735.png",
     "Pasted image 20241120130745.png",
     "Pasted image 20241123130043.png",
-    "Cosas pendientes.md",
     "Pasted image 20241120130806.png",
-    "Pasted image 20241123170125.png",
     "Primer Año/Administracion de Datos I/Clase 26-08-24 (Resumen y resolucion Formas Normales).md",
     "Campus.md",
     "Primer Año/Analisis Matematico II/Repaso 2do parcial.md",
     "Primer Año/Analisis Matematico II/A tener en cuenta.md",
-    "Primer Año/Computacion Aplicada/Clase 23-08-24 (Introduccion).md",
     "Primer Año/Analisis Matematico II/fotos/Pasted image 20241107195013.png",
     "Primer Año/Analisis Matematico II/fotos/Pasted image 20241107194923.png",
     "Primer Año/Analisis Matematico II/fotos/Pasted image 20241107192137.png",
-    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241107192338.png",
-    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241107194159.png",
     "Primer Año/Administracion de Datos I/Clase 12-08-24 (Practica).md",
     "Primer Año/SIstemas y Metodos/Clase 03-09-24.md",
     "Primer Año/Administracion de Datos I/Clase 05-08-24  (Introduccion).md",
@@ -217,14 +240,6 @@
     "Primer Año/Analisis Matematico II/fotos",
     "Primer Año/SIstemas y Metodos/Parcial.md",
     "Primer Año/SIstemas y Metodos/Clase 10-09-24 (La planificacion y el control).md",
-    "Primer Año/Seminario Comunicacion/Clase 21-08-24 (Introduccion).md",
-    "Primer Año/SIstemas y Metodos/Clase 27-08-24 (Puestos y tipos de equipos).md",
-    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (La organizacion).md",
-    "Primer Año/SIstemas y Metodos/Clase 03-09-24 (La direccion).md",
-    "Primer Año/Administracion de Datos I/Clase 2-9-2024 (Practica).md",
-    "Primer Año\\Seminario Comunicacion",
-    "Primer Año/SIstemas y Metodos/Imagenes",
-    "Primer Año/Seminario Comunicacion",
-    "Primer Año/Computacion Aplicada"
+    "Primer Año/Seminario Comunicacion/Clase 21-08-24 (Introduccion).md"
   ]
 }
