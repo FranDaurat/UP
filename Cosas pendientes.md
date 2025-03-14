@@ -11,7 +11,6 @@ Labs/Paths de portswigger para hacer
 - [ ] SSRF 
 - [ ] PATH traversal
 - [ ] Access control 
-- [ ] 
 - [x] Authentication
 - [x] Information Disclosure (devuelta)
 - [x] Business Logic 
