@@ -276,4 +276,68 @@ En 1970, **Winston Royce** definió flujos de retorno sobre el modelo secuencial
 ### El Manifiesto Ágil (2001):
 - En **2001**, varios críticos de los modelos tradicionales se reunieron para proponer mejoras en los procesos de desarrollo.
 - De esa reunión surgió el **Manifiesto Ágil**, que marcó un cambio importante en la forma de desarrollar software.
----
+
+![[Pasted image 20250314105551.png]]
+- El cliente y el equipo de desarrollo describen los escenarios para comprender las necesidades.
+- Definen las historias de usuario a implementar en la entrega.
+- Las historias se dividen en tareas.
+- Se planifica la entrega.
+- Se desarrolla el software.
+- Se realizan pruebas.
+- Se entrega el software al cliente.
+- El cliente evalúa la entrega.
+- Se repite el proceso seleccionando nuevas historias de usuario para la siguiente entrega.
+-- -
+## Scrum
+
+- **Proceso ágil** que busca agregar valor al negocio en el menor tiempo posible.
+- Favorece el **desarrollo iterativo e incremental**, mejorando proyectos y productos.
+- Avanza mediante **ciclos de trabajo denominados sprints** (duración: 1 a 4 semanas).
+- Cada sprint trabaja con una **lista priorizada de requisitos (pila de producto)**.
+- El equipo se compromete a completar lo planificado en el sprint.
+- Enfocado en la **gestión**, no en la "ingeniería".
+
+### Roles en Scrum:
+
+- **Product Owner (Dueño del Producto)**:
+  - Administra el Product Backlog.
+  - Define prioridades de las funcionalidades.
+  - Asegura que el equipo agregue valor a la compañía.
+  - Sus decisiones deben ser respetadas.
+
+- **Equipo**:
+  - Construye el producto mediante sprints.
+  - Multidisciplinario (analistas, programadores, diseñadores, testers).
+  - Autoorganizado (sin líder o jefe formal).
+  - Compuesto idealmente por 7 personas, ± 2.
+
+- **Scrum Master**:
+  - Guía al equipo y la organización en Scrum.
+  - No es jefe, sino facilitador del proceso.
+  - Remueve impedimentos y promueve productividad y calidad.
+  - **No puede ser la misma persona que el Product Owner**.
+
+## Combinación de paradigmas y selección de modelo de ciclo de vida
+
+- **No existe un único modelo mejor**: depende de las circunstancias y características del proyecto.
+- Es posible **combinar modelos** según necesidad (ej.: espiral + cascada para desarrollo).
+- Al iniciar un proyecto, quien lo dirige debe:
+  - Analizar las circunstancias ambientales.
+  - Diseñar el modelo específico de ciclo de vida.
+  - Definir actividades sobre ese modelo.
+  - Planificar la gestión del ciclo de vida del proyecto.
+
+### Aspectos a considerar para elegir un modelo:
+
+- Descomposición del sistema en subsistemas con entregas diferenciadas.
+- Estabilidad esperada de los requisitos.
+- Novedad de los procesos gestionados por el sistema en el entorno del cliente.
+- Criticidad de agendas y presupuestos.
+- Complejidad de la interfaz de operación y usabilidad.
+- Conocimiento del entorno, componentes y herramientas disponibles.
+- Riesgos del proyecto.
+- Visibilidad del avance para el cliente.
+
+> ⚠️ **Una mala elección del modelo de ciclo de vida puede llevar al fracaso del proyecto.**
+
+- --
