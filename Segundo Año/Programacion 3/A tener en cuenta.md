@@ -1,0 +1,3 @@
+-- -
+- Oracle jdk ---> lo que usamos
+- el primer parcial es a principio de mayo 

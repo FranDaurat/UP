@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d4d782ec890631d0",
+        "id": "3b212f4f56a68db0",
         "type": "tabs",
         "children": [
           {
-            "id": "a6c8d30a25fe81ee",
+            "id": "c34b797ff35dd455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando.md",
+                "file": "Segundo Año/Fundamentos CIberseguridad/A tener en cuenta.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "A tener en cuenta"
+            }
+          },
+          {
+            "id": "09bc4d3af72e2b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Año/Programacion 3/A tener en cuenta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A tener en cuenta"
+            }
+          },
+          {
+            "id": "cdbb356615165d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Año/Programacion 3/Clase 11-03-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 11-03-25"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -38,8 +69,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +88,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando.md",
+                "file": "Primer Año/Administracion de Datos I/Clase 05-08-24  (Introduccion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Clase 05-08-24  (Introduccion)"
             }
           },
           {
@@ -102,10 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando.md",
+                "file": "Primer Año/Administracion de Datos I/Clase 05-08-24  (Introduccion).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Clase 05-08-24  (Introduccion)"
             }
           },
           {
@@ -116,7 +158,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Año/Administracion de Datos I/Testeando.md"
-              }
+                "file": "Primer Año/Administracion de Datos I/Clase 05-08-24  (Introduccion).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Clase 05-08-24  (Introduccion)"
             }
           }
         ]
@@ -147,10 +193,53 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a6c8d30a25fe81ee",
+  "active": "cdbb356615165d41",
   "lastOpenFiles": [
-    "Primer Año/Administracion de Datos I/Testeando.md",
-    "Primer Año/Administracion de Datos I",
-    "Primer Año"
+    "Campus.md",
+    "Segundo Año/Programacion 3/A tener en cuenta.md",
+    "Segundo Año/Programacion 3/Clase 11-03-25.md",
+    "Segundo Año/Fundamentos CIberseguridad/A tener en cuenta.md",
+    "Segundo Año/Programacion 3",
+    "Cosas pendientes.md",
+    "Pasted image 20241120130735.png",
+    "Pasted image 20241123170125.png",
+    "Pasted image 20241123130043.png",
+    "Segundo Año/Fundamentos CIberseguridad/fotos/Pasted image 20250310191045.png",
+    "Segundo Año/Fundamentos CIberseguridad/fotos",
+    "Segundo Año/Fundamentos CIberseguridad",
+    "Pasted image 20241120130745.png",
+    "Segundo Año/Probabilidad y Estadistica/📊 Clasificación de Variables Aleatorias.md",
+    "Segundo Año/Probabilidad y Estadistica/a tener en cuenta.md",
+    "Segundo año/Probabilidad y Estadistica/📊 Clasificación de Variables Aleatorias.md",
+    "Segundo año/Probabilidad y Estadistica/a tener en cuenta.md",
+    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250310081258.png",
+    "Segundo año/Probabilidad y Estadistica/Fotos/Pasted image 20250310081258.png",
+    "Segundo Año/Probabilidad y Estadistica/Fotos",
+    "Segundo Año/Probabilidad y Estadistica/Clase 1 -- 10-03-25.md",
+    "Segundo Año/Probabilidad y Estadistica",
+    "Segundo año/Probabilidad y Estadistica/Fotos",
+    "Segundo año/Probabilidad y Estadistica/Clase 1 -- 10-03-25.md",
+    "Segundo año/Probabilidad y Estadistica",
+    "Pasted image 20250310090004.png",
+    "Segundo Año",
+    "Pasted image 20241120130806.png",
+    "Primer Año/Administracion de Datos I/Clase 05-08-24  (Introduccion).md",
+    "Primer Año/Analisis Matematico II/fotos/Pasted image 20241107195013.png",
+    "Primer Año/Analisis Matematico II/Repaso 2do parcial.md",
+    "Primer Año/Administracion de Datos I/Clase 26-08-24 (Resumen y resolucion Formas Normales).md",
+    "Primer Año/SIstemas y Metodos/Clase 03-09-24 (La direccion).md",
+    "Primer Año/SIstemas y Metodos/A tener en cuenta.md",
+    "Primer Año/Administracion de Datos I/Clase 23-09-2024 (Consultas).md",
+    "Primer Año/Administracion de Datos I/Clase 20-08-24 (Introduccion a la Administracion).md",
+    "Primer Año/Administracion de Datos I/Clase 30-09-2024 (Practica).md",
+    "Primer Año/Administracion de Datos I/Clase 02-09-2024 (Practica).md",
+    "Primer Año/SIstemas y Metodos/Parcial.md",
+    "Primer Año/SIstemas y Metodos/Clase 20-08-24 (La organizacion).md",
+    "Primer Año/SIstemas y Metodos/Clase 03-09-24.md",
+    "Primer Año/Analisis Matematico II/fotos",
+    "Primer Año/Administracion de Datos I/Clase 19-08-24 (Practica).md",
+    "Primer Año/SIstemas y Metodos/Clase 10-09-24 (La planificacion y el control).md",
+    "Primer Año/Administracion de Datos I/Clase 09-09-24 (Practica).md",
+    "Primer Año/SIstemas y Metodos/Imagenes"
   ]
 }
