@@ -1,7 +1,5 @@
 {
-  "pluginList": [
-    "oscarspalk/obsidian-git-sync"
-  ],
+  "pluginList": [],
   "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": true,
