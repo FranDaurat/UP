@@ -9,7 +9,7 @@
 - Metodos que implican la recopilacion, presentacion y caracterizacion de un conjunto de datos. 
 - Su fin es describir de manera apropiada las diversas caracteristicas del conjunto.
 ### Estadistica inferencial
-- Proporciona metodos que hacen posible la estimacion de una caracterisita/poblacion.
+- Proporciona metodos que hacen posible la estimacion de una caracteristica/poblacion.
 - La **poblacion** seria el *conjunto* total de elementos sujetos a investigacion mientras que la **muestra** es un *subconjunto* de la pobliacion.
 
 ## Tipos de muestreo
@@ -20,7 +20,7 @@
 ### No probabilisticos
 - No se puede calcular con que nivel de confianza hacemos la estimacion.
 - Pueden ser de tipo accidental, de sujetos voluntarios, de expertos, etc.
-![[Pasted image 20250310090004.png]]
+
 ## ✅ ¿Cómo se tabula?
 
 - Los datos se pueden **analizar agrupados o sin agrupar**.
