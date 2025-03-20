@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Año/Programacion 3/A tener en cuenta.md",
+                "file": "Segundo Año/Programacion 3/Clase 18-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A tener en cuenta"
+              "title": "Clase 18-03-25"
             }
           }
         ],
@@ -204,12 +204,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "63cf7c64889b0840",
+  "active": "2ff2473fa8c4ca41",
   "lastOpenFiles": [
+    "Segundo Año/Introduccion a las comunicacion",
+    "Segundo Año/Programacion 3/A tener en cuenta.md",
     "Segundo Año/Ingenieria de Software/Clase 14-03-25 (Ciclo de vida del software).md",
     "Segundo Año/Probabilidad y Estadistica/Clase 24-03-25 (Calculo de probabilidades).md",
     "Segundo Año/Probabilidad y Estadistica/Clase 17-03-25 (Medidas Estadisticas).md",
@@ -234,8 +235,7 @@
     "Segundo Año/Ingenieria de Software/Clase 07-03-25.md",
     "Segundo Año/Probabilidad y Estadistica/Practica.md",
     "Segundo Año/Ingenieria de Software",
-    "Segundo Año/Programacion 3/Clase 11-03-25.md",
-    "Segundo Año/Programacion 3/A tener en cuenta.md",
+    "Segundo Año/Programacion 3/Clase 18-03-25.md",
     "Segundo Año/Programacion 3",
     "Segundo Año/Fundamentos CIberseguridad/fotos",
     "Segundo Año/Fundamentos CIberseguridad",
@@ -254,7 +254,6 @@
     "Primer Año/Analisis Matematico II/Repaso 2do parcial.md",
     "Primer Año/Administracion de Datos I/Clase 26-08-24 (Resumen y resolucion Formas Normales).md",
     "Primer Año/SIstemas y Metodos/Clase 03-09-24 (La direccion).md",
-    "Primer Año/SIstemas y Metodos/A tener en cuenta.md",
-    "Primer Año/Administracion de Datos I/Clase 23-09-2024 (Consultas).md"
+    "Primer Año/SIstemas y Metodos/A tener en cuenta.md"
   ]
 }
