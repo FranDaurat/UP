@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Año/Probabilidad y Estadistica/Clase 24-03-25 (Calculo de probabilidades).md",
+                "file": "Segundo Año/Probabilidad y Estadistica/Clase 17-03-25 (Medidas Estadisticas).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 24-03-25 (Calculo de probabilidades)"
+              "title": "Clase 17-03-25 (Medidas Estadisticas)"
             }
           }
         ],
@@ -195,9 +195,11 @@
   },
   "active": "d73b03073d21f5df",
   "lastOpenFiles": [
+    "Segundo Año/Probabilidad y Estadistica/Clase 24-03-25 (Calculo de probabilidades).md",
+    "Segundo Año/Programacion 3/Clase 11-03-25.md",
+    "Untitled.md",
     "Segundo Año/Probabilidad y Estadistica/Clase 17-03-25 (Medidas Estadisticas).md",
     "Segundo Año/Probabilidad y Estadistica/Clase  10-03-25 (Estadistica Descriptiva).md",
-    "Segundo Año/Probabilidad y Estadistica/Clase 24-03-25 (Calculo de probabilidades).md",
     "Segundo Año/Probabilidad y Estadistica/📊 Clasificación de Variables Aleatorias.md",
     "Segundo Año/Probabilidad y Estadistica/a tener en cuenta.md",
     "Segundo Año/Probabilidad y Estadistica/Practica.md",
@@ -220,7 +222,6 @@
     "Segundo Año/Ingenieria de Software/fotos",
     "Segundo Año/Ingenieria de Software/fotos/Pasted image 20250314082131.png",
     "Segundo Año/Ingenieria de Software",
-    "Segundo Año/Programacion 3/Clase 11-03-25.md",
     "Segundo Año/Programacion 3/A tener en cuenta.md",
     "Segundo Año/Programacion 3",
     "Segundo Año/Fundamentos CIberseguridad/fotos",
@@ -239,7 +240,6 @@
     "Primer Año/SIstemas y Metodos/Clase 03-09-24 (La direccion).md",
     "Primer Año/SIstemas y Metodos/A tener en cuenta.md",
     "Primer Año/Administracion de Datos I/Clase 23-09-2024 (Consultas).md",
-    "Primer Año/Administracion de Datos I/Clase 20-08-24 (Introduccion a la Administracion).md",
-    "Primer Año/Administracion de Datos I/Clase 30-09-2024 (Practica).md"
+    "Primer Año/Administracion de Datos I/Clase 20-08-24 (Introduccion a la Administracion).md"
   ]
 }
