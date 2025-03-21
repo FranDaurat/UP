@@ -99,7 +99,7 @@ Cuando hay **muchos datos**, es necesario definir una **medida precisa de disper
 
 ### ✅ Intento inicial: **Desvíos respecto a la media**
 
-- **Desvío**: Diferencia entre cada dato y el promedio: x−xˉx - \bar{x}x−xˉ.
+- **Desvío**: Diferencia entre cada dato y el promedio: $x−xˉx - \bar{x}x−xˉ.$
 - **Problema**: Si sumamos los desvíos, siempre da **cero**, ya que el promedio es un punto de equilibrio.
 
 **Ejemplo:**
