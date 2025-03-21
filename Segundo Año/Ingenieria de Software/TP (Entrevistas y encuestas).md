@@ -5,10 +5,10 @@
 
 - El sistema debe permitir registrar y gestionar los pedidos realizados por los clientes, ya sea de productos disponibles o a medida.
 
+**Empleado 1 (Vendedor, Pedro)** (02.03)
 #### **Entrevistas**
 
 **Cerradas:**
-
 1. ¿Utilizás actualmente alguna herramienta para registrar los pedidos?
     
     - [ ]  Sí
@@ -24,7 +24,6 @@
 4. ¿Qué características agregarías para facilitar la gestión de pedidos?
 
 #### **Encuestas**
-
 **Cerradas:**
 
 1. ¿Te gustaría que el sistema tenga plantillas de pedidos personalizables?
@@ -49,6 +48,7 @@
 
 - El sistema debe permitir llevar un registro actualizado del inventario de productos de la ferretería.
 
+**Empleado 2 (Encargado de deposito, Julio)** (03.04)  
 #### **Entrevistas**
 
 **Cerradas:**
@@ -92,6 +92,7 @@
 
 - En caso de faltante de productos, el sistema debe permitir generar órdenes de compra al área de compras.
 
+**Empleado 3 (Jefe de compras, Carlos)** (04. 05)
 #### **Entrevistas**
 
 **Cerradas:**
@@ -135,6 +136,7 @@
 
 - El sistema debe permitir registrar los productos recibidos, verificando su correspondencia con las órdenes emitidas.
 
+**Empleado 4 (Deposito, Julieta)** (05.06)
 #### **Entrevistas**
 
 **Cerradas:**
@@ -179,6 +181,7 @@
 
 - El sistema debe gestionar la fecha y modalidad de entrega de los pedidos, considerando la opción de entrega a domicilio o retiro en tienda.
 
+**Empleado 5 (Supervisor de entregas, Rigoberto)** (06.07)
 #### **Entrevistas**
 
 **Cerradas:**
@@ -214,3 +217,6 @@
 **Abiertas:**  
 3. ¿Qué tipo de entregas resultan más complicadas de gestionar?  
 4. ¿Qué información considerás fundamental al coordinar una entrega?
+--- 
+## Entrevistas hechas
+
