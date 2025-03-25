@@ -218,5 +218,5 @@
 3. ¿Qué tipo de entregas resultan más complicadas de gestionar?  
 4. ¿Qué información considerás fundamental al coordinar una entrega?
 --- 
-## Entrevistas hechas
+
 
