@@ -78,6 +78,11 @@ Donde $E$ es el espacio muestral (todo lo posible).
 $$
 P(A \cup B) = P(A) + P(B)
 $$
+4. **Adición para sucesos no excluyentes (fórmula de la unión)**:  
+    Si $A$ y $B$ **no son mutuamente excluyentes** (es decir, pueden ocurrir al mismo tiempo), entonces:
+$$P(A∪B)=P(A)+P(B)−P(A∩B)$$ 
+
+Esta fórmula evita contar dos veces los casos que pertenecen a la **intersección** de ambos eventos.
 ### ⚠️ **Consecuencias de los axiomas:**
 
 - De los axiomas (1) y (2):
