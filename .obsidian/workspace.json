@@ -8,91 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c34b797ff35dd455",
+            "id": "a5d8d8399ee3f5f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Año/Fundamentos CIberseguridad/A tener en cuenta.md",
+                "file": "Segundo Año/Ingenieria de Software/TP (Entrevistas y encuestas).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A tener en cuenta"
+              "title": "TP (Entrevistas y encuestas)"
             }
           },
           {
-            "id": "09bc4d3af72e2b88",
+            "id": "42e2c7b9cd6c17c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Año/Probabilidad y Estadistica/Practica.md",
+                "file": "Segundo Año/Ingenieria de Software/Respuestas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practica"
-            }
-          },
-          {
-            "id": "758695db6819120e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Ingenieria de Software/Clase 14-03-25 (Ciclo de vida del software).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 14-03-25 (Ciclo de vida del software)"
-            }
-          },
-          {
-            "id": "63cf7c64889b0840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Introduccion a las comunicacion/Clase 20-03-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 20-03-25"
-            }
-          },
-          {
-            "id": "139f20e7dfffb4e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Ingenieria de Software/Clase 21-03-25 (Extraccion de requerimentos).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 21-03-25 (Extraccion de requerimentos)"
-            }
-          },
-          {
-            "id": "f54f07fc6b6ba4f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Programacion 3/Clase 25-03-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 25-03-25"
+              "title": "Respuestas"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,17 +179,22 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f54f07fc6b6ba4f0",
+  "active": "42e2c7b9cd6c17c5",
   "lastOpenFiles": [
+    "Segundo Año/Ingenieria de Software/TP (Entrevistas y encuestas).md",
+    "Segundo Año/Ingenieria de Software/Clase 28-03-25 (Modelado de proceso de negocio).md",
+    "Segundo Año/Ingenieria de Software/Respuestas.md",
+    "Segundo Año/Ingenieria de Software/fotos/Pasted image 20250328085937.png",
+    "Segundo Año/Ingenieria de Software/fotos/Pasted image 20250328085915.png",
+    "Segundo Año/Ingenieria de Software/fotos/Pasted image 20250328085744.png",
+    "Segundo Año/Ingenieria de Software/Clase 14-03-25 (Ciclo de vida del software).md",
     "Segundo Año/Ingenieria de Software/Clase 07-03-25 (Introduccion a la Ingenieria de Sofware).md",
+    "Segundo Año/Programacion 3/Clase 25-03-25.md",
     "Segundo Año/Ingenieria de Software/A tener en cuenta.md",
     "Segundo Año/Introduccion a las comunicaciones/Clase 20-03-25.md",
-    "Segundo Año/Ingenieria de Software/TP (Entrevistas y encuestas).md",
     "Segundo Año/Ingenieria de Software/Clase 21-03-25 (Extraccion de requerimentos).md",
-    "Segundo Año/Ingenieria de Software/Clase 14-03-25 (Ciclo de vida del software).md",
     "Untitled 1.md",
     "Segundo Año/Probabilidad y Estadistica/Clase  10-03-25 (Estadistica Descriptiva).md",
-    "Segundo Año/Programacion 3/Clase 25-03-25.md",
     "Segundo Año/Introduccion a las comunicaciones",
     "Segundo Año/Programacion 3/A tener en cuenta.md",
     "Segundo Año/Probabilidad y Estadistica/Clase 24-03-25 (Calculo de probabilidades).md",
@@ -262,9 +211,6 @@
     "Segundo Año/Ingenieria de Software/fotos/Pasted image 20250314093125.png",
     "Segundo Año/Fundamentos CIberseguridad/A tener en cuenta.md",
     "Segundo Año/Fundamentos CIberseguridad/A tener en cuenta 1.md",
-    "Segundo Año/Ingenieria de Software/fotos/Pasted image 20250314091819.png",
-    "Segundo Año/Ingenieria de Software/fotos/Pasted image 20250314084653.png",
-    "Segundo Año/Ingenieria de Software/fotos/Pasted image 20250314084716.png",
     "Segundo Año/Ingenieria de Software/fotos",
     "Segundo Año/Ingenieria de Software/Clase 07-03-25.md",
     "Segundo Año/Probabilidad y Estadistica/Practica.md",
@@ -280,8 +226,6 @@
     "Segundo Año/Probabilidad y Estadistica/Clase 1 -- 10-03-25.md",
     "Segundo Año/Probabilidad y Estadistica",
     "Segundo año/Probabilidad y Estadistica/Fotos",
-    "Segundo año/Probabilidad y Estadistica/Clase 1 -- 10-03-25.md",
-    "Segundo año/Probabilidad y Estadistica",
-    "Primer Año/Administracion de Datos I/Clase 05-08-24  (Introduccion).md"
+    "Segundo año/Probabilidad y Estadistica"
   ]
 }
