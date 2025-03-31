@@ -132,7 +132,7 @@ En 1970, **Winston Royce** definió flujos de retorno sobre el modelo secuencial
   - Enfoque **incremental** (si cada vuelta desarrolla solo una parte del sistema).
   - Enfoque **espiral** propiamente dicho (si cada vuelta añade una mejora con análisis de riesgos previo).
 
-### Reflexión:
+### Conclusion:
 - Aunque pueda parecer similar a otros modelos (como cascada o incremental), **la diferencia clave es la incorporación sistemática del análisis de riesgos**.
 - La manera en que se planifiquen y ejecuten las fases determina si es realmente un **modelo en espiral** o no.
 
@@ -243,6 +243,8 @@ En 1970, **Winston Royce** definió flujos de retorno sobre el modelo secuencial
 ![[Pasted image 20250314093830.png]]
 **UML** (Lenguaje unificado de modelado)
 **OMG** (Object Managment Group)
+
+# Hasta aca
 --- -
 # Introducción a los modelos de ciclos de vida
 
