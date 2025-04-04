@@ -60,8 +60,6 @@ Ventajas :
     e. Un error en la especificación de requerimientos solo puede repercutir en el diseño del sistema.
     
 
-¡Muy bien, Fran! Te dejo una versión corregida, clara y bien redactada para que la puedas presentar tal como está o pegar en Obsidian si querés. Te hice leves correcciones de redacción, completé el punto 4 y mejoré un poco la estructura de los ítems.
-
 ---
 
 ### 1. **Explique al menos tres roles del ingeniero de software**
@@ -135,7 +133,7 @@ Brooks las llama “esenciales” porque son inevitables y **no hay una “bala 
 
 **Principios:**
 
-- **Rigor**: Aplicación meticulosa y disciplinada de métodos que aseguran la precisión del desarrollo.
+- Separacion de Responsabilidades: Permite tratar diferentes aspectos individuales de un problema, concentrandose en cada uno por separado..
     
 - **Modularidad**: División del sistema en partes independientes y manejables (módulos) para facilitar el mantenimiento.
     

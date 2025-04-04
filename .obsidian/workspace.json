@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Año/Probabilidad y Estadistica/Clase 24-03-25 (Calculo de probabilidades).md",
+                "file": "Segundo Año/Ingenieria de Software/Parciales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clase 24-03-25 (Calculo de probabilidades)"
+              "title": "Backlinks for Parciales"
             }
           },
           {
@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +194,15 @@
   },
   "active": "5c9e8bdee7b98a34",
   "lastOpenFiles": [
-    "Segundo Año/Probabilidad y Estadistica/Clase  10-03-25 (Estadistica Descriptiva).md",
-    "Segundo Año/Probabilidad y Estadistica/Clase 31-3-25 (Sucesos condicionas e Independientes).md",
-    "Segundo Año/Probabilidad y Estadistica/📊 Clasificación de Variables Aleatorias.md",
-    "Segundo Año/Probabilidad y Estadistica/a tener en cuenta.md",
     "Segundo Año/Probabilidad y Estadistica/Clase 24-03-25 (Calculo de probabilidades).md",
+    "Segundo Año/Probabilidad y Estadistica/Clase 31-3-25 (Sucesos condicionas e Independientes).md",
+    "Segundo Año/Probabilidad y Estadistica/Clase  10-03-25 (Estadistica Descriptiva).md",
     "Segundo Año/Probabilidad y Estadistica/Clase 17-03-25 (Medidas Estadisticas).md",
+    "Segundo Año/Probabilidad y Estadistica/a tener en cuenta.md",
     "Segundo Año/Probabilidad y Estadistica/Practica.md",
-    "Segundo Año/Ingenieria de Software/Respuestas.md",
     "Segundo Año/Ingenieria de Software/Parciales.md",
+    "Segundo Año/Probabilidad y Estadistica/📊 Clasificación de Variables Aleatorias.md",
+    "Segundo Año/Ingenieria de Software/Respuestas.md",
     "Segundo Año/Ingenieria de Software/Clase 28-03-25 (Modelado de proceso de negocio).md",
     "Segundo Año/Ingenieria de Software/Clase 21-03-25 (Extraccion de requerimentos).md",
     "Segundo Año/Ingenieria de Software/Clase 14-03-25 (Ciclo de vida del software).md",
