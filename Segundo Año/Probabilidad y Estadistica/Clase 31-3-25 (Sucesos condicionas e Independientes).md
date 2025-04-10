@@ -13,6 +13,18 @@ Se representa como:
 
 Dos sucesos son **independientes** cuando la ocurrencia de uno **no modifica** la probabilidad del otro.
 
+$$
+\text{A y B son independientes si:} \quad P(A \cap B) = P(A) \cdot P(B)
+$$
+$$
+\text{A y B son independientes si:} \quad P(A \mid B) = P(A)
+$$
+
+$$
+\text{o también:} \quad P(B \mid A) = P(B)
+$$
+
+
 ---
 ### 📐 Fórmulas de Probabilidad Condicional
 $$
@@ -54,5 +66,7 @@ $$
 
 
 ---
-## Distribucion de probabilidades de variables discretas
+## **Bayes**
+![[Pasted image 20250406102344.png]]
+
 
