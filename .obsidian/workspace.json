@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Año/Introduccion a las comunicaciones/Clase 04-04-25.md",
+                "file": "Segundo Año/Probabilidad y Estadistica/Clase 31-3-25 (Sucesos condicionas e Independientes).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 04-04-25"
+              "title": "Clase 31-3-25 (Sucesos condicionas e Independientes)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Año/Introduccion a las comunicaciones/Clase 04-04-25.md",
+                "file": "Segundo Año/Probabilidad y Estadistica/Clase 31-3-25 (Sucesos condicionas e Independientes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clase 04-04-25"
+              "title": "Backlinks for Clase 31-3-25 (Sucesos condicionas e Independientes)"
             }
           },
           {
@@ -165,18 +165,19 @@
   },
   "active": "c54354d67e1949b8",
   "lastOpenFiles": [
+    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250406102344.png",
+    "Segundo Año/Probabilidad y Estadistica/Practica.md",
+    "Segundo Año/Probabilidad y Estadistica/Clase 31-3-25 (Sucesos condicionas e Independientes).md",
+    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250406100146.png",
+    "Segundo Año/Introduccion a las comunicaciones/Clase 04-04-25.md",
     "Segundo Año/Probabilidad y Estadistica/Clase 17-03-25 (Medidas Estadisticas).md",
     "Segundo Año/Probabilidad y Estadistica/Clase 24-03-25 (Calculo de probabilidades).md",
     "Segundo Año/Probabilidad y Estadistica/Clase  10-03-25 (Estadistica Descriptiva).md",
     "Segundo Año/Probabilidad y Estadistica/Clase 07-04-25 (Distibucion Binominal).md",
-    "Segundo Año/Probabilidad y Estadistica/Clase 31-3-25 (Sucesos condicionas e Independientes).md",
-    "Pasted image 20250406102344.png",
-    "Pasted image 20250406100146.png",
     "Segundo Año/Ingenieria de Software/Clase 21-03-25 (Extraccion de requerimentos).md",
     "Segundo Año/Ingenieria de Software/Clase 28-03-25 (Modelado de proceso de negocio).md",
     "Segundo Año/Ingenieria de Software/Parciales.md",
     "Segundo Año/Probabilidad y Estadistica/a tener en cuenta.md",
-    "Segundo Año/Probabilidad y Estadistica/Practica.md",
     "Segundo Año/Probabilidad y Estadistica/📊 Clasificación de Variables Aleatorias.md",
     "Segundo Año/Ingenieria de Software/Respuestas.md",
     "Segundo Año/Ingenieria de Software/Clase 14-03-25 (Ciclo de vida del software).md",
@@ -191,7 +192,6 @@
     "Segundo Año/Ingenieria de Software/fotos/Pasted image 20250314084653.png",
     "Segundo Año/Programacion 3/A tener en cuenta.md",
     "Segundo Año/Programacion 3/Clase 25-03-25.md",
-    "Segundo Año/Introduccion a las comunicaciones/Clase 04-04-25.md",
     "Segundo Año/Introduccion a las comunicaciones",
     "Segundo Año/Introduccion a las comunicacion/Clase 20-03-25.md",
     "Segundo Año/Introduccion a las comunicacion",
@@ -202,7 +202,6 @@
     "Campus.md",
     "Cosas pendientes.md",
     "Segundo Año/Ingenieria de Software/A tener en cuenta.md",
-    "Segundo Año/Fundamentos CIberseguridad/A tener en cuenta 1.md",
     "Segundo Año/Ingenieria de Software/fotos",
     "Segundo Año/Ingenieria de Software",
     "Segundo Año/Programacion 3",
