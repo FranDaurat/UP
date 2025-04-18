@@ -46,10 +46,19 @@
 ## Distribucion Binomial 
 ![[Pasted image 20250410215514.png]]
 ![[Pasted image 20250410215519.png]]
-### Coeficiente de variacion en Distribucion Binominal
-**Preguntar**
+### Coeficiente de variacion en Distribucion Binomial
+![[Pasted image 20250411121709.png]]
+
 
 ## Distribucion de Poisson
 ![[Pasted image 20250410221305.png]]
 ![[Pasted image 20250410221344.png]]
+### Coeficiente de variacion en Distribucion de Poisson
+![[Pasted image 20250411121743.png]]
+
+## Propiedades de la media o esperanza matematica
+**![[Pasted image 20250417141948.png]]
+
+## Propiedades de la varianza
+![[Pasted image 20250417142016.png]]
 
