@@ -56,6 +56,8 @@
 ### Coeficiente de variacion en Distribucion de Poisson
 ![[Pasted image 20250411121743.png]]
 
+## Estandarizacion es distribucion normal
+![[Pasted image 20250418192006.png]]
 ## Propiedades de la media o esperanza matematica
 **![[Pasted image 20250417141948.png]]
 
