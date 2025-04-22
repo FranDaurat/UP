@@ -13,7 +13,7 @@
 ## Desvio estandar poblacional y muestral
 ![[Pasted image 20250410214634.png]]
 
-## Coeficiente de variacion
+## Representativa o No representativa
 ![[Pasted image 20250410214717.png]]
 
 ## Coeficiente de variacion poblacional
@@ -22,7 +22,7 @@
 ## Coeficiente de variacion muestral
 ![[Pasted image 20250410214831.png]]
 
-## Coeficiente de simetria
+## Coeficiente de Asimetria
 ![[Pasted image 20250410214914.png]]
 
 ## Laplace 
