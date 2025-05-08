@@ -36,6 +36,11 @@
 - **FAA**: Frecuencia Absoluta Acumulada (suma acumulada de FA).
 - **FRA**: Frecuencia Relativa Acumulada (suma acumulada de FR).
 
-
+|Sigla|Nombre|¿Qué significa?|
+|---|---|---|
+|FA|Frecuencia Absoluta|Cuántas veces aparece **exactamente ese valor**|
+|FR|Frecuencia Relativa|Proporción de veces que aparece el valor (FA / total de datos)|
+|FAA|Frecuencia Absoluta Acumulada|Suma progresiva de las FA hasta ese valor (cuántos ≤ ese valor)|
+|FRA|Frecuencia Relativa Acumulada|Suma progresiva de las FR (proporción acumulada de los que tienen ≤ ese valor)|
 
 Hacer hasta el ej 9 para la prox clase

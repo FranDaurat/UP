@@ -10,7 +10,6 @@
 ![[Pasted image 20250410214241.png]]
 ![[Pasted image 20250410214316.png]]
 
-## Desvio estandar poblacional y muestral
 ![[Pasted image 20250410214634.png]]
 
 ## Representativa o No representativa

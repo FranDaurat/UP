@@ -35,11 +35,11 @@
 
 ## ✅ Diferencia clave entre Intervalo y Razón:
 
-|Característica|Escala de Intervalos|Escala de Razón|
-|---|---|---|
-|Orden|✅|✅|
-|Distancia|✅|✅|
-|Cero absoluto|❌ (cero arbitrario)|✅ (cero real)|
+| Característica | Escala de Intervalos | Escala de Razón |
+| -------------- | -------------------- | --------------- |
+| Orden          | ✅                    | ✅               |
+| Distancia      | ✅                    | ✅               |
+| Cero absoluto  | ❌ (cero arbitrario)  | ✅ (cero real)   |
 
 ---
 
