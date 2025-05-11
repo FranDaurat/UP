@@ -1,5 +1,6 @@
 
 -- - 
+# Primer Parcial
 ## Media
 ![[Pasted image 20250410214147.png]]
 
@@ -62,4 +63,20 @@
 
 ## Propiedades de la varianza
 ![[Pasted image 20250417142016.png]]
+-- - 
+# Segundo Parcial
 
+## Inferencia
+
+### Estimadores
+![[Pasted image 20250508105722.png]]
+### Caso I 
+![[Pasted image 20250508105511.png]]
+![[Pasted image 20250508115832.png]]
+
+### Caso II 
+![[Pasted image 20250508115924.png]]
+![[Pasted image 20250508120647.png]] ![[Pasted image 20250508120656.png]]
+![[Pasted image 20250508121128.png]]
+### Error medio muestal
+![[Pasted image 20250508115640.png]]
