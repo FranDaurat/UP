@@ -71,12 +71,129 @@
 ### Estimadores
 ![[Pasted image 20250508105722.png]]
 ### Caso I 
-![[Pasted image 20250508105511.png]]
-![[Pasted image 20250508115832.png]]
+
+![[Pasted image 20250526154038.png]]
 
 ### Caso II 
-![[Pasted image 20250508115924.png]]
+
 ![[Pasted image 20250508120647.png]] ![[Pasted image 20250508120656.png]]
-![[Pasted image 20250508121128.png]]
+![[Pasted image 20250526154155.png]]
 ### Error medio muestal
 ![[Pasted image 20250508115640.png]]
+-- -
+# Test de hipotesis
+
+## Estadistico de prueba
+- Son los valores del dominio para los cuales se rechaza H0.
+- Si el estadistico de prueba cae en la zona de rechazo ---> se rechaza H0.
+- En caso contrario no se descarta H0.
+### Valor critico
+- Es el que divide la region de rechazo de la region de no rechazo.
+$$
+\bar{X}_c = \mu_0 + t_{1-\alpha, n-1} \cdot \frac{S}{\sqrt{n}}
+$$
+## 2 Tipos de errores
+
+### Error tipo I
+- Rechazar H0 cuando es verdadera. 
+$$
+\mathbb{P}(\text{cometer un error de tipo I}) = \mathbb{P}(\text{rechazar } H_0 \mid H_0 \text{ es verdadera}) = \alpha
+$$
+### Error tipo II
+- No rechazar H0 cuando es falsa.
+$$
+\mathbb{P}(\text{cometer un error de tipo II}) = \mathbb{P}(\text{no rechazar } H_0 \mid H_0 \text{ es falsa}) = \beta
+$$
+### Potencia de prueba
+$$
+\text{Potencia de la prueba} = \mathbb{P}(\text{tomar la decisión correcta}) = 1 - \beta
+$$
+## Formulas del estadistico de prueba para cada caso
+
+### A) Test de hipótesis para la media poblacional μ con σ desconocida
+$$
+t_0 = \frac{\bar{X} - \mu}{\dfrac{S}{\sqrt{n}}}
+$$
+### B) Test de hipótesis para la proporción poblacional PP
+
+$$
+z_0 = \frac{\hat{P} - P}{\sqrt{\dfrac{PQ}{n}}}
+$$
+(Normal estandarizada)
+
+## P value
+- Es el minimo nivel de simplificacion para que H0 sea rechazada.
+- Hay 2 opciones para rechazar o no rechazar H0.
+![[Pasted image 20250516161002.png]]
+-----
+# Prueba de hipoteis para muestras independientes
+
+- Se utiliza para comparar medias entre 2 grupos. 
+- Primero hay que validar la homogeneidad de las varianzas. Es decir si son iguales o distintas
+- Para comparar las medias de 2 poblaciones primero hay que tener en cuanta si son independientes o si son las diferencias entre las medias de un mismo individuo.
+### Homogeneidad
+- Se usa la Prueba F. 
+- Permite decidir si 2 vatianzas son iguales.
+### Estadistica de prueba
+- Se lo denomina como FM.
+- Es el cociente de las varianzas muestrales.
+$$
+F_{m} = \frac{S_1^2}{S_2^2}
+$$
+$$
+\text{Si } F_{m} < 1 \Rightarrow p\text{-value} = 2 \cdot P(F < F_{m})
+$$
+$$
+\text{Si } F_{m} > 1 \Rightarrow p\text{-value} = 2 \cdot P(F > F_{m})
+$$
+
+
+
+# 2 casos:
+
+## Caso 1) 
+### Prueba T para muestras independientes
+- Se hace la prueba T para la diferencia de medias entre observaciones independientes.
+- Hay 2 muestras.
+- Comparar 2 medias poblacionales entre 2 grupos, las distribucion es normal (Supuesto).
+- Hay 2 muestras independientes ---> hay que ver la homogeneidad de las varianzas.
+
+1. Planteamos la hipotesis nula y la hipotesis alternativa.
+2. Calculamos la estadisitca de prueba.
+3. Obtenemos el Pvalue y acorde a su valor realizamos una comparacion u otra.
+4. Comparamos el Pvalue con el alpha y vemos si rechazamos h0 o no.
+
+### Test de diferencia de medias
+1. Planteamos la hipotesis nula y la hipotesis alternativa.
+$$
+H_0: \mu_1 = \mu_2 \\
+$$
+$$
+H_1: \mu_1 < \mu_2
+$$
+2. Pasamos todos los mu para un lado para igualarlo a 0.
+$$
+H_0: \mu_1 - \mu_2 = 0 \\
+$$
+$$
+H_1: \mu_1 - \mu_2 < 0
+$$
+3. Cargamos todos los valores en geogebra de ambas muestras.
+4. Comparamos el Pvalue con el alpha y vemos si rechazamos h0 o no.
+## Caso 2)
+### Prueba para datos apareados
+- **Hacer una prueba T para muestras apareadas** (La diferencia entre las medias de un mismo individuo) 
+- Hay una sola muestra.
+
+1. Planteamos la hipotesis nula y la hipotesis alternativa.
+$$
+H_0: \mu_d = 0 \\
+$$
+$$
+H_1: \mu_d > 0 \\
+$$
+$$\mu_d\ Es\ la\ diferencia\ entre \ los \ valores $$  
+2. Hacemos la prueba t para medias emparejadas. El resultado de esto es el Pvalue.
+	- Si es menor o mayor es a una cola
+	- Si es distintio es a 2 colas.
+3. Comparamos el Pvalue con el alpha.
