@@ -197,3 +197,25 @@ $$\mu_d\ Es\ la\ diferencia\ entre \ los \ valores $$
 	- Si es menor o mayor es a una cola
 	- Si es distintio es a 2 colas.
 3. Comparamos el Pvalue con el alpha.
+## Caso 3)
+### Comparacion de proporciones
+- Se realiza cuando debo hacer un test de hipotesis sobre la proporcion de 2 muestras independientes.
+
+1. Llamamos p(A) al mayor de los 2 porcentajes y p(B) al menor.
+2. Planteamos H0 y H1 de investigacion.
+$$
+H_0: P_A  = P_B
+$$
+$$
+H_1: P_A  \gt P_B
+$$
+3. Planteamos H0 y H1 estadisticas.
+$$
+H_0: P_A - P_B = 0
+$$
+
+$$
+H_1: P_A - P_B \gt 0
+$$
+4. Ponemos en geogebra los valores de ambas muestras.
+5. Comparamos el P-value con el nivel de significacion.
