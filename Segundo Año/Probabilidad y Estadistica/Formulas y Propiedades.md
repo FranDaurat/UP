@@ -219,3 +219,44 @@ H_1: P_A - P_B \gt 0
 $$
 4. Ponemos en geogebra los valores de ambas muestras.
 5. Comparamos el P-value con el nivel de significacion.
+----
+# Pruebas no parametricas
+## Caso 1) Prueba de la bondad de ajuste
+- Es una prueba para decidir si una distribucion teorica puede ser similar a la distribucion de la muestra.
+$$
+%% Hipótesis
+H_0: \text{Los datos siguen la distribución teórica} \\
+$$
+$$
+H_1: C
+$$
+$$
+Estadistico \ de \ prueba \ -->
+\chi_m^2 = \sum \frac{(O_i - E_i)^2}{E_i}
+$$
+$$
+O_i = \text{frecuencia observada} \\
+$$
+$$
+E_i = \text{frecuencia esperada}
+$$
+$$
+e_i = m \ .{\text{prop}}
+$$
+
+$$
+Condición \ de \ validez \ --> \
+E_i \geq 5 \quad \text{(si no se cumple, agrupar categorías)}
+$$
+$$
+\text{Rechazar } H_0 \text{ si } \chi^2_{obs} > \chi^2_{\nu,\alpha}
+$$
+
+$$
+\text{Grados de libertad ==>} \ \nu = c - 1 - m
+$$
+- c: cantidad de **grupos** (después de agrupar si es necesario)
+- m: cantidad de **parámetros estimados** de la distribución teórica
+$$
+\text{Valor Critico ==> } \chi^2_{\nu, \alpha}
+$$
