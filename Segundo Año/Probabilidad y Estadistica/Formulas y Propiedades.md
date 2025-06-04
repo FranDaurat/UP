@@ -65,6 +65,34 @@
 ![[Pasted image 20250417142016.png]]
 -- - 
 # Segundo Parcial
+## Intervalos de Confianza – Propiedades clave
+
+### Media muestral
+$$
+\text{Esperanza:} \quad \mathbb{E}[\bar{x}] = \mu
+$$
+$$
+\text{Varianza:} \quad \text{Var}(\bar{x}) = \frac{\sigma^2}{n}
+$$
+$$\text{Desvío estándar:} \quad \sigma(\bar{x}) = \frac{\sigma}{\sqrt{n}} \quad \text{(Error estándar)}
+$$
+### Interpretación del IC
+- Si IC(0.95) = (a, b), entonces:
+  "El 95% de los intervalos construidos con muestras distintas contendrán al parámetro poblacional u".
+### NO decimos:
+- "Hay un 95% de probabilidad de que u esté entre a y b" ❌
+- "Hay un 95% de probabilidad de que {x} esté entre a y b" ❌
+
+### Tipos de parámetros que se estiman con IC:
+$$
+\mu → \text{media poblacional}
+$$
+$$
+p → \text{proporción poblacional}
+$$
+$$
+\sigma → \text{desvío estándar poblacional} (menos frecuente)
+$$
 
 ## Inferencia
 
@@ -228,7 +256,7 @@ $$
 H_0: \text{Los datos siguen la distribución teórica} \\
 $$
 $$
-H_1: C
+H_1: \text{Los datos NO siguen la distribución teórica}
 $$
 $$
 Estadistico \ de \ prueba \ -->
@@ -248,9 +276,7 @@ $$
 Condición \ de \ validez \ --> \
 E_i \geq 5 \quad \text{(si no se cumple, agrupar categorías)}
 $$
-$$
-\text{Rechazar } H_0 \text{ si } \chi^2_{obs} > \chi^2_{\nu,\alpha}
-$$
+![[Pasted image 20250604183025.png]]
 
 $$
 \text{Grados de libertad ==>} \ \nu = c - 1 - m
@@ -268,3 +294,8 @@ H_0 &: \text{Las variables son independientes} \\
 H_1 &: \text{Las variables NO son independientes}
 \end{aligned}
 $$
+$$
+Estadistico \ de \ prueba \ -->
+\chi_m^2 = \sum \frac{(O_i - E_i)^2}{E_i}
+$$
+![[Pasted image 20250604183025.png]]
