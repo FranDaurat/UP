@@ -260,3 +260,11 @@ $$
 $$
 \text{Valor Critico ==> } \chi^2_{\nu, \alpha}
 $$
+## Caso 2) Prueba de la independencia
+- Trata de ver si 2 variables son dependientes o independientes.
+$$
+\begin{aligned}
+H_0 &: \text{Las variables son independientes} \\
+H_1 &: \text{Las variables NO son independientes}
+\end{aligned}
+$$
