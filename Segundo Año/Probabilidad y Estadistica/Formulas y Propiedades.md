@@ -299,3 +299,31 @@ Estadistico \ de \ prueba \ -->
 \chi_m^2 = \sum \frac{(O_i - E_i)^2}{E_i}
 $$
 ![[Pasted image 20250604183025.png]]
+
+## Caso 3) Prueba de homogeneidad
+- Trata de ver si 2 poblaciones son homogeneas. 
+- Preguntar si hay diferencias.
+- Hay mas de 2 grupos.
+$$
+%% Hipótesis
+H_0: \text{Los datos siguen la distribución teórica} \\
+$$
+$$
+H_1: \text{Los datos NO siguen la distribución teórica}
+$$
+$$
+
+Estadistico \ de \ prueba \ -->
+\chi_m^2 = \sum \frac{(O_i - E_i)^2}{E_i}
+$$
+----
+# Analisis de regresion y correlación
+- Hay 2 variables.
+- **X** Es la variable **independiente**
+- **Y** Es la variable **dependiente**
+- **Y** depende de **X**
+- Regla de regresion ---> es un ajuste lineal
+$$
+\boxed{y = a + bx}
+$$
+**a** es la ordenada al origen y **b** es la pendiente.
