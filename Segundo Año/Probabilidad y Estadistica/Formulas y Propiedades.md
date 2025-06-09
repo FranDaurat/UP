@@ -227,7 +227,7 @@ $$\mu_d\ Es\ la\ diferencia\ entre \ los \ valores $$
 3. Comparamos el Pvalue con el alpha.
 ## Caso 3)
 ### Comparacion de proporciones
-- Se realiza cuando debo hacer un test de hipotesis sobre la proporcion de 2 muestras independientes.
+- Se realiza cuando debo hacer un test de hipotesis basado en la distribucion normal sobre la proporcion de 2 muestras independientes.
 
 1. Llamamos p(A) al mayor de los 2 porcentajes y p(B) al menor.
 2. Planteamos H0 y H1 de investigacion.
@@ -251,6 +251,7 @@ $$
 # Pruebas no parametricas
 ## Caso 1) Prueba de la bondad de ajuste
 - Es una prueba para decidir si una distribucion teorica puede ser similar a la distribucion de la muestra.
+- Se utiliza cuando hay una sola variabla categorica y se quiere ver si los datos se ajustan o no a una distribucion teorica esperada.
 $$
 %% Hipótesis
 H_0: \text{Los datos siguen la distribución teórica} \\
@@ -288,6 +289,8 @@ $$
 $$
 ## Caso 2) Prueba de la independencia
 - Trata de ver si 2 variables son dependientes o independientes.
+- Se utiliza cuiando hay 2 variables categoricas (Ej: sexo y preferencia).
+- Se quiere saber si hay relacion entre ellas o son independientes.
 $$
 \begin{aligned}
 H_0 &: \text{Las variables son independientes} \\
@@ -323,7 +326,12 @@ $$
 - **Y** Es la variable **dependiente**
 - **Y** depende de **X**
 - Regla de regresion ---> es un ajuste lineal
+- Coeficiente de correlacion ---> **r**
+- Intercepto ---> **b**
+- Coeficiente de regresion ---> **a**
 $$
 \boxed{y = a + bx}
 $$
-**a** es la ordenada al origen y **b** es la pendiente.
+- **a** es la ordenada al origen y **b** es la pendiente.
+
+$r^2 \geq 0{,}80 \Rightarrow$ es bueno
