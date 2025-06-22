@@ -321,17 +321,44 @@ Estadistico \ de \ prueba \ -->
 $$
 ----
 # Analisis de regresion y correlación
-- Hay 2 variables.
-- **X** Es la variable **independiente**
-- **Y** Es la variable **dependiente**
-- **Y** depende de **X**
-- Regla de regresion ---> es un ajuste lineal
-- Coeficiente de correlacion ---> **r**
-- Intercepto ---> **b**
-- Coeficiente de regresion ---> **a**
+
+- Hay **2 variables**:
+  - **X**: variable **independiente** (la que se observa o controla).
+  - **Y**: variable **dependiente** (la que se predice o estima).
+  - **Y depende de X**, no al revés.
+
+- El modelo de regresión es un **ajuste lineal**, expresado como:
+
 $$
 \boxed{y = a + bx}
 $$
-- **a** es la ordenada al origen y **b** es la pendiente.
 
+- **a**: ordenada al origen o **intercepto** → valor estimado de Y cuando X = 0.  
+  ⚠ Puede no tener interpretación práctica si X = 0 no tiene sentido en el contexto.
+
+- **b**: **pendiente** o **coeficiente de regresión** → indica cuánto varía Y por cada unidad adicional en X.
+
+- El modelo **solo es confiable dentro del rango observado de X** (⚠ **no extrapolar** fuera del intervalo de datos).
+
+## 📈 Coeficientes estadísticos
+
+### ▸ Coeficiente de correlación (r)
+- Mide la **fuerza y dirección** de la relación lineal entre X e Y.
+- Rango: $(-1 \leq r \leq 1)$
+  - **r > 0**: relación **directa** (a mayor X, mayor Y).
+  - **r < 0**: relación **inversa** (a mayor X, menor Y).
+  - **r ≈ 0**: **no hay relación lineal** (puede haber relación no lineal).
+- **No implica causalidad**, solo asociación.
+
+### ▸ Coeficiente de determinación (r²)
+- Mide la **proporción de variabilidad de Y explicada por X**.
+- Rango: $(0 \leq r^2 \leq 1)$
+  - **r² = 0,80 o más**: se considera un **modelo bueno**, aunque depende del contexto.
+  - **r² bajo** puede indicar que:
+    - La relación no es lineal,
+    - Hay otras variables explicativas no incluidas.
+
+## ✅ Consideraciones finales
+- No extrapolar fuera del rango observado.
+- El modelo ayuda a **predecir Y** y **analizar relaciones**, pero **no asegura causalidad**.
 $r^2 \geq 0{,}80 \Rightarrow$ es bueno
