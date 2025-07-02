@@ -309,10 +309,10 @@ $$
 - Hay mas de 2 grupos.
 $$
 %% Hipótesis
-H_0: \text{Los datos siguen la distribución teórica} \\
+H_0: \text{Las distribuciones son iguales entre los grupos (los grupos son homogéneos).} \\
 $$
 $$
-H_1: \text{Los datos NO siguen la distribución teórica}
+H_1: \text{Al menos uno de los grupos tiene una distribución distinta (no son homogéneos)}
 $$
 $$
 
@@ -334,9 +334,8 @@ $$
 $$
 
 - **a**: ordenada al origen o **intercepto** → valor estimado de Y cuando X = 0.  
-  ⚠ Puede no tener interpretación práctica si X = 0 no tiene sentido en el contexto.
 
-- **b**: **pendiente** o **coeficiente de regresión** → indica cuánto varía Y por cada unidad adicional en X.
+- **b**: pendiente o **coeficiente de regresión** → indica cuánto varía Y por cada unidad adicional en X.
 
 - El modelo **solo es confiable dentro del rango observado de X** (⚠ **no extrapolar** fuera del intervalo de datos).
 
@@ -344,21 +343,52 @@ $$
 
 ### ▸ Coeficiente de correlación (r)
 - Mide la **fuerza y dirección** de la relación lineal entre X e Y.
+- Es la riaz cuadrada del coeficiente de determinacion
 - Rango: $(-1 \leq r \leq 1)$
-  - **r > 0**: relación **directa** (a mayor X, mayor Y).
-  - **r < 0**: relación **inversa** (a mayor X, menor Y).
-  - **r ≈ 0**: **no hay relación lineal** (puede haber relación no lineal).
-- **No implica causalidad**, solo asociación.
-
+	- **Si r ≈ 0** → no hay relación lineal entre las variables.
+	- **Si r ≈ 1** → hay una relación lineal directa perfecta.
+	- **Si r ≈ -1** → hay una relación lineal inversa perfecta.
+- El signo de **r** coincide con **b** (la pendiente).
+- Si **r ≈ 1** existe una fuerte asociacion o correlacion entre x e y.
+ 
 ### ▸ Coeficiente de determinación (r²)
-- Mide la **proporción de variabilidad de Y explicada por X**.
+- Se utiliza para calcular un modelo lineal (que tan buena es la recta de regresion).
 - Rango: $(0 \leq r^2 \leq 1)$
   - **r² = 0,80 o más**: se considera un **modelo bueno**, aunque depende del contexto.
   - **r² bajo** puede indicar que:
     - La relación no es lineal,
-    - Hay otras variables explicativas no incluidas.
+    - Hay menor relacion entre x e y.
+    - Los datos son mas dispersos.
+  -  **r² >= 0.80**: El {procentaje} de las variaciones de y puede explicarse por la variacion de x.
 
-## ✅ Consideraciones finales
-- No extrapolar fuera del rango observado.
-- El modelo ayuda a **predecir Y** y **analizar relaciones**, pero **no asegura causalidad**.
-$r^2 \geq 0{,}80 \Rightarrow$ es bueno
+## Test para pendiente β
+
+Se utiliza para predecir la pendiente (β) y la ordenada al origen (α):
+
+$$
+\hat{y} = \alpha + \beta x
+$$
+
+- **α**: estimador de la ordenada al origen  
+- **β**: estimador de la pendiente
+
+### Hipótesis
+- **H₀**: β = 0  
+- **H₁**: β ≠ 0
+### Estadístico de prueba
+
+$$
+t_0 = \frac{b - \beta}{S_b}
+$$
+
+### Criterio de rechazo (CR)
+$$
+\text{P-value} \leq \alpha
+$$
+
+$$
+\text{Pv} = 2 \cdot P(t > t_0)
+$$
+
+Si **Rechazo H0**, quiere decir que hay una asociacion lineal entre x e y.
+
