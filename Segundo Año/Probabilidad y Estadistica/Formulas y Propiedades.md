@@ -359,7 +359,7 @@ $$
     - La relación no es lineal,
     - Hay menor relacion entre x e y.
     - Los datos son mas dispersos.
-  -  **r² >= 0.80**: El {procentaje} de las variaciones de y puede explicarse por la variacion de x.
+  -  **r² >= 0.80**: El {procentaje} de las variaciones de y pueden explicarse por la variacion de x.
 
 ## Test para pendiente β
 
@@ -374,7 +374,9 @@ $$
 
 ### Hipótesis
 - **H₀**: β = 0  
+Las variables no estan linealmente relacionadas.
 - **H₁**: β ≠ 0
+Las variables estan linealmente relacionadas.
 ### Estadístico de prueba
 
 $$
@@ -385,7 +387,7 @@ $$
 $$
 \text{P-value} \leq \alpha
 $$
-
+gl = n - 2 
 $$
 \text{Pv} = 2 \cdot P(t > t_0)
 $$
