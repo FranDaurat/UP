@@ -1,4 +1,4 @@
--- - 
+¿-- - 
 1. Si se mantiene el tamaño de muestra y necesitamos un intervalo más preciso ¿qué modificamos y cómo? Justificar.
 - Tanto con z como con t, si mantenés el tamaño muestral y querés un intervalo más preciso, tenés que **bajar el nivel de confianza** para que el valor crítico (z o t) sea menor y el intervalo sea más estrecho.
 

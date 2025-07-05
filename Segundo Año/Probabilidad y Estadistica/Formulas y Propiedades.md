@@ -1,6 +1,17 @@
 
 -- - 
 # Primer Parcial
+
+
+## Frecuencias Tipos
+
+| **Nombre**                        | **Símbolo** | **Qué indica**                                                            | **Cómo se calcula**                    |
+| --------------------------------- | ----------- | ------------------------------------------------------------------------- | -------------------------------------- |
+| **Frecuencia absoluta**           | $f_i$       | Cantidad de veces que aparece un valor                                    | Contando cuántas veces aparece un dato |
+| **Frecuencia absoluta acumulada** | $F_i$       | Suma acumulada de las frecuencias absolutas hasta ese valor               | $Fi=f1+f2+⋯+fi$                        |
+| **Frecuencia relativa**           | $h_i$       | Porcentaje (o proporción) de veces que aparece un valor respecto al total | $hi=finh_i = \frac{f_i}{n}$            |
+| **Frecuencia relativa acumulada** | $H_i$       | Suma acumulada de las frecuencias relativas hasta ese valor               | $Hi=h1+h2+⋯+hi$                        |
+
 ## Media
 ![[Pasted image 20250410214147.png]]
 
@@ -24,6 +35,9 @@
 
 ## Coeficiente de Asimetria
 ![[Pasted image 20250410214914.png]]
+- **Asimetría negativa:** $\text{Media} < \text{Mediana} < \text{Moda}$
+- **Asimetría positiva:** $\text{Moda} < \text{Mediana} < \text{Media}$
+
 
 ## Laplace 
 ![[Pasted image 20250410215002.png]]
@@ -37,11 +51,23 @@
 ## Sucesos mutuamente excluyentes
 ![[Pasted image 20250410215122.png]]
 
+## Sucesos independientes
+![[Pasted image 20250705162938.png]]
 ## Probabilidades Condicionales
 ![[Pasted image 20250410215204.png]]
 
 ## Formula de bayes
 ![[Pasted image 20250410215259.png]]
+
+
+| Tipo         | Distribución       | Variable típica              | Ejemplo de uso                          |
+| ------------ | ------------------ | ---------------------------- | --------------------------------------- |
+| **Discreta** | **Binomial**       | Número de éxitos             | Lanzar una moneda varias veces          |
+|              | **Poisson**        | Cantidad de eventos          | Partículas por área / llamadas por hora |
+| **Continua** | **Normal (Gauss)** | Variable continua real       | Altura, peso, tiempo                    |
+|              | **Chi-cuadrado**   | Suma de normales al cuadrado | Tests estadísticos                      |
+|              | **t de Student**   | Estimaciones de medias       | Test de medias con muestras pequeñas    |
+
 
 ## Distribucion Binomial 
 ![[Pasted image 20250410215514.png]]
