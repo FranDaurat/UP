@@ -2,7 +2,6 @@
 -- - 
 # Primer Parcial
 
-
 ## Frecuencias Tipos
 
 | **Nombre**                        | **Símbolo** | **Qué indica**                                                            | **Cómo se calcula**                    |
@@ -359,11 +358,14 @@ $$
 \boxed{y = a + bx}
 $$
 
-- **a**: ordenada al origen o **intercepto** → valor estimado de Y cuando X = 0.  
-
-- **b**: pendiente o **coeficiente de regresión** → indica cuánto varía Y por cada unidad adicional en X.
-
 - El modelo **solo es confiable dentro del rango observado de X** (⚠ **no extrapolar** fuera del intervalo de datos).
+
+| **Nombre**                      | **Símbolo** | **Significado**                                                     |
+| ------------------------------- | ----------- | ------------------------------------------------------------------- |
+| Ordenada al origen (intercepto) | $a$         | Valor de $y$ cuando $x=0$. Punto donde la recta corta el eje $y$.   |
+| Pendiente (coef. de regresión)  | $b$         | Cuánto varía $y$ por cada unidad de cambio en $x$.                  |
+| Coeficiente de correlación      | $r$         | Mide la fuerza y dirección de la relación lineal entre $x$ y $y$.   |
+| Coeficiente de determinación    | $r^2$       | Indica qué porcentaje de la variabilidad de $y$ se explica por $x$. |
 
 ## 📈 Coeficientes estadísticos
 
