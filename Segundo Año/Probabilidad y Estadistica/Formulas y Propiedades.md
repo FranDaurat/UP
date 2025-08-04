@@ -25,6 +25,7 @@
 
 ## Representativa o No representativa
 ![[Pasted image 20250410214717.png]]
+- Mas de 20 hay quilombo, menos de 20 no hay quilombo
 
 ## Coeficiente de variacion poblacional
 ![[Pasted image 20250410214818.png]]
@@ -184,9 +185,14 @@ $$
 - Se utiliza para comparar medias entre 2 grupos. 
 - Primero hay que validar la homogeneidad de las varianzas. Es decir si son iguales o distintas
 - Para comparar las medias de 2 poblaciones primero hay que tener en cuanta si son independientes o si son las diferencias entre las medias de un mismo individuo.
+
+
 ### Homogeneidad
 - Se usa la Prueba F. 
 - Permite decidir si 2 vatianzas son iguales.
+- $H_0 : \sigma_1^2 = \sigma_2^2$ (las varianzas son iguales)
+- $H_1 : \sigma_1^2 \ne \sigma_2^2$ (las varianzas son distintas)
+
 ### Estadistica de prueba
 - Se lo denomina como FM.
 - Es el cociente de las varianzas muestrales.
