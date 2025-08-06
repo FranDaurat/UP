@@ -6,6 +6,8 @@
 
 Ruben aybar (asincronico) ---> auditoria de sistemas 
 pedro mele ---> profesor re pajero
+Juan antonio ---> informatica forense (trank)
+rabuch ---> buen profesor
 ## Preguntas para ingles
 
 a que te dedicas
