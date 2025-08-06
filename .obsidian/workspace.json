@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c83e21fe6a56a26",
+            "id": "2cb6d6f11da9ee40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etc.md",
+                "file": "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Etc"
-            }
-          },
-          {
-            "id": "b673ca9512b04c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Matematica Discreta/Clase 1 - 5-8-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 1 - 5-8-25"
-            }
-          },
-          {
-            "id": "84ec59b161031dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Matematica Discreta/Clase 1 - 5-8-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 1 - 5-8-25"
+              "title": "Clase 1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,53 +164,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84ec59b161031dc9",
+  "active": "2cb6d6f11da9ee40",
   "lastOpenFiles": [
-    "Segundo Año/Seguridad en redes/Clase 1 - 4-8-25.md",
-    "Segundo Año/Matematica Discreta/Clase 1 - 5-8-25.md",
-    "Untitled",
+    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 1.md",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 1 - 5-8-25.md",
     "Etc.md",
-    "Segundo Año/Matematica Discreta/Cosas importantes.md",
-    "Segundo Año/Seguridad en redes/Cosas importantes.md",
-    "Segundo Año/Matematica Discreta/Fotos/Pasted image 20250805190848.png",
-    "Segundo Año/Matematica Discreta/Fotos",
-    "Segundo Año/Untitled",
-    "Segundo Año/Seguridad en redes",
-    "Segundo Año/Matematica Discreta",
-    "Segundo Año/Probabilidad y Estadistica/Formulas y Propiedades.md",
-    "Segundo Año/Probabilidad y Estadistica/📊 Clasificación de Variables Aleatorias.md",
-    "Segundo Año/Introduccion a las comunicaciones/Clase 04-04-25.md",
+    "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 1.md",
+    "Segundo Año/Segundo cuatrimestre/Arquitectura Web",
+    "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas",
+    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial",
+    "Segundo Año/Segundo cuatrimestre",
+    "Segundo Año/Primer cuatrimestre",
+    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 1 - 4-8-25.md",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Cosas importantes.md",
+    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Cosas importantes.md",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20250805190848.png",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos",
+    "Segundo Año/Primer cuatrimestre",
+    "Segundo Año/Segundo cuatrimestre/Seguridad en redes",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Formulas y Propiedades.md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/📊 Clasificación de Variables Aleatorias.md",
+    "Segundo Año/Primer cuatrimestre/Introduccion a las comunicaciones/Clase 04-04-25.md",
     "Segundo Año/Seguridad de redes/Parcial.md",
-    "Segundo Año/Probabilidad y Estadistica/a tener en cuenta.md",
-    "Segundo Año/Probabilidad y Estadistica/Practica.md",
-    "Segundo Año/Introduccion a las comunicaciones/Repaso final.md",
-    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250526154155.png",
-    "Segundo Año/Probabilidad y Estadistica/Repaso oral.md",
-    "Segundo Año/Probabilidad y Estadistica/Clase antes del parcial.md",
-    "Segundo Año/Probabilidad y Estadistica/Clase 31-3-25 (Sucesos condicionas e Independientes).md",
-    "Segundo Año/Probabilidad y Estadistica/Clase  10-03-25 (Estadistica Descriptiva).md",
-    "Segundo Año/Probabilidad y Estadistica/Clase 17-03-25 (Medidas Estadisticas).md",
-    "Segundo Año/Probabilidad y Estadistica/Clase 24-03-25 (Calculo de probabilidades).md",
-    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250705162938.png",
-    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250620175004.png",
-    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250620174716.png",
-    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250604183025.png",
-    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250526154038.png",
-    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250516161002.png",
-    "Segundo Año/Ingenieria de Software/fotos/Pasted image 20250314082131.png",
-    "Segundo Año/Ingenieria de Software/A tener en cuenta.md",
-    "Segundo Año/Probabilidad y Estadistica/Fotos/Pasted image 20250508120647.png",
-    "Segundo Año/Ingenieria de Software/Respuestas.md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/a tener en cuenta.md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Practica.md",
+    "Segundo Año/Primer cuatrimestre/Introduccion a las comunicaciones/Repaso final.md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250526154155.png",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Repaso oral.md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Clase antes del parcial.md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Clase 31-3-25 (Sucesos condicionas e Independientes).md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Clase  10-03-25 (Estadistica Descriptiva).md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Clase 17-03-25 (Medidas Estadisticas).md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Clase 24-03-25 (Calculo de probabilidades).md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250705162938.png",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250620175004.png",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250620174716.png",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250604183025.png",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250526154038.png",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250516161002.png",
+    "Segundo Año/Primer cuatrimestre/Ingenieria de Software/fotos/Pasted image 20250314082131.png",
+    "Segundo Año/Primer cuatrimestre/Ingenieria de Software/A tener en cuenta.md",
+    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250508120647.png",
+    "Segundo Año/Primer cuatrimestre/Ingenieria de Software/Respuestas.md",
     "Campus.md",
     "Cosas pendientes.md",
     "Segundo Año/Seguridad de redes",
-    "Segundo Año/Probabilidad y Estadistica/Clase 07-04-25 (Distibucion Binominal).md",
-    "Segundo Año/Ingenieria de Software/Clase 21-03-25 (Extraccion de requerimentos).md",
-    "Segundo Año/Ingenieria de Software/Clase 28-03-25 (Modelado de proceso de negocio).md",
-    "Segundo Año/Ingenieria de Software/Parciales.md",
-    "Segundo Año/Introduccion a las comunicaciones",
-    "Segundo Año/Introduccion a las comunicacion",
-    "Segundo Año/Ingenieria de Software/fotos",
-    "Segundo Año/Ingenieria de Software"
+    "Segundo Año/Probabilidad y Estadistica/Clase 07-04-25 (Distibucion Binominal).md"
   ]
 }
