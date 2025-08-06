@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "94afc011ea399f36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Matematica Discreta/Clase 1 - 5-8-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 1 - 5-8-25"
-            }
-          },
-          {
-            "id": "62e7d9685f152c35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Matematica Discreta/Clase 1 - 5-8-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 1 - 5-8-25"
-            }
-          },
-          {
             "id": "b673ca9512b04c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Año/Matematica Discreta/Clase 1 - 5-8-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 1 - 5-8-25"
+            }
+          },
+          {
+            "id": "84ec59b161031dc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,10 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b673ca9512b04c44",
+  "active": "84ec59b161031dc9",
   "lastOpenFiles": [
-    "Etc.md",
+    "Segundo Año/Seguridad en redes/Clase 1 - 4-8-25.md",
     "Segundo Año/Matematica Discreta/Clase 1 - 5-8-25.md",
+    "Untitled",
+    "Etc.md",
     "Segundo Año/Matematica Discreta/Cosas importantes.md",
     "Segundo Año/Seguridad en redes/Cosas importantes.md",
     "Segundo Año/Matematica Discreta/Fotos/Pasted image 20250805190848.png",
@@ -252,7 +240,6 @@
     "Segundo Año/Introduccion a las comunicaciones",
     "Segundo Año/Introduccion a las comunicacion",
     "Segundo Año/Ingenieria de Software/fotos",
-    "Segundo Año/Ingenieria de Software",
-    "Segundo Año/Programacion 3"
+    "Segundo Año/Ingenieria de Software"
   ]
 }
