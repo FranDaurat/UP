@@ -1,6 +1,4 @@
 -- -
-# Alfabeto, Cadenas y Lenguajes
-
 ## Introducción
 
 - Vivimos en una era donde se procesan **entradas** (como datos) para generar **salidas** (como resultados).

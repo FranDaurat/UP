@@ -136,11 +136,10 @@ La evolución del análisis de sistemas pasó por tres paradigmas principales:
 
 - Un **modelo** es un conjunto de información que representa un sistema con fines de estudio.
     
-- Se utiliza cuando estudiar directamente el sistema es inviable (por su tamaño, costo, complejidad o inexistencia).
+- Se utiliza cuando estudiar directamente al sistema por si es inviable (debido a su tamaño, costo, complejidad o inexistencia).
     
 - El modelo **no es el sistema**, pero intenta representarlo lo mejor posible.
     
 - Se pueden usar múltiples modelos para ver el sistema desde distintas perspectivas y **reducir la brecha entre el modelo y la realidad**.
     
-
 ---

@@ -26,6 +26,24 @@ Se compone de:
     
 Ambos deben contemplarse juntos. Por ejemplo: cortar una fibra óptica es un problema físico que afecta la disponibilidad lógica.
 
+-- -
+## Ciclo de vida de la seguridad
+
+1. **Educar** → Capacitar y concientizar a las personas sobre buenas prácticas de seguridad.
+    
+2. **Descubrir** → Detectar y analizar vulnerabilidades.
+    
+3. **Planear** → Inventariar y clasificar los activos.
+    
+4. **Proteger** → Implementar medidas de hardware y software de seguridad.
+    
+5. **Administrar** → Aplicar actualizaciones y parches.
+    
+6. **Monitorear** → Vigilar el sistema y gestionar alertas.
+    
+
+Y luego vuelve a **Educar**, reforzando el ciclo de mejora continua.
+
 ---
 ## Pilares de la Seguridad (Tríada CID + Extensiones)
 
@@ -93,12 +111,8 @@ Ejemplos comunes:
 - Negligencia en buenas prácticas de seguridad
     
 
----
-## Amenazas Informáticas
-
-**Definición:** Cualquier acción que **aprovecha una vulnerabilidad** para dañar, acceder o interrumpir un sistema.
-
-### Tipos de amenazas:
+--- 
+## Tipos de Amenazas Informáticas
 
 - **Phishing**: Suplantación de identidad por correo o mensajes.
     
