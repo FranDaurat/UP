@@ -118,9 +118,51 @@
               "icon": "lucide-file",
               "title": "Etc"
             }
+          },
+          {
+            "id": "5759a1aa945a5e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 3 - Amenazas y ataques 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 3 - Amenazas y ataques 2"
+            }
+          },
+          {
+            "id": "bd73c252f260b91e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 4 - Criptografía.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 4 - Criptografía"
+            }
+          },
+          {
+            "id": "7e2a7c4fdaafef15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rutinas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rutinas"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -278,10 +320,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53577b36bb5b317d",
+  "active": "7e2a7c4fdaafef15",
   "lastOpenFiles": [
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Cosas importantes.md",
+    "Segundo Año/Segundo cuatrimestre/Parciales.md",
+    "Rutinas.md",
     "Etc.md",
+    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Cosas importantes.md",
+    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 4 - Criptografía.md",
+    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 3 - Amenazas y ataques 2.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 4 - Maquinas de estado finito.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 3 - Automatas Finitos.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 1 - Alfabeto, Cadenas y Lenguajes.md",
@@ -296,7 +342,6 @@
     "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 2 - Agentes.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20250822130154.png",
     "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 3 - Busquedas.md",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 3 - Amenazas y ataques 2.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 2 - Amenazas y ataques 1.md",
     "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 2 - Concepto de objetos.md",
@@ -317,8 +362,6 @@
     "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Formulas y Propiedades.md",
     "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/📊 Clasificación de Variables Aleatorias.md",
     "Segundo Año/Primer cuatrimestre/Introduccion a las comunicaciones/Clase 04-04-25.md",
-    "Segundo Año/Seguridad de redes/Parcial.md",
-    "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/a tener en cuenta.md",
     "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250526154155.png",
     "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250705162938.png",
     "Segundo Año/Primer cuatrimestre/Probabilidad y Estadistica/Fotos/Pasted image 20250620175004.png",
