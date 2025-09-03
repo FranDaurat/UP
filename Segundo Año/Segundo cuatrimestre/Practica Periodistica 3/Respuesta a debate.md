@@ -1,2 +1,0 @@
--- -
-Obama refleja lo que plantea Di Bártolo (2012) sobre la autenticidad del orador, al mostrarse natural y cercano sin perder firmeza en su mensaje. Según Gallo (2014), aplica los principios de la comunicación eficaz al combinar claridad con relatos personales que generan identificación. De acuerdo con Briz (2008) y el Instituto Cervantes (2008), adapta su discurso al contexto argentino con un lenguaje accesible y preciso, lo que refuerza la conexión con los jóvenes y la claridad del mensaje.
