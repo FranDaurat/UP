@@ -8,131 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "893fdacdf9a44c58",
+            "id": "8dfbcd860b973929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 3 - Casos de uso I.md",
+                "file": "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Posibles preguntas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 3 - Casos de uso I"
-            }
-          },
-          {
-            "id": "b01a79b082f1a72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Clase 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 1"
-            }
-          },
-          {
-            "id": "f1cd77aa2e0f350c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Clase 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 2"
-            }
-          },
-          {
-            "id": "af04687849e0c5b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Parciales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parciales"
-            }
-          },
-          {
-            "id": "8607f54f9afd0691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 5 - Razonamiento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 5 - Razonamiento"
-            }
-          },
-          {
-            "id": "3a46293c047eebc9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Imagenes/Pasted image 20250903140234.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250903140234"
-            }
-          },
-          {
-            "id": "f813dd2b57e02fb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 4 - Maquinas de estado finito.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 4 - Maquinas de estado finito"
-            }
-          },
-          {
-            "id": "2d049bc612d748fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clases 5,6,7 (Grafos).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clases 5,6,7 (Grafos)"
-            }
-          },
-          {
-            "id": "b94c0f22a3c2c0c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clases 5,6,7 (Grafos).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clases 5,6,7 (Grafos)"
+              "title": "Posibles preguntas"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,35 +179,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ff2473fa8c4ca41",
+  "active": "8dfbcd860b973929",
   "lastOpenFiles": [
+    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 5 - Razonamiento.md",
+    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Posibles preguntas.md",
+    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 3 - Busquedas.md",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clases 5,6,7 (Grafos).md",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 4 - Maquinas de estado finito.md",
+    "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Imagenes/Pasted image 20250903140234.png",
+    "Segundo Año/Segundo cuatrimestre/Parciales.md",
+    "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Clase 2.md",
+    "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Clase 1.md",
+    "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 3 - Casos de uso I.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20250903174956.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20250903173319.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20250903173220.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Untitled 1.md",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clases 5,6,7 (Grafos).md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Untitled 2.md",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 4 - Maquinas de estado finito.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 5 - Firma digital.md",
-    "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Imagenes/Pasted image 20250903140234.png",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 5 - Diagrama de actividades I.md",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Imagenes/Pasted image 20250903140212.png",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Imagenes/Pasted image 20250903140206.png",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Imagenes/Pasted image 20250903140151.png",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Imagenes/Pasted image 20250903140133.png",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Imagenes",
-    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 5 - Razonamiento.md",
     "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Imagenes",
     "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Imagenes/Pasted image 20250903111810.png",
-    "Segundo Año/Segundo cuatrimestre/Parciales.md",
     "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Clase 3.md",
-    "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Clase 2.md",
-    "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Clase 1.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 3 - Automatas Finitos.md",
     "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Respuesta a debate.md",
     "Etc.md",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 4 - Casos de uso II.md",
-    "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 3 - Casos de uso I.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 4 - Criptografía.md",
     "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 4 - Conocimiento.md",
     "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 2 - Agentes.md",
@@ -327,10 +218,8 @@
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 3 - Amenazas y ataques 2.md",
     "Rutinas.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Cosas importantes.md",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 1 - Alfabeto, Cadenas y Lenguajes.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20250822130154.png",
     "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20250805190848.png",
     "Segundo Año/Segundo cuatrimestre/Arquitectura Web",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas",
     "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial",
