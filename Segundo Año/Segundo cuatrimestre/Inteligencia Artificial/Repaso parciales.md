@@ -111,6 +111,7 @@
 	- Si las revoluciones suben, el auto consume mas.
 
 2) Explique la distinción entre Inteligencia Artificial (IA), Aprendizaje Automático (ML) y Aprendizaje Profundo (DL). Incluya en su análisis con ejemplos específicos de la evolución, aplicaciones y limitaciones inherentes de cada paradigma. 
+
 - **Inteligencia Artificial (IA):**
 	- **Definicion:** Rama de la informatica que busca crear sistemas capaced de realizar tareas que normalmente requieren inteligencia humana.
 	- **Evolucion:** Surge de los años 50 con la idea de simular inteligencia humana. En el siglo XXI crece gracias a *bid data* y mayor poder de computo
@@ -139,13 +140,73 @@
 		- "Cajas negras": Dificl explicar como llegan a una decision.
 		- Consumen enormes recursos de computo y energia.
 		- Dependencia de datasets masivos y riesgo de aplicar sesgos.
-- **Sintestis Comparativs:**
+- **Sintestis Comparativa:**
 	- **IA** ---> Disciplina general (Objetivo: simular inteligencia humana).
 	- **ML** ---> Subcampo de IA (aprende de los datos, no de las reglas fijas).
 	- **DL** ---> Subcampo de ML (usa redes neuronales profundas para tareas complejas)
 
 3)  Crear una base de conocimiento con al menos 5 reglas en Prolog referente a algún tema de interés. Ejemplificar haciendo consultas a la misma. 
+```prolog
+animal(perro).
+animal(gato).
+animal(aguila).
+animal(delfin).
+animal(vaca).
+
+mamifero(perro).
+mamifero(gato).
+mamifero(delfin).
+mamifero(vaca).
+
+ave(aguila).
+
+omnivoro(perro).
+omnivoro(gato).
+carnivoro(aguila).
+herbivoro(vaca).
+carnivoro(delfin).
+
+
+
+es_mamifero(X) :- mamifero(X).
+es_ave(X) :- ave(X).
+es_carnivoro(X) :- carnivoro(X).
+es_herbivoro(X) :- herbivoro(X).
+es_omnivoro(X) :- ominvoro(X).
+
+es_mamifero(gato).
+es_ave(aguila).
+es_carnivoro(aguila).
+es_herbivoro(vaca).
+es_omnivor(perro).
+
+```
 
 4) ¿Cuáles son las ventajas y desventajas de usar sistemas expertos en aplicaciones del mundo real? Proporcione ejemplos para ilustrar sus puntos. 
 
+- **Ventajas:**
+	- *Disponibilidad del conocimiento:* Capturan la experiencia de un experto humano en forma de reglas o base de conocimiento, lo que permite que el sistema este disponible las 24hs.
+	- *Consistencia en las decisiones:* A diferencia de los humanos, no se fatigan ni cometen errores por cansancio.
+	- *Soporte a la toma de decisiones:* Funcionan como herramienta de ayuda en entornos complejos (Ejemplo: diagnostico medico).
+	- *Transferencia de conociemiento:* El conocimiento de un experto puede ponerse a disposicion de mas personas en la organizacion.
+- **Desventajas:**
+	- *Dependencia de la calidad del conocimiento:* Si la base de conocimiento está incompleta o mal diseñada, el sistema dará resultados poco fiables y/o erroneos.
+	- *Rigidez:* No tienen creatividad ni sentido comun, solo aplican las reglas que se les programan.
+	- *Costos elevados de desarrollo y mantenimiento:* Requieren mucho tiempo para construir la base de conocimiento y mantenerla actualizada. 
+	- *Obsolecencia:* En entornos que cambian rapido, el sistema puede quedar desactualizado.
+	- *Explicabilidad limitada:* Algunos sistemas expertos complejos son dificiles de entender para el usuario final.
+- **Ejemplos:**
+	- Medicina
+	- Finanzas
+	- Soporte tecnico
+
  5) Explique la definición formal del problema (E, O, M) en la resolución de problemas de IA.
+- **E - Estado Inicial**
+	- Describe la situacion de partida del problema.
+	- Es el punto desde el cual el agente comienza a razonar o actuar.
+- **O - Operadores:**
+	- Conjunto de acciones posibles que permiten pasar de un estado a otro.
+	- Definen como se transforma el sistema cuando el agente actua.
+- **M - Meta (Objetivo)**
+	- Define el conjunto de estados finales que resuelven el problema.
+	- Un estado es objetivo si cumple con las condiciones deseadas.
