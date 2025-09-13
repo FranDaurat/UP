@@ -25,9 +25,6 @@ Es un conjunto de acciones que permiten encontrar soluciones a un problema concr
     
 
 ---
-
-## **Búsquedas completas o no informadas**
-
 ### **Búsqueda en amplitud (BFS - Breadth First Search)**
 
 - Explora el grafo desde la raíz y expande nodos por nivel (por distancia).

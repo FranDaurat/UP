@@ -1,5 +1,6 @@
+ -- -
+ 
 ## 1. Conocimiento y su Representación
-
 ### Definición
 
 La **representación del conocimiento** es el proceso de transformar el conocimiento de un dominio en un **lenguaje simbólico** para que pueda ser procesado computacionalmente.  

@@ -79,6 +79,32 @@
         
     - Sufijos: `λ`, `c`, `cc`, `bcc`, `abbcc`
         
+## Prefijo propio
+
+- Un **prefijo propio** es todo prefijo **excepto la cadena completa $w$**.
+    
+- **Siempre incluye la cadena vacía λ**.
+    
+
+Ejemplo con w=abb:
+
+- Prefijos: λ,a,ab,abb
+    
+- Prefijos propios: λ,a,ab
+    
+
+## Sufijo propio
+
+- Un **sufijo propio** es todo sufijo **excepto la cadena completa $w$**.
+    
+- **También incluye la cadena vacía λ**.
+    
+
+Ejemplo con w=abb:
+
+- Sufijos: λ,b,bb,abb
+    
+- Sufijos propios: λ,b,bb
 
 ## Subcadena
 

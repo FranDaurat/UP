@@ -120,3 +120,41 @@ $∑g⁡(v)=2∣A∣\sum$
 - Un grafo es **planar** o **plano** cuando: 
 	- Se puede dibujar en un plano sin que ninguna de sus aristas se cruce en un punto que no sea uno de los vertices.
 - Cualquier grafo planar se puede colorear con un maximo de 4 colores de tal forma que ningun vertice sea adyacente a otro con el mismo color.
+
+Perfecto, te lo armo por separado para que solo pegues lo nuevo en tu apunte:
+
+## Teorema de Euler (grafos planares)
+
+- Si GG es un grafo **conexo y planar**, se cumple:
+    
+    r=m−n+2r = m - n + 2
+    
+    donde:
+    
+    - rr: número de **regiones** en el plano,
+        
+    - mm: número de **aristas**,
+        
+    - nn: número de **vértices**.
+        
+
+---
+
+## Coloración de grafos
+
+- Colorear un grafo simple significa asignar un **color a cada vértice** de modo que vértices **adyacentes no compartan color**.
+    
+- El **número cromático** $χ(G)$ es el **mínimo número de colores necesarios** para colorear el grafo.
+    
+
+---
+
+## Teorema de los cuatro colores
+
+- Todo grafo **planar** puede colorearse con **como máximo 4 colores**.
+    
+- Aplicación clásica: **mapas**, donde cada región se representa como un vértice y se conecta con las regiones limítrofes (grafo dual).
+    
+
+---
+

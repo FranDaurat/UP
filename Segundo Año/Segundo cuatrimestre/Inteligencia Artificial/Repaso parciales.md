@@ -38,6 +38,7 @@
 8. Los agentes pueden ser naturales o artificiales. **Verdadero**
 
 9. Los agentes racionales son aquellos que actuan con base a lo que creen que es correcto. **Verdadero**
+
 ### **Autoevaluacion 3**
 1. Las busquedas completas computacionalmente son **costosas**
 
@@ -58,7 +59,7 @@
 9. El algoritmo A* es un algoritmo del tipo heuristico. **Verdadero**
 
 ### **Autoevaluacion 4**
-1. La representacion del conocimiento es el proceso de **transformacion** de conocimiento de un dominio en un **lenguaje** simbolico para que pueda ser procesado computacionalmente
+1. La representacion del conocimiento es el proceso de **transformacion** de conocimiento de un dominio en un **lenguaje** simbolico para que pueda ser procesado computacionalmente.
 
 2. La unificacion es el proceso de computar las sustituciones apropiadas que permitan determinar si dos expresiones **lógicas**, ya sean predicados o patrones, coinciden.
 
@@ -77,7 +78,7 @@
 9. La unificacion es el proceso de computar las sustituciones apropiadas que permiten determinar si dos expresiones logicas, ya sean predicados o patrones, coinciden. **Verdadero**
 
 ### **Autoevaluacion 5**
-1. El razonamiento formal juega un papel importante para la inteligencia artificial. Hay dos maneras principales de formalizar razonamiento: una que enfatiza en la **deduccion** y otra que enfatiza en la incertidumbre.
+1. El razonamiento formal juega un papel importante para la inteligencia artificial. Hay dos maneras principales de formalizar razonamiento: una que enfatiza en la **deduccion** y otra que enfatiza en la **incertidumbre**.
 
 2. Aquellos razonamientos que sin ser válidos parecen serlo se denominan **falacia.**
 
@@ -114,7 +115,7 @@
 
 - **Inteligencia Artificial (IA):**
 	- **Definicion:** Rama de la informatica que busca crear sistemas capaced de realizar tareas que normalmente requieren inteligencia humana.
-	- **Evolucion:** Surge de los años 50 con la idea de simular inteligencia humana. En el siglo XXI crece gracias a *bid data* y mayor poder de computo
+	- **Evolucion:** Surge de los años 50 con la idea de simular inteligencia humana. En el siglo XXI crece gracias a *big data* y mayor poder de computo
 	- **Aplicaciones:** Asistentes virtuales (Siri, Alexa), deteccion de fraudes de bancos, chatbots, etc.
 	- **Limitaciones:** Depende de los datos con los cuales se la entrene; posee sesgos en la toma de decisiones y cuestiones eticas.
 - **Aprendizaje Automatico (ML):**
@@ -210,3 +211,5 @@ es_omnivor(perro).
 - **M - Meta (Objetivo)**
 	- Define el conjunto de estados finales que resuelven el problema.
 	- Un estado es objetivo si cumple con las condiciones deseadas.
+
+--- -
