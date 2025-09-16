@@ -29,3 +29,16 @@
 		- **Autenticidad:** La firma pertence efectivamente a la empresa.
 		- **Integridad:**  Que el recibo no fue alterado despues de la firma.
 		- **No repudio:** La empresa no puede negar haber firmado el documento porque la clave privada es unica y esta bajo su custodia.
+
+5. Enumerar y describir explotacion de vulnerabilidad y dar un ejemplo de explotacion de una vulnerabildiad sobre un sistema operativo.
+- **Explotacion de vulnerabilidades:** Es cuando ya se pone en marcha el plan de ataque y el atacante despliega su exploit con el fin de comprometer el sistema aprovechando las vulnerabilidades previametne identificadas.
+- **Ejemplo:** Explotacion de la vulneerabilidad critica denominada como Shell Shock la cual mediante la modificacion de variables de entorno un atacante conseguia ejecutar codigo arbitrario en el servidor vulnerable. Este tambien es considerado como RCE.
+
+6.
+- a) ¿Que es un ataque DDOS? 
+	- Es un ataque de denegacion de servicio distribuido, es decir, varios equipos de distintos lados del mundo intentan inundar de solicitudes al sistema objetivo (target) con el fin de que no puede responder a las solicitudes legitimas comprometiendo asi su disponibilidad. 
+- b) ¿Un botnet es parte de un ataque DDoS o de defensa ¿porque?
+	- Un botnet es parte de un ataque DDos ya que es una red de equipos infectados (bots) los cuales se utilizan para lanzar solicitudes a sistemas expuestos en internet con el fin de saturarlos y dejarlos fuera de servicio.
+
+7. Si Alice firma digitalmente un documento PDF.
+- a) ¿Cual es el procedimiento de verificacion que debe realizar.

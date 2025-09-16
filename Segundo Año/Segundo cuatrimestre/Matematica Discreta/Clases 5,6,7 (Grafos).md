@@ -89,6 +89,7 @@ $∑g⁡(v)=2∣A∣\sum$
 - Es todo camino que recorre todos los vertices del grafo pero una unica vez por c/u de sus aristas.
 - Un grafo admite camino de euler si y solo si es conexo y tiene exactamente 2 vertices de grado **impar**.
 - Debo comenzar de uno de los vertices impares y terminar en el otro vertice **impar**.
+
 ### Circuito de euler
 - Es un camino de euler con  VI = VF.
 - Un grafo admite circuito de euler si y solo si es conexo y todos sus vertices tienen grado **par**.
