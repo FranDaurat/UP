@@ -1,6 +1,4 @@
 -- --
-- Pensar en un sistema para hacer 
-  
-Cosas que va a tener que tener:
-1. CRUD
-2. 
+1. Diseño de endpoints (rutas, verbos).
+2. Definir endpoints, controladores.
+3. Implementacion de funcionalidades.

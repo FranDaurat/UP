@@ -25,12 +25,22 @@
     - Es, además, un grafo simple.
         
 
-### Propiedades basicas
+## Propiedades basicas
 
-$∑g⁡(v)=2∣A∣\sum$
+$∑g⁡(v)=2∣A∣$
 
 - La **suma de los grados de todos los vértices** de un grafo es igual al **doble del número de aristas**.
 - En todo grafo la cantidad de vertices de grado impar es par
+### Caso particular: grafo regular
+Si el grafo es $k$-regular (todos los vértices tienen grado $k$), entonces:
+
+$$
+k \cdot |V| = 2 \cdot |E|
+$$
+donde:
+- $k$ = grado de cada vértice,  
+- $|V|$ = número de vértices,  
+- $|E|$ = número de aristas.
 
 ### Matriz de adyacencia
 - Dada en cada posicion aparecen la cantidad de aristas incidentes en el vertice.
@@ -128,15 +138,15 @@ Perfecto, te lo armo por separado para que solo pegues lo nuevo en tu apunte:
 
 - Si GG es un grafo **conexo y planar**, se cumple:
     
-    r=m−n+2r = m - n + 2
+    $r = m - n + 2$
     
     donde:
     
-    - rr: número de **regiones** en el plano,
+    - $r$: número de **regiones** en el plano,
         
-    - mm: número de **aristas**,
+    - $m$: número de **aristas**,
         
-    - nn: número de **vértices**.
+    - $n$: número de **vértices**.
         
 
 ---
