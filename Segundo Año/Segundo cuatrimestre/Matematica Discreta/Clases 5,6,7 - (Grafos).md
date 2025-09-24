@@ -35,12 +35,12 @@ $∑g⁡(v)=2∣A∣$
 Si el grafo es $k$-regular (todos los vértices tienen grado $k$), entonces:
 
 $$
-k \cdot |V| = 2 \cdot |E|
+2 \cdot |A| = k \cdot |V| 
 $$
 donde:
 - $k$ = grado de cada vértice,  
 - $|V|$ = número de vértices,  
-- $|E|$ = número de aristas.
+- $|A|$ = número de aristas.
 
 ### Matriz de adyacencia
 - Dada en cada posicion aparecen la cantidad de aristas incidentes en el vertice.
