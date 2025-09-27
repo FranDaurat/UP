@@ -148,6 +148,27 @@ Perfecto, te lo armo por separado para que solo pegues lo nuevo en tu apunte:
         
     - $n$: número de **vértices**.
         
+---
+
+## Condición de planaridad
+
+- Fórmula para grafos **simples, conexos y planares** con:
+    
+
+$m \leq 3n - 6$
+
+- Donde:
+    
+    - $n$ = número de vértices
+        
+    - $m$ = número de aristas
+        
+- El **3** y el **6** son constantes en la fórmula.
+    
+- Si **no se cumple**, el grafo **no es planar**.
+    
+- Si **se cumple**, el grafo **puede ser planar** (no es garantía absoluta).
+    
 
 ---
 
