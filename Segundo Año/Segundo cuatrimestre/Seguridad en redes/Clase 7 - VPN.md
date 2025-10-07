@@ -70,69 +70,215 @@ Conecta **dos redes enteras**, como sucursales de una empresa.
 |**Modo Túnel**|Cifra **todo el paquete IP original**. Se usa entre gateways.|
 |**Modo Transporte**|Cifra solo el contenido (payload). Se usa entre hosts.|
 
----
-
-### Componentes clave de IPSec
-
-- **IKE (Internet Key Exchange)**: negocia los parámetros de seguridad (SA) y las claves.
-    
-- **SA (Security Association)**: define cómo se usarán los servicios de seguridad.
-    
-- **Protocolos de seguridad**:
-    
-    - **AH (Authentication Header)**:
-        
-        - Brinda autenticación, integridad y no repudio.
-            
-        - No cifra los datos.
-            
-    - **ESP (Encapsulating Security Payload)**:
-        
-        - Proporciona cifrado, integridad y autenticación.
-            
-        - Puede usarse solo o junto con AH.
-            
+## Profundización sobre VPN IPSec
 
 ---
 
-### VPN SSL/TLS
+## ¿Qué es IPSec?
 
-Utiliza los protocolos SSL (obsoleto) o **TLS** para ofrecer acceso remoto a través de navegadores web.
+**IPSec (Internet Protocol Security)** es un conjunto de protocolos que permite establecer una **VPN (Red Privada Virtual)** en la **capa 3 del modelo OSI** (red).  
+Su objetivo es garantizar:
 
-- No requiere instalación de software adicional.
+- **Confidencialidad de los datos** (evitar que terceros los lean)
     
-- Cifra todo el tráfico con **E2EE (End-to-End Encryption)**.
+- **Autenticación mutua** (verificar identidad entre los extremos)
     
-- Permite autenticación y acceso remoto como si el usuario estuviera en la red local.
+- **Integridad** (verificar que los datos no hayan sido modificados)
     
-- **Tipos de SSL VPN**:
+- **Intercambio seguro de claves** y negociación de parámetros criptográficos
     
-    - **Portal VPN**: acceso web a un sitio remoto.
-        
-    - **Túnel VPN**: acceso a múltiples recursos (web y no web) mediante navegador con contenido activo.
-        
-- **Ventajas**:
+
+---
+
+## Componentes fundamentales de IPSec
+
+### IKE – _Internet Key Exchange_
+
+- Protocolo que **negocia los parámetros de seguridad (Security Association)**.
     
-    - Fácil de implementar.
+- Establece un **canal seguro inicial** para intercambiar claves criptográficas.
+    
+- Utiliza algoritmos como:
+    
+    - **Confidencialidad:** 3DES, AES, RSA, DH (Diffie-Hellman)
         
-    - Compatible con múltiples navegadores y SO.
+    - **Autenticación:** MD5, SHA1, SHA2
         
-    - Menor soporte técnico.
+- El canal tiene un **tiempo de vida limitado** (ej. 10 minutos)
+    
+
+### SA – _Security Association_
+
+- Representa la relación entre dos extremos (host ↔ host o gateway ↔ gateway).
+    
+- Define:
+    
+    - Qué algoritmos se van a usar
         
+    - Qué claves
+        
+    - Cuánto tiempo serán válidas
+        
+    - Qué servicios de seguridad se activan (confidencialidad, integridad, etc.)
+        
+
+---
+
+## Fases del establecimiento IPSec
+
+### FASE 1 – Negociación IKE
+
+- Se crea un **canal cifrado y autenticado**.
+    
+- Se negocian:
+    
+    - Algoritmos de cifrado y hash
+        
+    - Intercambio de claves
+        
+    - Identidad de los extremos
+        
+    - Tiempo de vida del canal seguro
+        
+
+### FASE 2 – Negociación de parámetros de tráfico
+
+- Se define:
+    
+    - Qué modo de operación se usará (Túnel o Transporte)
+        
+    - Qué encabezado se aplicará (ESP, AH o ambos)
+        
+    - Qué datos se protegerán
+        
+    - Qué reglas seguirán los paquetes
+        
+
+---
+
+## Modos de operación de IPSec
+
+|Modo|Uso principal|Qué cifra/autentica|
+|---|---|---|
+|**Modo Túnel**|Gateway ↔ Gateway / Gateway ↔ Host|Todo el paquete IP original (incluye encabezado IP)|
+|**Modo Transporte**|Host ↔ Host|Solo el **payload** (datos) del paquete IP|
+
+---
+
+## Protocolos principales de IPSec
+
+### AH – Authentication Header
+
+- Proporciona:
+    
+    - ✅ Autenticación de origen
+        
+    - ✅ Integridad
+        
+    - ✅ No repudio
+        
+- **No cifra los datos**
+    
+- Se puede usar en modo Túnel o Transporte
+    
+- En modo Túnel: AH se coloca **antes del encabezado IP original**, protegiendo toda la estructura
+    
+
+### ESP – Encapsulating Security Payload
+
+- Proporciona:
+    
+    - Confidencialidad (**Cifrado**)
+        
+    - Integridad
+        
+    - Autenticación de origen
+        
+- En modo **Transporte**:
+    
+    - Cifra el payload (TCP + datos)
+        
+    - Autenticación va desde el header ESP hasta el trailer ESP
+        
+- En modo **Túnel**:
+    
+    - Cifra **todo el paquete IP original**
+        
+    - Autenticación incluye encabezado IP original
+        
+
+### AH + ESP combinados
+
+- En algunos entornos de alta seguridad se usan **ambos protocolos juntos**, aprovechando:
+    
+    - Cifrado de ESP
+        
+    - Autenticación robusta de AH
+        
+
+---
+
+## Resumen conceptual
+
+|Protocolo|Cifra|Autentica|Integridad|No repudio|Nivel|
+|---|---|---|---|---|---|
+|**AH**|❌|✅|✅|✅|IP (capa 3)|
+|**ESP**|✅|✅|✅|❌ (limitado)|IP (capa 3)|
+|**AH+ESP**|✅ (ESP)|✅ (AH)|✅|✅|Alta seguridad|
+
+---
+
+## Diferencia con SSL/TLS VPN
+
+|Aspecto|IPSec|SSL/TLS|
+|---|---|---|
+|Capa del modelo OSI|Capa 3 (Red)|Capa 7 (Aplicación)|
+|Protocolos usados|IKE, AH, ESP|SSL/TLS|
+|Acceso|Red completa (L2/L3)|Aplicaciones específicas (web, RDP, etc.)|
+|Configuración|Compleja, requiere cliente|Más sencilla (puede usar navegador)|
+|Casos de uso|Sucursales, redes corporativas|Acceso remoto web, BYOD|
+
+---
+
+## Usos típicos de VPN IPSec
+
+- **Site-to-Site VPN**: interconectar sucursales o redes completas
+    
+- **Remote Access VPN**: conexión segura de un usuario remoto a la red empresarial
+    
+- **VPNs en bancos, organismos públicos, gobiernos**
+    
+- **Ambientes donde se requiere seguridad a bajo nivel (capa 3)**
+    
+
+---
+
+## ¿Cómo se vería en un flujo real?
+
+1. Cliente inicia IKE → se establece canal seguro
+    
+2. Se negocian los parámetros (SA)
+    
+3. Se define modo túnel o transporte
+    
+4. Se aplica AH, ESP o ambos según configuración
+    
+5. Todo el tráfico posterior viaja cifrado y autenticado
+    
 
 ---
 
 ### Protocolos VPN comparados
 
-|Protocolo|Pros|Contras|Recomendación|
-|---|---|---|---|
-|**OpenVPN**|Seguro, código abierto, estable, usa AES‑256|Requiere más ancho de banda|⭐ Recomendado|
-|**WireGuard**|Muy rápido, liviano, moderno|Configuración por defecto con problemas de privacidad|👍 Muy buena opción|
-|**PPTP**|Rápido, fácil|Inseguro, vulnerable, descifrado por la NSA|❌ Obsoleto|
-|**IKEv2/IPSec**|Estable, rápido, ideal para móviles|Código cerrado (salvo Linux), posible backdoor NSA|✅ Aceptable|
-|**L2TP/IPSec**|Más seguro que PPTP|Muy lento, sospechas de vulnerabilidad NSA|⚠️ Evitar|
-|**SSTP**|Bueno contra cortafuegos, cifrado fuerte|Código cerrado, posible acceso NSA|⚠️ Riesgoso|
-|**SoftEther**|Código abierto, muy rápido, bueno contra censura|Poca compatibilidad, requiere configuración|✅ Potencial futuro|
+| Protocolo       | Pros                                             | Contras                                               | Recomendación       |
+| --------------- | ------------------------------------------------ | ----------------------------------------------------- | ------------------- |
+| **OpenVPN**     | Seguro, código abierto, estable, usa AES‑256     | Requiere más ancho de banda                           | ⭐ Recomendado       |
+| **WireGuard**   | Muy rápido, liviano, moderno                     | Configuración por defecto con problemas de privacidad | 👍 Muy buena opción |
+| **PPTP**        | Rápido, fácil                                    | Inseguro, vulnerable, descifrado por la NSA           | ❌ Obsoleto          |
+| **IKEv2/IPSec** | Estable, rápido, ideal para móviles              | Código cerrado (salvo Linux), posible backdoor NSA    | ✅ Aceptable         |
+| **L2TP/IPSec**  | Más seguro que PPTP                              | Muy lento, sospechas de vulnerabilidad NSA            | ⚠️ Evitar           |
+| **SSTP**        | Bueno contra cortafuegos, cifrado fuerte         | Código cerrado, posible acceso NSA                    | ⚠️ Riesgoso         |
+| **SoftEther**   | Código abierto, muy rápido, bueno contra censura | Poca compatibilidad, requiere configuración           | ✅ Potencial futuro  |
 
 ---
 

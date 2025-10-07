@@ -10,7 +10,7 @@ pedro mele ---> profesor re pajero
 Juan antonio ---> informatica forense (trank)
 rabuch ---> buen profesor
 Martin acosta ---> segun el grupo es choto
-Picicelli ---> medio cara de verga segun el grupo de wpp
+Picicelli ---> alto cara de verga segun el grupo de wpp
 ## Preguntas para ingles
 
 a que te dedicas
