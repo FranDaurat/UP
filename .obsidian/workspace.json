@@ -77,12 +77,14 @@
             "id": "f61be72b840f060b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 9 - Soluciones de seguridad perimetral.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Clase 9 - Soluciones de seguridad perimetral"
             }
           }
         ],
@@ -230,8 +232,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2ff2473fa8c4ca41",
+  "active": "f61be72b840f060b",
   "lastOpenFiles": [
+    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Repaso parcial.md",
+    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 9 - Soluciones de seguridad perimetral.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Imagenes/Pasted image 20251007141118.png",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Imagenes/Pasted image 20251007141115.png",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Imagenes/Pasted image 20250924100232.png",
@@ -242,11 +246,8 @@
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Imagenes/Pasted image 20250924094026.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20250916142336.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20250903174956.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20250903173319.png",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Repaso parcial.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Imagenes",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Cosas importantes.md",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 9 - Soluciones de seguridad perimetral.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 8 - Protocolos seguros de transporte.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 7 - VPN.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 6 - AAA + DLP.md",
