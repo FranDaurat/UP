@@ -39,14 +39,12 @@
             "id": "fe4631c3463e08c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 10 - Algoritmos evolutivos.md",
-                "mode": "source",
-                "source": false
+                "file": "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017092113.png"
               },
-              "icon": "lucide-file",
-              "title": "Clase 10 - Algoritmos evolutivos"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251017092113"
             }
           }
         ],
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 10 - Algoritmos evolutivos.md",
+                "file": "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017092113.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clase 10 - Algoritmos evolutivos"
+              "title": "Backlinks for Pasted image 20251017092113"
             }
           },
           {
@@ -207,21 +205,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe4631c3463e08c1",
+  "active": "2ff2473fa8c4ca41",
   "lastOpenFiles": [
-    "Etc.md",
-    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 10 - Algoritmos evolutivos.md",
-    "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 10 - Introduccion a los patrones de sieño.md",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 10 - Normas de seguridad.md",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 8 y 9 (Numeros Enteros).md",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017110929.png",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017092113.png",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017092136.png",
     "Segundo Año/Segundo cuatrimestre/Parciales.md",
+    "Rutinas.md",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 4 - Maquinas de estado finito.md",
+    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 10 - Normas de seguridad.md",
+    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 8 - Protocolos seguros de transporte.md",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 8 y 9 (Numeros Enteros).md",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017110948.png",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017094033.png",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017092149.png",
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 5,6,7 - (Grafos).md",
+    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 10 - Algoritmos evolutivos.md",
+    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 9 - Aprendizaje en las redes neuronales.md",
+    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 8 - Uso de redes neuronales.md",
+    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 7 - Percepcion.md",
+    "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Etc.md",
+    "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 10 - Introduccion a los patrones de sieño.md",
     "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Clase 8 - ¡Relato, impacto, tiempo!.md",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 8 - Diagrama de clases II.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251012170158.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251012170204.png",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 7 - Diagrama de clases  I.md",
-    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 9 - Aprendizaje en las redes neuronales.md",
-    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Clase 8 - Uso de redes neuronales.md",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 9 - Diagramas de secuencia.md",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 5 - Diagrama de actividades I.md",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 6 - Diagrama de actividades II.md",
@@ -230,21 +239,9 @@
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Clase 2 - Concepto de objetos.md",
     "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Imagenes/Pasted image 20251008100959.png",
     "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Imagenes/Pasted image 20251008100941.png",
-    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Imagenes/Pasted image 20251008100905.png",
-    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Imagenes/Pasted image 20251008100712.png",
-    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Imagenes/Pasted image 20251008100523.png",
-    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Imagenes/Pasted image 20251008100341.png",
-    "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Imagenes/Pasted image 20251008100228.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251007204352.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Cosas importantes.md",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clases 5,6,7 - (Grafos).md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Repaso parcial.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Cosas importantes.md",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 8 - Protocolos seguros de transporte.md",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 9 - Soluciones de seguridad perimetral.md",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 2 - Amenazas y ataques 1.md",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 7 - VPN.md",
-    "Segundo Año/Segundo cuatrimestre/Practica Periodistica 3/Clase 7 - Aristóteles, la oratoria y tú (Ethos, Logos, Phatos).md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Imagenes",
     "Segundo Año/Segundo cuatrimestre/Analisis de Sistemas/Imagenes",
     "Segundo Año/Segundo cuatrimestre/Inteligencia Artificial/Imagenes",
