@@ -1,2 +1,0 @@
--- --
-Mediados de octubre parcial
