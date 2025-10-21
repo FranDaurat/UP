@@ -51,8 +51,6 @@ Descubrir **patrones ocultos o agrupamientos (clusters)** en los datos.
 
 Usaste **aprendizaje supervisado** porque el modelo fue entrenado con **transacciones ya etiquetadas como fraude o no fraude**, y se buscó que **aprendiera a clasificar nuevas transacciones** correctamente.
 
-¿Querés que también te explique el **aprendizaje por refuerzo** o te compare distintos algoritmos supervisados (árboles, SVM, redes neuronales, etc.)?
-
 -- -
 
 # 2. ¿Qué es una Red Neuronal Profunda?
@@ -303,3 +301,19 @@ Se usó **Adam** para optimizar los pesos y garantizar que la red converja más 
 
 ---
 
+# Explicacion diagramas
+
+## Explicación del Diagrama de Flujo del Sistema DNN
+
+![[Pasted image 20251021153833.png]]
+
+
+El diagrama ilustra el _pipeline_ (flujo de trabajo) de preparación de datos para el **Sistema de Detección de Fraude (DNN)**, desde que se reciben las transacciones hasta que están listas para el entrenamiento del modelo de Inteligencia Artificial.
+
+|**Paso**|**Bloque del Diagrama**|**Significado y Propósito**|
+|---|---|---|
+|**Inicio**|**Transacciones Brutas**|Es la materia prima: el conjunto de registros históricos de transacciones financieras tal como se reciben. Estos datos incluyen variables con diferentes escalas (ej: montos grandes y horas pequeñas), valores categóricos (ej: tipo de tarjeta) y el desequilibrio natural de clases (mucho "No Fraude", poco "Fraude").|
+|**1**|**Preprocesamiento y Escalamiento**|Se aplica la limpieza de datos (eliminar valores nulos o inconsistencias) y el **Escalamiento** (usando _StandardScaler_). Este paso es crucial para que todas las variables numéricas tengan la misma magnitud. Esto es vital para que el algoritmo de optimización (Descenso de Gradiente, como Adam) funcione de manera eficiente y justa, sin que una característica domine a las demás solo por tener un valor numérico grande.|
+|**2**|**Datos Escalados (D1)**|Es el resultado del primer paso: las transacciones están ahora listas para el modelo (limpias, con variables categóricas codificadas y con magnitudes uniformes).|
+|**3**|**División Train/Test**|Los datos escalados se dividen en dos subconjuntos principales: **Entrenamiento (Train)** y **Prueba (Test)**. Esta división debe hacerse con la estrategia _stratify_ (estratificada) para asegurar que el conjunto de entrenamiento y el de prueba tengan una proporción similar de casos de fraude/no fraude.|
+|**4**|**Conclusión**|Representa la fase final del proceso de modelado, donde la arquitectura DNN (Red Neuronal Profunda) entrenará con los datos de **Entrenamiento** y será evaluada con los datos de **Prueba** para determinar su rendimiento (usando métricas como Loss, Accuracy y **Recall**).|
