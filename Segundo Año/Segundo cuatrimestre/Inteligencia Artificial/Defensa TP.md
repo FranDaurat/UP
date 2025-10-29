@@ -45,8 +45,6 @@ Descubrir **patrones ocultos o agrupamientos (clusters)** en los datos.
 |**Entrada de datos**|Input + Output|Solo Input|
 |**Resultado esperado**|Modelo que predice salidas conocidas|Estructura interna de los datos|
 
----
-
 ## En tu TP:
 
 Usaste **aprendizaje supervisado** porque el modelo fue entrenado con **transacciones ya etiquetadas como fraude o no fraude**, y se buscó que **aprendiera a clasificar nuevas transacciones** correctamente.
@@ -127,6 +125,37 @@ Las DNN:
 |**Backpropagation**|Algoritmo que ajusta los pesos durante el entrenamiento|
 |**Función de pérdida (loss)**|Mide qué tan mal predice la red, para corregir errores|
 |**Optimización (e.g., Adam)**|Algoritmo que busca minimizar la función de pérdida|
+
+---
+## Loss (Pérdida)
+
+La **Loss** (Pérdida) es la **medida de error** del modelo.
+
+- **Definición:** Es el valor que el entrenamiento (mediante **Binary Crossentropy**) busca **minimizar**.
+    
+- **Enfoque:** Indica qué tan mal están las predicciones en comparación con las etiquetas reales. Cuanto más bajo sea el valor de Loss, mejor está aprendiendo la red.
+    
+
+## Accuracy (Precisión)
+
+La **Accuracy** (Precisión) mide la **exactitud general**.
+
+- **Definición:** Es el **porcentaje total de predicciones correctas** (aciertos) que hizo el modelo.
+    
+- **Limitación:** Es una métrica engañosa en tu TP, ya que un alto _Accuracy_ (ej., 99%) puede ser inflado por la gran cantidad de casos "No Fraude", y no te dice nada sobre si detectaste los fraudes reales.
+    
+
+## Recall (Sensibilidad)
+
+El **Recall** (Sensibilidad) es la métrica **más importante** y se enfoca en los casos de fraude.
+
+- **Definición:** Mide la capacidad del modelo para encontrar **todos los casos de fraude reales** que existían en los datos.
+    
+- **Enfoque en el Error:** Su objetivo principal es **minimizar los Falsos Negativos (FN)**.
+    
+    - Un **Falso Negativo (FN)** es el error más costoso: **era fraude, pero el modelo lo dejó pasar** (pérdida económica).
+        
+- **En resumen:** Se enfoca en que el sistema sea sensible a la hora de identificar la clase minoritaria y peligrosa.
 
 ---
 
@@ -291,16 +320,36 @@ Se usó **Adam** para optimizar los pesos y garantizar que la red converja más 
 
 ## En resumen, en tu TP:
 
-|Componente|Rol|
-|---|---|
-|**ReLU**|Función de activación en capas ocultas|
-|**Sigmoid**|Activación final para devolver una probabilidad de fraude|
-|**Binary Cross Entropy**|Mide el error de predicción en clasificación binaria|
-|**Backpropagation**|Propaga el error y ajusta los pesos|
-|**Adam**|Decide cómo ajustar los pesos para minimizar el error|
+| Componente               | Rol                                                       |
+| ------------------------ | --------------------------------------------------------- |
+| **ReLU**                 | Función de activación en capas ocultas                    |
+| **Sigmoid**              | Activación final para devolver una probabilidad de fraude |
+| **Binary Cross Entropy** | Mide el error de predicción en clasificación binaria      |
+| **Backpropagation**      | Propaga el error y ajusta los pesos                       |
+| **Adam**                 | Decide cómo ajustar los pesos para minimizar el error     |
+|                          |                                                           |
 
 ---
 
+## Roles de las Librerías en el TP
+
+|**Librería**|**Rol Principal**|**Función Específica en el TP**|
+|---|---|---|
+|**TensorFlow / Keras**|**Construcción y Entrenamiento de la DNN**.|Es el _framework_ principal para definir la **Arquitectura DNN Sequential**, construir las **Capas Densas**, y ejecutar la fase de **Compilación** y **Entrenamiento** (_model.fit_). Keras se ocupa de aplicar el algoritmo **Backpropagation** para ajustar los pesos.|
+|**Scikit-learn (sklearn)**|**Preparación de Datos y Métricas**.|Es el _framework_ estándar para el preprocesamiento. Se utiliza para: 1. El **Escalamiento** (_StandardScaler_). 2. La **División de Datos** (_train_test_split_ con _stratify_). 3. Generar datos simulados.|
+|**Numpy**|**Manipulación Numérica**.|Se utiliza para el trabajo eficiente con arrays multidimensionales (_ndarrays_), que es el formato en que los datos (X e y del _dataset_) son manejados por los _frameworks_ de IA.|
+
+### Componentes Específicos:
+
+- **StandardScaler:** Módulo de `Scikit-learn` que realiza el **Escalamiento** de las variables numéricas.
+    
+- **Sequential:** Clase de `Keras` que define la red con un **flujo lineal** (una capa alimenta a la siguiente).
+    
+- **Dense Layer:** Clase de `Keras` que se ocupa de la **conexión completa** entre las neuronas.
+    
+- **train_test_split:** Función de `Scikit-learn` que divide los datos en Entrenamiento y Prueba.
+
+-- -
 ## Explicación de StandardScaler y Stratify
 
 Tanto **StandardScaler** como la estrategia **Stratify** son técnicas fundamentales utilizadas en la fase de **Preprocesamiento de Datos** antes de entrenar un modelo de Machine Learning, como la Red Neuronal Profunda (DNN) propuesta en tu TP.
