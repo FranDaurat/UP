@@ -316,6 +316,33 @@ Durante el backpropagation, decide **cuánto deben ajustarse los pesos** para re
 **En tu TP:**  
 Se usó **Adam** para optimizar los pesos y garantizar que la red converja más rápido.
 
+
+1. **Backpropagation es el Calculador del Error (Gradiente):**
+    
+    - **Función:** Una vez que la red hace una predicción y se calcula la **Loss** (Pérdida) con la **Binary Crossentropy**, Backpropagation toma ese error y calcula el **gradiente**.
+        
+    - **Resultado:** El gradiente es esencialmente la **dirección y magnitud** en la que deben moverse los pesos sinápticos para reducir la Loss. Backpropagation se encarga de este cálculo complejo a través de todas las capas de la red.
+        
+2. **El Optimizador Adam es el Ajustador de Pesos (Descenso de Gradiente):**
+    
+    - **Función:** Adam recibe el **gradiente** (la dirección de ajuste) que le proporciona Backpropagation.
+        
+    - **Acción:** Adam utiliza una fórmula avanzada para ejecutar el **Descenso de Gradiente**, decidiendo cuánto y cómo ajustar los pesos sinápticos. Adam es más inteligente que un simple descenso porque maneja dinámicamente la "velocidad" o tasa de aprendizaje de cada peso, asegurando una convergencia más rápida y estable.
+        
+
+---
+
+**Funcionamiento en Conjunto:**
+
+El proceso se repite miles de veces (durante los _epochs_):
+
+- **Paso 1:** Backpropagation calcula la "pista" de cómo reducir el error.
+    
+- **Paso 2:** El Optimizador Adam usa esa pista para "mover" los pesos.
+    
+
+En resumen: **Backpropagation calcula el error; Adam lo utiliza para modificar los pesos de la red.**
+
 ---
 
 ## En resumen, en tu TP:
@@ -327,7 +354,7 @@ Se usó **Adam** para optimizar los pesos y garantizar que la red converja más 
 | **Binary Cross Entropy** | Mide el error de predicción en clasificación binaria      |
 | **Backpropagation**      | Propaga el error y ajusta los pesos                       |
 | **Adam**                 | Decide cómo ajustar los pesos para minimizar el error     |
-|                          |                                                           |
+
 
 ---
 
