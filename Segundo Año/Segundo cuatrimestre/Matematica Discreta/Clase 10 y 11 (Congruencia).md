@@ -10,8 +10,8 @@
 ![[Pasted image 20251020125440.png]]
 
 **Pequeño teorema de Fermat (con ejemplo)**
-![[Pasted image 20251030181752.png]]
-
+![[Pasted image 20251101174955.png]]
+![[Pasted image 20251102123157.png]]
 # Congruencia II (Ecuaciones)
 
 **Teoria:**
