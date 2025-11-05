@@ -5,7 +5,7 @@
 
 ---
 ---
-### I. JÜRGEN KLARIC (Neuro Oratoria)
+# I. JÜRGEN KLARIC (Neuro Oratoria)
 
 Klarić se enfoca en la **neurociencia**, el **lenguaje corporal** y la **estructura** para cautivar a la mente del público.
 
@@ -67,7 +67,7 @@ Klarić se enfoca en la **neurociencia**, el **lenguaje corporal** y la **estruc
 
 ---
 
-### II. IGNACIO DI BARTOLO (Oratoria Contemporánea) 
+# II. IGNACIO DI BARTOLO (Oratoria Contemporánea) 
 
 Di Bártolo se enfoca en la **expresión oral**, el manejo del **miedo** y el uso apropiado de **apoyos visuales**.
 
@@ -131,7 +131,7 @@ Di Bártolo se enfoca en la **expresión oral**, el manejo del **miedo** y el us
 
 ---
 
-### III. ARISTOTELES, GRICE y CERVANTES (Principios Fundamentales)
+# III. ARISTOTELES, GRICE y CERVANTES (Principios Fundamentales)
 
 Estos autores sientan las bases de la persuasión y la cortesía en el discurso.
 
@@ -157,14 +157,11 @@ Estos autores sientan las bases de la persuasión y la cortesía en el discurso.
         
 - **Adecuación al Destinatario:** **El destinatario es el centro y fin de las palabras del orador**. Hay que adaptar el **contenido** (nivel de profundidad y conocimientos previos) y la **forma** (nivel de lenguaje, registro, medir el tiempo) a las necesidades del público.
 
--- -
 **Ethos, Pathos, y Logos** son los tres componentes fundamentales de la persuasión en la oratoria, según la teoría establecida por el filósofo griego **Aristóteles**.
 
 Estos tres elementos son necesarios para que un discurso o presentación sea influyente y logre convencer al público.
 
 Aquí tienes el desglose de cada uno:
-
----
 
 ### 1. Ethos (Credibilidad) 
 
@@ -191,3 +188,314 @@ Aquí tienes el desglose de cada uno:
 - **Cómo se logra:** Principalmente mediante el uso de **historias** y **anécdotas** que permitan al público conectarse emocionalmente con el mensaje.
     
 - **En la práctica:** Es el componente más poderoso, ya que la emoción no aparece en la definición de persuadir, pero sin el impacto emocional, una charla no alcanza influencia.
+
+-- - 
+# Modulo 9 – _Oratoria de Vladimir Putin_ 
+
+### ¿Qué lo define como orador?
+
+- No busca conectar: busca **afirmar autoridad**.
+    
+- Su comunicación está pensada para **imponer respeto, orden y jerarquía**.
+    
+- El discurso es una **extensión de su forma de gobernar**: frío, calculado y persuasivo por firmeza.
+    
+
+---
+
+### Comunicación No Verbal
+
+- **Postura:** firme y estable, siempre de frente, sin moverse → transmite control.
+    
+- **Atril:** actúa como barrera simbólica → marca distancia jerárquica.
+    
+- **Mirada:** directa, sin evasión → proyecta dominio y credibilidad.
+    
+- **Gestos:** mínimos y controlados → evitan distracción, refuerzan solo lo clave.
+    
+- **Rostro:** sin microexpresiones de tensión → alto autocontrol emocional.
+    
+- **Voz:** grave, constante, con pausas largas → impone atención y seriedad.
+    
+- **Escena visual:** sobriedad, simetría, ausencia de estímulos → genera sensación de poder.
+    
+Todo en su cuerpo y entorno **proyecta autoridad y orden**, no cercanía.
+
+---
+
+### Comunicación Verbal
+
+- **Lenguaje directo y estratégico**, con frases breves y tajantes.
+    
+- **Estructura clara**: plantea un problema, culpa al enemigo y cierra con advertencia.
+    
+- Usa expresiones como _"No estoy bromeando"_ para dejar sin margen de interpretación.
+    
+- Repite ideas claves como "defensa del pueblo ruso" → justifica acción militar.
+    
+- Emplea **metáforas simples** para traducir conflictos complejos → más impacto emocional.
+    
+- Dosifica la intensidad: reserva lo más fuerte para el final → retiene atención.
+    
+- **Economía verbal:** dice mucho con pocas palabras → refuerza su imagen racional.
+    
+
+Su palabra no busca emocionar: busca **legitimar, intimidar y ordenar**.
+
+---
+
+### Storytelling en crisis (Discurso sobre Wagner)
+
+- Se presenta como **héroe protector** del Estado → única figura capaz de restaurar el orden.
+    
+- Los rebeldes = enemigos del pueblo → configura un relato moral.
+    
+- Usa metáforas e imágenes simbólicas → facilita comprensión y moviliza emociones.
+    
+- Conoce a su audiencia → activa el nacionalismo y la nostalgia por la URSS.
+    
+
+Usa el relato para **construir sentido en medio del caos** y reafirmar liderazgo.
+
+---
+
+### Comparación con Obama
+
+|Putin|Obama|
+|---|---|
+|Frío, controlado, vertical|Cercano, espontáneo, horizontal|
+|Discurso = orden y poder|Discurso = conexión y empatía|
+|Sobriedad visual y gestual|Movimiento, sonrisa y humor|
+|Tono monótono, pausado|Tono cálido, ritmo variable|
+|Lidera desde la distancia|Lidera desde la cercanía|
+Ambos usan la palabra como herramienta política, pero con **estrategias opuestas**.
+
+---
+
+### Estrategia retórica (ethos – pathos – logos)
+
+- **Ethos**: se muestra como líder racional, técnico y previsible.
+    
+- **Pathos**: activa el patriotismo, no lo emocional → moviliza sin exaltarse.
+    
+- **Logos**: argumento claro → "nos atacan, respondemos", justifica acción como defensa.
+    
+
+Usa la razón para estructurar, y la emoción solo como **recurso nacionalista**.
+
+---
+
+### Conclusión
+
+- **No busca seducir, sino imponer**.
+    
+- Su oratoria **disciplina la escucha**: cada pausa, gesto y palabra refuerza su control.
+    
+- Habla con **intención táctica**, no para conectar, sino para mandar.
+    
+- El silencio en él **no es vacío**, es parte del mensaje: **impone respeto**.
+    
+
+---
+# Modulo 10 – _Oratoria de Taylor Swift_
+
+### **¿Por qué su oratoria importa?**
+
+- No improvisa: **usa la palabra como herramienta estratégica**.
+    
+- Sus discursos construyen comunidad, identidad y liderazgo cultural.
+    
+- Conecta emocionalmente sin dejar de ser precisa y clara.
+    
+
+---
+
+### **Comunicación No Verbal**
+
+- **Postura:** erguida pero relajada → transmite confianza sin soberbia.
+    
+- **Gestos:** naturales, coherentes con lo que dice → refuerzan credibilidad.
+    
+- **Mirada:** directa al público o cámara → genera intimidad.
+    
+- **Voz:** modula ritmo y tono según el momento → emoción sincera, no actuación.
+    
+- **Movimientos:** se desplaza con propósito → usa el espacio como recurso expresivo.
+    
+- **Rostro:** expresa emociones reales → provoca identificación automática (efecto espejo).
+    
+
+Su cuerpo, mirada, voz y rostro **dicen tanto como sus palabras**.
+
+---
+
+### **Estructura del Discurso**
+
+- **Inicio:** siempre genera empatía (anécdotas, humor, agradecimiento).
+    
+- **Desarrollo:** conecta ideas de forma fluida, sin cortes abruptos.
+    
+- **Cierre:** deja una frase que refuerza identidad o llama a la acción.
+    
+- Siempre combina: **coherencia (logos)**, **emoción (pathos)** y **credibilidad (ethos)**.
+    
+
+Cada intervención tiene una **estructura pensada para emocionar y persuadir**.
+
+---
+
+### **Construcción de sentido e identidad**
+
+- **Critica roles de género** sin confrontar: muestra el doble estándar en medios.
+    
+- Transforma ataques en **mensajes con poder simbólico**.
+    
+- **No se muestra perfecta:** muestra errores y caídas → construye desde la vulnerabilidad.
+    
+- **Reinventa su imagen** a través del lenguaje → cada discurso afirma quién es.
+    
+
+**Hablar, para Taylor, es construir identidad, resistir y resignificar.**
+
+---
+
+### **Conexión emocional y comunidad**
+
+- Genera identificación: se muestra como “una más”, no como estrella intocable.
+    
+- Usa humor, anécdotas y lenguaje emocional → **acorta distancias**.
+    
+- Convierte sus historias en relatos colectivos que inspiran y unen.
+    
+
+Su audiencia **no solo la admira, se siente parte de ella**.
+
+---
+
+### **Estrategia y marca**
+
+- Cada palabra refuerza su identidad: empática, fuerte, auténtica.
+    
+- Usa recursos como los **easter eggs** → involucra activamente al público.
+    
+- Sus discursos generan incluso **impacto económico** (Swiftonomics).
+    
+- Lidera desde la palabra: **no grita, construye sentido**.
+    
+
+Su oratoria **es parte central de su marca y de su poder real.**
+
+---
+## Modulo 11 – _Oratoria de Conor Mcgregor_
+
+### ¿Qué lo define como orador?
+
+- **Carisma agresivo**: impone presencia con cuerpo y voz desde el primer segundo.
+    
+- Oratoria como **arma de provocación, intimidación y autoafirmación**.
+    
+- **Se amolda al contexto**: arrogante en conferencias, humilde tras derrotas → _estrategia emocional flexible_.
+    
+
+---
+
+### Comunicación No Verbal
+
+- **Gestos amplios y dominantes** → marcan territorio.
+    
+- **Postura corporal desafiante**: proyecta confianza excesiva (intimidación).
+    
+- **Vestimenta llamativa, trajes caros, gafas oscuras** → afirma estatus y poder simbólico.
+    
+- **Expresiones faciales**: muecas, sonrisas irónicas → provocación directa.
+    
+- **Contacto visual directo y sostenido** → confronta al otro sin miedo.
+    
+- **Tono y volumen de voz variable**, pero siempre enérgico → mantiene atención y tensión.
+    
+
+Su cuerpo comunica poder, desafío y espectáculo constante.
+
+---
+
+### Comunicación Verbal
+
+- **Lenguaje directo, ofensivo y disruptivo**.
+    
+- **Economía verbal con impacto**: frases cortas, contundentes, memorables (_“I’m not here to take part, I’m here to take over”_).
+    
+- Provoca para desestabilizar al rival y capturar al público.
+    
+- Recurre al **insulto teatralizado**, usado estratégicamente como herramienta retórica.
+    
+- En derrotas o situaciones formales: se muestra humilde, reflexivo y respetuoso → _control del personaje_.
+    
+
+📌 Combina **agresión e inteligencia escénica** según el objetivo del momento.
+
+---
+
+### Estrategia y estructura discursiva
+
+- **Inicio impactante**: declaración poderosa o ataque directo.
+    
+- **Desarrollo dinámico**: mezcla de anécdotas, provocaciones, humor y comparaciones.
+    
+- **Cierre rotundo**: frase con poder simbólico que se viraliza.
+    
+
+**No improvisa**: construye discursos pensados para durar en la memoria y los medios.
+
+---
+
+### Relación con el público
+
+- Habla para su audiencia más que para el oponente → **genera show, no solo pelea**.
+    
+- Repetición de frases identitarias lo convierte en marca.
+    
+- Su oratoria no busca convencer, sino **crear una narrativa dominante** (quién soy, por qué soy mejor, por qué soy invencible).
+    
+
+Sus discursos **no explican: performan** → _el habla es parte del espectáculo_.
+
+---
+
+### Personaje y puesta en escena
+
+- **Personaje exagerado**, mezcla de villano y héroe.
+    
+- Utiliza todo recurso verbal y no verbal para construir un aura de invencible.
+    
+- En derrota: cambia el registro → se humaniza → preserva reputación.
+    
+
+**Construye un personaje desde la palabra, y lo adapta según la ocasión**.
+
+---
+
+### Aplicación retórica (ethos – pathos – logos)
+
+- **Ethos**: se legitima con su historia de superación y confianza extrema.
+    
+- **Pathos**: provoca emoción (risa, furia, asombro) con cada intervención.
+    
+- **Logos**: escaso → usa más la provocación que la argumentación racional.
+    
+
+Su poder retórico reside en **el impacto emocional, no la lógica**.
+
+---
+
+### Cierre
+
+- McGregor es **el ejemplo de orador performativo extremo**.
+    
+- Usa la palabra para **crear mito, espectáculo y poder**.
+    
+- La oratoria en él **no se analiza como discurso político o académico**, sino como parte del **show business del deporte**.
+    
+
+---
+
+
