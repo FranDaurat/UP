@@ -189,7 +189,70 @@ Aquí tienes el desglose de cada uno:
     
 - **En la práctica:** Es el componente más poderoso, ya que la emoción no aparece en la definición de persuadir, pero sin el impacto emocional, una charla no alcanza influencia.
 
--- - 
+---
+## III. CARMINE GALLO (_Habla como en TED_)
+
+Gallo analiza cómo se comunican los oradores más exitosos del mundo (especialmente en charlas TED) y propone un modelo práctico dividido en **tres pilares** que se apoyan en la neurociencia, la retórica y el storytelling.
+
+#### 1. Conexión Emocional
+
+- **Pasión:** La idea central es que **las personas recuerdan cómo las hiciste sentir**, no lo que dijiste. Por eso, el orador debe hablar de lo que ama. La pasión **inspira y conecta emocionalmente** con la audiencia.
+    
+- **Narrativas personales:** Las **historias reales, personales y emotivas** son el recurso más poderoso. Activan el cerebro en más áreas que los datos o las descripciones abstractas, generando **empatía y retención**.
+    
+- **Estímulo emocional:** Incorporar emociones como **asombro, alegría, ternura o sorpresa** genera **dopamina**, que fortalece el aprendizaje y la conexión con el mensaje.
+    
+
+---
+
+#### 2. Novedad y Estímulo Mental
+
+- **Contenido sorprendente:** El cerebro presta atención a lo **inesperado**. Las presentaciones deben contener algún **elemento novedoso o disruptivo** que rompa con lo previsible.
+    
+- **Analogías y metáforas:** Para explicar ideas complejas, lo mejor es usar **comparaciones sencillas y visuales**. Las metáforas facilitan la comprensión y fijan el concepto en la memoria.
+    
+- **Estímulo multisensorial:** Combinar **voz, imagen y movimiento** activa distintas áreas del cerebro. Usar recursos visuales, objetos o ejemplos físicos **refuerza el aprendizaje** y mantiene el interés.
+    
+
+---
+
+#### 3. Memoria y Efectividad
+
+- **Claridad y brevedad:** El límite ideal son **18 minutos** (como en TED), porque luego de ese tiempo la atención empieza a disminuir. Las ideas deben ser **concretas, enfocadas y sin relleno**.
+    
+- **Autenticidad:** El orador debe ser **natural y genuino**. Memorizar frases exactas suena artificial. Se debe hablar con **naturalidad, convicción y coherencia gestual**.
+    
+- **Cierre poderoso:** El final debe tener **impacto emocional o reflexivo**. Las personas recuerdan el cierre más que el desarrollo. Puede ser una frase, una imagen o una pregunta que deje pensando.
+    
+
+---
+
+#### 4. Estrategias Específicas para el Orador
+
+- **Usar storytelling** como recurso base para estructurar toda la presentación.
+    
+- **Ensayar**, pero sin sonar rígido: se debe internalizar el contenido, no recitarlo.
+    
+- **Diseñar presentaciones visuales** con pocos textos y alto valor gráfico (similar a Di Bártolo).
+    
+- **Evitar jergas técnicas innecesarias**: el mensaje debe ser claro para cualquier audiencia.
+    
+- **Transmitir entusiasmo auténtico**: la energía del orador influye directamente en la percepción del público.
+    
+
+---
+
+#### 5. Frases clave del autor
+
+- “Las ideas no valen nada si no se comunican con eficacia.”
+    
+- “No hables para impresionar. Hablá para inspirar.”
+    
+- “Las historias son la moneda de cambio de la comunicación.”
+    
+- “El cerebro no presta atención a lo aburrido.”
+    
+---
 # Modulo 9 – _Oratoria de Vladimir Putin_ 
 
 ### ¿Qué lo define como orador?
