@@ -68,3 +68,29 @@ El **STP** (_Spanning Tree Protocol_, IEEE 802.1D) es un protocolo de Capa 2 (en
 - **Dominio de Broadcast:** Cada VLAN es su propio **dominio de broadcast**, lo que ayuda a controlar el tráfico de difusión y, por ende, mejora la seguridad.
     
 - **Comunicación:** La comunicación entre diferentes VLANs siempre requiere **enrutamiento de Capa 3** (_routers_).
+- ---
+## Soluciones de Alta Disponibilidad a Nivel Gateway
+
+### HSRP y VRRP
+
+Los protocolos **HSRP (Hot Standby Router Protocol)** y **VRRP (Virtual Router Redundancy Protocol)** permiten que **dos o más routers compartan una misma dirección IP virtual**, funcionando como gateway para una red.
+
+- **Problema que resuelven:** Si un router principal cae, sin estos protocolos, los equipos pierden acceso al gateway y a Internet. HSRP y VRRP evitan esto.
+    
+- **HSRP (propietario de Cisco):**
+    
+    - Se designa un **router activo** (Active) y uno en espera (**Standby**).
+        
+    - Si el activo falla, el standby toma su lugar automáticamente.
+        
+    - Utiliza **mensajes Hello** para detectar fallos.
+        
+- **VRRP (estándar abierto):**
+    
+    - Similar a HSRP, pero puede tener múltiples routers en espera (backup).
+        
+    - Todos conocen la IP virtual y tienen un **prioridad configurada**.
+        
+    - El router con mayor prioridad se vuelve el principal.
+        
+- **Función de Disponibilidad:** Los hosts no tienen que cambiar su configuración de gateway. Siempre apuntan a la IP virtual, y el protocolo asegura que esta IP esté **siempre disponible**, incluso si un router falla.

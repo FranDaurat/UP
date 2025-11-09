@@ -11,9 +11,9 @@ Klarić se enfoca en la **neurociencia**, el **lenguaje corporal** y la **estruc
 
 #### 1. Comunicación y Fisiología
 
-- **Composición del Mensaje:** El **93% del mensaje no es verbal**. El cuerpo transmite el **55%** del mensaje, y la voz el **38%**.
+- **Composición del Mensaje:** El **93% del mensaje no es verbal**. El cuerpo transmite el **55%** del mensaje, y el tono de voz el **38%**.
     
-- **"No hay no-conducta":** Es imposible no comportarse; todo en una interacción transmite un mensaje y es comunicación, incluso los silencios o la falta de estímulos.
+- **"No hay no-conducta":** Es imposible no comportarse todo en una interacción transmite un mensaje y es comunicación, incluso los silencios o la falta de estímulos.
     
 - **Mejora del Ánimo:** Si el estado de ánimo negativo es profundo, **pensar positivo no ayuda**. Para modificar el estado de ánimo de forma duradera, se debe empezar por el **cuerpo**. Se recomienda empezar por detectar y estirar áreas de tensión (cara, cejas, quijada) mientras se respira pausadamente.
     
@@ -47,7 +47,7 @@ Klarić se enfoca en la **neurociencia**, el **lenguaje corporal** y la **estruc
     
 - **Contenido de la Introducción:** Debe dejar claro el **objetivo** y lo que se propone **demostrar**. Otras formas de iniciar son con anécdotas graciosas, historias ejemplares o causando preocupación.
     
-- **Desenlace:** Se resuelve el conflicto, se establece la decisión tomada y la enseñanza de vida22.
+- **Desenlace:** Se resuelve el conflicto, se establece la decisión tomada y la enseñanza de vida.
     
 - **Lo que NO debe hacerse:** Evitar el **autoelogio** (provoca rechazo), los **comentarios ofensivos/sarcasmos**, y los **lugares comunes** (frases de relleno).
     
@@ -60,7 +60,7 @@ Klarić se enfoca en la **neurociencia**, el **lenguaje corporal** y la **estruc
     
 - **Tipografía:** Usar **Helvética**; es neutral, creíble y se asocia a la tecnología y la innovación. Evitar un _collage_ de fuentes.
     
-- **Infográficos:** Nunca llenar _slides_ con datos o gráficas de Excel, ya que el cerebro se desconecta28. Usar **infográficos** para enlazar datos con el diseño, proporcionando imágenes vívidas.
+- **Infográficos:** Nunca llenar _slides_ con datos o gráficas de Excel, ya que el cerebro se desconecta. Usar **infográficos** para enlazar datos con el diseño, proporcionando imágenes vívidas.
     
 - **Metáforas:** Son una herramienta fundamental del lenguaje. El cerebro reacciona a las metáforas, aunque si son muy comunes, las entiende literalmente.
     
@@ -86,20 +86,20 @@ Di Bártolo se enfoca en la **expresión oral**, el manejo del **miedo** y el us
 
 #### 2. Dicción y Expresión Verbal
 
-- **Articulación:** La falla principal es hablar con los labios casi cerrados. El consejo es **"Abra la boca, proyecte la voz"**. Un ejercicio clásico es leer con un lápiz entre los dientes41.
+- **Articulación:** La falla principal es hablar con los labios casi cerrados. El consejo es **"Abra la boca, proyecte la voz"**. Un ejercicio clásico es leer con un lápiz entre los dientes.
     
 - **Velocidad:** La mayoría habla entre 120-180 palabras por minuto, pero es correcto **ajustar la velocidad** al tipo de pensamiento o sentimiento que se quiere transmitir. La rapidez uniforme es un obstáculo.
     
-- **Errores y Acentos:** Los errores groseros de dicción (**"ocserbar"**, **"ginnasia"**) perturban la atención43. El **acento regional o extranjero** es identificatorio y no debe disimularse. El público acepta y olvida el _handicap_ (como la tartamudez) si las palabras del orador son dignas de respeto.
+- **Errores y Acentos:** Los errores groseros de dicción (**"ocserbar"**, **"ginnasia"**) perturban la atención. El **acento regional o extranjero** es identificatorio y no debe disimularse. El público acepta y olvida el _handicap_ (como la tartamudez) si las palabras del orador son dignas de respeto.
     
 
 #### 3. Comunicación No Verbal y Movimiento
 
-- **El Gesto:** El gesto debe nacer de un **impulso interior, espontáneo y natural**46. Los gestos refuerzan ideas y ayudan a mantener el diálogo.
+- **El Gesto:** El gesto debe nacer de un **impulso interior, espontáneo y natural**. Los gestos refuerzan ideas y ayudan a mantener el diálogo.
     
-- **Posición en el Estrado:** Conviene estar **de pie**, sin ocultarse tras mesas o atriles48. Si debe sentarse, no debe "derrumbarse" ni permanecer rígido.
+- **Posición en el Estrado:** Conviene estar **de pie**, sin ocultarse tras mesas o atriles. Si debe sentarse, no debe "derrumbarse" ni permanecer rígido.
     
-- **Movimiento y Tics:** Solo se debe desplazar para cambiar de momento (introducción, cuerpo, conclusión)50. **Pasear continuamente** mostrando el perfil es una forma de evasión abortada. Los **gestos parásitos** (rascarse la cabeza, jugar con la ropa) deslucen la conferencia.
+- **Movimiento y Tics:** Solo se debe desplazar para cambiar de momento (introducción, cuerpo, conclusión). **Pasear continuamente** mostrando el perfil es una forma de evasión abortada. Los **gestos parásitos** (rascarse la cabeza, jugar con la ropa) deslucen la conferencia.
     
 - **Manejo de Manos:** El consejo es **olvidarse de ellas**. Dejarlas colgar, cruzarlas por detrás o en **un solo bolsillo**. La necesidad de usarlas para apoyar la palabra nacerá del interés y el corazón.
     
@@ -108,7 +108,7 @@ Di Bártolo se enfoca en la **expresión oral**, el manejo del **miedo** y el us
 
 - **Principio Básico:** La retención aumenta al 50% cuando el público **ve y oye** al mismo tiempo.
     
-- **Guión/Notas:** El orador no necesita notas si el tema está bien digerido. Si las usa (como "sostén psicológico"), deben ser **guiones ostensibles** con letra clara, no párrafos enteros, y nunca deben ocultarse.
+- **Guión/Notas:** El orador no necesita notas si el tema está bien digerido. Si las usa (como "sostén psicológico"), deben ser **guiones sostensibles** con letra clara, no párrafos enteros, y nunca deben ocultarse.
     
 - **Reglas para Diapositivas (Regla del 7):** Las proyecciones deben ser sintéticas, sobrias y fáciles de interpretar.
     
@@ -139,8 +139,8 @@ Estos autores sientan las bases de la persuasión y la cortesía en el discurso.
     
 - **Claridad (Aristóteles):** La excelencia de un discurso se logra cuando este es **claro sin ser bajo**. Se consigue con una mezcla de palabras comunes y especializadas. Un abuso de metáforas puede dar un aire de misterio, y mezclarlas con palabras grandilocuentes resulta ridículo.
     
-- **Máximas de Grice (Para una Buena Comunicación):**
-    
+### **Máximas de Grice**
+- Una buena comunicación requiere: 
     - **Cantidad:** Ser tan informativo como se requiera, pero no dar más información de la necesaria.
         
     - **Calidad:** No decir lo que se cree que es falso o de lo que no se tiene pruebas.
@@ -149,7 +149,8 @@ Estos autores sientan las bases de la persuasión y la cortesía en el discurso.
         
     - **Manera:** Ser claro, breve y ordenado; evitar ambigüedades y expresiones oscuras.
         
-- **Máximas de Leech (Cortesía en el Habla):** Estas seis máximas sintetizan el comportamiento cortés: tacto, generosidad, aprobación, modestia, acuerdo y simpatía.
+### **Máximas de Leech (Cortesía en el Habla):** 
+- Estas seis máximas sintetizan el comportamiento cortés: tacto, generosidad, aprobación, modestia, acuerdo y simpatía.
     
     - **Tacto:** Maximizar las ganancias y minimizar los costes para el oyente.
         
@@ -161,7 +162,7 @@ Estos autores sientan las bases de la persuasión y la cortesía en el discurso.
 
 Estos tres elementos son necesarios para que un discurso o presentación sea influyente y logre convencer al público.
 
-Aquí tienes el desglose de cada uno:
+Desglose de cada uno:
 
 ### 1. Ethos (Credibilidad) 
 
@@ -190,7 +191,7 @@ Aquí tienes el desglose de cada uno:
 - **En la práctica:** Es el componente más poderoso, ya que la emoción no aparece en la definición de persuadir, pero sin el impacto emocional, una charla no alcanza influencia.
 
 ---
-## III. CARMINE GALLO (_Habla como en TED_)
+## IV. CARMINE GALLO (_Habla como en TED_)
 
 Gallo analiza cómo se comunican los oradores más exitosos del mundo (especialmente en charlas TED) y propone un modelo práctico dividido en **tres pilares** que se apoyan en la neurociencia, la retórica y el storytelling.
 
@@ -494,7 +495,7 @@ Su cuerpo comunica poder, desafío y espectáculo constante.
 - En derrotas o situaciones formales: se muestra humilde, reflexivo y respetuoso → _control del personaje_.
     
 
-📌 Combina **agresión e inteligencia escénica** según el objetivo del momento.
+Combina **agresión e inteligencia escénica** según el objetivo del momento.
 
 ---
 
@@ -562,3 +563,110 @@ Su poder retórico reside en **el impacto emocional, no la lógica**.
 ---
 
 
+Aquí tenés un resumen claro, completo y accesible para usar como referencia rápida sobre **Darío Sztajnszrajber** y su estilo oratorio, ideal para defensa oral o fichas en Obsidian:
+
+---
+
+# Modulo 12 - ** Oratoria de Darío Sztajnszrajber**
+
+### ¿Qué lo define como orador?
+
+- **Autenticidad reflexiva**: comunica desde su identidad sin impostaciones ni personajes.
+    
+- Oratoria basada en **la duda, no en la autoridad** → invita a pensar, no a convencer.
+    
+- **Combina lo teórico con lo cotidiano** → logra profundidad sin perder conexión emocional.
+    
+
+---
+
+### Comunicación No Verbal
+
+- **Cuerpo sereno, gestualidad mínima** → transmite calma, claridad y dominio emocional.
+    
+- **Postura recta y mirada constante** → sostiene el discurso sin necesidad de moverse mucho.
+    
+- **Uso consciente del silencio**: pausa para dar espacio a las ideas → el silencio también comunica.
+    
+- **Atención plena**: su presencia escénica transmite concentración, no frialdad.
+    
+
+Su cuerpo complementa la palabra con contención, sin espectacularidad.
+
+---
+
+### Comunicación Verbal
+
+- **Lenguaje académico pero accesible** → usa metáforas, ejemplos comunes y humor sutil.
+    
+- **Habla pausada y dicción precisa** → cada palabra está pensada para ser comprendida.
+    
+- **Pregunta como punto de partida** → estimula la reflexión desde lo cotidiano.
+    
+- **No simplifica**: hace cercano lo complejo sin perder rigor intelectual.
+    
+
+El discurso parece improvisado, pero está cuidadosamente estructurado para provocar pensamiento.
+
+---
+
+### Estrategia y estructura discursiva
+
+- **Inicio con escena o pregunta cotidiana** → genera empatía inmediata.
+    
+- **Desarrollo filosófico con ejemplos claros y tono íntimo**.
+    
+- **Cierre abierto con nueva pregunta** → no busca cerrar, sino expandir la reflexión.
+    
+
+Su narrativa fluye con naturalidad, aunque responde a una arquitectura discursiva precisa.
+
+---
+
+### Relación con el público
+
+- **Habla desde la horizontalidad** → no enseña desde un pedestal, sino que piensa con el otro.
+    
+- Despierta **sensación de intimidad reflexiva**, no espectáculo ni provocación.
+    
+- La filosofía deja de ser abstracta → se vuelve humana, útil y vivencial.
+    
+
+Invita al público a **sentir el pensamiento**, no solo a entenderlo.
+
+---
+
+### Personaje y puesta en escena
+
+- No hay personaje escénico → es coherente con lo que piensa y cómo lo dice.
+    
+- Su presencia transmite honestidad y serenidad → genera confianza.
+    
+- No busca entretener, sino **acompañar el proceso de pensar**.
+    
+
+No actúa: **es** su discurso. La filosofía encarnada en la palabra.
+
+---
+
+### Aplicación retórica (ethos – pathos – logos)
+
+- **Ethos**: credibilidad por coherencia entre contenido y forma (piensa como habla).
+    
+- **Pathos**: emoción contenida, tono introspectivo → genera conexión sin dramatismo.
+    
+- **Logos**: claridad argumentativa, ejemplos, citas → estructura lógica y accesible.
+    
+
+Su persuasión nace del equilibrio entre lógica, emoción y presencia.
+
+---
+
+### Cierre
+
+- Darío Sztajnszrajber representa una oratoria **reflexiva, humana y coherente**.
+    
+- No busca imponer saber, sino **compartir pensamiento y generar preguntas**.
+    
+- La oratoria en él no es un espectáculo, es **una experiencia compartida de sentido**.
+    
