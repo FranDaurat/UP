@@ -73,7 +73,9 @@ El **STP** (_Spanning Tree Protocol_, IEEE 802.1D) es un protocolo de Capa 2 (en
 
 ### HSRP y VRRP
 
-Los protocolos **HSRP (Hot Standby Router Protocol)** y **VRRP (Virtual Router Redundancy Protocol)** permiten que **dos o más routers compartan una misma dirección IP virtual**, funcionando como gateway para una red.
+Los protocolos **HSRP (Hot Stan
+
+dby Router Protocol)** y **VRRP (Virtual Router Redundancy Protocol)** permiten que **dos o más routers compartan una misma dirección IP virtual**, funcionando como gateway para una red.
 
 - **Problema que resuelven:** Si un router principal cae, sin estos protocolos, los equipos pierden acceso al gateway y a Internet. HSRP y VRRP evitan esto.
     

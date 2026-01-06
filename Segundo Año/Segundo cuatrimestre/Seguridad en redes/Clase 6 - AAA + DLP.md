@@ -2,7 +2,7 @@
 
 # AAA (Authentication, Authorization, Accounting)
 
-- AAA no es un protocolo único, sino una **familia de protocolos** que ofrecen tres servicios principales :
+- AAA no es un protocolo único, sino una **familia de protocolos** que ofrecen tres servicios principales:
     
     1. **Autenticación** → proceso mediante el cual una entidad prueba su identidad ante otra.
         
@@ -265,7 +265,7 @@ Los protocolos AAA evolucionaron desde métodos básicos e inseguros (PAP) hacia
 - Requiere la participación de **todos los niveles de la empresa** para definir e implementar reglas efectivas.
     
 
-📌 **Síntesis:** DLP es clave para prevenir fugas de información en uso, tránsito o reposo. Aunque su implementación es compleja, asegura trazabilidad y control de datos sensibles, siempre que exista un compromiso organizacional integral.
+**Síntesis:** DLP es clave para prevenir fugas de información en uso, tránsito o reposo. Aunque su implementación es compleja, asegura trazabilidad y control de datos sensibles, siempre que exista un compromiso organizacional integral.
 - --
 
 

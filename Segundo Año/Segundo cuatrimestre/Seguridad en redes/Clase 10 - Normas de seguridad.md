@@ -47,7 +47,7 @@ Esta norma establece los requisitos para implementar, mantener y mejorar un SGSI
         
     - La estructura se adaptó al **Anexo SL**, común a otros estándares ISO.
         
-    - Los dominios de control en el Anexo A se incrementaron a 14 y el número de controles se redujo a 114.
+    - Los dominios de control en el Anexo A se incrementaron a 14 y el número de controles se redujo a 1.
         
     - Se incluyó un nuevo dominio sobre **"Relaciones con el Proveedor"** por la creciente importancia de los servicios en la nube.
         

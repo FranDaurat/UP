@@ -191,7 +191,7 @@ Desglose de cada uno:
 - **En la práctica:** Es el componente más poderoso, ya que la emoción no aparece en la definición de persuadir, pero sin el impacto emocional, una charla no alcanza influencia.
 
 ---
-## IV. CARMINE GALLO (_Habla como en TED_)
+# IV. CARMINE GALLO (_Habla como en TED_)
 
 Gallo analiza cómo se comunican los oradores más exitosos del mundo (especialmente en charlas TED) y propone un modelo práctico dividido en **tres pilares** que se apoyan en la neurociencia, la retórica y el storytelling.
 
@@ -450,7 +450,7 @@ Su audiencia **no solo la admira, se siente parte de ella**.
 Su oratoria **es parte central de su marca y de su poder real.**
 
 ---
-## Modulo 11 – _Oratoria de Conor Mcgregor_
+# Modulo 11 – _Oratoria de Conor Mcgregor_
 
 ### ¿Qué lo define como orador?
 
@@ -563,11 +563,7 @@ Su poder retórico reside en **el impacto emocional, no la lógica**.
 ---
 
 
-Aquí tenés un resumen claro, completo y accesible para usar como referencia rápida sobre **Darío Sztajnszrajber** y su estilo oratorio, ideal para defensa oral o fichas en Obsidian:
-
----
-
-# Modulo 12 - ** Oratoria de Darío Sztajnszrajber**
+# Modulo 12 - **Oratoria de Darío Sztajnszrajber**
 
 ### ¿Qué lo define como orador?
 

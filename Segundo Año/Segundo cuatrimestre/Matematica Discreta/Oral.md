@@ -63,9 +63,9 @@ Dos números enteros $a$ y $b$ se dicen **coprimos** si en su descomposición en
 
 ### 6.  Mínimo Común Múltiplo (MCM)
 
-El MCM entre dos números enteros $a$ y $b$, no simultáneamente iguales a cero, es el **menor de todos los múltiplos que tienen en común**. Se denota como $\text{mcm}(a, b)$ o $[a, b]$.
+El MCM entre dos números enteros $a$ y $b$ es el **menor de todos los múltiplos que tienen en común**. Se denota como $\text{mcm}(a, b)$ o $[a, b]$.
 
-Para que un entero $m$ sea el $\text{mcm}(a, b)$, debe cumplir tres condiciones3:
+Para que un entero $m$ sea el $\text{mcm}(a, b)$, debe cumplir tres condiciones:
 
 1. $a$ divide a $m$ y $b$ divide a $m$ ($m$ es un múltiplo común).
     
@@ -74,7 +74,7 @@ Para que un entero $m$ sea el $\text{mcm}(a, b)$, debe cumplir tres condiciones3
 
 ### 7. Máximo Común Divisor (MCD)
 
-El MCD entre dos números enteros $a$ y $b$, no simultáneamente iguales a cero, es el **mayor de todos los divisores que dichos números tienen en común**. Se denota como $\text{mcd}(a, b)$ o $(a, b)$.
+El MCD entre dos números enteros $a$ y $b$,  es el **mayor de todos los divisores que dichos números tienen en común**. Se denota como $\text{mcd}(a, b)$ o $(a, b)$.
 
 Para que un entero $d$ sea el $\text{mcd}(a, b)$, debe cumplir dos condiciones:
 
