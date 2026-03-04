@@ -11,9 +11,3 @@ Juan antonio ---> informatica forense (trank)
 rabuch ---> buen profesor
 Martin acosta ---> segun el grupo es choto
 Picicelli ---> alto cara de verga segun el grupo de wpp
-## Preguntas para ingles
-
-a que te dedicas
-que hiciste ayer
-donde planeas viajar en vacaciones
-para probarte pasado, presente y futuro basicamente
