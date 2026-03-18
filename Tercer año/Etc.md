@@ -11,3 +11,7 @@ Juan antonio ---> informatica forense (trank)
 rabuch ---> buen profesor
 Martin acosta ---> segun el grupo es choto
 Picicelli ---> alto cara de verga segun el grupo de wpp
+
+## Parciales 
+22/04 Adm de proyectos Primero
+10/06 Adm de proyectos Segundo
