@@ -1,282 +1,114 @@
 -- -
-# Atributos de Calidad del Software — Resumen
+# Análisis Integral de los Atributos de Calidad del Software
 
-## 1. ¿Qué es la calidad?
+## Resumen Ejecutivo
 
-Hoy en día la **calidad es un objetivo fundamental para las empresas**, ya que el software debe **adaptarse a las necesidades del cliente**.
+La calidad del software ha dejado de ser un concepto abstracto para convertirse en el motor fundamental de la competitividad empresarial, centrándose en la adaptabilidad a las necesidades del cliente y el cumplimiento de sus expectativas. Según la IEEE, la calidad reside en una combinación óptima de atributos deseados que el usuario percibe como satisfactorios. Este documento destaca que la gestión de la calidad es un proceso multifacético que abarca desde la garantía y planificación hasta el control de costos. Un hallazgo crítico es la progresión exponencial del costo de corrección de errores: un defecto detectado en la fase de explotación puede ser hasta 1000 veces más costoso que uno identificado en la etapa de requisitos. Asimismo, se concluye que la calidad no es accidental, sino el resultado de procesos bien definidos, mediciones rigurosas y profesionales motivados, enfrentando desafíos actuales como la compatibilidad con la nube y la integración mediante APIs.
 
-- Según **IEEE**, la calidad del software se da cuando **el producto tiene una buena combinación de atributos deseados y el usuario percibe que cumple con sus expectativas**.
-    
-- En términos generales, la calidad es **un conjunto de características o atributos medibles**.
-    
+--------------------------------------------------------------------------------
 
-El problema es que el software es una **entidad intelectual**, por lo que **es más difícil medir su calidad que en objetos físicos**.
+## 1. Definiciones y Perspectivas de la Calidad
 
----
+El concepto de calidad en el ámbito del software se diferencia de los objetos físicos debido a su naturaleza como entidad intelectual. Mientras que el diccionario la define como un atributo mensurable frente a estándares, en ingeniería de software se adopta una visión más holística.
 
-# 2. ¿Qué significa que un software tenga calidad?
+### La Definición según la IEEE
 
-La calidad puede interpretarse de distintas maneras según el punto de vista:
+La IEEE establece que el software posee calidad cuando presenta una "buena combinación de atributos deseados" y el cliente percibe que el producto cumple con sus expectativas.
 
-1. **Cero defectos**
-    
-    - Importante para usuarios y gerentes que se ven afectados por errores.
-        
-2. **Mucha funcionalidad**
-    
-    - Tener muchas opciones o características.
-        
-3. **Alta performance**
-    
-    - Buen tiempo de respuesta y eficiencia.
-        
-4. **Bajo costo de desarrollo**
-    
-    - Importante para clientes y gestores del proyecto.
-        
-5. **Rapidez en la construcción**
-    
-    - Entregar el producto rápido para competir en el mercado.
-        
-6. **Amigabilidad**
-    
-    - Facilidad de uso para los usuarios.
-        
+### Perspectivas de los Interesados
 
----
+La percepción de "alta calidad" varía según el rol del individuo en el ecosistema del software:
 
-# 3. Problemas asociados a la calidad del software
+- **Usuarios:** Priorizan el "cero defectos", la "mucha funcionalidad" y la "amigabilidad".
+- **Gerentes y PMs:** Se enfocan en el "cero defectos" para evitar críticas y en el "bajo costo de desarrollo" para ajustarse a presupuestos.
+- **Vendedores:** Valoran la "alta performance", la "mucha funcionalidad" y la "rapidez en la construcción" como argumentos de venta y captura de mercado.
 
-Existen varias dificultades al definir calidad:
+--------------------------------------------------------------------------------
 
-1. **Las especificaciones se enfocan en características que el cliente quiere.**
-    
-2. **Algunas características de calidad (ej: mantenibilidad) son difíciles de definir con precisión.**
-    
-3. **Un software puede cumplir su especificación y aun así no satisfacer al usuario.**
-    
+## 2. Administración y Gestión de la Calidad
 
-Por esto, **la calidad no puede depender únicamente de especificaciones perfectas**.
+La administración de la calidad no debe basarse únicamente en estándares burocráticos, sino en una gestión activa que comprenda cuatro actividades principales:
 
----
+1. **Garantía de la calidad:** Establecimiento de un marco de procedimientos y estándares organizacionales.
+2. **Planificación de la calidad:** Adaptación de dichos estándares a las particularidades de un proyecto específico.
+3. **Control de la calidad:** Definición y fomento de procesos que aseguren el cumplimiento de los estándares por parte del equipo.
+4. **Coste de calidad:** Evaluación de todos los costos invertidos en alcanzar la calidad y en las actividades relacionadas.
 
-# 4. Gestión de la calidad del software
+### El Impacto Económico de los Errores
 
-La calidad se administra mediante cuatro actividades principales:
+La evidencia demuestra que el costo de rectificar un error aumenta drásticamente a medida que el software avanza en su ciclo de vida.
 
-### 1. Garantía de calidad (QA)
+|   |   |
+|---|---|
+|Etapa de Desarrollo|Costo Relativo de Corregir un Error|
+|Requisitos|1 vez|
+|Diseño|3 – 6 veces|
+|Código|10 veces|
+|Prueba de desarrollo|15 – 40 veces|
+|Prueba de sistema|30 – 70 veces|
+|En fase de explotación|40 – 1000 veces|
 
-Define **procedimientos y estándares organizacionales** para asegurar software de calidad.
+--------------------------------------------------------------------------------
 
-### 2. Planificación de calidad
+## 3. Principios Fundamentales de Calidad (Watts Humphrey)
 
-Selecciona **procedimientos y estándares adecuados para un proyecto específico**.
+Para que la calidad sea constante, se deben seguir principios que vinculan el proceso humano con el técnico:
 
-### 3. Control de calidad
+- **Demanda del cliente:** Si el cliente no exige calidad explícitamente, es poco probable que se consiga.
+- **Gestión del desarrollador:** Los programadores deben ser los primeros comprometidos y responsables de revisar su propio trabajo.
+- **Medición:** Es imperativo cuantificar los errores para crear registros históricos que guíen proyectos futuros.
+- **Proceso sobre producto:** La calidad del producto final está determinada directamente por la calidad del proceso utilizado para desarrollarlo.
+- **Pruebas integrales:** Las pruebas solo solucionan una fracción de los defectos; por ello, deben ser planificadas e incluir aspectos funcionales y no funcionales.
+- **Motivación profesional:** El código de alta calidad es producido por profesionales que se sienten orgullosos y motivados por su labor.
 
-Asegura que **el equipo siga los procedimientos y estándares definidos**.
+--------------------------------------------------------------------------------
 
-### 4. Coste de calidad
+## 4. Atributos de Calidad del Software (McCall e ISO 9126)
 
-Incluye **todos los costos relacionados con lograr calidad**.
+Los atributos de calidad se categorizan para facilitar su medición y verificación. A continuación, se detallan los pilares técnicos identificados:
 
----
+### Operación y Comportamiento
 
-# 5. Coste de calidad
+- **Correctitud:** El grado en que el software se comporta de acuerdo con su especificación funcional.
+- **Confiabilidad:** La probabilidad de que el software opere según lo esperado en un intervalo de tiempo determinado.
+- **Robustez:** Capacidad de comportarse razonablemente ante circunstancias no anticipadas en los requerimientos.
+- **Performance (Rendimiento):** Uso económico de recursos como tiempo de procesamiento y memoria.
+- **Amigabilidad:** Facilidad de uso para el usuario. Depende tanto de la interfaz como de la correctitud y la velocidad de respuesta.
+- **Integridad:** Control de accesos no autorizados a datos o al software.
 
-El costo de corregir errores **aumenta cuanto más tarde se detectan**.
+### Mantenimiento y Evolución
 
-Es decir:
+- **Verificabilidad:** Facilidad para comprobar las propiedades del producto (favorecida por diseño modular y codificación disciplinada).
+- **Mantenibilidad:** Incluye la **Reparabilidad** (corrección de defectos con esfuerzo limitado) y la **Evolutividad** (modificación para nuevas funciones).
+- **Reusabilidad:** Capacidad de emplear componentes en otros desarrollos; debe planificarse desde el inicio.
 
-- Error en diseño → barato de arreglar
-    
-- Error en producción → muy caro de arreglar
-    
+### Adaptabilidad y Entorno
 
----
+- **Portabilidad:** Capacidad de ejecutar el software en distintos ambientes (hardware, sistemas operativos, plataformas).
+- **Interoperabilidad:** Habilidad para coexistir y cooperar con otros sistemas mediante la estandarización de interfaces.
 
-# 6. Tendencias actuales en calidad (Gartner)
+### Cualidades del Proceso
 
-Algunas tendencias en la gestión de calidad del software:
+- **Productividad:** Eficiencia del proceso de producción medida por la relación entre recursos/código y funciones ejecutadas.
+- **Oportunidad:** Habilidad de entregar el producto en el tiempo estipulado mediante una estimación precisa.
+- **Visibilidad:** Grado en que los pasos y el estado del proyecto están claramente documentados y accesibles para examen externo.
 
-- Más del **50% de los contratos de outsourcing exigirán herramientas de gestión de calidad**.
-    
-- La mayoría de los sistemas deberán ser **compatibles con cloud**.
-    
-- **50% de las colaboraciones B2B** se harán mediante **APIs web**.
-    
-- El desarrollo **mobile reduce la productividad en ~20%**.
-    
+--------------------------------------------------------------------------------
 
----
+## 5. Dinámica entre Proceso y Producto
 
-# 7. Principios de calidad del software (Watts Humphrey)
+Existe un vínculo estrecho pero complejo entre la calidad del proceso y la del producto. A diferencia de la manufactura tradicional, el desarrollo de software es un proceso creativo donde las habilidades individuales son determinantes.
 
-### Principio 1
+- **Influencia del Diseño:** Debido a que el software se diseña y no se manufactura, no siempre es posible predecir cómo un cambio en el proceso afectará la calidad final.
+- **Factores Externos:** La presión comercial y la novedad de una aplicación pueden comprometer la calidad en favor de la rapidez de entrega.
+- **Gestión de Estándares:** Los equipos de Garantía de Calidad (QA) deben ser flexibles. Aplicar estándares rígidos de sistemas críticos a prototipos puede impedir el desarrollo en lugar de ayudarlo; en tales casos, la intervención de la gestión principal es necesaria para equilibrar el rigor con la agilidad.
 
-Si el cliente **no exige calidad**, probablemente **no la obtendrá**.
+--------------------------------------------------------------------------------
 
-### Principio 2
+## 6. Tendencias Futuras en la Gestión de Calidad
 
-Los **desarrolladores deben gestionar la calidad en su trabajo**.
+Según proyecciones de Gartner, el futuro de la gestión de calidad estará marcado por:
 
-### Principio 3
-
-La calidad debe **medirse** (errores, frecuencia, tipos).
-
-### Principio 4
-
-La calidad del producto depende del **proceso de desarrollo**.
-
-### Principio 5
-
-Las pruebas **solo detectan una parte de los errores**, por lo que deben planificarse correctamente.
-
-### Principio 6
-
-La calidad la producen **profesionales motivados y comprometidos**.
-
----
-
-# 8. Calidad del producto vs calidad del proceso
-
-Existe una relación entre ambas:
-
-- **Calidad del proceso → influye en la calidad del producto**
-    
-
-Pero en software esta relación es **compleja**, porque:
-
-- El desarrollo es **creativo**, no industrial.
-    
-- Influyen factores externos como:
-    
-    - presión comercial
-        
-    - innovación
-        
-    - experiencia de los desarrolladores
-        
-
-Por eso **mejorar el proceso ayuda a reducir defectos**.
-
----
-
-# 9. Gestión de calidad del proceso
-
-Implica:
-
-1. Definir **estándares de proceso**
-    
-2. Supervisar el desarrollo
-    
-3. Generar **informes del proceso**
-    
-
-Un problema es que **a veces QA aplica estándares rígidos**, lo que puede **bloquear el desarrollo**. En esos casos el **gestor del proyecto debe intervenir**.
-
----
-
-# 10. Factores de calidad del software
-
-Algunos modelos (McCall, ISO 9126) definen atributos de calidad.
-
-### Atributos principales
-
-- Correctitud
-    
-- Confiabilidad
-    
-- Robustez
-    
-- Performance
-    
-- Amigabilidad
-    
-- Verificabilidad
-    
-- Mantenibilidad
-    
-- Reusabilidad
-    
-
----
-
-# 11. Definición de los atributos
-
-### Correctitud
-
-El software **funciona según la especificación**.
-
-### Confiabilidad
-
-Probabilidad de que el sistema **funcione correctamente durante un tiempo determinado**.
-
-### Robustez
-
-Capacidad de **comportarse razonablemente ante situaciones inesperadas**.
-
-### Performance
-
-Uso **eficiente de recursos** como tiempo y memoria.
-
-### Amigabilidad (Usabilidad)
-
-El software es **fácil de usar**.
-
-### Verificabilidad
-
-Facilidad para **verificar su funcionamiento y propiedades**.
-
-### Mantenibilidad
-
-Capacidad de **modificar el software después de su entrega**.
-
-Incluye:
-
-- **Reparabilidad:** corregir errores fácilmente.
-    
-- **Evolutividad:** agregar nuevas funcionalidades.
-    
-
-### Reusabilidad
-
-Capacidad de **reutilizar componentes del software**.
-
----
-
-# 12. Otros atributos importantes
-
-### Portabilidad
-
-Capacidad de **funcionar en diferentes plataformas o sistemas operativos**.
-
-### Interoperabilidad
-
-Capacidad de **interactuar con otros sistemas**.
-
-### Productividad
-
-Mide la **eficiencia del proceso de desarrollo**.
-
-### Oportunidad
-
-Capacidad de **entregar el software a tiempo**.
-
-### Visibilidad
-
-El proceso es **documentado y transparente**.
-
-### Integridad
-
-Protección contra **accesos no autorizados a datos o software**.
-
----
-
-✅ **Idea central del módulo**
-
-La calidad del software **no depende solo del producto final**, sino también del **proceso de desarrollo, la gestión, las pruebas, la medición y el compromiso del equipo**.
-
----
-
-Si querés, también puedo hacerte una **versión ultra resumida tipo machete de parcial (1 página)** que suele ser lo que toman en la UP.
+- **Herramientas Especializadas:** Más del 50% de los contratos de outsourcing exigirán herramientas específicas de gestión de calidad.
+- **Nube y Conectividad:** La mayoría de los nuevos desarrollos deberán ser compatibles con _Cloud_, y el 50% de la colaboración B2B ocurrirá vía APIs web.
+- **Desafío Móvil:** Se espera que el desarrollo de aplicaciones móviles reduzca la productividad de los equipos en un 20%.

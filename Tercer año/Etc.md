@@ -13,5 +13,11 @@ Martin acosta ---> segun el grupo es choto
 Picicelli ---> alto cara de verga segun el grupo de wpp
 
 ## Parciales 
-22/04 Adm de proyectos Primero
-10/06 Adm de proyectos Segundo
+22/04 Adm de proyectos (Primero)
+10/06 Adm de proyectos (Segundo)
+
+17/04 DevOps (Primero) *En toeria*
+05/06 DevOps (Segundo) *En toeria*
+
+23/04 Seg web (Primero)
+11/04 Seg web (Segundo)
