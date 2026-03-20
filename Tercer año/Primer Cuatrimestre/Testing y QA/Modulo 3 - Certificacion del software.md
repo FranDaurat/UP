@@ -5,7 +5,7 @@
 
 Este documento sintetiza los marcos normativos, metodologías y herramientas esenciales para asegurar la calidad y la madurez en la ingeniería de software. La certificación del **Modelo de Madurez de la Ingeniería del Software**, basada en las normas **ISO/IEC 12207** e **ISO/IEC 33000**, constituye un pilar estratégico para las organizaciones que buscan optimizar sus ciclos de vida de desarrollo y diferenciarse competitivamente.
 
-Los puntos críticos identificados incluyen la integración de normas de gestión de calidad (ISO 9001), la evaluación rigurosa de productos (serie ISO/IEC 25000 - SQuaRE), y la implementación de modelos de madurez reconocidos mundialmente como **CMMI**. La adopción de estas prácticas no solo asegura el cumplimiento de niveles de seguridad y rendimiento, sino que reduce significativamente los costes de mantenimiento mediante la detección temprana de defectos y la mejora continua de los procesos.
+Los puntos críticos identificados incluyen la integración de normas de gestión de calidad (ISO 9001), la evaluación rigurosa de productos (serie ISO/IEC 25000 - SQuaRE), y la implementación de modelos de madurez rzgura el cumplimiento de niveles de seguridad y rendimiento, sino que reduce significativamente los costes de mantenimiento mediante la detección temprana de defectos y la mejora continua de los procesos.
 
 --------------------------------------------------------------------------------
 
