@@ -31,7 +31,7 @@ Las organizaciones utilizan los proyectos para pasar de un **estado actual** a u
 |**Programa**|Grupo de proyectos relacionados y actividades coordinadas para obtener beneficios que no se tendrían de forma individual.|
 |**Proyecto**|Esfuerzo individual que puede ser independiente o parte de un programa/portafolio.|
 |**Operaciones**|Producción continua de bienes y servicios; están fuera del alcance del proyecto pero se intersectan con él (ej. transferencia de conocimientos al finalizar el proyecto).|
-
+![[Pasted image 20260323154145.png]]
 --------------------------------------------------------------------------------
 
 ## 3. El Entorno del Proyecto: Influencias Internas y Externas
@@ -51,6 +51,8 @@ Son internos a la organización y constituyen su capital intelectual y operativo
 
 - **Procesos y procedimientos:** Plantillas, ciclos de vida del producto, estándares de comunicación y listas de proveedores preaprobados.
 - **Base de conocimiento:** Repositorios de datos financieros, lecciones aprendidas, métricas y archivos de proyectos anteriores.
+
+![[Pasted image 20260323154054.png]]
 
 --------------------------------------------------------------------------------
 

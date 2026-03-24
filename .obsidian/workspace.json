@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tercer año/Etc.md",
+                "file": "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Etc"
+              "title": "Modulo 2 - Gobierno Corporativo y estandares relacionados I"
+            }
+          },
+          {
+            "id": "ff89fcd5364b5a5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tercer año/Etc.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Etc"
+              "title": "Outline"
             }
           }
         ],
@@ -173,31 +184,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "76aa30b068343c4c",
+  "active": "ff89fcd5364b5a5f",
   "lastOpenFiles": [
+    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 1 - Fundamentos e Introduccion..md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 3 - Dominio del desempeño del enfoque de desarrollo y del ciclo de vida.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 2 - Principios y dominios de la dirección de proyectos.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 1 - Introduccion a la direccion de proyectos.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260323154145.png",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260323154054.png",
     "Tercer año/Primer Cuatrimestre/DevOps/Modulo 1 - Introduccion.md",
     "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md",
     "Tercer año/Primer Cuatrimestre/Seg Web/Modulo 2 - Tecnologias web.md",
     "Tercer año/Primer Cuatrimestre/Seg Web/Modulo 1 - Networking.md",
     "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 3 - Gobierno Corporativo y estandares relacionados II.md",
     "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
-    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 1 - Fundamentos e Introduccion..md",
     "Tercer año/Etc.md",
     "Larovich.md",
     "Tercer año/Primer Cuatrimestre/Sistemas operativos/Modulo 1 - Introduccion a los sistemas operativos.md",
-    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 1 - Introduccion a la direccion de proyectos.md",
-    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 2 - Principios y dominios de la dirección de proyectos.md",
-    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 3 - Dominio del desempeño del enfoque de desarrollo y del ciclo de vida.md",
     "Tercer año/Primer Cuatrimestre/Seg Web",
     "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 2 - Calidad del Software.md",
     "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 1 - Atributos de calidad del software.md",
@@ -210,7 +224,6 @@
     "Tercer año/Primer Cuatrimestre",
     "Tercer año/Segundo Cuatrimestre/Informatica Forense.md",
     "Tercer año/Segundo Cuatrimestre",
-    "Tercer año",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 5,6,7 - (Grafos).md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 4 - Maquinas de estado finito.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 2 - Gramaticas.md",
@@ -220,7 +233,6 @@
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Oral.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 6 - AAA + DLP.md",
     "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 7 - VPN.md",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 8 - Protocolos seguros de transporte.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251104175502.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017110948.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143607.png",
@@ -228,8 +240,6 @@
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143648.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030181752.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251101174955.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251102123156.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251102123157.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143337.png"
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251102123156.png"
   ]
 }

@@ -62,11 +62,15 @@ Se caracteriza por determinar el alcance, el tiempo y el costo en las fases temp
 
 ### Enfoque Adaptativo (Ágil)
 
-Es idóneo para entornos con alta incertidumbre y requisitos volátiles. Se establece una visión general inicial que se refina y cambia según la retroalimentación del usuario y el entorno. Se subdivide en:
+Es idóneo para entornos con alta incertidumbre y requisitos volátiles. Se define una visión general inicial que se va refinando según la retroalimentación.
 
-- **Iterativo:** El alcance se define pronto, pero el tiempo y los costos se modifican periódicamente a medida que aumenta la comprensión del producto.
-- **Incremental:** El entregable se construye a través de una serie de iteraciones que añaden funcionalidades progresivamente.
+Se subdivide en:
 
+- **Iterativo:**  
+    Se fijan **tiempo y costo (timebox)**, mientras que el **alcance se va refinando y modificando** a medida que se entiende mejor el producto.
+- **Incremental:**  
+    El producto se construye en partes, agregando **funcionalidades nuevas en cada iteración** hasta completar el sistema.
+    
 ### Enfoque Híbrido
 
 Es una combinación que busca las ventajas de ambos mundos. Se aplica un enfoque predictivo a los elementos bien conocidos o con requisitos fijos, y un enfoque adaptativo a los componentes que aún están evolucionando o definiéndose.
