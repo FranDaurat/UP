@@ -39,16 +39,60 @@
             "id": "ff89fcd5364b5a5f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 3 - Gobierno Corporativo y estandares relacionados II.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Modulo 3 - Gobierno Corporativo y estandares relacionados II"
+            }
+          },
+          {
+            "id": "0bf749c559ee7fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 4 - Administracion de Configuracion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modulo 4 - Administracion de Configuracion"
+            }
+          },
+          {
+            "id": "bee9ac48f064d5d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 4 - Acta de constitución. Plan para la dirección de proyectos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modulo 4 - Acta de constitución. Plan para la dirección de proyectos"
+            }
+          },
+          {
+            "id": "79e6dadefbe783a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 4 - Concepto de Auditoria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modulo 4 - Concepto de Auditoria"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,12 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 4 - Concepto de Auditoria.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Modulo 4 - Concepto de Auditoria"
             }
           }
         ],
@@ -194,20 +239,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff89fcd5364b5a5f",
+  "active": "79e6dadefbe783a4",
   "lastOpenFiles": [
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 1 - Introduccion a la direccion de proyectos.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 4 - Acta de constitución. Plan para la dirección de proyectos.md",
+    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 4 - Concepto de Auditoria.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260325161119.png",
+    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 4 - Administracion de Configuracion.md",
+    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md",
+    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 3 - Gobierno Corporativo y estandares relacionados II.md",
+    "Tercer año/Segundo Cuatrimestre/Informatica Forense.md",
     "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 1 - Fundamentos e Introduccion..md",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 3 - Dominio del desempeño del enfoque de desarrollo y del ciclo de vida.md",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 2 - Principios y dominios de la dirección de proyectos.md",
-    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 1 - Introduccion a la direccion de proyectos.md",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260323154145.png",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260323154054.png",
     "Tercer año/Primer Cuatrimestre/DevOps/Modulo 1 - Introduccion.md",
-    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md",
     "Tercer año/Primer Cuatrimestre/Seg Web/Modulo 2 - Tecnologias web.md",
     "Tercer año/Primer Cuatrimestre/Seg Web/Modulo 1 - Networking.md",
-    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 3 - Gobierno Corporativo y estandares relacionados II.md",
     "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
     "Tercer año/Etc.md",
     "Larovich.md",
@@ -222,7 +272,6 @@
     "Tercer año/Primer Cuatrimestre/Auditoria de sistemas",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos",
     "Tercer año/Primer Cuatrimestre",
-    "Tercer año/Segundo Cuatrimestre/Informatica Forense.md",
     "Tercer año/Segundo Cuatrimestre",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 5,6,7 - (Grafos).md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 4 - Maquinas de estado finito.md",
@@ -231,15 +280,12 @@
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Cosas importantes.md",
     "Segundo Año/Segundo cuatrimestre/Finales.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Oral.md",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 6 - AAA + DLP.md",
-    "Segundo Año/Segundo cuatrimestre/Seguridad en redes/Clase 7 - VPN.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251104175502.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017110948.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143607.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143632.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143648.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030181752.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251101174955.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251102123156.png"
+    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251101174955.png"
   ]
 }
