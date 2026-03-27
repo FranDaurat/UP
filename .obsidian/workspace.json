@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Larovich.md",
+                "file": "Tercer año/Etc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Larovich"
+              "title": "Etc"
             }
           }
         ],
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Larovich.md",
+                "file": "Tercer año/Etc.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Larovich"
+              "title": "Outline of Etc"
             }
           }
         ],
@@ -241,10 +241,13 @@
   },
   "active": "79e6dadefbe783a4",
   "lastOpenFiles": [
+    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 1 - Atributos de calidad del software.md",
+    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 2 - Calidad del Software.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 4 - Acta de constitución. Plan para la dirección de proyectos.md",
+    "Larovich.md",
     "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 4 - Concepto de Auditoria.md",
     "Tercer año/Etc.md",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 1 - Introduccion a la direccion de proyectos.md",
-    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 4 - Acta de constitución. Plan para la dirección de proyectos.md",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260325161119.png",
     "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 4 - Administracion de Configuracion.md",
     "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md",
@@ -260,11 +263,8 @@
     "Tercer año/Primer Cuatrimestre/Seg Web/Modulo 2 - Tecnologias web.md",
     "Tercer año/Primer Cuatrimestre/Seg Web/Modulo 1 - Networking.md",
     "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
-    "Larovich.md",
     "Tercer año/Primer Cuatrimestre/Sistemas operativos/Modulo 1 - Introduccion a los sistemas operativos.md",
     "Tercer año/Primer Cuatrimestre/Seg Web",
-    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 2 - Calidad del Software.md",
-    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 1 - Atributos de calidad del software.md",
     "Tercer año/Primer Cuatrimestre/DevOps",
     "Tercer año/Primer Cuatrimestre/Testing y QA",
     "Tercer año/Primer Cuatrimestre/Sistemas operativos",
