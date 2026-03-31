@@ -20,6 +20,7 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 05/06 DevOps (Segundo) *En teoria*
 
 15/04 testing y qa (primero)
+10/04 (Segundo)
 
 23/04 Seg web (Primero)
 11/04 Seg web (Segundo)
