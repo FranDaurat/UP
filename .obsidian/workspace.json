@@ -146,9 +146,23 @@
               "icon": "lucide-file",
               "title": "Modulo 5 - Fundamentos de Testing"
             }
+          },
+          {
+            "id": "de3f92c17b595392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 5 - Gestion de los interesados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modulo 5 - Gestion de los interesados"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -267,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 5 - Fundamentos de Testing.md",
+                "file": "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 5 - Gestion de los interesados.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Modulo 5 - Fundamentos de Testing"
+              "title": "Outline of Modulo 5 - Gestion de los interesados"
             }
           }
         ],
@@ -295,10 +309,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60b953827078c220",
+  "active": "2ff2473fa8c4ca41",
   "lastOpenFiles": [
-    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 4 - Administracion de Configuracion.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260402170340.png",
     "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 5 - Fundamentos de Testing.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 5 - Gestion de los interesados.md",
+    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 4 - Administracion de Configuracion.md",
     "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 5 -Auditoría Informática.md",
     "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 4 - Concepto de Auditoria.md",
     "Tercer año/Primer Cuatrimestre/DevOps/Modulo 3 - CICD.md",
@@ -334,8 +350,6 @@
     "Tercer año/Primer Cuatrimestre",
     "Tercer año/Segundo Cuatrimestre",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 5,6,7 - (Grafos).md",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 4 - Maquinas de estado finito.md",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 2 - Gramaticas.md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251104175502.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017110948.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143607.png",
