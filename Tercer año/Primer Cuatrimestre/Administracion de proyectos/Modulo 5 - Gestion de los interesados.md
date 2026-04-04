@@ -56,13 +56,13 @@ Una vez identificados, el equipo debe analizar aspectos como el poder, el grado 
 
 Dependiendo del cruce entre el nivel de autoridad (Poder) y la inquietud por los resultados (Interés), se aplican cuatro estrategias genéricas:
 
-|   |   |   |
-|---|---|---|
-|Poder|Interés|Estrategia|
-|**Alto**|**Alto**|Gestionar atentamente|
-|**Alto**|**Bajo**|Mantener satisfechos|
-|**Bajo**|**Alto**|Mantener informados|
-|**Bajo**|**Bajo**|Monitorear|
+|          |          |                       |
+| -------- | -------- | --------------------- |
+| Poder    | Interés  | Estrategia            |
+| **Alto** | **Alto** | Gestionar atentamente |
+| **Alto** | **Bajo** | Mantener satisfechos  |
+| **Bajo** | **Alto** | Mantener informados   |
+| **Bajo** | **Bajo** | Monitorear            |
 ![[Pasted image 20260402170340.png]]
 
 ## 5. Estrategias de Involucramiento y Participación
