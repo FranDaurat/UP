@@ -4,165 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6d98f556600b015f",
+        "id": "d03efd80698f72b8",
         "type": "tabs",
         "children": [
           {
-            "id": "d36a1b3308df3bbe",
+            "id": "dbef0dfdfcf136bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Etc.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Etc"
-            }
-          },
-          {
-            "id": "76aa30b068343c4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo 2 - Gobierno Corporativo y estandares relacionados I"
-            }
-          },
-          {
-            "id": "ff89fcd5364b5a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 3 - Gobierno Corporativo y estandares relacionados II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo 3 - Gobierno Corporativo y estandares relacionados II"
-            }
-          },
-          {
-            "id": "0bf749c559ee7fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 4 - Administracion de Configuracion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo 4 - Administracion de Configuracion"
-            }
-          },
-          {
-            "id": "bee9ac48f064d5d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 4 - Acta de constitución. Plan para la dirección de proyectos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo 4 - Acta de constitución. Plan para la dirección de proyectos"
-            }
-          },
-          {
-            "id": "79e6dadefbe783a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 4 - Administracion de Configuracion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo 4 - Administracion de Configuracion"
-            }
-          },
-          {
-            "id": "dfb230403a5ae40f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Primer Cuatrimestre/DevOps/Modulo 2 - Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo 2 - Tools"
-            }
-          },
-          {
-            "id": "5866aaa8ed213538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Primer Cuatrimestre/DevOps/Modulo 3 - CICD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo 3 - CICD"
-            }
-          },
-          {
-            "id": "d8bf34701f808551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 5 -Auditoría Informática.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo 5 -Auditoría Informática"
-            }
-          },
-          {
-            "id": "60b953827078c220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 5 - Fundamentos de Testing.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo 5 - Fundamentos de Testing"
-            }
-          },
-          {
-            "id": "de3f92c17b595392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer año/Etc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Etc"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tercer año/Etc.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Etc"
+              "title": "Outline"
             }
           }
         ],
@@ -309,26 +163,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de3f92c17b595392",
+  "active": "dbef0dfdfcf136bb",
   "lastOpenFiles": [
-    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md",
     "Tercer año/Etc.md",
-    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 5 - Gestion de los interesados.md",
-    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260402170340.png",
     "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 5 - Fundamentos de Testing.md",
     "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 4 - Administracion de Configuracion.md",
-    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 5 -Auditoría Informática.md",
-    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 4 - Concepto de Auditoria.md",
-    "Tercer año/Primer Cuatrimestre/DevOps/Modulo 3 - CICD.md",
-    "Tercer año/Primer Cuatrimestre/DevOps/Modulo 2 - Tools.md",
-    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 4 - Acta de constitución. Plan para la dirección de proyectos.md",
-    "Larovich.md",
+    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md",
     "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 2 - Calidad del Software.md",
     "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 1 - Atributos de calidad del software.md",
+    "Tercer año/Primer Cuatrimestre/DevOps/Modulo 2 - Tools.md",
+    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 3 - Gobierno Corporativo y estandares relacionados II.md",
+    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
+    "Tercer año/Primer Cuatrimestre/Testing y QA/Modulo 6 - Diseños de casos de tests.md",
+    "Tercer año/Primer Cuatrimestre/DevOps/Modulo 3 - CICD.md",
+    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 6 - Auditoría informática y deontología.md",
+    "Tercer año/Primer Cuatrimestre/Testing y QA/Parciales.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 4 - Acta de constitución. Plan para la dirección de proyectos.md",
+    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 5 -Auditoría Informática.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 5 - Gestion de los interesados.md",
+    "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260402170340.png",
+    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 4 - Concepto de Auditoria.md",
+    "Larovich.md",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 2 - Principios y dominios de la dirección de proyectos.md",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 1 - Introduccion a la direccion de proyectos.md",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260325161119.png",
-    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 3 - Gobierno Corporativo y estandares relacionados II.md",
     "Tercer año/Segundo Cuatrimestre/Informatica Forense.md",
     "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 1 - Fundamentos e Introduccion..md",
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos/Modulo 3 - Dominio del desempeño del enfoque de desarrollo y del ciclo de vida.md",
@@ -338,8 +196,6 @@
     "Tercer año/Primer Cuatrimestre/DevOps/Modulo 1 - Introduccion.md",
     "Tercer año/Primer Cuatrimestre/Seg Web/Modulo 2 - Tecnologias web.md",
     "Tercer año/Primer Cuatrimestre/Seg Web/Modulo 1 - Networking.md",
-    "Tercer año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
-    "Tercer año/Primer Cuatrimestre/Sistemas operativos/Modulo 1 - Introduccion a los sistemas operativos.md",
     "Tercer año/Primer Cuatrimestre/Seg Web",
     "Tercer año/Primer Cuatrimestre/DevOps",
     "Tercer año/Primer Cuatrimestre/Testing y QA",
@@ -349,7 +205,6 @@
     "Tercer año/Primer Cuatrimestre/Administracion de proyectos",
     "Tercer año/Primer Cuatrimestre",
     "Tercer año/Segundo Cuatrimestre",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Clase 5,6,7 - (Grafos).md",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251104175502.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017110948.png",
     "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143607.png",

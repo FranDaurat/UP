@@ -28,3 +28,4 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 10/06 (parcial) Auditoria de sistemas
 
 Escribir a pablo werner para cambiar el parcial de administracion de proyectos
+
