@@ -23,6 +23,7 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 20/05 Sistemas Operativos (Segundo Parcialito)
 17/06 Sistemas Operativos (Segundo Parcial)
 
+23/04 Seg web (Primero)
 11/06 Seg web (Segundo)
 
 11/06 (parcial) Auditoria de sistemas
