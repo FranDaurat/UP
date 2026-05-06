@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cuarto Año/Planeamiento estrategico/Banco de preguntas.md",
+                "file": "Etc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Banco de preguntas"
+              "title": "Etc"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cuarto Año/Planeamiento estrategico/Banco de preguntas.md",
+                "file": "Etc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Banco de preguntas"
+              "title": "Outgoing links from Etc"
             }
           },
           {
@@ -198,10 +198,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "82c512c6a14f82cf",
+  "active": "2ff2473fa8c4ca41",
   "lastOpenFiles": [
-    "Etc.md",
     "Cuarto Año/Planeamiento estrategico/Banco de preguntas.md",
+    "Etc.md",
     "Cuarto Año/Planeamiento estrategico",
     "Cuarto Año",
     "Tercer Año/Segundo Cuatrimestre/Informatica Forense.md",

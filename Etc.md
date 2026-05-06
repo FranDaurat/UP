@@ -13,20 +13,20 @@ Martin acosta ---> segun el grupo es choto
 Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otros otroa)
 
 ## Parciales 
-24/04 Adm de proyectos (Primero)
-10/06 Adm de proyectos (Segundo)
 
-05/06 DevOps (Segundo) *En teoria*
+1. 05/06 DevOps (Segundo) *En teoria*
 
-10/06 Testing y QA(Segundo)
+2. 20/05 Sistemas Operativos (Segundo Parcialito)
 
-20/05 Sistemas Operativos (Segundo Parcialito)
-17/06 Sistemas Operativos (Segundo Parcial)
+3. 10/06 Adm de proyectos (Segundo)
+4. 10/06 Testing y QA(Segundo)
 
-23/04 Seg web (Primero)
-11/06 Seg web (Segundo)
+5. 11/06 Seg web (Segundo)
+6. 11/06 (parcial) Auditoria de sistemas
 
-11/06 (parcial) Auditoria de sistemas
+7. 17/06 Sistemas Operativos (Segundo Parcial)
+
+
 
 
 
