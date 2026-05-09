@@ -1,0 +1,3 @@
+-- -
+- Qué es "Riesgo" y por qué es tan importante saber definirlo.
+- Auditoría de cumplimiento vs Auditoría operativa.

@@ -14,17 +14,21 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 
 ## Parciales 
 
-1. 05/06 DevOps (Segundo) *En teoria*
+
+1. 03/06 Sistemas Operativos (Segundo Parcial)
 
 2. 20/05 Sistemas Operativos (Segundo Parcialito)
 
-3. 10/06 Adm de proyectos (Segundo)
-4. 10/06 Testing y QA(Segundo)
+3. 05/06 DevOps (Segundo) 
 
-5. 11/06 Seg web (Segundo)
-6. 11/06 (parcial) Auditoria de sistemas
+4. 10/06 Adm de proyectos (Segundo)
 
-7. 17/06 Sistemas Operativos (Segundo Parcial)
+5. 10/06 Testing y QA (Segundo)
+
+6. 11/06 Seg web (Segundo)
+
+7. 11/06 (parcial) Auditoria de sistemas
+
 
 
 
