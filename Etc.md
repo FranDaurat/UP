@@ -30,13 +30,3 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 
 8. 11/06 (parcial) Auditoria de sistemas
 
-
-como podria hacer para que durante la templates/FASE1.md ocurra esto:
-  1. haiku lee los archivos del checkilist
-  2. sonnet analiza endpoints y prueba enviando ciertas requests
-  3. haiku anota en el checklist
-
-  o quizas hasta incluso cuando sonnet siente que hay algo pero no puede podemos meter a opus entre el 2 y el 3
-
-
-
