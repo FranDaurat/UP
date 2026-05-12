@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Etc"
             }
-          },
-          {
-            "id": "fc3c21d91bf1d7d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Etc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Etc"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,31 +198,31 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fc3c21d91bf1d7d6",
+  "active": "63314565b8b851ec",
   "lastOpenFiles": [
-    "Material/testing_qa/TP/TPParte6_EstrategiaTesting_Grupo8-1.pdf",
-    "Material/testing_qa/TP/TPParte5Grupo8.pdf",
-    "Material/testing_qa/TP/TPParte4_PlanCM_Grupo8.docx-1.pdf",
-    "Material/testing_qa/TP/TPParte3Grupo8.pdf",
-    "Material/testing_qa/TP/TPParte2Grupo8-1.pdf",
-    "Material/testing_qa/TP/TPParte1SeleccionProdQA-1.pdf",
-    "Material/testing_qa/Parciales/2Parcial.pdf",
-    "Material/testing_qa/Parciales/1Parcial.pdf",
-    "Material/testing_qa/preguntas.pdf",
-    "Material/testing_qa/TP",
-    "Material/testing_qa/Parciales",
-    "Material/devops/parciales/Parcial 2/Pregunta 8-9-10.jpeg",
-    "Material/devops/parciales/Parcial 2/Pregunta 7-8-9.jpeg",
-    "Material/devops/parciales/Parcial 2/Pregunta 4-5-6.jpeg",
-    "Material/devops/parciales/Parcial 2/Pregunta 1-2-3.jpeg",
-    "Material/devops/parciales/Parcial 1/Pregunta 9-10.jpeg",
-    "Material/devops/parciales/Parcial 1/Pregunta 8-9.jpeg",
-    "Material/devops/parciales/Parcial 1/Pregunta 6-7.jpeg",
-    "Material/devops/parciales/Parcial 1/Pregunta 3-4-5.jpeg",
-    "Material/devops/parciales/Parcial 1/Pregunta 1-2.jpeg",
-    "Material/auditoria_de_sistemas/parciales/Primer-Parcial/WhatsApp Image 2026-05-11 at 2.54.55 PM.jpeg",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 7 - Estrategias de Testing.md",
+    "Material/testing_qa/TP/TPParte7_Plant_testing.pdf",
+    "Material/testing_qa/TP/Plan_Testing_Grupo8-1-1-1.pdf",
+    "Material/admini_de_proyectos/TP/04. Mod 06 - EDT_WBS - Grupo 4.docx.pdf",
+    "Material/admini_de_proyectos/TP/Parte6-2-PreEntrega.pdf",
+    "Material/admini_de_proyectos/TP/Parte6-Matriz_RACI.pdf",
+    "Material/admini_de_proyectos/TP/Parte5-Diagrama_Gantt.pdf",
+    "Material/admini_de_proyectos/TP/Parte4-Diccionario_EDT_WBS.pdf",
+    "Material/admini_de_proyectos/TP/Parte3-Registro_Interesados.pdf",
+    "Material/admini_de_proyectos/TP/Parte2-Acta_Constitucion.pdf",
+    "Material/admini_de_proyectos/TP/01. Mod 02 - Entrega de consignas - Grupo 4.docx.pdf",
+    "Material/admini_de_proyectos/TP/Parte1-Entrega_Consignas.pdf",
+    "Material/admini_de_proyectos/Parciales/Parcial2/2025-01/Imagen de WhatsApp 2024-07-04 a las 23.26.25_b6155720.jpg",
+    "Material/admini_de_proyectos/Parciales/Parcial2/2025-01/Imagen de WhatsApp 2024-07-04 a las 23.26.25_2e323132.jpg",
+    "Material/admini_de_proyectos/Parciales/Parcial2/2025-01/Imagen de WhatsApp 2024-07-04 a las 23.26.24_fb727ac6.jpg",
+    "Material/admini_de_proyectos/Parciales/Parcial2/2025-01/Imagen de WhatsApp 2024-07-04 a las 23.26.24_201eaea5.jpg",
+    "Material/admini_de_proyectos/Parciales/Parcial2/2025-01/Imagen de WhatsApp 2024-07-04 a las 23.26.23_d74c6a34.jpg",
+    "Material/admini_de_proyectos/Parciales/Parcial2/2025-01/Imagen de WhatsApp 2024-07-04 a las 23.26.22_c32553d7.jpg",
+    "Material/admini_de_proyectos/Parciales/Parcial2/2025-01/Imagen de WhatsApp 2024-07-04 a las 23.26.22_830c39ad.jpg",
+    "Material/admini_de_proyectos/Parciales/Parcial2/2025-01/Imagen de WhatsApp 2024-07-04 a las 23.26.22_4fd26387.jpg",
+    "Material/admini_de_proyectos/Parciales/WhatsApp Image 2026-04-12 at 8.50.54 PM (1).jpeg",
+    "Material/admini_de_proyectos/Parciales/WhatsApp Image 2026-04-12 at 8.50.54 PM.jpeg",
     "Etc.md",
+    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 7 - Estrategias de Testing.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Coass.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 1 - Fundamentos e Introduccion..md",
