@@ -1,0 +1,5299 @@
+WEBVTT
+
+1
+00:00:47.340 --> 00:00:48.250
+Lucas LUCAS CASCO: Buenas. Profe.
+
+2
+00:00:48.250 --> 00:00:49.579
+JACOBO BRIAN HAMBRA: Profe buenas. ¿cómo va.
+
+3
+00:00:49.580 --> 00:00:51.039
+Arroyo Arzubi Carlos A.: Hola, cómo andas.
+
+4
+00:00:52.600 --> 00:00:53.300
+MATIAS BASILICO: Bronce.
+
+5
+00:00:53.560 --> 00:00:54.840
+FRANCISCO DAURAT: Profe. ¿qué tal.
+
+6
+00:00:54.840 --> 00:00:56.500
+FRANCO EMMANUEL SICARDO: Hola. Profe. ¿cómo le va.
+
+7
+00:00:56.500 --> 00:00:56.920
+TOBÍAS WIRTH: Hola.
+
+8
+00:00:57.010 --> 00:00:57.909
+MATEO CAMILLETTI: El Profe? Bueno.
+
+9
+00:00:58.580 --> 00:01:00.929
+LUCAS BONAFFINI: Buenas tardes. Profe cómo anda.
+
+10
+00:01:01.990 --> 00:01:03.340
+Arroyo Arzubi Carlos A.: Bien. Gracias.
+
+11
+00:01:03.580 --> 00:01:04.290
+Arroyo Arzubi Carlos A.: Muy amable.
+
+12
+00:01:05.190 --> 00:01:07.129
+LUCAS BONAFFINI: Estamos saludando todo.
+
+13
+00:01:07.130 --> 00:01:09.389
+Arroyo Arzubi Carlos A.: Muy bien, cada vez más.
+
+14
+00:01:10.060 --> 00:01:10.470
+LUCAS BONAFFINI: Mhm.
+
+15
+00:01:13.210 --> 00:01:25.370
+Arroyo Arzubi Carlos A.: Bueno, Muy bien, vamos a empezar. Entonces el día de hoy vamos a
+
+16
+00:01:26.870 --> 00:01:32.699
+Arroyo Arzubi Carlos A.: a ver la unidad. Siete memoria virtual no completa. Vamos a ver una parte.
+
+17
+00:01:33.180 --> 00:01:40.080
+Arroyo Arzubi Carlos A.: y la otra parte la vamos a ver la clase que viene fundamentalmente
+
+18
+00:01:40.990 --> 00:01:46.070
+Arroyo Arzubi Carlos A.: con una parte práctica que tiene? Que bueno, ya la vamos a ver, pero digamos que nos va a llevar
+
+19
+00:01:46.540 --> 00:01:55.200
+Arroyo Arzubi Carlos A.: 2 clases, así como hicimos con memoria principal con memoria virtual va a ocurrir lo mismo?
+
+20
+00:01:55.870 --> 00:02:01.669
+Arroyo Arzubi Carlos A.: Bueno, vamos a hacer un repaso, como hacemos siempre, de lo que vimos. La clase pasada.
+
+21
+00:02:01.940 --> 00:02:06.970
+Arroyo Arzubi Carlos A.: que era la segunda parte de memoria virtual desde paginación.
+
+22
+00:02:07.590 --> 00:02:08.580
+Arroyo Arzubi Carlos A.: Mhm.
+
+23
+00:02:08.930 --> 00:02:12.660
+Arroyo Arzubi Carlos A.: Vamos a ver si Y
+
+24
+00:02:16.430 --> 00:02:18.060
+Arroyo Arzubi Carlos A.: Álvarez Lupu
+
+25
+00:02:23.980 --> 00:02:24.880
+Arroyo Arzubi Carlos A.: está
+
+26
+00:02:46.910 --> 00:02:48.760
+Arroyo Arzubi Carlos A.: Córdoba. Carlos ama.
+
+27
+00:02:49.640 --> 00:02:50.570
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Acá. Estoy.
+
+28
+00:02:52.140 --> 00:02:52.930
+Arroyo Arzubi Carlos A.: Bien
+
+29
+00:02:56.620 --> 00:02:58.370
+Arroyo Arzubi Carlos A.: 2. Schaefer.
+
+30
+00:02:58.810 --> 00:03:00.339
+TOMÁS DODDS SCHAEFER: Sí profe. Aquí estoy.
+
+31
+00:03:00.510 --> 00:03:01.360
+Arroyo Arzubi Carlos A.: Bien.
+
+32
+00:03:02.890 --> 00:03:04.600
+Arroyo Arzubi Carlos A.: Y ya van quedando menos.
+
+33
+00:03:09.500 --> 00:03:11.250
+Arroyo Arzubi Carlos A.: García Escalera.
+
+34
+00:03:36.720 --> 00:03:37.980
+Arroyo Arzubi Carlos A.: Muleiro
+
+35
+00:03:43.320 --> 00:03:44.470
+Arroyo Arzubi Carlos A.: Muleiro.
+
+36
+00:03:54.980 --> 00:03:56.190
+Arroyo Arzubi Carlos A.: Risas.
+
+37
+00:03:56.340 --> 00:04:02.760
+Arroyo Arzubi Carlos A.: Mhm, Bueno, vamos con 2, que no.
+
+38
+00:04:03.580 --> 00:04:05.989
+Arroyo Arzubi Carlos A.: no es tanto lo que hay que ver. Así que.
+
+39
+00:04:06.530 --> 00:04:16.620
+Arroyo Arzubi Carlos A.: bueno, nosotros, con la unidad. Seis, recuerden que hablamos de memoria central, obviamente distinta forma de administrarla.
+
+40
+00:04:16.730 --> 00:04:24.840
+Arroyo Arzubi Carlos A.: pero pusimos como condición que el proceso programa, como quieran llamarlo
+
+41
+00:04:25.110 --> 00:04:28.990
+Arroyo Arzubi Carlos A.: lo más correcto. Obviamente, el proceso para
+
+42
+00:04:29.680 --> 00:04:34.560
+Arroyo Arzubi Carlos A.: poder ejecutarlo había que cargarlo completo en la memoria principal
+
+43
+00:04:35.190 --> 00:04:38.840
+Arroyo Arzubi Carlos A.: y no se hacía swapping. No se lo sacaba, es decir, se lo cargaba.
+
+44
+00:04:38.940 --> 00:04:46.729
+Arroyo Arzubi Carlos A.: se ejecutaba completo y cuando terminaba de ejecutarse. Recién lo podíamos sacar.
+
+45
+00:04:48.370 --> 00:04:54.640
+Arroyo Arzubi Carlos A.: Tuvimos las vinculaciones de de las direcciones lógicas y las direcciones físicas.
+
+46
+00:04:55.220 --> 00:05:09.939
+Arroyo Arzubi Carlos A.: Hablamos de la drinquedición cuando hablamos de distintas formas de administración de memoria, hablamos de asignación, continua partición simple.
+
+47
+00:05:10.410 --> 00:05:24.669
+Arroyo Arzubi Carlos A.: particiones múltiples, fijas, particiones múltiples, variables, y aquí vimos que apareció el concepto de fragmentación externa.
+
+48
+00:05:25.340 --> 00:05:30.820
+Arroyo Arzubi Carlos A.: que es la memoria que queda en poder del sistema operativo.
+
+49
+00:05:31.350 --> 00:05:35.379
+Arroyo Arzubi Carlos A.: pero que porque como su tamaño es pequeño
+
+50
+00:05:35.730 --> 00:05:40.739
+Arroyo Arzubi Carlos A.: no alcanza para poder cargar un proceso de manera completa.
+
+51
+00:05:41.970 --> 00:05:45.519
+Arroyo Arzubi Carlos A.: Entonces eso era la fragmentación externa.
+
+52
+00:05:46.920 --> 00:05:51.949
+Arroyo Arzubi Carlos A.: Cuando hablamos de particiones múltiples, variables, también dijimos
+
+53
+00:05:56.090 --> 00:06:06.630
+Arroyo Arzubi Carlos A.: que había 3 criterios para asignación: esos huecos, asignar esos huecos que se iban produciendo dinámicamente y hablamos de
+
+54
+00:06:06.730 --> 00:06:14.129
+Arroyo Arzubi Carlos A.: primer ajuste mejor ajuste y peor ajuste eso. Habíamos visto
+
+55
+00:06:14.670 --> 00:06:22.560
+Arroyo Arzubi Carlos A.: hace 2 semanas atrás. La semana pasada retomamos ahí y empezamos hablando de
+
+56
+00:06:22.670 --> 00:06:30.519
+Arroyo Arzubi Carlos A.: otra forma de administrar la memoria Córdoba que se llama paginación, Podés contarnos qué es la paginación.
+
+57
+00:06:31.900 --> 00:06:41.380
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Bueno, en la en la paginación se divide la memoria en en bloques de tamaño fijo y que son iguales entre sí.
+
+58
+00:06:44.260 --> 00:06:45.700
+Arroyo Arzubi Carlos A.: Tomada.
+
+59
+00:06:45.700 --> 00:06:47.000
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Sí, es verdad.
+
+60
+00:06:47.000 --> 00:06:49.179
+Arroyo Arzubi Carlos A.: No, no está bien. Hasta ahí va bien.
+
+61
+00:06:49.180 --> 00:06:49.710
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: A ver qué.
+
+62
+00:06:49.710 --> 00:06:54.759
+Arroyo Arzubi Carlos A.: Esos bloques de memoria. ¿vos dijiste que son bloques de memoria fijo iguales entre sí.
+
+63
+00:06:54.760 --> 00:06:56.160
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Sí igual, es un decir.
+
+64
+00:06:56.280 --> 00:06:56.930
+Arroyo Arzubi Carlos A.: Bien.
+
+65
+00:06:57.860 --> 00:07:05.020
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Cuando nos referimos a la memoria secundaria, se llama página y a la memoria principal. Se dice frames
+
+66
+00:07:05.870 --> 00:07:10.609
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: en esta administración de memoria. Tenemos fragmentación interna.
+
+67
+00:07:11.220 --> 00:07:17.620
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: que es la parte de memoria que el sistema operativo le asigna a a un proceso
+
+68
+00:07:17.770 --> 00:07:20.630
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: y esta no la utiliza. O sea, le sobra.
+
+69
+00:07:21.040 --> 00:07:24.869
+Arroyo Arzubi Carlos A.: ¿por qué? ¿por qué se produce la fragmentación interna.
+
+70
+00:07:25.660 --> 00:07:30.700
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: En porque.
+
+71
+00:07:32.600 --> 00:07:33.980
+Arroyo Arzubi Carlos A.: ¿cómo son los bloques.
+
+72
+00:07:34.180 --> 00:07:37.010
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Son iguales entre sí, entonces capaz, que es un.
+
+73
+00:07:37.010 --> 00:07:40.459
+Arroyo Arzubi Carlos A.: Claro, son de tamaño de tamaño fijo.
+
+74
+00:07:40.460 --> 00:07:41.610
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Sí son tamaño fijo.
+
+75
+00:07:41.610 --> 00:07:45.950
+Arroyo Arzubi Carlos A.: Y cuántos bloques hay que darle a un proceso.
+
+76
+00:07:47.470 --> 00:07:48.510
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Una.
+
+77
+00:07:48.880 --> 00:07:50.239
+Arroyo Arzubi Carlos A.: No, que 1.
+
+78
+00:07:50.240 --> 00:07:51.610
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: No sé.
+
+79
+00:07:51.610 --> 00:07:57.260
+Arroyo Arzubi Carlos A.: Le puede dar una fracción de un ah, no se puede decir.
+
+80
+00:07:57.260 --> 00:08:00.009
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Claro, hay que darle un tamaño. El tamaño fijo.
+
+81
+00:08:01.200 --> 00:08:05.099
+Arroyo Arzubi Carlos A.: Si no el Tama. Si yo tengo que dar el tamaño entero de la página.
+
+82
+00:08:05.100 --> 00:08:06.439
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Claro entero, sí, Perdón.
+
+83
+00:08:06.590 --> 00:08:19.079
+Arroyo Arzubi Carlos A.: Bueno, entonces obviamente me va a aparecer la fragmentación interna. Si yo pudiera darle un porcentaje de la última página, no tendría fragmentación interna. Se entiende.
+
+84
+00:08:19.360 --> 00:08:20.090
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Sí, Sí.
+
+85
+00:08:21.620 --> 00:08:23.480
+Arroyo Arzubi Carlos A.: Bueno la dirección.
+
+86
+00:08:24.620 --> 00:08:28.310
+Arroyo Arzubi Carlos A.: Hasta que llegamos a paginación. La dirección de la memoria
+
+87
+00:08:29.170 --> 00:08:33.989
+Arroyo Arzubi Carlos A.: estaba dada por un número que era una dirección, un único número.
+
+88
+00:08:34.250 --> 00:08:38.989
+Arroyo Arzubi Carlos A.: Cuando hablamos de paginación, ¿cómo está formada la dirección.
+
+89
+00:08:40.010 --> 00:08:44.379
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Por una por la página y el desvío.
+
+90
+00:08:45.050 --> 00:08:47.460
+Arroyo Arzubi Carlos A.: Es decir, que ahora necesitamos 2 datos.
+
+91
+00:08:47.460 --> 00:08:48.040
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Sí, sincera.
+
+92
+00:08:48.040 --> 00:08:57.649
+Arroyo Arzubi Carlos A.: Para poder identificar una ubicación y cómo registra cada proceso.
+
+93
+00:08:59.050 --> 00:09:04.490
+Arroyo Arzubi Carlos A.: es decir, cómo hace la vinculación de la dirección lógica con la dirección física.
+
+94
+00:09:06.180 --> 00:09:09.600
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Que, ¿cómo decirle.
+
+95
+00:09:10.750 --> 00:09:12.509
+Arroyo Arzubi Carlos A.: La dirección física. ¿cuál es.
+
+96
+00:09:15.430 --> 00:09:17.810
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: La dirección física es la.
+
+97
+00:09:22.570 --> 00:09:24.800
+Arroyo Arzubi Carlos A.: Cuando decidís dirección física, ¿qué pensás.
+
+98
+00:09:26.250 --> 00:09:27.790
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Memoria principal.
+
+99
+00:09:28.230 --> 00:09:31.190
+Arroyo Arzubi Carlos A.: Bien. Y cuando decís dirección lógica.
+
+100
+00:09:31.490 --> 00:09:32.750
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Secundaria.
+
+101
+00:09:34.290 --> 00:09:35.010
+Arroyo Arzubi Carlos A.: ¿qué más.
+
+102
+00:09:35.730 --> 00:09:42.059
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Y no la verdad. No sé. Profe. No sé la respuesta.
+
+103
+00:09:45.220 --> 00:09:47.050
+Arroyo Arzubi Carlos A.: A ver 2.
+
+104
+00:09:48.270 --> 00:09:50.810
+TOMÁS DODDS SCHAEFER: Este a través de la tabla de pagina Profe.
+
+105
+00:09:51.190 --> 00:09:55.650
+Arroyo Arzubi Carlos A.: Sí. Pero, dónde, ¿quién lee la dirección lógica? Siempre.
+
+106
+00:09:57.320 --> 00:09:58.560
+TOMÁS DODDS SCHAEFER: El sistema operativo.
+
+107
+00:09:58.890 --> 00:10:04.570
+Arroyo Arzubi Carlos A.: Aquel sistema operativo sí está bien, bueno, pero.
+
+108
+00:10:05.200 --> 00:10:08.260
+TOMÁS DODDS SCHAEFER: Lo o sea, busca la relación entre la paz.
+
+109
+00:10:08.260 --> 00:10:11.740
+Arroyo Arzubi Carlos A.: Pero quién lee? Tiene la dirección lógica
+
+110
+00:10:12.350 --> 00:10:14.800
+Arroyo Arzubi Carlos A.: y luego tendrá que ir a buscar a la tabla.
+
+111
+00:10:15.710 --> 00:10:16.670
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: La C, P, U.
+
+112
+00:10:17.090 --> 00:10:18.600
+TOMÁS DODDS SCHAEFER: Y no, sí.
+
+113
+00:10:18.600 --> 00:10:24.550
+Arroyo Arzubi Carlos A.: La C, P, u la C, P U va a leer siempre la dirección lógica, ¿
+
+114
+00:10:24.730 --> 00:10:29.339
+Arroyo Arzubi Carlos A.: Que, de acuerdo a las 3 formas que vimos de vincular.
+
+115
+00:10:29.540 --> 00:10:40.240
+Arroyo Arzubi Carlos A.: podrá ser la misma si es el tiempo de compilación o podrá ser en tiempo de carga o el tiempo de ejecución, como es lo que vamos a ver ahora
+
+116
+00:10:40.530 --> 00:10:42.140
+Arroyo Arzubi Carlos A.: en paquinación.
+
+117
+00:10:42.540 --> 00:10:46.669
+Arroyo Arzubi Carlos A.: Entonces la C P. U lee la dirección lógica.
+
+118
+00:10:47.090 --> 00:10:55.720
+Arroyo Arzubi Carlos A.: Ahora la dirección física, como dijo Álvaro, está en la memoria principal.
+
+119
+00:10:56.310 --> 00:11:02.850
+Arroyo Arzubi Carlos A.: Entonces, ¿cómo seguíamos Tomás que vos estabas diciendo cómo vinculo una con otra.
+
+120
+00:11:03.490 --> 00:11:08.930
+TOMÁS DODDS SCHAEFER: Fija en la tabla de página, la vinculación con el desvío.
+
+121
+00:11:08.930 --> 00:11:15.099
+Arroyo Arzubi Carlos A.: No para para en la tabla de página que vinculo con que porque el alguien.
+
+122
+00:11:15.100 --> 00:11:15.970
+TOMÁS DODDS SCHAEFER: Español.
+
+123
+00:11:16.420 --> 00:11:18.349
+Arroyo Arzubi Carlos A.: Tiene 2 partes.
+
+124
+00:11:18.590 --> 00:11:20.580
+Arroyo Arzubi Carlos A.: Sí, la página y el desvío
+
+125
+00:11:20.720 --> 00:11:23.479
+Arroyo Arzubi Carlos A.: en la tabla de página que vinculo con qué.
+
+126
+00:11:24.110 --> 00:11:27.599
+TOMÁS DODDS SCHAEFER: La dirección física, donde esta alojada, la dirección virtual.
+
+127
+00:11:28.990 --> 00:11:29.720
+Arroyo Arzubi Carlos A.: Mhm.
+
+128
+00:11:30.450 --> 00:11:33.860
+TOMÁS DODDS SCHAEFER: La dirección física, donde esta alojada, la dirección virtual.
+
+129
+00:11:33.860 --> 00:11:37.359
+Arroyo Arzubi Carlos A.: Virtual dirección virtual. ¿qué es la dirección virtual? Nunca usamos el término.
+
+130
+00:11:37.360 --> 00:11:39.160
+TOMÁS DODDS SCHAEFER: Ah, bueno, la página virtual.
+
+131
+00:11:40.900 --> 00:11:45.029
+Arroyo Arzubi Carlos A.: No, tampoco usamos el término página virtual. Nunca. ¿por qué lo usas.
+
+132
+00:11:45.730 --> 00:11:47.830
+TOMÁS DODDS SCHAEFER: No, no sé. Me acuerdo de haber leído eso.
+
+133
+00:11:47.830 --> 00:11:51.319
+Arroyo Arzubi Carlos A.: Apareció así. Fue una iluminación.
+
+134
+00:11:51.890 --> 00:12:02.690
+Arroyo Arzubi Carlos A.: Vamos de vuelta la dirección en el sistema de paginación. Tiene 2 partes: la página y el desvío
+
+135
+00:12:03.050 --> 00:12:06.600
+Arroyo Arzubi Carlos A.: en la tabla de página. ¿qué vinculo con qué.
+
+136
+00:12:08.790 --> 00:12:12.110
+TOMÁS DODDS SCHAEFER: El frame con la dirección virtual.
+
+137
+00:12:12.850 --> 00:12:18.959
+Arroyo Arzubi Carlos A.: Qué dirección virtual no existe dirección virtual. Nunca usamos ese término.
+
+138
+00:12:18.960 --> 00:12:22.550
+TOMÁS DODDS SCHAEFER: Ahí tengo el desvío que coincide entre los 2 que comparten.
+
+139
+00:12:24.550 --> 00:12:26.750
+Arroyo Arzubi Carlos A.: Qué tiene la tabla de pagina.
+
+140
+00:12:29.340 --> 00:12:31.079
+TOMÁS DODDS SCHAEFER: No, no recuerdo bien. Profe a mí.
+
+141
+00:12:31.250 --> 00:12:34.289
+Arroyo Arzubi Carlos A.: Álvaro la tabla de página. ¿qué es lo que tiene.
+
+142
+00:12:34.670 --> 00:12:37.470
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: La página y el frame.
+
+143
+00:12:38.580 --> 00:12:42.690
+Arroyo Arzubi Carlos A.: Es decir, que vincula qué con qué la página, con el.
+
+144
+00:12:42.690 --> 00:12:44.440
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Página y a la página de Friends.
+
+145
+00:12:45.120 --> 00:12:57.860
+Arroyo Arzubi Carlos A.: Es decir, que lo que estoy vinculando con la tabla de página es esa página que es una dirección lógica donde en que frame está guardado en la memoria física.
+
+146
+00:12:58.790 --> 00:12:59.560
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Sí.
+
+147
+00:13:01.220 --> 00:13:04.620
+Arroyo Arzubi Carlos A.: Y el desvío que dijimos que, como era el desvío.
+
+148
+00:13:10.820 --> 00:13:17.000
+Arroyo Arzubi Carlos A.: el desvío de la tomas el desvío de la dirección lógica, como lo pasó a la dirección física.
+
+149
+00:13:17.880 --> 00:13:21.480
+TOMÁS DODDS SCHAEFER: Tengo el número de página con su tamaño
+
+150
+00:13:21.870 --> 00:13:23.779
+TOMÁS DODDS SCHAEFER: y a partir de ahí lo puedo calcular.
+
+151
+00:13:26.000 --> 00:13:31.859
+Arroyo Arzubi Carlos A.: No, pero no calculas nada el proceso. Cuando está ejecutando Ley de Direcciones.
+
+152
+00:13:32.120 --> 00:13:36.000
+Arroyo Arzubi Carlos A.: no hace un cálculo en la C. P. U lee la dirección.
+
+153
+00:13:36.680 --> 00:13:41.790
+Arroyo Arzubi Carlos A.: Y después esa dirección lógica la tiene que llevar a la dirección física
+
+154
+00:13:42.470 --> 00:13:50.710
+Arroyo Arzubi Carlos A.: en la página. Ya dijimos con la tabla de página se fijan, que frame, está guardado y el desvío. ¿qué es lo que había que hacer.
+
+155
+00:13:52.530 --> 00:13:54.550
+TOMÁS DODDS SCHAEFER: Comparten el mismo desvío.
+
+156
+00:13:55.280 --> 00:13:56.160
+Arroyo Arzubi Carlos A.: ¿por qué?
+
+157
+00:13:56.780 --> 00:13:59.610
+TOMÁS DODDS SCHAEFER: Porque están asociados a través de página.
+
+158
+00:13:59.960 --> 00:14:00.760
+Arroyo Arzubi Carlos A.: ¿por qué?
+
+159
+00:14:01.070 --> 00:14:03.700
+TOMÁS DODDS SCHAEFER: Porque están asociados a través de la tabla de página.
+
+160
+00:14:04.620 --> 00:14:11.640
+Arroyo Arzubi Carlos A.: No la tabla de página vincula la página con el frame. El desvío es interno de cada una.
+
+161
+00:14:12.000 --> 00:14:19.819
+Arroyo Arzubi Carlos A.: ¿por qué va a ser, va a estar vinculado, vinculado o cómo son el desvío dentro de una página y el desvío del frente: cómo son.
+
+162
+00:14:20.540 --> 00:14:21.330
+TOMÁS DODDS SCHAEFER: Iguales.
+
+163
+00:14:21.700 --> 00:14:25.939
+Arroyo Arzubi Carlos A.: Bueno, entonces que hacer ningún cálculo.
+
+164
+00:14:26.790 --> 00:14:34.389
+Arroyo Arzubi Carlos A.: porque justamente, como todos tienen el mismo tamaño. Si Si la dirección lógica me dice página, 2 desvío. 200
+
+165
+00:14:34.700 --> 00:14:42.279
+Arroyo Arzubi Carlos A.: Yo voy a ver en qué lugar está ubicado el Freire, la página. Dos: en qué frai y el de Diego va a ser 200 el mismo.
+
+166
+00:14:47.160 --> 00:14:56.100
+Arroyo Arzubi Carlos A.: Tomás. Nosotros dijimos que las tablas de página podían ser muy extensas, ¿
+
+167
+00:14:56.540 --> 00:15:08.320
+Arroyo Arzubi Carlos A.: Y en cuyo caso, la búsqueda se realizaba secuencialmente de qué manera se podía y digamos, mejorar
+
+168
+00:15:08.800 --> 00:15:13.299
+Arroyo Arzubi Carlos A.: la velocidad de acceso a la tabla de página Te acordás.
+
+169
+00:15:13.480 --> 00:15:16.200
+TOMÁS DODDS SCHAEFER: Sí a través de las tablas multinivel.
+
+170
+00:15:17.400 --> 00:15:21.510
+TOMÁS DODDS SCHAEFER: en la cual un segmento estaba asociado a una tablas.
+
+171
+00:15:21.510 --> 00:15:21.840
+Arroyo Arzubi Carlos A.: Mhm.
+
+172
+00:15:21.840 --> 00:15:24.210
+TOMÁS DODDS SCHAEFER: Puntual, un.
+
+173
+00:15:24.550 --> 00:15:29.140
+Arroyo Arzubi Carlos A.: Uy uy un segmento. ¿qué es un segmento.
+
+174
+00:15:29.470 --> 00:15:30.740
+TOMÁS DODDS SCHAEFER: Un segmento de memoria.
+
+175
+00:15:35.120 --> 00:15:37.009
+Arroyo Arzubi Carlos A.: Un segmento de memoria.
+
+176
+00:15:38.460 --> 00:15:39.579
+Arroyo Arzubi Carlos A.: No entiendo.
+
+177
+00:15:40.550 --> 00:15:45.400
+TOMÁS DODDS SCHAEFER: Un segmento, estaba asociado a un segmento dentro del
+
+178
+00:15:45.560 --> 00:15:48.400
+TOMÁS DODDS SCHAEFER: del proceso, estaba asociado a una página puntual.
+
+179
+00:15:49.630 --> 00:15:51.449
+TOMÁS DODDS SCHAEFER: y de ahí yo tenía distintos.
+
+180
+00:15:51.450 --> 00:15:54.379
+Arroyo Arzubi Carlos A.: Es que no sé lo que es lo que es un segmento.
+
+181
+00:15:55.240 --> 00:15:56.230
+TOMÁS DODDS SCHAEFER: Perdón, durango.
+
+182
+00:15:56.810 --> 00:15:58.020
+Arroyo Arzubi Carlos A.: Un qué?
+
+183
+00:15:58.020 --> 00:15:58.970
+TOMÁS DODDS SCHAEFER: Un rango.
+
+184
+00:15:58.970 --> 00:16:00.649
+Arroyo Arzubi Carlos A.: ¿sí? Encima. Leemos mal.
+
+185
+00:16:01.200 --> 00:16:02.129
+TOMÁS DODDS SCHAEFER: No, no, no, me.
+
+186
+00:16:02.130 --> 00:16:08.980
+Arroyo Arzubi Carlos A.: Claro, porque encima mezclamos todo y nos sale cualquier ensalada acá.
+
+187
+00:16:09.440 --> 00:16:11.849
+TOMÁS DODDS SCHAEFER: No, No me confundí porque no leí, recién leí.
+
+188
+00:16:12.360 --> 00:16:13.140
+Arroyo Arzubi Carlos A.: Cómo.
+
+189
+00:16:14.070 --> 00:16:17.339
+TOMÁS DODDS SCHAEFER: Que me confundí y después leí por eso no dije bien.
+
+190
+00:16:19.240 --> 00:16:20.619
+Arroyo Arzubi Carlos A.: Y qué es el rango.
+
+191
+00:16:21.640 --> 00:16:27.409
+TOMÁS DODDS SCHAEFER: El rango está asociado a una tabla de página en la cual, por ejemplo, yo tengo el Ran.
+
+192
+00:16:27.410 --> 00:16:33.570
+Arroyo Arzubi Carlos A.: El rango. ¿qué sería un ejemplo? Un ejemplo de rango. Por ejemplo, yo tengo una tabla que.
+
+193
+00:16:33.570 --> 00:16:34.530
+TOMÁS DODDS SCHAEFER: Direcciones.
+
+194
+00:16:35.240 --> 00:16:44.560
+Arroyo Arzubi Carlos A.: Una tabla que tiene 100 páginas. Vamos a buscar números fácil, 100 páginas.
+
+195
+00:16:44.870 --> 00:16:48.920
+Arroyo Arzubi Carlos A.: Yo podría utilizar tablas multinivel y el rango.
+
+196
+00:16:49.110 --> 00:16:52.179
+Arroyo Arzubi Carlos A.: ¿cuál sería un ejemplo de rango que utilizaría.
+
+197
+00:16:52.180 --> 00:16:55.540
+TOMÁS DODDS SCHAEFER: De 0 al 50 con la tabla de pagina, 1
+
+198
+00:16:56.050 --> 00:17:00.070
+TOMÁS DODDS SCHAEFER: 50 al 100 con la tabla de página, 2.
+
+199
+00:17:00.070 --> 00:17:05.730
+Arroyo Arzubi Carlos A.: Las neuronas se fueron, se aceleraron a 1 000 por hora.
+
+200
+00:17:07.079 --> 00:17:16.389
+Arroyo Arzubi Carlos A.: ¿qué otra forma se puede? Teníamos para mencionamos para también acelerar esta búsqueda. Otra opción que tuvimos que me la que planteamos Te acordás.
+
+201
+00:17:16.880 --> 00:17:25.899
+TOMÁS DODDS SCHAEFER: Con el T, L, B, que es un buffer en el cual se almacenan traducciones anteriores recién hechas
+
+202
+00:17:26.410 --> 00:17:34.119
+TOMÁS DODDS SCHAEFER: que el C, P, U primero se fija ahí. Si está la traducción que necesita. Y si no recién se va a fijar en
+
+203
+00:17:35.020 --> 00:17:36.270
+TOMÁS DODDS SCHAEFER: la tabla de.
+
+204
+00:17:37.120 --> 00:17:37.970
+Arroyo Arzubi Carlos A.: Bien.
+
+205
+00:17:37.970 --> 00:17:38.680
+TOMÁS DODDS SCHAEFER: Con orientación.
+
+206
+00:17:38.680 --> 00:17:40.010
+Arroyo Arzubi Carlos A.: Bien. Bien.
+
+207
+00:17:40.390 --> 00:17:47.659
+Arroyo Arzubi Carlos A.: Bueno, también dijimos que las tablas de páginas, algunos sistemas podían como otra opción
+
+208
+00:17:47.860 --> 00:17:52.080
+Arroyo Arzubi Carlos A.: en vez de tener cada proceso, una tabla de página
+
+209
+00:17:52.340 --> 00:17:58.050
+Arroyo Arzubi Carlos A.: estaba lo que se llamaba tabla de páginas invertida que
+
+210
+00:17:58.640 --> 00:18:03.690
+Arroyo Arzubi Carlos A.: los sistemas que optan por ella por tener una única tabla.
+
+211
+00:18:04.310 --> 00:18:05.700
+Arroyo Arzubi Carlos A.: Esa tabla
+
+212
+00:18:06.240 --> 00:18:15.350
+Arroyo Arzubi Carlos A.: va a tener que tener la identificación de cada 1 de los procesos como es una única tabla. Yo voy a tener que tener la identificación del proceso.
+
+213
+00:18:15.810 --> 00:18:21.010
+Arroyo Arzubi Carlos A.: la pa y la y la página para
+
+214
+00:18:21.120 --> 00:18:37.380
+Arroyo Arzubi Carlos A.: poder vincularlo con el frame, y se llamaba o tu llama invertida porque está ordenada por los números de los fraile. Es decir, nosotros hicimos la tabla donde teníamos a la izquierda, las páginas y a la derecha los frame
+
+215
+00:18:37.490 --> 00:18:48.510
+Arroyo Arzubi Carlos A.: Cuando usábamos la tabla de páginas normales, las las páginas de acero, Uno, 2, 3, acá. El frame es 0. Uno e lo después van cargando donde llega.
+
+216
+00:18:49.900 --> 00:18:52.880
+Arroyo Arzubi Carlos A.: Hablamos también de hablar.
+
+217
+00:18:53.130 --> 00:19:02.020
+Arroyo Arzubi Carlos A.: Otra forma de administrar la memoria que se llama segmentación Tomás. ¿qué es eso?
+
+218
+00:19:03.150 --> 00:19:06.519
+TOMÁS DODDS SCHAEFER: Se divide la memoria en segmentos de distintos tamaños.
+
+219
+00:19:06.770 --> 00:19:12.880
+TOMÁS DODDS SCHAEFER: por lo cual ya no hay fragmentación interna, porque, si bien un proceso de distinto tamaño, le puede otorgar lo que necesiten.
+
+220
+00:19:13.280 --> 00:19:13.720
+Arroyo Arzubi Carlos A.: Sí.
+
+221
+00:19:13.720 --> 00:19:14.580
+TOMÁS DODDS SCHAEFER: Ahí se puede.
+
+222
+00:19:16.730 --> 00:19:23.369
+Arroyo Arzubi Carlos A.: Es decir, que con la segmentación yo eliminó la fragmentación interna
+
+223
+00:19:24.220 --> 00:19:28.269
+Arroyo Arzubi Carlos A.: y, además, puedo llegar a dividir un proceso
+
+224
+00:19:29.040 --> 00:19:41.580
+Arroyo Arzubi Carlos A.: no abruptamente, como ocurre con las páginas, porque le iba abruptamente, por decirlo de alguna manera, porque cuando se cumplió, se llenó la página corta donde corta, sino que, además, me permitiría
+
+225
+00:19:41.800 --> 00:19:52.309
+Arroyo Arzubi Carlos A.: hacer un corte en esos programas, en lugares que sean más razonables. Son opciones que permitirían, si se utiliza la segmentación
+
+226
+00:19:53.750 --> 00:19:55.080
+Arroyo Arzubi Carlos A.: Álvaro.
+
+227
+00:19:56.020 --> 00:19:59.050
+Arroyo Arzubi Carlos A.: Vimos segmentación paginada.
+
+228
+00:19:59.220 --> 00:20:02.270
+Arroyo Arzubi Carlos A.: ¿qué era? ¿qué es la segmentación paginada.
+
+229
+00:20:04.860 --> 00:20:17.130
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: La segmentación en la segmentación paginal se utiliza y segmentos separados en en páginas y.
+
+230
+00:20:17.130 --> 00:20:20.859
+Arroyo Arzubi Carlos A.: Separados en páginas A ver, No, no está muy clara la expresión.
+
+231
+00:20:20.890 --> 00:20:21.410
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: No.
+
+232
+00:20:21.410 --> 00:20:22.440
+Arroyo Arzubi Carlos A.: Segmentos.
+
+233
+00:20:25.620 --> 00:20:30.130
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Segmentos de de de tamaños variables
+
+234
+00:20:30.660 --> 00:20:33.879
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: separadas en páginas van a estar separadas en páginas.
+
+235
+00:20:34.740 --> 00:20:36.060
+Arroyo Arzubi Carlos A.: Separados.
+
+236
+00:20:36.580 --> 00:20:38.730
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Sí.
+
+237
+00:20:38.730 --> 00:20:42.689
+Arroyo Arzubi Carlos A.: Con separado no va la palabra separado. No pega mucho ahí. No.
+
+238
+00:20:42.690 --> 00:20:44.930
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Divididos. No sé qué valores son.
+
+239
+00:20:44.930 --> 00:20:48.590
+Arroyo Arzubi Carlos A.: El segmento puede estar dividido en páginas.
+
+240
+00:20:48.590 --> 00:20:49.270
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Sí, Sí.
+
+241
+00:20:49.270 --> 00:20:56.720
+Arroyo Arzubi Carlos A.: Separado quiere decir otra cosa, es decir, que un segmento va a estar constituido por.
+
+242
+00:20:57.490 --> 00:20:59.440
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Por por páginas.
+
+243
+00:21:00.590 --> 00:21:01.940
+Arroyo Arzubi Carlos A.: Un número.
+
+244
+00:21:01.940 --> 00:21:05.470
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Un número de de páginas. No sé.
+
+245
+00:21:05.800 --> 00:21:07.609
+Arroyo Arzubi Carlos A.: Entero o fraccionado.
+
+246
+00:21:08.020 --> 00:21:12.930
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Bueno, entero.
+
+247
+00:21:14.480 --> 00:21:15.849
+Arroyo Arzubi Carlos A.: Sí, no hay que dudar.
+
+248
+00:21:15.850 --> 00:21:17.560
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Sí, Sí.
+
+249
+00:21:18.250 --> 00:21:20.790
+Arroyo Arzubi Carlos A.: Es decir, que voy a armar segmentos.
+
+250
+00:21:21.520 --> 00:21:26.739
+Arroyo Arzubi Carlos A.: Cada segmento va a estar formado por una página, con lo cual.
+
+251
+00:21:27.760 --> 00:21:30.269
+Arroyo Arzubi Carlos A.: ¿qué pasa con la fragmentación interna.
+
+252
+00:21:30.960 --> 00:21:35.470
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Tenemos fra fragmentación interna, por por las páginas.
+
+253
+00:21:35.850 --> 00:21:45.980
+Arroyo Arzubi Carlos A.: Exactamente como la menor unidad de almacenamiento de la página. Al final volvemos a tener la fragmentación interna.
+
+254
+00:21:50.600 --> 00:22:01.780
+Arroyo Arzubi Carlos A.: Bueno, estamos tampoco para para festejar. Pero digamos que vamos
+
+255
+00:22:07.740 --> 00:22:09.200
+Arroyo Arzubi Carlos A.: listo. Bien.
+
+256
+00:22:09.200 --> 00:22:10.240
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Muchas gracias.
+
+257
+00:22:10.850 --> 00:22:11.729
+TOMÁS DODDS SCHAEFER: Sabes, yo profano.
+
+258
+00:22:12.320 --> 00:22:13.070
+Arroyo Arzubi Carlos A.: Bueno.
+
+259
+00:22:17.340 --> 00:22:18.620
+Arroyo Arzubi Carlos A.: entonces ya está.
+
+260
+00:22:21.300 --> 00:22:27.649
+Arroyo Arzubi Carlos A.: Vamos a ver. Entonces memoria virtual. Ahora, esto ya tampoco va
+
+261
+00:22:34.380 --> 00:22:39.760
+Arroyo Arzubi Carlos A.: bueno en la unidad. Siete, que es memoria virtual.
+
+262
+00:22:40.120 --> 00:22:43.000
+Arroyo Arzubi Carlos A.: Ya no vamos a poner la condición
+
+263
+00:22:43.530 --> 00:22:48.170
+Arroyo Arzubi Carlos A.: que habíamos puesto en la unidad 6, que era
+
+264
+00:22:48.300 --> 00:22:53.540
+Arroyo Arzubi Carlos A.: que el proceso había que cargarlo completo en la memoria
+
+265
+00:22:53.720 --> 00:23:00.929
+Arroyo Arzubi Carlos A.: principal, ejecutarlo, y recién ahí, poder sacarlo esa restricción ya no la tenemos.
+
+266
+00:23:02.580 --> 00:23:12.010
+Arroyo Arzubi Carlos A.: Cuando se habla de memoria virtual. Bueno, el término virtual, ustedes saben, porque es un término que se usa mucho, aunque por ahí
+
+267
+00:23:12.570 --> 00:23:19.470
+Arroyo Arzubi Carlos A.: definirlo puede ser un poco complicado, Pero bueno.
+
+268
+00:23:19.630 --> 00:23:31.760
+Arroyo Arzubi Carlos A.: digamos que cuando 1 dice que tiene una memoria virtual, está diciendo que tiene una memoria y
+
+269
+00:23:32.680 --> 00:23:42.500
+Arroyo Arzubi Carlos A.: que no es real, No es este físicamente real.
+
+270
+00:23:42.890 --> 00:23:47.879
+Arroyo Arzubi Carlos A.: sino que trabaja como si fuera real.
+
+271
+00:23:48.350 --> 00:23:53.440
+Arroyo Arzubi Carlos A.: Bueno, seguramente ustedes van a hacer una definición mejor de lo que es virtual.
+
+272
+00:23:53.910 --> 00:24:01.299
+Arroyo Arzubi Carlos A.: Lo que quiere decir memoria virtual es que recuerden que nosotros siempre hablamos ya desde la primer clase.
+
+273
+00:24:01.960 --> 00:24:05.579
+Arroyo Arzubi Carlos A.: la importancia del tamaño de la memoria principal
+
+274
+00:24:06.240 --> 00:24:13.670
+Arroyo Arzubi Carlos A.: lo hablamos cuando empezamos a hablar de los programadores que la memoria principal
+
+275
+00:24:14.130 --> 00:24:18.649
+Arroyo Arzubi Carlos A.: no le cabían los programas porque era muy Chiquita.
+
+276
+00:24:19.360 --> 00:24:32.279
+Arroyo Arzubi Carlos A.: Después, esa memoria principal creció, pero sí vimos que cuando vimos multiprogramación y multiprocesamiento
+
+277
+00:24:32.620 --> 00:24:39.540
+Arroyo Arzubi Carlos A.: que esas 2 actividades se realizan teniendo y
+
+278
+00:24:40.490 --> 00:24:44.610
+Arroyo Arzubi Carlos A.: varios programas cargados en la memoria principal.
+
+279
+00:24:45.970 --> 00:24:51.990
+Arroyo Arzubi Carlos A.: En consecuencia, el tamaño de la memoria principal es importante
+
+280
+00:24:52.480 --> 00:24:59.429
+Arroyo Arzubi Carlos A.: porque si yo tengo una memoria principal bastante grande. Voy a poder tener
+
+281
+00:25:00.210 --> 00:25:07.649
+Arroyo Arzubi Carlos A.: muchos procesos, los cuales se van a ejecutar con multiprogramación y multiprocesamiento, cosas que ya vimos.
+
+282
+00:25:09.360 --> 00:25:21.450
+Arroyo Arzubi Carlos A.: Si ahora además ponemos la condición de que no tenga que cargar completo el programa en la memoria principal
+
+283
+00:25:21.660 --> 00:25:23.459
+Arroyo Arzubi Carlos A.: para poder ejecutarlo.
+
+284
+00:25:24.240 --> 00:25:35.359
+Arroyo Arzubi Carlos A.: Estoy y, digamos, desentendiéndome de alguna manera del tamaño de la memoria principal. ¿por qué,
+
+285
+00:25:35.960 --> 00:25:40.760
+Arroyo Arzubi Carlos A.: si yo tuviera que escribir un programa que fuera muy grande
+
+286
+00:25:41.000 --> 00:25:50.160
+Arroyo Arzubi Carlos A.: hoy en día, lo que digo tiene poco sentido, pero síganme la lógica. Yo ya no tengo limitación de la memoria principal.
+
+287
+00:25:50.970 --> 00:25:59.600
+Arroyo Arzubi Carlos A.: ¿por qué? Porque trabajo con memoria virtual. ¿qué quiere decir que yo extiendo mi memoria central
+
+288
+00:26:00.220 --> 00:26:04.890
+Arroyo Arzubi Carlos A.: a la que tengo más la memoria secundaria.
+
+289
+00:26:05.700 --> 00:26:12.610
+Arroyo Arzubi Carlos A.: es decir, que yo podría escribir un programa que ocupara toda la memoria principal y toda la memoria secundaria.
+
+290
+00:26:12.960 --> 00:26:14.519
+Arroyo Arzubi Carlos A.: lo cual hoy en día
+
+291
+00:26:15.150 --> 00:26:23.760
+Arroyo Arzubi Carlos A.: no tiene no tiene sentido. Es ¿Por qué? Porque las memorias secundarias son gigantescas y la memoria principal también.
+
+292
+00:26:24.720 --> 00:26:34.699
+Arroyo Arzubi Carlos A.: Pero si yo tengo que cargar solamente una parte de un programa para poder ejecutarlo.
+
+293
+00:26:34.860 --> 00:26:38.469
+Arroyo Arzubi Carlos A.: Yo voy a poder cargar en la memoria principal
+
+294
+00:26:38.620 --> 00:26:42.979
+Arroyo Arzubi Carlos A.: muchos más programas que si los tengo que cargar completo.
+
+295
+00:26:44.330 --> 00:26:53.960
+Arroyo Arzubi Carlos A.: Entonces, si yo puedo cargar más programas en la memoria Ram, porque utilizo memoria virtual.
+
+296
+00:26:54.710 --> 00:27:00.199
+Arroyo Arzubi Carlos A.: el beneficio se va a ver en la multiprogramación y en el multiprocesamiento.
+
+297
+00:27:01.940 --> 00:27:05.750
+Arroyo Arzubi Carlos A.: ¿por qué digo esto? Y lo aclaro bien claro.
+
+298
+00:27:06.670 --> 00:27:15.600
+Arroyo Arzubi Carlos A.: porque si yo digo que ahora ya no me interesa el tamaño de la Ram, porque lo
+
+299
+00:27:15.760 --> 00:27:24.419
+Arroyo Arzubi Carlos A.: digamos lo extiendo con la memoria secundaria. Entonces 1 me podría decir para qué compro un equipo con más o menos memoria. Ram.
+
+300
+00:27:24.590 --> 00:27:28.499
+Arroyo Arzubi Carlos A.: Es decir, el tamaño de la memoria. R A. M. Siempre es importante.
+
+301
+00:27:28.930 --> 00:27:37.950
+Arroyo Arzubi Carlos A.: Porque si yo tengo una memoria Ram más grande. Voy a poder poder. Voy a poder cargar más procesos.
+
+302
+00:27:39.590 --> 00:27:44.120
+Arroyo Arzubi Carlos A.: Y si la carga es parcial como en memoria virtual, muchos más.
+
+303
+00:27:44.430 --> 00:27:46.090
+Arroyo Arzubi Carlos A.: Es decir, que
+
+304
+00:27:46.620 --> 00:27:56.220
+Arroyo Arzubi Carlos A.: la memoria Ram siempre es importante la compra de un equipo, y de hecho, son las 2 o 3 o 4 cosas que 1 se fija cuando
+
+305
+00:27:56.470 --> 00:27:58.419
+Arroyo Arzubi Carlos A.: se compra un equipo
+
+306
+00:27:58.600 --> 00:28:08.520
+Arroyo Arzubi Carlos A.: de computación, un teléfono que teléfono ya no tiene nada pero bueno. Cualquier dispositivo que trabaja como una computadora.
+
+307
+00:28:14.420 --> 00:28:19.340
+Arroyo Arzubi Carlos A.: Bueno, entonces ahora, a ver si me sale el dibujo y.
+
+308
+00:28:19.340 --> 00:28:24.760
+FRANCO EMMANUEL SICARDO: Perdón profe que no me quedó claro Entonces la memoria virtual siempre se aloja en la memoria secundaria.
+
+309
+00:28:25.470 --> 00:28:28.349
+Arroyo Arzubi Carlos A.: No, no, no, no, no, no.
+
+310
+00:28:28.480 --> 00:28:30.430
+Arroyo Arzubi Carlos A.: Yo no, Yo no dije eso.
+
+311
+00:28:30.700 --> 00:28:38.850
+Arroyo Arzubi Carlos A.: Siempre la Cpu trabaja con la memoria principal. La Cpu no trabaja con la memoria secundaria.
+
+312
+00:28:39.080 --> 00:28:41.819
+Arroyo Arzubi Carlos A.: Lo que yo digo es que en la memoria virtual
+
+313
+00:28:42.550 --> 00:28:45.439
+Arroyo Arzubi Carlos A.: voy a cargar la parte del programa
+
+314
+00:28:45.640 --> 00:28:48.929
+Arroyo Arzubi Carlos A.: en la memoria principal, que es la que voy a ejecutar
+
+315
+00:28:49.610 --> 00:28:58.800
+Arroyo Arzubi Carlos A.: y la que no estoy ejecutando está en la memoria secundaria, en el disco. Y a medida que la voy necesitando, la voy cargando.
+
+316
+00:28:59.650 --> 00:29:01.900
+Arroyo Arzubi Carlos A.: se entendió. No sé quién fue el que preguntó.
+
+317
+00:29:02.540 --> 00:29:04.089
+FRANCO EMMANUEL SICARDO: Yo profe Sí, Sí, Ahora sí.
+
+318
+00:29:04.430 --> 00:29:12.749
+Arroyo Arzubi Carlos A.: Es decir, que yo voy cargando para poder ejecutar, tiene que estar en la memoria principal. Eso no se ha modificado.
+
+319
+00:29:13.670 --> 00:29:16.399
+Arroyo Arzubi Carlos A.: pero lo cargo cuando lo necesito.
+
+320
+00:29:16.750 --> 00:29:21.959
+Arroyo Arzubi Carlos A.: Si no lo necesito, no me ocupa lugar en la memoria y puedo tener otros procesos.
+
+321
+00:29:23.620 --> 00:29:25.319
+Arroyo Arzubi Carlos A.: Bueno, Veamos
+
+322
+00:29:30.530 --> 00:29:32.560
+Arroyo Arzubi Carlos A.: a ver cómo nos va con la pizarra.
+
+323
+00:29:43.390 --> 00:29:48.250
+Arroyo Arzubi Carlos A.: Bueno, nosotros, cosa que no dije.
+
+324
+00:29:48.890 --> 00:29:53.910
+Arroyo Arzubi Carlos A.: Creo que lo había dicho La clase pasada, la memoria virtual.
+
+325
+00:29:54.410 --> 00:30:00.620
+Arroyo Arzubi Carlos A.: Trabaja con el sistema de administración de memoria
+
+326
+00:30:00.850 --> 00:30:04.480
+Arroyo Arzubi Carlos A.: por paginación, es decir, de todo lo que hay.
+
+327
+00:30:04.590 --> 00:30:07.739
+Arroyo Arzubi Carlos A.: Los sistemas de administración de memoria que vimos
+
+328
+00:30:08.160 --> 00:30:14.160
+Arroyo Arzubi Carlos A.: el que ha adoptado la memoria virtual es la paginación.
+
+329
+00:30:15.020 --> 00:30:22.300
+Arroyo Arzubi Carlos A.: Si bien la segmentación también se ha utilizado de alguna manera, pero
+
+330
+00:30:22.700 --> 00:30:28.609
+Arroyo Arzubi Carlos A.: se ha comprobado que lo más eficiente es la paginación.
+
+331
+00:30:29.190 --> 00:30:30.900
+Arroyo Arzubi Carlos A.: ¿por qué?
+
+332
+00:30:31.280 --> 00:30:34.400
+Arroyo Arzubi Carlos A.: No sé si lo dije la clase pasada, si no lo digo Ahora.
+
+333
+00:30:35.230 --> 00:30:42.060
+Arroyo Arzubi Carlos A.: ustedes imaginen que tienen que construir siempre buscando una similitud con el con el mundo real.
+
+334
+00:30:42.250 --> 00:30:45.349
+Arroyo Arzubi Carlos A.: ¿ Del Separándolo del mundo del software.
+
+335
+00:30:45.840 --> 00:30:53.030
+Arroyo Arzubi Carlos A.: Si ustedes tienen que construir una pared con ladrillos, si ustedes la hacen con ladrillos
+
+336
+00:30:53.470 --> 00:31:00.449
+Arroyo Arzubi Carlos A.: normalizados, que son los ladrillos que se venden en todos lados de 15 por 9 por 5, creo. No me acuerdo. ¿cuál es el tamaño?
+
+337
+00:31:01.050 --> 00:31:06.970
+Arroyo Arzubi Carlos A.: Entonces? Ustedes agarran cualquier ladrillo y lo van a poner, Lo van poniendo en la en la pared.
+
+338
+00:31:07.590 --> 00:31:14.060
+Arroyo Arzubi Carlos A.: Eso tiene un determinado grado de dificultad. Si en vez de usar esos ladrillos
+
+339
+00:31:14.210 --> 00:31:20.280
+Arroyo Arzubi Carlos A.: que son todos iguales y estandarizados. Yo usara ladrillos de distinto tamaño.
+
+340
+00:31:20.940 --> 00:31:24.740
+Arroyo Arzubi Carlos A.: Cada vez que yo tengo que agregar
+
+341
+00:31:24.890 --> 00:31:36.569
+Arroyo Arzubi Carlos A.: a la pared, el hueco. Tengo que poner. Tengo que ver algo que me coincida con el agujero que me va quedando en la pared, es decir, que la administración
+
+342
+00:31:36.830 --> 00:31:43.490
+Arroyo Arzubi Carlos A.: de los segmentos es más compleja que la administración de las páginas.
+
+343
+00:31:43.720 --> 00:31:52.070
+Arroyo Arzubi Carlos A.: Creo que es algo que se percibe intuitivamente si yo les digo a ustedes: si quieres hacer una pared con ladrillos iguales o con ladrillos distintos.
+
+344
+00:31:52.360 --> 00:32:02.730
+Arroyo Arzubi Carlos A.: No sé por ahí hay alguno que es contreras acá y por llevar la contra dice todo distinto. Pero si no la realidad, es que instintivamente van a optar por lo que son iguales.
+
+345
+00:32:03.250 --> 00:32:09.889
+Arroyo Arzubi Carlos A.: porque el esfuerzo de de administración es mucho menor agarro cualquiera y
+
+346
+00:32:10.010 --> 00:32:14.830
+Arroyo Arzubi Carlos A.: y va a la pared, se entiende lo que digo no, Bueno.
+
+347
+00:32:15.340 --> 00:32:23.430
+Arroyo Arzubi Carlos A.: Entonces, dicho esto, vamos a mostrar cómo, con el sistema de administración de memoria por paginación.
+
+348
+00:32:23.550 --> 00:32:25.979
+Arroyo Arzubi Carlos A.: se trabaja con la memoria virtual.
+
+349
+00:32:27.290 --> 00:32:34.789
+Arroyo Arzubi Carlos A.: Entonces recuerden que nosotros tenemos acá. Nuestro dibujito que hacemos siempre de la Cpu.
+
+350
+00:32:35.110 --> 00:32:45.130
+Arroyo Arzubi Carlos A.: Acá Tenemos nuestra memoria principal, La memoria principal está dividida en frame.
+
+351
+00:32:46.640 --> 00:32:51.650
+Arroyo Arzubi Carlos A.: Bueno, se supone que todos estos cuadraditos son iguales. Acepte Me lo
+
+352
+00:32:55.220 --> 00:33:02.200
+Arroyo Arzubi Carlos A.: acá. Teníamos el disco que está dividido también en páginas.
+
+353
+00:33:02.400 --> 00:33:10.199
+Arroyo Arzubi Carlos A.: Dijimos que la del disco la llamábamos página y la memoria principal la llamamos frame. Pero
+
+354
+00:33:10.340 --> 00:33:14.019
+Arroyo Arzubi Carlos A.: al solo efecto de saber de qué hablamos? Nada más.
+
+355
+00:33:15.070 --> 00:33:23.029
+Arroyo Arzubi Carlos A.: Y después teníamos acá que la dirección estaba dada por la página.
+
+356
+00:33:23.340 --> 00:33:28.530
+Arroyo Arzubi Carlos A.: ¿qué es lo que estuvieron repasando sus compañeros y el desvío.
+
+357
+00:33:29.500 --> 00:33:39.389
+Arroyo Arzubi Carlos A.: Esta era la dirección lógica, y teníamos que llegar a convertirla en tiempo de ejecución
+
+358
+00:33:39.630 --> 00:33:49.400
+Arroyo Arzubi Carlos A.: en la dirección física, que era el frame y el desvío, el desvío.
+
+359
+00:33:49.570 --> 00:33:56.659
+Arroyo Arzubi Carlos A.: Dijimos que éste es igual a este, con lo cual no hay que hacer absolutamente ninguna cuenta ni nada.
+
+360
+00:33:57.310 --> 00:34:00.029
+Arroyo Arzubi Carlos A.: Y después dijimos que teníamos la tabla
+
+361
+00:34:00.450 --> 00:34:04.009
+Arroyo Arzubi Carlos A.: de página hasta acá estamos igual
+
+362
+00:34:04.180 --> 00:34:15.560
+Arroyo Arzubi Carlos A.: a lo que vimos en paginación, y esa tabla de página tenis tiene la página, ¿sí? Y el frame.
+
+363
+00:34:18.790 --> 00:34:23.320
+Arroyo Arzubi Carlos A.: Mhm, La página y el Freud.
+
+364
+00:34:24.620 --> 00:34:37.429
+Arroyo Arzubi Carlos A.: Y acá teníamos entonces puesta la página 0, la página. Uno, la página, 2, la página, 3,
+
+365
+00:34:37.860 --> 00:34:40.190
+Arroyo Arzubi Carlos A.: la página, Cuatro. ¿qué sé yo.
+
+366
+00:34:41.500 --> 00:34:47.940
+Arroyo Arzubi Carlos A.: Supongamos que tomamos un ejemplo. Siempre manejábamos acá para la teoría chiquitos
+
+367
+00:34:48.460 --> 00:34:54.220
+Arroyo Arzubi Carlos A.: en la práctica. Ya hablamos que las tablas de páginas son mucho más extensas.
+
+368
+00:34:54.590 --> 00:35:00.660
+Arroyo Arzubi Carlos A.: Entonces acá que tenía puesto el frame donde estaban ubicadas estas 5 páginas.
+
+369
+00:35:01.650 --> 00:35:09.839
+Arroyo Arzubi Carlos A.: Entonces acá tenía el frame. Uno, el 2, el 3. ¿qué sé yo. Bueno, supongamos que tenía
+
+370
+00:35:10.040 --> 00:35:14.269
+Arroyo Arzubi Carlos A.: la página, 1. La tengo ubicada acá
+
+371
+00:35:14.980 --> 00:35:24.199
+Arroyo Arzubi Carlos A.: y la página. Tres, la tengo ubicada. Acá supongamos, en el caso anterior.
+
+372
+00:35:24.350 --> 00:35:30.359
+Arroyo Arzubi Carlos A.: cuando hablábamos en la unidad anterior. Yo tenía cargadas las 5 páginas, acá,
+
+373
+00:35:30.770 --> 00:35:36.549
+Arroyo Arzubi Carlos A.: es decir, que tenía todas las páginas. Tenían su referencia en el frame
+
+374
+00:35:36.880 --> 00:35:42.140
+Arroyo Arzubi Carlos A.: 4, 5, 6, 7, 8. Este que está en el frame, 8,
+
+375
+00:35:44.210 --> 00:35:47.169
+Arroyo Arzubi Carlos A.: 9, 10, 11, 12. Y esta en el 2,
+
+376
+00:35:51.150 --> 00:35:58.040
+Arroyo Arzubi Carlos A.: repito. Yo antes tenía toda la frame ocupado con todas las páginas.
+
+377
+00:35:58.350 --> 00:36:05.100
+Arroyo Arzubi Carlos A.: Entonces buscaba la página, venía a la tabla de página, encontraba.
+
+378
+00:36:07.700 --> 00:36:11.029
+Arroyo Arzubi Carlos A.: venía a la tabla de página, buscaba el frame.
+
+379
+00:36:11.500 --> 00:36:13.500
+Arroyo Arzubi Carlos A.: Y este Efraim lo ponía. Acá
+
+380
+00:36:14.240 --> 00:36:19.609
+Arroyo Arzubi Carlos A.: Tenía el frame y tenía el desvío. Iba a donde estaba la página.
+
+381
+00:36:20.710 --> 00:36:25.359
+Arroyo Arzubi Carlos A.: Bueno, ahora la diferencia es que nosotros
+
+382
+00:36:25.490 --> 00:36:35.880
+Arroyo Arzubi Carlos A.: no tenemos cargado. Todas las páginas tenemos cargada 2 ya. Vamos a ver después
+
+383
+00:36:36.460 --> 00:36:42.200
+Arroyo Arzubi Carlos A.: de qué manera el sistema operativo asigna las páginas
+
+384
+00:36:43.280 --> 00:36:48.880
+Arroyo Arzubi Carlos A.: de qué manera ya lo vamos a ver. Pero ahora aceptemos que yo, ahora
+
+385
+00:36:49.280 --> 00:36:53.680
+Arroyo Arzubi Carlos A.: solamente de este proceso de 5 páginas le di 2.
+
+386
+00:36:54.120 --> 00:36:57.409
+Arroyo Arzubi Carlos A.: El resto están acá. En el disco.
+
+387
+00:36:58.670 --> 00:37:03.210
+Arroyo Arzubi Carlos A.: Entonces, si yo acá. Tengo la página, 1
+
+388
+00:37:04.120 --> 00:37:06.920
+Arroyo Arzubi Carlos A.: voy a la tabla de página, busco.
+
+389
+00:37:07.810 --> 00:37:12.639
+Arroyo Arzubi Carlos A.: Encuentro la página 8 y la pongo acá.
+
+390
+00:37:13.250 --> 00:37:20.000
+Arroyo Arzubi Carlos A.: El desvío, Ya lo tengo. Y listo, voy a donde tenga que ir ahí no hay ningún problema.
+
+391
+00:37:21.900 --> 00:37:24.909
+Arroyo Arzubi Carlos A.: Ahora, ¿qué pasa si acá?
+
+392
+00:37:25.560 --> 00:37:28.459
+Arroyo Arzubi Carlos A.: Me dice que quiere la página 2
+
+393
+00:37:32.570 --> 00:37:40.819
+Arroyo Arzubi Carlos A.: Quiere la página? Dos: seguimos con el mismo proceso. Vamos a la tabla de página, la recorremos.
+
+394
+00:37:41.300 --> 00:37:45.630
+Arroyo Arzubi Carlos A.: Y resulta que no está.
+
+395
+00:37:47.270 --> 00:37:50.759
+Arroyo Arzubi Carlos A.: Entonces cuando no está.
+
+396
+00:37:51.150 --> 00:37:57.689
+Arroyo Arzubi Carlos A.: Esto se lo llama fallo de página fallo de página.
+
+397
+00:37:58.300 --> 00:38:03.610
+Arroyo Arzubi Carlos A.: ¿qué quiere decir que ese proceso no puede ejecutarse?
+
+398
+00:38:03.820 --> 00:38:05.750
+Arroyo Arzubi Carlos A.: Tiene que interrumpirse.
+
+399
+00:38:06.080 --> 00:38:09.490
+Arroyo Arzubi Carlos A.: Tiene que hacer una llamada al sistema operativo.
+
+400
+00:38:09.840 --> 00:38:16.539
+Arroyo Arzubi Carlos A.: El sistema operativo tiene que decirle al módulo de entrada y salida que busque la página. Dos: Supongamos que está acá
+
+401
+00:38:18.090 --> 00:38:21.299
+Arroyo Arzubi Carlos A.: y la lleve a la memoria principal
+
+402
+00:38:21.580 --> 00:38:24.410
+Arroyo Arzubi Carlos A.: y la guarde en algún lugar.
+
+403
+00:38:27.250 --> 00:38:34.380
+Arroyo Arzubi Carlos A.: Bien, Primera pregunta: ¿qué cuando yo
+
+404
+00:38:35.490 --> 00:38:42.129
+Arroyo Arzubi Carlos A.: el sistema operativo dice, tengo que buscar la página 2. Bueno, eso es fácil. No hay que decidir nada.
+
+405
+00:38:42.450 --> 00:38:46.860
+Arroyo Arzubi Carlos A.: Hay que buscar la página. Dos Listo, La encontré.
+
+406
+00:38:47.670 --> 00:38:56.460
+Arroyo Arzubi Carlos A.: Y ahora, ¿cuál es la duda donde la guardo se entiende.
+
+407
+00:38:57.160 --> 00:39:04.400
+Arroyo Arzubi Carlos A.: ¿por qué? Bueno, porque yo puedo tener todas las páginas, estas ocupadas con otros procesos.
+
+408
+00:39:05.120 --> 00:39:11.370
+Arroyo Arzubi Carlos A.: Y entonces, si yo tengo que guardarla.
+
+409
+00:39:12.070 --> 00:39:15.139
+Arroyo Arzubi Carlos A.: y a mí el sistema me dio 2 frame.
+
+410
+00:39:16.680 --> 00:39:23.510
+Arroyo Arzubi Carlos A.: Yo voy a tener que ver si lo pongo acá o si la pongo, acá
+
+411
+00:39:24.670 --> 00:39:29.190
+Arroyo Arzubi Carlos A.: Es decir, cuál página voy a sacar
+
+412
+00:39:29.770 --> 00:39:32.800
+Arroyo Arzubi Carlos A.: de las que yo tengo guardadas.
+
+413
+00:39:33.960 --> 00:39:40.959
+Arroyo Arzubi Carlos A.: Es decir, acá viene la gran decisión del sistema cada vez
+
+414
+00:39:41.070 --> 00:39:49.590
+Arroyo Arzubi Carlos A.: que tiene un fallo de página. Repito: la página que tiene que buscar ahí, No tiene que pensar nada, porque necesita la página 2,
+
+415
+00:39:49.740 --> 00:39:52.240
+Arroyo Arzubi Carlos A.: pero sí tengo que resolver
+
+416
+00:39:53.000 --> 00:39:57.720
+Arroyo Arzubi Carlos A.: si la pongo en el lugar de la página 1 o de la página 3. Es decir.
+
+417
+00:39:58.110 --> 00:40:01.810
+Arroyo Arzubi Carlos A.: ¿qué página saco la 1 o la 3.
+
+418
+00:40:02.730 --> 00:40:13.859
+Arroyo Arzubi Carlos A.: Pregunto: ¿qué debería pensar yo al momento de tener que decidir si saco la 1 o saco la 3
+
+419
+00:40:16.280 --> 00:40:17.330
+Arroyo Arzubi Carlos A.: ya.
+
+420
+00:40:17.600 --> 00:40:18.140
+MATEO CAMILLETTI: En los.
+
+421
+00:40:18.140 --> 00:40:19.870
+ARON FRAGA: Eso o no.
+
+422
+00:40:20.350 --> 00:40:21.180
+Arroyo Arzubi Carlos A.: La qué.
+
+423
+00:40:21.400 --> 00:40:28.690
+ARON FRAGA: La demanda de procesos. Si el proceso por ahí no tiene tanta prioridad. No sé si estoy usando algunas las palabras correctas.
+
+424
+00:40:29.080 --> 00:40:29.860
+Arroyo Arzubi Carlos A.: No todo.
+
+425
+00:40:30.620 --> 00:40:31.400
+ARON FRAGA: Bien.
+
+426
+00:40:31.830 --> 00:40:32.649
+TOBÍAS WIRTH: Horizonte, el.
+
+427
+00:40:32.650 --> 00:40:33.060
+Arroyo Arzubi Carlos A.: De los.
+
+428
+00:40:33.060 --> 00:40:34.560
+TOBÍAS WIRTH: Modificado no.
+
+429
+00:40:34.750 --> 00:40:35.560
+Arroyo Arzubi Carlos A.: Cómo.
+
+430
+00:40:35.800 --> 00:40:38.469
+TOBÍAS WIRTH: Priorizan si fue modificada o no.
+
+431
+00:40:39.090 --> 00:40:39.610
+TOBÍAS WIRTH: El sistema.
+
+432
+00:40:39.610 --> 00:40:39.940
+Arroyo Arzubi Carlos A.: Que no.
+
+433
+00:40:39.940 --> 00:40:40.470
+TOBÍAS WIRTH: Yo.
+
+434
+00:40:40.840 --> 00:40:49.350
+Arroyo Arzubi Carlos A.: Eso es un tema y ya vamos a explicar por qué. Pero yo pregunto: cuando la tengo que sacar ponerte este caso tengo que sacar la una o la 3.
+
+435
+00:40:49.670 --> 00:40:51.790
+Arroyo Arzubi Carlos A.: ¿qué me gustaría a mí saber.
+
+436
+00:40:53.320 --> 00:40:54.789
+ARON FRAGA: Se va a utilizar o no.
+
+437
+00:40:54.790 --> 00:40:55.690
+MATEO CAMILLETTI: Y.
+
+438
+00:40:55.690 --> 00:40:57.000
+FRANCO EMMANUEL SICARDO: Se ejecutó.
+
+439
+00:40:57.000 --> 00:40:59.440
+Arroyo Arzubi Carlos A.: Si la voy a utilizar inmediatamente.
+
+440
+00:41:00.550 --> 00:41:03.820
+Arroyo Arzubi Carlos A.: ¿qué estoy diciendo? Yo voy a traer la página 2
+
+441
+00:41:04.070 --> 00:41:08.250
+Arroyo Arzubi Carlos A.: pego, la página, 2 saco la 1 ya.
+
+442
+00:41:08.990 --> 00:41:14.789
+Arroyo Arzubi Carlos A.: Y al momentito me pide la página 2, que es la página. Uno que es la que acabo de sacar.
+
+443
+00:41:16.230 --> 00:41:17.410
+Arroyo Arzubi Carlos A.: Se entiende.
+
+444
+00:41:20.710 --> 00:41:22.140
+Arroyo Arzubi Carlos A.: Si yo hubiera sacado.
+
+445
+00:41:22.140 --> 00:41:23.069
+MATEO CAMILLETTI: Día de cambios.
+
+446
+00:41:23.070 --> 00:41:29.819
+Arroyo Arzubi Carlos A.: La página 3 la hubiera me hubiera convenido. Es decir.
+
+447
+00:41:30.140 --> 00:41:35.710
+Arroyo Arzubi Carlos A.: ¿qué es lo que estoy diciendo? ¿qué es lo que se pretende más allá que después se logra lo que se logra.
+
+448
+00:41:36.130 --> 00:41:44.120
+Arroyo Arzubi Carlos A.: Yo voy a querer reemplazar de la memoria principal, sacar de la memoria principal, porque necesito el lugar.
+
+449
+00:41:44.810 --> 00:41:48.810
+Arroyo Arzubi Carlos A.: Aquella página que yo
+
+450
+00:41:50.210 --> 00:41:57.130
+Arroyo Arzubi Carlos A.: imagino que no se va a usar más o que se va a usar dentro de mucho tiempo. Se entiende lo que digo
+
+451
+00:41:57.980 --> 00:42:00.449
+Arroyo Arzubi Carlos A.: porque si yo saco la página 1
+
+452
+00:42:00.720 --> 00:42:06.899
+Arroyo Arzubi Carlos A.: y ahí no va. Me pide la página 1 de vuelta otra vez. Tengo fallos de página. Se entiende lo que estoy diciendo.
+
+453
+00:42:07.540 --> 00:42:15.010
+Arroyo Arzubi Carlos A.: Yo estoy hablando de cuál es el criterio que voy a tener querer encontrar para tomar la decisión. En este caso.
+
+454
+00:42:15.410 --> 00:42:19.159
+Arroyo Arzubi Carlos A.: el criterio es cuando tengo que reemplazar
+
+455
+00:42:19.810 --> 00:42:29.230
+Arroyo Arzubi Carlos A.: una página que está en la memoria principal: tratar de sacar intentar sacar aquella que yo
+
+456
+00:42:29.880 --> 00:42:38.340
+Arroyo Arzubi Carlos A.: voy a usar más adelante, o ya no voy a usar, se entiende el tema bien, pero.
+
+457
+00:42:39.020 --> 00:42:42.309
+FRANCO EMMANUEL SICARDO: Entonces sería como por por Fifo.
+
+458
+00:42:43.910 --> 00:42:45.110
+Arroyo Arzubi Carlos A.: No fifo.
+
+459
+00:42:45.220 --> 00:42:51.570
+Arroyo Arzubi Carlos A.: fifo, va a existir muy bien franco porque ya allí está canchero en la materia. Sabe que siempre hay un fijo.
+
+460
+00:42:52.160 --> 00:42:54.600
+Arroyo Arzubi Carlos A.: sí, pero el F I, F o
+
+461
+00:42:55.490 --> 00:42:59.039
+Arroyo Arzubi Carlos A.: no tiene nada que ver con el uso el F I, F o
+
+462
+00:42:59.390 --> 00:43:06.070
+Arroyo Arzubi Carlos A.: puede haber entrado primero y la volvés a usar. Ahora, Es decir, el uso es impredecible.
+
+463
+00:43:06.180 --> 00:43:14.120
+Arroyo Arzubi Carlos A.: Se entiende de todos modos los algoritmos que vamos a ver la clase que viene. Algunos vamos a mencionar ya el día de hoy.
+
+464
+00:43:14.740 --> 00:43:19.590
+Arroyo Arzubi Carlos A.: buscan tratar de descubrir cuál
+
+465
+00:43:20.040 --> 00:43:24.770
+Arroyo Arzubi Carlos A.: es la página que se va a usar o cuál es la que menos se va a usar.
+
+466
+00:43:25.860 --> 00:43:34.110
+Arroyo Arzubi Carlos A.: Y como estos algoritmos funcionan con una probabilidad de acierto, Bueno, se utilizan.
+
+467
+00:43:36.220 --> 00:43:39.969
+Arroyo Arzubi Carlos A.: Vamos a a ver otra cosa.
+
+468
+00:43:41.520 --> 00:43:42.889
+MATEO CAMILLETTI: No sé una pregunta.
+
+469
+00:43:43.470 --> 00:43:43.930
+Arroyo Arzubi Carlos A.: Qué? Ah.
+
+470
+00:43:44.020 --> 00:43:50.079
+MATEO CAMILLETTI: Estos algoritmos funcionan en base entre comillas a lo que ya pasó, o lo que va a pasar.
+
+471
+00:43:50.430 --> 00:43:51.770
+Arroyo Arzubi Carlos A.: Bueno, ya vamos a ver.
+
+472
+00:43:51.770 --> 00:43:52.530
+MATEO CAMILLETTI: Okay.
+
+473
+00:43:52.760 --> 00:43:55.400
+Arroyo Arzubi Carlos A.: Los algoritmos ya los vamos a ver, no te apures.
+
+474
+00:43:55.800 --> 00:43:57.239
+Arroyo Arzubi Carlos A.: Vamos a otra cosa.
+
+475
+00:43:58.610 --> 00:43:59.640
+Arroyo Arzubi Carlos A.: Esto.
+
+476
+00:43:59.980 --> 00:44:10.369
+Arroyo Arzubi Carlos A.: Esta fórmula que está acá me interesa que la tengan bien presente tiempo de acceso efectivo.
+
+477
+00:44:10.780 --> 00:44:21.260
+Arroyo Arzubi Carlos A.: Esto tiene que ver con el tiempo que se tarda en acceder a una página sí es
+
+478
+00:44:22.550 --> 00:44:27.350
+Arroyo Arzubi Carlos A.: obviamente es el resultado de 2 términos. Fíjense que acá tengo el signo más.
+
+479
+00:44:27.720 --> 00:44:33.520
+Arroyo Arzubi Carlos A.: como ustedes bien saben, se divide en términos esta expresión, 2 términos.
+
+480
+00:44:34.150 --> 00:44:39.570
+Arroyo Arzubi Carlos A.: 1 tiempo de acceso a la memoria central, tiempo de acceso a la memoria.
+
+481
+00:44:41.410 --> 00:44:43.689
+Arroyo Arzubi Carlos A.: El tiempo de acceso a la memoria.
+
+482
+00:44:44.290 --> 00:44:46.390
+Arroyo Arzubi Carlos A.: Es un tiempo muy rápido.
+
+483
+00:44:46.800 --> 00:44:54.490
+Arroyo Arzubi Carlos A.: Estamos hablando del orden de los nanosegundos, es decir.
+
+484
+00:44:54.660 --> 00:44:57.840
+Arroyo Arzubi Carlos A.: 10 a la menos 9 s.
+
+485
+00:44:59.540 --> 00:45:03.810
+Arroyo Arzubi Carlos A.: Cuando hablamos de este segundo término.
+
+486
+00:45:04.520 --> 00:45:17.809
+Arroyo Arzubi Carlos A.: acá Tenemos 2 por tiempo de acceso al disco. Bueno, esta fórmula contempla el disco podría contemplar cualquier otra memoria secundaria. Pero como el disco, todo el mundo lo conoce, lo utilizamos
+
+487
+00:45:18.810 --> 00:45:23.149
+Arroyo Arzubi Carlos A.: por la probabilidad del fallo de página.
+
+488
+00:45:24.460 --> 00:45:31.189
+Arroyo Arzubi Carlos A.: Ahora, este término, que él tiene el tiempo de acceso a disco.
+
+489
+00:45:31.950 --> 00:45:37.240
+Arroyo Arzubi Carlos A.: El tiempo de acceso a disco se mide el milisegundos.
+
+490
+00:45:38.390 --> 00:45:44.509
+Arroyo Arzubi Carlos A.: es decir, que este término de la derecha se mide en milisegundos
+
+491
+00:45:44.900 --> 00:45:50.939
+Arroyo Arzubi Carlos A.: y el término de la izquierda en nanosegundo, 10 a la menos 9
+
+492
+00:45:51.170 --> 00:45:54.379
+Arroyo Arzubi Carlos A.: contra 10, a la menos 3 s.
+
+493
+00:45:56.120 --> 00:45:58.379
+Arroyo Arzubi Carlos A.: ¿qué nos está mostrando esta fórmula?
+
+494
+00:45:58.950 --> 00:46:03.930
+Arroyo Arzubi Carlos A.: El peso brutal que tiene este término?
+
+495
+00:46:04.850 --> 00:46:12.329
+Arroyo Arzubi Carlos A.: Se entiende sobre este resultado, es decir, que esto es un ancla terrible.
+
+496
+00:46:12.660 --> 00:46:15.400
+Arroyo Arzubi Carlos A.: Y esto es lo que se produce
+
+497
+00:46:15.580 --> 00:46:20.440
+Arroyo Arzubi Carlos A.: cada vez que hay un fallo de página mhm.
+
+498
+00:46:22.360 --> 00:46:25.409
+FRANCO EMMANUEL SICARDO: Perdón profe El primer término. ¿qué significa Tae.
+
+499
+00:46:25.880 --> 00:46:29.430
+Arroyo Arzubi Carlos A.: Tiempo de acceso a la memoria a la memoria principal.
+
+500
+00:46:29.800 --> 00:46:31.150
+Arroyo Arzubi Carlos A.: No.
+
+501
+00:46:31.150 --> 00:46:31.780
+FRANCO EMMANUEL SICARDO: Nada.
+
+502
+00:46:32.120 --> 00:46:33.840
+Arroyo Arzubi Carlos A.: Tiempo de acceso efectivo.
+
+503
+00:46:34.890 --> 00:46:41.890
+Arroyo Arzubi Carlos A.: Es el resultado de la interacción de los 2 de las veces que no hay fallo. Y las veces que hay fallo.
+
+504
+00:46:42.340 --> 00:46:49.209
+Arroyo Arzubi Carlos A.: Bueno, tiempo de acceso a disco.
+
+505
+00:46:49.670 --> 00:46:52.520
+Arroyo Arzubi Carlos A.: hablemos del tiempo de acceso a disco
+
+506
+00:46:53.470 --> 00:46:58.699
+Arroyo Arzubi Carlos A.: El tiempo de acceso a disco está compuesto por 4 tiempos.
+
+507
+00:47:00.970 --> 00:47:14.540
+Arroyo Arzubi Carlos A.: El tiempo de búsqueda es el tiempo que la cabeza lectora se mueve hasta posicionarse en la pista.
+
+508
+00:47:14.920 --> 00:47:22.180
+Arroyo Arzubi Carlos A.: Es una tarea mecánica y que es la que más pesa tiempo de búsqueda.
+
+509
+00:47:23.130 --> 00:47:27.550
+Arroyo Arzubi Carlos A.: Hay otro tiempo que se llama tiempo de latencia.
+
+510
+00:47:28.390 --> 00:47:31.130
+Arroyo Arzubi Carlos A.: que es el tiempo que tarda en rotar
+
+511
+00:47:31.870 --> 00:47:37.159
+Arroyo Arzubi Carlos A.: el disco. Ustedes saben que todos los discos, cualquier disco que compran
+
+512
+00:47:37.270 --> 00:47:40.500
+Arroyo Arzubi Carlos A.: tiene una determinada cantidad de revoluciones.
+
+513
+00:47:40.840 --> 00:47:48.270
+Arroyo Arzubi Carlos A.: Bueno, entonces, cuando la cabeza lectora se posiciona en la pista, el disco va a girar
+
+514
+00:47:48.380 --> 00:47:53.430
+Arroyo Arzubi Carlos A.: hasta llegar al sector que tiene que leer.
+
+515
+00:47:53.890 --> 00:47:59.039
+Arroyo Arzubi Carlos A.: Bueno, el tiempo de latencia. Es lo que tarda el disco en girar y llegar
+
+516
+00:47:59.270 --> 00:48:02.759
+Arroyo Arzubi Carlos A.: al lugar que tiene que llegar para leer lo que tenga que leer
+
+517
+00:48:04.880 --> 00:48:07.320
+Arroyo Arzubi Carlos A.: luego de un tiempo de transferencia
+
+518
+00:48:08.630 --> 00:48:15.579
+Arroyo Arzubi Carlos A.: y que es el tiempo que se transfieren los datos y un tiempo de gestión
+
+519
+00:48:16.570 --> 00:48:19.620
+Arroyo Arzubi Carlos A.: por darle algo a la gestión de esta actividad.
+
+520
+00:48:20.600 --> 00:48:24.380
+Arroyo Arzubi Carlos A.: Cuáles son los los números
+
+521
+00:48:25.030 --> 00:48:33.159
+Arroyo Arzubi Carlos A.: para que se den cuenta del peso de cada 1 de estos 4 tiempos. Entonces vamos a un ejemplo
+
+522
+00:48:34.140 --> 00:48:41.559
+Arroyo Arzubi Carlos A.: y que que no importa si está muy actualizado o no, pero que sirve para marcar la diferencia.
+
+523
+00:48:42.880 --> 00:48:48.550
+Arroyo Arzubi Carlos A.: Por ejemplo, un tiempo de búsqueda pueden ser 15 ms.
+
+524
+00:48:49.830 --> 00:48:54.099
+Arroyo Arzubi Carlos A.: un tiempo de latencia, 8 ms.
+
+525
+00:48:54.820 --> 00:49:02.560
+Arroyo Arzubi Carlos A.: un tiempo de transferencia, un milisegundo y un tiempo de gestión, un milisegundo.
+
+526
+00:49:03.520 --> 00:49:09.479
+Arroyo Arzubi Carlos A.: Es decir, que si yo sumo esos tiempos son 25 ms
+
+527
+00:49:10.300 --> 00:49:17.260
+Arroyo Arzubi Carlos A.: cada vez que accedo al disco a buscar algo ese tiempo de acceso. Disco son 25 ms.
+
+528
+00:49:17.790 --> 00:49:21.760
+Arroyo Arzubi Carlos A.: pero lo importante no es que sean 25, seguro que son mucho menos, ya
+
+529
+00:49:21.920 --> 00:49:27.860
+Arroyo Arzubi Carlos A.: es la relación entre los 4 componentes. Fíjense que el tiempo de búsqueda se lleva a 15,
+
+530
+00:49:27.970 --> 00:49:30.879
+Arroyo Arzubi Carlos A.: y el tiempo de latencia se lleva 8.
+
+531
+00:49:31.690 --> 00:49:40.240
+Arroyo Arzubi Carlos A.: Es decir, que de ese tiempo de acceso a disco lo que más pesa es el tiempo de búsqueda.
+
+532
+00:49:41.510 --> 00:49:48.339
+Arroyo Arzubi Carlos A.: Cuándo nosotros veamos el módulo de entrada o salida.
+
+533
+00:49:49.480 --> 00:49:53.300
+Arroyo Arzubi Carlos A.: y veamos algo relacionado con los discos.
+
+534
+00:49:53.540 --> 00:50:05.399
+Arroyo Arzubi Carlos A.: Vamos a ver algoritmos que permiten reducir fundamentalmente este tiempo de búsqueda que tanto pesa en este término.
+
+535
+00:50:05.780 --> 00:50:12.399
+Arroyo Arzubi Carlos A.: pero eso lo vamos a tener que ver cuando veamos este esa unidad.
+
+536
+00:50:12.560 --> 00:50:15.560
+Arroyo Arzubi Carlos A.: es decir, que eso ahora no lo vamos a ver.
+
+537
+00:50:16.300 --> 00:50:27.550
+Arroyo Arzubi Carlos A.: Lo vamos a recordar cuando veamos esa unidad Ahora, aquí, en esta fórmula tenemos
+
+538
+00:50:28.940 --> 00:50:32.810
+Arroyo Arzubi Carlos A.: en este segundo término un número 2,
+
+539
+00:50:34.540 --> 00:50:38.989
+Arroyo Arzubi Carlos A.: y una P, que es la probabilidad de fallo de página.
+
+540
+00:50:41.080 --> 00:50:46.570
+Arroyo Arzubi Carlos A.: Este número 2: ¿Alguien se imagina
+
+541
+00:50:47.380 --> 00:50:52.520
+Arroyo Arzubi Carlos A.: que es por qué se ha puesto acá un número 2.
+
+542
+00:50:53.530 --> 00:50:55.669
+MATEO CAMILLETTI: Por lo que tarda en ir y volver.
+
+543
+00:50:56.680 --> 00:50:57.410
+Arroyo Arzubi Carlos A.: No
+
+544
+00:51:00.910 --> 00:51:10.800
+Arroyo Arzubi Carlos A.: el tiempo de acceso a disco involucra ir al disco y volver del disco Ta: ir, buscar y traer.
+
+545
+00:51:11.400 --> 00:51:14.400
+Arroyo Arzubi Carlos A.: Vamos a dejar esto de ya.
+
+546
+00:51:20.280 --> 00:51:24.309
+MATEO CAMILLETTI: Me atrevo a decir entonces que es porque, como se cambian.
+
+547
+00:51:24.460 --> 00:51:28.449
+MATEO CAMILLETTI: es un tiempo en el que lleva una página y otra en que devuelve.
+
+548
+00:51:32.890 --> 00:51:33.820
+Arroyo Arzubi Carlos A.: Bueno.
+
+549
+00:51:34.440 --> 00:51:40.579
+ARON FRAGA: Es una tontería, pero no será porque son 2 memorias o 2 alojamientos. No.
+
+550
+00:51:40.580 --> 00:51:41.660
+Arroyo Arzubi Carlos A.: Una tontería.
+
+551
+00:51:42.090 --> 00:51:43.190
+ARON FRAGA: Sí.
+
+552
+00:51:43.190 --> 00:51:48.880
+Arroyo Arzubi Carlos A.: Yo no lo digo, Sí, está bien, no pasa nada.
+
+553
+00:51:49.410 --> 00:51:56.249
+Arroyo Arzubi Carlos A.: Si el número 2 implica que vamos al ejemplo que veníamos jugando. Acá
+
+554
+00:51:58.390 --> 00:52:11.580
+Arroyo Arzubi Carlos A.: Supongamos que la página 2 ¿Se acuerdan que habíamos hablado de la página Dos: La página 2, no está fallo de página se bloquea el sistema, va a buscar la página 2,
+
+555
+00:52:13.360 --> 00:52:17.419
+Arroyo Arzubi Carlos A.: y supongamos que la va a poner donde está la página. Uno
+
+556
+00:52:20.940 --> 00:52:33.419
+Arroyo Arzubi Carlos A.: ¿Qué puede hacer para la página Dos: la trae y la pega acá arriba, pregunto, o hace otra cosa.
+
+557
+00:52:36.360 --> 00:52:38.459
+FRANCO EMMANUEL SICARDO: Y pero no está pasando por la tablet.
+
+558
+00:52:40.600 --> 00:52:44.909
+Arroyo Arzubi Carlos A.: No esta la traigo de afuera. Yo, una vez que la traigo después, actualizo la tablet.
+
+559
+00:52:47.080 --> 00:52:49.619
+Arroyo Arzubi Carlos A.: Yo busco la página. Dos. Sí,
+
+560
+00:52:50.080 --> 00:52:52.099
+Arroyo Arzubi Carlos A.: la página 2 que me falta.
+
+561
+00:52:52.560 --> 00:53:01.649
+Arroyo Arzubi Carlos A.: Y digo, bueno, la voy a poner donde vamos a reemplazar la página 1 suponiendo que estimamos que la página 1 no se va a usar inmediatamente.
+
+562
+00:53:02.410 --> 00:53:11.320
+Arroyo Arzubi Carlos A.: Entonces yo podría decir, bueno, la pego arriba de esto o no? Pregunto.
+
+563
+00:53:12.340 --> 00:53:18.309
+FRANCO EMMANUEL SICARDO: Claro. Por eso, ¿quién toma la decisión, la tabla de la página o la toma directamente del disco.
+
+564
+00:53:20.240 --> 00:53:28.600
+Arroyo Arzubi Carlos A.: Para que se no tenía enchufada en la computadora. Ni el disco ni la tabla de página pueden tomar decisiones, acá toman la decisión el sistema operativo.
+
+565
+00:53:32.300 --> 00:53:33.859
+Arroyo Arzubi Carlos A.: Pero vuelvo a la pregunta.
+
+566
+00:53:33.860 --> 00:53:34.350
+MATEO CAMILLETTI: De por.
+
+567
+00:53:34.350 --> 00:53:41.459
+Arroyo Arzubi Carlos A.: Tengo la página 2 la puedo pegar acá arriba sin problema, o puede haber algún problema.
+
+568
+00:53:41.780 --> 00:53:43.710
+MATEO CAMILLETTI: Primero tendrías que guardar la página. Uno.
+
+569
+00:53:44.390 --> 00:53:50.770
+Arroyo Arzubi Carlos A.: Exactamente lo que dice. Mateo yo. La página. Uno está acá también.
+
+570
+00:53:51.050 --> 00:53:52.839
+Arroyo Arzubi Carlos A.: Y acá está la página 2,
+
+571
+00:53:53.430 --> 00:53:59.439
+Arroyo Arzubi Carlos A.: Pero yo, esta página, 1 que puede haber ocurrido, y puede haber ocurrido que yo haya modificado ahí.
+
+572
+00:53:59.800 --> 00:54:10.929
+Arroyo Arzubi Carlos A.: Porque en esa página estaban los datos de González, que estuvo trabajando el proceso. Entonces cargué los datos de González en esta página, junto con otros más, le cambié la dirección
+
+573
+00:54:11.100 --> 00:54:15.530
+Arroyo Arzubi Carlos A.: a González porque se mudó entonces yo.
+
+574
+00:54:15.870 --> 00:54:20.820
+Arroyo Arzubi Carlos A.: antes de traer la página, 2 a la memoria principal.
+
+575
+00:54:21.400 --> 00:54:26.980
+Arroyo Arzubi Carlos A.: Tengo que hacer es la página. Uno llevarla a la memoria secundaria.
+
+576
+00:54:27.950 --> 00:54:38.990
+Arroyo Arzubi Carlos A.: porque si no se pierde la información, ya sabemos qué la memoria principal es volátil, entonces esa fórmula
+
+577
+00:54:39.500 --> 00:54:46.660
+Arroyo Arzubi Carlos A.: que acabamos de ver, está puesto el número 2 como en la peor situación.
+
+578
+00:54:47.090 --> 00:54:50.379
+Arroyo Arzubi Carlos A.: es decir, que siempre tenga que
+
+579
+00:54:50.660 --> 00:54:54.279
+Arroyo Arzubi Carlos A.: ir a guardar la página que tengo entonces.
+
+580
+00:54:54.510 --> 00:55:00.200
+FRANCO EMMANUEL SICARDO: Perdón Profe tiene algo que ver con lo que vimos de bloqueo suspendido, pues nada que va.
+
+581
+00:55:00.820 --> 00:55:08.640
+Arroyo Arzubi Carlos A.: No, no. Cuando tiene a ver lo de la página, no tiene. Cuando se produce el fallo de página. El proceso pasa bloqueado
+
+582
+00:55:11.020 --> 00:55:20.289
+Arroyo Arzubi Carlos A.: después. Si he bloqueado, suspendido, no depende de de lo que estemos usando el tema, si está bloqueado y si está bloqueado porque no puede seguir ejecutando.
+
+583
+00:55:20.540 --> 00:55:22.989
+Arroyo Arzubi Carlos A.: pero no tiene que ver el número 2 con eso.
+
+584
+00:55:23.200 --> 00:55:27.620
+Arroyo Arzubi Carlos A.: Repito: si yo modifiqué la página 1.
+
+585
+00:55:28.580 --> 00:55:31.609
+Arroyo Arzubi Carlos A.: Y quiero poner la página 2 en este lugar.
+
+586
+00:55:32.670 --> 00:55:40.240
+Arroyo Arzubi Carlos A.: Antes de poner la página 2, voy a llevar la página 1 a el disco
+
+587
+00:55:40.600 --> 00:55:48.420
+Arroyo Arzubi Carlos A.: paso, 1 un tiempo de acceso a disco. Y luego hago el segundo tiempo de acceso al disco trayéndolo.
+
+588
+00:55:49.030 --> 00:55:54.740
+Arroyo Arzubi Carlos A.: Es decir, que si la página fue modificada. Tengo que hacer estos 2 viajes.
+
+589
+00:55:55.380 --> 00:56:01.170
+Arroyo Arzubi Carlos A.: 1 para llevarla al disco y otro para traer la nueva ahora.
+
+590
+00:56:12.010 --> 00:56:15.540
+Arroyo Arzubi Carlos A.: Entonces, cuando hablamos de
+
+591
+00:56:21.590 --> 00:56:23.199
+Arroyo Arzubi Carlos A.: de memoria virtual.
+
+592
+00:56:24.410 --> 00:56:30.809
+Arroyo Arzubi Carlos A.: En la página de tabla aparece lo que se llama el Beat de validez
+
+593
+00:56:31.650 --> 00:56:33.949
+Arroyo Arzubi Carlos A.: que el bit de validez dice que
+
+594
+00:56:34.540 --> 00:56:37.770
+Arroyo Arzubi Carlos A.: se ponen 1 cuando la página está
+
+595
+00:56:38.170 --> 00:56:42.709
+Arroyo Arzubi Carlos A.: grabada en la memoria y se pone en 0 si no está grabada.
+
+596
+00:56:44.370 --> 00:56:48.560
+Arroyo Arzubi Carlos A.: Pero además, ahora que queremos
+
+597
+00:56:49.190 --> 00:56:55.940
+Arroyo Arzubi Carlos A.: saber si la página fue modificada. A ver a que voy. Supongamos que tenemos la página 1 y la 3,
+
+598
+00:56:57.640 --> 00:57:01.049
+Arroyo Arzubi Carlos A.: la 1 fue modificada y la 3 no.
+
+599
+00:57:01.880 --> 00:57:05.469
+Arroyo Arzubi Carlos A.: Entonces yo tengo que traer la página 2.
+
+600
+00:57:06.190 --> 00:57:10.579
+Arroyo Arzubi Carlos A.: Y si yo no sé cuál de las 2 se va a usar inmediatamente
+
+601
+00:57:10.900 --> 00:57:16.560
+Arroyo Arzubi Carlos A.: cuál de las 2 saco y me conviene poner en en la 3 que no fue modificada.
+
+602
+00:57:17.680 --> 00:57:21.279
+Arroyo Arzubi Carlos A.: porque si yo reemplazo la página que traigo
+
+603
+00:57:21.530 --> 00:57:24.300
+Arroyo Arzubi Carlos A.: sobre una página que no fue modificada
+
+604
+00:57:24.810 --> 00:57:30.240
+Arroyo Arzubi Carlos A.: ese 2 que estaba en la Farc, en la fórmula en ese instante es un 1,
+
+605
+00:57:30.520 --> 00:57:35.660
+Arroyo Arzubi Carlos A.: porque va una sola vez a traer y la pisa.
+
+606
+00:57:36.960 --> 00:57:41.980
+Arroyo Arzubi Carlos A.: En consecuencia, una forma de reducir ese número 2
+
+607
+00:57:42.590 --> 00:57:51.170
+Arroyo Arzubi Carlos A.: que no sea 2 a lo bestia, sino que sea un poco menos que sea 1 coma, 7, 1 coma 6, 1, coma 5,
+
+608
+00:57:51.560 --> 00:57:56.779
+Arroyo Arzubi Carlos A.: es agregar en la.
+
+609
+00:57:59.020 --> 00:58:03.820
+TOBÍAS WIRTH: Las zonas más económicas son más económicas porque se sacan y listo. Bueno.
+
+610
+00:58:04.390 --> 00:58:07.519
+Arroyo Arzubi Carlos A.: Claro, es más económico en tiempo, no
+
+611
+00:58:07.670 --> 00:58:12.879
+Arroyo Arzubi Carlos A.: porque la porque no la saco la piso. No tengo que hacer nada.
+
+612
+00:58:14.050 --> 00:58:16.370
+Arroyo Arzubi Carlos A.: Acá. Voy a tener un bit.
+
+613
+00:58:17.640 --> 00:58:20.470
+Arroyo Arzubi Carlos A.: Le voy a agregar un bit de modificación.
+
+614
+00:58:22.100 --> 00:58:30.669
+Arroyo Arzubi Carlos A.: Entonces voy a tener acá. Por ejemplo, la página Uno le pongo un 1 que fue modificada y la página 3, le pongo un 0
+
+615
+00:58:31.170 --> 00:58:36.670
+Arroyo Arzubi Carlos A.: que no fue modificada Entonces, cuando tenga que ver
+
+616
+00:58:36.780 --> 00:58:41.409
+Arroyo Arzubi Carlos A.: si reemplazo la página 1 o reemplazo la página 3,
+
+617
+00:58:41.550 --> 00:58:48.750
+Arroyo Arzubi Carlos A.: me fijo. Y digo, la 3, no fue modificada, listo, reemplacemos la 3, y lo pongo acá.
+
+618
+00:58:49.350 --> 00:58:53.040
+Arroyo Arzubi Carlos A.: Con eso. Ese número 2, lo bajo.
+
+619
+00:58:55.030 --> 00:59:03.140
+Arroyo Arzubi Carlos A.: Otra cosa que se puede hacer para bajar este número 2 es el
+
+620
+00:59:03.300 --> 00:59:11.120
+Arroyo Arzubi Carlos A.: tener una cantidad de frames libre. Siempre supongamos que tenemos una memoria un poco más grande.
+
+621
+00:59:11.390 --> 00:59:15.910
+Arroyo Arzubi Carlos A.: pero no imp Esto no tiene nada que ver. Sirve lo mismo ¿no?
+
+622
+00:59:16.310 --> 00:59:19.810
+Arroyo Arzubi Carlos A.: Y que entonces yo digo, yo voy a trabajar
+
+623
+00:59:20.120 --> 00:59:27.530
+Arroyo Arzubi Carlos A.: y voy a mantener. No sé, un 10 por 100 de frame libre. Siempre.
+
+624
+00:59:29.260 --> 00:59:37.149
+Arroyo Arzubi Carlos A.: Entonces, si yo trabajo con una parte de la memoria siempre libre, cuando yo tenga que traer la página, 2
+
+625
+00:59:37.650 --> 00:59:45.159
+Arroyo Arzubi Carlos A.: que la tengo que ya no, no pienso. Si la voy a poner en el 3 o en el 1, la pongo en 1 que tenga libre.
+
+626
+00:59:49.030 --> 00:59:52.389
+Arroyo Arzubi Carlos A.: con lo cual ese 2 en ese instante es 1
+
+627
+00:59:52.660 --> 00:59:55.520
+Arroyo Arzubi Carlos A.: y la otra la que iba a sacar
+
+628
+00:59:55.830 --> 01:00:08.059
+Arroyo Arzubi Carlos A.: la saco en cualquier momento, pero no en un momento que esté procesando, es decir, en los momentos que tiene libre, por decirlo de una manera de actividad, la va mandando al
+
+629
+01:00:08.430 --> 01:00:14.490
+Arroyo Arzubi Carlos A.: guardar en el disco. Pero en lo inmediato yo
+
+630
+01:00:14.890 --> 01:00:17.730
+Arroyo Arzubi Carlos A.: ocupe un frame que tenía libre
+
+631
+01:00:19.000 --> 01:00:30.450
+Arroyo Arzubi Carlos A.: y va recuperando esos mails a medida que pasa el tiempo y los puntos muertos, digamos, o de poca actividad, va recuperando los frentes. Seguramente
+
+632
+01:00:30.520 --> 01:00:39.269
+Arroyo Arzubi Carlos A.: algunos malpensados que siempre están buscando. Me va a decir, bueno, ¿y si se acaban y están todos ocupados y bueno, mala suerte.
+
+633
+01:00:39.430 --> 01:00:44.410
+Arroyo Arzubi Carlos A.: entonces va a tener que sacar. Y Y y ese 1 se va a hacer un 2.
+
+634
+01:00:44.720 --> 01:00:50.270
+Arroyo Arzubi Carlos A.: Pero como esto funciona en la repetición, ese 2
+
+635
+01:00:50.670 --> 01:00:56.600
+Arroyo Arzubi Carlos A.: lo vamos a poder bajar con alguna de estas 2 formas a 1. Y algo.
+
+636
+01:00:57.400 --> 01:01:02.220
+Arroyo Arzubi Carlos A.: Es decir, hemos trabajado sobre el número 2.
+
+637
+01:01:07.570 --> 01:01:15.870
+Arroyo Arzubi Carlos A.: Ahora vamos a ver si podemos trabajar algo
+
+638
+01:01:16.750 --> 01:01:19.840
+Arroyo Arzubi Carlos A.: sobre la probabilidad del fallo de página.
+
+639
+01:01:20.210 --> 01:01:29.509
+Arroyo Arzubi Carlos A.: Recuerden que el segundo término tenía 2 tiempo de acceso a disco y probabilidad tiempo. Ya le dije, lo vamos a ver
+
+640
+01:01:29.970 --> 01:01:32.100
+Arroyo Arzubi Carlos A.: cuando veamos la unidad que corresponde.
+
+641
+01:01:32.600 --> 01:01:42.140
+Arroyo Arzubi Carlos A.: El número 2: ya vimos 2 formas en que podemos reducirlo este de alguna manera.
+
+642
+01:01:42.390 --> 01:01:44.850
+Arroyo Arzubi Carlos A.: Y ahora vamos a ver un poco
+
+643
+01:01:45.400 --> 01:01:49.310
+Arroyo Arzubi Carlos A.: la probabilidad de fallo de página.
+
+644
+01:01:51.070 --> 01:01:59.990
+Arroyo Arzubi Carlos A.: Y, bueno, nosotros podemos hacer con
+
+645
+01:02:00.680 --> 01:02:06.230
+Arroyo Arzubi Carlos A.: con la probabilidad de fallo de página, un eje de coordenadas.
+
+646
+01:02:06.450 --> 01:02:07.230
+Arroyo Arzubi Carlos A.: ¿
+
+647
+01:02:08.920 --> 01:02:23.510
+Arroyo Arzubi Carlos A.: Donde tengamos acá fallos, fallo de página, y acá el número de frame
+
+648
+01:02:24.820 --> 01:02:26.970
+Arroyo Arzubi Carlos A.: que yo le voy a dar un proceso.
+
+649
+01:02:28.080 --> 01:02:31.980
+Arroyo Arzubi Carlos A.: Mhm: Es decir, si yo tengo un proceso.
+
+650
+01:02:32.550 --> 01:02:40.770
+Arroyo Arzubi Carlos A.: siempre hablando con números, chicos, porque es más fácil que tiene 10 páginas, ¿ Si tiene 10 páginas.
+
+651
+01:02:41.960 --> 01:02:44.190
+Arroyo Arzubi Carlos A.: y yo le doy 10 fray.
+
+652
+01:02:44.280 --> 01:03:02.170
+Arroyo Arzubi Carlos A.: La probabilidad es es este, es 0 no va a tener fallo de página, pero eso no tiene ningún sentido, porque no estaría aplicando las ventajas de la memoria virtual. Es decir, que yo quiero reducir la probabilidad de fallo de página, no eliminarlo.
+
+653
+01:03:02.260 --> 01:03:10.400
+Arroyo Arzubi Carlos A.: porque si yo lo elimino es porque cargue el proceso completo, Pero si necesita 10 páginas
+
+654
+01:03:10.860 --> 01:03:14.040
+Arroyo Arzubi Carlos A.: y yo le doy 2 frame.
+
+655
+01:03:14.360 --> 01:03:17.269
+Arroyo Arzubi Carlos A.: Nada más va a tener una
+
+656
+01:03:17.520 --> 01:03:25.410
+Arroyo Arzubi Carlos A.: probabilidad de fallo de pagina importante si yo, si necesita 10 y le doy 5,
+
+657
+01:03:25.910 --> 01:03:28.069
+Arroyo Arzubi Carlos A.: la probabilidad de fallo va a ser menor
+
+658
+01:03:29.280 --> 01:03:31.589
+Arroyo Arzubi Carlos A.: Si de los 10, le doy 8
+
+659
+01:03:31.990 --> 01:03:42.900
+Arroyo Arzubi Carlos A.: la probabilidad de fallo aún va a ser menor, es decir, que la fórmula, la la la gráfica que nosotros podemos dibujar es algo así
+
+660
+01:03:44.630 --> 01:03:52.129
+Arroyo Arzubi Carlos A.: donde supongamos, acá tiene. Le damos una página, 2 páginas, 3 páginas, 4 páginas.
+
+661
+01:03:52.330 --> 01:03:53.889
+Arroyo Arzubi Carlos A.: Supongamos una cosa así.
+
+662
+01:03:54.060 --> 01:03:56.699
+Arroyo Arzubi Carlos A.: Estos son números de página que puse. Acá
+
+663
+01:03:57.580 --> 01:04:02.440
+Arroyo Arzubi Carlos A.: Entonces, si si le doy poco número de página, ¿qué tiene
+
+664
+01:04:02.660 --> 01:04:11.579
+Arroyo Arzubi Carlos A.: muchos fallos de página, porque estos son los fallos de página le doy más. Tiene mucho.
+
+665
+01:04:15.870 --> 01:04:23.610
+Arroyo Arzubi Carlos A.: si quiero 0. Le tengo que dar un montón de fallo de página, pero reduzco la multiprogramación o lo que sea. De manera que
+
+666
+01:04:23.990 --> 01:04:29.890
+Arroyo Arzubi Carlos A.: lo que nosotros vamos a buscar es que hay un número. Hay un número, Hay una cantidad
+
+667
+01:04:30.720 --> 01:04:37.529
+Arroyo Arzubi Carlos A.: de Frey, que yo le puedo dar, supongamos una cosa así.
+
+668
+01:04:38.590 --> 01:04:45.950
+Arroyo Arzubi Carlos A.: que me van a dar esta cantidad de fallos de página.
+
+669
+01:04:46.430 --> 01:04:54.259
+Arroyo Arzubi Carlos A.: Es decir, yo voy a a decir, bueno, me banco esta cantidad de fallos de página.
+
+670
+01:04:54.370 --> 01:05:00.210
+Arroyo Arzubi Carlos A.: para lo cual le tengo que dar. No sé entre 6 y 7 frames. Pongámosle
+
+671
+01:05:00.410 --> 01:05:02.299
+Arroyo Arzubi Carlos A.: acá, puse un montón, pero no importa.
+
+672
+01:05:02.770 --> 01:05:17.160
+Arroyo Arzubi Carlos A.: es decir, de esos 10 que necesitaba el proceso. Le doy 5 o 6, y con eso estoy bárbaro, o le doy 5. Y con eso estoy bárbaro. Es decir, yo voy a buscar conceptualmente, no
+
+673
+01:05:17.330 --> 01:05:21.290
+Arroyo Arzubi Carlos A.: darle la menor cantidad de frames posible.
+
+674
+01:05:22.720 --> 01:05:37.060
+Arroyo Arzubi Carlos A.: la menor cantidad de frames posible para tener mayor multiprogramación y multiprocesamiento, pero no tan pocos que la cantidad de fallos de página se me pasen a un valor importante.
+
+675
+01:05:38.160 --> 01:05:46.540
+Arroyo Arzubi Carlos A.: Es decir, esto es una curva conceptual teórica.
+
+676
+01:05:46.910 --> 01:05:50.740
+Arroyo Arzubi Carlos A.: Aparte de intuitiva a ver. Yo la ten­a.
+
+677
+01:05:52.140 --> 01:05:55.060
+Arroyo Arzubi Carlos A.: La tenÃ­a dibujada. Yo me parece.
+
+678
+01:05:59.900 --> 01:06:08.370
+Arroyo Arzubi Carlos A.: SÃ­. Bueno, acÃ¡ acÃ¡ estÃ¡, bueno, la dibujÃ© en la pizarra, pero la tenÃ­a. AcÃ¡ Y
+
+679
+01:06:13.450 --> 01:06:15.400
+Arroyo Arzubi Carlos A.: bueno, esto es lo que acabo de poner
+
+680
+01:06:15.580 --> 01:06:18.840
+Arroyo Arzubi Carlos A.: lo mismo. AsÃ­ que no, no suma nada.
+
+681
+01:06:19.510 --> 01:06:26.519
+Arroyo Arzubi Carlos A.: Bueno, esto es decir que nosotros ya sabemos
+
+682
+01:06:26.910 --> 01:06:32.080
+Arroyo Arzubi Carlos A.: que la probabilidad de fallo de pÃ¡gina podemos
+
+683
+01:06:32.900 --> 01:06:37.320
+Arroyo Arzubi Carlos A.: influir en esa probabilidad asignando mÃ¡s
+
+684
+01:06:37.670 --> 01:06:44.070
+Arroyo Arzubi Carlos A.: o menos frey a cada proceso es un dato.
+
+685
+01:06:45.810 --> 01:06:56.110
+Arroyo Arzubi Carlos A.: Otra cuestiÃ³n que tambiÃ©n tenemos que tener en cuenta, pero no es tan intuitivo como esto es
+
+686
+01:06:56.650 --> 01:06:58.930
+Arroyo Arzubi Carlos A.: el tamaÃ±o de las pÃ¡ginas.
+
+687
+01:06:59.950 --> 01:07:06.140
+Arroyo Arzubi Carlos A.: Yo no tengo una explicaciÃ³n convincente, pero no me importa
+
+688
+01:07:06.290 --> 01:07:11.079
+Arroyo Arzubi Carlos A.: porque la he encontrado solamente en poca bibliografÃ­a. La mayorÃ­a no lo trae.
+
+689
+01:07:11.730 --> 01:07:14.890
+Arroyo Arzubi Carlos A.: pero marca la probabilidad de fallo
+
+690
+01:07:15.230 --> 01:07:17.740
+Arroyo Arzubi Carlos A.: con respecto al tamaÃ±o de la pÃ¡gina.
+
+691
+01:07:18.090 --> 01:07:29.280
+Arroyo Arzubi Carlos A.: Y lo que me interesa es por lo menos movilizar Conceptualmente el tema tenÃ­a callo. El dibujo acÃ¡ estÃ¡.
+
+692
+01:07:30.870 --> 01:07:38.749
+Arroyo Arzubi Carlos A.: Â¿QuÃ© me estÃ¡ diciendo esto? Cuando nosotros definimos un tamaÃ±o de pÃ¡gina.
+
+693
+01:07:39.220 --> 01:07:45.940
+Arroyo Arzubi Carlos A.: Porque nosotros cuando definimos el sistema operativo que va a trabajar con paginaciÃ³n, definimos
+
+694
+01:07:46.330 --> 01:07:49.520
+Arroyo Arzubi Carlos A.: la pÃ¡gina que tiene 500, 12 palabras.
+
+695
+01:07:49.640 --> 01:07:57.610
+Arroyo Arzubi Carlos A.: tiene 1â¯024 palabras. CuÃ¡ntas palabras, le vamos a poner menos o mÃ¡s.
+
+696
+01:07:58.120 --> 01:08:05.919
+Arroyo Arzubi Carlos A.: Bueno, aparece esta curva que yo supongo que ha sido obtenida empÃ­ricamente porque no he podido encontrar una gran explicaciÃ³n.
+
+697
+01:08:06.720 --> 01:08:10.340
+Arroyo Arzubi Carlos A.: pero fÃ­jense que acÃ¡ tenemos el tamaÃ±o de la pÃ¡gina
+
+698
+01:08:10.890 --> 01:08:14.959
+Arroyo Arzubi Carlos A.: y la cantidad de fallos de pÃ¡gina. Si 1 quiere leer esto?
+
+699
+01:08:15.270 --> 01:08:23.029
+Arroyo Arzubi Carlos A.: Bueno, va a decir, bueno, cuando las pÃ¡ginas son chicas, tienen una determinada cantidad de fallos de pÃ¡gina
+
+700
+01:08:24.120 --> 01:08:26.670
+Arroyo Arzubi Carlos A.: que a medida que se van agrandando.
+
+701
+01:08:26.779 --> 01:08:30.129
+Arroyo Arzubi Carlos A.: Esa Esa cantidad de fallos de pÃ¡gina aumenta.
+
+702
+01:08:30.439 --> 01:08:38.160
+Arroyo Arzubi Carlos A.: No tengo la explicaciÃ³n y sigue creciendo el tamaÃ±o de la pÃ¡gina y
+
+703
+01:08:38.689 --> 01:08:42.590
+Arroyo Arzubi Carlos A.: la cantidad de fallos de pÃ¡gina es cada vez menor.
+
+704
+01:08:43.740 --> 01:08:48.469
+Arroyo Arzubi Carlos A.: Bueno, a mÃ­ me cuesta entender esta loma, pero no importa que yo no lo entienda.
+
+705
+01:08:48.899 --> 01:08:53.490
+Arroyo Arzubi Carlos A.: seguramente ustedes lo van a entender o no. Pero no importa.
+
+706
+01:08:53.870 --> 01:08:59.300
+Arroyo Arzubi Carlos A.: me interesa conceptualmente que sepan que el tamaÃ±o de la pÃ¡gina influye
+
+707
+01:08:59.680 --> 01:09:01.940
+Arroyo Arzubi Carlos A.: si vemos que la pÃ¡gina es grande?
+
+708
+01:09:02.260 --> 01:09:04.720
+Arroyo Arzubi Carlos A.: Bueno, eso sÃ­ es intuitivo.
+
+709
+01:09:05.060 --> 01:09:12.330
+Arroyo Arzubi Carlos A.: porque si la pÃ¡gina es grande y el principio de proximidad de denim dice que cuando yo busco algo
+
+710
+01:09:12.510 --> 01:09:21.050
+Arroyo Arzubi Carlos A.: y busco un dato o busco una instrucciÃ³n, Busco una direcciÃ³n, la otra estÃ¡ muy prÃ³xima a esta. Si la pÃ¡gina es grande.
+
+711
+01:09:21.490 --> 01:09:26.790
+Arroyo Arzubi Carlos A.: voy a tener muchas prÃ³ximas y, en consecuencia, no voy a tener que cambiar de pÃ¡gina.
+
+712
+01:09:26.890 --> 01:09:31.969
+Arroyo Arzubi Carlos A.: con lo cual no hay duda de que la cantidad de fallos de pÃ¡gina va a ser menor
+
+713
+01:09:33.010 --> 01:09:35.430
+Arroyo Arzubi Carlos A.: cuando el tamaÃ±o es grande.
+
+714
+01:09:35.689 --> 01:09:47.380
+Arroyo Arzubi Carlos A.: Ahora, cuando el tamaÃ±o es grande de una pÃ¡gina, es decir, de todas las pÃ¡ginas. La fragmentaciÃ³n interna tambiÃ©n va a ser mayor, que es algo que no queremos
+
+715
+01:09:47.500 --> 01:09:51.870
+Arroyo Arzubi Carlos A.: porque es desperdicio de memoria, es decir.
+
+716
+01:09:52.210 --> 01:10:00.920
+Arroyo Arzubi Carlos A.: y acÃ¡ marca, claro. Si ustedes siguieran esto hasta hasta acÃ¡ digamos que que lo quisiera llevar
+
+717
+01:10:01.180 --> 01:10:13.559
+Arroyo Arzubi Carlos A.: al eje que tuviera fallo de cantidad de fallo 0 que implicarÃ­a que en una pÃ¡gina entra todo el proceso. Estamos llevando al lÃ­mite. Meto todo en una pÃ¡gina. Bueno, ahÃ­ no hay fallo de pÃ¡gina.
+
+718
+01:10:14.040 --> 01:10:21.999
+Arroyo Arzubi Carlos A.: Tampoco es una exageraciÃ³n, pero es conceptual para que imaginemos un poco cÃ³mo funciona esto.
+
+719
+01:10:22.110 --> 01:10:25.370
+Arroyo Arzubi Carlos A.: Es decir, si yo tengo pÃ¡ginas
+
+720
+01:10:25.640 --> 01:10:44.999
+Arroyo Arzubi Carlos A.: chicas, la fragmentaciÃ³n interna va a ser menor si tengo pÃ¡ginas grandes, la fragmentaciÃ³n externa interna va a ser mayor y eso no lo quiero. Pero por otro lado, la cantidad de fallos que voy a tener es menor. Y eso sÃ­ lo quiero
+
+721
+01:10:45.240 --> 01:10:56.039
+Arroyo Arzubi Carlos A.: con Ra, con lo cual. Â¿ Son conflictos a resolver. Cuando 1 diseÃ±a
+
+722
+01:10:56.390 --> 01:11:01.000
+Arroyo Arzubi Carlos A.: un sistema operativo, son decisiones que tiene que tomar
+
+723
+01:11:01.130 --> 01:11:07.180
+Arroyo Arzubi Carlos A.: sabiendo que bueno, tira de acÃ¡ o la sÃ¡bana es corta de un lado corta del otro, o lo que sea
+
+724
+01:11:09.060 --> 01:11:09.990
+Arroyo Arzubi Carlos A.: bueno.
+
+725
+01:11:11.620 --> 01:11:24.599
+Arroyo Arzubi Carlos A.: Estas 2 cuestiones van a influir en la probabilidad del fallo de pÃ¡gina, la cantidad de frames que le asigna un proceso y el tamaÃ±o de la pÃ¡gina.
+
+726
+01:11:25.400 --> 01:11:36.990
+Arroyo Arzubi Carlos A.: Vamos a ver ahora otra cuestiÃ³n interesante que es como para que nos pegue en la autoestima.
+
+727
+01:11:41.120 --> 01:11:43.219
+Arroyo Arzubi Carlos A.: Â¿por quÃ© digo nos pega en la autoestima?
+
+728
+01:11:43.780 --> 01:11:53.770
+Arroyo Arzubi Carlos A.: Porque no, no, no nada. No pega nada la autoestima simplemente que a veces las cosas no son.
+
+729
+01:11:54.760 --> 01:12:00.140
+Arroyo Arzubi Carlos A.: No son como parecen en un 100 por 100. Â¿quÃ© quiero decir.
+
+730
+01:12:01.810 --> 01:12:05.250
+Arroyo Arzubi Carlos A.: si ustedes ven esta curva que yo he puesto
+
+731
+01:12:05.850 --> 01:12:10.730
+Arroyo Arzubi Carlos A.: 1 referido a la cantidad de frames que se le asigna a un proceso.
+
+732
+01:12:11.130 --> 01:12:21.490
+Arroyo Arzubi Carlos A.: Uno puede decir: bueno, cuanto mÃ¡s Freim le doy a un proceso, la probabilidad de fallo es menor.
+
+733
+01:12:23.380 --> 01:12:29.380
+Arroyo Arzubi Carlos A.: Y si yo dijera que apostaran dinero, imagino que algunos apostarÃ­an
+
+734
+01:12:29.940 --> 01:12:33.690
+Arroyo Arzubi Carlos A.: o no alguien piensa que esto no se puede cumplir.
+
+735
+01:12:37.450 --> 01:12:39.190
+Arroyo Arzubi Carlos A.: Suena razonable?
+
+736
+01:12:41.240 --> 01:12:47.099
+Arroyo Arzubi Carlos A.: Bueno, como yo, genere esta expectativa. Ya todos se imaginan que va a haber alguna situaciÃ³n en que no se cumple.
+
+737
+01:12:49.000 --> 01:12:55.939
+Arroyo Arzubi Carlos A.: Bueno, apareciÃ³ un seÃ±or Belady que se ve que tenÃ­a tiempo libre
+
+738
+01:12:56.340 --> 01:13:01.249
+Arroyo Arzubi Carlos A.: y se puso a trabajar con una serie de
+
+739
+01:13:03.370 --> 01:13:06.089
+Arroyo Arzubi Carlos A.: de pÃ¡ginas que requerÃ­a un proceso
+
+740
+01:13:07.340 --> 01:13:11.210
+Arroyo Arzubi Carlos A.: y encontrÃ³ que en determinada situaciÃ³n
+
+741
+01:13:11.390 --> 01:13:17.470
+Arroyo Arzubi Carlos A.: se producÃ­a lo que se llama. Obviamente, logrÃ³ que le pusieran el nombre de la anomalÃ­a de Beladi.
+
+742
+01:13:20.160 --> 01:13:24.990
+Arroyo Arzubi Carlos A.: Â¿quÃ© estÃ¡? AcÃ¡ Esto es lo que vimos antes
+
+743
+01:13:25.400 --> 01:13:33.850
+Arroyo Arzubi Carlos A.: y la anomalÃ­a de Beladi estÃ¡ marcando algo asÃ­ como esto, Â¿QuÃ© estÃ¡ diciendo que
+
+744
+01:13:34.170 --> 01:13:43.590
+Arroyo Arzubi Carlos A.: aumento la cantidad de frames Y en vez de bajar, me aumenta la probabilidad de fallo de pÃ¡gina algo
+
+745
+01:13:44.050 --> 01:13:48.280
+Arroyo Arzubi Carlos A.: contra la lÃ³gica, pero que se produce.
+
+746
+01:13:48.940 --> 01:14:01.590
+Arroyo Arzubi Carlos A.: Â¿cÃ³mo se produce? Bueno, se produce con una combinaciÃ³n determinada de pÃ¡ginas. Ãl encontrÃ³ una secuencia de pÃ¡ginas
+
+747
+01:14:02.130 --> 01:14:05.830
+Arroyo Arzubi Carlos A.: que producÃ­a esto. Y con eso se hizo famoso.
+
+748
+01:14:06.360 --> 01:14:09.799
+Arroyo Arzubi Carlos A.: Es decir, que para mostrar cÃ³mo actÃºa
+
+749
+01:14:10.320 --> 01:14:15.649
+Arroyo Arzubi Carlos A.: la anomalÃ­a de Bellady, tenemos que hacerla con los nÃºmeros que Ã©l hizo
+
+750
+01:14:17.320 --> 01:14:25.560
+Arroyo Arzubi Carlos A.: a ver si lo tengo, acÃ¡. Porque yo ya me acuerdo del te acÃ¡. EstÃ¡ Bueno, FÃ­jense, Ãl aplicÃ³
+
+751
+01:14:26.660 --> 01:14:30.260
+Arroyo Arzubi Carlos A.: el algoritmo fifo que alguien mencionÃ³
+
+752
+01:14:30.680 --> 01:14:41.110
+Arroyo Arzubi Carlos A.: de reemplazo de pÃ¡gina. Como todo. Siempre existe el algoritmo fifo el algoritmo fifo de paso.
+
+753
+01:14:41.270 --> 01:14:49.500
+Arroyo Arzubi Carlos A.: lo planteamos acÃ¡ Ahora, Â¿quÃ© es que cuando tengo que sacar una pÃ¡gina.
+
+754
+01:14:49.660 --> 01:14:52.469
+Arroyo Arzubi Carlos A.: voy a sacar a la pÃ¡gina que entrÃ³ primero.
+
+755
+01:14:52.780 --> 01:14:55.500
+Arroyo Arzubi Carlos A.: es decir, voy a sacar la pÃ¡gina
+
+756
+01:14:55.830 --> 01:14:58.870
+Arroyo Arzubi Carlos A.: que lleva mÃ¡s tiempo cargada en la memoria.
+
+757
+01:14:59.130 --> 01:15:09.419
+Arroyo Arzubi Carlos A.: Primera paz, primera, en entrar en la primera en salir, es decir que, y entonces Ã©l mostrÃ³,
+
+758
+01:15:10.640 --> 01:15:18.470
+Arroyo Arzubi Carlos A.: hizo este ejercicio que estoy mostrando acÃ¡ explico por quÃ© esta mecÃ¡nica es la que vamos a utilizar para los distintos algoritmos.
+
+759
+01:15:19.230 --> 01:15:29.309
+Arroyo Arzubi Carlos A.: AcÃ¡ Tengo un proceso. Miren este cuadro, no el de abajo. TodavÃ­a acÃ¡ tengo un proceso que ese proceso
+
+760
+01:15:29.520 --> 01:15:31.260
+Arroyo Arzubi Carlos A.: va a requerir
+
+761
+01:15:31.600 --> 01:15:37.200
+Arroyo Arzubi Carlos A.: primero la pÃ¡gina, 3 despuÃ©s, la 2, la 1, la 0, la 3, la 2, la 4. Bueno.
+
+762
+01:15:37.630 --> 01:15:40.829
+Arroyo Arzubi Carlos A.: es decir que el tiempo se desplaza hacia la derecha.
+
+763
+01:15:43.000 --> 01:15:49.209
+Arroyo Arzubi Carlos A.: Son los requerimientos de pÃ¡ginas de este proceso. Estamos hablando de un proceso en particular.
+
+764
+01:15:50.580 --> 01:15:54.910
+Arroyo Arzubi Carlos A.: Bueno para este proceso. El sistema dice.
+
+765
+01:15:55.250 --> 01:15:58.070
+Arroyo Arzubi Carlos A.: le voy a asignar 3 frames.
+
+766
+01:15:58.260 --> 01:16:07.920
+Arroyo Arzubi Carlos A.: Entonces acÃ¡ tengo en cada fila un frame, 1, 2 y 3, y en
+
+767
+01:16:08.040 --> 01:16:12.549
+Arroyo Arzubi Carlos A.: la fila de abajo, voy a marcar los fallos de pÃ¡gina.
+
+768
+01:16:13.190 --> 01:16:18.700
+Arroyo Arzubi Carlos A.: Entonces, aplicando el algoritmo fijo, yo voy a simular
+
+769
+01:16:18.850 --> 01:16:24.900
+Arroyo Arzubi Carlos A.: cÃ³mo harÃ­a el sistema operativo para a ser E. T.
+
+770
+01:16:25.840 --> 01:16:27.480
+Arroyo Arzubi Carlos A.: Esta simulaciÃ³n.
+
+771
+01:16:28.240 --> 01:16:32.629
+Arroyo Arzubi Carlos A.: Entonces. FÃ­jense, esto nos va a servir para todos los ejercicios.
+
+772
+01:16:35.720 --> 01:16:38.720
+Arroyo Arzubi Carlos A.: El proceso tiene que cargar la pÃ¡gina. Tres.
+
+773
+01:16:39.780 --> 01:16:46.720
+Arroyo Arzubi Carlos A.: Hay un fallo de pÃ¡gina y carga, la pÃ¡gina, 3 al instante siguiente.
+
+774
+01:16:47.630 --> 01:16:51.699
+Arroyo Arzubi Carlos A.: otro fallo de pÃ¡gina, porque tiene que cargar la pÃ¡gina Dos.
+
+775
+01:16:51.990 --> 01:17:05.399
+Arroyo Arzubi Carlos A.: la carga en el frame. Dos, otro instante, otra necesidad fallo de pÃ¡gina carga, la pÃ¡gina 1 hasta ahÃ­
+
+776
+01:17:05.620 --> 01:17:09.860
+Arroyo Arzubi Carlos A.: no tuvimos que reemplazar ninguna pÃ¡gina
+
+777
+01:17:10.050 --> 01:17:14.620
+Arroyo Arzubi Carlos A.: porque el sistema le habÃ­a dado 3 frames a este proceso.
+
+778
+01:17:15.820 --> 01:17:19.980
+Arroyo Arzubi Carlos A.: Ahora sÃ­, tenemos que aplicar el algoritmo fifo
+
+779
+01:17:20.490 --> 01:17:28.810
+Arroyo Arzubi Carlos A.: para sacar la pÃ¡gina. Vamos a sacar la pÃ¡gina que lleva mÃ¡s tiempo la que entrÃ³ primero.
+
+780
+01:17:29.480 --> 01:17:32.360
+Arroyo Arzubi Carlos A.: Entonces sigamos simulando el ejercicio.
+
+781
+01:17:32.670 --> 01:17:37.600
+FRANCO EMMANUEL SICARDO: PerdÃ³n profe, pero no entendÃ­ muy bien quÃ© significan los numeritos, el 3, el 2 y el 1.
+
+782
+01:17:37.770 --> 01:17:47.070
+Arroyo Arzubi Carlos A.: Un nÃºmero de pÃ¡gina, porque nosotros, acÃ¡ lo que estamos viendo es, y
+
+783
+01:17:48.660 --> 01:17:57.020
+Arroyo Arzubi Carlos A.: los fallos que produce un proceso al ir necesitando distintas pÃ¡ginas de Ã©l no
+
+784
+01:17:57.600 --> 01:18:01.659
+Arroyo Arzubi Carlos A.: se entiende. Entonces, por eso digo, esto es un proceso, El proceso a
+
+785
+01:18:02.270 --> 01:18:10.210
+Arroyo Arzubi Carlos A.: que lo estoy ejecutando. Supongamos, Y entonces me va a pedir primero la pÃ¡gina Tres: La Do. Esta es la secuencia de simulaciÃ³n.
+
+786
+01:18:10.400 --> 01:18:16.340
+Arroyo Arzubi Carlos A.: Â¿quÃ© hacemos los requerimientos de pÃ¡gina que ese proceso va a hacer.
+
+787
+01:18:17.140 --> 01:18:23.600
+Arroyo Arzubi Carlos A.: Entonces yo voy a jugar acÃ¡ y marcar la cantidad de fallos de pÃ¡gina que se van a producir.
+
+788
+01:18:23.780 --> 01:18:29.220
+Arroyo Arzubi Carlos A.: Cuando yo ejecute este proceso con este algoritmo, que es fijo, sÃ­
+
+789
+01:18:31.370 --> 01:18:36.040
+Arroyo Arzubi Carlos A.: carguÃ© las 3 pÃ¡ginas. Ahora, ahora el proceso pide la pÃ¡gina 0.
+
+790
+01:18:36.550 --> 01:18:45.970
+Arroyo Arzubi Carlos A.: Entonces fallo de pÃ¡gina, y yo tengo que reemplazar en la en el frame. Uno, 2 o 3,
+
+791
+01:18:46.090 --> 01:18:51.819
+Arroyo Arzubi Carlos A.: como el algoritmo que estamos utilizando es fijo. El primero que entrÃ³ es el primero en salir
+
+792
+01:18:51.960 --> 01:18:56.959
+Arroyo Arzubi Carlos A.: el frame. Uno que estÃ¡ en la pÃ¡gina. Tres es la que voy a sacar.
+
+793
+01:18:57.670 --> 01:19:01.310
+Arroyo Arzubi Carlos A.: Â¿cÃ³mo ves saco la que lleva mÃ¡s tiempo.
+
+794
+01:19:02.500 --> 01:19:06.360
+Arroyo Arzubi Carlos A.: Ahora, otra vez, fallo de pÃ¡gina.
+
+795
+01:19:07.200 --> 01:19:09.880
+Arroyo Arzubi Carlos A.: Necesita la pÃ¡gina 3 que no la tiene.
+
+796
+01:19:10.350 --> 01:19:15.450
+Arroyo Arzubi Carlos A.: entonces la va a poner en el que lleva mÃ¡s tiempo. En este caso, la pÃ¡gina 2.
+
+797
+01:19:19.260 --> 01:19:25.100
+Arroyo Arzubi Carlos A.: Ahora, otra vez, fallo de pÃ¡gina para pÃ¡gina. Dos: La voy a poner en la que lleva mÃ¡s tiempo
+
+798
+01:19:26.920 --> 01:19:34.150
+Arroyo Arzubi Carlos A.: otra vez, fallo de pÃ¡gina 4. FÃ­jense, este lleva 1, 2 ciclos, 3 ciclos. Bueno, viene acÃ¡
+
+799
+01:19:35.100 --> 01:19:41.220
+Arroyo Arzubi Carlos A.: este algoritmo. Obviamente es extremadamente sencillo. Acá no hay fallo de página
+
+800
+01:19:41.460 --> 01:19:43.699
+Arroyo Arzubi Carlos A.: porque la página 3 está acá.
+
+801
+01:19:43.890 --> 01:19:49.550
+Arroyo Arzubi Carlos A.: Es decir que todo sigue igual. Acá. Tampoco hay fallo de página.
+
+802
+01:19:50.590 --> 01:19:51.390
+Arroyo Arzubi Carlos A.: ¿
+
+803
+01:19:52.100 --> 01:20:01.289
+Arroyo Arzubi Carlos A.: Acá Sí. Porque la página 1 no está y cuál voy a sacar la 4, la 3, la 2. Voy a sacar la 3 que lleva más tiempo.
+
+804
+01:20:01.470 --> 01:20:08.590
+Arroyo Arzubi Carlos A.: 4, 2, acá tenía que marcar fallo de página.
+
+805
+01:20:08.790 --> 01:20:15.090
+Arroyo Arzubi Carlos A.: Ahora viene el acero fallo de página. Y entonces el acero la voy a poner acá
+
+806
+01:20:19.130 --> 01:20:21.300
+Arroyo Arzubi Carlos A.: y acá no hay fallo de página.
+
+807
+01:20:26.940 --> 01:20:30.750
+Arroyo Arzubi Carlos A.: Entonces yo acá cuento y tengo
+
+808
+01:20:31.280 --> 01:20:41.000
+Arroyo Arzubi Carlos A.: 1, 2, 3, 4, 5, 6, 7, 8, 9. Es decir, que yo tengo a 9 fallo de página
+
+809
+01:20:42.200 --> 01:20:47.790
+Arroyo Arzubi Carlos A.: con este ejercicio choca y ver a lo que fue lo que descubrió
+
+810
+01:20:48.510 --> 01:20:51.149
+Arroyo Arzubi Carlos A.: que yo a este mismo ejemplo.
+
+811
+01:20:52.080 --> 01:20:57.770
+Arroyo Arzubi Carlos A.: en vez de darle 3 frames. Le doy 4 frames, que es lo que está planteado acá abajo
+
+812
+01:20:59.240 --> 01:21:07.730
+Arroyo Arzubi Carlos A.: con los mismos requerimientos de página. Es el mismo proceso. Y entonces veo qué pasa. Bueno, veamos qué pasa
+
+813
+01:21:08.830 --> 01:21:21.270
+Arroyo Arzubi Carlos A.: fallo de página, la página, 3 fallo de página, 3, 2, fallo de página 3, 2, un, no.
+
+814
+01:21:24.840 --> 01:21:31.410
+Arroyo Arzubi Carlos A.: Uno, fallo de página, 3, 2, 1,
+
+815
+01:21:31.800 --> 01:21:39.789
+Arroyo Arzubi Carlos A.: y 0. Ahora voy a aplicar el ahora mismo porque recién ahora voy a tener que liberar algunos de los frames.
+
+816
+01:21:40.810 --> 01:21:44.769
+Arroyo Arzubi Carlos A.: Tres. No hay fallo de página. Entonces queda todo igual.
+
+817
+01:21:48.620 --> 01:21:51.630
+Arroyo Arzubi Carlos A.: Acá Tampoco hay fallo de página. Porque el 2 está acá
+
+818
+01:21:56.010 --> 01:21:59.640
+Arroyo Arzubi Carlos A.: ahora. Hay fallo de página, el 4.
+
+819
+01:21:59.970 --> 01:22:08.319
+Arroyo Arzubi Carlos A.: Sacamos la que lleva más tiempo. Recuerden cuál es el algoritmo, acá tenemos fallo de página.
+
+820
+01:22:08.430 --> 01:22:09.580
+Arroyo Arzubi Carlos A.: Ponemos acá
+
+821
+01:22:14.510 --> 01:22:16.360
+Arroyo Arzubi Carlos A.: acá hay fallo de página.
+
+822
+01:22:27.070 --> 01:22:30.010
+Arroyo Arzubi Carlos A.: Acá Hay fallo de página, 1
+
+823
+01:22:33.210 --> 01:22:48.980
+Arroyo Arzubi Carlos A.: 1 luego, pero 4 fallo de página 0, acá. Cero, 3, 2, 1,
+
+824
+01:22:50.490 --> 01:22:55.240
+Arroyo Arzubi Carlos A.: 1 y fallo de página, el 4, ¿
+
+825
+01:22:55.530 --> 01:23:02.260
+Arroyo Arzubi Carlos A.: Que viene, acá 4, 0, 2 y 1.
+
+826
+01:23:03.430 --> 01:23:13.020
+Arroyo Arzubi Carlos A.: Entonces con cuenta. Uno, 2, 3, 4, 5, 6, 7, 8, 9, 10, es decir, que ahora le dio
+
+827
+01:23:13.180 --> 01:23:23.770
+Arroyo Arzubi Carlos A.: 10 fallo de página, con lo cual nosotros vemos como
+
+828
+01:23:23.950 --> 01:23:30.239
+Arroyo Arzubi Carlos A.: Beladi mostró con un ejemplo concreto que esta curva
+
+829
+01:23:30.530 --> 01:23:33.920
+Arroyo Arzubi Carlos A.: que teníamos acá y que instintivamente
+
+830
+01:23:34.320 --> 01:23:37.719
+Arroyo Arzubi Carlos A.: pensábamos que no podía fallar. Bueno.
+
+831
+01:23:38.210 --> 01:23:46.739
+Arroyo Arzubi Carlos A.: Puede haber alguna situación que que falle, como en este caso, donde se aplicó el algoritmo fifo a esta
+
+832
+01:23:46.840 --> 01:23:49.099
+Arroyo Arzubi Carlos A.: serie de páginas.
+
+833
+01:23:49.480 --> 01:23:54.609
+Arroyo Arzubi Carlos A.: Obviamente, si yo pongo otra secuencia y no me va a dar.
+
+834
+01:23:54.790 --> 01:23:59.629
+Arroyo Arzubi Carlos A.: Pero él encontró una secuencia que le anda por ahí, hay otra que Ande.
+
+835
+01:23:59.980 --> 01:24:08.139
+Arroyo Arzubi Carlos A.: Pero, bueno, obviamente, la explicación de esto es que el algoritmo fijo aplicado
+
+836
+01:24:08.510 --> 01:24:12.740
+Arroyo Arzubi Carlos A.: a a este ejercicio en particular
+
+837
+01:24:13.490 --> 01:24:16.580
+Arroyo Arzubi Carlos A.: solamente tiene en cuenta el tiempo
+
+838
+01:24:17.200 --> 01:24:20.530
+Arroyo Arzubi Carlos A.: en que que lleva cargada la página.
+
+839
+01:24:20.950 --> 01:24:27.309
+Arroyo Arzubi Carlos A.: pero no contempla en ningún momento la frecuencia de uso de esa página.
+
+840
+01:24:27.650 --> 01:24:35.270
+Arroyo Arzubi Carlos A.: que, si tuviera ¿Hubiera considerado eso, posiblemente el resultado hubiera sido distinto.
+
+841
+01:24:40.780 --> 01:24:41.570
+Arroyo Arzubi Carlos A.: Bueno.
+
+842
+01:24:47.080 --> 01:24:53.670
+Arroyo Arzubi Carlos A.: vamos a ver ahora los algoritmos de reemplazo de página. Vamos a empezar a verlos.
+
+843
+01:25:00.720 --> 01:25:05.170
+Arroyo Arzubi Carlos A.: Bueno, 1 es el algoritmo Fifo que.
+
+844
+01:25:07.750 --> 01:25:12.770
+ARON FRAGA: No son los mismos. Profe, no, O sea, son son otros algoritmos, o vamos a utilizar los mismos por ahí.
+
+845
+01:25:13.290 --> 01:25:14.440
+Arroyo Arzubi Carlos A.: Como los mismos, quique.
+
+846
+01:25:14.440 --> 01:25:15.970
+ARON FRAGA: Los mismos que vimos anteriormente, digamos.
+
+847
+01:25:15.970 --> 01:25:17.370
+Arroyo Arzubi Carlos A.: No nada que ver.
+
+848
+01:25:17.550 --> 01:25:18.460
+ARON FRAGA: ¿Qué.
+
+849
+01:25:18.700 --> 01:25:19.619
+Arroyo Arzubi Carlos A.: Nada que ver.
+
+850
+01:25:20.160 --> 01:25:29.149
+Arroyo Arzubi Carlos A.: Bueno, acá hay un algoritmo fijo. Lo hacemos para que les quede. Yo usé el algoritmo de antes para mostrar melanie. Pero
+
+851
+01:25:29.250 --> 01:25:32.380
+Arroyo Arzubi Carlos A.: para que les quede lo podemos hacer.
+
+852
+01:25:32.690 --> 01:25:43.289
+Arroyo Arzubi Carlos A.: Y de paso, repasan una cosa que no dije cuando iniciamos un proceso.
+
+853
+01:25:44.590 --> 01:25:49.160
+Arroyo Arzubi Carlos A.: Acá en este hicimos lo que se llama
+
+854
+01:25:50.070 --> 01:25:54.669
+Arroyo Arzubi Carlos A.: sin prepaginación. La carga inicial es simple: paginación.
+
+855
+01:25:55.320 --> 01:26:01.349
+Arroyo Arzubi Carlos A.: ¿qué quiere decir que yo no sé las páginas que me va
+
+856
+01:26:01.470 --> 01:26:09.160
+Arroyo Arzubi Carlos A.: a pedir el proceso, entonces tengo que ir haciendo la carga individual.
+
+857
+01:26:09.970 --> 01:26:15.780
+Arroyo Arzubi Carlos A.: Si yo supiera qué página me va a pedir el proceso.
+
+858
+01:26:16.150 --> 01:26:23.819
+Arroyo Arzubi Carlos A.: entonces yo podría hacerlo con prepaginación, que sería con prepaginación.
+
+859
+01:26:24.120 --> 01:26:29.730
+Arroyo Arzubi Carlos A.: Bueno, que yo, acá con este, con este.
+
+860
+01:26:30.060 --> 01:26:40.339
+Arroyo Arzubi Carlos A.: como llama fallo de página cargo, el 3, el 2, el 1 y en 0
+
+861
+01:26:41.080 --> 01:26:45.559
+Arroyo Arzubi Carlos A.: los cargos de entrada. Porque yo ya sé que va a necesitar estas páginas.
+
+862
+01:26:47.000 --> 01:26:56.730
+Arroyo Arzubi Carlos A.: Entonces, si lo hago de esta manera, ¿ Eso se llama con prepaginación.
+
+863
+01:26:57.630 --> 01:27:05.380
+Arroyo Arzubi Carlos A.: Si lo hago de esta manera, eso se llama sin prepaginación.
+
+864
+01:27:05.690 --> 01:27:13.590
+Arroyo Arzubi Carlos A.: Nosotros, los ejercicios, lo vamos a hacer sin prepaminación ajá
+
+865
+01:27:13.770 --> 01:27:20.640
+Arroyo Arzubi Carlos A.: porque en general no se sabe, aunque en algunos sí se vaya a ver, pero lo vamos a hacer todo sin prepaginación.
+
+866
+01:27:21.490 --> 01:27:29.069
+Arroyo Arzubi Carlos A.: Entonces vamos a este ejercicio para repetir el procedimiento. Para si alguien no, no lo llego a agarrar.
+
+867
+01:27:30.400 --> 01:27:34.859
+Arroyo Arzubi Carlos A.: Tengo un proceso, 3 frames, la secuencia de las páginas.
+
+868
+01:27:35.520 --> 01:27:47.029
+Arroyo Arzubi Carlos A.: entonces tenemos fallo de página. Cargo. La página, 7 fallo de página cargo, la página 0, fallo de página
+
+869
+01:27:47.360 --> 01:27:49.059
+Arroyo Arzubi Carlos A.: cargo la página.
+
+870
+01:27:51.710 --> 01:27:59.350
+Arroyo Arzubi Carlos A.: Y acá ahora tengo fallo de página, y voy a tener que sacar alguno. Fíjense que si ustedes miran hacia la izquierda
+
+871
+01:27:59.510 --> 01:28:00.850
+Arroyo Arzubi Carlos A.: el que lleva
+
+872
+01:28:00.970 --> 01:28:10.799
+Arroyo Arzubi Carlos A.: más tiempo se ve fácilmente. Este lleva 3 ciclos, 2 ciclos y un ciclo. Así que mirando para acá el reemplazo, es muy simple.
+
+873
+01:28:12.980 --> 01:28:14.899
+Arroyo Arzubi Carlos A.: Acá no hay fallo de página.
+
+874
+01:28:17.460 --> 01:28:19.479
+Arroyo Arzubi Carlos A.: acá Sí, hay fallo de página.
+
+875
+01:28:19.620 --> 01:28:21.680
+Arroyo Arzubi Carlos A.: El 3 va a venir acá.
+
+876
+01:28:21.860 --> 01:28:31.620
+Arroyo Arzubi Carlos A.: Dos, Uno, acá. Hay fallo de página. El 0 sí, no, Pero es
+
+877
+01:28:31.980 --> 01:28:39.900
+Arroyo Arzubi Carlos A.: 2, acá. Hay fallo de página, 4. Acabo de poner el 4, 3.
+
+878
+01:28:40.560 --> 01:29:01.880
+Arroyo Arzubi Carlos A.: Cero Otra vez, Fallo de página, 2, 4, zero, fallo de página, 3, 2, 4, fallo de página
+
+879
+01:29:04.900 --> 01:29:06.510
+Arroyo Arzubi Carlos A.: 0, ¿no?
+
+880
+01:29:08.350 --> 01:29:16.049
+Arroyo Arzubi Carlos A.: Cero, 2, 3, acá. No hay fallo de página 0, 2,
+
+881
+01:29:16.550 --> 01:29:22.970
+Arroyo Arzubi Carlos A.: 3, tampoco hay fallo de página 0, 2, 3.
+
+882
+01:29:23.150 --> 01:29:25.540
+Arroyo Arzubi Carlos A.: Acá Hay fallo de página. Uno.
+
+883
+01:29:25.760 --> 01:29:33.040
+Arroyo Arzubi Carlos A.: Fíjense que miran para acá Y este es el que lleva más tiempo. Es muy simple, Uno: 0,
+
+884
+01:29:33.230 --> 01:29:36.360
+Arroyo Arzubi Carlos A.: pero es fallo de página.
+
+885
+01:29:37.040 --> 01:29:37.890
+Arroyo Arzubi Carlos A.: ¿
+
+886
+01:29:38.250 --> 01:29:41.820
+Arroyo Arzubi Carlos A.: El 2 va a venir acá. Dos, 1,
+
+887
+01:29:42.030 --> 01:29:47.630
+Arroyo Arzubi Carlos A.: 0. Acá. No hay fallo de página 0, 1,
+
+888
+01:29:48.290 --> 01:29:55.790
+Arroyo Arzubi Carlos A.: 2, acá. No hay fallo de página 0, 1, 2,
+
+889
+01:29:56.030 --> 01:29:58.449
+Arroyo Arzubi Carlos A.: acá, Si hay fallo de página, 7,
+
+890
+01:29:58.790 --> 01:30:05.820
+Arroyo Arzubi Carlos A.: ¿ Que va a entrar acá 7, 1, 2.
+
+891
+01:30:06.200 --> 01:30:08.770
+Arroyo Arzubi Carlos A.: Acá. Hay fallo de página en 0.
+
+892
+01:30:09.780 --> 01:30:14.760
+Arroyo Arzubi Carlos A.: ¿ Que va a venir acá 7
+
+893
+01:30:15.230 --> 01:30:19.829
+Arroyo Arzubi Carlos A.: 2 y acá. Hay fallo de página, el 1 que va a venir acá.
+
+894
+01:30:21.140 --> 01:30:24.160
+Arroyo Arzubi Carlos A.: A mí, ya se me mezclan todos los cuadraditos con Pero bueno.
+
+895
+01:30:26.250 --> 01:30:32.280
+Arroyo Arzubi Carlos A.: bueno, como ven, Este es un algoritmo muy sencillo, muy fácil.
+
+896
+01:30:32.770 --> 01:30:36.589
+Arroyo Arzubi Carlos A.: Como siempre que determinamos un algoritmo
+
+897
+01:30:36.860 --> 01:30:41.470
+Arroyo Arzubi Carlos A.: algoritmos fijo administrativamente es muy sencillo
+
+898
+01:30:41.890 --> 01:30:52.240
+Arroyo Arzubi Carlos A.: y el resultado es absolutamente incierto e impredecible podrá a veces que saldrá bien y otras veces saldrá mal.
+
+899
+01:30:54.060 --> 01:30:57.010
+Arroyo Arzubi Carlos A.: Otro algoritmo que vamos a ver.
+
+900
+01:30:57.760 --> 01:31:01.140
+Arroyo Arzubi Carlos A.: Se llama algoritmo óptimo.
+
+901
+01:31:07.070 --> 01:31:15.709
+Arroyo Arzubi Carlos A.: El algoritmo óptimo, como su nombre lo indica, es el mejor y el
+
+902
+01:31:15.810 --> 01:31:18.970
+Arroyo Arzubi Carlos A.: cuál es el criterio del algoritmo óptimo.
+
+903
+01:31:19.470 --> 01:31:22.730
+Arroyo Arzubi Carlos A.: ¿qué es lo que 1 quisiera que yo
+
+904
+01:31:23.170 --> 01:31:26.329
+Arroyo Arzubi Carlos A.: lo he mencionado en algún momento del día de hoy
+
+905
+01:31:27.080 --> 01:31:32.240
+Arroyo Arzubi Carlos A.: y yo quisiera sacar una página que está ocupando memoria
+
+906
+01:31:32.890 --> 01:31:35.010
+Arroyo Arzubi Carlos A.: que yo no la voy a usar más
+
+907
+01:31:35.740 --> 01:31:38.300
+Arroyo Arzubi Carlos A.: o la voy a usar más tardíamente.
+
+908
+01:31:39.280 --> 01:31:40.970
+Arroyo Arzubi Carlos A.: Ese sería mi
+
+909
+01:31:41.080 --> 01:31:50.210
+Arroyo Arzubi Carlos A.: mi objetivo. Mi mejor objetivo. Por eso se llama el algoritmo óptimo, porque eso es lo que hace el algoritmo óptimo.
+
+910
+01:31:52.230 --> 01:31:58.210
+Arroyo Arzubi Carlos A.: el algoritmo óptimo. Entonces, pero si ¿qué limitación tiene.
+
+911
+01:31:58.440 --> 01:32:01.679
+Arroyo Arzubi Carlos A.: Y bueno, la limitación que tiene el algoritmo óptimo
+
+912
+01:32:02.030 --> 01:32:09.390
+Arroyo Arzubi Carlos A.: es que 1 tiene que saber las páginas que ese proceso va a requerir de antemano.
+
+913
+01:32:12.670 --> 01:32:18.140
+Arroyo Arzubi Carlos A.: para lo cual, si yo necesito conocer las páginas.
+
+914
+01:32:18.780 --> 01:32:21.179
+Arroyo Arzubi Carlos A.: primero va a tener que ser un proceso Bach.
+
+915
+01:32:21.340 --> 01:32:28.949
+Arroyo Arzubi Carlos A.: porque los procesos interactivos van cambiando su su derrotero, digamos.
+
+916
+01:32:29.170 --> 01:32:32.690
+Arroyo Arzubi Carlos A.: porque el usuario lo va llevando por distintos caminos.
+
+917
+01:32:33.060 --> 01:32:35.350
+Arroyo Arzubi Carlos A.: Entonces tiene que ser un proceso B a Sh.
+
+918
+01:32:36.310 --> 01:32:46.670
+Arroyo Arzubi Carlos A.: Este es ir un proceso que a 1 le carga unos datos y da un resultado. Es decir, supongamos
+
+919
+01:32:47.030 --> 01:33:00.099
+Arroyo Arzubi Carlos A.: que esos procesos Bach se utilicen, por ejemplo, tampoco para todos los procesos Bach. Pero para hacer un cálculo
+
+920
+01:33:00.550 --> 01:33:12.430
+Arroyo Arzubi Carlos A.: hay centros de cómputo o científicos que realizan cálculos que son muy pesados, que llevan mucho tiempo, pero que hacen un cálculo, y ese cálculo se hace siempre de la misma manera.
+
+921
+01:33:12.990 --> 01:33:14.899
+Arroyo Arzubi Carlos A.: con determinadas variables.
+
+922
+01:33:15.450 --> 01:33:22.090
+Arroyo Arzubi Carlos A.: Bueno, entonces yo tendría que utilizarlo para un proceso vals
+
+923
+01:33:22.250 --> 01:33:36.560
+Arroyo Arzubi Carlos A.: de esas características que solamente hiciera cálculo, no tuviera entradas y salidas, sino que hiciera cálculo y y, además.
+
+924
+01:33:36.680 --> 01:33:42.339
+Arroyo Arzubi Carlos A.: haberlo ejecutado y guardado la información de las páginas que va a requerir.
+
+925
+01:33:43.370 --> 01:33:54.570
+Arroyo Arzubi Carlos A.: Es decir, que tiene varios condicionantes, razón por la cual, y algunos
+
+926
+01:33:55.150 --> 01:34:00.499
+Arroyo Arzubi Carlos A.: en algunas bibliografías inclusive, creo que Puchau lo pone así.
+
+927
+01:34:01.790 --> 01:34:14.580
+Arroyo Arzubi Carlos A.: El algoritmo óptimo dicen, es imposible de aplicar. Yo me resisto a la palabra imposible y
+
+928
+01:34:15.190 --> 01:34:19.800
+Arroyo Arzubi Carlos A.: sí complicado poder ponerlo, porque
+
+929
+01:34:20.500 --> 01:34:27.600
+Arroyo Arzubi Carlos A.: a mí se me ocurre esto, que yo les he dicho como para poder aplicarlo. Y si yo tengo un algoritmo que es imposible, entonces no es un algoritmo.
+
+930
+01:34:27.830 --> 01:34:33.260
+Arroyo Arzubi Carlos A.: está claro, porque ¿para qué voy a hacer un algoritmo que no se puede usar.
+
+931
+01:34:33.770 --> 01:34:36.470
+Arroyo Arzubi Carlos A.: es decir, que, bueno, pero
+
+932
+01:34:36.610 --> 01:34:43.510
+Arroyo Arzubi Carlos A.: digo esto porque cuando lean bibliografía, inclusive en los apuntes, me puse ahora creo que dice imposible.
+
+933
+01:34:43.770 --> 01:34:44.470
+Arroyo Arzubi Carlos A.: Bueno.
+
+934
+01:34:45.190 --> 01:34:51.890
+Arroyo Arzubi Carlos A.: yo me reservaría la palabra imposible, ya que es muy dificultoso poder aplicarlo por todo lo que acabo de decir.
+
+935
+01:34:52.730 --> 01:34:56.580
+Arroyo Arzubi Carlos A.: pero sí es lo que 1 quisiera poder hacer
+
+936
+01:34:57.010 --> 01:35:02.270
+Arroyo Arzubi Carlos A.: para, justamente reducir al mínimo la cantidad de fallos de paje?
+
+937
+01:35:03.390 --> 01:35:09.850
+Arroyo Arzubi Carlos A.: Bueno, con las limitaciones que este algoritmo tiene, vamos a mostrar cómo cómo trabaja
+
+938
+01:35:10.380 --> 01:35:13.249
+Arroyo Arzubi Carlos A.: en esta simulación que vamos a hacer.
+
+939
+01:35:14.160 --> 01:35:26.530
+Arroyo Arzubi Carlos A.: Bueno, hablamos sin prepaginación. En este caso podría ser prepaginación. Porque si yo sé que va a venir todo esto, yo podría hacerlo a la prepaginación en este algoritmo en particular.
+
+940
+01:35:26.710 --> 01:35:43.380
+Arroyo Arzubi Carlos A.: Pero, bueno, mantengamos la sin prepaginación, 7 fallo de página, 7, 0, otro fallo de página, 7 0
+
+941
+01:35:43.760 --> 01:35:44.580
+Arroyo Arzubi Carlos A.: y 1.
+
+942
+01:35:46.120 --> 01:35:49.950
+Arroyo Arzubi Carlos A.: Bueno, ahora es cuando empiezo a aplicar el algoritmo.
+
+943
+01:35:50.530 --> 01:35:52.470
+Arroyo Arzubi Carlos A.: ¿cómo aplico el algoritmo?
+
+944
+01:35:53.700 --> 01:35:55.440
+Arroyo Arzubi Carlos A.: Acá? Hay fallo de página.
+
+945
+01:35:56.040 --> 01:36:01.909
+Arroyo Arzubi Carlos A.: La página 2 tiene que entrar. Entonces me fijo el 7.
+
+946
+01:36:02.100 --> 01:36:09.660
+Arroyo Arzubi Carlos A.: Cuando lo voy a necesitar acá en 0, acá y el 1 acá
+
+947
+01:36:10.040 --> 01:36:14.529
+Arroyo Arzubi Carlos A.: es decir, que la página que voy a sacar es la 7,
+
+948
+01:36:14.690 --> 01:36:17.910
+Arroyo Arzubi Carlos A.: porque es la que se va a usar más tardíamente. Acá.
+
+949
+01:36:19.010 --> 01:36:24.550
+Arroyo Arzubi Carlos A.: Entonces saco la 7 7 0, 1.
+
+950
+01:36:25.200 --> 01:36:30.300
+Arroyo Arzubi Carlos A.: Acá no saco nada. Siete. Cero, 1.
+
+951
+01:36:30.660 --> 01:36:34.830
+Arroyo Arzubi Carlos A.: Ahora, otra vez, tengo que aplicar el algoritmo.
+
+952
+01:36:35.110 --> 01:36:40.410
+Arroyo Arzubi Carlos A.: Tres, ¿Siete? Cero y 1 0,
+
+953
+01:36:47.730 --> 01:36:53.429
+Arroyo Arzubi Carlos A.: no para que yo me nadie me dijo nada, por favor
+
+954
+01:36:53.840 --> 01:36:59.699
+Arroyo Arzubi Carlos A.: lo voy a matar. Si yo saco, tengo que poner la página. Dos. Dije que se acaba la 7.
+
+955
+01:36:59.700 --> 01:37:01.280
+LUCAS BONAFFINI: La.
+
+956
+01:37:01.450 --> 01:37:04.169
+Arroyo Arzubi Carlos A.: Y el 0 y el 1.
+
+957
+01:37:04.470 --> 01:37:08.930
+Arroyo Arzubi Carlos A.: Todo dormido está todo duermes ya a esta hora, por favor.
+
+958
+01:37:10.150 --> 01:37:14.580
+Arroyo Arzubi Carlos A.: Bueno, acá no hay fallo de página 0,
+
+959
+01:37:15.160 --> 01:37:22.140
+Arroyo Arzubi Carlos A.: 1. Acá Tengo fallo de página. Tengo que sacar el 2, el 0 o el 1, el 0 está acá.
+
+960
+01:37:23.300 --> 01:37:29.270
+Arroyo Arzubi Carlos A.: El 2 está acá y el 1 está acá. Entonces voy a sacar el 1, 3.
+
+961
+01:37:29.870 --> 01:37:34.499
+Arroyo Arzubi Carlos A.: Cero, 2, acá no tengo fallo de página.
+
+962
+01:37:36.070 --> 01:37:37.130
+Arroyo Arzubi Carlos A.: Uy. ¿qué pasó?
+
+963
+01:37:38.010 --> 01:37:39.160
+Arroyo Arzubi Carlos A.: ¿a dónde me fui?
+
+964
+01:37:47.630 --> 01:37:48.799
+Arroyo Arzubi Carlos A.: No sé que toque.
+
+965
+01:37:50.900 --> 01:37:55.349
+Arroyo Arzubi Carlos A.: Bueno, no hay fallo de página 0,
+
+966
+01:37:55.810 --> 01:38:05.600
+Arroyo Arzubi Carlos A.: Tres acá tengo fallo de página el 4. Tengo que sacar el 2, que está acá el 3 o el 0 que está acá Bueno, el que está más lejos
+
+967
+01:38:05.770 --> 01:38:07.080
+Arroyo Arzubi Carlos A.: es en 0.
+
+968
+01:38:08.770 --> 01:38:12.310
+Arroyo Arzubi Carlos A.: Acá No hay fallo de página, 4,
+
+969
+01:38:12.550 --> 01:38:17.230
+Arroyo Arzubi Carlos A.: 3. Acá No hay fallo de página, 2, 4,
+
+970
+01:38:17.530 --> 01:38:20.279
+Arroyo Arzubi Carlos A.: 3, acá hay fallo de página.
+
+971
+01:38:20.580 --> 01:38:25.990
+Arroyo Arzubi Carlos A.: el 0. Tengo que sacar el 2, el 4 o el 3, el 2, el 3,
+
+972
+01:38:26.210 --> 01:38:30.780
+Arroyo Arzubi Carlos A.: el 4, ya no lo uso más. Entonces, bueno, lo pongo ahí.
+
+973
+01:38:31.330 --> 01:38:33.580
+Arroyo Arzubi Carlos A.: Dos, 3.
+
+974
+01:38:33.830 --> 01:38:43.820
+Arroyo Arzubi Carlos A.: Acá No hay fallo de página. Dos, giro, 3, 2, 0, 3.
+
+975
+01:38:43.950 --> 01:38:51.900
+Arroyo Arzubi Carlos A.: Acá hay fallo de página el 1. Tengo que sacar el 2, no el 0, no el 3. ¿a listo.
+
+976
+01:38:52.060 --> 01:38:53.020
+Arroyo Arzubi Carlos A.: Vamos. Acá.
+
+977
+01:38:56.790 --> 01:39:08.980
+Arroyo Arzubi Carlos A.: Dos, 0, 0, 1, 2, 0, 1, 2, 0,
+
+978
+01:39:10.150 --> 01:39:13.089
+Arroyo Arzubi Carlos A.: 1, fallo de página, el 7
+
+979
+01:39:13.480 --> 01:39:29.770
+Arroyo Arzubi Carlos A.: 0, 1. Entonces viene acá, donde está el 2, 7 0, 1, 7, 0, 1, 7 0.
+
+980
+01:39:32.020 --> 01:39:38.519
+Arroyo Arzubi Carlos A.: Y este que yo no me acordaba es igual. La secuencia es la misma que tenía con fi fock arriba
+
+981
+01:39:39.160 --> 01:39:49.220
+Arroyo Arzubi Carlos A.: y acá arriba. Tenía 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 14, 15, 15,
+
+982
+01:39:49.710 --> 01:39:51.280
+Arroyo Arzubi Carlos A.: fallo de página.
+
+983
+01:39:53.150 --> 01:40:06.850
+Arroyo Arzubi Carlos A.: y este que se lea el mejor mejor que esto. No se puede menos fallo de página. No puedo tener tiene 4, 5, 6, 7, 8, 9, 9, fallo de página.
+
+984
+01:40:09.290 --> 01:40:13.930
+Arroyo Arzubi Carlos A.: Bueno, este es el algoritmo óptimo.
+
+985
+01:40:17.460 --> 01:40:27.870
+Arroyo Arzubi Carlos A.: Bien, vamos a ver otro algoritmo que se llama, y es Resentirly Usep.
+
+986
+01:40:28.110 --> 01:40:47.930
+Arroyo Arzubi Carlos A.: R. U Menos recientemente, usado el algoritmo. List Resenti User utiliza una una pila.
+
+987
+01:40:48.640 --> 01:40:56.369
+Arroyo Arzubi Carlos A.: Y yo digo una pila con cierta reserva porque en todas las bibliografías hablan de la pila, pero es una pila que funciona medio raro.
+
+988
+01:40:56.660 --> 01:41:00.850
+Arroyo Arzubi Carlos A.: Así que este llámenla como quiera.
+
+989
+01:41:01.800 --> 01:41:05.370
+Arroyo Arzubi Carlos A.: pero que tiene, Vamos al ejercicio.
+
+990
+01:41:05.810 --> 01:41:08.420
+Arroyo Arzubi Carlos A.: que es la mejor manera de verlo. Acá. Está
+
+991
+01:41:10.060 --> 01:41:12.799
+Arroyo Arzubi Carlos A.: acá. Tengo Ah, tengo el mismo los mismos datos.
+
+992
+01:41:13.420 --> 01:41:26.750
+Arroyo Arzubi Carlos A.: Bueno, mismo proceso, 3 frame y tiene una pila pida vector, lo que quiera de 3 posiciones.
+
+993
+01:41:28.280 --> 01:41:33.609
+Arroyo Arzubi Carlos A.: Si van a la biografías, la biografía, en realidad esta pila o lo que sea
+
+994
+01:41:33.820 --> 01:41:37.850
+Arroyo Arzubi Carlos A.: en los ejercicios va creciendo y va creciendo y sigue para abajo
+
+995
+01:41:38.780 --> 01:41:44.210
+Arroyo Arzubi Carlos A.: obteniendo el mismo resultado, con lo cual yo lo doy. Así que es más simple.
+
+996
+01:41:44.320 --> 01:41:53.180
+Arroyo Arzubi Carlos A.: no es que hago distinto, sino que lo lo escribo más fácil, digamos con la misma filosofía.
+
+997
+01:41:53.510 --> 01:41:59.189
+Arroyo Arzubi Carlos A.: Digo, por si ver cualquier otro libro de de sistemas operativos.
+
+998
+01:42:00.210 --> 01:42:10.970
+Arroyo Arzubi Carlos A.: Entonces ahora este algoritmo, lo que va a guardar es en esta pila los números de las páginas
+
+999
+01:42:11.080 --> 01:42:12.829
+Arroyo Arzubi Carlos A.: que va utilizando.
+
+1000
+01:42:14.880 --> 01:42:19.369
+Arroyo Arzubi Carlos A.: Y entonces, como el algoritmo es la menos recientemente usada.
+
+1001
+01:42:20.250 --> 01:42:31.169
+Arroyo Arzubi Carlos A.: es decir, que este algoritmo tiene en cuenta exclusivamente el uso no. Cuando entró en este algoritmo, no sabe
+
+1002
+01:42:31.790 --> 01:42:40.329
+Arroyo Arzubi Carlos A.: qué páginas van a venir, que es lo más normal la incertidumbre de saber que nos va a pedir.
+
+1003
+01:42:42.590 --> 01:42:44.459
+Arroyo Arzubi Carlos A.: pero tiene en cuenta el uso.
+
+1004
+01:42:45.500 --> 01:42:47.409
+Arroyo Arzubi Carlos A.: Entonces, ¿cómo funciona?
+
+1005
+01:42:48.870 --> 01:42:53.319
+Arroyo Arzubi Carlos A.: Bueno, tengo un fallo de página
+
+1006
+01:42:54.070 --> 01:42:57.910
+Arroyo Arzubi Carlos A.: cargo. La página en el frame 1
+
+1007
+01:42:58.590 --> 01:43:02.580
+Arroyo Arzubi Carlos A.: y la coloco en la pila, el número de la página.
+
+1008
+01:43:03.810 --> 01:43:14.290
+Arroyo Arzubi Carlos A.: Este algoritmo ocupa memoria con esto de la pila y guardar los números porque vamos a ver.
+
+1009
+01:43:14.680 --> 01:43:21.350
+Arroyo Arzubi Carlos A.: no hoy. Pero la clase que viene algoritmos que trabajan con Bitch.
+
+1010
+01:43:21.510 --> 01:43:24.570
+Arroyo Arzubi Carlos A.: que son más económicos, Pero no importa.
+
+1011
+01:43:25.300 --> 01:43:30.389
+Arroyo Arzubi Carlos A.: Este algoritmo es así? Tiene ese costo de guardar.
+
+1012
+01:43:30.700 --> 01:43:34.270
+Arroyo Arzubi Carlos A.: ocupar un poco más de memoria y trabaja con la pila.
+
+1013
+01:43:34.850 --> 01:43:42.900
+Arroyo Arzubi Carlos A.: Entonces fallo de página. Cargamos la página 0 en el frame 2.
+
+1014
+01:43:43.440 --> 01:43:46.749
+Arroyo Arzubi Carlos A.: ¿y qué hace con la pila acá es donde
+
+1015
+01:43:47.050 --> 01:43:51.959
+Arroyo Arzubi Carlos A.: ven cómo trabaja este algoritmo, que es muy simple.
+
+1016
+01:43:52.680 --> 01:43:57.979
+Arroyo Arzubi Carlos A.: Pongo el 0 arriba y empuja hacia abajo
+
+1017
+01:43:58.800 --> 01:44:01.450
+Arroyo Arzubi Carlos A.: el número que tenía antes. El 7.
+
+1018
+01:44:02.910 --> 01:44:09.720
+Arroyo Arzubi Carlos A.: Luego tiene otra vez fallo de página cargo, la página, 1
+
+1019
+01:44:10.140 --> 01:44:16.090
+Arroyo Arzubi Carlos A.: en el frame 3 y empujo para abajo. Entonces me va a quedar en 1 en 0
+
+1020
+01:44:16.430 --> 01:44:19.210
+Arroyo Arzubi Carlos A.: y el 7 Hasta ahora.
+
+1021
+01:44:19.330 --> 01:44:22.710
+Arroyo Arzubi Carlos A.: No tuve que sacar ninguna página.
+
+1022
+01:44:22.930 --> 01:44:26.900
+Arroyo Arzubi Carlos A.: Es decir, que solamente hicimos la carga inicial, Digamos
+
+1023
+01:44:34.810 --> 01:44:35.870
+Arroyo Arzubi Carlos A.: ahora.
+
+1024
+01:44:36.150 --> 01:44:41.990
+Arroyo Arzubi Carlos A.: Ahora. Sí, tengo fallo de página. Y tengo que sacar
+
+1025
+01:44:42.630 --> 01:44:45.130
+Arroyo Arzubi Carlos A.: acá es donde aplicamos el algoritmo.
+
+1026
+01:44:45.340 --> 01:44:53.549
+Arroyo Arzubi Carlos A.: ¿cómo funciona el algoritmo? Bueno, vamos a ver 2 momentos. Uno cuando hay fallo de página
+
+1027
+01:44:53.780 --> 01:44:58.069
+Arroyo Arzubi Carlos A.: y otro cuando no hay fallo de página, acá. Hay fallo de página.
+
+1028
+01:44:58.200 --> 01:45:01.900
+Arroyo Arzubi Carlos A.: Entonces, ¿qué hace el sistema? Tiene que entrar a la página. Dos.
+
+1029
+01:45:02.560 --> 01:45:07.489
+Arroyo Arzubi Carlos A.: la pongo arriba de la pila y empujo para abajo.
+
+1030
+01:45:09.560 --> 01:45:18.740
+Arroyo Arzubi Carlos A.: ¿y qué página sale la 7? Bueno, ahí pongo la página. Como ven, son algoritmos muy simples
+
+1031
+01:45:19.840 --> 01:45:24.709
+Arroyo Arzubi Carlos A.: y explicado todavía de la manera más simple que se puede menos
+
+1032
+01:45:25.560 --> 01:45:36.449
+Arroyo Arzubi Carlos A.: o más lento. No se puede, como decía, bueno, entonces fallo de página empuje
+
+1033
+01:45:36.670 --> 01:45:39.570
+Arroyo Arzubi Carlos A.: salió el 7 ahí, puse la página.
+
+1034
+01:45:39.790 --> 01:45:43.519
+Arroyo Arzubi Carlos A.: Segunda situación, que es la que se da ahora.
+
+1035
+01:45:43.920 --> 01:45:47.749
+Arroyo Arzubi Carlos A.: No hay fallo de página si no hay fallo de página.
+
+1036
+01:45:48.050 --> 01:45:53.149
+Arroyo Arzubi Carlos A.: no se mueve nada de lo que está grabado en la memoria principal.
+
+1037
+01:45:54.540 --> 01:45:58.629
+Arroyo Arzubi Carlos A.: Pero si en la pila.
+
+1038
+01:45:58.970 --> 01:46:04.689
+Arroyo Arzubi Carlos A.: ¿qué tengo que hacer en la pila, si la que acabo de utilizar es la página 0,
+
+1039
+01:46:04.870 --> 01:46:09.140
+Arroyo Arzubi Carlos A.: la colocó arriba en la página 0 y empujo el otro para abajo.
+
+1040
+01:46:09.270 --> 01:46:14.889
+Arroyo Arzubi Carlos A.: Es decir, que cuando no hay fallo de página, todo queda como está,
+
+1041
+01:46:15.160 --> 01:46:20.860
+Arroyo Arzubi Carlos A.: pero en la pila arriba de todo en la pila, tiene que estar la página que acabo de usar.
+
+1042
+01:46:23.930 --> 01:46:31.280
+Arroyo Arzubi Carlos A.: Sigamos fallo de página 3 no está entonces por abajo, 3,
+
+1043
+01:46:31.730 --> 01:46:36.210
+Arroyo Arzubi Carlos A.: 0, 2, y sale la 1, 3.
+
+1044
+01:46:36.840 --> 01:46:44.370
+Arroyo Arzubi Carlos A.: Cero, 2, ¿ Es decir, que empuje
+
+1045
+01:46:44.840 --> 01:46:48.249
+Arroyo Arzubi Carlos A.: y salió la 1. Y ahí puse la página
+
+1046
+01:46:48.440 --> 01:46:55.370
+Arroyo Arzubi Carlos A.: acá otra vez. No hay fallo de pagina. Entonces esto queda igual, 2, 0, 3.
+
+1047
+01:46:55.470 --> 01:47:03.160
+Arroyo Arzubi Carlos A.: Pero ¿qué tengo que hacer en la pila la página 0 que es la que usé la Pongo Arriba
+
+1048
+01:47:03.530 --> 01:47:12.700
+Arroyo Arzubi Carlos A.: en el tope acá hay fallo de página, 4, 2, 4,
+
+1049
+01:47:12.800 --> 01:47:21.710
+Arroyo Arzubi Carlos A.: o sea, se me empieza a dar vuelta el show fallo de página, empujo 4, 0,
+
+1050
+01:47:22.160 --> 01:47:25.769
+Arroyo Arzubi Carlos A.: 3, cual sale el 2. Entonces, acá.
+
+1051
+01:47:25.940 --> 01:47:28.260
+Arroyo Arzubi Carlos A.: Cero, 3.
+
+1052
+01:47:29.080 --> 01:47:35.700
+Arroyo Arzubi Carlos A.: Acá. Otra vez, fallo de página. El 2, 2, 4,
+
+1053
+01:47:36.110 --> 01:47:40.059
+Arroyo Arzubi Carlos A.: 0 sale el 3. Entonces el 2 viene acá
+
+1054
+01:47:44.620 --> 01:47:49.120
+Arroyo Arzubi Carlos A.: otra vez. Fallo de página, 3, 2,
+
+1055
+01:47:49.750 --> 01:48:01.760
+Arroyo Arzubi Carlos A.: 4 sale el 0. El 3 viene acá 4, 2, Otra vez. Fallo de página 0, 3,
+
+1056
+01:48:02.250 --> 01:48:07.910
+Arroyo Arzubi Carlos A.: 2. Chanel: 4, Cero, 3, 2.
+
+1057
+01:48:09.180 --> 01:48:12.029
+Arroyo Arzubi Carlos A.: Ahora no hay fallo de página. Quede igual.
+
+1058
+01:48:12.210 --> 01:48:21.230
+Arroyo Arzubi Carlos A.: Cero, 3, 2 y el 3. Lo pongo. Arriba, 3, 0.
+
+1059
+01:48:21.580 --> 01:48:30.990
+Arroyo Arzubi Carlos A.: Dos, no hay fallo de página. Cero, 3, 2, el Do, lo pongo arriba.
+
+1060
+01:48:31.110 --> 01:48:33.260
+Arroyo Arzubi Carlos A.: Dos, 3.
+
+1061
+01:48:34.040 --> 01:48:34.970
+Arroyo Arzubi Carlos A.: Cero.
+
+1062
+01:48:35.990 --> 01:48:37.800
+Arroyo Arzubi Carlos A.: Aquí hay fallo de página.
+
+1063
+01:48:37.940 --> 01:48:46.230
+Arroyo Arzubi Carlos A.: Uno, 2, 3 sale en 0, va Acá 3, 2,
+
+1064
+01:48:50.440 --> 01:48:57.400
+Arroyo Arzubi Carlos A.: Acá no hay fallo de página. Entonces me queda 1, 3, 2,
+
+1065
+01:48:57.540 --> 01:48:59.840
+Arroyo Arzubi Carlos A.: y el do va a ir arriba. Dos.
+
+1066
+01:49:00.910 --> 01:49:01.890
+Arroyo Arzubi Carlos A.: Uno.
+
+1067
+01:49:02.660 --> 01:49:06.559
+Arroyo Arzubi Carlos A.: Cris acá hay fallo de página.
+
+1068
+01:49:07.260 --> 01:49:13.009
+Arroyo Arzubi Carlos A.: Cero, 2, 1, y en el 3.
+
+1069
+01:49:14.520 --> 01:49:21.490
+Arroyo Arzubi Carlos A.: Ahí sale acá. No hay fallo de página. Uno, 0, 2
+
+1070
+01:49:21.760 --> 01:49:24.270
+Arroyo Arzubi Carlos A.: y el 1 lo pongo. Arriba. Uno.
+
+1071
+01:49:25.320 --> 01:49:31.910
+Arroyo Arzubi Carlos A.: Cero, 2, fallo de página, 7.
+
+1072
+01:49:32.320 --> 01:49:37.740
+Arroyo Arzubi Carlos A.: Uno 0 sale el 2, ¿Siete?
+
+1073
+01:49:38.030 --> 01:49:39.090
+Arroyo Arzubi Carlos A.: Cero.
+
+1074
+01:49:41.100 --> 01:49:45.050
+Arroyo Arzubi Carlos A.: Acá. No hay fallo de página, 1 0,
+
+1075
+01:49:45.710 --> 01:49:49.320
+Arroyo Arzubi Carlos A.: 7, y el 0 Lo pongo arriba.
+
+1076
+01:49:52.520 --> 01:49:59.150
+Arroyo Arzubi Carlos A.: y acá no hay fallo de página, 1 0, ¿Siete?
+
+1077
+01:49:59.380 --> 01:50:06.020
+Arroyo Arzubi Carlos A.: Y pongo 1 0 y 7.
+
+1078
+01:50:08.470 --> 01:50:23.510
+Arroyo Arzubi Carlos A.: Bueno, como ven, este algoritmo también es muy sencillo y tienen como finalidad ya sacar el menos recientemente usado
+
+1079
+01:50:24.210 --> 01:50:34.879
+Arroyo Arzubi Carlos A.: con eso, con esta pila. Fíjense que acá le va a quedar abajo. Esto que está acá va a ser igual a lo que van a tener acá. Arriba.
+
+1080
+01:50:35.390 --> 01:50:37.040
+Arroyo Arzubi Carlos A.: Pero bueno, eso es lo de menos.
+
+1081
+01:50:37.150 --> 01:50:39.020
+Arroyo Arzubi Carlos A.: Este es el algoritmo.
+
+1082
+01:50:39.720 --> 01:50:43.990
+Arroyo Arzubi Carlos A.: List, resentir y uso.
+
+1083
+01:50:47.550 --> 01:51:01.070
+Arroyo Arzubi Carlos A.: Bueno, otro algoritmo, y es el último que vamos a ver. Ahora se llama algoritmo de aproximación.
+
+1084
+01:51:01.510 --> 01:51:12.850
+Arroyo Arzubi Carlos A.: Lish Resfrintry, y es el algoritmo de aproximación. Life Presenting Usher.
+
+1085
+01:51:13.990 --> 01:51:19.930
+Arroyo Arzubi Carlos A.: Es decir, tiene que ver con esto, pero se llama de aproximación.
+
+1086
+01:51:20.420 --> 01:51:26.080
+Arroyo Arzubi Carlos A.: porque es más económico que éste, en vez de tener una pila donde guarda los números.
+
+1087
+01:51:28.190 --> 01:51:29.899
+Arroyo Arzubi Carlos A.: vamos a la pizarra.
+
+1088
+01:51:33.040 --> 01:51:34.640
+Arroyo Arzubi Carlos A.: lo que hace.
+
+1089
+01:51:34.640 --> 01:51:37.460
+LUCAS BONAFFINI: Se llama igual el Profe que el de.
+
+1090
+01:51:37.460 --> 01:51:38.000
+Arroyo Arzubi Carlos A.: No.
+
+1091
+01:51:38.340 --> 01:51:40.009
+LUCAS BONAFFINI: Se llama igual.
+
+1092
+01:51:40.010 --> 01:51:41.270
+Arroyo Arzubi Carlos A.: Pero se llama.
+
+1093
+01:51:41.490 --> 01:51:47.410
+Arroyo Arzubi Carlos A.: Se llama algoritmo de aproximación, es decir, es una variante.
+
+1094
+01:51:48.080 --> 01:51:50.190
+LUCAS BONAFFINI: es una variante del lest wrestleting.
+
+1095
+01:51:50.190 --> 01:51:52.280
+Arroyo Arzubi Carlos A.: De este más económica.
+
+1096
+01:51:52.430 --> 01:51:53.389
+LUCAS BONAFFINI: okay.
+
+1097
+01:51:53.610 --> 01:52:02.390
+Arroyo Arzubi Carlos A.: Es decir, en vez de tener una pila con todos los números, dice, mirá. También se puede hacer esto, que es lo que voy a mostrar ahora. Por eso se llama de aproximación.
+
+1098
+01:52:02.600 --> 01:52:14.100
+Arroyo Arzubi Carlos A.: Supongamos que acá. Tenemos la No, Este No supongamos la página, la página, Uno: la página, Seis.
+
+1099
+01:52:15.820 --> 01:52:17.770
+Arroyo Arzubi Carlos A.: la página, 7.
+
+1100
+01:52:18.640 --> 01:52:23.680
+Arroyo Arzubi Carlos A.: Bueno, Bueno, vamos a hacerlo con 3 páginas, porque es suficiente.
+
+1101
+01:52:24.200 --> 01:52:27.799
+Arroyo Arzubi Carlos A.: Estas 3 páginas están cargadas en la memoria principal.
+
+1102
+01:52:28.710 --> 01:52:32.480
+Arroyo Arzubi Carlos A.: Y lo que hace el sistema es asociar
+
+1103
+01:52:32.970 --> 01:52:38.670
+Arroyo Arzubi Carlos A.: a cada una de estas páginas una cantidad de bits determinado.
+
+1104
+01:52:39.160 --> 01:52:46.370
+Arroyo Arzubi Carlos A.: Por ejemplo, 6, Big Diezbit, 12. Vip, lo que sea, pero bits.
+
+1105
+01:52:47.030 --> 01:52:52.970
+Arroyo Arzubi Carlos A.: vamos a hacerlo fácil. Supongamos que asigna 6 bits a cada 1.
+
+1106
+01:52:56.080 --> 01:52:57.989
+Arroyo Arzubi Carlos A.: Entonces voy a tener, acá.
+
+1107
+01:53:02.340 --> 01:53:06.389
+Arroyo Arzubi Carlos A.: Obviamente todos tienen que tener la misma cantidad de bits.
+
+1108
+01:53:09.880 --> 01:53:17.329
+Arroyo Arzubi Carlos A.: Entonces, ¿qué hace el el sistema? ¿cómo trabaja? Supongamos que arrancamos ahora y se usa la página. Uno
+
+1109
+01:53:18.310 --> 01:53:24.029
+Arroyo Arzubi Carlos A.: se usa la página. Uno le pone 1 acá 0 acá
+
+1110
+01:53:24.920 --> 01:53:32.290
+Arroyo Arzubi Carlos A.: y 0. Acá ¿Qué quiere decir que se ha usado la página. Uno recuerden que es una aproximación
+
+1111
+01:53:32.550 --> 01:53:41.580
+Arroyo Arzubi Carlos A.: del menos. Recientemente usado próxima situación, se utiliza la página. Seis.
+
+1112
+01:53:42.960 --> 01:53:46.570
+Arroyo Arzubi Carlos A.: Estos se corren a la derecha.
+
+1113
+01:53:48.030 --> 01:53:50.730
+Arroyo Arzubi Carlos A.: ¿qué digo allí?
+
+1114
+01:53:51.490 --> 01:53:52.460
+Arroyo Arzubi Carlos A.: Así?
+
+1115
+01:53:53.430 --> 01:53:54.310
+Arroyo Arzubi Carlos A.: sí.
+
+1116
+01:54:05.950 --> 01:54:09.600
+Arroyo Arzubi Carlos A.: Es decir, se corrieron una posición
+
+1117
+01:54:09.810 --> 01:54:12.230
+Arroyo Arzubi Carlos A.: a medida que se van ejecutando.
+
+1118
+01:54:12.550 --> 01:54:17.149
+Arroyo Arzubi Carlos A.: Ahora, supongamos que se ejecuta la página 7.
+
+1119
+01:54:17.550 --> 01:54:23.290
+Arroyo Arzubi Carlos A.: Bueno, entonces todo se corre a la derecha, 1 0.
+
+1120
+01:54:24.150 --> 01:54:25.190
+Arroyo Arzubi Carlos A.: Cero.
+
+1121
+01:54:26.540 --> 01:54:27.230
+Arroyo Arzubi Carlos A.: Mhm.
+
+1122
+01:54:41.760 --> 01:54:47.360
+Arroyo Arzubi Carlos A.: Bueno, y así sigo, obviamente, qué información va a mantener
+
+1123
+01:54:47.800 --> 01:54:54.160
+Arroyo Arzubi Carlos A.: y va a mantener Si yo le doy 6 bits hasta 6 cambios de página.
+
+1124
+01:54:54.590 --> 01:54:58.149
+Arroyo Arzubi Carlos A.: Si le doy más. Bit, voy a tener más información.
+
+1125
+01:54:58.390 --> 01:55:01.939
+Arroyo Arzubi Carlos A.: Bueno, supongamos que nos manejamos con esto.
+
+1126
+01:55:02.130 --> 01:55:05.430
+Arroyo Arzubi Carlos A.: Entonces yo tengo que traer una página. Ahora.
+
+1127
+01:55:05.620 --> 01:55:09.090
+Arroyo Arzubi Carlos A.: yo tengo que traer la página 20.
+
+1128
+01:55:09.350 --> 01:55:15.149
+Arroyo Arzubi Carlos A.: ¿qué hace el sistema se fija? ¿cuál tiene el número binario más chico?
+
+1129
+01:55:15.580 --> 01:55:20.929
+Arroyo Arzubi Carlos A.: Fíjense que acá formamos un número con los ceros y los 1.
+
+1130
+01:55:22.600 --> 01:55:23.670
+Arroyo Arzubi Carlos A.: Bueno.
+
+1131
+01:55:23.850 --> 01:55:38.540
+Arroyo Arzubi Carlos A.: entonces es muy simple, porque yo voy a tomar la página con el número más chico. Es Esta es la que se usó hace más tiempo. Y estas que están acá son las más las
+
+1132
+01:55:39.330 --> 01:55:40.700
+Arroyo Arzubi Carlos A.: y.
+
+1133
+01:55:41.150 --> 01:55:42.430
+MATEO CAMILLETTI: Los síntomas visuales.
+
+1134
+01:55:42.710 --> 01:55:43.790
+LUCAS BONAFFINI: Más recientes.
+
+1135
+01:55:44.630 --> 01:55:51.189
+Arroyo Arzubi Carlos A.: La más reciente usadas son estas que tienen número maradonal y las menos recientemente usadas son las que tienen número más chico.
+
+1136
+01:55:51.500 --> 01:56:08.030
+Arroyo Arzubi Carlos A.: es decir, que es una forma más económica de hacer el algoritmo, menos recientemente usada se entendió bien.
+
+1137
+01:56:08.030 --> 01:56:11.059
+FRANCO EMMANUEL SICARDO: Claro, no me quedó claro el número más grande, entonces toma.
+
+1138
+01:56:11.580 --> 01:56:13.089
+Arroyo Arzubi Carlos A.: No, no el más chico.
+
+1139
+01:56:15.510 --> 01:56:21.519
+Arroyo Arzubi Carlos A.: Fíjate acá en este ejemplo. Yo use la primero la página, 1 después la 6 y después la 7.
+
+1140
+01:56:23.150 --> 01:56:29.240
+Arroyo Arzubi Carlos A.: ¿cuál es la que hace más tiempo que no uso esta
+
+1141
+01:56:30.320 --> 01:56:30.680
+FRANCO EMMANUEL SICARDO: Lo que.
+
+1142
+01:56:30.680 --> 01:56:31.170
+Arroyo Arzubi Carlos A.: Es el.
+
+1143
+01:56:31.170 --> 01:56:32.839
+FRANCO EMMANUEL SICARDO: Más recientemente usado.
+
+1144
+01:56:34.400 --> 01:56:37.369
+Arroyo Arzubi Carlos A.: No menos recientemente usados, yo dije más.
+
+1145
+01:56:38.790 --> 01:56:39.980
+Arroyo Arzubi Carlos A.: Sí, dije, no me equivoqué.
+
+1146
+01:56:39.980 --> 01:56:40.600
+FRANCO EMMANUEL SICARDO: Son al propio.
+
+1147
+01:56:40.600 --> 01:56:47.510
+Arroyo Arzubi Carlos A.: Yo dije todo mal. Entonces tengo que empezar de vuelta a la clase menos recientemente usada.
+
+1148
+01:56:48.420 --> 01:56:50.109
+Arroyo Arzubi Carlos A.: Fíjate que en la pila.
+
+1149
+01:56:50.360 --> 01:57:01.039
+Arroyo Arzubi Carlos A.: la íbamos poniendo la la poníamos lejos de la base a las que son usadas, es decir, que las que quedaban en la base eran las que menos recientemente se habían usado
+
+1150
+01:57:01.740 --> 01:57:10.930
+Arroyo Arzubi Carlos A.: entonces de éstas. Fíjense que es muy claro que la que se usó hace más tiempo es peso. Uno.
+
+1151
+01:57:13.660 --> 01:57:17.680
+Arroyo Arzubi Carlos A.: bueno, coincide con el número binario, que es el más chico.
+
+1152
+01:57:18.230 --> 01:57:23.240
+Arroyo Arzubi Carlos A.: Cuanto más adelante tenga el 1, más grande es el número sí
+
+1153
+01:57:27.080 --> 01:57:27.910
+Arroyo Arzubi Carlos A.: se entendió.
+
+1154
+01:57:27.910 --> 01:57:32.250
+FRANCO EMMANUEL SICARDO: Y siempre te va a dar en este caso 3 procesos, pero siempre te va a dar.
+
+1155
+01:57:32.250 --> 01:57:38.010
+Arroyo Arzubi Carlos A.: No, no, no, no, no, no, no. Vos podés tener la cantidad de procesos que quieras
+
+1156
+01:57:38.550 --> 01:57:41.460
+Arroyo Arzubi Carlos A.: y poder definir la cantidad de bits que quiera.
+
+1157
+01:57:41.780 --> 01:57:51.190
+Arroyo Arzubi Carlos A.: Pero al momento de sacar, te vas a aplicar el que tenga el número binario más chico podés tener.
+
+1158
+01:57:51.190 --> 01:58:03.049
+FRANCO EMMANUEL SICARDO: Me puede quedar, por ejemplo, en una página, en una columna proceso, 1 1, proceso, 6, 1, proceso, 7, 0, solamente una sola página. Se ejecuta por B, digamos.
+
+1159
+01:58:03.050 --> 01:58:08.390
+Arroyo Arzubi Carlos A.: Sí, sí, porque el proceso va ejecutando una página
+
+1160
+01:58:08.650 --> 01:58:19.679
+Arroyo Arzubi Carlos A.: fijate que todos los ejercicios que hablamos, Y cuando hablamos de reemplazo de página y todo y y compaginación. Siempre trabaja sobre unas direcciones.
+
+1161
+01:58:20.720 --> 01:58:23.119
+Arroyo Arzubi Carlos A.: y esas direcciones están en una página.
+
+1162
+01:58:23.250 --> 01:58:26.660
+Arroyo Arzubi Carlos A.: Siempre va a ser una página ¿sí?
+
+1163
+01:58:26.870 --> 01:58:28.709
+Arroyo Arzubi Carlos A.: No va a trabajar sobre 2.
+
+1164
+01:58:29.030 --> 01:58:29.930
+Arroyo Arzubi Carlos A.: ¿sí?
+
+1165
+01:58:36.470 --> 01:58:45.720
+Arroyo Arzubi Carlos A.: Bien, bueno, vamos a dejar Acá porque yo tengo algunas cuestiones.
+
+1166
+01:58:46.300 --> 01:58:52.599
+Arroyo Arzubi Carlos A.: Y la clase que viene. Vamos a terminar de ver algunos algoritmos más
+
+1167
+01:58:53.830 --> 01:59:07.650
+Arroyo Arzubi Carlos A.: y vamos a hacer algunos problemas de cálculos en el sentido de determinar y para determinados procesos y
+
+1168
+01:59:07.940 --> 01:59:24.319
+Arroyo Arzubi Carlos A.: cuántas páginas necesita que memoria ocupa que fragmentación produce Bueno, alguno. Algo hicimos con paginación que vimos un par de ejercicios? Bueno, de acá vamos a ver
+
+1169
+01:59:25.190 --> 01:59:31.390
+Arroyo Arzubi Carlos A.: algunos otros donde, aplicando
+
+1170
+01:59:32.150 --> 01:59:38.920
+Arroyo Arzubi Carlos A.: los distintos tipos de administración de memoria que hemos visto, no solamente los de memoria virtual.
+
+1171
+01:59:39.110 --> 01:59:49.199
+Arroyo Arzubi Carlos A.: si no, ahora que tenemos todo el conocimiento de los distintos tipos de memoria. Bueno, va a haber
+
+1172
+01:59:49.580 --> 01:59:56.140
+Arroyo Arzubi Carlos A.: ejercicios de eso y vamos a terminar también de verlos aparte de los algoritmos.
+
+1173
+01:59:56.810 --> 02:00:03.359
+Arroyo Arzubi Carlos A.: Vamos a ver cómo hace el sistema operativo para asignar los frames.
+
+1174
+02:00:04.290 --> 02:00:20.639
+Arroyo Arzubi Carlos A.: los procesos, es decir, ¿de qué manera lo hace si le da en cualquier lugar, si le da siempre en el mismo lugar, si a todos les da lo mismo si lo hace proporcional. Es decir, vamos a ver distintas formas en que el sistema operativo puede hacer
+
+1175
+02:00:20.780 --> 02:00:26.099
+Arroyo Arzubi Carlos A.: la administración de asignar los frames a los procesos.
+
+1176
+02:00:26.580 --> 02:00:30.710
+Arroyo Arzubi Carlos A.: Lo que sí vimos hoy, que.
+
+1177
+02:00:31.550 --> 02:00:33.949
+Arroyo Arzubi Carlos A.: como conclusión de lo que vimos hoy.
+
+1178
+02:00:34.770 --> 02:00:40.040
+Arroyo Arzubi Carlos A.: memoria virtual, creo que se entendió porque es simple, pero sí
+
+1179
+02:00:40.470 --> 02:00:47.970
+Arroyo Arzubi Carlos A.: me interesa que les quede que es importante reducir los fallos de página
+
+1180
+02:00:48.740 --> 02:00:53.790
+Arroyo Arzubi Carlos A.: por el peso que tienen en la fórmula que se ve
+
+1181
+02:00:53.990 --> 02:00:58.730
+Arroyo Arzubi Carlos A.: en el en tirar para atrás la performance de un sistema.
+
+1182
+02:00:59.280 --> 02:01:05.489
+Arroyo Arzubi Carlos A.: Entonces, para bajar esa cantidad de fallos de página. Hoy
+
+1183
+02:01:05.620 --> 02:01:09.840
+Arroyo Arzubi Carlos A.: hablamos de el número 2 de la fórmula.
+
+1184
+02:01:10.820 --> 02:01:20.460
+Arroyo Arzubi Carlos A.: Hablamos de la probabilidad y estamos implementando distintos algoritmos que se utilizan
+
+1185
+02:01:21.000 --> 02:01:26.890
+Arroyo Arzubi Carlos A.: para con ese objetivo reducir la cantidad de fallos de página.
+
+1186
+02:01:28.270 --> 02:01:33.190
+Arroyo Arzubi Carlos A.: Bueno, yo voy a pasar lista Mientras tanto. Ustedes piensen
+
+1187
+02:01:34.270 --> 02:01:37.349
+Arroyo Arzubi Carlos A.: a ver ¿Qué pregunta quieren hacer de.
+
+1188
+02:01:38.150 --> 02:01:38.890
+Arroyo Arzubi Carlos A.: Que no se va.
+
+1189
+02:01:39.490 --> 02:01:51.619
+LUCAS BONAFFINI: Perdón. En realidad era más que nada saber si el excel recién que estuvimos viendo estuvi estuviste mostrando los algoritmos. Si solo puedes subir al al Blackboard para poder tenerlos.
+
+1190
+02:01:52.710 --> 02:01:57.360
+Arroyo Arzubi Carlos A.: Bueno, a pesar de que no lo he terminado de desarrollar, se lo puedo poner todo y
+
+1191
+02:01:57.500 --> 02:02:03.090
+Arroyo Arzubi Carlos A.: y ustedes después vean lo que quieran, Si quieren ver lo que viene.
+
+1192
+02:02:03.570 --> 02:02:07.129
+Arroyo Arzubi Carlos A.: que es lo que voy a completar la clase que viene. Sí, ¿de acuerdo?
+
+1193
+02:02:07.510 --> 02:02:10.079
+LUCAS BONAFFINI: Sí. Si si se puede, si no hay problema como.
+
+1194
+02:02:10.080 --> 02:02:13.690
+Arroyo Arzubi Carlos A.: No hay ningún secreto si se van a enterar ahora o la clase que viene. Así que.
+
+1195
+02:02:13.690 --> 02:02:16.740
+LUCAS BONAFFINI: Claro. Ya venimos preparado así no nos agarras con ninguna favorece.
+
+1196
+02:02:17.100 --> 02:02:18.260
+LUCAS BONAFFINI: Sí.
+
+1197
+02:02:18.300 --> 02:02:19.570
+Arroyo Arzubi Carlos A.: Bueno, Bye.
+
+1198
+02:02:19.570 --> 02:02:20.240
+LUCAS BONAFFINI: Gracias.
+
+1199
+02:02:20.890 --> 02:02:21.420
+MANUEL BAEZ: Presente, de.
+
+1200
+02:02:21.420 --> 02:02:22.090
+Arroyo Arzubi Carlos A.: Celular.
+
+1201
+02:02:22.750 --> 02:02:24.700
+Arroyo Arzubi Carlos A.: Vale, per perdón. Está.
+
+1202
+02:02:24.700 --> 02:02:25.590
+MANUEL BAEZ: Y acá estoy.
+
+1203
+02:02:29.540 --> 02:02:31.010
+Arroyo Arzubi Carlos A.: Barro Valenti.
+
+1204
+02:02:32.160 --> 02:02:33.270
+MÁXIMO BARROS VALENTI: Acá profe.
+
+1205
+02:02:35.990 --> 02:02:38.329
+Arroyo Arzubi Carlos A.: Basili, Basilico, Matías.
+
+1206
+02:02:38.330 --> 02:02:39.620
+MATIAS BASILICO: Me siento Profe.
+
+1207
+02:02:42.010 --> 02:02:43.670
+Arroyo Arzubi Carlos A.: Bertín y Agostina
+
+1208
+02:02:51.520 --> 02:02:53.170
+Arroyo Arzubi Carlos A.: Bonafin y Lucas.
+
+1209
+02:02:53.940 --> 02:02:54.450
+LUCAS BONAFFINI: No.
+
+1210
+02:02:54.450 --> 02:02:55.390
+Arroyo Arzubi Carlos A.: Sí, claro.
+
+1211
+02:02:55.390 --> 02:02:55.930
+LUCAS BONAFFINI: Mhm.
+
+1212
+02:02:57.660 --> 02:02:59.510
+Arroyo Arzubi Carlos A.: Camilletti, Mateo.
+
+1213
+02:02:59.680 --> 02:03:00.450
+MATEO CAMILLETTI: Dónde.
+
+1214
+02:03:03.390 --> 02:03:04.750
+Arroyo Arzubi Carlos A.: Aquí. Sánchez.
+
+1215
+02:03:05.250 --> 02:03:06.709
+MARIA CANQUIS SANCHEZ: Presente, profe.
+
+1216
+02:03:07.090 --> 02:03:11.109
+Arroyo Arzubi Carlos A.: Bueno, Casco Lucas.
+
+1217
+02:03:11.940 --> 02:03:13.010
+Lucas LUCAS CASCO: Presente, profe.
+
+1218
+02:03:15.730 --> 02:03:17.189
+Arroyo Arzubi Carlos A.: Castaño Álvarez.
+
+1219
+02:03:17.500 --> 02:03:18.630
+MATIAS SEBASTIAN CASTAÑO ALVAREZ: El presente.
+
+1220
+02:03:21.730 --> 02:03:23.589
+Arroyo Arzubi Carlos A.: Córdoba, Carlos Ama.
+
+1221
+02:03:23.850 --> 02:03:24.880
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Presente.
+
+1222
+02:03:27.590 --> 02:03:29.439
+Arroyo Arzubi Carlos A.: Gaurat, Francisco.
+
+1223
+02:03:29.440 --> 02:03:30.330
+FRANCISCO DAURAT: Presente en.
+
+1224
+02:03:33.320 --> 02:03:34.130
+Arroyo Arzubi Carlos A.: Dos.
+
+1225
+02:03:34.630 --> 02:03:36.110
+TOMÁS DODDS SCHAEFER: Presente profesor.
+
+1226
+02:03:38.700 --> 02:03:40.260
+Arroyo Arzubi Carlos A.: Echeverri gaspar
+
+1227
+02:03:48.560 --> 02:03:50.430
+Arroyo Arzubi Carlos A.: fragaron.
+
+1228
+02:03:50.430 --> 02:03:51.020
+ARON FRAGA: De a.
+
+1229
+02:03:53.590 --> 02:03:54.920
+Arroyo Arzubi Carlos A.: Gómez Deán
+
+1230
+02:04:03.310 --> 02:04:05.030
+Arroyo Arzubi Carlos A.: cámara Jacobo.
+
+1231
+02:04:05.740 --> 02:04:06.750
+JACOBO BRIAN HAMBRA: Presidente, acaba.
+
+1232
+02:04:09.550 --> 02:04:11.110
+Arroyo Arzubi Carlos A.: Ledesma, castillo.
+
+1233
+02:04:11.810 --> 02:04:12.680
+ALEJANDRO LEDESMA CASTILLO: Presente.
+
+1234
+02:04:15.770 --> 02:04:17.050
+Arroyo Arzubi Carlos A.: Malagrino
+
+1235
+02:04:26.360 --> 02:04:27.770
+Arroyo Arzubi Carlos A.: orlandini.
+
+1236
+02:04:28.690 --> 02:04:29.860
+Emanuel CARLOS ORLANDINI: Presente, profe.
+
+1237
+02:04:32.450 --> 02:04:33.830
+Arroyo Arzubi Carlos A.: Orcis, Osmick.
+
+1238
+02:04:33.830 --> 02:04:35.109
+MARIA ELISA ORTIZ OSMIK: Presente, profe.
+
+1239
+02:04:38.980 --> 02:04:40.790
+Arroyo Arzubi Carlos A.: Veranit Landaburu
+
+1240
+02:04:47.380 --> 02:04:50.760
+Arroyo Arzubi Carlos A.: oye que no viene más Pereyra maldonado.
+
+1241
+02:04:51.020 --> 02:04:52.529
+ANDRÉS PEREIRA MALDONADO: Vas a andar por Facebook.
+
+1242
+02:04:56.010 --> 02:04:57.799
+Arroyo Arzubi Carlos A.: Pie? Montés? Gigante.
+
+1243
+02:05:00.090 --> 02:05:00.990
+Arroyo Arzubi Carlos A.: Sí.
+
+1244
+02:05:01.120 --> 02:05:02.949
+DANTE PIEMONTESI: Presente profe presente.
+
+1245
+02:05:05.180 --> 02:05:07.189
+Arroyo Arzubi Carlos A.: Pisurno Duarte.
+
+1246
+02:05:07.190 --> 02:05:08.340
+ALEXANDER EMANUEL PIZZURNO DUARTE: Presente, profe.
+
+1247
+02:05:11.150 --> 02:05:12.650
+Arroyo Arzubi Carlos A.: Sales. Mateo.
+
+1248
+02:05:21.800 --> 02:05:25.670
+Arroyo Arzubi Carlos A.: Ricardo Franco: Sí.
+
+1249
+02:05:25.670 --> 02:05:26.740
+FRANCO EMMANUEL SICARDO: Nada. Profe.
+
+1250
+02:05:28.170 --> 02:05:29.770
+Arroyo Arzubi Carlos A.: Soler Federico.
+
+1251
+02:05:30.150 --> 02:05:31.140
+FEDERICO SOLER: Presente.
+
+1252
+02:05:35.480 --> 02:05:43.139
+Arroyo Arzubi Carlos A.: Saucher, Tomás, a ver si no viene mal un María José.
+
+1253
+02:05:43.920 --> 02:05:45.370
+JOSE UMERE: Represente profe.
+
+1254
+02:05:45.720 --> 02:05:48.099
+Arroyo Arzubi Carlos A.: Bien Valle Figueroa.
+
+1255
+02:05:48.720 --> 02:05:49.590
+MARCOS VALLE FIGUEROA: Presente.
+
+1256
+02:05:52.920 --> 02:05:54.010
+Arroyo Arzubi Carlos A.: De oro.
+
+1257
+02:05:54.300 --> 02:05:55.460
+TEODORO WELYCZKO: Presente.
+
+1258
+02:06:02.870 --> 02:06:04.370
+Arroyo Arzubi Carlos A.: Wilf tobias.
+
+1259
+02:06:04.370 --> 02:06:06.080
+TOBÍAS WIRTH: Presente.
+
+1260
+02:06:08.690 --> 02:06:10.870
+Arroyo Arzubi Carlos A.: Dinino Joaquín.
+
+1261
+02:06:10.870 --> 02:06:11.780
+JOAQUIN DININNO: Presente.
+
+1262
+02:06:16.070 --> 02:06:18.710
+Arroyo Arzubi Carlos A.: Bueno.
+
+1263
+02:06:18.930 --> 02:06:19.750
+JOAQUÍN MULEIRO BELTRAN: Profe.
+
+1264
+02:06:20.050 --> 02:06:20.419
+Arroyo Arzubi Carlos A.: Sí, no me.
+
+1265
+02:06:20.700 --> 02:06:21.420
+JOAQUÍN MULEIRO BELTRAN: Me parece.
+
+1266
+02:06:25.730 --> 02:06:26.800
+Arroyo Arzubi Carlos A.: Muleiro.
+
+1267
+02:06:28.450 --> 02:06:29.650
+JHARID GARCIA ESCALERA: A mí también. Broth.
+
+1268
+02:06:30.360 --> 02:06:32.790
+Arroyo Arzubi Carlos A.: Ah tenés ausente. Moleiro.
+
+1269
+02:06:36.470 --> 02:06:37.460
+JOAQUÍN MULEIRO BELTRAN: Cuando hoy.
+
+1270
+02:06:37.740 --> 02:06:38.460
+Arroyo Arzubi Carlos A.: Sí.
+
+1271
+02:06:38.880 --> 02:06:40.829
+JOAQUÍN MULEIRO BELTRAN: porque entre tarde.
+
+1272
+02:06:41.080 --> 02:06:41.780
+Arroyo Arzubi Carlos A.: Sí.
+
+1273
+02:06:42.000 --> 02:06:42.620
+JOAQUÍN MULEIRO BELTRAN: Bueno.
+
+1274
+02:06:44.240 --> 02:06:45.680
+Arroyo Arzubi Carlos A.: Te llamé para oral.
+
+1275
+02:06:47.010 --> 02:06:49.300
+JOAQUÍN MULEIRO BELTRAN: Sí, perdón. Tuve un problema. En el caso.
+
+1276
+02:06:51.030 --> 02:06:55.759
+Arroyo Arzubi Carlos A.: Bueno alguna pregunta de lo que hemos visto
+
+1277
+02:06:56.130 --> 02:07:00.500
+Arroyo Arzubi Carlos A.: que no se puedan ir a dormir, que los tenga impaciente.
+
+1278
+02:07:01.270 --> 02:07:02.790
+FRANCO EMMANUEL SICARDO: De qué cuadro es Profe.
+
+1279
+02:07:03.390 --> 02:07:04.430
+Arroyo Arzubi Carlos A.: De River.
+
+1280
+02:07:05.450 --> 02:07:07.529
+FRANCO EMMANUEL SICARDO: Entonces yo ya estoy aprobado, Me imagino.
+
+1281
+02:07:07.800 --> 02:07:10.720
+Arroyo Arzubi Carlos A.: Por supuesto, me avisan quienes son los de river.
+
+1282
+02:07:11.560 --> 02:07:13.390
+LUCAS BONAFFINI: Algo. Molenita. Entonces, ¿qué bien.
+
+1283
+02:07:13.390 --> 02:07:14.450
+Arroyo Arzubi Carlos A.: Me avisa.
+
+1284
+02:07:14.450 --> 02:07:16.110
+LUCAS BONAFFINI: Sí.
+
+1285
+02:07:16.350 --> 02:07:20.269
+Arroyo Arzubi Carlos A.: Lo de boca. También me avisan que voy a tener una atención para ellos.
+
+1286
+02:07:20.730 --> 02:07:22.710
+FRANCO EMMANUEL SICARDO: Un par de puntos más en el examen. Por favor.
+
+1287
+02:07:22.710 --> 02:07:28.010
+Arroyo Arzubi Carlos A.: Mhm: Pero no soy fanático, pero sí soy de River.
+
+1288
+02:07:29.150 --> 02:07:29.780
+Arroyo Arzubi Carlos A.: Bueno.
+
+1289
+02:07:29.780 --> 02:07:30.620
+LUCAS BONAFFINI: Vamos, vamos.
+
+1290
+02:07:31.720 --> 02:07:42.010
+Arroyo Arzubi Carlos A.: Entonces nada, si les parece, nos vemos la clase que viene el hacemos el repaso completamos esta unidad
+
+1291
+02:07:42.890 --> 02:07:48.589
+Arroyo Arzubi Carlos A.: y bueno, las dudas que van teniendo las van planteando, pero vamos bien con la materia porque no hemos tenido ningún feriado
+
+1292
+02:07:49.620 --> 02:07:50.670
+Arroyo Arzubi Carlos A.: este.
+
+1293
+02:07:50.670 --> 02:07:51.250
+LUCAS BONAFFINI: En serio.
+
+1294
+02:07:51.250 --> 02:07:57.320
+Arroyo Arzubi Carlos A.: Que en general, siempre tengo 1 o 2 feriados, y este año no cayó ninguno, con lo cual estamos
+
+1295
+02:07:57.620 --> 02:08:00.339
+Arroyo Arzubi Carlos A.: estamos bien con con los tiempos.
+
+1296
+02:08:00.860 --> 02:08:04.360
+ARON FRAGA: Los algoritmos se van a tomar de la misma forma que en el primer parcial. No.
+
+1297
+02:08:05.060 --> 02:08:05.810
+Arroyo Arzubi Carlos A.: Sí.
+
+1298
+02:08:08.950 --> 02:08:15.080
+MATIAS BASILICO: A ver. Tengo una consulta, los que ya están nominados porque en el Horal les fue mal.
+
+1299
+02:08:15.180 --> 02:08:23.799
+MATIAS BASILICO: Una vez se terminen los que no rindieron todavía se van a evaluar en la de repaso? O va a ser al final.
+
+1300
+02:08:24.290 --> 02:08:30.950
+Arroyo Arzubi Carlos A.: No, no, yo. Ahora, cuando ya lo voy a llamar, porque ya estoy terminando con claro.
+
+1301
+02:08:30.950 --> 02:08:33.040
+MATIAS BASILICO: Una vez. Creo que ya arrancamos.
+
+1302
+02:08:33.040 --> 02:08:42.519
+Arroyo Arzubi Carlos A.: Empiezo a llamar allá a cualquiera. Los que los que faltan, que son pocos y los que rindieron mal.
+
+1303
+02:08:42.910 --> 02:08:48.720
+Arroyo Arzubi Carlos A.: Lo voy a llamar. Es decir, yo creo que ya la clase que viene, porque me parece que.
+
+1304
+02:08:52.910 --> 02:08:56.230
+Arroyo Arzubi Carlos A.: bueno, tengo 3 o 4 que no han
+
+1305
+02:08:58.640 --> 02:09:01.080
+Arroyo Arzubi Carlos A.: que no han hecho nunca oral.
+
+1306
+02:09:02.560 --> 02:09:06.140
+MATIAS BASILICO: Y una vez que se termine ya arrancamos los rellenados perfecto.
+
+1307
+02:09:06.140 --> 02:09:09.079
+Arroyo Arzubi Carlos A.: Así que los que no lo llamen nunca, ya saben que lo voy a llamar.
+
+1308
+02:09:09.410 --> 02:09:12.400
+Arroyo Arzubi Carlos A.: Pero si así todo no se prepara.
+
+1309
+02:09:14.500 --> 02:09:20.289
+JOAQUÍN MULEIRO BELTRAN: Profe para el segundo parcial también va a ser lo mismo que hizo con el primero de llamar a varios.
+
+1310
+02:09:21.850 --> 02:09:26.150
+Arroyo Arzubi Carlos A.: Voy a ver los que me queden. Ah, sí, porque hay muchos que no aprobaron.
+
+1311
+02:09:26.490 --> 02:09:34.780
+Arroyo Arzubi Carlos A.: Aprovecho para para avanzar y llamar a los que no aprobaron la primera Segunda oportunidad.
+
+1312
+02:09:35.590 --> 02:09:38.729
+Arroyo Arzubi Carlos A.: algoritmo de segunda oportunidad.
+
+1313
+02:09:40.380 --> 02:09:49.479
+Arroyo Arzubi Carlos A.: Bueno, listo, nos vamos o quieren que sigamos charlamos o charlamos. No hay problema. Yo ya no quiero hacer más. Cuenta con el con el ex y que los ojos me quedan dando vueltas.
+
+1314
+02:09:50.840 --> 02:09:51.750
+JOAQUÍN MULEIRO BELTRAN: A estudiar ahora.
+
+1315
+02:09:52.540 --> 02:09:57.110
+Arroyo Arzubi Carlos A.: Muy bien, vamos todavía a eso. Es un ejemplo.
+
+1316
+02:09:57.690 --> 02:10:01.460
+Arroyo Arzubi Carlos A.: Le tomamos la palabra. Bueno, nos vemos la semana que viene, chicos.
+
+1317
+02:10:01.690 --> 02:10:03.520
+ARON FRAGA: No procederé.
+
+1318
+02:10:03.740 --> 02:10:04.299
+FRANCO EMMANUEL SICARDO: De acuerdo claro.
+
+1319
+02:10:04.300 --> 02:10:05.060
+Emanuel CARLOS ORLANDINI: Noches.
+
+1320
+02:10:05.060 --> 02:10:05.490
+FRANCO EMMANUEL SICARDO: Bendiciones.
+
+1321
+02:10:05.490 --> 02:10:05.969
+Arroyo Arzubi Carlos A.: De los.
+
+1322
+02:10:05.970 --> 02:10:06.480
+ALEXANDER EMANUEL PIZZURNO DUARTE: Nos vemos.
+
+1323
+02:10:06.480 --> 02:10:08.310
+LUCAS BONAFFINI: Alegría para olvidarme, corazón.
+
+1324
+02:10:08.310 --> 02:10:10.840
+Arroyo Arzubi Carlos A.: Gracias igualmente.
+
+

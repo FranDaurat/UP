@@ -14,23 +14,29 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 
 ## Parciales 
 
+1. 20/05 Sistemas Operativos (Segundo Parcialito)
 
-1. 03/06 Sistemas Operativos (Segundo Parcial)
+2. 02/06 Oral Administracion de proyectos.
 
-2. 20/05 Sistemas Operativos (Segundo Parcialito)
+3. 03/06 Sistemas Operativos (Segundo Parcial)
 
-3. 05/06 DevOps (Segundo) 
+4. 05/06 DevOps (Segundo) 
 
-4. 10/06 Adm de proyectos (Segundo)
+5. 10/06 Adm de proyectos (Segundo)
 
-5. 10/06 Testing y QA (Segundo)
+6. 10/06 Testing y QA (Segundo)
 
-6. 11/06 Seg web (Segundo)
+7. 11/06 Seg web (Segundo)
 
-7. 11/06 (parcial) Auditoria de sistemas
+8. 11/06 (parcial) Auditoria de sistemas
 
 
+como podria hacer para que durante la templates/FASE1.md ocurra esto:
+  1. haiku lee los archivos del checkilist
+  2. sonnet analiza endpoints y prueba enviando ciertas requests
+  3. haiku anota en el checklist
 
+  o quizas hasta incluso cuando sonnet siente que hay algo pero no puede podemos meter a opus entre el 2 y el 3
 
 
 

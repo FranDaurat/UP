@@ -1,0 +1,2395 @@
+WEBVTT
+
+1
+00:00:35.300 --> 00:00:37.010
+JUAN GUZZARDI: Hola, Profe buenas tardes.
+
+2
+00:00:38.460 --> 00:00:42.130
+Lucas Bonanni: Buenas noches. Cómo están espéreme. Un momentito ya ve.
+
+3
+00:04:00.670 --> 00:04:01.700
+FACUNDO EMANUEL MODARELLI: Hola. Profe.
+
+4
+00:04:05.600 --> 00:04:06.970
+Lucas Bonanni: Qué tal buenas noches.
+
+5
+00:04:53.960 --> 00:04:57.520
+FACUNDO EMANUEL MODARELLI: Profe. Puedo aprovechar para hacer una consulta.
+
+6
+00:04:59.150 --> 00:04:59.860
+Lucas Bonanni: Sí, la verdad.
+
+7
+00:04:59.860 --> 00:05:06.779
+FACUNDO EMANUEL MODARELLI: Respecto al T. P Bueno, pues no quería saber. Estuve viendo el excel de
+
+8
+00:05:07.360 --> 00:05:18.010
+FACUNDO EMANUEL MODARELLI: del cronograma, digamos, de la de las fechas. ¿hay alguna fecha en la que podamos repasar el avance del
+
+9
+00:05:18.540 --> 00:05:21.500
+FACUNDO EMANUEL MODARELLI: del del trabajo antes de la entrega, digamos.
+
+10
+00:05:22.520 --> 00:05:30.980
+Lucas Bonanni: En cualquier momento, en en cualquier clase, y repasamos y vemos a ver qué tal y y vamos resolviendo consultas.
+
+11
+00:05:32.430 --> 00:05:34.020
+FACUNDO EMANUEL MODARELLI: Buenísimo, buenísimo.
+
+12
+00:05:34.310 --> 00:05:35.170
+Lucas Bonanni: Sí, sí
+
+13
+00:05:37.070 --> 00:05:44.040
+Lucas Bonanni: o por slack, o incluso me lo pueden compartir por Slack, y yo lo reviso. Les Les doy un feedback.
+
+14
+00:05:45.960 --> 00:05:46.890
+FACUNDO EMANUEL MODARELLI: Buenísimo.
+
+15
+00:05:52.880 --> 00:05:58.609
+FACUNDO EMANUEL MODARELLI: entonces lo lo preparo para la próxima clase. Así quisiera ver a ver si voy bien.
+
+16
+00:05:59.180 --> 00:06:02.590
+Lucas Bonanni: Dale Dale. Y si querés compartírmelo antes, yo lo voy viendo.
+
+17
+00:06:03.140 --> 00:06:03.990
+FACUNDO EMANUEL MODARELLI: Buenísimo.
+
+18
+00:06:05.710 --> 00:06:18.439
+Lucas Bonanni: Pásamelo después por el slack, cuando más o menos tengas lo que quieres mostrarme si querés ya me preguntas por ahí. Y de último, yo te respondo. Y si hay algo más puntual, lo vemos por acá.
+
+19
+00:06:24.150 --> 00:06:25.530
+FACUNDO EMANUEL MODARELLI: Bárbaro. Joya.
+
+20
+00:06:28.290 --> 00:06:28.960
+Lucas Bonanni: Mhm.
+
+21
+00:07:09.340 --> 00:07:10.899
+Lucas Bonanni: A ver cuándo somos.
+
+22
+00:07:24.410 --> 00:07:26.330
+Lucas Bonanni: No se iba arrancando.
+
+23
+00:07:28.420 --> 00:07:30.930
+Lucas Bonanni: Voy a ir compartiendo
+
+24
+00:07:43.610 --> 00:07:45.730
+Lucas Bonanni: bien, Ahí pueden ver mi pantalla.
+
+25
+00:07:48.880 --> 00:07:49.659
+JUAN GUZZARDI: Sí, los.
+
+26
+00:07:50.330 --> 00:07:51.650
+FACUNDO EMANUEL MODARELLI: Sí, Sí, ya se ve.
+
+27
+00:07:54.040 --> 00:07:58.909
+Lucas Bonanni: Bien, excelente. Bueno, hoy vamos a ver la parte del módulo de seguridad.
+
+28
+00:07:59.410 --> 00:08:04.360
+Lucas Bonanni: Básicamente, lo que vamos a ver es: vamos a repasar
+
+29
+00:08:04.520 --> 00:08:17.760
+Lucas Bonanni: lo que es? Owas top? Ten Sí que ya me imagino que algunos lo conocerán algunos conceptos y después
+
+30
+00:08:18.110 --> 00:08:24.999
+Lucas Bonanni: nada y conjunto con esto, algunas contramedidas que van a ir apareciendo dentro de de los Wash Top: Ten.
+
+31
+00:08:27.970 --> 00:08:39.389
+Lucas Bonanni: Bueno, 1 de los primeros conceptos para, digamos estar todos a alineados con lo que vamos a ver ahora va a ser el tema de que es una A. P. I. Básicamente
+
+32
+00:08:40.030 --> 00:08:48.739
+Lucas Bonanni: yo a ver. No sé si todos conocen ya lo que es una A. P. I. Ya lo tienen Claro, ¿Cuál es la definición. Imagino que los que ya están trabajando sí.
+
+33
+00:09:10.340 --> 00:09:17.099
+FACUNDO EMANUEL MODARELLI: Perdón. Profe: Sí, por mi parte, sí, algo no, no mucho, porque no vengo del del del área de desarrollo, digamos, pero
+
+34
+00:09:17.370 --> 00:09:18.360
+FACUNDO EMANUEL MODARELLI: en
+
+35
+00:09:18.740 --> 00:09:29.139
+FACUNDO EMANUEL MODARELLI: si me toca por ahí darle soportes. Y bueno, ahora, con el trabajo práctico, estoy incursionando en crear una que nunca lo hice porque no vengo del lado de del desarrollo, pero sí más o menos. Entiendo que.
+
+36
+00:09:29.750 --> 00:09:32.050
+FACUNDO EMANUEL MODARELLI: y coincido con lo que dice el Slaye.
+
+37
+00:09:33.150 --> 00:09:37.590
+Lucas Bonanni: Okay y más o menos, ¿Qué entendías o qué entendías antes o qué entendés ahora?
+
+38
+00:09:40.030 --> 00:09:43.089
+FACUNDO EMANUEL MODARELLI: Lo antes lo tenía más como un
+
+39
+00:09:43.610 --> 00:09:47.730
+FACUNDO EMANUEL MODARELLI: como una puerta de entrada, a un sistema, como a una interfaz.
+
+40
+00:09:48.070 --> 00:09:55.169
+FACUNDO EMANUEL MODARELLI: Y ahora a partir de del trabajo y y un poco de investigar.
+
+41
+00:09:55.510 --> 00:10:08.499
+FACUNDO EMANUEL MODARELLI: me queda, me queda un poco más claro que termina siendo como un una, un estándar para consumir aplicativos entre aplicativos y que sí que efectivamente termina siendo. Eso no termina siendo como el front o
+
+42
+00:10:08.570 --> 00:10:15.880
+FACUNDO EMANUEL MODARELLI: o la interfaz por el cual se interactúan las aplicaciones y que mayormente es todo?
+
+43
+00:10:16.350 --> 00:10:19.189
+FACUNDO EMANUEL MODARELLI: H, T, T, P, Aunque pueden haber otros protocolos, también no.
+
+44
+00:10:20.010 --> 00:10:20.940
+Lucas Bonanni: Exacto.
+
+45
+00:10:21.090 --> 00:10:36.810
+Lucas Bonanni: Bueno, si básicamente es eso es eso. Sí, es es una forma de de nosotros exponer la funcionalidad para que se pueda utilizar. Obviamente. La idea es que se puedan conectar otras aplicaciones
+
+46
+00:10:36.870 --> 00:10:41.590
+Lucas Bonanni: y no necesariamente
+
+47
+00:10:42.990 --> 00:10:56.499
+Lucas Bonanni: no, no personas que lo estén consumiendo, digamos habitualmente, porque para eso ya desarrollarías un front end. Por eso se llama programing Interface para conectar justamente otras aplicaciones.
+
+48
+00:10:57.650 --> 00:11:03.999
+Lucas Bonanni: Es exactamente eso. Y después dentro de las A. P. Is está lo que es una Api rest
+
+49
+00:11:04.060 --> 00:11:11.520
+Lucas Bonanni: que básicamente lo que usa es in las solicitudes. H, T, T, P, para comunicarse. Y ahí establece
+
+50
+00:11:11.570 --> 00:11:24.469
+Lucas Bonanni: estos estándares de comunicación por medio de H, T, T, P, Donde: Bueno, usan los verbos no usa las las uris que que también están definidas. Acá.
+
+51
+00:11:24.900 --> 00:11:32.360
+Lucas Bonanni: Sí, tenemos el el H. T, T. P. Request, donde tiene el método getpostput y let tilete.
+
+52
+00:11:33.190 --> 00:11:38.590
+Lucas Bonanni: Sí, después te eso tiene la Uri a la del que va a ser del
+
+53
+00:11:39.590 --> 00:11:43.350
+Lucas Bonanni: recurso que está que quiere consumir
+
+54
+00:11:43.610 --> 00:11:51.130
+Lucas Bonanni: después la versión de Htt. P. Los encabezados sí, y el cuerpo de la solicitud.
+
+55
+00:11:55.800 --> 00:12:04.659
+Lucas Bonanni: Después tenemos la parte de lo que es un endpoint. Sí que básicamente utilizan la Uri para identificar los recursos de la aplicación. ¿sí?
+
+56
+00:12:04.780 --> 00:12:07.190
+Lucas Bonanni: Y
+
+57
+00:12:07.900 --> 00:12:23.179
+Lucas Bonanni: bueno, y acá. Abajo tenemos una un ejemplo de la estructura donde tenemos el protocolo, el nombre del dominio, generalmente la versión y el endpoint. Después podríamos tener acá
+
+58
+00:12:23.420 --> 00:12:40.849
+Lucas Bonanni: básicamente después de Lenpoint acá vas a tener el en el elenpo, en en la parte de recursos. Y es, no sé, automóviles, usuarios users, Y ahí después le el el I D vendría. Sí, después de user barra el I D,
+
+59
+00:12:44.420 --> 00:13:01.600
+Lucas Bonanni: y después otro concepto que vamos a ver ya relacionado al al módulo de seguridad. Sí, es vulnerabilidad si básicamente una vulnerabilidad es un comportamiento inesperado de un programa que produce un efecto secundario en la
+
+60
+00:13:01.600 --> 00:13:07.189
+Lucas Bonanni: covid confidencialidad y o integridad, y disponibilidad de la información.
+
+61
+00:13:07.190 --> 00:13:10.849
+Lucas Bonanni: Sí, Y
+
+62
+00:13:12.770 --> 00:13:21.440
+Lucas Bonanni: bueno, los atacantes son lo que tratan siempre de explotar este tipo de vulnerabilidades que son estos comportamientos inesperados.
+
+63
+00:13:25.230 --> 00:13:36.340
+Lucas Bonanni: Entonces, formas de de obtener estos comportamientos inesperados no es bueno poner valores de parámetros que
+
+64
+00:13:36.900 --> 00:13:53.469
+Lucas Bonanni: que no están validados de alguna manera o que que producen efectos secundarios. Sí, por ejemplo, no sé en un carrito de compras, poner algún valor negativo o cosas, así que no deberían
+
+65
+00:13:53.470 --> 00:13:57.940
+Lucas Bonanni: validarse. Pero a veces muchas de esas validaciones quedan solamente
+
+66
+00:13:57.940 --> 00:14:04.280
+Lucas Bonanni: en la interfaz gráfica, digamos, en el Frontend End, pero no se hacen a nivel de backend
+
+67
+00:14:04.280 --> 00:14:22.300
+Lucas Bonanni: porque si dicen, bueno, si ya está validada en el Frontend. No hace falta y puede ser que muchas veces te modifiquen el request desde el mismo navegador o utilizando postman Te copian el recuest y lo vuelven a enviar y modifican cualquiera de los parámetros. Y eso va a producir
+
+68
+00:14:22.300 --> 00:14:25.009
+Lucas Bonanni: estos comportamientos inesperados.
+
+69
+00:14:25.190 --> 00:14:32.670
+Lucas Bonanni: Después bueno lo mismo un poquito más de lo mismo. Combinaciones inesperadas de valores para los parámetros de entrada.
+
+70
+00:14:34.230 --> 00:14:45.690
+Lucas Bonanni: encadenamiento inesperado de invocaciones de Endpoint, o sea el orden de que se ejecutan los Tendpoints no es el orden con el cual fue diseñado, por lo cual
+
+71
+00:14:47.360 --> 00:14:58.830
+Lucas Bonanni: también se producen comportamientos inesperados, utilizar Endpoints ocultos, que eso es algo que después vamos a ver también.
+
+72
+00:14:59.130 --> 00:15:05.859
+Lucas Bonanni: y parámetros de entrada inesperados o que no
+
+73
+00:15:06.930 --> 00:15:21.139
+Lucas Bonanni: aunque son esperados por el Lendpoint, pero están como de uso interno. Por eso dice ocultos y en realidad, y no están de cara para que los usuarios lo utilicen, pero sabe, pero
+
+74
+00:15:21.670 --> 00:15:37.650
+Lucas Bonanni: escaneando o o viendo cómo lo utiliza el el el frontend, se saben que se pueden encontrar. Y entonces ahí es donde se se dan cuenta de que hay parámetros que están ocultos.
+
+75
+00:15:45.280 --> 00:16:04.540
+Lucas Bonanni: Bueno, una apirrest común es bueno esto la interacción siempre entre un cliente y un servidor, el cliente puede ser una interfaz web o puede ser otra aplicación. Y el servidor bueno es la A, P I misma, que es lo que o puede ser la a ti misma, o puede ser que
+
+76
+00:16:05.280 --> 00:16:10.499
+Lucas Bonanni: la Api en realidad está a su vez, consumiendo algún servidor interno.
+
+77
+00:16:11.390 --> 00:16:14.570
+Lucas Bonanni: Pero sí, básicamente, este es el escenario más común.
+
+78
+00:16:16.320 --> 00:16:27.540
+Lucas Bonanni: Y con esto empezamos a ver el low a top. Ten. Si acá vamos a vamos a hacer un pequeño repaso porque yo, bueno, todos los años lo tengo que ir actualizando porque obviamente.
+
+79
+00:16:27.540 --> 00:16:37.240
+Lucas Bonanni: cada año va saliendo un informe nuevo. Entonces este lo actualicé al 20, 25
+
+80
+00:16:38.730 --> 00:16:46.260
+Lucas Bonanni: y, bueno, en años anteriores estuvimos repasando el 2 019 y el del 20. 23.
+
+81
+00:16:46.680 --> 00:16:50.440
+Lucas Bonanni: Así que, bueno, acá vamos a ver algunos
+
+82
+00:16:50.940 --> 00:16:59.550
+Lucas Bonanni: cambios desde las vulnerabilidades que tenía del 2 019 al 2 000. 23 Entonces autorizaciones
+
+83
+00:16:59.670 --> 00:17:07.210
+Lucas Bonanni: rotas, sí o función, level se unificaron de de 1 a otro
+
+84
+00:17:08.390 --> 00:17:25.919
+Lucas Bonanni: la exposición de datos donde se valida. Si quién es el Owner de ese dato y la asignación masiva se enfocaron más en en ese tipo de de riesgos.
+
+85
+00:17:26.270 --> 00:17:39.850
+Lucas Bonanni: Y después, en 2 023, se introdujo un nuevo riesgo, que fue acceso restringido a flujos de negocio, así como Botch o a P. Is sin seguros, Sí,
+
+86
+00:17:45.520 --> 00:17:50.369
+Lucas Bonanni: y ahora sí. E este es el actualizado. Este es lo que vamos a ver hoy.
+
+87
+00:17:50.700 --> 00:18:01.100
+Lucas Bonanni: Básicamente, los últimos que están publicados, entonces vamos a ir viendo 1 por 1. El primero va a ser Rokend Access, Control
+
+88
+00:18:01.590 --> 00:18:06.470
+Lucas Bonanni: que básicamente, y
+
+89
+00:18:07.010 --> 00:18:16.379
+Lucas Bonanni: la idea es que el control de acceso asegura que los usuarios, si no puedan actuar fuera de sus permisos previstos, o sea que se mantengan dentro de lo que
+
+90
+00:18:16.670 --> 00:18:19.560
+Lucas Bonanni: esperado sí. Entonces.
+
+91
+00:18:20.630 --> 00:18:40.379
+Lucas Bonanni: cuando no se cumple este acceso de control, sí o el control de acceso. Generalmente se producen algunas fallas muy comunes, que es divulgación de de información o modificación o de o destrucción de información, que no es la del usuario. Si.
+
+92
+00:18:40.690 --> 00:18:54.040
+Lucas Bonanni: y esto ocurre cuando bien no sé o se manipulan los los token de de la sesión, sí o las cookies y los
+
+93
+00:18:54.210 --> 00:19:05.859
+Lucas Bonanni: los Endpoints que validan este tipo de información. Los modifican, modifican el I D, si hacen un request y auto y
+
+94
+00:19:06.250 --> 00:19:14.869
+Lucas Bonanni: y esto lo lo impactan y no. Y no lo validan. Si es el us el usuario, lo usa, ¿no? Entonces acá, te
+
+95
+00:19:15.370 --> 00:19:29.089
+Lucas Bonanni: hay algunas empresas que que fueron afectadas por este tipo de de de vulnerabilidad, Sí, en 2 019, bueno, American Financial
+
+96
+00:19:29.540 --> 00:19:45.720
+Lucas Bonanni: tuvo una exposición masiva de 885 000 000 de registros sí financieros. Después, Uber también tuvo una que exponían los toques de sesión y datos personales de conductores.
+
+97
+00:19:48.750 --> 00:19:53.930
+Lucas Bonanni: Entonces, el caso típico es que, por ejemplo.
+
+98
+00:19:54.300 --> 00:20:07.139
+Lucas Bonanni: siempre están estos ejemplos utilizando a Alice y Bob para todo lo que es de de seguridad y en este caso es bueno. Alice inicia su sesión en en el banco. Sí,
+
+99
+00:20:08.980 --> 00:20:17.430
+Lucas Bonanni: ve en el navegador que cuando entra en la U. R. L. Ve que es, dice banco, los recibos tiene un I D,
+
+100
+00:20:17.660 --> 00:20:22.899
+Lucas Bonanni: y finalmente cambia ese I D, en en el navegador.
+
+101
+00:20:24.670 --> 00:20:39.170
+Lucas Bonanni: Y entonces lo que hace es que toma un recibo, sí que no es de ella, porque en este caso, hay 2 problemas que una que el servidor no validó que el
+
+102
+00:20:39.660 --> 00:20:47.300
+Lucas Bonanni: que que ese I D no es de ella, no entonces igual lo fue a buscar y se y el frontend se lo mostró.
+
+103
+00:20:48.260 --> 00:20:57.699
+Lucas Bonanni: El otro problema que ya es un problema de diseño es que los I D son secuenciales. Entonces, al ser secuenciales.
+
+104
+00:20:57.730 --> 00:21:10.270
+Lucas Bonanni: no necesariamente el siguiente es el tuyo Por eso una buena práctica también es que en los A. P I Rest se usen Wids para que sean, no sean secuenciales, Sí,
+
+105
+00:21:11.530 --> 00:21:15.130
+Lucas Bonanni: sean más algo Random.
+
+106
+00:21:16.720 --> 00:21:31.039
+Lucas Bonanni: Entonces, después. Bueno, Básicamente, lo que puedo hacer es construir un un script de Python. Sí que va automáticamente trayéndose los datos desde la I D 1 hasta el un 1 000 000. ¿sí?
+
+107
+00:21:31.060 --> 00:21:41.529
+Lucas Bonanni: Y en horas se trae miles de datos de clientes y, bueno, sin disparar alarmas. Bueno, sería otro tipo de error, porque si además
+
+108
+00:21:41.710 --> 00:21:54.310
+Lucas Bonanni: puede llegar a ser un script y en cuestión de minutos o o o una hora, hace todos esos request y no saltó ninguna alarma. Hay otro error, además de que
+
+109
+00:21:54.440 --> 00:22:05.370
+Lucas Bonanni: no hay reli rey limits puestos para ese tipo de enpoit, porque sería muy extraño que te empiecen a hacer un 1 000 000 de recuesst
+
+110
+00:22:05.750 --> 00:22:15.420
+Lucas Bonanni: en ese momento. ¿sí? Y todos seguidos, porque te vas a dar cuenta que van a ser una cuestión seguidilla de y secuenciales, no va a ser bastante obvio.
+
+111
+00:22:19.730 --> 00:22:35.459
+Lucas Bonanni: Entonces, bueno, contramedidas, no de negar por defecto, ¿sí? O sea que se necesita validar la la autorización. Sí, porque, bueno, eso también. Si haces un script por ahí, no está validando el Token
+
+112
+00:22:35.570 --> 00:22:53.200
+Lucas Bonanni: en este caso, Entonces, bueno, validar por defecto, y requerir esa esa autenticación, es necesaria validar la pertenencia o el alumnar de de ese recibo. En el caso del ejemplo, sí que no pueda acceder a recibos que no son suyos.
+
+113
+00:22:53.560 --> 00:23:07.820
+Lucas Bonanni: loguear cualquier tipo de fallo sí de de tipo de acceso a los Endpoints, que ya hay intentos de de acceso, ya sea por falta de ounarcship o por falta de autenticación
+
+114
+00:23:08.070 --> 00:23:10.460
+Lucas Bonanni: y.
+
+115
+00:23:10.710 --> 00:23:21.989
+Lucas Bonanni: bueno, deshabilitar los listados también de directorios. Y Y bueno, acá está lo de reemplazar. Los identificadores secuenciales y numéricos por U Ids.
+
+116
+00:23:22.020 --> 00:23:31.489
+Lucas Bonanni: Y además agregaría acá que no está configurar Ray limits. No, ahora lo voy a agregar porque.
+
+117
+00:23:36.020 --> 00:23:40.360
+JUAN GUZZARDI: Cuánto sería más o menos un buen rey? Limit: los 100 por minuto.
+
+118
+00:23:40.360 --> 00:23:46.310
+Lucas Bonanni: Depende de la de la aplicación. Ahí tenés que analizar el tráfico que vos tenés normalmente.
+
+119
+00:23:46.520 --> 00:23:52.819
+Lucas Bonanni: Y a partir de eso te va a dar una idea de qué red límite le puedes establecer. No.
+
+120
+00:23:54.180 --> 00:23:57.949
+JUAN GUZZARDI: Ahí va. Pero es tipo artesanal. No es que no es que.
+
+121
+00:23:57.950 --> 00:24:09.019
+Lucas Bonanni: Te vas a ir dando cuenta con con el uso que que se vaya dando depende también de que qué tan grande es la aplicación, no porque no es lo mismo que sea
+
+122
+00:24:09.200 --> 00:24:27.619
+Lucas Bonanni: una aplicación de pedidos, ya o una aplicación de mercado libre que una aplicación, un E commerce. Entonces por ahí las cantidades son diferentes. Entonces tienes que ver por aplicación a ver
+
+123
+00:24:27.780 --> 00:24:30.280
+Lucas Bonanni: qué qué es lo más correcto.
+
+124
+00:24:32.300 --> 00:24:37.819
+JUAN GUZZARDI: T. S. B, Medio. No sé como que cortado tipo, se cortó y se puso en una línea.
+
+125
+00:24:37.820 --> 00:24:41.560
+FACUNDO EMANUEL MODARELLI: Sí, hay una línea negra en el medio. ¿sí? Sí. Pensé que era mi máquina.
+
+126
+00:24:41.870 --> 00:24:44.650
+JUAN GUZZARDI: Sí, no, no, se.
+
+127
+00:24:44.650 --> 00:24:46.310
+Lucas Bonanni: De compartir y.
+
+128
+00:24:48.500 --> 00:24:52.869
+JUAN GUZZARDI: Capaz que compartiste solo la el P, P, T y no la pantalla.
+
+129
+00:24:53.000 --> 00:24:56.429
+JUAN GUZZARDI: Entonces cambiaste la aplicación y por ahí estás búsqueda de eso.
+
+130
+00:24:57.280 --> 00:25:09.709
+Lucas Bonanni: Puede ser, ¿ Pero bueno, no cambié de aplicación. Cambié de lo que sería workspace. No debería afectar porque compartí no compartir la compartir la ventana.
+
+131
+00:25:10.300 --> 00:25:12.479
+Lucas Bonanni: Pero bueno, a ver si vuelvo.
+
+132
+00:25:14.510 --> 00:25:15.569
+JUAN GUZZARDI: Y ahí se.
+
+133
+00:25:16.490 --> 00:25:19.339
+Lucas Bonanni: Ah, Ok, se va. ¿qué raro.
+
+134
+00:25:21.410 --> 00:25:25.010
+JUAN GUZZARDI: Y lo pone en suspensión Apple. Me imagino.
+
+135
+00:25:26.460 --> 00:25:29.170
+Lucas Bonanni: Sí, no sé. Bueno, vamos a ver
+
+136
+00:25:30.910 --> 00:25:36.939
+Lucas Bonanni: lo que puedo hacer durante un momento. Entonces esto lo voy a tirar
+
+137
+00:25:42.020 --> 00:25:43.900
+Lucas Bonanni: listo.
+
+138
+00:25:47.020 --> 00:25:49.300
+Lucas Bonanni: Buah: Me cambia la pantalla otra vez ahí.
+
+139
+00:25:57.400 --> 00:25:58.619
+Lucas Bonanni: Bueno, ahí lo puse.
+
+140
+00:25:59.880 --> 00:26:06.839
+Lucas Bonanni: Bien. Entonces, bueno, acá está el el diagrama de de acceso.
+
+141
+00:26:07.370 --> 00:26:14.999
+Lucas Bonanni: No el atacante. Tenemos que intenta hacer el la Fac, el bueno, las facturas o
+
+142
+00:26:15.070 --> 00:26:28.000
+Lucas Bonanni: o los recibos. Sí, Entonces la a P. I falla valer. Si el usuario es dueño de la factura, entonces va a la base de datos, hace la quor y le devuelven los resultados. Básicamente
+
+143
+00:26:30.500 --> 00:26:44.510
+Lucas Bonanni: después. Bueno, el siguiente security miss configuration, si es básicamente la mala configuración de seguridad en los servidores o en los frameworks sí por
+
+144
+00:26:45.110 --> 00:26:56.280
+Lucas Bonanni: los servidores de de Amazon, los accesos a los Backets, sí a los servidores web, a los puertos y que tengan expuestos.
+
+145
+00:26:56.280 --> 00:27:07.690
+Lucas Bonanni: Todo ese tipo de cosas y falta de establecer básicamente cómo va a validar la seguridad en cada 1 de los requests, sí
+
+146
+00:27:08.210 --> 00:27:13.250
+Lucas Bonanni: o dejar entornos en modo desarrollo, cosa que
+
+147
+00:27:13.670 --> 00:27:19.900
+Lucas Bonanni: estás, digamos, habilitando a que se use sin autenticación o sin autorización.
+
+148
+00:27:22.380 --> 00:27:25.139
+Lucas Bonanni: Entonces acá hay algunos ejemplos.
+
+149
+00:27:25.330 --> 00:27:41.919
+Lucas Bonanni: 1, por ejemplo, de de Twitch, donde un cambio de configuración de infraestructuras se expuso a Internet, todo su código, fuentes y repositorios internos e historial de pago.
+
+150
+00:27:43.130 --> 00:27:50.489
+Lucas Bonanni: Había otro también de de acceso que habían publicado un backet de s 3 y
+
+151
+00:27:51.190 --> 00:27:59.000
+Lucas Bonanni: y habían podido descargar facturas e información de clientes y y todo ese tipo de cosas.
+
+152
+00:28:04.420 --> 00:28:17.670
+Lucas Bonanni: Entonces, bueno, acá un ejemplo de de explotación es cuando se utilizan las plataformas como la de Yodam, que es la de un buscador, básicamente que
+
+153
+00:28:17.790 --> 00:28:24.339
+Lucas Bonanni: escanea diferentes servicios, Sí, con configuraciones por defecto.
+
+154
+00:28:24.340 --> 00:28:40.610
+Lucas Bonanni: Entonces puedes detectar la Ip de una empresa sí que tiene abierta el puerto de, por ejemplo, acá el astic Search. Si puedes hacer un un curl a a la u R L, al al Ip con el puerto.
+
+155
+00:28:41.080 --> 00:28:47.039
+Lucas Bonanni: y ahí te devuelve inmediatamente los volúmenes masivos de datos de Shason, sí
+
+156
+00:28:47.340 --> 00:28:59.319
+Lucas Bonanni: y sin desarrollar nada complejo, solamente utilizando los comandos y porque está expuesto. Y lo que hiciste fue solamente una llamada Http
+
+157
+00:29:00.420 --> 00:29:07.160
+Lucas Bonanni: y ya te o extraíste todos los datos de de la empresa que podías encontrar.
+
+158
+00:29:11.200 --> 00:29:28.890
+Lucas Bonanni: Entonces, bueno, algunas medidas para de mi mitigar esto. No Una es la infraestructura como código si para tratar de automatizar y auditar las configuraciones y de de nuestra infraestructura, tratar de
+
+159
+00:29:29.060 --> 00:29:34.530
+Lucas Bonanni: modularizar para para poder tener esa autenticación y poder aplicarla
+
+160
+00:29:34.540 --> 00:29:47.819
+Lucas Bonanni: en todas las configuraciones que tengas, Entonces, vos la modularizadas, la compartís dentro del de del código de tu infraestructura, y deberías poderse aplicarla. Y además, podés
+
+161
+00:29:47.820 --> 00:29:56.720
+Lucas Bonanni: tener Pipeland que Validen. Bueno, esto tiene esta configuración pasa de estas cosas para tratar de evitar que
+
+162
+00:29:57.940 --> 00:30:03.140
+Lucas Bonanni: no salga sin la sin la configuración necesaria
+
+163
+00:30:05.620 --> 00:30:15.089
+Lucas Bonanni: después. Por otro lado, siempre tener un principio de menor privilegio, si, o sea, siempre, establecer que cualquier
+
+164
+00:30:15.450 --> 00:30:23.979
+Lucas Bonanni: servicio infraestructura, cualquier cosa que que se expongan queden con el
+
+165
+00:30:24.670 --> 00:30:41.880
+Lucas Bonanni: solamente la capacidad mínima de para ejecutar la tarea, el menor privilegio. Si entonces y no exponer permisos innecesarios a infraestructura o a recursos. Así de de la empresa
+
+166
+00:30:42.960 --> 00:30:51.029
+Lucas Bonanni: después aplicar. Hardening: sí a todo lo que es la infraestructura Y nuest. Y los servicios publicados en Internet.
+
+167
+00:30:51.290 --> 00:31:01.509
+Lucas Bonanni: ¿sí? Y tener el tema de parches automatizados, ¿sí? Y mantener los Fremeworks actualizados para evitar cualquier tipo de vago.
+
+168
+00:31:06.440 --> 00:31:12.030
+Lucas Bonanni: Bueno, su Play Change bailliers. Bueno, este es hoy 1 que
+
+169
+00:31:12.160 --> 00:31:24.479
+Lucas Bonanni: que nos toca hoy con ejemplo de caso real. No sé si ustedes se enteraron entre hoy y ayer, que que Bill guarden la versión de C. L. I, que es, está infectada.
+
+170
+00:31:28.290 --> 00:31:30.880
+Lucas Bonanni: No sé si guardan no.
+
+171
+00:31:31.260 --> 00:31:35.600
+JUAN GUZZARDI: No, no, no me enteré ni qué.
+
+172
+00:31:37.520 --> 00:31:42.049
+Lucas Bonanni: A ver a ver si si yo abro una pestaña. Ustedes están viendo o siguen viendo.
+
+173
+00:31:42.050 --> 00:31:43.150
+JUAN GUZZARDI: Sí, Sí, Sí.
+
+174
+00:31:44.690 --> 00:31:48.809
+Lucas Bonanni: Ese lejín tiene que valer. Se ha gastado.
+
+175
+00:31:52.440 --> 00:31:56.590
+Lucas Bonanni: Bill Guarden es el gestor de contraseñas.
+
+176
+00:31:56.970 --> 00:32:08.449
+Lucas Bonanni: Es un gestor de contraseñas que vos lo puedes tener. La versión de C le instalada. También tiene una versión de extensión de Chrome. Tiene la versión de escritorio y tiene la versión. Cli
+
+177
+00:32:09.230 --> 00:32:15.580
+Lucas Bonanni: Básicamente, lo que pasó es que
+
+178
+00:32:16.320 --> 00:32:35.790
+Lucas Bonanni: vamos a ver un poquito el el Slide para para explicarlo. El Supley Chan es cuando vos tenés dependencias de n P. M. Pipe, Pipi, o sea, de Python y de Java en Maybel. ¿sí? Y son comprometidas vos, Estás consumiendo una dependencia y esa dependencia a su vez, porque.
+
+179
+00:32:35.970 --> 00:32:39.520
+Lucas Bonanni: o sea, usted la librería generalmente.
+
+180
+00:32:39.520 --> 00:32:41.060
+JUAN GUZZARDI: Lo que le pasó a accios.
+
+181
+00:32:41.720 --> 00:32:45.230
+Lucas Bonanni: Claro, exactamente lo mismo es parte de lo mismo.
+
+182
+00:32:45.230 --> 00:32:48.870
+JUAN GUZZARDI: Terrible.
+
+183
+00:32:49.150 --> 00:32:50.780
+JUAN GUZZARDI: Sí.
+
+184
+00:32:50.780 --> 00:32:51.370
+Lucas Bonanni: En la de.
+
+185
+00:32:51.370 --> 00:32:53.430
+JUAN GUZZARDI: La repro.
+
+186
+00:32:54.040 --> 00:32:59.310
+Lucas Bonanni: Es que no hay forma. No hay forma de de tenerlo.
+
+187
+00:32:59.310 --> 00:32:59.630
+JUAN GUZZARDI: No.
+
+188
+00:32:59.630 --> 00:33:00.359
+Lucas Bonanni: En la.
+
+189
+00:33:00.360 --> 00:33:06.309
+JUAN GUZZARDI: Eso, claro. O sea, ¿vos confías en que ande. Digo, es es una empresa que ande. Es una locura.
+
+190
+00:33:07.780 --> 00:33:17.830
+Lucas Bonanni: Es que, aparte no es solamente que Vos confías que ande vos. La empresa también tiene que confiar en en temas de de librerías. El problema es que.
+
+191
+00:33:17.910 --> 00:33:33.610
+Lucas Bonanni: bueno, como como esto, como es un Suplay exchange vos Tienes múltiples cadenas de una vos como empresa, estás usando una librería, pero a su vez se sale, se apoya en otras librerías que están que son open source. Y bueno
+
+192
+00:33:33.610 --> 00:33:38.620
+Lucas Bonanni: pueden estar expuestas a a este tipo de de cosas, ¿no?
+
+193
+00:33:38.760 --> 00:33:50.689
+Lucas Bonanni: Entonces es bastante difícil de controlar porque a veces no está ni siquiera bajo el control de misma persona que utiliza la librería.
+
+194
+00:33:51.720 --> 00:33:56.289
+Lucas Bonanni: Acá Hay, creo que había un diagrama.
+
+195
+00:34:00.950 --> 00:34:10.240
+Lucas Bonanni: Bueno, acá está más o menos el diagrama donde tenemos el desarrollador que tiene la librería.
+
+196
+00:34:10.969 --> 00:34:25.620
+Lucas Bonanni: una librería open source y un atacante que inyecta. Sí, Entonces acá vamos a ver el artículo que tenemos básicamente fresquito para analizar que acá dice a ver.
+
+197
+00:34:29.480 --> 00:34:39.649
+Lucas Bonanni: Básicamente es este en este caso la aplicación afectada. Es esta versión, la 20, 26 4, 0
+
+198
+00:34:41.170 --> 00:34:45.879
+Lucas Bonanni: y el archivo que había sido comprometido fue
+
+199
+00:34:49.310 --> 00:34:52.000
+Lucas Bonanni: este.
+
+200
+00:34:52.280 --> 00:34:54.470
+Lucas Bonanni: P. W, Uno. J. S.
+
+201
+00:35:02.910 --> 00:35:12.640
+Lucas Bonanni: Bueno, después, si algo. Les dejo el artículo. Yo lo vi esta mañana, Sí, esta mañana o ayer.
+
+202
+00:35:14.990 --> 00:35:22.190
+Lucas Bonanni: pero si acá tienen todo todo el análisis, Así que sí, esto
+
+203
+00:35:22.430 --> 00:35:35.370
+Lucas Bonanni: está bien presente, Así que bien, acá. Tenemos. Bueno, el ejemplo, básicamente es esto. Esta es la la la librería node, que es lo que le pasó
+
+204
+00:35:35.930 --> 00:35:37.450
+Lucas Bonanni: a Billboarden.
+
+205
+00:35:38.540 --> 00:35:56.350
+Lucas Bonanni: Entonces, bueno, algunas contramedidas es verificar las firmas y los hayes. Habría que analizar qué es lo que falló ahí en el en el de Bit Warden. Eso lo podemos charlar de último a analizarlo y ver lo que que es lo que falló para la clase que viene.
+
+206
+00:35:56.670 --> 00:36:01.390
+Lucas Bonanni: Bueno, comprobación de antes de instalar las librerías?
+
+207
+00:36:03.380 --> 00:36:17.450
+Lucas Bonanni: Bueno, u evitar utilizar leitest no solamente en las imágenes dockers, sino en cualquier tipo de librería. No siempre tratemos de usar y decir, bueno, voy a actualizar
+
+208
+00:36:17.770 --> 00:36:34.270
+Lucas Bonanni: este tipo de versiones y este tipo de librerías, no todo dependiendo también del impacto que que tenga tu aplicación, porque no es lo mismo que el día de mañana tenga un fallo de seguridad. Bit Warden, que es un gestor de contraseñas que
+
+209
+00:36:34.370 --> 00:36:38.959
+Lucas Bonanni: sea una aplicación que no sé, gestiona
+
+210
+00:36:39.950 --> 00:36:55.089
+Lucas Bonanni: tareas. No sé tú. O ese tipo de cosas que des igual. ¿qué vas a hacer? Vas a sacar un montón de tareas de un de gente que random que no sabes qué es. Pero bueno, no tiene el mismo impacto, ¿no? Entonces.
+
+211
+00:36:55.100 --> 00:37:14.029
+Lucas Bonanni: dependiendo del nivel que de seguridad que vos necesites o, por ejemplo, digamos, un una aplicación de bancos y o el fronten de un banco, Y bueno, vas a tener que tener ser más rígido en la manera en que vos vas a actualizar tus librerías o o o todas tus dependencias. Sí,
+
+212
+00:37:15.230 --> 00:37:22.649
+Lucas Bonanni: después? Bueno, auditoría de componentes, tienes que hacer una un análisis de bu de componentes.
+
+213
+00:37:24.520 --> 00:37:27.750
+Lucas Bonanni: analizar por vulnerabilidades ya conocidas.
+
+214
+00:37:29.260 --> 00:37:33.789
+Lucas Bonanni: Sí, utilizar un 0 Trust C, S. D
+
+215
+00:37:33.940 --> 00:37:40.160
+Lucas Bonanni: y asegurar que el servidor de compilación esté aislado de privilegios para que no comprometa la producción
+
+216
+00:37:40.920 --> 00:37:58.319
+Lucas Bonanni: y después también el utilizar repositorios sin se internos. Y bueno, eso siempre que no sea open source. Por eso siempre los que son atacados son las que son open source porque no son repositorios internos, no
+
+217
+00:37:58.600 --> 00:38:01.619
+Lucas Bonanni: y auditorías de librerías locales de
+
+218
+00:38:01.780 --> 00:38:16.769
+Lucas Bonanni: en lugar de descargar directamente, no o sea tener siempre la caché. Esto dentro de un entorno, Enterprise lo tendría una caché o un un propio registry donde tendría el el los paquetes
+
+219
+00:38:16.770 --> 00:38:24.599
+Lucas Bonanni: ahí analizados, auditados. Y recién ahí 1 los puede utilizar en en la aplicación.
+
+220
+00:38:29.030 --> 00:38:33.009
+Lucas Bonanni: Bueno, acá está el diagrama que habíamos visto antes, Y bueno, ya pasamos al otro.
+
+221
+00:38:33.850 --> 00:38:53.430
+Lucas Bonanni: Bueno, este es pasos criptográficos, y básicamente, son debilidades de de la estructura de cómo los datos son almacenados o cómo viajan por la red. Sí, muchas veces hay. Bueno, creo que lo más conocido es que
+
+222
+00:38:53.430 --> 00:39:06.249
+Lucas Bonanni: U se utilizan protocolos. H, T, T, P, sin cifrar. Sí, o el F, T, P, sin cifrar. Y entonces todo eso viaja directamente por Internet en texto, plano.
+
+223
+00:39:07.510 --> 00:39:10.099
+Lucas Bonanni: por lo cual cualquiera que se conecte
+
+224
+00:39:10.200 --> 00:39:19.480
+Lucas Bonanni: y hago un men in the Middle puede capturar cualquier tráfico si puede ver todo lo que pasa por por esas
+
+225
+00:39:19.530 --> 00:39:35.319
+Lucas Bonanni: para esas peticiones? Sí, entonces también la gestión inadecuada de las Kiss: sí de de seguridad que por o alguna filtración, sí, o también el empleo de
+
+226
+00:39:35.390 --> 00:39:51.099
+Lucas Bonanni: cifrado que hojas en vez de cifrado. Si, como el m de 5 o el jazz, y para tratar de cifrar cosas que en realidad no, no son sus cifrados, son hashes, entonces son fácilmente vulnerables.
+
+227
+00:39:54.170 --> 00:39:59.790
+Lucas Bonanni: Entonces, bueno, acá. Tenemos algunos ejemplos: el de xyfas y adobe.
+
+228
+00:40:01.540 --> 00:40:21.770
+Lucas Bonanni: Y bueno, acá tenemos algún ejemplo donde un atacante se infiltra en la base de datos de de una empresa. Nota que las contraseñas no están en texto. Es plano, pero sí son pasadas por un hash m de 5 que antes se solía hacer esto cuando estamos hablando.
+
+229
+00:40:21.990 --> 00:40:27.030
+Lucas Bonanni: No hace mucho, mucho tiempo, donde todavía
+
+230
+00:40:27.340 --> 00:40:36.849
+Lucas Bonanni: el M de 5 no era tan fácil de de sacar después. Fue mucho más fácil. Y entonces
+
+231
+00:40:37.910 --> 00:40:42.870
+Lucas Bonanni: no, no, no es realmente igual. Nunca fue por más que se usaba.
+
+232
+00:40:43.010 --> 00:40:59.040
+Lucas Bonanni: Tampoco siempre fue para un Ci, proteger las contraseñas. Pero bueno, en este caso, básicamente, pues un contraatacante: tratar de descifrar todo, o sea, hacer un de Hash: de de esas
+
+233
+00:40:59.040 --> 00:41:05.629
+Lucas Bonanni: M de 5. Es muy, es muy fácil. Acá Dice que un G, P, U: Pero bueno, supongamos que
+
+234
+00:41:05.880 --> 00:41:10.139
+Lucas Bonanni: son un ma una base, una base de datos enorme, no porque si no
+
+235
+00:41:10.320 --> 00:41:14.499
+Lucas Bonanni: incapaz que ni se necesita eso con un script, ya lo puede hacer.
+
+236
+00:41:15.620 --> 00:41:21.969
+JUAN GUZZARDI: Pero no se supone que si estás cayendo algo, no debería ser retroactivo, no podes volver atrás.
+
+237
+00:41:22.200 --> 00:41:25.009
+Lucas Bonanni: Sí. Pero el M D: Cinco vos tenés. El algoritmo.
+
+238
+00:41:25.710 --> 00:41:28.680
+JUAN GUZZARDI: es es un algoritmo que no hace.
+
+239
+00:41:28.680 --> 00:41:29.730
+Lucas Bonanni: Y que.
+
+240
+00:41:29.730 --> 00:41:31.280
+JUAN GUZZARDI: La información anterior.
+
+241
+00:41:31.640 --> 00:41:35.459
+Lucas Bonanni: Claro, no, ten No tenés Kids: Entonces, como
+
+242
+00:41:35.920 --> 00:41:43.939
+Lucas Bonanni: como es un realmente un Sif, un cifrado asimétrico, entonces sí, igual lo puedes dar vuelta.
+
+243
+00:41:45.460 --> 00:41:46.760
+JUAN GUZZARDI: Qué? ¡qué locura!
+
+244
+00:41:50.270 --> 00:41:52.490
+Lucas Bonanni: Bueno.
+
+245
+00:41:56.680 --> 00:42:04.660
+Lucas Bonanni: sí, y por fuera que se utiliza. Htt: P. S, Los navegadores.
+
+246
+00:42:05.330 --> 00:42:06.110
+Lucas Bonanni: Y claro.
+
+247
+00:42:06.950 --> 00:42:09.059
+JUAN GUZZARDI: Se le escucha medio grabado. Soy yo.
+
+248
+00:42:10.600 --> 00:42:11.809
+JOANA ZARATE: No, yo también.
+
+249
+00:42:11.820 --> 00:42:13.120
+Lucas Bonanni: A ver a mí. Me sé
+
+250
+00:42:14.290 --> 00:42:18.370
+Lucas Bonanni: a mí me salió un cartel que no, que no está nada bien a ver. Ahora.
+
+251
+00:42:19.140 --> 00:42:20.070
+JUAN GUZZARDI: Ahí va. Ahí va.
+
+252
+00:42:22.910 --> 00:42:33.439
+Lucas Bonanni: Bien. Bueno, entonces decía utilizar https Si básicamente esto lo podemos configurar incluso nosotros, en los navegadores, para que ni siquiera podamos entrar a
+
+253
+00:42:34.280 --> 00:42:45.290
+Lucas Bonanni: H. T, T, P: Sí, sin sin ningún tipo de sin usar. T. L. S: Básicamente, esto lo podemos configurar. Es una seguridad del lado nuestro.
+
+254
+00:42:46.300 --> 00:43:00.320
+Lucas Bonanni: Bueno proteger toda la información que está cifrado en reposo. Si todo lo que está en base de datos, volúmenes con con algoritmos realmente robustos, como, por ejemplo, lo que aparece ahí.
+
+255
+00:43:00.410 --> 00:43:18.459
+Lucas Bonanni: Y después, bueno, gestión de secretos, y siempre usarla un un Bowl, un secret manager? Sí, nunca tenerlos públicos, ni en los repositorios, ni en texto ni en ninguna parte.
+
+256
+00:43:18.500 --> 00:43:27.630
+Lucas Bonanni: Y después bueno, hacer un un hash fuerte. Sí, de. Bueno, como dice ahí de diseño lento.
+
+257
+00:43:28.530 --> 00:43:31.000
+Lucas Bonanni: ¿sí? Y agregaron sal robusto.
+
+258
+00:43:33.820 --> 00:43:35.350
+Lucas Bonanni: Bueno, es que no.
+
+259
+00:43:36.000 --> 00:43:44.619
+Lucas Bonanni: Este ya está contramedidas. Bien, Inyección Bueno, acá. Es
+
+260
+00:43:44.620 --> 00:43:59.650
+Lucas Bonanni: típico. Siempre nunca dejó de estar. Básicamente es la inyección de consultas a base de datos inyección de comandos para terminal, no en el caso de que
+
+261
+00:43:59.870 --> 00:44:04.179
+Lucas Bonanni: 1 tenga acceso a un tipo de a P I que hace
+
+262
+00:44:05.870 --> 00:44:10.149
+Lucas Bonanni: alguna ejecución de de algún comando por terminal.
+
+263
+00:44:10.270 --> 00:44:12.110
+Lucas Bonanni: Y
+
+264
+00:44:12.770 --> 00:44:21.549
+Lucas Bonanni: básicamente, siempre son el mismo problema, ¿sí? Porque no se utiliza una R, M o o N: Siempre nunca.
+
+265
+00:44:22.720 --> 00:44:35.040
+Lucas Bonanni: digamos se parametriza o se confía demasiado en básicamente en en la entrada del usuario que no se debería cuando vos tenés un acceso muy bajo de nivel, ya sea la base de datos
+
+266
+00:44:35.040 --> 00:44:46.100
+Lucas Bonanni: o a o a la terminal o al sistema operativo. No deberías poder dejar que nada de lo que llegue, sea por el usuario en ti, sin haber sido validado.
+
+267
+00:44:48.020 --> 00:45:03.809
+Lucas Bonanni: De hecho, no debería llegar nada. Lo que es comandos no debería llegar nada. Deberías vos tener capas para vos, de alguna manera, asegurarte de lo que las acciones que se puedan ejecutar solamente son las definidas y nada más.
+
+268
+00:45:06.810 --> 00:45:13.049
+Lucas Bonanni: Bueno, acá hay algunas de las empresas que fueron afectadas.
+
+269
+00:45:13.490 --> 00:45:32.050
+Lucas Bonanni: Bueno, muchas por inyección de código. Si básicamente por ahí para ver un ejemplo de, básicamente es lo más común que vos tenés. Un input, Sí, donde vos. Qué sé yo muchas veces. Puede ser un formulario donde en el bueno, como dice acá en el en el
+
+270
+00:45:32.170 --> 00:45:50.749
+Lucas Bonanni: campo usuario, vos escribís, tu usuario puede ser acá admin lo que sea cualquier cosa. No importa. Porque en realidad después, lo que importa acá es que vos estás con esta comillas, estás cerrando la cueri, estás comentando todo lo que viene después. ¿sí?
+
+271
+00:45:50.960 --> 00:46:02.940
+Lucas Bonanni: Y eso hace que básicamente quede esto. Y esto entonces rompe, Sí, entonces
+
+272
+00:46:03.760 --> 00:46:15.139
+Lucas Bonanni: se ignora todo lo demás. Y lo que vos podés hacer es en el medio ejecutar acá en el medio, ejecutar un acuerdo y de de base de datos, Sí,
+
+273
+00:46:16.660 --> 00:46:21.700
+Lucas Bonanni: Y lo peor que lo que es peor es que la A. P. I de de
+
+274
+00:46:21.980 --> 00:46:30.570
+Lucas Bonanni: una manera, te devuelve esos resultados. Y y y no está haciendo una una conversión, porque en algún punto, si vos.
+
+275
+00:46:31.400 --> 00:46:43.709
+Lucas Bonanni: Si el Backend estuviera manejando también un a R. M. Lo que hace es mapearle un modelo de datos y no te devuelve los resultados en bruto. Eso es porque hay a algún error y alguna buena práctica, que no
+
+276
+00:46:44.250 --> 00:46:54.219
+Lucas Bonanni: hay varias buenas prácticas que no se están cumpliendo en realidad y yo estás devolviendo el output tal cual como vos te aparece en la base de datos.
+
+277
+00:46:54.570 --> 00:46:56.270
+Lucas Bonanni: y no debería ser así.
+
+278
+00:46:59.510 --> 00:47:08.599
+Lucas Bonanni: Entonces, ¿cómo mitigar el tema de las inyecciones consultas parametrizadas y no dejar que se pueda
+
+279
+00:47:08.740 --> 00:47:16.210
+Lucas Bonanni: ingresar de alguna manera un dato que no es validarlos, O sea, si aparece usuario que sea un campo usuario
+
+280
+00:47:16.480 --> 00:47:28.319
+Lucas Bonanni: y variedades que tenga un usuario que no tenga caracteres un usuario no no debería poder tener 2 guiones seguidos ni comillas simples, ni ese tipo de cosas.
+
+281
+00:47:28.700 --> 00:47:32.990
+Lucas Bonanni: Se tiene que hacer la validación tanto en el Frontend como en el Back End.
+
+282
+00:47:33.430 --> 00:47:43.000
+Lucas Bonanni: el uso de R O. R. Ms: Sí, para que vos no hagas una consulta directamente en en stream
+
+283
+00:47:45.220 --> 00:47:59.629
+Lucas Bonanni: directamente a base de datos, sino que lo haces mapeando a entidades y haces a través de la consulta a través de modelos y a través de un modelo relacional. Y además, cuando ese resultado, no
+
+284
+00:47:59.850 --> 00:48:13.550
+Lucas Bonanni: suponiendo de que de alguna forma se hace algún acuery todavía el o R. M, ¿Cual al no poder, eso mapearlo a un resultado, va a fallar, pero no te va a dar los resultados.
+
+285
+00:48:14.470 --> 00:48:16.719
+Lucas Bonanni: entonces esa es la ventaja que tiene
+
+286
+00:48:17.930 --> 00:48:36.340
+Lucas Bonanni: después validación positiva de solamente dejar los que están los cara, los caracteres esperados, sí para, por ejemplo, los números de teléfono. Los usuarios, como decía, ¿no? Es decir, bueno, acá solamente se esperan números acá en el usuario. Solamente se esperan letras.
+
+287
+00:48:36.360 --> 00:48:43.809
+Lucas Bonanni: Nos esperan arrobas ni nada por el estilo o en el email. Se esperan, arrobas y punto.
+
+288
+00:48:43.990 --> 00:48:45.840
+Lucas Bonanni: pero nada más
+
+289
+00:48:46.820 --> 00:48:56.399
+Lucas Bonanni: y después, bueno, escapear variables dinámicas, ¿no? Cuando vos tienes un acuario. Y lo que haces es bueno, es aquary
+
+290
+00:48:56.870 --> 00:49:10.800
+Lucas Bonanni: la contener, porque esa variable, la digamos, las capeas, lo que se llama entonces todos los símbolos que aparecen adentro no los toma, como no los analiza el procesador como
+
+291
+00:49:11.120 --> 00:49:18.009
+Lucas Bonanni: como parte del lenguaje, sino que los toma todo como un string entonces no tienen efecto.
+
+292
+00:49:25.460 --> 00:49:31.550
+Lucas Bonanni: Bien, el siguiente sí sería un diseño inseguro.
+
+293
+00:49:33.780 --> 00:49:35.590
+Lucas Bonanni: Y
+
+294
+00:49:41.350 --> 00:49:48.239
+Lucas Bonanni: bueno, acá el tema es que bueno, vos diseñas y tenés un flujo así de producto
+
+295
+00:49:48.430 --> 00:49:54.799
+Lucas Bonanni: que que es válido, sí, pero se puede
+
+296
+00:49:55.300 --> 00:50:08.359
+Lucas Bonanni: abusar de cuál de una manera, Si se puede utilizar esto, va a depender mucho del negocio y entonces bueno, nada se pueden ocurrir en riesgos o situaciones
+
+297
+00:50:08.510 --> 00:50:17.959
+Lucas Bonanni: que no han sido controladas o que no se tuvieron en cuenta. Entonces se usan losenpos de una manera y
+
+298
+00:50:18.220 --> 00:50:23.070
+Lucas Bonanni: nada generan Mhm.
+
+299
+00:50:23.460 --> 00:50:32.339
+Lucas Bonanni: Situaciones que no. Como digo, situaciones que no fueron esperadas o no fueron diseñadas. Entonces
+
+300
+00:50:32.730 --> 00:50:38.110
+Lucas Bonanni: se pierde Ahora vamos a ver un ejemplo.
+
+301
+00:50:40.750 --> 00:50:45.159
+Lucas Bonanni: Bueno, acá lo lo de zoom, no, que es la serie.
+
+302
+00:50:45.850 --> 00:50:55.039
+Lucas Bonanni: digamos, las con las reuniones, no tenían contraseña por defecto. Y los I D C eran numéricos, cortos y secuenciales. Entonces vos te podías
+
+303
+00:50:55.710 --> 00:51:14.870
+Lucas Bonanni: unir a cualquier zoom fácilmente ¿no? Bueno, Y esto lo de Tesla, también, que tenía la la llave de pasivo que permitía el robo de automóviles, porque cualquiera de hecho, otro Tesla abría la puerta de otro y
+
+304
+00:51:15.340 --> 00:51:25.660
+Lucas Bonanni: te podías subir a cualquier otra Tesla. De hecho, ahí está la historia de de 1 que que era vecino de otro y que se subió al Tesla del vecino y
+
+305
+00:51:25.920 --> 00:51:35.510
+Lucas Bonanni: y se y se dio cuenta, no sé a las 5 cuadras porque no estaban las cosas como él las tenía y y se dio cuenta.
+
+306
+00:51:35.700 --> 00:51:43.620
+Lucas Bonanni: Pero sí, qué raro que Ejemplo de explotación. Ahí está. Ahí. Vamos.
+
+307
+00:51:44.060 --> 00:51:53.469
+Lucas Bonanni: Bien, Sí, Esto es el, por ejemplo, el un ejemplo de un e commerce, sí, donde vos, por ejemplo, tenés
+
+308
+00:51:53.580 --> 00:52:05.629
+Lucas Bonanni: añadir al carrito. Entonces hay un un grupo de de de hackers o gente maliciosa o gente que quiere básicamente
+
+309
+00:52:05.630 --> 00:52:13.730
+Lucas Bonanni: la competencia ¿sí? Entonces hacen bots para abrirte muchos carritos de ventas, pero sin finalizar la compra.
+
+310
+00:52:13.740 --> 00:52:26.749
+Lucas Bonanni: Entonces te generan un montón de carritos de compra con algún ítem en particular que bueno, querés que no querés que se venda, o los ítems en particular.
+
+311
+00:52:27.990 --> 00:52:35.669
+Lucas Bonanni: Entonces, claro, como el carrito de compra te mantiene bloqueado por un tiempo.
+
+312
+00:52:36.250 --> 00:52:49.850
+Lucas Bonanni: Digamos, Vieron que cuando ustedes van compran una entrada de cine o compran sí una entrada de cine o una entrada de de lo que sea. Te mantiene, digamos, vos elegir los asientos.
+
+313
+00:52:49.950 --> 00:53:06.750
+Lucas Bonanni: Y mientras que elegir los asientos, bueno, eso te queda bloqueado hasta que vos pasas al check out y realmente pagas, Pero por ese por eso te ponen el contador de 10 min, generalmente o 15 que vos tenés para ir siguiendo y pasando paso a paso.
+
+314
+00:53:06.940 --> 00:53:14.519
+Lucas Bonanni: Y mientras tanto, esas sillas quedan bloqueadas a a tu nombre, y también te puede pasar lo contrario, que se
+
+315
+00:53:14.630 --> 00:53:29.679
+Lucas Bonanni: se juguea. No puedes seguir por alguna razón, tienes que refrescar y vol y y encima te vuelve a a iniciar todo desde 0, y ahora quedaban bloqueadas esas sillas que vos habías elegido, tienes que elegir otras porque
+
+316
+00:53:29.820 --> 00:53:37.560
+Lucas Bonanni: y que en realidad, después por ahí, después volvés a intentar a la hora y y y están
+
+317
+00:53:37.710 --> 00:53:46.840
+Lucas Bonanni: otra vez disponibles. Bueno, eso es porque tienen un sistema de que se bloquean, mientras que está el carrito de compras.
+
+318
+00:53:47.660 --> 00:53:48.780
+Lucas Bonanni: Sí.
+
+319
+00:53:48.780 --> 00:54:08.610
+JUAN GUZZARDI: De eso muy viola que lo hacían para para que viste. Si vos elegís las las sillas de un avión sale más caro. Entonces venía todas las sillas que no quería en una reserva y después compraba la reserva y le tocaba aleatoriamente la que él quería.
+
+320
+00:54:08.610 --> 00:54:10.520
+FACUNDO EMANUEL MODARELLI: Claro toda la lógica.
+
+321
+00:54:10.520 --> 00:54:13.389
+JUAN GUZZARDI: Es muy Viola.
+
+322
+00:54:13.620 --> 00:54:17.150
+JUAN GUZZARDI: Sí, sí, Hace una reserva ficticia. Sí.
+
+323
+00:54:17.150 --> 00:54:17.910
+Lucas Bonanni: Sí, Sí,
+
+324
+00:54:18.160 --> 00:54:36.620
+Lucas Bonanni: Bueno, eso es lo que está. Este es el ejemplo de la de la de de la explotación. No. Esto es lo mismo. Entonces, básicamente lo que estás bloqueando son unidades que quiere vender o asientos que quieres vender, que bueno, en este caso que no quería comprar. Entonces, bueno.
+
+325
+00:54:37.280 --> 00:54:40.009
+Lucas Bonanni: ¿es eso. Eso es el tipo de explotación?
+
+326
+00:54:45.410 --> 00:54:49.700
+Lucas Bonanni: Bueno, este es más difícil sí de analizar porque no no son
+
+327
+00:54:50.130 --> 00:55:00.419
+Lucas Bonanni: tan directos como las configuraciones que vos decís. Bueno, pongo acá. Un rey, Limir. Bueno, el rey Limir, en este caso puede ser un un tipo, porque, bueno, vos vas a tener
+
+328
+00:55:00.640 --> 00:55:02.070
+Lucas Bonanni: unas ciertas.
+
+329
+00:55:02.450 --> 00:55:10.050
+Lucas Bonanni: vas a tener una cantidad de ciertos pedidos, generalmente de algún Ip o la Ip va a ser la misma, entonces
+
+330
+00:55:10.460 --> 00:55:21.579
+Lucas Bonanni: lo podría llegar a a identificar de alguna forma que esto no te pase sí después, Sí, también tener
+
+331
+00:55:21.690 --> 00:55:23.070
+Lucas Bonanni: en
+
+332
+00:55:23.890 --> 00:55:39.609
+Lucas Bonanni: captcha. Así, para validar. Bueno, justamente esto no lo que siempre los captchas que nosotros ponemos para que no sean bots o o o robots, sí que fo llenen formularios que hagan este tipo de cosas.
+
+333
+00:55:39.860 --> 00:55:41.700
+Lucas Bonanni: Y
+
+334
+00:55:43.000 --> 00:55:56.889
+Lucas Bonanni: después, bueno, controles de negocio, más cosas más específicas. Saber poner un poquito más de cabeza al diseño de flujo, no ir siempre por el lo más estándar y y básico
+
+335
+00:55:57.320 --> 00:56:07.890
+Lucas Bonanni: y bueno y seguridad por diseño, no involucrar a las personas de seguridad Inc en al momento que se está diseñando la la funcionalidad.
+
+336
+00:56:10.950 --> 00:56:14.909
+JUAN GUZZARDI: Eso entraría en Devsycops. No todo todo lo que estamos viendo ahora.
+
+337
+00:56:14.910 --> 00:56:21.020
+Lucas Bonanni: No. Des: def ¿Se Cops: Bueno, sí, podría ser, sí,
+
+338
+00:56:21.290 --> 00:56:26.879
+Lucas Bonanni: sí, sí, sí, pero estaba pensando en hitsecops, pero sí Deav Secops. Sí, puede ser.
+
+339
+00:56:27.500 --> 00:56:33.759
+JUAN GUZZARDI: Claro está. Pa: Me imagino, por la lo que decía la descripción, que era integrarla.
+
+340
+00:56:34.270 --> 00:56:34.770
+Lucas Bonanni: A los.
+
+341
+00:56:34.770 --> 00:56:36.220
+JUAN GUZZARDI: Seguridad en cada etapa.
+
+342
+00:56:38.000 --> 00:56:45.650
+Lucas Bonanni: Sí, Sí, Sí, Sí, sí sí tener a alguien que por lo menos analice y que al momento lo que pasa que ahí es donde
+
+343
+00:56:46.870 --> 00:56:57.479
+Lucas Bonanni: también depende de la velocidad del negocio, no porque hay muchas que que ni siquiera las analiza a ver.
+
+344
+00:56:57.610 --> 00:57:04.729
+Lucas Bonanni: No sé, yo he trabajado en empresas donde vos tienes un un analista que va y que hace toda la descripción de del
+
+345
+00:57:04.820 --> 00:57:23.719
+Lucas Bonanni: de la funcionalidad. Y después te llega, digamos a vos. Entonces bueno, tenés como una instancia anterior, donde alguien más puede analizar y vos puedes incluir esa etapa, pero hay empresas en las que no que vos tenés. Bueno, vamos a desarrollar esto. Bueno, analizarlo. ¿cómo lo vas a hacer y y lo aprobamos.
+
+346
+00:57:23.720 --> 00:57:31.830
+Lucas Bonanni: y no hay una chance de que alguien de seguridad venga o tiene muy poco tiempo para realmente analizarlo en profundidad.
+
+347
+00:57:31.940 --> 00:57:35.140
+Lucas Bonanni: Entonces algo que sea algún flujo
+
+348
+00:57:35.520 --> 00:57:38.770
+Lucas Bonanni: particular es como a veces no hay chance.
+
+349
+00:57:40.730 --> 00:57:45.070
+JUAN GUZZARDI: Claro claro si si se me ocurre bien, si no que vaya.
+
+350
+00:57:45.660 --> 00:57:46.310
+Lucas Bonanni: Claro.
+
+351
+00:57:48.960 --> 00:57:58.139
+Lucas Bonanni: Y Y bueno. Y después este que es básicamente fallas en la autenticación. Sí,
+
+352
+00:57:59.600 --> 00:58:13.189
+Lucas Bonanni: básicamente, donde hay ausencia de bloqueos temporales y de, por ejemplo, bueno, cuando se intenta acceder a una Contrac a 1 a una cuenta
+
+353
+00:58:13.220 --> 00:58:28.089
+Lucas Bonanni: y se quiere y se hacen múltiples intentos y no le das una un local y que por eso te dice, bueno, vuelve a reinventar dentro de media hora una hora así y se va incrementando a medida que hay más
+
+354
+00:58:28.460 --> 00:58:31.850
+Lucas Bonanni: intentos fallidos, ¿no?
+
+355
+00:58:32.690 --> 00:58:43.080
+Lucas Bonanni: Entonces, bueno, no requerir autenticación de múltiples factores de de autenticación para para las cuentas. Y
+
+356
+00:58:43.610 --> 00:58:50.640
+Lucas Bonanni: bueno, ahora están las Pas Kiss también para para agregar a eso.
+
+357
+00:58:50.930 --> 00:59:02.259
+Lucas Bonanni: Entonces, Bueno, también tener los criterios de creación de contraseñas que sean contraseñas, fuertes y no débiles. Si entonces pedirle que tengan un un largo
+
+358
+00:59:02.540 --> 00:59:12.900
+Lucas Bonanni: mayor de 8 caracteres, sino quedarse en los 8 caracteres todavía y aplicaciones que te dicen te limitan a los 8 o a los 12 caracteres, cuando
+
+359
+00:59:13.070 --> 00:59:20.440
+Lucas Bonanni: no hay necesidad realmente para para limitarte y
+
+360
+00:59:21.290 --> 00:59:27.939
+Lucas Bonanni: y bueno, malos manejo de sesiones. Y esto es parecido también a a al que vimos anterior
+
+361
+00:59:28.330 --> 00:59:40.499
+Lucas Bonanni: malos manejos de cierre de sesión. Sí que hay veces que la sesión no queda o no invalidan el token o o la cookie sí correctamente.
+
+362
+00:59:46.730 --> 00:59:53.480
+Lucas Bonanni: Bueno, acá hay 2 2 ejemplos, también de de empresas que le han pasado, y debe haber más
+
+363
+00:59:55.050 --> 01:00:00.269
+Lucas Bonanni: nintendo. Sí. Y había otra también de de Playstation, que era
+
+364
+01:00:00.880 --> 01:00:07.939
+Lucas Bonanni: que un chico había puesto asterisco asterisco asterisco, la misma cantidad que era el Password y
+
+365
+01:00:08.780 --> 01:00:16.650
+Lucas Bonanni: y entró a la cuenta de del del padre para para acceder a a los juegos y todo
+
+366
+01:00:16.950 --> 01:00:20.119
+Lucas Bonanni: bueno es lo mismo. Es parte de esto?
+
+367
+01:00:23.280 --> 01:00:34.649
+Lucas Bonanni: Bueno, acá hay un megaarchivo comprimido volcado a cientos de 1 000 000 de correos contraseñas extraídas.
+
+368
+01:00:35.320 --> 01:00:54.980
+Lucas Bonanni: Claro. Bueno, acá esto puede pasar cuando ustedes pone una una contraseña que 1 tuvo en algún correo. El riesgo es este no, porque muchos de nosotros sabemos que se reutilizan. Las contraseñas sí se utilizan múltiples veces.
+
+369
+01:00:54.980 --> 01:01:07.259
+Lucas Bonanni: Y para múltiples cuentas, la misma que se usa para Facebook. Se usa para Linkedin, para el banco para todo. Entonces, ¿qué pasa? Los atacantes saben eso? Entonces
+
+370
+01:01:07.260 --> 01:01:14.639
+Lucas Bonanni: van a hacer lo que un escaneo? Van a buscar lo que puedan de esa persona. Los emails
+
+371
+01:01:14.640 --> 01:01:29.029
+Lucas Bonanni: van a ser diferentes tipos de búsqueda y van a intentar usar esa contraseña o esa base de datos para ver en dónde pueden ingresar con esas contraseñas y con esas bases de datos.
+
+372
+01:01:29.410 --> 01:01:38.250
+Lucas Bonanni: Por eso una de las buenas prácticas personales, como personas que podemos aplicar es utilizar las diferentes contraseñas para todos
+
+373
+01:01:38.440 --> 01:01:50.290
+Lucas Bonanni: y utilizar un gestor de contraseñas, porque obviamente no las vamos a recordar todas, pero sí utilizar un gestor de contraseñas que nos administre las contraseñas.
+
+374
+01:01:50.710 --> 01:01:53.850
+JUAN GUZZARDI: Que no sea el que vimos antes.
+
+375
+01:01:54.530 --> 01:01:58.990
+Lucas Bonanni: No que puede ser que sea el que en realidad ningún ninguna aplicación. Estás
+
+376
+01:01:59.810 --> 01:02:04.900
+Lucas Bonanni: propenso a que no tenga fallas de seguridad, pero por lo menos
+
+377
+01:02:05.720 --> 01:02:11.220
+Lucas Bonanni: vos fíjate que lo que vimos anterior solamente eran las L I, o sea, que
+
+378
+01:02:11.750 --> 01:02:18.860
+Lucas Bonanni: básicamente ataca a un grupo muy particular si vos tenés usar solamente la extensión web
+
+379
+01:02:19.140 --> 01:02:21.890
+Lucas Bonanni: y si lo actualizaste durante estos días.
+
+380
+01:02:24.540 --> 01:02:31.890
+Lucas Bonanni: Así que todavía todavía es, digamos, la afectación es poca.
+
+381
+01:02:32.380 --> 01:02:33.659
+JUAN GUZZARDI: Claro, no es tan grande.
+
+382
+01:02:34.390 --> 01:02:35.510
+Lucas Bonanni: No es tan grande.
+
+383
+01:02:35.660 --> 01:02:42.340
+Lucas Bonanni: pero sí al al que le tocó y que le actualizó. Y qué sé yo a
+
+384
+01:02:42.620 --> 01:02:50.949
+Lucas Bonanni: me pudo haber pasado a mí. Yo no la estoy usando, pero la tenía instalada, pero tengo una versión anterior.
+
+385
+01:02:51.320 --> 01:02:52.650
+Lucas Bonanni: y pero.
+
+386
+01:02:53.940 --> 01:03:07.329
+JUAN GUZZARDI: El impacto, porque yo ponerle personalmente pongo para todos lo mismo una boludez, pero tengo doble autenticación en todo, y es como. Nah. Bueno, si si está en cualquier lado, me da igual, porque realmente todo me pido la autenticación.
+
+387
+01:03:07.780 --> 01:03:10.259
+Lucas Bonanni: Bueno, Bueno, por eso tenés que tener
+
+388
+01:03:10.610 --> 01:03:22.830
+Lucas Bonanni: la idea es que tengas eso también. La doble autoindicación, las pas Kiss, no de tener todas esas medidas son lo que ayuda a que el día de mañana, si se te filtre la contraseña.
+
+389
+01:03:23.010 --> 01:03:28.290
+Lucas Bonanni: bueno, necesita más cosas, ¿no? Entonces esa es otra cosa también.
+
+390
+01:03:30.640 --> 01:03:40.860
+Lucas Bonanni: pero sí sí sí. Sí es es importante seguir est estas buenas prácticas y tratar de, por lo menos, tomar un poco de conciencia de que
+
+391
+01:03:42.850 --> 01:03:57.050
+Lucas Bonanni: qué contraseñas y no. ¿y cuáles podes asegurarte más, porque podrías tener algunas que digas. Bueno, no las tengo. Acá Las tengo en en el kispass de una aplicación de escritorio
+
+392
+01:03:57.440 --> 01:03:59.299
+Lucas Bonanni: que, y bueno.
+
+393
+01:03:59.700 --> 01:04:06.569
+Lucas Bonanni: esa sabemos que es la antigua. La primera aplicación, El mi primer administrador de contraseña fue ese
+
+394
+01:04:06.740 --> 01:04:20.679
+Lucas Bonanni: cuando 1 tenía siempre una sola computadora y no acabamos ahora que tienes bueno, el tenis, la por ahí, tu personal, el trabajo. Y el día de mañana tienes que ir a la computadora de
+
+395
+01:04:20.840 --> 01:04:29.119
+Lucas Bonanni: detalles. Y si bueno, necesito alguna contraseña y la tengo que ver, o la tenés en el celular, ¿no? Entonces.
+
+396
+01:04:29.270 --> 01:04:35.079
+Lucas Bonanni: Pero cuando antes tenías una computadora tranquilamente, podías tener tu gestor de contraseñas en el escritorio.
+
+397
+01:04:37.720 --> 01:04:40.870
+JUAN GUZZARDI: Claro, Sí, Sí, sí, sí. Yo la he usado desde aquí. Pasa. Está muy buena.
+
+398
+01:04:42.970 --> 01:04:46.999
+Lucas Bonanni: Acá ya le escribo para echar. Me tengo que retirar Wentfinder.
+
+399
+01:04:47.750 --> 01:04:52.700
+Lucas Bonanni: Bueno, creo que ya se retiró por eso. La bien.
+
+400
+01:04:56.370 --> 01:05:01.279
+Lucas Bonanni: Bueno, entonces esto está claro. Y entonces
+
+401
+01:05:03.750 --> 01:05:13.200
+Lucas Bonanni: bueno, bueno, acá también está el ejemplo que bueno, lo que justamente en el ejemplo dice que a las plataformas también les falta el segundo factor de autenticación.
+
+402
+01:05:16.140 --> 01:05:30.699
+Lucas Bonanni: Y bueno, acá Bueno, Mfa, obligatorio, Sí. Defensa: anti fuerza bruta. Entonces aplicar el bloqueo de cuentas tras intentos repetidos. Limitar las peticiones de los tiempos de seguridad. Sí,
+
+403
+01:05:30.800 --> 01:05:37.770
+Lucas Bonanni: auditoría de las credenciales expuestas sí
+
+404
+01:05:39.000 --> 01:05:43.760
+Lucas Bonanni: después gestión estricta de sesiones, y validar los tokens
+
+405
+01:05:44.550 --> 01:05:55.879
+Lucas Bonanni: tras de cierto periodo, no dejar los los tokens eternamente válidos, sino que se invaliden automáticamente tras cierto tiempo. ¿sí?
+
+406
+01:06:01.140 --> 01:06:09.290
+Lucas Bonanni: Y después tenemos lo que sería software o data integrity sin fallos de de ese tipo
+
+407
+01:06:09.530 --> 01:06:17.030
+Lucas Bonanni: que básicamente son, cuando se tiene.
+
+408
+01:06:17.480 --> 01:06:24.559
+Lucas Bonanni: digamos, se confía demasiado el en los componentes y la actualización.
+
+409
+01:06:24.930 --> 01:06:31.609
+Lucas Bonanni: y eso puede llegar a comprometer la integridad de
+
+410
+01:06:31.610 --> 01:06:46.230
+Lucas Bonanni: el software. Lo que veo es que algunas, a medida que van van evolucionando y van agrupando como varias vulnerabilidades en una en aguas, se va volviendo un poquito más
+
+411
+01:06:46.400 --> 01:06:50.730
+Lucas Bonanni: abstracto porque van juntando varias cosas juntas.
+
+412
+01:06:51.140 --> 01:07:04.549
+Lucas Bonanni: Y toda esa, por ejemplo, aceptar objetos lógicos codificados prohibidos por el usuario.
+
+413
+01:07:09.540 --> 01:07:16.650
+Lucas Bonanni: Bueno, uso de redes de distribución de C, D, N, sin aplicar mecanismos de integridad
+
+414
+01:07:16.670 --> 01:07:30.559
+Lucas Bonanni: de recursos, falta de verificación de estrictas de firmas digitales de los parches. Bueno, esto es muy parecido también a a lo que es su planchange. No, no validar lo que
+
+415
+01:07:30.850 --> 01:07:42.390
+Lucas Bonanni: l el código o o la ejecución o el software que estamos utilizando, o el contenido que no es proveído de terceros. ¿no?
+
+416
+01:07:45.560 --> 01:07:54.399
+Lucas Bonanni: Entonces Bueno, acá Asus, una operación masiva. Se llama Hammer, una herramienta oficial de asus light. Va
+
+417
+01:07:54.920 --> 01:08:12.500
+Lucas Bonanni: fue manipulada para entregar un troyano certificado con firmas criptográficas validadas a medio 1 000 000 de usuarios claros. Todavía sí, porque esto en el caso, este es que vos no, no tenías forma de validar cuando te descargabas el
+
+418
+01:08:12.500 --> 01:08:17.139
+Lucas Bonanni: la aplicación de Asus, que el el hash que 1 has
+
+419
+01:08:17.180 --> 01:08:27.880
+Lucas Bonanni: Así, cuando descarga, por ejemplo, eso validar que Esa es el la aplicación correcta? ¿no?
+
+420
+01:08:30.560 --> 01:08:35.540
+Lucas Bonanni: Bueno, acá que inyectaron un malware directamente
+
+421
+01:08:35.859 --> 01:08:47.679
+Lucas Bonanni: de distribución oficial antes de liberarlo al público. Y nuevamente, Seguramente, si 1 tenía el hash para comparar de ese binario del
+
+422
+01:08:47.800 --> 01:08:52.829
+Lucas Bonanni: del original y del con el inyectado, hubiera sido diferente. No.
+
+423
+01:08:56.410 --> 01:08:57.060
+JUAN GUZZARDI: Y sí.
+
+424
+01:08:57.060 --> 01:09:01.059
+Lucas Bonanni: Entonces, bueno, es tipo sí, Hay demasiada.
+
+425
+01:09:01.899 --> 01:09:03.739
+JUAN GUZZARDI: No, no te decía ahí? Sí, Sí.
+
+426
+01:09:08.040 --> 01:09:10.479
+Lucas Bonanni: Bien a
+
+427
+01:09:10.550 --> 01:09:29.329
+Lucas Bonanni: el Disfraz de Cookie, se realizado un desarrollador de plataforma de Java, decide agilizar los tiempos de respuesta guardando un perfil de usuario dentro de una cookie local para mantener la estructura intacta. Se realiza el objeto de Java codificándolo en base 64, y lo envía al navegador. El atacante visualiza la Cookie.
+
+428
+01:09:30.350 --> 01:09:41.840
+Lucas Bonanni: ver las las cabeceras y serializada, sí, y detecta que Java, nativo a través de una herramienta de
+
+429
+01:09:42.060 --> 01:09:43.310
+Lucas Bonanni: y Soriis.
+
+430
+01:09:43.890 --> 01:09:54.420
+Lucas Bonanni: Iso, serial arma un pelo. Sí. Con este nuevo paquete luce lícito, pero en realidad es un código manipulado de ejecución de comandos.
+
+431
+01:09:55.420 --> 01:09:58.979
+Lucas Bonanni: Intercambia textualmente. La cookie
+
+432
+01:10:04.060 --> 01:10:06.890
+Lucas Bonanni: se me desconectó. El monitor dame. Un segundo ahí está
+
+433
+01:10:12.280 --> 01:10:26.579
+Lucas Bonanni: vale a dice, bueno, el atacante intercambia textualmente la cookie normal por una diseñada. Sí, en la web.
+
+434
+01:10:27.290 --> 01:10:33.999
+Lucas Bonanni: Bueno, claro, y obviamente, al reconstruirse después en el lado del servidor obviamente
+
+435
+01:10:34.400 --> 01:10:40.949
+Lucas Bonanni: ejecuta el código y y puede tener un reversell y controlar la cell del servidor.
+
+436
+01:10:43.240 --> 01:10:51.700
+Lucas Bonanni: Así. Que bueno sí, podría ser este un una modificación de algo y no validar ese ese código. ¿no?
+
+437
+01:10:52.340 --> 01:10:56.920
+Lucas Bonanni: Entonces te la voy a sacar
+
+438
+01:10:58.850 --> 01:11:03.780
+Lucas Bonanni: bien, medidas de contramedidas para este tipo de vulnerabilidad
+
+439
+01:11:04.050 --> 01:11:16.590
+Lucas Bonanni: deja de transmitir Estados en 6 nativos y los Estados de la aplicación de la sesión, sí, y siempre tratar de
+
+440
+01:11:16.900 --> 01:11:22.879
+Lucas Bonanni: hackearlo, sí o utilizar mandarlo a través de del token
+
+441
+01:11:24.280 --> 01:11:38.309
+Lucas Bonanni: integridad de sus recursos. Sí, añadir siempre el hash de comprobación a escribir y a estilos importados de redes externas. Sí, o, bueno, cualquier binario, I s. O. S.
+
+442
+01:11:38.750 --> 01:11:50.560
+Lucas Bonanni: Cualquier cosa que que nosotros tengamos que a siempre comprobar si que el hash, si es válido, si y no que estamos descargando algo que sea manipulado.
+
+443
+01:11:51.960 --> 01:12:03.009
+Lucas Bonanni: por otro lado, firmar digitalmente, así como como los Drivers y otros ejemplos son los Drivers, que generalmente tienen que venir firmados, sí
+
+444
+01:12:03.010 --> 01:12:12.769
+Lucas Bonanni: y no, o o el mismo. El código, las instalaciones, los programas, sí. Por eso muchas veces nos salen ad advertencias cuando
+
+445
+01:12:13.120 --> 01:12:31.560
+Lucas Bonanni: el código no no está firmado o no tiene las validaciones exacta. Esto pasa mucho también con las aplicaciones de desarrollo, no que donde muchas veces sabemos que son aplicaciones de desarrollo que no tienen las firmas digitales que no cumplen con con
+
+446
+01:12:32.870 --> 01:12:38.599
+Lucas Bonanni: con todos los requisitos del sistema operativo y muchas veces 1 va y y le da a aceptar. No
+
+447
+01:12:40.880 --> 01:12:43.990
+Lucas Bonanni: ahí es donde P. Entra parte del riesgo.
+
+448
+01:12:51.230 --> 01:13:06.000
+Lucas Bonanni: Bueno, después este tiene que ver más un poquito con con lo que vemos por ahí un poco en the box. Sí que vamos a ver en la parte de monitoreo que es la parte de fallas de de registro y de monitoreo de seguridad. Básicamente es que
+
+449
+01:13:06.550 --> 01:13:19.950
+Lucas Bonanni: lo que mencionabas, creo que fue una de las primeras que decíamos que bueno, que que si vos tenés un script que te está consultando un 1 000 000 de request no tenés un rate leaming.
+
+450
+01:13:20.130 --> 01:13:33.680
+Lucas Bonanni: No tienes una alerta que te esté diciendo, Che Te están pegando un 1 000 000 de veces al mismo endpoint en cuest, y en hasta desde hace una hora y a vos no te saltó ninguna alerta desde la misma. I: P:
+
+451
+01:13:34.220 --> 01:13:35.480
+Lucas Bonanni: Qué raro?
+
+452
+01:13:36.370 --> 01:13:50.410
+Lucas Bonanni: Bueno, tener logs los logs van de la mano de de la parte de monitoreo y la alerta, no porque si no estás logueando eso y no tienes una alerta de configurar. Si no estás logueando, nunca vas a poder tener una alerta.
+
+453
+01:13:50.810 --> 01:13:55.889
+Lucas Bonanni: Y y si estás logueando, y no tienes una alerta. Bueno.
+
+454
+01:13:56.140 --> 01:14:15.209
+Lucas Bonanni: también deberías tener una alerta. Bueno de esos casos, lo que pasa, que muchas veces todo ese tipo de alertas se van configurando de manera menos que pa Cuando pasa un caso. Después se configura y no se configur. No se tienen preconfiguradas en algún punto, ¿no? Pero deberían.
+
+455
+01:14:16.140 --> 01:14:25.139
+Lucas Bonanni: Entonces? Bueno, deberían haber este tipo de medidas para tratar de tener.
+
+456
+01:14:27.210 --> 01:14:46.559
+Lucas Bonanni: Puede recrear im, informes y tener tratar de saber qué es lo que pasó, tener una poder realizar una analítica de de las cosas que ha que han pasado. Esto también incluye en la parte, digamos, forense donde, bueno, 1 puede llegar a
+
+457
+01:14:46.560 --> 01:15:00.700
+Lucas Bonanni: a entender qué es lo que pasó. ¿cómo fue el ataque? No, si 1 ni siquiera tiene. Log No puedes hacer un siquiera un una, un análisis post mortem de lo que pasó y y cómo lo podés prevenir en un futuro.
+
+458
+01:15:01.240 --> 01:15:09.829
+Lucas Bonanni: ¿sí? O los blogs no dicen mucho. Solamente dicen goethe desde tal Ip un goethe desde ni siquiera la Ip: un get.
+
+459
+01:15:10.850 --> 01:15:23.459
+Lucas Bonanni: y y tal vez la la U. R. L, y nada más. Y no tienes más información. Entonces por ahí no te dice mucho más que sí. Se hicieron un montón de Request A, H, T, T, P,
+
+460
+01:15:24.430 --> 01:15:26.020
+Lucas Bonanni: Ni eso no nos sirve.
+
+461
+01:15:27.690 --> 01:15:34.760
+Lucas Bonanni: Entonces, Bueno, esto también la en la existencia total de umbrales y automáticos de contingencia y de alertas.
+
+462
+01:15:37.320 --> 01:15:46.120
+Lucas Bonanni: Entonces, bueno, acá. Tenemos otra vez nuevamente ejemplos, ¿no? Donde.
+
+463
+01:15:47.170 --> 01:15:53.700
+Lucas Bonanni: bueno, acá no explica mucho. Los atacantes clandestinamente operaron
+
+464
+01:15:53.860 --> 01:15:59.310
+Lucas Bonanni: dentro de su red, pagos de un 1 000 004 años extensos.
+
+465
+01:16:00.010 --> 01:16:07.849
+Lucas Bonanni: No sé que sí, acá En ningún momento se dieron cuenta de de lo que había pasado por 4 años
+
+466
+01:16:08.500 --> 01:16:09.980
+Lucas Bonanni: en
+
+467
+01:16:15.120 --> 01:16:20.909
+Lucas Bonanni: ya bien acá. El ejemplo. Bueno.
+
+468
+01:16:21.070 --> 01:16:40.529
+Lucas Bonanni: Entonces, a través de ingeniería social off phishing, un atacante doblega el ordenador de soporte de una corporación, o sea, mandándole un mail con un adjunto, sí, y el y el Y esta persona abre ese adjuntos y termina callando en el phishing
+
+469
+01:16:40.640 --> 01:16:48.870
+Lucas Bonanni: y aprovecha las fallas de de arquitectura y obtiene, bueno, un perfil de
+
+470
+01:16:48.980 --> 01:16:53.540
+Lucas Bonanni: la base principal de clientes. Porque, bueno, a través de
+
+471
+01:16:54.130 --> 01:16:58.759
+Lucas Bonanni: de este ordenador de soporte de la de la corporación.
+
+472
+01:17:00.380 --> 01:17:13.399
+Lucas Bonanni: entonces para no levantar sospechas, Sí, programa, bueno, le escribo rutina, así que cada noche en la madrugada, los fines de semana.
+
+473
+01:17:13.560 --> 01:17:17.260
+Lucas Bonanni: ¿y pa ¿Qué tal listados de masivos de la base de datos
+
+474
+01:17:17.610 --> 01:17:25.440
+Lucas Bonanni: y los encripta y los manda a un servidor afuera, ¿sí? Y
+
+475
+01:17:26.760 --> 01:17:36.889
+Lucas Bonanni: entonces no tiene ningún tipo de la empresa. No tiene ningún tipo de lo de este tipo de de monitoreo de este tipo de actividad. Y esas
+
+476
+01:17:37.500 --> 01:17:41.190
+Lucas Bonanni: salidas de de información sí
+
+477
+01:17:41.310 --> 01:17:54.310
+Lucas Bonanni: no se detectan. Básicamente, entonces no se puede hacer ningún tipo de acción, ningún tipo de prevención, porque no no se nota ningún tipo de alerta o
+
+478
+01:17:54.420 --> 01:18:00.980
+Lucas Bonanni: actividad de sospechosa, entonces tranquilamente se puede sustraer la información.
+
+479
+01:18:05.540 --> 01:18:13.969
+Lucas Bonanni: entonces como contramedidas contra no tener o las fallas de monitoreo. Y Login? Bueno.
+
+480
+01:18:14.770 --> 01:18:18.439
+Lucas Bonanni: la primera medida es tratar de tener loguear
+
+481
+01:18:18.580 --> 01:18:33.430
+Lucas Bonanni: la mayor cantidad de errores. Tener estos alertas automáticas configuradas con con con tresballs. Sí que por lo menos te permite de alguna manera, ahora ahí alertas todavía mucho, un poquito más
+
+482
+01:18:33.560 --> 01:18:39.969
+Lucas Bonanni: automáticas, ¿Donde vos podés decir, bueno, comportamientos anómalos ¿sí? Entonces
+
+483
+01:18:40.090 --> 01:18:51.529
+Lucas Bonanni: va analizando a partir de los blogs que es más o menos lo esperado. Y si eso llega a crecer de repente tenés un pico por algo y te va a saltar alguna alerta en algún lado?
+
+484
+01:18:52.520 --> 01:19:01.059
+Lucas Bonanni: ¿sí? Entonces esos esos tipos de alertas también son para detectar el tipo de anomalías.
+
+485
+01:19:01.290 --> 01:19:10.819
+Lucas Bonanni: Bueno, después, siguiendo lo que hice acá inicio de sesión fallidos exitosos, cambios de permisos, sí, conexiones salientes.
+
+486
+01:19:11.170 --> 01:19:13.409
+Lucas Bonanni: Todo ese tipo que creamos que
+
+487
+01:19:13.650 --> 01:19:24.570
+Lucas Bonanni: vale la pena en el contexto está también tratar de lograr no ahí entra un poquito siempre como siempre, un poco el balance siempre entre costos.
+
+488
+01:19:25.600 --> 01:19:37.540
+Lucas Bonanni: porque todos esos logs Obviamente, consumen espacio, y es lo que generalmente te cobran, y es procesamiento también. Entonces, bueno, hay que tener un poquito de balance de todo eso.
+
+489
+01:19:38.640 --> 01:19:48.459
+Lucas Bonanni: Entonces tratar de ver, bueno, cuáles son las cosas sensibles. Por eso siempre hay que hacer siempre un análisis. No es que se puede hacer el obvio de todo.
+
+490
+01:19:49.050 --> 01:20:00.830
+Lucas Bonanni: Pero bueno, después, bueno, exportar los blogs continuamente en tiempo real, tener un una, digamos, un cierto
+
+491
+01:20:01.110 --> 01:20:07.100
+Lucas Bonanni: historial de esos blogs manteniéndose en otro tipo de distancia
+
+492
+01:20:08.640 --> 01:20:21.600
+Lucas Bonanni: siempre tener una calidad de metadatos, siempre tratar de guardar cierto ciertos datos que son necesarios. ¿no? Entonces marcar el tiempo, la Ip, el usuario involucrado
+
+493
+01:20:21.830 --> 01:20:24.219
+Lucas Bonanni: detalles de la solicitud.
+
+494
+01:20:24.430 --> 01:20:40.049
+Lucas Bonanni: Y, bueno, esto es lo que hablábamos también alertas proactivas. No hubo alertas estas de anomalías que van analizando, dependiendo de tráfico del tu historial de tráfico Si detecte un pico muy
+
+495
+01:20:40.670 --> 01:20:50.720
+Lucas Bonanni: extraño o al revés, o una bajada, no que un un decrecimiento del tráfico muy abrupto Siempre va a haber una alerta
+
+496
+01:20:54.640 --> 01:20:59.700
+Lucas Bonanni: Y bueno, por último, es el
+
+497
+01:21:00.950 --> 01:21:07.860
+Lucas Bonanni: mis handlin of excepcional condition. Sigue el mal manejo de condiciones excepcionales
+
+498
+01:21:08.980 --> 01:21:14.299
+Lucas Bonanni: que ese fue. Este fue agregado, el 20 25,
+
+499
+01:21:14.950 --> 01:21:26.940
+Lucas Bonanni: que es a nivel técnico, sí donde se manejan mal condiciones excepcionales y
+
+500
+01:21:27.850 --> 01:21:39.829
+Lucas Bonanni: que esto es más o menos lo que cuando se habla de decir de ser proactivo. Ser reactivo es un poquito relacionado a esto, No, nosotros tenemos medidas.
+
+501
+01:21:39.840 --> 01:21:59.790
+Lucas Bonanni: pero muchas veces somos reactivos en aplicar esas medidas y no somos proactivos al al aplicarla. Entonces no sabemos cómo manejar excepciones excepcionales, porque generalmente por eso son excepcionales y son difíciles de
+
+502
+01:21:59.880 --> 01:22:08.489
+Lucas Bonanni: controlar. Pero, bueno, entonces un aplicar un enfoque de apertura ante fallos, o sea.
+
+503
+01:22:09.480 --> 01:22:12.670
+Lucas Bonanni: digamos, de alguna manera tratar de
+
+504
+01:22:13.190 --> 01:22:16.700
+Lucas Bonanni: ser abierto a los fallos y no
+
+505
+01:22:17.760 --> 01:22:23.070
+Lucas Bonanni: digamos restringir tu aplicación o tratar de
+
+506
+01:22:23.800 --> 01:22:29.269
+Lucas Bonanni: evitar a toda costa ciertos tipos de fallos, sino tratar de, bueno a ver
+
+507
+01:22:29.780 --> 01:22:33.400
+Lucas Bonanni: que esto falle. Y vamos viendo a ver
+
+508
+01:22:33.700 --> 01:22:37.490
+Lucas Bonanni: cómo cómo reacciona la aplicación, no cómo.
+
+509
+01:22:37.710 --> 01:22:45.250
+Lucas Bonanni: básicamente, analizando ese tipo de de circunstancias en
+
+510
+01:22:48.020 --> 01:23:03.059
+Lucas Bonanni: para tratar de de evitar básicamente el colapso de nuestra aplicación, ver cómo son los los fallos de nuestra aplicación, también asegurarnos de que no estamos exponiendo información. Esto
+
+511
+01:23:03.180 --> 01:23:12.729
+Lucas Bonanni: Esto yo, lo que recuerdo de cuando 1 controlar lo que 1 expone a al momento que falla es, por ejemplo.
+
+512
+01:23:13.930 --> 01:23:21.159
+Lucas Bonanni: en en punto Net, 1 tiene los típicos errores 500 y te muestra
+
+513
+01:23:21.930 --> 01:23:31.729
+Lucas Bonanni: el error 500 o el error que que sea que falló. Y muchas veces te pone el strack, 3 de todo. Y ahí vos ves
+
+514
+01:23:31.730 --> 01:23:42.809
+Lucas Bonanni: parte del código y parte del stand. Y parte de lo que de dónde falló. Y puedes ver? Bueno, qué librerías está usando, y estás exponiendo más información de la que deberías.
+
+515
+01:23:43.160 --> 01:23:44.410
+Lucas Bonanni: Mhm
+
+516
+01:23:44.960 --> 01:23:56.530
+Lucas Bonanni: en P, H. P: Tenía algo parecido también que 1 la puede obviamente configurar si estás si vos pones tu entorno de variable como producción, esa información no se expone
+
+517
+01:23:56.950 --> 01:24:04.500
+Lucas Bonanni: Entonces, si vos tenés correctamente configurado, eso no deberías exponer como y
+
+518
+01:24:04.770 --> 01:24:14.440
+Lucas Bonanni: cuál es tu estado, ¿Cuál es información que podrías llegar a ser sensible y que podrías dar información de funcionamiento interno? Básicamente.
+
+519
+01:24:18.790 --> 01:24:23.530
+Lucas Bonanni: y bueno, acá? Clow fer fue afectada.
+
+520
+01:24:25.020 --> 01:24:31.850
+Lucas Bonanni: un quiebre produjo, un quiebre de los buffers Mhm.
+
+521
+01:24:35.110 --> 01:24:43.260
+Lucas Bonanni: contenido cruzado contraseñas de identificadores de clientes, de otros servidores, o sea de dominios de http públicos.
+
+522
+01:24:46.550 --> 01:24:58.650
+Lucas Bonanni: Bueno, acá esto también esto es parecido a lo que mencionaba. No que fallan las apis de unos subdominios y imprimen toda la traza y el ruteo y configuraciones
+
+523
+01:24:58.800 --> 01:25:05.540
+Lucas Bonanni: de de la A, P I o corporativas dentro del del star trade de del fallo.
+
+524
+01:25:05.660 --> 01:25:15.849
+Lucas Bonanni: haciendo que bueno nada poniendo un montón de información que no debería ser que debería ser solamente en el en el entorno de desarrollo ¿no? Y no en el entorno productivo.
+
+525
+01:25:18.840 --> 01:25:24.800
+Lucas Bonanni: Y entonces, bueno, esto es básicamente un ejemplo di donde bueno.
+
+526
+01:25:25.050 --> 01:25:36.880
+Lucas Bonanni: tratando de ver brechas de seguridad. Trata de forzar la U. R. L, Entonces
+
+527
+01:25:37.590 --> 01:25:40.159
+Lucas Bonanni: cambia parte de la U. R. L.
+
+528
+01:25:42.830 --> 01:25:46.680
+Lucas Bonanni: Mhm: Y
+
+529
+01:25:53.160 --> 01:26:06.369
+Lucas Bonanni: bueno, acá. Bueno, básicamente lo que se él sigue poniendo son diferentes inputs sigue haciendo diferentes pruebas. Y hasta que, bueno, el servidor de que en este caso es un lenguaje en Python.
+
+530
+01:26:06.590 --> 01:26:17.920
+Lucas Bonanni: asume una aserción I inaudita, O sea, no, no puede validar esa información. Entonces y
+
+531
+01:26:18.620 --> 01:26:33.030
+Lucas Bonanni: se salta los traen catch que facture, que fractura, o sea que hace que el fallo, este de del código se termina exponiendo si cua por medio de un error 500
+
+532
+01:26:33.370 --> 01:26:42.329
+Lucas Bonanni: y enter. Y y además, no solamente eso, porque eso, además, tiene que venir con combinado de que
+
+533
+01:26:43.800 --> 01:27:02.639
+Lucas Bonanni: muestra la pantalla del error y, además, está en modo de Bag o en modo desarrollo, y por lo cual muestra toda la traza del error y de lo que está pasando. Entonces, bueno, se escucha, se encuentra el básicamente te expone en qué ruta está el
+
+534
+01:27:02.690 --> 01:27:08.670
+Lucas Bonanni: el archivo de S. Q, L o o el archivo de código que que tenga el servidor.
+
+535
+01:27:10.030 --> 01:27:23.649
+Lucas Bonanni: Y se pueden ver más información de variables temporales que se Yo Hash: y cosas que podrían llegar a estar dentro del servidor, ejecuta la aplicación y configuraciones, no
+
+536
+01:27:25.180 --> 01:27:47.969
+Lucas Bonanni: que es parte de lo que a veces está dentro del ex el Stack Tres, no porque te dice, bueno, la aplicación tenía en este momento configurar estas variables de entorno. Esto. Esto esto y falló al momento de llamarse en la línea tal y te va mostrando todo el strack, y eso en producción puede ser un error porque, bueno, primero en variables entornos, 1 sabe que
+
+537
+01:27:48.100 --> 01:27:51.939
+Lucas Bonanni: te guardan un montón de cosas que son sensibles
+
+538
+01:27:53.150 --> 01:27:55.849
+Lucas Bonanni: y que no estaría bueno imprimirla.
+
+539
+01:27:56.990 --> 01:28:00.629
+Lucas Bonanni: Creo que con esto este fue el último.
+
+540
+01:28:01.320 --> 01:28:03.410
+Lucas Bonanni: Bueno, las contramedidas.
+
+541
+01:28:03.910 --> 01:28:22.900
+Lucas Bonanni: no evitar de imprimir mensajes de errores genéricos y siempre Por eso establecemos las variables de entorno en producción. Esta es una de las razones por las cuales lo hacemos para evitar que se liqueen estos stars traces en errores.
+
+542
+01:28:23.890 --> 01:28:33.149
+Lucas Bonanni: Esto lo pueden probar con cualquier aplicación. Cuando cambian el Myronment de dev a pro y ustedes ven que no tienen la misma, ni siquiera la misma cantidad de
+
+543
+01:28:34.750 --> 01:28:42.510
+Lucas Bonanni: ni siquiera la misma cantidad de logos. Cuando ustedes ven los logos deberían ver solamente los info en producción
+
+544
+01:28:44.180 --> 01:28:47.109
+Lucas Bonanni: y cuando están en desarrollo, también ven los de debate.
+
+545
+01:28:47.500 --> 01:28:50.419
+Lucas Bonanni: De esto debería afectar de la misma manera.
+
+546
+01:28:52.210 --> 01:29:04.280
+Lucas Bonanni: Bueno, el aislamiento técnico, no al aislar la la aplicación de de otras aplicaciones del lado del backend y
+
+547
+01:29:04.520 --> 01:29:10.600
+Lucas Bonanni: la falla segura, sí, tener una validación perimetral que también sí
+
+548
+01:29:10.900 --> 01:29:17.140
+Lucas Bonanni: contenga ese tipo de fallos. Acá Muchas veces podía llegar a tener que.
+
+549
+01:29:17.340 --> 01:29:26.190
+Lucas Bonanni: por ejemplo, en en sellar si la aplicación estaba en desarrollo y tenía el el Fale, el Fale Open, o tenían.
+
+550
+01:29:26.640 --> 01:29:30.700
+Lucas Bonanni: ponía el Stack. Tres: todavía tenías la posibilidad de
+
+551
+01:29:31.470 --> 01:29:39.050
+Lucas Bonanni: configurar lo del A Yes para que no muestre el star trace si estaba bien configurado mhm.
+
+552
+01:29:46.000 --> 01:29:49.500
+Lucas Bonanni: Bueno, esto también limitar el tamaño del pelo
+
+553
+01:29:49.860 --> 01:30:01.749
+Lucas Bonanni: para no, no ahogar el bueno en este caso, el intérprete de si es Python o bueno no hacer un uso abusivo de de la memoria y y corrompe agua.
+
+554
+01:30:06.230 --> 01:30:15.379
+Lucas Bonanni: Y bueno, sí, Y esto está todo si está está la clase de seguridad
+
+555
+01:30:16.460 --> 01:30:18.660
+Lucas Bonanni: de las medidas de seguridad de aguas
+
+556
+01:30:22.570 --> 01:30:26.060
+Lucas Bonanni: ¿Tienen alguna duda. Quieren consultarme algo.
+
+557
+01:30:28.950 --> 01:30:34.220
+JUAN GUZZARDI: Sobre la clase? No, Pero quería preguntarte los parciales más o menos cuándo
+
+558
+01:30:34.560 --> 01:30:37.609
+JUAN GUZZARDI: no? Cuándo están las fechas más o menos tipo.
+
+559
+01:30:37.610 --> 01:30:47.090
+Lucas Bonanni: No lo voy a tener listo para la semana que viene, el lunes o el martes. Lo voy a tener listo. No me quedan mucho ya por corregir. Me quedarán unos 5 o no más.
+
+560
+01:30:47.220 --> 01:30:56.540
+Lucas Bonanni: pero sí sí sí. La verdad que esta semana me llevó bastante tiempo corregirlos y seguramente.
+
+561
+01:30:57.100 --> 01:30:59.500
+Lucas Bonanni: la semana que viene
+
+562
+01:31:00.090 --> 01:31:09.800
+Lucas Bonanni: Tal vez hagamos algún algún repaso miremos a ver si hay, si hay algunas dudas sobre algunos conceptos y ese tipo de cosas.
+
+563
+01:31:10.580 --> 01:31:11.730
+Lucas Bonanni: Ahí veremos.
+
+564
+01:31:11.970 --> 01:31:13.710
+JUAN GUZZARDI: Dale fenómeno. Gracias.
+
+565
+01:31:16.870 --> 01:31:21.879
+Lucas Bonanni: También si quieren. Podemos aprovechar para ver una duda de trabajo práctico.
+
+566
+01:31:26.820 --> 01:31:35.249
+JEREMY ERIC BACHER: Buenas Lucas ahí, justo que lo mencionaste. En mi caso, estoy ahí haciendo el trabajo práctico
+
+567
+01:31:35.990 --> 01:31:41.189
+JEREMY ERIC BACHER: para confirmar más que nada. La La consulta es me enfoqué en hacer, o sea, en
+
+568
+01:31:41.640 --> 01:31:48.739
+JEREMY ERIC BACHER: no darle tanta rosca a hacer la A, P. I, o sea, me concentré con que es una A P I básica e hice un endpoint.
+
+569
+01:31:48.860 --> 01:31:52.919
+JEREMY ERIC BACHER: O sea, en realidad hice 2, 1. Digamos que sería como un Helt check
+
+570
+01:31:53.030 --> 01:31:58.929
+JEREMY ERIC BACHER: y otro que sería un B, 1 cualquier cosa y que devuelva algo de memoria, o sea, un.
+
+571
+01:32:01.140 --> 01:32:01.800
+Lucas Bonanni: No tienen.
+
+572
+01:32:01.800 --> 01:32:03.710
+JEREMY ERIC BACHER: De alguna base de datos, o algo así.
+
+573
+01:32:04.370 --> 01:32:12.589
+Lucas Bonanni: Ya si no, si no quieres, no. Pero si haces 1 que te te de un error, ya te lo te lo adelanto para la parte de monitoreo.
+
+574
+01:32:13.690 --> 01:32:24.070
+Lucas Bonanni: Y como les decía, para la parte de monitoreo les va a servir que si bueno o tengan una base de datos o.
+
+575
+01:32:27.220 --> 01:32:30.310
+JEREMY ERIC BACHER: Entonces.
+
+576
+01:32:30.310 --> 01:32:31.050
+Lucas Bonanni: Como como.
+
+577
+01:32:31.260 --> 01:32:34.980
+JEREMY ERIC BACHER: Sí. Deberíamos tener una base de datos o no. No me quedó claro perdón.
+
+578
+01:32:35.950 --> 01:32:42.629
+Lucas Bonanni: No, Como yo les dije, yo no le pido nada, pero lo que yo te digo es que cuando hagas la parte de monitoreo, vas vas a ver que vas.
+
+579
+01:32:42.880 --> 01:32:49.359
+Lucas Bonanni: si te queda muy simple. No vas a poder aprovechar la parte de monitoreo. Esa es la idea.
+
+580
+01:32:49.360 --> 01:32:49.750
+JEREMY ERIC BACHER: Bien.
+
+581
+01:32:49.750 --> 01:32:50.540
+Lucas Bonanni: Yo lo
+
+582
+01:32:51.530 --> 01:33:02.030
+Lucas Bonanni: a medida que tengas tiempo, yo no te lo voy a pedir ni te lo voy a corregir yo lo que te voy a corregir son otro tipo de cosas. Pero vos vas a poder cuando utilices la parte de monitoreo
+
+583
+01:33:02.250 --> 01:33:15.249
+Lucas Bonanni: y quieras ver realmente qué es lo que está sucediendo y cómo funciona. Y la integración, vas a ver que vas a vas a ver ¿Cómo te va a permitir ver más detalles de lo que está ocurriendo en tu aplicación?
+
+584
+01:33:15.350 --> 01:33:21.300
+Lucas Bonanni: Eso es lo que voy. Entonces, vos. Vas a poder decir. Bueno, desde el la parte de monitoreo puedo ver
+
+585
+01:33:21.660 --> 01:33:36.410
+Lucas Bonanni: con esta serie de pasos nomás. Puedo ver hasta cómo se hacen las querys en la base de datos, o puedo ver cómo se llama a otro servicio y como se llamó y y cuánto tardó. Te entiende. Si vos no tenés nada, todo eso te lo vas a perder.
+
+586
+01:33:38.670 --> 01:33:39.330
+JEREMY ERIC BACHER: Bien.
+
+587
+01:33:39.840 --> 01:33:55.079
+Lucas Bonanni: Es eso, O sea, si vos querés hacerlo o no. Pero yo te adelanto que si lo puedes hacer, y tienes tiempo hacelo porque por ahí, después, en la parte de monitoreo, tienes la posibilidad de ver más cosas y explorar la parte de monitoreo un poquito más, que es la parte también interesante. No.
+
+588
+01:33:56.130 --> 01:33:58.980
+JEREMY ERIC BACHER: Sí. Perfecto. Perfecto. Perfecto. Súper: Claro.
+
+589
+01:33:59.490 --> 01:34:05.270
+Lucas Bonanni: Vale. Así que nada, eso no te lo evaluó, pero nada por por vos para que lo puedas después ver y aprovechar.
+
+590
+01:34:06.060 --> 01:34:08.530
+JEREMY ERIC BACHER: Perfecto. Bueno, gracias. Ahí lo ves.
+
+591
+01:34:08.750 --> 01:34:13.860
+Lucas Bonanni: No, no alguna duda más.
+
+592
+01:34:17.330 --> 01:34:18.520
+MORA OTEGUI: Por mi parte, no.
+
+593
+01:34:21.830 --> 01:34:23.280
+Lucas Bonanni: Bueno, perfecto.
+
+594
+01:34:23.620 --> 01:34:33.029
+Lucas Bonanni: Bueno, entonces, si si no hay más dudas, si no me me hablan por Slack, y vemos cualquier cosa. Yo voy a estar atento
+
+595
+01:34:33.210 --> 01:34:36.220
+Lucas Bonanni: y nada bueno. Les deseo buen fin de semana.
+
+596
+01:34:36.760 --> 01:34:38.159
+JUAN GUZZARDI: El Profe. ¡buen.
+
+597
+01:34:38.160 --> 01:34:39.380
+JOANA ZARATE: Igualmente.
+
+598
+01:34:39.380 --> 01:34:41.500
+Lucas Bonanni: Nos vemos.
+
+

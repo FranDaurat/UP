@@ -1,0 +1,2503 @@
+WEBVTT
+
+1
+00:03:37.200 --> 00:03:39.810
+JUAN GUZZARDI: Hola. Profe. Buenas tardes, me escucha.
+
+2
+00:03:46.430 --> 00:03:48.949
+Lucas Bonanni: Buenas tardes. ¿qué tal todo? Bien.
+
+3
+00:03:50.390 --> 00:03:51.539
+JUAN GUZZARDI: Bien, y usted.
+
+4
+00:03:51.870 --> 00:03:54.149
+Lucas Bonanni: Bien, todo bien, todo bien.
+
+5
+00:06:54.770 --> 00:07:02.740
+JUAN GUZZARDI: Profe, Le puedo hacer una consulta por ahí, un poco más, adelantar a la situación, no
+
+6
+00:07:03.130 --> 00:07:09.210
+JUAN GUZZARDI: o nada tipo un poco consulta jubileable. Pero,
+
+7
+00:07:09.510 --> 00:07:12.249
+JUAN GUZZARDI: Yo, La verdad es: Estaba pensando
+
+8
+00:07:12.540 --> 00:07:14.969
+JUAN GUZZARDI: si usted tiene una instancia no más.
+
+9
+00:07:15.670 --> 00:07:30.480
+JUAN GUZZARDI: No creo que sería muy favorable usar cuboarnets, No, O sea, con compost, podría ser suficiente o no, o encuentra alguna ventaja de usar Quibernés Kibes. Incluso en solo una instancia.
+
+10
+00:07:31.700 --> 00:07:38.069
+Lucas Bonanni: No, bueno con una instancia. No no tiene mucho sentido. Govern es más que nada para
+
+11
+00:07:38.950 --> 00:07:42.290
+Lucas Bonanni: la parte cuando vos querés escalar múltiples instancias.
+
+12
+00:07:42.550 --> 00:07:50.399
+Lucas Bonanni: Si no tienes un un una sobre ingeniería sobre sobre algo lanzas, una instancia de
+
+13
+00:07:50.560 --> 00:07:55.060
+Lucas Bonanni: de bueno donde lo vayas a hostear lanzas un asesor de instancia.
+
+14
+00:07:55.930 --> 00:07:58.069
+JUAN GUZZARDI: Claro tal cual yo pensaba lo mismo.
+
+15
+00:07:58.180 --> 00:07:58.930
+JUAN GUZZARDI: Sí.
+
+16
+00:07:58.930 --> 00:08:01.109
+Lucas Bonanni: Que vamos a terminar haciendo en render.
+
+17
+00:08:01.950 --> 00:08:06.960
+JUAN GUZZARDI: Y me imagino que si si ponerle.
+
+18
+00:08:07.250 --> 00:08:15.819
+JUAN GUZZARDI: creo que con pou sería suficiente, porque 1 puede aclarar a que ese container. Si se cae, se relevante.
+
+19
+00:08:16.140 --> 00:08:17.090
+JUAN GUZZARDI: Sí.
+
+20
+00:08:17.090 --> 00:08:20.650
+Lucas Bonanni: Compost no se usa en producción.
+
+21
+00:08:20.770 --> 00:08:29.829
+Lucas Bonanni: Hay otros motores de que usan las usan las imágenes de Docker, pero no docker con box.
+
+22
+00:08:31.660 --> 00:08:35.710
+JUAN GUZZARDI: Ahí va y qué se utilizaría como para una sola instancia.
+
+23
+00:08:36.960 --> 00:08:47.559
+Lucas Bonanni: No los servicios de Amazon. Los servicios de Amazon es lo que vos apuntas, digamos, y y descargan la imagen y terminan utilizando el mismo otro.
+
+24
+00:08:48.770 --> 00:08:52.450
+JUAN GUZZARDI: Y y en un nombre Miss que podría podría usar.
+
+25
+00:08:54.070 --> 00:08:58.980
+Lucas Bonanni: Eran premios, no en un premio. ¿sí? Puedes usar?
+
+26
+00:08:59.170 --> 00:09:13.219
+Lucas Bonanni: ¿sí? Puedes usar un un docker, tal vez no. Un docker con post depende Si vos necesitas una base de datos o no, depende de cuántos servicios tengas y depende de la configuración que quieras hacer, porque, por o por un lado, podrías tener.
+
+27
+00:09:13.220 --> 00:09:22.319
+Lucas Bonanni: No sé si una base de datos compartida y, por el otro lado, la aplicación depende de qué tipo de aplicación sea.
+
+28
+00:09:23.230 --> 00:09:26.740
+JUAN GUZZARDI: Claro claro. Claro, depende mucho del servicio que quieras integrar. No.
+
+29
+00:09:27.060 --> 00:09:27.880
+Lucas Bonanni: Mhm.
+
+30
+00:09:28.190 --> 00:09:30.430
+JUAN GUZZARDI: Okay. Bueno, buenísimo. Muchas gracias.
+
+31
+00:09:30.550 --> 00:09:31.419
+Lucas Bonanni: De nada.
+
+32
+00:11:45.940 --> 00:11:53.290
+Lucas Bonanni: O voy a dar un poquito más de tiempo para ver si se conectan más y empiezo con la clase de hoy.
+
+33
+00:13:04.030 --> 00:13:05.289
+FACUNDO EMANUEL MODARELLI: Hola, buenas tardes.
+
+34
+00:13:10.710 --> 00:13:11.880
+Lucas Bonanni: Buenas tardes
+
+35
+00:13:15.490 --> 00:13:22.700
+Lucas Bonanni: ya en un ratito. Arrancamos estaba esperando que se conecte más y echamos un una buena cantidad y arrancamos.
+
+36
+00:14:20.010 --> 00:14:26.859
+Lucas Bonanni: Bueno, ya ya somos varios. Así que yo voy a ir arrancando. Ya somos 18. ¿cómo están todo bien.
+
+37
+00:14:28.280 --> 00:14:34.479
+FACUNDO EMANUEL MODARELLI: Todo bien. Por suerte, palpitando el viernes.
+
+38
+00:14:34.480 --> 00:14:35.300
+ELISEO SACHI: Todo bien.
+
+39
+00:14:35.860 --> 00:14:41.410
+Lucas Bonanni: Ya es Viernes: Ya te termina la semana.
+
+40
+00:14:45.680 --> 00:14:54.470
+Lucas Bonanni: Bien, Bueno, lo que hoy vamos a ver va a ser la parte de introducción a a de Box. Vamos a ver todos los
+
+41
+00:14:54.710 --> 00:14:57.909
+Lucas Bonanni: conceptos principales.
+
+42
+00:14:59.090 --> 00:15:00.240
+Lucas Bonanni: Mhm. Fantástico.
+
+43
+00:15:01.640 --> 00:15:03.920
+Lucas Bonanni: Bien, está mal.
+
+44
+00:15:05.990 --> 00:15:13.500
+Lucas Bonanni: Entonces, en principio vamos a empezar Por lo básico, vamos a empezar.
+
+45
+00:15:14.520 --> 00:15:16.750
+Lucas Bonanni: ¿por qué es de box?
+
+46
+00:15:17.260 --> 00:15:25.089
+Lucas Bonanni: ¿alguno se da idea de qué qué es, de vos, cuál es la definición. ¿qué ¿Qué es lo que re que lo caracteriza.
+
+47
+00:15:30.400 --> 00:15:38.429
+FACUNDO EMANUEL MODARELLI: Sería la práctica del desarrollo de operaciones de desarrollo en en infraestructura como código.
+
+48
+00:15:39.920 --> 00:15:42.250
+Lucas Bonanni: Y qué qué otras prácticas o qué.
+
+49
+00:15:46.180 --> 00:15:46.910
+GIOVANNI MARTELLI MIGELSON: Es el encargado.
+
+50
+00:15:46.910 --> 00:15:49.190
+FACUNDO EMANUEL MODARELLI: El desarrollo. Más operación no.
+
+51
+00:15:52.330 --> 00:15:53.730
+Lucas Bonanni: Sí viene ¿Por ahí?
+
+52
+00:15:54.850 --> 00:15:55.800
+Lucas Bonanni: Qué más.
+
+53
+00:15:58.630 --> 00:16:00.310
+NAZARENO AMIDOLARE: Yo no.
+
+54
+00:16:00.660 --> 00:16:01.690
+NAZARENO AMIDOLARE: El despliegue.
+
+55
+00:16:02.990 --> 00:16:05.490
+Lucas Bonanni: Automatizar el despliegue.
+
+56
+00:16:06.180 --> 00:16:11.600
+JOANA ZARATE: Pero, ¿cuál sería la diferencia entonces si yo soy un developer común a un devel debo.
+
+57
+00:16:12.810 --> 00:16:18.630
+Lucas Bonanni: Bueno, E, eso es lo que vamos a tratar de de responder en toda la clase de hoy. ¿no?
+
+58
+00:16:19.750 --> 00:16:23.859
+Lucas Bonanni: E: Esa es la la diferencia. ¿cuál es la diferencia entre vo
+
+59
+00:16:23.960 --> 00:16:30.510
+Lucas Bonanni: un desarrollador y que es la de diferencia entre entre The Box?
+
+60
+00:16:32.850 --> 00:16:40.010
+Lucas Bonanni: Así que, bueno, la idea, básicamente es que de voz, si es
+
+61
+00:16:40.250 --> 00:16:50.229
+Lucas Bonanni: surgió uniendo 2 cosas importantes. Sí que es la idea de lo que es la infraestructura ágil y las operaciones A
+
+62
+00:16:50.670 --> 00:17:05.810
+Lucas Bonanni: entonces, como ya sabemos, y seguramente ustedes, aunque sean desarrolladores, ya practican las las metodologías, ágiles, sí, entonces ya tendrán una comprensión. La idea es que
+
+63
+00:17:07.230 --> 00:17:09.649
+Lucas Bonanni: de Box sí
+
+64
+00:17:09.740 --> 00:17:28.169
+Lucas Bonanni: sea una un enfoque colaborativo que, como es, como decía, es integrar las operaciones y el desarrollo a lo largo de todo el ciclo de vida de desarrollo. Sí, de desarrollo de servicio, desde la parte de
+
+65
+00:17:28.400 --> 00:17:33.390
+Lucas Bonanni: diseño hasta la parte de soporte en producción. Sí,
+
+66
+00:17:34.000 --> 00:17:51.739
+Lucas Bonanni: la idea es que sustituir a estos equipos tradicionales que estaban divididos en silos y que estaban todos separados unos de otros y poder trabajar
+
+67
+00:17:52.090 --> 00:17:53.540
+Lucas Bonanni: de una manera
+
+68
+00:17:53.680 --> 00:18:03.170
+Lucas Bonanni: más ágil sin tener que este estas fronteras. Porque, ¿Qué pasa cuando la empresa está dividida en siglos? Cada cada cada
+
+69
+00:18:03.220 --> 00:18:21.719
+Lucas Bonanni: equipo o cada parte tiene sus propias, sus propios objetivos, sus propios tiempos Sí, entonces empieza suele pasar que si 1 está en un equipo de desarrollo y necesita una infraestructura, y se lo tiene que pasar el equipo de operaciones, o
+
+70
+00:18:22.100 --> 00:18:36.200
+Lucas Bonanni: tienes que hacer un por ahí? Tienes que hacer un ticket, o tienes que pedírselo por chat y hacer un ticket, y por ahí no lo puedo hacer en ese momento, porque él también está mirando, o el equipo está mirando también otras cosas
+
+71
+00:18:36.200 --> 00:18:42.309
+Lucas Bonanni: o atendiendo también a otros equipos, entonces 1 tiene que esperar. Y eso que hace eso hace que se re
+
+72
+00:18:43.080 --> 00:18:55.370
+Lucas Bonanni: genere más retraso en la parte de desarrollo. Entonces el equipo, si no no lo tenía planificado o tuvo que improvisar todo eso genera demoras básicamente.
+
+73
+00:18:55.820 --> 00:19:10.549
+Lucas Bonanni: Y además, la idea es que con este enfoque, también las personas de de operaciones también que gestiona, digamos, toda la parte de la la infraestructura y las operaciones que
+
+74
+00:19:10.550 --> 00:19:25.410
+Lucas Bonanni: empieza a adoptar técnicas de desarrollo. Cómo el el uso de código, fuentes y el control de de historial.
+
+75
+00:19:26.530 --> 00:19:28.740
+Lucas Bonanni: entonces
+
+76
+00:19:28.880 --> 00:19:42.900
+Lucas Bonanni: The Box, Si le se se caracteriza por esto, por querer mejorar la eficacia tanto de los resultados empresariales como de los equipos y la vida laboral diaria.
+
+77
+00:19:42.900 --> 00:20:01.549
+Lucas Bonanni: Sí, entonces esto lo que hace es aumentar básicamente la frecuencia de despliegue y para que podamos desployar y desplegar más rápido las aplicaciones reduce los plazos de entrega porque hay menos perdida al estar el equipo, digamos, unificado, digamos.
+
+78
+00:20:01.550 --> 00:20:05.330
+Lucas Bonanni: y no trabajar en silos Es lo que le decía que, bueno.
+
+79
+00:20:05.330 --> 00:20:22.549
+Lucas Bonanni: esto minimiza los tiempos de de plazo de entrega, minimiza también los fallos, porque también se puede responder a cualquier inconveniente, mucho más rápido y acelera también la recuperación de después de algunos problemas.
+
+80
+00:20:22.670 --> 00:20:25.470
+Lucas Bonanni: Entonces
+
+81
+00:20:27.050 --> 00:20:47.390
+Lucas Bonanni: Así que aunque de box de esa combina. La parte de desarrollo de operaciones incluye a otros eclip equipos implicados en la entrega de software, sí, como la de control de calidad. Sí, los quad, los diseñadores de frontend administradores de red.
+
+82
+00:20:47.390 --> 00:20:54.940
+Lucas Bonanni: Si la colaboración entre todas las partes es el principio clave de devots, sí
+
+83
+00:20:55.950 --> 00:21:06.370
+Lucas Bonanni: y bueno. Y esto se aplica tanto en las organizaciones de dedicadas al desarrollo como a los talleres de tecnologías de información tradicionales.
+
+84
+00:21:11.970 --> 00:21:31.660
+Lucas Bonanni: Bien, Bueno, entonces de Box sí es una práctica. Es una cultura, sí en la que los ingenieros de operaciones y desarrollo participan juntos en el ciclo de vida de servicio, desde el diseño, pasando por todo el proceso de desarrollo, hasta la implementación y el soporte y producción.
+
+85
+00:21:31.700 --> 00:21:46.880
+Lucas Bonanni: Sí, Entonces la idea, la imagen está que está. Acá Y la idea es que, bueno, justamente ese esto está todo unido en un en un solo equipo. La operación, la parte deploy el testing y el desarrollo
+
+86
+00:21:48.850 --> 00:22:06.140
+Lucas Bonanni: de Box también se caracteriza así por el hecho de que el el personal de operaciones sí tie como decíamos, va a utilizar a utilizar las mismas herramientas que la pa que las personas de desarrollo tradicionalmente.
+
+87
+00:22:06.140 --> 00:22:23.860
+Lucas Bonanni: pues las configuraciones tal vez tenían un backup, pero no, no se hacía un seguimiento, sí de o no se tenían en un repositorio, las configuraciones. No se usaba lo que vamos a ver después, que es la parte de infraestructura como código.
+
+88
+00:22:23.860 --> 00:22:29.930
+Lucas Bonanni: Entonces empezaron a incorporar todas estas herramientas también para la parte de operaciones
+
+89
+00:22:33.750 --> 00:22:35.610
+Lucas Bonanni: en
+
+90
+00:22:39.450 --> 00:22:50.419
+Lucas Bonanni: bueno. Entonces acá es, como decía, L empiezan a utilizar el control de versiones y para el desarrollo del Código de Infraestructura.
+
+91
+00:22:50.420 --> 00:23:03.659
+Lucas Bonanni: Sí, y empiezan a participar del desarrollo ágil. Si entonces empiezan a involucrarse dentro del equipo y usualmente empiezan a tener asignarse tareas. Y están en el mismo
+
+92
+00:23:03.660 --> 00:23:10.310
+Lucas Bonanni: tablero de tareas que está el resto del equipo sin conjunto con las tareas de desarrollo.
+
+93
+00:23:10.490 --> 00:23:14.549
+Lucas Bonanni: entonces se pueden asignar y hacerle seguimiento
+
+94
+00:23:21.150 --> 00:23:24.920
+Lucas Bonanni: entonces de box. Lo que intento hacer es
+
+95
+00:23:25.090 --> 00:23:31.660
+Lucas Bonanni: es una cultura que intenta ser lo más inclusivo posible, que no haya diferencias entre las diferentes
+
+96
+00:23:31.740 --> 00:23:50.449
+Lucas Bonanni: disciplina, sí entre la parte, digamos que son más un perfil de administradores de sistemas, sí, o lo que administran la infraestructura y los de el personal de desarrollo, los ingenieros de de
+
+97
+00:23:50.720 --> 00:24:07.780
+Lucas Bonanni: que lanza la el digamos, la aplicación en producción. Si ingeniera de base de datos ingenieros de redes usualmente. Ahora, yo no lo veo tanto. Está de las empresas donde he trabajado siempre, el perfil suele ser más abarcativo.
+
+98
+00:24:07.780 --> 00:24:22.170
+Lucas Bonanni: pero en las primeras empresas en las que trabajé, cada 1. Había este rol de ingeniero de base de datos para ingeniero de redes, no tanto, pero sí ingeniero de base de datos.
+
+99
+00:24:22.170 --> 00:24:31.239
+Lucas Bonanni: el que se encargaba del admi de la parte de la infraestructura. Sí, por otro lado, el desarrollo, por el otro lado del testing.
+
+100
+00:24:31.300 --> 00:24:37.390
+Lucas Bonanni: Todo eso también va a depender no solamente de.
+
+101
+00:24:38.210 --> 00:24:46.230
+Lucas Bonanni: de, digamos, de la cultura, sino también de la empresa y de lo que se esté desarrollando. Sí, hay casos en los que
+
+102
+00:24:46.640 --> 00:24:50.110
+Lucas Bonanni: es más fácil que una
+
+103
+00:24:50.810 --> 00:25:14.360
+Lucas Bonanni: que un equipo sí o que un que una persona sí pueda ocupar varios roles, hacer diferentes testing. Entender un poquito a fondo de qué se trata, digamos el el negocio sí para poder hacer un testing profundo y hay veces que no, no. Un ejemplo en el que sería
+
+104
+00:25:14.470 --> 00:25:27.459
+Lucas Bonanni: relativamente sencillo, dependiendo del módulo y y depende en qué parte de la empresa también. Uno esté trabajando, No, porque también 1 podría estar trabajando en diferentes módulos y diferentes partes de la empresa.
+
+105
+00:25:27.770 --> 00:25:40.460
+Lucas Bonanni: Pero si 1 se pone a pensar la parte más sencilla de Netflix o o donde yo, por ejemplo, trabajé en una empresa que era Devendray, que era crear eventos.
+
+106
+00:25:40.760 --> 00:25:51.509
+Lucas Bonanni: No hay mucha lógica de negocio ni mucho misterio, entonces sí se puede aplicar y se puede ser más inclusivo. No hay otras aplicaciones que son
+
+107
+00:25:51.510 --> 00:25:58.480
+Lucas Bonanni: más complicadas, que ya tienen más lógica de negocio, donde podría ser una aplicación de contabilidad a
+
+108
+00:25:58.480 --> 00:26:12.980
+Lucas Bonanni: que ahí es más difícil que se dé este tipo de perfil o este tipo de cultura, porque necesita. Sí que haya, Por ejemplo, para el la parte, el testear, la funcionalidad que alguien
+
+109
+00:26:13.010 --> 00:26:22.790
+Lucas Bonanni: que sepa correctamente, entienda el negocio, entienda cómo cómo? ¿qué es lo esperado? ¿qué es la configuración que se necesita, etcétera, etcétera.
+
+110
+00:26:23.030 --> 00:26:29.349
+Lucas Bonanni: Entonces Solamente ese comentario, Porque, bueno, van a decir por ahí, no en todos lados. Se ve
+
+111
+00:26:29.740 --> 00:26:33.969
+Lucas Bonanni: por ahí. En algunos lados se ve más y en otros no tanto
+
+112
+00:26:37.550 --> 00:26:38.200
+Lucas Bonanni: bien.
+
+113
+00:26:38.200 --> 00:26:43.060
+FACUNDO EMANUEL MODARELLI: De consultas. Se podría decir que es una cultura más que un rol o un puesto.
+
+114
+00:26:43.380 --> 00:26:43.920
+Lucas Bonanni: Es una.
+
+115
+00:26:43.920 --> 00:26:45.910
+FACUNDO EMANUEL MODARELLI: Una metodología no.
+
+116
+00:26:46.460 --> 00:26:49.889
+Lucas Bonanni: Es una cultura, sí, no una metodología, una cultura.
+
+117
+00:26:51.370 --> 00:26:56.900
+GIOVANNI MARTELLI MIGELSON: Profe. Puede ser que sí, nacía de de del libro de metodologías ágiles.
+
+118
+00:26:57.590 --> 00:26:59.489
+GIOVANNI MARTELLI MIGELSON: Después se implementó como un rol.
+
+119
+00:26:59.680 --> 00:27:00.629
+GIOVANNI MARTELLI MIGELSON: ¿no es cierto?
+
+120
+00:27:01.110 --> 00:27:02.899
+GIOVANNI MARTELLI MIGELSON: Algo así. He escuchado.
+
+121
+00:27:03.190 --> 00:27:13.939
+Lucas Bonanni: No, no. En realidad, esto lo que es, como como decía ahí es, como decía hace un rato, no es que es si no es la integración
+
+122
+00:27:14.380 --> 00:27:22.160
+Lucas Bonanni: de los de de equipo, sí o de diferentes roles en un mismo equipo o en una misma persona.
+
+123
+00:27:22.690 --> 00:27:39.440
+Lucas Bonanni: Esto nace, sí o como consecuencia, sí de aplicar. Sí, las metodologías ágiles. Ustedes piensen, por ejemplo, cuando hablan de
+
+124
+00:27:39.560 --> 00:27:42.730
+Lucas Bonanni: Scrum o cuando hablan de.
+
+125
+00:27:43.370 --> 00:27:50.819
+Lucas Bonanni: bueno, no me sale el nombre de la que es Stream Programing. No sé si la escucharon hablar.
+
+126
+00:27:52.980 --> 00:27:53.680
+GIOVANNI MARTELLI MIGELSON: No, no, no.
+
+127
+00:27:53.680 --> 00:27:55.540
+FACUNDO EMANUEL MODARELLI: No, no, no, me suena a mí, tampoco.
+
+128
+00:27:56.260 --> 00:28:03.470
+Lucas Bonanni: Stream program es básicamente, es esto de que es como
+
+129
+00:28:03.710 --> 00:28:19.250
+Lucas Bonanni: Scrum o como cualquier cultura, cualquiera de las prácticas ágiles que lo que hace es que bueno vos vas desarrollando y vas vas haciendo el deploy y sigues vas iterando rápidamente. Pero justamente como
+
+130
+00:28:19.420 --> 00:28:37.430
+Lucas Bonanni: el desarrollador tiene la facilidad de hacer el punto a punto, no, o sea, hasta participa de desarrollo, participa del testeo. Sí, hace todos esta estas etapas hasta la producción, entonces viene un poquito de ahí. De todas estas metodologías ágiles
+
+131
+00:28:37.570 --> 00:28:51.880
+Lucas Bonanni: incentivan un poco que 1 no solamente se quede en el rol de desarrollador y pueda aportar en otros roles. Sí, con el conocimiento que 1 pueda llegar a tener como Tiemp, No.
+
+132
+00:28:52.030 --> 00:28:59.809
+Lucas Bonanni: bueno, y eso depende, como, por eso digo, todo depende también de la aplicación que 1 vaya desarrollando.
+
+133
+00:28:59.960 --> 00:29:04.329
+Lucas Bonanni: Pero no todas las aplicaciones es aplicable, no.
+
+134
+00:29:06.760 --> 00:29:12.739
+JOANA ZARATE: Perdón profe para entender mejor, O sea que puede ser que, por ejemplo, un debut A
+
+135
+00:29:12.950 --> 00:29:18.510
+JOANA ZARATE: haga unas tareas específicas y un debo B sea también debo, pero haga otra cosa.
+
+136
+00:29:20.120 --> 00:29:30.389
+Lucas Bonanni: No. Lo que pasa, que el problema está es que ahora yo sé que ustedes lo van a ver en Linkedin y todo eso. Y van a ver que dicen.
+
+137
+00:29:31.880 --> 00:29:35.860
+Lucas Bonanni: se busca un the box, ¿sí? Y te ponen el título de box.
+
+138
+00:29:36.120 --> 00:29:44.970
+Lucas Bonanni: pero en realidad como tal como puesto de trabajo, no debería existir lo que pasa que, bueno, a veces
+
+139
+00:29:45.340 --> 00:29:56.280
+Lucas Bonanni: confunden lo que es de box con S. R E, con lo que es. Ya mezclan un poquito todo, ¿no? Pero hace, como digo, de box.
+
+140
+00:29:56.280 --> 00:30:07.819
+Lucas Bonanni: no es una cultura, o sea, es una cultura. Perdón, entonces ¿no es justamente esto de que es un puesto y que yo tengo un una persona que es de box, y la otra que es de box. Sí,
+
+141
+00:30:07.860 --> 00:30:14.150
+Lucas Bonanni: yo sé que lo van a ver en Linkedin, pero créanme que no es así? Es una cultura.
+
+142
+00:30:16.820 --> 00:30:19.469
+FACUNDO EMANUEL MODARELLI: Mi trabajo, que hay como puestos desde box
+
+143
+00:30:19.790 --> 00:30:22.570
+FACUNDO EMANUEL MODARELLI: en los equipos de operación de nube, por ejemplo.
+
+144
+00:30:22.610 --> 00:30:27.789
+Lucas Bonanni: Y está como muy marcado el Los que terminan implementando son los de box.
+
+145
+00:30:28.010 --> 00:30:44.519
+FACUNDO EMANUEL MODARELLI: Y los especialistas. Es como que nos nos apoyamos en ellos para llevarnos las redes. El networking como código o cualquier otra especialidad como código. Pero en el en el en el trabajo donde estoy es como que está marcada marcado el rol
+
+146
+00:30:44.750 --> 00:30:57.629
+FACUNDO EMANUEL MODARELLI: y yo siempre me dio la sensación de que estaba mal, ¿no? Y ahora, con lo que decís lo confirma, porque debiéramos ser todos los que lo que los que que todos los que manejamos infraestructuras debiéramos tener la práctica incorporada.
+
+147
+00:30:58.240 --> 00:31:04.599
+Lucas Bonanni: Claro. Bue, ¿Ella vos Decís: Ellos son de vos y vos decís que que de qué estás trabajando.
+
+148
+00:31:05.020 --> 00:31:06.719
+FACUNDO EMANUEL MODARELLI: Yo me encargo de todo lo que son redes.
+
+149
+00:31:07.120 --> 00:31:07.470
+Lucas Bonanni: De de.
+
+150
+00:31:07.470 --> 00:31:11.450
+FACUNDO EMANUEL MODARELLI: Informática Networking en nube pool y en la nube privada, ¿no? Y.
+
+151
+00:31:11.450 --> 00:31:13.939
+Lucas Bonanni: Ponen dentro de la de la empresa como.
+
+152
+00:31:13.940 --> 00:31:18.520
+FACUNDO EMANUEL MODARELLI: Y está raro porque es como clavo ingeniero Claudio Archie. Pero.
+
+153
+00:31:18.520 --> 00:31:19.070
+Lucas Bonanni: Okay.
+
+154
+00:31:19.210 --> 00:31:21.789
+FACUNDO EMANUEL MODARELLI: Pero, en definitiva.
+
+155
+00:31:21.950 --> 00:31:27.590
+FACUNDO EMANUEL MODARELLI: a la hora de implementar Códigos, hacemos nosotros algo, pero nos apoyamos mucho en los que tienen los roles de voz No.
+
+156
+00:31:27.860 --> 00:31:28.290
+Lucas Bonanni: A en.
+
+157
+00:31:28.290 --> 00:31:40.039
+FACUNDO EMANUEL MODARELLI: Son los que termina armando el Pipe Line los que terminan recomendándote. Bueno, usas módulos de Terraford en vez de codear como recursos. Es como que nos apoyamos en ello, Pero hay roles marcados de de box.
+
+158
+00:31:40.380 --> 00:31:41.370
+Lucas Bonanni: Claro.
+
+159
+00:31:42.430 --> 00:31:58.809
+Lucas Bonanni: Sí, sí. Lo que pasa que, como digo, lo que pasa, que puede ser que el se interprete desde el lado de de la empresa, los que, como personas sí que terminan aplicando tal vez todas estas prácticas, así como
+
+160
+00:31:58.810 --> 00:32:10.750
+Lucas Bonanni: el Scrum Master, no, que en realidad es el Scrum Master, cual, si ustedes ven la teoría de Scrum, es un desarrollador más, no hace falta que sea alguien y algunas empresas
+
+161
+00:32:10.750 --> 00:32:14.920
+Lucas Bonanni: ponen al Scrum Master como alguien separado. Alguien que tiene un rol.
+
+162
+00:32:14.920 --> 00:32:17.349
+FACUNDO EMANUEL MODARELLI: Ahí. X, a eso, claro.
+
+163
+00:32:17.350 --> 00:32:30.239
+Lucas Bonanni: Dedicado a eso. Y Y no, Ne: no es así en realidad. Entonces, bueno, sí depende mucho de la organización, Pero la idea es fundamental es que es una cultura
+
+164
+00:32:30.450 --> 00:32:42.799
+Lucas Bonanni: lo que pasa, que toman, se lo que pasa, que ese tipo de empresas, como la que que me comentas, lo que entiendo es que ellos toman mucho énfasis en la parte de
+
+165
+00:32:42.800 --> 00:33:01.170
+Lucas Bonanni: automatización, no automatización, y esto de aplicar, digamos, las técnicas de desarrollo a la infraestructura, ¿no? Entonces por eso decís usan Terrapform para hacer el deployment de las infraestructuras. Te dicen usar este módulo.
+
+166
+00:33:01.450 --> 00:33:04.549
+Lucas Bonanni: Pero, bueno, esa es una parte. En realidad no es todo.
+
+167
+00:33:05.130 --> 00:33:09.910
+Lucas Bonanni: Como digo, en realidad de vox. Es esa cultura.
+
+168
+00:33:10.090 --> 00:33:20.649
+Lucas Bonanni: Después, una las empresas dividen como para tratar de asignar ciertos roles y tratar de asignar ciertas tareas no.
+
+169
+00:33:24.810 --> 00:33:26.140
+FACUNDO EMANUEL MODARELLI: Buenísimo. Gracias. Profe.
+
+170
+00:33:26.920 --> 00:33:27.630
+Lucas Bonanni: De nada
+
+171
+00:33:29.350 --> 00:33:37.289
+Lucas Bonanni: y bueno. Y relacionado con esto, Lo que siguiente que vamos a ver es que es camps cans, es
+
+172
+00:33:37.570 --> 00:33:44.970
+Lucas Bonanni: cultura, automatización, medidas y compartir. Si son algunos de los valores.
+
+173
+00:33:46.470 --> 00:33:53.730
+Lucas Bonanni: sí que de, digamos, de de Vox se va a calchado.
+
+174
+00:33:55.590 --> 00:34:01.029
+Lucas Bonanni: Suena, dice en mi caso, los de Sik Ops
+
+175
+00:34:01.560 --> 00:34:12.450
+Lucas Bonanni: Okay, sí, también que también ahora se agregan los Devs Ecops, que también hacen, digamos, aplican una
+
+176
+00:34:12.739 --> 00:34:17.339
+Lucas Bonanni: se preocupan también sobre la seguridad, sobre los procesos de devot. Digamos
+
+177
+00:34:21.050 --> 00:34:25.979
+Lucas Bonanni: bien, bien, ahora entonces, bueno.
+
+178
+00:34:26.040 --> 00:34:37.450
+Lucas Bonanni: cultura, sí, automatización, medición y compartir Estos son los valores que fueron acuñados por los primeros
+
+179
+00:34:37.460 --> 00:34:51.989
+Lucas Bonanni: pioneros de The Box. Sí, John Willis y Demon Edwards. Sí que básicamente se enfatiza que como un
+
+180
+00:34:53.440 --> 00:35:01.919
+Lucas Bonanni: que a veces hay ciertos problemas en la parte cultural empresarial, si y
+
+181
+00:35:06.020 --> 00:35:07.810
+Lucas Bonanni: y en realidad, lo que
+
+182
+00:35:08.280 --> 00:35:25.109
+Lucas Bonanni: que el problema para resolver todos estos problemas que que ellos veían, digamos, dentro de la cultura empresarial, en el problema tecnológico, en cómo cómo se utilizaba y cómo se venía desarrollando. Sí, En realidad, ellos consideraban
+
+183
+00:35:25.160 --> 00:35:31.990
+Lucas Bonanni: que el problema era más que nada la cultura. Entonces.
+
+184
+00:35:31.990 --> 00:35:47.119
+Lucas Bonanni: y diciendo que la cultura es lo fundamental y que va más allá de las comodidades físicas de trabajo, sí, y definiendo los comportamientos y la comprensión mutua entre los equipos de desarrollo y operaciones.
+
+185
+00:35:47.540 --> 00:35:59.869
+Lucas Bonanni: después la automatización. Eso sería la cultura. No, O sea, hay que tener una cultura de básicamente, de trabajar en equipo sí entre
+
+186
+00:35:59.870 --> 00:36:10.350
+Lucas Bonanni: diferentes. Digamos lo que eran siglos, sí que estaban separados y que eran esto de operaciones y desarrollo.
+
+187
+00:36:10.630 --> 00:36:16.790
+Lucas Bonanni: Entonces esa es una parte. Esa es la C de Camps. Después.
+
+188
+00:36:16.950 --> 00:36:30.800
+Lucas Bonanni: La automatización es el otro aspecto. Sí donde se intenta llevar y automatizar el proceso y que tiene que ir de la mano con las personas que participan dentro de ese proceso.
+
+189
+00:36:32.050 --> 00:36:41.210
+Lucas Bonanni: Y también seth lo las ac Otro aspecto importante: sí, es bueno
+
+190
+00:36:41.290 --> 00:36:53.209
+Lucas Bonanni: tener métricas y poder medir lo que se va a desarrollar y también en se enfatiza en la importancia de compartir ideas
+
+191
+00:36:53.280 --> 00:36:58.340
+Lucas Bonanni: y la mejora continua. Si dentro de esa
+
+192
+00:36:58.360 --> 00:37:18.110
+Lucas Bonanni: compartir ideas para hacer las mejoras continuas que pueden tener. Entonces, la idea es que un un equipo de desarrollo o pudo automatizar algo o pudo resolver algún problema. Lo comparte con el resto, porque eso le puede servir a los otros equipos para mejorar sus propios procesos.
+
+193
+00:37:20.550 --> 00:37:30.450
+Lucas Bonanni: Después, acá. En este en el siguiente Slide, a ver cómo ha cambiado ahí. Está
+
+194
+00:37:30.870 --> 00:37:48.520
+Lucas Bonanni: en esta isla. También lo van a encontrar como Cannes, porque en realidad le agregan un poquito de lo que es la cultura ágil del link que tiene que ver. Pero bueno, en realidad
+
+195
+00:37:49.680 --> 00:38:06.130
+Lucas Bonanni: no está. No está ahí. En realidad, yo lo conocí en principio como Camps. Y bueno, después lo agregan, acá Tienen en esta foto que que tomé acá. Tienen. Bueno, básicamente un pequeño resumen de lo que que vamos a ver. Ahora
+
+196
+00:38:08.850 --> 00:38:13.029
+Lucas Bonanni: bien, la parte de la cultura sí es.
+
+197
+00:38:13.800 --> 00:38:19.310
+Lucas Bonanni: acá se subraya lo que lo que es importante, que es la cultura
+
+198
+00:38:19.400 --> 00:38:31.040
+Lucas Bonanni: que se centre en los comportamientos. Sí en que, como digo, que haya colaboración, que haya comprensión mutua entre los equipos. Y lo principal es
+
+199
+00:38:31.100 --> 00:38:45.020
+Lucas Bonanni: cambiar los comportamientos y las suposiciones subyacentes sí que pueden hacerlas las personas para tratar de cambiar un poco la cultura y poder colaborar mucho mejor.
+
+200
+00:38:47.320 --> 00:38:56.519
+Lucas Bonanni: Bien, en cuanto a la parte de automatización, si es el es el aspecto más importante. Sí,
+
+201
+00:38:56.680 --> 00:39:05.560
+Lucas Bonanni: la idea es que la automatización debe equilibrarse con los procesos que tenemos y con las personas que participan de ese proceso
+
+202
+00:39:06.900 --> 00:39:19.290
+Lucas Bonanni: y la automatización. Si es un acelerador, sí que permite nosotros controlar los sistemas y las aplicaciones y
+
+203
+00:39:20.010 --> 00:39:26.769
+Lucas Bonanni: darle prioridad a la automatización, es fundamental, sí, por los beneficios que que eso trae.
+
+204
+00:39:27.530 --> 00:39:42.330
+Lucas Bonanni: Pero, bueno, también está el tema del concepto que ellos digamos, plantearon que es people ofwer process over Tools, que es persona sobre procesos sobre
+
+205
+00:39:42.330 --> 00:39:54.380
+Lucas Bonanni: herramientas, sí que básicamente es una una prioridad. Si donde la primera prioridad es asegurar que haya una persona responsable de la función en cuestión Sí,
+
+206
+00:39:54.410 --> 00:39:59.490
+Lucas Bonanni: esto lo que quiere decir es que la
+
+207
+00:40:00.290 --> 00:40:14.389
+Lucas Bonanni: persona va a tener que resolver cualquier ambigüedad, sí que pueda llegar a haber organizacional sobre quién o qué grupo de es responsable y garantizar las habilidades necesarias
+
+208
+00:40:14.560 --> 00:40:16.920
+Lucas Bonanni: y que esté disponible
+
+209
+00:40:16.930 --> 00:40:35.469
+Lucas Bonanni: y que proporcionen mediante capacitación o contratación. Sí, o sea, siempre lo primero es pensar en en la persona que va a estar a cargo. Las personas que van a estar a cargo, que estén capacitadas sí que puedan que tengan las capacidades de resolver cualquier.
+
+210
+00:40:37.380 --> 00:40:45.999
+Lucas Bonanni: digamos, definición o ambigüedad, tomar decisiones. En definitiva, sí, eso es lo que quiere decir con la ambigüedad organizacional.
+
+211
+00:40:46.120 --> 00:40:48.710
+Lucas Bonanni: Entonces.
+
+212
+00:40:51.540 --> 00:41:09.490
+Lucas Bonanni: primero las personas que tienen que estar capacitadas. Luego se hay que enfocarse en los procesos. Hay que asegurarse de que se está llevando a cabo los los procesos correctos y eficientes y de manera eficiente.
+
+213
+00:41:09.750 --> 00:41:10.850
+Lucas Bonanni: Y
+
+214
+00:41:11.340 --> 00:41:31.089
+Lucas Bonanni: para esto hay que identificar y corregir cualquier proceso que que pueda llegar a estar incorrecto o malo, documentado o presentar obstáculos o excepciones. Sí, y en este caso se prioriza la precisión y el orden en la ejecución del proceso.
+
+215
+00:41:31.910 --> 00:41:34.790
+Lucas Bonanni: Por último, están las herramientas.
+
+216
+00:41:35.570 --> 00:41:53.469
+Lucas Bonanni: Una es que una vez que las personas adecuadas están realizando el proceso correcto. Ahí recién se considera la automatización de ciertos pasos mediante herramientas, siempre y cuando el costo y el esfuerzo le justifiquen la automatización
+
+217
+00:41:53.960 --> 00:42:00.750
+Lucas Bonanni: La idea es lo que
+
+218
+00:42:01.170 --> 00:42:06.659
+Lucas Bonanni: se quiere enfatizar, digamos con esto es que la importancia es un construir
+
+219
+00:42:06.820 --> 00:42:12.580
+Lucas Bonanni: un negocio sólido y en establecer, digamos.
+
+220
+00:42:13.870 --> 00:42:24.199
+Lucas Bonanni: buenas condiciones para los usuarios, Sí, porque la idea es tener un una aplicación mucho más estable, una aplicación más robusta, y si 1
+
+221
+00:42:24.480 --> 00:42:32.369
+Lucas Bonanni: sigue estos pasos, de, primero, capacitar a las personas, tener un buen diseño de los procesos
+
+222
+00:42:32.370 --> 00:42:46.149
+Lucas Bonanni: y después recién ahí, considerar automatizarlos. La idea es que, y aplicando el concepto de mejora continua, La idea es que 1 va construyendo cada vez aplicaciones más robustas. Sí.
+
+223
+00:42:53.900 --> 00:42:57.370
+JOANA ZARATE: Perdón profe para entender este concepto.
+
+224
+00:42:59.190 --> 00:43:07.329
+JOANA ZARATE: suponete que yo voy a ir al área de contabilidad en una empresa, y quiero automatizar algo primero. Entonces me tendría que asegurar que
+
+225
+00:43:07.860 --> 00:43:12.140
+JOANA ZARATE: los goner de de de ese proceso, que sería la agente de contabilidad.
+
+226
+00:43:12.460 --> 00:43:17.320
+JOANA ZARATE: esté capacitada en poder mantener lo que les voy a implementar.
+
+227
+00:43:17.750 --> 00:43:18.740
+Lucas Bonanni: Exacto.
+
+228
+00:43:19.640 --> 00:43:20.540
+JOANA ZARATE: Gracias.
+
+229
+00:43:21.440 --> 00:43:30.390
+Lucas Bonanni: Y ellos conocer exactamente el proceso, definirlo correctamente, porque ahí se da otro otro tema que bueno que ellos tienen
+
+230
+00:43:31.360 --> 00:43:37.569
+Lucas Bonanni: como siempre, se tiene que haber ese intercambio para que ese proceso quede bien definido, ¿no?
+
+231
+00:43:38.600 --> 00:43:46.139
+Lucas Bonanni: Y una vez que está bien definido el proceso que no es. No hay demasiados inconvenientes ahí recién se automatiza
+
+232
+00:43:52.160 --> 00:43:59.720
+Lucas Bonanni: bien. Y después este otro concepto también es más sencillo, que es la parte de la medición.
+
+233
+00:44:03.910 --> 00:44:10.790
+Lucas Bonanni: Entonces la parte de la medición, que básicamente lo que s
+
+234
+00:44:11.020 --> 00:44:20.010
+Lucas Bonanni: se intenta implementar es métricas métricas a través de toda la organización. Sí, entonces
+
+235
+00:44:20.650 --> 00:44:43.660
+Lucas Bonanni: el tiempo promedio en el cual 1 se recupera ciclos, sí de de desarrollo. La satisfacción de los empleados el revenue el costo. Sí, todos tipos de métricas sí que inclusive pueden ser métricas, también de desarrollo métricas.
+
+236
+00:44:43.820 --> 00:44:51.469
+Lucas Bonanni: habrán escuchado algunas otras que pueden ayudar a saber
+
+237
+00:44:51.700 --> 00:44:55.250
+Lucas Bonanni: qué tan saludable está en cada 1 de esos procesos.
+
+238
+00:44:57.730 --> 00:45:13.279
+Lucas Bonanni: Después, El siguiente sí es la idea esta de compartir, compartir las ideas y los problemas fundamentales para esto, para la colaboración. Si la mejora continua.
+
+239
+00:45:14.210 --> 00:45:27.430
+Lucas Bonanni: esto viene de la idea de concepto japonés de Kaizen sí que es el el la mejora continua. Si entonces
+
+240
+00:45:29.980 --> 00:45:40.170
+Lucas Bonanni: la idea de compartir se fundamenta básicamente en el concepto de la transparen. Transparencia. Sí, la apertura sí que son
+
+241
+00:45:40.290 --> 00:45:44.970
+Lucas Bonanni: las 2 otros 2 conceptos importantes para
+
+242
+00:45:45.600 --> 00:45:53.800
+Lucas Bonanni: hacer la mejora continua y que el intercambio de conocimientos sea ese mejor motor de de mejora.
+
+243
+00:45:55.940 --> 00:46:07.459
+Lucas Bonanni: Entonces Kaizen: Bueno, es básicamente una práctica que se hizo popular. Sí, significa literalmente cambio para mejor
+
+244
+00:46:07.670 --> 00:46:26.680
+Lucas Bonanni: y y bueno. Y Y S se empezó a utilizar esto como término de mejora continua. Si básicamente esto proviene del método link de sistema de producción de Toyota. Así que, bueno, esto lo lo presentaron en allá por 1 986.
+
+245
+00:46:27.210 --> 00:46:45.239
+Lucas Bonanni: Y bueno, el Kaizen se basa básicamente en 6 principios y que promueven los pequeños cambios para mejorar las cosas con a medida que va pasando el tiempo, sí, y que esos pequeños cambios pueden generar grandes resultados.
+
+246
+00:46:46.540 --> 00:46:56.299
+Lucas Bonanni: Y todos estos principios de ideas de Kaizen se reflejan en las ideas de Kant. Básicamente, son
+
+247
+00:46:56.480 --> 00:47:06.860
+Lucas Bonanni: con cosas culturales que que se trajeron del Kaizen y se aplicaron como Camps. Sí,
+
+248
+00:47:08.120 --> 00:47:17.030
+Lucas Bonanni: Entonces, por ejemplo, una de las cosas es que Kaizen enfatiza la importancia de ir al lugar real donde se crea valor
+
+249
+00:47:17.030 --> 00:47:31.509
+Lucas Bonanni: y de dónde está el problema en lugar de solamente confiar en los informes, en en en las métricas o en procesos. Entonces la idea es que, que, si bien hay métricas.
+
+250
+00:47:31.580 --> 00:47:38.429
+Lucas Bonanni: pero que sean un apoyo, pero no que las personas, si por eso dejen de
+
+251
+00:47:38.480 --> 00:47:49.979
+Lucas Bonanni: participar o de involucrarse, sí o decir, bueno es, todo. Está está funcionando. Estoy en caso de no solamente
+
+252
+00:47:50.030 --> 00:48:06.890
+Lucas Bonanni: no por parte de los desarrolladores, porque por ahí son los que están más involucrados en la parte de desarrollo, sino también de otros roles más gerenciales y que también se involucren en todo lo cada 1 de los procesos. ¿no?
+
+253
+00:48:08.650 --> 00:48:22.369
+Lucas Bonanni: Ahora, seguramente creo que más adelante con con otros conceptos. Vamos a ver, vamos a expandir y profundizar un poquito más en estos conceptos, pero bueno, por ahora los los vamos a ver así un poquito la definición.
+
+254
+00:48:22.430 --> 00:48:30.759
+Lucas Bonanni: Entonces, Káiser, lo que plantea es el ciclo de planificación, ejecución, análisis y acción. Sí,
+
+255
+00:48:30.860 --> 00:48:45.269
+Lucas Bonanni: es algo similar al método científico, sí, Y también lo utiliza herramientas como la de los 5 porqués para llegar a la raíz de un problema enfocándose a las causas subyacentes
+
+256
+00:48:45.360 --> 00:48:59.280
+Lucas Bonanni: y evitando tratar de culpar el error humano. Kaizen no solo mejora no solamente hace estas mejoras, sino la idea es desarrollar pensamiento crítico en las personas. Sí,
+
+257
+00:49:04.910 --> 00:49:09.970
+Lucas Bonanni: Bien, otro concepto importante son
+
+258
+00:49:10.180 --> 00:49:22.369
+Lucas Bonanni: de streetwes. Sí que básicamente se empiezan a definir los systems thinking los feedback looks sí y continuos experimentation and learning
+
+259
+00:49:22.960 --> 00:49:34.199
+Lucas Bonanni: estos principios. Sí, el del pensamiento sistémico system sinting, Sinkin, ampliación de los bucles o feedback looks
+
+260
+00:49:34.370 --> 00:49:42.610
+Lucas Bonanni: y la cultura de experimentación y aprendizaje continuo Estos principios
+
+261
+00:49:43.000 --> 00:49:48.299
+Lucas Bonanni: también nos dan una guía para aplicar los valores centrales de de box
+
+262
+00:49:48.510 --> 00:49:54.220
+Lucas Bonanni: y aplicarlos básicamente a las organizaciones
+
+263
+00:49:55.990 --> 00:50:01.899
+Lucas Bonanni: para poder. Con estos dar una optimización de los resultados?
+
+264
+00:50:08.860 --> 00:50:24.050
+Lucas Bonanni: Bien, systemsing Sí, Bueno, lo que desarrolla esto es básicamente que se enfatiza en la importancia de comprender el sistema en su totalidad. Sí, desde el concepto, desde
+
+265
+00:50:25.120 --> 00:50:34.719
+Lucas Bonanni: desde el diseño, digamos, hasta la entrega de, digamos, del desarrollo, sí, en lugar de optimizar partes individuales
+
+266
+00:50:34.910 --> 00:50:43.390
+Lucas Bonanni: y digamos sin entender todo el proceso, No, Por ejemplo, no sé como desarrolladores, nos enfocamos en
+
+267
+00:50:43.850 --> 00:50:47.610
+Lucas Bonanni: cómo mejorar el
+
+268
+00:50:48.750 --> 00:51:06.769
+Lucas Bonanni: el performance de una parte, pero en realidad no tiene gran impacto. Por eso la idea es tener entender como eso qué impacto finalmente tiene en en el proceso completo como para realmente saber si esa
+
+269
+00:51:06.770 --> 00:51:14.829
+Lucas Bonanni: dedicarle desarrollo a esa a esa mejora o optimizar esa parte, realmente vale la pena.
+
+270
+00:51:14.990 --> 00:51:17.600
+Lucas Bonanni: Entonces. Por eso la idea es que
+
+271
+00:51:18.520 --> 00:51:30.740
+Lucas Bonanni: dentro de la cultura se tenga este pensamiento. Si es system sing, para entender todo el el sistema en su totalidad.
+
+272
+00:51:37.260 --> 00:51:47.719
+Lucas Bonanni: Después. El siguiente concepto sí que es el de from concept to cash, sí que básicamente se trata de esto? No
+
+273
+00:51:48.000 --> 00:52:04.710
+Lucas Bonanni: de esto que decía el concepto de desde el diseño, digamos, sería hasta la la producción o desde el concepto de idea hasta el producto final. Sí, entonces esto se refiere al flujo, Sí al proceso, que va desde
+
+274
+00:52:04.950 --> 00:52:10.339
+Lucas Bonanni: como desde el concepto hasta el producto, sí.
+
+275
+00:52:12.920 --> 00:52:29.129
+Lucas Bonanni: La idea es que si la organización desarrolla un software y no puede entregarlo de manera efectiva al cliente para su uso y su monetización. El esfuerzo se pierde. Si entonces la separación entre entre desarrollo y operaciones a menudo
+
+276
+00:52:29.130 --> 00:52:36.690
+Lucas Bonanni: es el punto donde este flujo a veces se ve obstaculizado, como decíamos antes, No, porque si
+
+277
+00:52:36.690 --> 00:52:39.460
+Lucas Bonanni: están trabajando sencillos, diferentes.
+
+278
+00:52:39.520 --> 00:52:40.520
+Lucas Bonanni: Y,
+
+279
+00:52:41.310 --> 00:52:52.870
+Lucas Bonanni: como decía 1 tiene bueno, sí, necesito un cierta infraestructura para llegar y hacer el deploy? Bueno, sí, pero no lo puedo tener para ahora. Lo tengo para la semana que viene porque tengo
+
+280
+00:52:52.870 --> 00:53:01.560
+Lucas Bonanni: otros tickets o hasta el siguiente Sprint, porque tengo que resolver otros tickets antes. Entonces eso s
+
+281
+00:53:01.640 --> 00:53:16.420
+Lucas Bonanni: medio que al estar separados con objetivos diferentes hace que esto sea menos ágil en definitiva y que no no sea tan ágil El la llevada producción de del desarrollo. Si
+
+282
+00:53:17.730 --> 00:53:19.580
+Lucas Bonanni: por eso se va a obstaculizar
+
+283
+00:53:20.600 --> 00:53:23.820
+Lucas Bonanni: deme un un segundo, sí, o sea, vengo.
+
+284
+00:54:42.010 --> 00:54:43.380
+Lucas Bonanni: listo, perdón.
+
+285
+00:54:45.470 --> 00:54:53.529
+Lucas Bonanni: Bien. Bueno. Entonces creo que con esto está está claro. El concepto concept to Cash.
+
+286
+00:54:53.990 --> 00:54:57.450
+Lucas Bonanni: Sí. La idea es esto: conocer
+
+287
+00:54:57.610 --> 00:55:08.250
+Lucas Bonanni: el flujo completo Sí, desde desde que se origina la idea hasta hasta el desarrollo, o por lo menos desde el desarrollo hasta hasta producción. ¿sí?
+
+288
+00:55:09.930 --> 00:55:12.520
+Lucas Bonanni: Después, el siguiente concepto
+
+289
+00:55:14.300 --> 00:55:24.179
+Lucas Bonanni: es amply feedback looks sí que básicamente es crear y acortar y amplificar los bucles de retroalimentación.
+
+290
+00:55:24.340 --> 00:55:39.849
+Lucas Bonanni: Este la idea es que básicamente tengamos un feedback continuo, Sí, corto, sí a tiempo para
+
+291
+00:55:39.900 --> 00:55:58.689
+Lucas Bonanni: poder nada poder actuar más rápido. Básicamente sí, para hacer como, por ejemplo, la detección temprana de errores. Si eso siempre reduce el tiempo y el y el costo de de la resolución. Entonces, por ejemplo, acá esta imagen. No sé si la habrán visto alguna vez.
+
+292
+00:55:59.240 --> 00:56:13.640
+Lucas Bonanni: seguramente en alguna capacitación de de la empresa, la habrán visto que, bueno, básicamente 1 descubre un no es lo mismo descubrir un bar en la en en el testing, ¿Sí?
+
+293
+00:56:13.640 --> 00:56:29.600
+Lucas Bonanni: O que el el V Ag. Pase, la parte de testing pase, se haga el release. ¿sí? Y después recién ese bag se encuentre cuando hace se hace soporte o lo encuentre el usuario. Sí,
+
+294
+00:56:29.800 --> 00:56:42.019
+Lucas Bonanni: y después se tenga que hacer el retrabajo, no porque es mucho más costoso, porque dependiendo de qué tan grave o qué impacto tenga ese bar.
+
+295
+00:56:42.020 --> 00:56:53.590
+Lucas Bonanni: va a hacer que va a impactar en la cantidad de trabajo que tengamos que hacer si es un un bag muy grande y acaba tener un mayor impacto, Sí, mayor costo.
+
+296
+00:56:53.670 --> 00:56:58.729
+Lucas Bonanni: ni hablar Si hay que retirar un un afichure o algo por el estilo
+
+297
+00:56:59.160 --> 00:57:05.450
+Lucas Bonanni: o si lo encontramos en la parte de testing y hay que volver a a retrabajarlo y a
+
+298
+00:57:05.580 --> 00:57:09.380
+Lucas Bonanni: asfixiarlo en ese momento. Si hay que hacer algún cambio
+
+299
+00:57:10.270 --> 00:57:18.420
+Lucas Bonanni: mínimo o un cambio grande, es más fácil a volver al diseño en ese momento. Sí.
+
+300
+00:57:20.270 --> 00:57:27.440
+JOANA ZARATE: Perdón profe. Cuando hablamos de la salud de nuestras aplicaciones, hablamos de esto, de los vacks.
+
+301
+00:57:28.440 --> 00:57:30.620
+Lucas Bonanni: Sí es 1 de los aspectos, sí,
+
+302
+00:57:31.970 --> 00:57:34.979
+Lucas Bonanni: no solamente de los bags, pueden ser
+
+303
+00:57:35.260 --> 00:57:40.189
+Lucas Bonanni: configuraciones. La en la salud es un poquito un concepto más amplio. No.
+
+304
+00:57:41.390 --> 00:57:46.090
+Lucas Bonanni: acá. Lo que estamos hablando es de un poquito de los feedback looks.
+
+305
+00:57:46.350 --> 00:57:49.230
+Lucas Bonanni: que básicamente es esto de tener
+
+306
+00:57:49.410 --> 00:58:00.980
+Lucas Bonanni: tratar de encontrar este tipo de errores o cualquier tipo de errores antes a través de los feedback noo. Entonces, la idea es por eso nosotros, cuando
+
+307
+00:58:02.020 --> 00:58:16.760
+Lucas Bonanni: para encontrar estos bags o cualquier tipo de estos problemas que tenemos que nos corremos test automatizados, No, generalmente cuando vamos a hacer un pull request ¿qué hacemos? Corremos test corremos unites si tenemos y deberíais.
+
+308
+00:58:16.800 --> 00:58:34.439
+Lucas Bonanni: Sería bueno tener integration test que prueben cada una de las funcionalidades. El punto a punto el en tuen los United deberían probar la lógica para ver si esa lógica unitaria de cada parte está correcta.
+
+309
+00:58:34.880 --> 00:58:50.020
+Lucas Bonanni: Entonces la idea es construir estos feedback que a nosotros nos den una retroalimentación de la salud de nuestra aplicación. Si no solamente son esos otros feedback, son que es la parte de monitoreo, no
+
+310
+00:58:50.020 --> 00:59:02.280
+Lucas Bonanni: la parte de monitoreo de alertas de ya sea de la parte de infraestructura, como puede ser con alertas creadas con logs. No son todos esos son partes o ejemplos
+
+311
+00:59:02.350 --> 00:59:05.749
+Lucas Bonanni: de de estos feedback loops.
+
+312
+00:59:08.610 --> 00:59:10.090
+Lucas Bonanni: Ahí quedó claro.
+
+313
+00:59:12.170 --> 00:59:13.279
+JOANA ZARATE: ¡sí! Profe: Gracias.
+
+314
+00:59:16.200 --> 00:59:21.150
+Lucas Bonanni: Y bueno. Y después. El siguiente concepto es
+
+315
+00:59:22.400 --> 00:59:32.620
+Lucas Bonanni: la experimentación continua. Si la idea es que haya una cultura de aprendizaje y a espe y experimentación constante
+
+316
+00:59:33.530 --> 00:59:42.740
+Lucas Bonanni: y bueno, y estar dispuestos básicamente a adquirir nuevas habilidades, tratar de aplicar nuevas habilidades
+
+317
+00:59:44.070 --> 00:59:50.709
+Lucas Bonanni: y bueno, y así como también superar la resistencia al cambio y a la complacencia con con una tecnología.
+
+318
+00:59:57.590 --> 01:00:06.990
+Lucas Bonanni: Entonces, cuándo se pueden aplicar las The Streetwes, y básicamente, para crear procesos en el equipo.
+
+319
+01:00:07.290 --> 01:00:10.830
+Lucas Bonanni: sí para crear estándares en el equipo
+
+320
+01:00:11.390 --> 01:00:16.009
+Lucas Bonanni: y como también como un estilo de administración.
+
+321
+01:00:18.850 --> 01:00:23.089
+Lucas Bonanni: Y bueno, acá. Si quieren lo que vamos a hacer, vamos a cortar
+
+322
+01:00:23.620 --> 01:00:31.039
+Lucas Bonanni: 10 min, tenía planificado cortar acá. Así después vemos lo que queda, que es más o menos otra mitad.
+
+323
+01:00:32.080 --> 01:00:39.640
+Lucas Bonanni: Y Y ahí seguimos a ver deme deme un segundo igual. Quiero chequear algo antes de hacer la pausa.
+
+324
+01:01:08.620 --> 01:01:09.950
+Lucas Bonanni: Siguen ahí.
+
+325
+01:01:11.730 --> 01:01:12.180
+MORA OTEGUI: Sí.
+
+326
+01:01:12.180 --> 01:01:13.510
+FACUNDO EMANUEL MODARELLI: De mi profe.
+
+327
+01:01:13.510 --> 01:01:14.130
+JUAN GUZZARDI: No sé.
+
+328
+01:01:14.130 --> 01:01:23.140
+Lucas Bonanni: Bueno, vamos a una casa, Voy a mover un poquito la pausa. Voy a avanzar con unos conceptos más. Y ahí después cortamos. Voy a seguir con unos.
+
+329
+01:01:23.610 --> 01:01:24.530
+Facundo Safe: Vale.
+
+330
+01:01:25.070 --> 01:01:31.609
+Lucas Bonanni: Vamos a ver, quiero. Vamos a repasar las 10 prácticas de para el éxito.
+
+331
+01:01:32.600 --> 01:01:40.979
+Lucas Bonanni: Y ahí vamos a ver un poquito también de de los ejemplos que sobre toda esta teoría, no.
+
+332
+01:01:42.270 --> 01:01:48.629
+Lucas Bonanni: Entonces, una de las buenas prácticas que tenemos es la de incident Common System.
+
+333
+01:01:48.970 --> 01:01:54.770
+Lucas Bonanni: que básicamente es un sistema estandarizado para coordinar la respuesta de incidentes.
+
+334
+01:01:55.080 --> 01:02:02.579
+Lucas Bonanni: Alguno ya participó de algún incidente, estuvo
+
+335
+01:02:03.640 --> 01:02:06.910
+Lucas Bonanni: estuvo en un Coll participó en un call.
+
+336
+01:02:06.910 --> 01:02:10.079
+Facundo Safe: Y en redes Profe entran varias en el.
+
+337
+01:02:10.080 --> 01:02:12.689
+Lucas Bonanni: Entran varias y bueno, y.
+
+338
+01:02:14.130 --> 01:02:22.150
+Facundo Safe: Y por lo menos nuestro caso pasa por un primer nivel de soporte que está tercerizado. Después entra el segundo nivel
+
+339
+01:02:22.700 --> 01:02:30.409
+Facundo Safe: que ya te diría que ahí hay que resolverlo. Y hay un tercer nivel que es la gente que hace como el post mortem que hace como un
+
+340
+01:02:30.870 --> 01:02:34.230
+Facundo Safe: hacen ricos, O sea, va va más en profundidad.
+
+341
+01:02:34.740 --> 01:02:36.230
+Facundo Safe: Pero.
+
+342
+01:02:36.230 --> 01:02:42.469
+Lucas Bonanni: O sea, hay un incidente. ¿y qué pasa? Se lo toma la la primera línea, lo que sería primera línea.
+
+343
+01:02:42.980 --> 01:02:43.790
+Facundo Safe: Sí.
+
+344
+01:02:43.930 --> 01:02:48.280
+Lucas Bonanni: Y después, y ven, si lo pueden resolver y lo pasan a segunda.
+
+345
+01:02:48.610 --> 01:02:58.359
+Facundo Safe: Exacto, hay una especie de rambo. Le dicen, tienen un de si si sale bien, se cierra el incidente, si sale mal. Pasan al segundo nivel y así.
+
+346
+01:02:59.090 --> 01:03:05.700
+Lucas Bonanni: Bien. Y en el segundo nivel, ¿qué pasa? Lo veo? Una persona que tenga, que es que esté relacionada.
+
+347
+01:03:06.540 --> 01:03:16.159
+Facundo Safe: Sco: Sí, Correcto. Y también ya no hay Rambo. O sea, hay como un travel shooting un poco más. El primer nivel. Sí, una receta que si no va
+
+348
+01:03:16.290 --> 01:03:24.090
+Facundo Safe: escalan y ya el segundo nivel tiene como más libertad. Digamos, tiene que resolverlo a como dé lugar.
+
+349
+01:03:24.460 --> 01:03:25.300
+Lucas Bonanni: Claro.
+
+350
+01:03:25.730 --> 01:03:31.009
+Lucas Bonanni: Bien, y ahí es una sola persona, o se reúnen varias, o cómo cómo organizan.
+
+351
+01:03:31.010 --> 01:03:47.079
+Facundo Safe: Y en la empresa. Bueno, el Noc, que son los chicos del New Operation Center, están nosotros. Hicimos la pecera. Están todos juntos como en una sala. Entonces, si bien cada 1 trabaja con su incidente cuando se complica, ya están ahí todos juntos.
+
+352
+01:03:47.080 --> 01:03:49.569
+Lucas Bonanni: Sí. Okay.
+
+353
+01:03:50.150 --> 01:03:50.770
+Facundo Safe: Mhm.
+
+354
+01:03:51.270 --> 01:03:55.579
+Lucas Bonanni: Y después, si ellos no lo podían resolver pasaban a tercera.
+
+355
+01:03:56.070 --> 01:04:04.240
+Facundo Safe: Sí, Sí, ya ahí estamos complicados. Pero entre un tercer nivel que ya igual, también hay gente, incluso si lo pueden resolver.
+
+356
+01:04:04.410 --> 01:04:07.350
+Facundo Safe: Pas Entra también el tercer nivel, y hace como
+
+357
+01:04:07.570 --> 01:04:10.560
+Facundo Safe: buscan la causa raíz, Digamos ya esos
+
+358
+01:04:11.090 --> 01:04:22.660
+Facundo Safe: ya no te apura el incidente porque está resuelto o por lo menos está parchado, y esta gente ya tiene más tiempo para investigar. Y hace como un análisis un poco más detallado. Presenta un informe y, bueno.
+
+359
+01:04:23.340 --> 01:04:28.450
+Facundo Safe: sería como, o sea, al final y se intenta arreglar el problema
+
+360
+01:04:29.090 --> 01:04:32.389
+Facundo Safe: o por lo menos así es. Es la modalidad de mi empresa. No.
+
+361
+01:04:32.390 --> 01:04:40.840
+Lucas Bonanni: Y si es un problema, porque por ahí esa parte, si es un problema que necesita algo urgente, que realmente tiene
+
+362
+01:04:41.190 --> 01:04:54.959
+Lucas Bonanni: una gran afectación. ¿cómo intentarle suponer que pasó por el primero? Línea. Segunda línea: no lo se pudo resolver. ¿qué hacen? ¿se juntan.
+
+363
+01:04:55.150 --> 01:05:01.719
+Facundo Safe: O de, por lo menos yo trabajo en un laboratorio. Y está lo que se llama Major, Incidencia que es cuando afecta a la planta.
+
+364
+01:05:02.050 --> 01:05:02.620
+Lucas Bonanni: O qué.
+
+365
+01:05:02.730 --> 01:05:07.359
+Facundo Safe: Ese es como el incidente más crítico de todos cuando se afecta a la planta de producción.
+
+366
+01:05:07.470 --> 01:05:14.109
+Facundo Safe: si se cae una. No sé si se cae un switch en una oficina cualquiera. Bueno o sea, no hay tanta urgencia, pero si.
+
+367
+01:05:14.110 --> 01:05:14.620
+Lucas Bonanni: Claro.
+
+368
+01:05:14.620 --> 01:05:26.140
+Facundo Safe: Si el Switch estuviese una planta de producción, por ejemplo, una línea de producción Ahí, si se llama Major Incident, y ahí se para todo, o sea, para todos los otros incidentes. Si hace falta más gente, entra más gente y, bueno.
+
+369
+01:05:26.870 --> 01:05:35.219
+Facundo Safe: no no estoy mucho en temas. Yo Yo automatizo tareas de redes. Entonces yo no estoy tanto en la operatoria diaria, pero va por ahí.
+
+370
+01:05:37.670 --> 01:05:39.620
+Facundo Safe: Bueno, bien, sí.
+
+371
+01:05:40.910 --> 01:05:47.000
+Lucas Bonanni: Excelente. Sí, Bueno, básicamente es en la parte de desarrollo. Es
+
+372
+01:05:47.290 --> 01:05:52.660
+Lucas Bonanni: básicamente no sé si alguien tiene alguna experiencia también para contar de la parte de desarrollo
+
+373
+01:05:55.970 --> 01:05:57.470
+Lucas Bonanni: qué quiere aportar.
+
+374
+01:05:57.900 --> 01:06:05.360
+MANUEL KRIVOY: Yo ahí ahí mandé al al chat, donde yo trabajo es muy informal. Habría que mejorarlo
+
+375
+01:06:05.540 --> 01:06:08.130
+MANUEL KRIVOY: cuando hay un error grande que
+
+376
+01:06:08.510 --> 01:06:12.359
+MANUEL KRIVOY: que rompa producción o o alguna cosa. Así
+
+377
+01:06:13.410 --> 01:06:20.789
+MANUEL KRIVOY: nos juntamos entre las áreas que de siempre, de sistemas que tengan que ver, lo intentamos replicar y.
+
+378
+01:06:20.790 --> 01:06:21.660
+Lucas Bonanni: Mhm.
+
+379
+01:06:22.420 --> 01:06:26.360
+MANUEL KRIVOY: Se busca la solución para echarlo y subir un hot fix
+
+380
+01:06:26.560 --> 01:06:30.189
+MANUEL KRIVOY: lo más rápido posible. Pero no hay un proceso estandarizado.
+
+381
+01:06:30.810 --> 01:06:34.129
+MANUEL KRIVOY: De hecho, ni siquiera a quie quién se junta
+
+382
+01:06:34.690 --> 01:06:43.109
+MANUEL KRIVOY: lo agarra. Alguien de soporte técnico lo reporta a algún analista, el analista más o menos de por dónde viene.
+
+383
+01:06:43.430 --> 01:06:46.170
+MANUEL KRIVOY: Se llama Little Backend o Front.
+
+384
+01:06:46.790 --> 01:06:52.849
+MANUEL KRIVOY: y se hace una col para para intentar solucionarlo. Pero no hay algo estandarizado es muy.
+
+385
+01:06:53.410 --> 01:06:57.469
+MANUEL KRIVOY: es muy desordenado. Está algo, va a mejorar la verdad.
+
+386
+01:06:57.930 --> 01:07:06.400
+Lucas Bonanni: Claro. Bueno, acá. En realidad lo que debería pasar es lo siguiente: no es similar a a lo que se decía antes
+
+387
+01:07:06.510 --> 01:07:25.659
+Lucas Bonanni: alguien que está en un call, ya sea de desarrollo, debería tener El equipo debería tener un rambo. Sí, porque en realidad, el on call como se va rotando, debería cualquiera lo podría resolver. De hecho, hasta incluso alguien de otro equipo no necesariamente con el Rambok debería funcionar.
+
+388
+01:07:26.220 --> 01:07:30.929
+Lucas Bonanni: Y esa sería como la primera línea o la primera instancia.
+
+389
+01:07:31.190 --> 01:07:46.769
+Lucas Bonanni: Hay equipos que bueno, no tienen primera línea o la o la primera y segunda línea van dentro del mismo equipo, ¿no? Porque dicen, bueno, la persona que está ahí, que puede ser cualquiera del equipo, pues no importa el señor y ti que est que tenga.
+
+390
+01:07:46.770 --> 01:08:00.099
+Lucas Bonanni: Obviamente, no vas a poner a a la persona que estuvo que entró hace 3 meses a hacer un call. Pero la idea es que participen todos y que, al menos con el Rambook, sí intente resolverlo.
+
+391
+01:08:00.230 --> 01:08:04.420
+Lucas Bonanni: Puede ser que sea un equipo grande que no esté tan familiarizado con
+
+392
+01:08:04.720 --> 01:08:18.049
+Lucas Bonanni: con esa parte del desarrollo. Sí, entonces, en ese caso, tengo que llamar a alguien más del equipo. Si con el rambo no se resolvió, sí, entonces ahí pasaría como una segunda etapa.
+
+393
+01:08:19.130 --> 01:08:21.300
+Lucas Bonanni: y ahí. Bueno.
+
+394
+01:08:21.790 --> 01:08:28.729
+Lucas Bonanni: podría ser que llame a alguien en especial del equipo que estuvo involucrada en ese desarrollo, que tenga más
+
+395
+01:08:28.950 --> 01:08:30.770
+Lucas Bonanni: más conocimiento
+
+396
+01:08:30.930 --> 01:08:41.380
+Lucas Bonanni: si no, no es el caso o es algo un poco más crítico? Bueno, por ahí puede ser que todo el equipo se sume a a revisar qué es lo que pasó?
+
+397
+01:08:42.720 --> 01:08:45.769
+Lucas Bonanni: Y bueno, Y si
+
+398
+01:08:46.100 --> 01:09:00.099
+Lucas Bonanni: eso sí es algo de la aplicación del equipo, después hay otro tipo de incidentes, como como decía también el compañero, que puede ser algo más crítico si más a a nivel general, donde
+
+399
+01:09:00.120 --> 01:09:17.879
+Lucas Bonanni: hay un incidente a nivel general de la empresa y se está buscando a ver, porque hay una degradación del servicio porque los usuarios no están pudiendo cargar alguna página o la otra. O hay algo que no se puede acceder, entonces puede ser que ahí
+
+400
+01:09:17.960 --> 01:09:19.890
+Lucas Bonanni: te intenten conectar.
+
+401
+01:09:20.290 --> 01:09:34.109
+Lucas Bonanni: se llame el un call de varios equipos o varios equipos. Y, bueno, se sumen todas las personas que estén en un call y traten de participar o identificar generalmente de algún proceso relacionado. Por ejemplo.
+
+402
+01:09:34.120 --> 01:09:48.780
+Lucas Bonanni: hay, me ha pasado no por estar, pero sé que han llamado. Por ejemplo, No, no se puede. No se están procesando los pagos de los clientes, ¿no? Entonces.
+
+403
+01:09:49.680 --> 01:09:58.139
+Lucas Bonanni: bueno, ahí se empiezan a llamar a los diferentes personas que están un call asignadas para para ese día.
+
+404
+01:09:58.870 --> 01:10:11.260
+Lucas Bonanni: que participan del diferente proceso y se intenta investigar a ver cuál es el proceso que puede estar fallando, porque puede ser que involucre varios
+
+405
+01:10:11.260 --> 01:10:21.589
+Lucas Bonanni: varios microservicios, varios equipos, y por ahí un servicio dejó de pasarle un dato a otro o deployó a algo. Y cambió
+
+406
+01:10:21.690 --> 01:10:27.739
+Lucas Bonanni: cómo le se comunicaba el mensaje y por alguna razón, se rompió
+
+407
+01:10:27.790 --> 01:10:42.660
+Lucas Bonanni: y y no se están pudiendo procesar los pagos. Entonces, por esa razón, se conectan varios, sí para intentar, cuando no está claro, no cuando está claro y se identifica rápidamente de que 1 está produciendo.
+
+408
+01:10:43.340 --> 01:11:01.900
+Lucas Bonanni: que está teniendo muchos errores. No sé, supongamos 500 o tipo de esos. Bueno, se llama directamente el del equipo, pero cuando no está muy claro, es cuando se empiezan a sumar todos y empiezan a tratar cada 1 de investigar a ver qué es lo que puede estar pasando dentro de del proceso.
+
+409
+01:11:02.860 --> 01:11:18.619
+Lucas Bonanni: Y ahí, como dice Joana dice, sí, sé que cada área tiene su proceso y se revisa en una World. ¿sí? Y básicamente se conectan eso cuando una vez que lo que yo he mencionado, se conectan todos a un a una Mit e intentan tratar de ver
+
+410
+01:11:18.620 --> 01:11:28.349
+Lucas Bonanni: si el servicio es el que el que está trayendo problemas o no? Bueno, ahí se te intenta identificar el el problema por donde viene
+
+411
+01:11:32.100 --> 01:11:48.180
+Lucas Bonanni: bien. Bueno, la siguiente práctica es bueno algo que estamos mencionando recién, que es el develo peroncol. Sí que es un desarrollador asignado para estar disponible y responder a estos incidentes fuera del horario laboral regular
+
+412
+01:11:50.550 --> 01:12:03.329
+Lucas Bonanni: después. La siguiente buena práctica es la de statuspaces. Sí, las son las estas interfaces públicas que se habrán Estado o entrado a
+
+413
+01:12:03.430 --> 01:12:24.340
+Lucas Bonanni: el estatus de Amazon, por ejemplo, para ver a ver por qué se cayó Amazon o por qué servicio o el de Slack cuando se cae Slack y así o el de ashure cuando se cae algún servicio de Microsoft también. Cuando se cae Microsoft Team, si se cae Microsoft Team o lo que sea.
+
+414
+01:12:24.710 --> 01:12:31.440
+Lucas Bonanni: Bueno, básicamente son esas status paces o el de closer, cuando también falla
+
+415
+01:12:32.110 --> 01:12:39.910
+Lucas Bonanni: para saber a ver qué es lo que se cayó, cual, Y la idea es que también en esa statuspage
+
+416
+01:12:39.960 --> 01:12:55.830
+Lucas Bonanni: se vaya actualizando en tiempo real el estado y la disponibilidad y la resolución de ese problema. No, entonces la idea es que esto proporcionar una cierta transparencia a los usuarios finales, sí para saber qué es lo que está pasando.
+
+417
+01:12:56.000 --> 01:13:06.119
+Lucas Bonanni: Si ustedes lo lo ven, y ustedes siguen este tipo de de cosas de de Amazon, Y estos tipos de proceso van a ver que después de que se da un incidente.
+
+418
+01:13:06.260 --> 01:13:11.989
+Lucas Bonanni: justamente lo que se publica después. Es un post mortem, no indicando más o menos
+
+419
+01:13:12.110 --> 01:13:16.730
+Lucas Bonanni: qué es lo que pasó si fue bueno, ¿dónde estuvo el inconveniente
+
+420
+01:13:19.590 --> 01:13:22.799
+Lucas Bonanni: que justamente va a ser el siguiente
+
+421
+01:13:22.950 --> 01:13:29.520
+Lucas Bonanni: Slide, que es el tema de los post módem, sí que son básicamente las reuniones
+
+422
+01:13:29.630 --> 01:13:35.990
+Lucas Bonanni: o los informes posteriores que al al incidente, donde se intentan analizar las causas
+
+423
+01:13:36.580 --> 01:13:45.470
+Lucas Bonanni: sin intentar culpar a los individuos, sí y tratar de crear este informe
+
+424
+01:13:45.520 --> 01:13:56.129
+Lucas Bonanni: y ver no solamente las causas, sino a ver proponer cómo se pueden solucionar esos tipos de problemas para que no se vuelvan a dar entender si
+
+425
+01:13:56.130 --> 01:14:06.049
+Lucas Bonanni: si fue por un problema de procesos, porque no necesariamente tiene que ser algún tema de configuración, siempre o algún Bag a veces hace algún algún proceso.
+
+426
+01:14:06.290 --> 01:14:12.049
+Lucas Bonanni: pue inclusive Un va. Puede ser un un tema de procesos que puede ser que
+
+427
+01:14:12.470 --> 01:14:28.239
+Lucas Bonanni: se necesitaba un afichu que sube que estuviera muy cerca del Deidline y y no se testeó correctamente o se apuró demasiado el testing para tratar de llegar, o y o se dejaron de o se
+
+428
+01:14:28.530 --> 01:14:45.850
+Lucas Bonanni: saltearon algunos pasos para poder llegar con las fechas. Y por eso llegó el vaga producción y causó el error, etcétera, etcétera, etcétera. No o no había un test que cubriera esa parte y nadie se encargó de testearlo.
+
+429
+01:14:46.930 --> 01:14:52.680
+Lucas Bonanni: Son casos que también no deberían pasar, pero son bastante comunes.
+
+430
+01:14:53.720 --> 01:15:01.220
+Lucas Bonanni: Entonces la idea es identificar todas esas causas para ver cómo se puede mitigar en un futuro y tratar de bueno
+
+431
+01:15:01.980 --> 01:15:06.930
+Lucas Bonanni: establecer procesos para que eso no vuelva a pasar
+
+432
+01:15:09.460 --> 01:15:28.510
+Lucas Bonanni: bien. La siguiente práctica es la de en Bever Team. Sí que son equipos multidisciplinarios que trabajan juntos, Representantes de diferentes áreas funcionales. Sí, estos son, como lo decíamos antes.
+
+433
+01:15:28.750 --> 01:15:44.120
+Lucas Bonanni: del área de funcionales desarrollo, operaciones Q a seguridad. Sí que es básicamente para que facilite la colaboración y la comunicación entre los equipos, para que sea
+
+434
+01:15:44.420 --> 01:15:53.720
+Lucas Bonanni: un desarrollo más ágil, porque muchas veces lo que pasa es que y
+
+435
+01:15:54.060 --> 01:15:58.350
+Lucas Bonanni: puede encontrarse al algo que no
+
+436
+01:15:59.210 --> 01:16:15.740
+Lucas Bonanni: se hace todo un desarrollo. Y resulta que se encuentra algún problema de seguridad, con lo cual te dicen, No, Bueno, con este pa. Hasta que no me arregles tal cosa. Yo no puedo dejar que esté la fitur en producción entonces.
+
+437
+01:16:16.960 --> 01:16:21.530
+Lucas Bonanni: pero para esto ya desarrollaste todo. Entonces eso pasa porque
+
+438
+01:16:21.670 --> 01:16:25.309
+Lucas Bonanni: por ahí la parte de seguridad está desconectada del equipo.
+
+439
+01:16:25.630 --> 01:16:43.560
+Lucas Bonanni: Si estuviera integrada dentro del equipo y en conocimiento del desarrollo por ahí podría haber actuado antes y haber id integrado, digamos, esa parte de desarrollo y haber dicho: bueno, se podría haber atacado el problema antes, Digamos no.
+
+440
+01:16:44.000 --> 01:16:47.310
+Lucas Bonanni: Entonces ya digamos.
+
+441
+01:16:48.130 --> 01:16:59.790
+Lucas Bonanni: se podría manejar otr de otra forma, no habría ese tiempo muerto hasta que se define cómo hacerlo y hasta que se aplica porque también esa es la otra. Lleva un tiempo de análisis.
+
+442
+01:17:03.010 --> 01:17:10.430
+Lucas Bonanni: Dale Dale Jeremy. Después se queda la igual la clase de grabada en
+
+443
+01:17:11.080 --> 01:17:15.629
+Lucas Bonanni: entonces. Por esto, la idea de los equipos multidisciplinarios
+
+444
+01:17:17.800 --> 01:17:24.630
+Lucas Bonanni: después, la siguiente práctica es cloud, la nube. Si la nube que proporciona
+
+445
+01:17:25.180 --> 01:17:34.680
+Lucas Bonanni: estas, digamos, beneficios de escalabilidad, flexibilidad, agilidad para desarrollarse y para desplegar y escalar las aplicaciones.
+
+446
+01:17:35.510 --> 01:17:44.949
+Lucas Bonanni: Y Bueno, básicamente es eso nos nos da estos beneficios que no. Bueno, esto
+
+447
+01:17:45.680 --> 01:18:04.690
+Lucas Bonanni: cuando 1 es desa aplicaba, estas de las aplicaciones. Son premios. Este tipo de cualidades son muy difíciles de de conseguir en un premios. Entonces también depende del tipo de aplicación y el tipo de usuario que 1 necesite, ¿no?
+
+448
+01:18:08.670 --> 01:18:23.410
+Lucas Bonanni: Y acá hacemos foco en 1 que van a encontrar, que también viene, así como Kaizen vino de de la cultura de Toyota, los hagan a Khorns
+
+449
+01:18:23.410 --> 01:18:30.619
+Lucas Bonanni: adom Corns también. Sí son básicamente los mecanismos
+
+450
+01:18:30.620 --> 01:18:38.790
+Lucas Bonanni: visuales que alertan sobre problemas del proceso así de ya sea de desarrollo de despliegue o u operación.
+
+451
+01:18:38.940 --> 01:18:51.090
+Lucas Bonanni: Este es un concepto de, como digo, del Sistema de Producción de Toyota, dónde, durante
+
+452
+01:18:51.890 --> 01:19:11.749
+Lucas Bonanni: el proceso de producción o de fabricación. Sí, el pro se en alguien encontraba algún problema. Así, al a lo que se refiere dentro del proceso de fabricación. Y existían este tipo de cuerdas que básicamente
+
+453
+01:19:11.750 --> 01:19:28.370
+Lucas Bonanni: los operadores podían tirar de eso. Y parar toda la producción completamente. Y la idea es que a partir de eso todos se acercaban. ¿sí? Y intentaban resolver a ver cuál había sido el problema
+
+454
+01:19:29.300 --> 01:19:38.080
+Lucas Bonanni: y tratan de ver, Bueno, es algo una mejora. Entonces, bueno, por eso todos tenían que entender como ese problema
+
+455
+01:19:38.150 --> 01:19:55.829
+Lucas Bonanni: tenés entenderle también el concepto de toda esa línea de producción, porque eso afectaba a la siguiente etapa. Entonces, bueno, todos se reunían en ese tipo de de cuando pasaba ese suceso, y por eso también estaba el tema de el otro concepto que era
+
+456
+01:19:56.200 --> 01:20:06.050
+Lucas Bonanni: que estar en el lugar del problema y no solamente ver las métricas, porque, bueno, es ir y y mirar y que todos participen, inclusive
+
+457
+01:20:06.050 --> 01:20:19.999
+Lucas Bonanni: las personas que estaban en, digamos, como de la parte de administración o no, necesariamente la parte de finanzas. Pero si no digamos los gerentes que estaban ahí en la parte de producción, vayan a ver
+
+458
+01:20:20.000 --> 01:20:22.250
+Lucas Bonanni: cada vez que que esto para
+
+459
+01:20:22.310 --> 01:20:28.610
+Lucas Bonanni: porque se supone que ellos también tenían una visión contexto más global de del sistema de producción
+
+460
+01:20:33.410 --> 01:20:44.569
+Lucas Bonanni: después. Otro concepto y otra buena práctica sí es la inyección de dependencias o independen dependencia de inyección. Sí que básicamente.
+
+461
+01:20:46.690 --> 01:21:00.449
+Lucas Bonanni: esto nos permite que desacoplar. Sí, es un patrón que nos permite desacoplar y tener diferentes capas.
+
+462
+01:21:00.690 --> 01:21:23.209
+Lucas Bonanni: mantener diferentes capas débilmente acopladas, si la idea es que con este patrón, la aplicación no debe conocer nada de las dependencias externas. No tiene que conocer la aplicación, no tiene que conocer sobre la infraestructura lo menos posible, acoplarse a la base de datos, sí
+
+463
+01:21:23.210 --> 01:21:27.540
+Lucas Bonanni: y cualquier otro tipo de, y
+
+464
+01:21:28.420 --> 01:21:36.480
+Lucas Bonanni: de, digamos, de de infraestructura o o cualquier cosa que que no sea, digamos el el el
+
+465
+01:21:38.960 --> 01:21:41.600
+Lucas Bonanni: la idea de negocio, no el.
+
+466
+01:21:44.580 --> 01:21:47.399
+JUAN GUZZARDI: Que no sea.
+
+467
+01:21:48.280 --> 01:21:49.020
+Lucas Bonanni: Cómo.
+
+468
+01:21:49.550 --> 01:21:51.060
+JUAN GUZZARDI: La lógica de negocio.
+
+469
+01:21:51.060 --> 01:21:52.769
+Lucas Bonanni: Eso es la lógica de negocios.
+
+470
+01:21:53.430 --> 01:22:10.270
+Lucas Bonanni: Entonces, la idea es que la la lógica de negocios esté aislada dentro de los servicios, sí de si es un microservicio y entonces esté todo completamente desacoplada. Bueno, de ahí viene el tema de las arquitecturas limpias o de
+
+471
+01:22:10.270 --> 01:22:24.139
+Lucas Bonanni: no de esto, de aplicar y que tengan los puertos y las conexiones y las entradas, y que después tenés la parte, digamos de la lógica es de de negocio que está aislada del resto? ¿no?
+
+472
+01:22:29.070 --> 01:22:32.270
+Lucas Bonanni: Entonces, bueno, algunos de estos
+
+473
+01:22:33.770 --> 01:22:44.419
+Lucas Bonanni: patrones que los que se trasduce. Estos patrones son son el servis locators. ¿sí? Después. Bueno.
+
+474
+01:22:44.890 --> 01:22:47.680
+Lucas Bonanni: que 1 lo lo puede utilizar
+
+475
+01:22:49.050 --> 01:22:59.320
+Lucas Bonanni: y bueno, y después el siguiente, la siguiente buena práctica sería la una técnica de despliegue que es la de bluegrim Deployment. Sí,
+
+476
+01:22:59.810 --> 01:23:09.059
+Lucas Bonanni: Básicamente, el despliegue sí de Bluegreen
+
+477
+01:23:09.560 --> 01:23:21.819
+Lucas Bonanni: la idea es mantener 2 entornos idénticos, 1 activo, azul y otro inactivo garra. Sí, las actualizaciones de con los cambios que se hicieron nuevos
+
+478
+01:23:21.870 --> 01:23:35.580
+Lucas Bonanni: se implementan primero en el entorno inactivo y luego se realiza un cambio para redirigir a los usuarios. Si al nuevo entorno
+
+479
+01:23:35.600 --> 01:23:44.870
+Lucas Bonanni: esto permite realizar despliegues en tiempo de inactividad y permite revertir, en caso de cualquier inconveniente el El problema.
+
+480
+01:23:47.220 --> 01:23:57.969
+Lucas Bonanni: no el demo. No. Esto en realidad son como 2 servidores. No, no es que es un entorno. El entorno demo es solamente para hacer pruebas. Generalmente.
+
+481
+01:23:58.400 --> 01:24:08.339
+Lucas Bonanni: 1 tiene diferentes entornos que podrían ser Stacin demo también podría ser desarrollo
+
+482
+01:24:08.530 --> 01:24:22.329
+Lucas Bonanni: un ambiente de Cuba, y la idea es que cada ambiente depende de de de la empresa y las posibilidades que tenga para desarrollar, para mantener esa infraestructura de cada ambiente es que
+
+483
+01:24:23.520 --> 01:24:33.410
+Lucas Bonanni: por el desarrollo va a ser el el digamos, el ambiente más básico, para poder probar las funcionalidades de manera interna para el desarrollador.
+
+484
+01:24:34.330 --> 01:24:39.380
+Lucas Bonanni: El Esa es básicamente cada en
+
+485
+01:24:40.320 --> 01:24:47.759
+Lucas Bonanni: cada entorno que haya en el medio va a depender mucho de la empresa. Pero el anterior
+
+486
+01:24:48.170 --> 01:25:04.509
+Lucas Bonanni: dir que España, de antes de producción debería ser lo más parecido a producción posible para poder probar correctamente la aplicación en el ambiente. Más hasta debería ser igual, pero generalmente no es igual por un tema de costos.
+
+487
+01:25:04.980 --> 01:25:07.300
+Lucas Bonanni: Sí.
+
+488
+01:25:07.300 --> 01:25:15.020
+MANUEL KRIVOY: Sí entonces, pero esto sería un entorno más que sería igual a producción o.
+
+489
+01:25:15.020 --> 01:25:22.130
+Lucas Bonanni: Es otra cosa. Esto es un sistema de plant. Lo que vos haces es tener una instancia, o sea, tenés, 2 instancias.
+
+490
+01:25:22.410 --> 01:25:29.629
+Lucas Bonanni: una con la con la aplicación que digamos. Esto viene mucho de cómo
+
+491
+01:25:30.940 --> 01:25:50.939
+Lucas Bonanni: se usaban las máquinas virtuales también. O sea, como No, no tenías la posibilidad ahora de hacer. D, Por ejemplo, ahora en cubernetes vos tenés la posibilidad de que vos tienes un un deployment, tienes armado, digamos yamel, y vos puedes tener un
+
+492
+01:25:51.010 --> 01:25:57.060
+Lucas Bonanni: que haga el pool, digamos de repositorio cada vez que hay unos cambios, no Pero
+
+493
+01:25:58.020 --> 01:26:12.459
+Lucas Bonanni: imagínate que cuando vos tenías que levantar una máquina virtual y tenías que hacer algún cambio de versión. Bueno, podías hacerlo directamente en en el cambio. Por ejemplo, Vos tenías que actualizar un un software
+
+494
+01:26:12.730 --> 01:26:15.110
+Lucas Bonanni: entonces por ahí lo que hacías era
+
+495
+01:26:15.330 --> 01:26:30.030
+Lucas Bonanni: agarrabas tenías la máquina que se estaba utilizando ya, tenías un clon anteriormente, ahí hacías, la actualización y en algún periodo lo que hacías es redirigir el tráfico de una a otra.
+
+496
+01:26:31.890 --> 01:26:38.669
+Lucas Bonanni: Entonces, de esa manera, reducías el tiempo que ina de inactividad.
+
+497
+01:26:38.910 --> 01:26:39.310
+MANUEL KRIVOY: Claro.
+
+498
+01:26:39.310 --> 01:26:39.750
+Lucas Bonanni: Entonces.
+
+499
+01:26:39.750 --> 01:26:41.369
+MANUEL KRIVOY: Hay. Entendí.
+
+500
+01:26:42.210 --> 01:27:00.559
+Lucas Bonanni: Ahora por es más difícil, porque, bueno, ahora lo ves Ahora van a ser contenedores. Va a ser la aplicación Y en realidad lo que se descarga es la imagen, entonces medio que se pierde. Pero por ahí con el tema de los cuando eran las máquinas virtuales. Era más claro.
+
+501
+01:27:02.000 --> 01:27:13.850
+Lucas Bonanni: pero se trata de eso de de tener 2 entornos iguales, sí en el cual 1 queda con, digamos, con el código viejo y 1 con el nuevo, y después se cambia
+
+502
+01:27:14.670 --> 01:27:19.469
+Lucas Bonanni: en el flujo de los usuarios de 1 a otro
+
+503
+01:27:23.320 --> 01:27:33.149
+Lucas Bonanni: Bien, después de la última práctica que que vamos a ver es la de Kaus Monkey. Si esta es
+
+504
+01:27:33.450 --> 01:27:47.390
+Lucas Bonanni: es una práctica que básicamente es desarrollar una herramienta desarrollada por Netflix, que se utiliza para básicamente probar la resiliencia de los sistemas en en la nube sí
+
+505
+01:27:47.390 --> 01:27:53.769
+Lucas Bonanni: y provocar los fallos de manera aleatoria en la infraestructura y en los servicios.
+
+506
+01:27:54.350 --> 01:28:00.730
+Lucas Bonanni: Esto la idea es para ayudar a identificar y corregir
+
+507
+01:28:01.180 --> 01:28:14.209
+Lucas Bonanni: las vulnerabilidades en la arquitectura. Sí, encontrar problemas en la configuración y siempre tratando de mejorar la capacidad de recuperación y fiabilidad del servicio.
+
+508
+01:28:15.820 --> 01:28:34.119
+Lucas Bonanni: Entonces básicamente la ingeniería Kaos Monkeys y o la ingeniería de caos. Él aplica el concepto, este de experimentar sí con un sistema y con la finalidad de tratar de.
+
+509
+01:28:35.770 --> 01:28:38.549
+Lucas Bonanni: digamos, generar más confianza
+
+510
+01:28:39.160 --> 01:28:45.109
+Lucas Bonanni: en un sistema en nuestro, en el sistema que estamos desarrollando para hacerlo más robusto, ¿sí?
+
+511
+01:28:45.890 --> 01:28:53.320
+Lucas Bonanni: Y de esa manera robusto para que puedas soportar cualquier fallo en producción.
+
+512
+01:28:54.610 --> 01:29:04.380
+Lucas Bonanni: Entonces, para tratar de de aplicar Kauf Monkey, lo que se intenta hacer o la ingeniería de caos es
+
+513
+01:29:04.560 --> 01:29:10.909
+Lucas Bonanni: a través de experimentos, descubrir las debilidades sistémicas que puedan llegar a
+
+514
+01:29:11.010 --> 01:29:22.349
+Lucas Bonanni: a ver. Entonces, para esto se tienen que seguir 4 pastos. Sí, Primero, comenzar definiendo un Estado estacionario. Si
+
+515
+01:29:22.350 --> 01:29:32.189
+Lucas Bonanni: que la idea es que ese Estados estacionarios se pueda medir y saber cuál es el el comportamiento normal de ese sistema.
+
+516
+01:29:33.690 --> 01:29:38.960
+Lucas Bonanni: Luego es hacer una hipótesis de que ese estado estacionario
+
+517
+01:29:39.280 --> 01:29:48.660
+Lucas Bonanni: continuará de esa manera tanto en el grupo de control como en el grupo experimental
+
+518
+01:29:49.180 --> 01:29:52.690
+Lucas Bonanni: y después introducir variables que reflejan
+
+519
+01:29:52.850 --> 01:30:05.389
+Lucas Bonanni: eventos del mundo real como servidores que dejan de funcionar discos rígidos que funcionan mal, conexiones de red que están cortadas. Sí, y tratar de
+
+520
+01:30:05.500 --> 01:30:15.559
+Lucas Bonanni: refutar la hipótesis buscando una diferencia en el estado estacionario entre el grupo de control y el grupo de experimental. Entonces
+
+521
+01:30:16.260 --> 01:30:29.670
+Lucas Bonanni: es como básicamente hacer una prueba científica a ver de que si se encuentra realmente alguna implicación de alguno de esos cambios que se hicieron dentro de
+
+522
+01:30:30.000 --> 01:30:36.870
+Lucas Bonanni: de la aplicación o de la infraestructura así, para tratar de ver y encontrar fallos más rápidamente.
+
+523
+01:30:41.070 --> 01:30:44.180
+Lucas Bonanni: Bien. Y esa era la última.
+
+524
+01:30:47.020 --> 01:30:55.689
+Lucas Bonanni: Ahora, sí, si quieren, hacemos ahora sí una pausa de 10 min, y y venimos y volvemos y 28
+
+525
+01:30:56.170 --> 01:30:57.210
+Lucas Bonanni: te parece.
+
+526
+01:30:57.210 --> 01:30:58.120
+JUAN GUZZARDI: Vale.
+
+527
+01:30:59.080 --> 01:30:59.500
+Lucas Bonanni: Bueno.
+
+528
+01:30:59.500 --> 01:30:59.950
+JOANA ZARATE: Todo.
+
+529
+01:30:59.950 --> 01:31:00.750
+FACUNDO EMANUEL MODARELLI: Mismo.
+
+530
+01:31:01.510 --> 01:31:02.770
+Lucas Bonanni: Ahí nos vemos en un ratito.
+
+531
+01:31:02.770 --> 01:31:04.029
+Facundo Safe: Dale Profe.
+
+532
+01:42:23.640 --> 01:42:27.779
+Lucas Bonanni: Bueno, eso ya estoy, o sea.
+
+533
+01:42:28.190 --> 01:42:30.450
+Lucas Bonanni: a veces más, mientras van llegando.
+
+534
+01:42:31.470 --> 01:42:32.020
+FACUNDO EMANUEL MODARELLI: Ya estoy.
+
+535
+01:42:35.010 --> 01:42:36.300
+VALENTINO CORTESE: Ya estamos.
+
+536
+01:42:37.430 --> 01:42:38.320
+FRANCISCO DAURAT: Vamos, vamos.
+
+537
+01:42:39.060 --> 01:42:39.840
+Lucas Bonanni: Vamos.
+
+538
+01:42:42.290 --> 01:42:43.550
+Lucas Bonanni: Excelente.
+
+539
+01:42:47.310 --> 01:42:48.330
+Lucas Bonanni: Bueno.
+
+540
+01:42:48.760 --> 01:42:57.350
+Lucas Bonanni: lo que vamos a ver ahora era lo que nos queda. Digamos, para completar el digamos, estos conceptos básicos
+
+541
+01:42:57.500 --> 01:43:00.309
+Lucas Bonanni: que que, bueno, que vamos a ir
+
+542
+01:43:00.460 --> 01:43:06.739
+Lucas Bonanni: revisando en el resto de la materia que lo vamos a ver, viendo, digamos, sobre las diferentes
+
+543
+01:43:06.840 --> 01:43:19.630
+Lucas Bonanni: herramientas. ¿y cómo aplicamos todo todo esto es el los conceptos de ágil, no, que básicamente son
+
+544
+01:43:19.930 --> 01:43:33.299
+Lucas Bonanni: estas metodologías ágiles para el desarrollo de software, sí donde se caracteriza por ser un desarrollo más iterativo y colaborativo. Sí,
+
+545
+01:43:33.740 --> 01:43:42.930
+Lucas Bonanni: Y bueno, esto hay que acordarse, que viene de en contraposición con el sistema, digamos.
+
+546
+01:43:43.300 --> 01:43:49.559
+Lucas Bonanni: anterior o más tradicional, que es el de desarrollo por de cascada.
+
+547
+01:43:50.730 --> 01:43:59.820
+Lucas Bonanni: Yo, ¿por qué no me 5, 5, sí de cascada y
+
+548
+01:44:01.140 --> 01:44:18.930
+Lucas Bonanni: que básicamente se consistía en diferentes etapas. El sistema de cascada que ya lo habrán escuchado donde Bueno, primero se hacían los requerimientos, después el diseño, después, la implementación, la verificación y el mantenimiento. Entonces.
+
+549
+01:44:18.970 --> 01:44:28.499
+Lucas Bonanni: es un digamos, es un enfoque bastante rígido, sí de cómo tiene que ir y cómo se tiene que estructurar el desarrollo.
+
+550
+01:44:28.870 --> 01:44:29.990
+Lucas Bonanni: Mhm
+
+551
+01:44:30.430 --> 01:44:46.900
+Lucas Bonanni: y que a partir de eso se empezó a proponer otros tipos de sistemas que son estos sistemas ágiles donde la idea es Do, que haya una mayor cala colaboración entre los equipos, sí
+
+552
+01:44:47.610 --> 01:44:58.330
+Lucas Bonanni: para que también ir adaptándose de manera más rápido a los cambios de cliente y mejorar la cap calidad del producto. No, esto también.
+
+553
+01:44:58.460 --> 01:45:02.680
+Lucas Bonanni: Si 1 lo piensa, 1 tiene que pensar que también fue con un también un
+
+554
+01:45:03.130 --> 01:45:13.110
+Lucas Bonanni: una evolución del proceso y también de del mismo software, no que que al principio, tal vez hablando de
+
+555
+01:45:13.420 --> 01:45:21.330
+Lucas Bonanni: pensemos en el desarrollo, no como lo que es hoy en día, sino lo que sería en
+
+556
+01:45:22.440 --> 01:45:36.340
+Lucas Bonanni: ante entre principio de los 90 y finales de los 80, que por ahí los desarrollos eran para un banco, o eran desarrollos para empresas muy grandes que podían costear esos esos recursos.
+
+557
+01:45:36.340 --> 01:45:43.450
+Lucas Bonanni: Entonces realmente se seguía ese pro proceso de cascada realmente sí, porque, bueno.
+
+558
+01:45:44.030 --> 01:45:53.970
+Lucas Bonanni: se intentaba desarrollar. Y eran software robustos grandes, sí, y tenían que seguir esos, digamos, esos sistemas bastante rígidos.
+
+559
+01:45:55.230 --> 01:46:04.649
+Lucas Bonanni: Luego, a medida que el desarrollo de software fue cambiando, especialmente después de mucho después, digamos, de de los que fueron
+
+560
+01:46:04.670 --> 01:46:15.580
+Lucas Bonanni: con fines de los 90, tal vez cuando ya digamos, se empieza a agilizar un poco más por el por el acceso a Internet, porque las aplicaciones empiezan a cambiar.
+
+561
+01:46:16.230 --> 01:46:26.470
+Lucas Bonanni: Las aplicaciones ya no son ya. No son ni siquiera en la terminal, ni son escritas en Cobold, sino ya son por ahí aplicaciones de escritorio. Entonces donde
+
+562
+01:46:26.960 --> 01:46:28.879
+Lucas Bonanni: ya el usuario tiene
+
+563
+01:46:29.140 --> 01:46:37.129
+Lucas Bonanni: ya puede interactuar más. Y bueno, no. Entonces todo eso también impacta en cómo se venía desarrollando. Y obviamente
+
+564
+01:46:37.360 --> 01:46:44.860
+Lucas Bonanni: es donde yo creo que empiezan a aflorar mucho más, aunque todavía hasta ahora
+
+565
+01:46:45.170 --> 01:46:52.630
+Lucas Bonanni: no se ha implementado en muchas empresas le ha costado implementar las metodologías ágiles. Pero, bueno.
+
+566
+01:46:53.000 --> 01:47:00.230
+Lucas Bonanni: creo que ahí es donde se se ve, Se nota más el cambio. No bien.
+
+567
+01:47:02.380 --> 01:47:14.720
+Lucas Bonanni: Bueno, a partir de eso, bueno, nace el manifiesto ágil en el en el año 2 000, Uno, si donde establecen los valores y los principios sí
+
+568
+01:47:14.720 --> 01:47:27.970
+Lucas Bonanni: donde se enfatiza la colaboración, la entre la entrega de funcional de software y la respuesta del cambio no. Entonces, ahí en en básicamente en el manifiesto ágil
+
+569
+01:47:27.970 --> 01:47:37.129
+Lucas Bonanni: que después lo pueden buscar en Internet o yo no trato de poner una referencia también en el Slide para que ustedes lo lo tengan.
+
+570
+01:47:39.660 --> 01:47:49.479
+Lucas Bonanni: Básicamente, bueno, los valores claves son estos no los individuos y las interacciones sobre los procesos y las herramientas.
+
+571
+01:47:49.900 --> 01:48:04.300
+Lucas Bonanni: El software funcionando, o sea, lo que prioriza, digamos, es el software que esté funcionando sobre la documentación ex excesiva no o extensiva. Imagínense que
+
+572
+01:48:05.030 --> 01:48:24.859
+Lucas Bonanni: antes del año, 2 000, al no haber Internet, la documentación podía ser todo un manual de un libro no que eso también. No había otra forma de de utilizar un software que no fuera con un con un manual o con al menos una documentación
+
+573
+01:48:25.440 --> 01:48:28.979
+Lucas Bonanni: que 1 pudiera acceder de manera. Flyne
+
+574
+01:48:29.750 --> 01:48:33.489
+Lucas Bonanni: de alguna manera o dentro de la red corporativa.
+
+575
+01:48:35.970 --> 01:48:44.519
+Lucas Bonanni: Entonces, bueno, eso también a partir de 2 001 con Internet. Y todo eso también ayudó mucho a que estos cambios se puedan
+
+576
+01:48:44.810 --> 01:48:45.730
+Lucas Bonanni: claro
+
+577
+01:48:46.050 --> 01:48:56.570
+Lucas Bonanni: entonces también prioriza la colaboración del con el cliente sobre la negociación de del contrato. Si entonces tratar de
+
+578
+01:48:57.010 --> 01:49:10.209
+Lucas Bonanni: en vez de algo más rígido sobre un contrato y y cómo tiene que ser y especificarlo, y hasta dónde tiene que ser y hasta dónde te desarrollo el módulo, sino más bien algo
+
+579
+01:49:10.210 --> 01:49:21.639
+Lucas Bonanni: más como algo más colaborativo, donde tal vez no haya tanta una negociación, sino, bueno, tratar de sí, siempre, poner límites. Pero bueno.
+
+580
+01:49:21.800 --> 01:49:27.490
+Lucas Bonanni: tratar de que digamos al cliente también le sirva y
+
+581
+01:49:28.120 --> 01:49:36.230
+Lucas Bonanni: y también tener una mayor respuesta sobre el cambio que se quería realizar o algún cambio que pide el cliente, Sí,
+
+582
+01:49:38.070 --> 01:49:50.380
+Lucas Bonanni: bien. Y dentro de las metodologías ágiles, está Link: Sí, Kellying tiene 7 principios, sí, y
+
+583
+01:49:52.490 --> 01:49:58.930
+Lucas Bonanni: que incluyen la eliminación de desperdicios, la amplificación del aprendizaje.
+
+584
+01:49:59.040 --> 01:50:05.800
+Lucas Bonanni: la toma de decisiones lo más tarde posible. Sí, la entrega rápida
+
+585
+01:50:05.930 --> 01:50:12.570
+Lucas Bonanni: se enfocan en entregar valor al producto final y mejorar la calidad de software. Básicamente.
+
+586
+01:50:18.020 --> 01:50:33.030
+Lucas Bonanni: bueno, y acá como van a ver, hay muchos de estos principios donde dice ver el todo, que es esto es entender todo el proceso de punta a punta. Si la integridad do incorporada y el entrenamiento del equipo.
+
+587
+01:50:33.030 --> 01:50:44.909
+Lucas Bonanni: el empoderamiento del equipo perdón. ¿es esto no de poder tener el equipo en conjunto sí y que pueda el equipo ser realmente autónomo y no depender de de otros hilos
+
+588
+01:50:44.960 --> 01:50:55.829
+Lucas Bonanni: para poder hacer una entrega rápida justamente y no tener esos bloqueos. De, Bueno, por estar en equipos o estilos diferentes.
+
+589
+01:51:00.970 --> 01:51:08.140
+Lucas Bonanni: Mhm: Bien. Y después está el concepto de
+
+590
+01:51:08.530 --> 01:51:26.709
+Lucas Bonanni: Bill mejor and Learn: Sí, que básicamente es una metodología propuesta por Eric Price Lean startup tickets intenta de crear esta metodología, de construir, medir y de aprender. La idea es
+
+591
+01:51:26.810 --> 01:51:45.689
+Lucas Bonanni: tener un primero, llegar con un producto mínimo viable, tener una retroalimentación y seguir iterando sí, seguir iterando para poder mejorar ese producto, ir haciendo los cambios y que el producto sea chico es importante para poder hacer estas correcciones y y esos cambios
+
+592
+01:51:45.690 --> 01:51:51.860
+Lucas Bonanni: de la manera más fácil y más rápida posible. ¿sí? Entonces
+
+593
+01:51:54.410 --> 01:52:04.570
+Lucas Bonanni: la idea es bueno. Siguiendo estos pasos de decir, bueno, construyo este producto. Lo mínimo que necesito. Trato de
+
+594
+01:52:04.880 --> 01:52:09.050
+Lucas Bonanni: ver cómo cuál es el feedback a partir de eso.
+
+595
+01:52:09.060 --> 01:52:21.429
+Lucas Bonanni: tener métricas internas, sí o externas también. Y aprender sobre el problema, o o los cambios que se necesiten. Sí, y cómo mejorar y llegar a esa solución.
+
+596
+01:52:21.430 --> 01:52:31.999
+Lucas Bonanni: Y así repetir: es todo ese proceso para hacer la la me la mejora sí de de nuestro software o ir a
+
+597
+01:52:32.000 --> 01:52:47.989
+Lucas Bonanni: mejorándolo. Sí, estas prácticas, junto con la técnica de mapeos de flujo de valor y Kaizer sí son algunas de las fundamentales para la mejora continua en el desarrollo de software
+
+598
+01:52:48.020 --> 01:52:55.269
+Lucas Bonanni: y que fueron partes esenciales, sí o integrales de la parte de de votos.
+
+599
+01:52:57.120 --> 01:52:59.690
+Lucas Bonanni: Entonces, ahora, para cerrar.
+
+600
+01:53:05.200 --> 01:53:14.250
+Lucas Bonanni: vamos a definir que no es de Watts, Sí, entonces de box no es operaciones.
+
+601
+01:53:14.540 --> 01:53:32.370
+Lucas Bonanni: no es hoy la simplemente herramientas. No son solamente las herramientas que se utilizan para automatizar. No es solamente la cultura Sí, no es simplemente desarrollo y operaciones todos juntos.
+
+602
+01:53:32.600 --> 01:53:34.690
+Lucas Bonanni: No es un título, no más.
+
+603
+01:53:34.890 --> 01:53:49.960
+Lucas Bonanni: A Es, básicamente es esto. Es una cultura, es una cultura que, como vimos engloba todos esos buenas prácticas.
+
+604
+01:53:50.300 --> 01:53:55.850
+Lucas Bonanni: cómo ti, cómo se debe trabajar y cómo se debe compartir, y una serie de valores.
+
+605
+01:53:56.650 --> 01:53:59.859
+Lucas Bonanni: Por eso no Por eso tampoco es un título. Sí,
+
+606
+01:54:01.880 --> 01:54:06.620
+Lucas Bonanni: bueno. Y básicamente, eso es todo.
+
+607
+01:54:07.110 --> 01:54:20.039
+Lucas Bonanni: Y después la clase que viene. Ya Vamos a ver algunas de las herramientas a manera de introducción. ¿sí? Vamos a ver algo de hit, algo de Hith, Hub Docker.
+
+608
+01:54:20.040 --> 01:54:32.919
+Lucas Bonanni: Supongo que algo introductorio también a gobernetes. Eso creo que va a entrar o si no igual lo vemos por separado en otra clase para ya ir introduciendo en las herramientas. Acá es donde
+
+609
+01:54:33.340 --> 01:54:39.429
+Lucas Bonanni: estaría. Bueno definir si en esa clase vamos a ver un poquito, s
+
+610
+01:54:39.780 --> 01:54:46.829
+Lucas Bonanni: podemos ver cosas, podemos Co: a ver. Podemos abarcar las conceptos básicos de H, I, I, T.
+
+611
+01:54:48.750 --> 01:54:53.540
+Lucas Bonanni: Yo voy a tratar de cubrir también algunas cosas que tal vez
+
+612
+01:54:54.700 --> 01:54:59.569
+Lucas Bonanni: de conceptos de cómo funciona? H I, T, digamos por dentro.
+
+613
+01:55:00.380 --> 01:55:12.439
+Lucas Bonanni: y algunas cosas avanzadas también, y algunas cosas que le puedan llegar a servir en el día a día. Sí, esa es la idea de ver de de hit. Bueno, de hit. Hub. También vamos a ver algunas cosas.
+
+614
+01:55:12.800 --> 01:55:16.530
+Lucas Bonanni: Y bueno, lo mismo con 2 que gobernetes también.
+
+615
+01:55:16.850 --> 01:55:21.340
+Lucas Bonanni: Así que nada eso vamos a ver la clase que viene.
+
+616
+01:55:23.420 --> 01:55:25.510
+Facundo Safe: Vale, profe buena semana.
+
+617
+01:55:25.510 --> 01:55:26.450
+JUAN GUZZARDI: Buenísimo.
+
+618
+01:55:26.450 --> 01:55:28.119
+MANUEL KRIVOY: Buen cine, nos vemos.
+
+619
+01:55:28.120 --> 01:55:30.059
+VALENTINO CORTESE: En fin de.
+
+620
+01:55:30.460 --> 01:55:31.109
+FRANCISCO DAURAT: A un en.
+
+621
+01:55:31.930 --> 01:55:32.270
+CRISMARY CASTELLANOS: Es el.
+
+622
+01:55:32.270 --> 01:55:33.310
+VALENTIN KRAJZELMAN: Nos vemos.
+
+623
+01:55:34.490 --> 01:55:35.430
+FACUNDO EMANUEL MODARELLI: Buen fin de.
+
+624
+01:55:35.900 --> 01:55:37.890
+Lucas Bonanni: Igualmente buen finde.
+
+625
+01:55:38.280 --> 01:55:38.970
+FACUNDO EMANUEL MODARELLI: Chao, chao.
+
+

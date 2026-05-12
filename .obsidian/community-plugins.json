@@ -1,6 +1,6 @@
 [
   "obsidian-minimal-settings",
   "github-sync",
-  "mcp-tools",
-  "obsidian-importer"
+  "obsidian-importer",
+  "obsidian-local-rest-api"
 ]

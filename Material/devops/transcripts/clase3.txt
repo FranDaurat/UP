@@ -1,0 +1,2871 @@
+WEBVTT
+
+1
+00:00:11.190 --> 00:00:13.120
+Lucas Bonanni: Para cerrar la ventana.
+
+2
+00:00:25.200 --> 00:00:27.630
+Lucas Bonanni: ¿cómo dale dale la sierra?
+
+3
+00:00:29.430 --> 00:00:30.750
+Lucas Bonanni: Y no.
+
+4
+00:01:12.020 --> 00:01:13.220
+PEDRO LIVSCHITZ: Hola, buenas tardes.
+
+5
+00:01:13.740 --> 00:01:18.199
+Lucas Bonanni: Qué tal buenas tardes, no tanto.
+
+6
+00:01:19.600 --> 00:01:21.450
+FACUNDO EMANUEL MODARELLI: Hola. Profe, Todo bien.
+
+7
+00:01:22.100 --> 00:01:24.190
+Lucas Bonanni: Todo bien. Muchas gracias.
+
+8
+00:01:25.570 --> 00:01:28.640
+FACUNDO EMANUEL MODARELLI: Todo Bien, Por acá. Por suerte terminando la semana.
+
+9
+00:01:29.510 --> 00:01:31.090
+Lucas Bonanni: Excelente semana corta.
+
+10
+00:01:32.950 --> 00:01:37.809
+FACUNDO EMANUEL MODARELLI: Semana corta y la semana que viene también, no parece.
+
+11
+00:01:38.910 --> 00:01:40.770
+Lucas Bonanni: La semana que viene.
+
+12
+00:01:41.390 --> 00:01:45.409
+Lucas Bonanni: Sí, también no es la del la feria. Dos.
+
+13
+00:01:46.500 --> 00:01:50.770
+FACUNDO EMANUEL MODARELLI: Claro del 2 y el 3. Creo que es por el el 2 de abril.
+
+14
+00:01:52.220 --> 00:01:56.700
+Lucas Bonanni: Sí, exacto.
+
+15
+00:02:03.960 --> 00:02:09.330
+Lucas Bonanni: Les hago una pregunta. Ustedes vieron el módulo 1. Me parece que el P. D. F quedó cortado. ¿no?
+
+16
+00:02:10.949 --> 00:02:11.470
+Lucas Bonanni: Mhm.
+
+17
+00:02:11.470 --> 00:02:12.090
+FACUNDO EMANUEL MODARELLI: Muy bien.
+
+18
+00:02:12.090 --> 00:02:22.429
+Lucas Bonanni: De introducción, el de introducción que es de Vox, Sí, hay algunas partes quedaron cortadas por alguna razón.
+
+19
+00:02:29.130 --> 00:02:32.529
+Lucas Bonanni: Sí, porque Yo ayer estuve subiendo el módulo 2
+
+20
+00:02:33.510 --> 00:02:42.530
+Lucas Bonanni: y vi que había un error cuando se genera el P. D F. No quedaba bien por alguna razón
+
+21
+00:02:42.730 --> 00:02:45.739
+Lucas Bonanni: y quedaba cortado
+
+22
+00:02:47.920 --> 00:02:53.730
+Lucas Bonanni: y a ver, es módulo 1 y la intro. No sé cómo habrá quedado. No me fijé.
+
+23
+00:02:54.860 --> 00:02:56.279
+Lucas Bonanni: Ahora dentro. Queda bien.
+
+24
+00:02:56.880 --> 00:03:00.519
+Lucas Bonanni: Está bien que se lo genere de otra forma.
+
+25
+00:03:04.530 --> 00:03:07.349
+Lucas Bonanni: Okay, Ese ese es el módulo 1.
+
+26
+00:03:10.020 --> 00:03:14.150
+Lucas Bonanni: Si ven algo en las presentaciones que que vean que
+
+27
+00:03:14.940 --> 00:03:21.400
+Lucas Bonanni: que quedó mal, avísenme porque yo estoy tratando de actualizarlas.
+
+28
+00:03:22.260 --> 00:03:24.059
+Lucas Bonanni: Las P. P Ts
+
+29
+00:03:25.290 --> 00:03:34.509
+Lucas Bonanni: y capaz que en ese en ese cuando las voy actualizando, las voy cambiando. Hay algo que puede ser que quede mal.
+
+30
+00:03:34.760 --> 00:03:38.589
+Lucas Bonanni: Ahora, yo me di cuenta de eso, de que estaban quedando cortadas.
+
+31
+00:03:38.900 --> 00:03:42.410
+Lucas Bonanni: Así que no voy a cambiar el módulo 1
+
+32
+00:03:48.610 --> 00:03:51.839
+Lucas Bonanni: la voy a volver a subir y la voy a reemplazar para que quede bien.
+
+33
+00:03:56.300 --> 00:03:56.880
+FACUNDO EMANUEL MODARELLI: No.
+
+34
+00:04:12.080 --> 00:04:13.619
+FACUNDO EMANUEL MODARELLI: no había más.
+
+35
+00:05:12.510 --> 00:05:13.569
+JUANA BOJOSIAN: Buenas tardes.
+
+36
+00:05:14.280 --> 00:05:15.480
+Lucas Bonanni: Buenas tardes.
+
+37
+00:12:29.070 --> 00:12:37.399
+Lucas Bonanni: Bueno, creo que ya estamos listos para empezar haciendo algunas actualizaciones.
+
+38
+00:12:43.430 --> 00:12:44.210
+Lucas Bonanni: En el
+
+39
+00:12:53.240 --> 00:12:54.030
+Lucas Bonanni: mira.
+
+40
+00:13:28.610 --> 00:13:30.870
+Lucas Bonanni: Bien, ahí ven la presentación, ¿verdad?
+
+41
+00:13:36.860 --> 00:13:37.700
+MORA OTEGUI: Sí, Sí.
+
+42
+00:13:37.910 --> 00:13:38.450
+CRISMARY CASTELLANOS: Sí Profe.
+
+43
+00:13:38.450 --> 00:13:39.120
+Lucas Bonanni: Excelente.
+
+44
+00:13:39.530 --> 00:13:46.739
+Lucas Bonanni: Bien. Bueno, antes de arrancar con la presentación, lo que voy a agregar va a ser acá.
+
+45
+00:13:47.950 --> 00:13:50.160
+Lucas Bonanni: Voy a agregar una guía.
+
+46
+00:13:53.180 --> 00:14:01.969
+Lucas Bonanni: porque quiero ver si si podemos llegar a ser un pequeña práctica cuando llegamos a la parte de cuvernetes
+
+47
+00:14:03.700 --> 00:14:06.659
+Lucas Bonanni: y quiero que tengan instalado las cosas.
+
+48
+00:14:18.870 --> 00:14:19.670
+Lucas Bonanni: Mhm.
+
+49
+00:14:24.580 --> 00:14:26.799
+Lucas Bonanni: Parece que no lo dice.
+
+50
+00:14:33.530 --> 00:14:39.340
+Lucas Bonanni: enfocan lo que aquí tenemos.
+
+51
+00:14:48.290 --> 00:14:58.990
+Lucas Bonanni: porque lo que quiero que hagamos es mientras que lo lo voy buscando. Lo voy comentando, y quiero que ver si armamos un pequeño laboratorio de manera local, cada 1 en su máquina
+
+52
+00:14:59.240 --> 00:15:01.040
+Lucas Bonanni: instalando
+
+53
+00:15:01.370 --> 00:15:12.849
+Lucas Bonanni: lo que sería el local Stack que yo estuve haciendo pruebas Está muy interesante, aunque lo malo de eso es que
+
+54
+00:15:13.390 --> 00:15:21.769
+Lucas Bonanni: hace poco me enteré que ya despercaron el el repositorio de open source. Así que no sé cuanto más se va a estar disponible.
+
+55
+00:15:21.870 --> 00:15:25.959
+Lucas Bonanni: pero por ahora. Yo lo estuve probando y está funcionando
+
+56
+00:15:29.380 --> 00:15:31.290
+Lucas Bonanni: un momento
+
+57
+00:15:48.130 --> 00:15:54.420
+Lucas Bonanni: ahí. Otra cosa que les mens aprovecho para mencionar es
+
+58
+00:15:57.360 --> 00:16:02.019
+Lucas Bonanni: estuve cargando. Acá ustedes siguen viendo el navegador, No.
+
+59
+00:16:07.330 --> 00:16:07.840
+PEDRO LIVSCHITZ: Sí, Sí.
+
+60
+00:16:08.050 --> 00:16:09.569
+MANUEL KRIVOY: Te veo ahí en la web.
+
+61
+00:16:14.290 --> 00:16:23.929
+Lucas Bonanni: Cuando cargué la carpeta anterior ahí Agregué, como les había dicho. Bueno, agregué algunos slidemo más.
+
+62
+00:16:24.160 --> 00:16:30.690
+Lucas Bonanni: que básicamente es te da un poquito más de concepto sobre
+
+63
+00:16:30.920 --> 00:16:35.409
+Lucas Bonanni: la estructura de la carpeta de lo que hay dentro de
+
+64
+00:16:35.490 --> 00:16:52.609
+Lucas Bonanni: de la carpeta punto Hit. Entonces, Bueno, ahí tiene toda la estructura de realmente como funciona hacia donde cómo funcionan estas referencias, donde los objetos básicamente son e esas diferencias. Nada. Esto después. Yo les paso
+
+65
+00:16:52.670 --> 00:17:02.360
+Lucas Bonanni: si quieren meterse más a saber cómo funciona de manera interna. Les paso un par de vídeos sobre eso. Este es buenísimo entenderlo.
+
+66
+00:17:03.340 --> 00:17:09.720
+Lucas Bonanni: Así que agregué eso. Y agregué, por más que era lo más importante
+
+67
+00:17:09.760 --> 00:17:29.710
+Lucas Bonanni: acá en los links, para que Bueno, esto aprender un poquito más en profundidad de sobre. H I, I, T, Sí, algunas herramientas. Este bueno, este es el libro que es open source. No sé si todos lo conocen, pero lo pueden descargar en P, D, F, Lo están manteniendo actualizado
+
+68
+00:17:30.020 --> 00:17:37.710
+Lucas Bonanni: y después está 1 que puse a este interactivo. Este está bueno.
+
+69
+00:17:38.360 --> 00:17:48.839
+Lucas Bonanni: básicamente es como una web, y lo que ustedes prueban es el tema de los Brunch. Y 1 a medida que va avanzando? Bueno, empezás con los comandos básicos.
+
+70
+00:17:51.320 --> 00:17:56.579
+Lucas Bonanni: Y bueno, y te te da no todas las cosas. Si 1 puede ir por diferentes
+
+71
+00:17:56.930 --> 00:18:11.879
+Lucas Bonanni: módulos de alguna manera, entonces ir resolviendo diferentes cosas que 1 puede hacer después: cómo utilizar el comando Cherry Pick. Y lo que está bueno es que te lo va mostrando todo gráficamente acá a
+
+72
+00:18:12.150 --> 00:18:14.890
+Lucas Bonanni: a un lado con esta interfaz.
+
+73
+00:18:15.070 --> 00:18:20.740
+Lucas Bonanni: después otros trucos y técnicas, y y después cosas
+
+74
+00:18:20.990 --> 00:18:35.350
+Lucas Bonanni: completamente avanzadas. No, eso solamente, digamos, como si 1 estuviera usando. H, I, I T de forma local, después tiene la segu esta segunda parte, que es como si 1 tuviera un hit hub, un hit
+
+75
+00:18:35.710 --> 00:18:46.530
+Lucas Bonanni: con el repositorio local y además, en los remotos. Así que 1 puede ir avanzando. Uno hace clic en los numeritos y te da, bueno
+
+76
+00:18:46.720 --> 00:19:05.360
+Lucas Bonanni: todo el tutorial para seguir y con los pasos. Entonces te va diciendo, bueno, primero tienes que hacer hit clones. La verdad que está está muy bueno y te va mostrando gráficamente cuáles son los cambios de lo que 1 va haciendo es súper interactivo. Así que si esto se lo quieren
+
+77
+00:19:05.520 --> 00:19:10.810
+Lucas Bonanni: chusmear después para inclusive, para, ya digo, para las cosas avanzadas. Está muy bueno.
+
+78
+00:19:15.140 --> 00:19:18.929
+Lucas Bonanni: así que nada y les les dejaba esos recursos. También
+
+79
+00:19:21.810 --> 00:19:29.749
+Lucas Bonanni: creo que con eso es todo. No quería comentar de eso. Bueno, después voy a subir la la otra guía.
+
+80
+00:19:31.100 --> 00:19:39.379
+Lucas Bonanni: No la encuentro, la habré puesto en algún lado. Pero la idea es que, bueno, con con ese local Star
+
+81
+00:19:39.380 --> 00:19:52.089
+Lucas Bonanni: simular diferentes un e K. S. De Amazon. Si lo que hacemos con locales es simular una infraestructura de Amazon, y de esa manera.
+
+82
+00:19:52.090 --> 00:20:04.060
+Lucas Bonanni: poder hacer sin tener que poner la tarjeta o tener una puede crear una cuenta gratuita en Amazon, hacer el deployment y poder hacer simular la infraestructura y poder hacer todo
+
+83
+00:20:04.930 --> 00:20:11.270
+Lucas Bonanni: todo lo que queremos probar o lo que quiero intentar probar con ustedes, que es la idea.
+
+84
+00:20:17.140 --> 00:20:18.040
+Lucas Bonanni: Y ya
+
+85
+00:20:22.280 --> 00:20:26.099
+Lucas Bonanni: bueno, entonces vamos a empezar con con la clase de hoy.
+
+86
+00:20:26.770 --> 00:20:38.580
+Lucas Bonanni: Hoy vamos a ver el concepto de C, A, S, C, D. Vamos a ver algunas cosas que que involucran y se relacionan con con C. C. D.
+
+87
+00:20:41.110 --> 00:20:49.769
+Lucas Bonanni: Básicamente acabo. Podemos ver un pequeño gráfico completo del lo que es el C, s. D,
+
+88
+00:20:50.340 --> 00:20:56.140
+Lucas Bonanni: donde de alguna manera se podría decir que empiezas desde el plan.
+
+89
+00:20:56.360 --> 00:21:10.959
+Lucas Bonanni: ¿sí? Y después bueno, empieza. Seguimos con la codificación, como van a ver dentro de cada etapa. Están algunas de las herramientas que intervienen, no en algunos que
+
+90
+00:21:11.010 --> 00:21:16.789
+Lucas Bonanni: que tienen relevancia en esa etapa, por decirlo de alguna forma.
+
+91
+00:21:17.530 --> 00:21:26.370
+Lucas Bonanni: Y bueno, entonces codificamos. Después hacemos el proceso de Bing Después, la parte de test, Después, la parte de release
+
+92
+00:21:26.920 --> 00:21:32.050
+Lucas Bonanni: después el deployment, que
+
+93
+00:21:32.200 --> 00:21:50.350
+Lucas Bonanni: después el la parte de de operación y la parte de monitoreo Sí, después. La idea es que esto es un flujo continuo, porque una vez que tenemos monitoreo, seguimos con el plan de siguientes cosas que vamos a seguir construyendo de forma progresiva, ¿no?
+
+94
+00:21:57.130 --> 00:22:09.310
+Lucas Bonanni: Entonces la idea principal acá Lo importante es saber por qué C, A, C. D es importante. Sí,
+
+95
+00:22:15.030 --> 00:22:24.489
+Lucas Bonanni: Sí, es primero por la automatización. Si las tareas manuales son propensas a errores y lentas.
+
+96
+00:22:24.650 --> 00:22:30.949
+Lucas Bonanni: Entonces, segundo, por la velocidad, sí, y actualmente
+
+97
+00:22:31.080 --> 00:22:37.459
+Lucas Bonanni: la capacidad de poder desplegar aplicaciones en minutos en lugar de
+
+98
+00:22:37.460 --> 00:22:52.670
+Lucas Bonanni: de semanas, como era anteriormente, cuando yo les mencionaba, cuando 1 de alguna manera trabajaba un premio, si se hacía de forma manual. Y había también estos errores o errores en la configuración o errores en en la aplicación en el momento de desployarlo
+
+99
+00:22:52.890 --> 00:23:03.029
+Lucas Bonanni: da una mejora y una ventaja compe competitiva contra contra el resto de de las aplicaciones, Sí,
+
+100
+00:23:03.200 --> 00:23:17.720
+Lucas Bonanni: entonces Y y por último, también está también el tema de la calidad. Sí, la calidad. Al ejecutar las pruebas automáticas. Sí, do detectar errores de manera temprana
+
+101
+00:23:17.860 --> 00:23:25.439
+Lucas Bonanni: son una forma más fácil de hacerlo, sí y más baratos de arreglar si 1 lo detecta temprano.
+
+102
+00:23:26.840 --> 00:23:43.839
+Lucas Bonanni: Entonces, y además, es la idea de fomentar la responsabilidad compartida. ¿no? Entonces vos lo desarrollastes? Bueno, vos lo vos, lo estás corriendo. Y debería correr correctamente en cualquier ambiente.
+
+103
+00:23:48.080 --> 00:23:50.120
+Lucas Bonanni: Bien.
+
+104
+00:23:53.940 --> 00:24:03.779
+Lucas Bonanni: entonces vamos a definir algunas cosas más. Acá Tenemos la definición, si de de continuos integration, si
+
+105
+00:24:04.460 --> 00:24:23.609
+Lucas Bonanni: está bueno, se enfoca básicamente en la parte de lo que veíamos del grafito que les mostré al principio está la parte izquierda, Las Las etapas de desarrollo sí continúa integration, que es esta parte. Sí,
+
+106
+00:24:23.660 --> 00:24:26.380
+Lucas Bonanni: la parte débil. Sí, hasta
+
+107
+00:24:26.820 --> 00:24:39.479
+Lucas Bonanni: esas Tr: es 3 etapas. ¿sí? Entonces, bueno, acá tenemos la definición. ¿sí? Donde la integración continua fue popularizada por Radio Watch. Y en
+
+108
+00:24:40.320 --> 00:24:48.280
+Lucas Bonanni: Y luego, tomada por, digamos, la metodología de Streme Programing, sí, y
+
+109
+00:24:48.590 --> 00:24:57.200
+Lucas Bonanni: la idea es bastante simple: si es trabajar cada persona en ramas aisladas, sí
+
+110
+00:24:57.500 --> 00:25:06.509
+Lucas Bonanni: por días o semanas, ¿sí? Y al final todos integran su trabajo en la rama principal. ¿sí?
+
+111
+00:25:06.780 --> 00:25:23.079
+Lucas Bonanni: Entonces, de esta manera, si alguien introduce algún error, el sistema de continuos Integration nos va a avisar de que hubo algún alguna de estas ramas? ¿tuvo algún problema? ¿sí?
+
+112
+00:25:23.370 --> 00:25:30.730
+Lucas Bonanni: Y esto se evita que haya errores en el momento de
+
+113
+00:25:30.920 --> 00:25:39.890
+Lucas Bonanni: hacer el merge de diferentes ramas. Y cuando queremos intentar unificar todo el trabajo de
+
+114
+00:25:40.100 --> 00:25:45.229
+Lucas Bonanni: pues no sé si son 2 personas o 3 por ahí no es mucho, pero si son 10 personas.
+
+115
+00:25:45.630 --> 00:25:52.639
+Lucas Bonanni: 30, personas, 50 personas después de una semana es muchos laburos.
+
+116
+00:25:52.960 --> 00:26:00.260
+Lucas Bonanni: entonces es tratar de de evitar eso o en algunos casos, también inclusive a veces equipos. ¿no?
+
+117
+00:26:00.860 --> 00:26:09.390
+Lucas Bonanni: Entonces lo que la idea es tratar de evitar todo eso y poder hacerla de detectar los errores lo más
+
+118
+00:26:09.950 --> 00:26:14.510
+Lucas Bonanni: temprano posible. Sí, reducir estos conflictos sí,
+
+119
+00:26:14.760 --> 00:26:18.430
+Lucas Bonanni: y mantener una base de código siempre estable.
+
+120
+00:26:19.740 --> 00:26:27.760
+Lucas Bonanni: ustedes, me imagino que los que que están trabajando y todo esto lo lo verán y y y sabrán cuándo cuándo trabajan diariamente
+
+121
+00:26:27.890 --> 00:26:29.720
+Lucas Bonanni: lo pueden ver, no.
+
+122
+00:26:40.960 --> 00:26:42.530
+MANUEL KRIVOY: Sí, Sí, seguro.
+
+123
+00:26:44.130 --> 00:26:51.330
+Lucas Bonanni: Qué qué herramientas, cómo cómo lo cómo lo experimentan en en el trabajo, cómo lo hola.
+
+124
+00:26:53.200 --> 00:27:04.250
+MANUEL KRIVOY: O sea, siempre que mientras más grande es el equipo. Yo ahora no estoy en el equipo de desarrollo directamente, Pero me imagino que mientras más grande sea el equipo de desarrollo, mientras más gente tenga
+
+125
+00:27:04.670 --> 00:27:12.260
+MANUEL KRIVOY: codeando la integración después con la rama Main es más complicada, tiene que estar bien dividida. Las.
+
+126
+00:27:13.470 --> 00:27:23.859
+Lucas Bonanni: Claro. No sé Co: cuánto has tenido en el equipo, cómo cómo ha sido la la complicación. Por ejemplo, si tenés. Yo a mí me ha pasado que si es un equipo de
+
+127
+00:27:24.160 --> 00:27:33.670
+Lucas Bonanni: 5, 7 personas a veces es difícil decir, bueno, todos tenemos que pasar cambios al final del Sprint.
+
+128
+00:27:33.930 --> 00:27:37.979
+Lucas Bonanni: porque a veces no se llegó en la primera semana
+
+129
+00:27:38.120 --> 00:27:44.279
+Lucas Bonanni: a a terminar con todos los desarrollos y se termina casi siempre al final del sprint.
+
+130
+00:27:49.950 --> 00:27:51.699
+MANUEL KRIVOY: Sí, eso tal cual
+
+131
+00:27:52.620 --> 00:27:57.949
+MANUEL KRIVOY: yo, o sea yo ahora directamente como no desarrollo. No lo digo tanto en carne propia. Pero
+
+132
+00:27:59.010 --> 00:28:03.029
+MANUEL KRIVOY: sí escucho la los conflictos que se generan de ese tipo.
+
+133
+00:28:03.550 --> 00:28:04.080
+Lucas Bonanni: Claro.
+
+134
+00:28:04.080 --> 00:28:06.160
+MANUEL KRIVOY: La clave que es la organización.
+
+135
+00:28:07.050 --> 00:28:09.740
+Lucas Bonanni: Claro, porque, además, lo que
+
+136
+00:28:09.890 --> 00:28:16.159
+Lucas Bonanni: lo que suele pasar es que si hay muchas funcionalidades que se tienen que terminar, ya sean grandes o pequeñas.
+
+137
+00:28:16.450 --> 00:28:20.750
+Lucas Bonanni: es difícil después porque como todas las elegimos para que
+
+138
+00:28:21.850 --> 00:28:25.980
+Lucas Bonanni: deplosarlas al final de ese spring y nos habíamos comprometido.
+
+139
+00:28:26.490 --> 00:28:41.549
+Lucas Bonanni: Pues cuando vos tenés que emerger, la idea tampoco es que sea un siempre. La idea es que sea un release progresivo. Entonces Bueno, puedes sacar un montón de funcionalidades todas juntas porque lo que estás haciendo es
+
+140
+00:28:41.850 --> 00:28:45.170
+Lucas Bonanni: que puedas llegar a tener mayor cantidad de errores
+
+141
+00:28:45.870 --> 00:28:52.920
+Lucas Bonanni: Y aparte que si después, el día de mañana tenés que hacer un roll back de alguna de las funcionalidades, porque en alguna se introdujo un error.
+
+142
+00:28:53.400 --> 00:29:03.639
+Lucas Bonanni: Si las pasas todas juntas, después tienes que hacer un rol back de todos juntos, entonces tampoco es lo ideal. Entonces, por eso se dan esos problemas.
+
+143
+00:29:05.220 --> 00:29:05.850
+MANUEL KRIVOY: Claro.
+
+144
+00:29:13.110 --> 00:29:14.550
+Lucas Bonanni: Alguien iba a decir algo mal.
+
+145
+00:29:25.040 --> 00:29:29.630
+FACUNDO EMANUEL MODARELLI: No yo, con tarde capaz, también mi mi mi experiencia. A nosotros nos pasaba que
+
+146
+00:29:29.830 --> 00:29:34.319
+FACUNDO EMANUEL MODARELLI: los Sprints terminaban los viernes y muy mal, porque
+
+147
+00:29:34.580 --> 00:29:40.370
+FACUNDO EMANUEL MODARELLI: en el en el en el al final de Sprint hay muchas personas que, por cuestiones de tiempo
+
+148
+00:29:40.950 --> 00:29:52.540
+FACUNDO EMANUEL MODARELLI: no llegaban a desplegar o o dejaban cosas para último momento y te encontrabas un viernes con varios queriendo, desplegar, y es
+
+149
+00:29:53.340 --> 00:29:59.599
+FACUNDO EMANUEL MODARELLI: y y todo, sobre máster encima. No, no, no teníamos una buena política de brunches porque no somos desarrolladores. Somos más
+
+150
+00:29:59.880 --> 00:30:05.440
+FACUNDO EMANUEL MODARELLI: de infraestructura, entonces no tenemos. No teníamos en su momento el el
+
+151
+00:30:05.850 --> 00:30:10.790
+FACUNDO EMANUEL MODARELLI: la prolijidad que puede tener un desarrollador de trabajar bien con ramas separadas. ¿y
+
+152
+00:30:11.030 --> 00:30:16.920
+FACUNDO EMANUEL MODARELLI: y qué sé yo y los viernes terminaban siendo un caos, no además de que los viernes debieran ser todos de ruido only.
+
+153
+00:30:17.110 --> 00:30:21.630
+FACUNDO EMANUEL MODARELLI: Y no solamente pasaba eso, sino que nos encontrábamos varios trabajando
+
+154
+00:30:21.970 --> 00:30:27.130
+FACUNDO EMANUEL MODARELLI: sobre una rama misma, puseando código
+
+155
+00:30:27.260 --> 00:30:31.630
+FACUNDO EMANUEL MODARELLI: al mismo tiempo, no solamente nosotros, sino que también otras células.
+
+156
+00:30:31.930 --> 00:30:44.959
+FACUNDO EMANUEL MODARELLI: Y como implementamos con Terraford. Los ranas de islas se colgaban porque de repente había todo un mundo de gente al final del Sprint trabajando y lo que nos ayudó mucho es cuando integramos
+
+157
+00:30:45.210 --> 00:30:58.030
+FACUNDO EMANUEL MODARELLI: Gitland con Shira. Entonces nada todos los Brunch. Para nosotros, los Brunch son los los las historias de Shira. ¿no? Entonces, cuando 1 crea una tarjeta de Shira.
+
+158
+00:30:58.160 --> 00:31:03.419
+FACUNDO EMANUEL MODARELLI: el Brunch, que va a crear en Guitland para
+
+159
+00:31:03.730 --> 00:31:10.680
+FACUNDO EMANUEL MODARELLI: tocar el código tiene que ser el número de la historia de Sira. Entonces, además, queda documentado en la tarjeta de sira no.
+
+160
+00:31:10.790 --> 00:31:26.870
+FACUNDO EMANUEL MODARELLI: Y además, hicimos que los Sprint terminen a a mitad de de de de semana para que nadie despliegue un viernes, y no solo eso, sino que los viernes un poco, los prohibimos y dijimos: che viernes, solo urgencias, porque si vos desployás un viernes.
+
+161
+00:31:27.020 --> 00:31:33.520
+FACUNDO EMANUEL MODARELLI: algo y no te diste cuenta y lo rompiste. Provoca una activación de la guardia una noche o un fin de semana, y
+
+162
+00:31:33.760 --> 00:31:40.850
+FACUNDO EMANUEL MODARELLI: no, y eso no. Pero acomodar los Brunch nos ayudó con el punto 1, que es detectar los errores
+
+163
+00:31:41.030 --> 00:31:46.520
+FACUNDO EMANUEL MODARELLI: y reducir los conflictos de integración, digamos, o sea, es como que trabajando acomodado por ramas
+
+164
+00:31:46.780 --> 00:31:51.209
+FACUNDO EMANUEL MODARELLI: y haciendo referencia a ramas a estos números de Tickets. Laburamos un poquito mejor.
+
+165
+00:31:51.450 --> 00:31:54.830
+FACUNDO EMANUEL MODARELLI: Y pero bueno, es es un poco mi experiencia.
+
+166
+00:31:56.250 --> 00:32:07.469
+Lucas Bonanni: Sí total. Y bueno, ahí mencionaste algo que que es importante, que que es lo que vos decías esto de los viernes de redonly, o también llamados cow freeze, no donde
+
+167
+00:32:07.800 --> 00:32:26.039
+Lucas Bonanni: se acuerda por equipos donde esos días no se van a deployar como vos? Bien, decías, no porque el día, si vos desplosas un viernes, no te queda tiempo para verificar que eso está Okay ya directamente. Si algo falla, va a fallar seguramente el sábado y más. Si lo haces el viernes a última hora.
+
+168
+00:32:26.090 --> 00:32:42.309
+Lucas Bonanni: y la verdad es que no está bueno que ninguno de los que si vos de playas un viernes a la tarde y algo falla, vas, le va a caer al que está en o co en oncol seguro. Entonces la idea es tratar de evitar eso.
+
+169
+00:32:43.330 --> 00:32:52.110
+Lucas Bonanni: Y con respecto a eso, la también. Lo que solía pasar mucho por lo menos me solía pasar a mí es que teníamos ciertos procesos
+
+170
+00:32:52.310 --> 00:32:56.769
+Lucas Bonanni: que corrían por lotes, por ejemplo el lunes y martes.
+
+171
+00:32:56.980 --> 00:33:10.350
+Lucas Bonanni: entonces eso también nos acortaba el tiempo. Ya no podíamos hacer por ahí Ulises esos días porque teníamos esos procesos y no, y no los queríamos que esos procesos se vieran afectados. Entonces
+
+172
+00:33:10.450 --> 00:33:14.069
+Lucas Bonanni: no solamente no podíamos hacer relise los viernes.
+
+173
+00:33:14.820 --> 00:33:23.609
+Lucas Bonanni: sino que tampoco de los lunes. Y los martes al final te quedan en realidad 2 días de release. Y en un sprint a veces puede ser poco.
+
+174
+00:33:23.800 --> 00:33:27.250
+Lucas Bonanni: porque, generalmente, entre entre las reuniones
+
+175
+00:33:28.740 --> 00:33:32.800
+Lucas Bonanni: que 1 tiene que 1 empieza el sprint el lunes te lo hace.
+
+176
+00:33:33.120 --> 00:33:38.879
+Lucas Bonanni: Y el final de la planning o o algo que te quedó pendiente.
+
+177
+00:33:39.130 --> 00:33:47.960
+Lucas Bonanni: Empezás con Comparte la codificación. Supone que el martes el miércoles no vas a deployar
+
+178
+00:33:48.330 --> 00:33:54.030
+Lucas Bonanni: el jueves. Con suerte puedes exployar si es algún desarrollo muy chico el viernes, ya no
+
+179
+00:33:54.640 --> 00:34:01.670
+Lucas Bonanni: lunes y martes tampoco porque los teníamos por esos procesos. Así que te quedan, sí o sí para la semana que viene.
+
+180
+00:34:01.850 --> 00:34:11.309
+Lucas Bonanni: Así que al final se te acumulan un un montón de cosas. Esa era una de las críticas que yo tenía en ese tipo de organización que teníamos, Por ejemplo.
+
+181
+00:34:16.770 --> 00:34:24.710
+FACUNDO EMANUEL MODARELLI: Claro y es recontra válido porque al en definitiva, se acumula el trabajo y terminan todos implementando al final del sprint.
+
+182
+00:34:24.719 --> 00:34:41.789
+Lucas Bonanni: Al final terminamos haciendo todos juntos o peleándonos a ver. Bueno, yo tengo que hacer el release, pero él tiene el release. Y si a él le falló, el release tiene que ser rolback y tiene, y supuestamente o bueno, se decide que tiene más prioridad, o entonces yo tengo que esperar.
+
+183
+00:34:41.839 --> 00:34:51.409
+Lucas Bonanni: Y si no lo arregló durante el día, ya es un día menos, entonces así que se pasa y al final no al final la se pierde toda la agilidad.
+
+184
+00:34:52.750 --> 00:34:53.330
+FACUNDO EMANUEL MODARELLI: Claro.
+
+185
+00:34:54.330 --> 00:35:06.560
+Lucas Bonanni: Sí esos te temas. Y ahí es muy difícil cuando si el Manager no interviene, No, tampoco. No.
+
+186
+00:35:06.820 --> 00:35:12.630
+Lucas Bonanni: no hace nada, porque ahí ya es un tema de organización, no solamente un tema de equipos. ¿no?
+
+187
+00:35:20.500 --> 00:35:24.759
+Lucas Bonanni: Así que, bueno, la idea es con esto: tratar de
+
+188
+00:35:24.880 --> 00:35:33.909
+Lucas Bonanni: no solamente tal vez ese tipo de errores que mencioné recién. Tal vez no lo vamos a, pero nos da una idea de lo difícil que es
+
+189
+00:35:33.950 --> 00:35:46.339
+Lucas Bonanni: hacer este continues integration y hacer todo el desarrollo y hasta llevar a producción estas funcionalidades. No l las 100 los inconvenientes que podemos llegar a tener
+
+190
+00:35:46.340 --> 00:35:58.389
+Lucas Bonanni: en el desarrollo de equipos grandes o pequeños, porque en realidad, a veces, en mi caso igual. Cada equipo eran 3 integrantes. Y y así de todo.
+
+191
+00:35:58.390 --> 00:36:02.910
+Lucas Bonanni: se generan estos estos problemas ¿no? Y estos cuellos de botella
+
+192
+00:36:07.420 --> 00:36:22.809
+Lucas Bonanni: Bueno, acá tenemos las etapas típicas, que incluye un proceso de continuos integration, donde tenemos la parte nuestra que es donde nosotros estamos codificando. Primero estaba tenemos nuestro repositorio local, ¿sí?
+
+193
+00:36:22.980 --> 00:36:36.810
+Lucas Bonanni: Y hacemos la parte de codificación. Ahí. La idea es que en esa parte nosotros ya podamos hacer, tiene que pasar nuestro Bill local. Tenemos que pasar nuestro nuestro link Inter, nuestra
+
+194
+00:36:36.810 --> 00:36:47.339
+Lucas Bonanni: nuestras propias validaciones local, las mismas que deberían estar dentro del continuos integration. Nosotros la podríamos tener que ejecutar de forma local.
+
+195
+00:36:47.800 --> 00:36:52.960
+Lucas Bonanni: Después, tal vez podría ser que cuando 1
+
+196
+00:36:53.250 --> 00:37:07.570
+Lucas Bonanni: pasa esos cambios así, hay servers, sí o o crea un Brunch. En el caso de Hith Javaction, si ejecuta las acciones para para comprobar, puede ser que haya otras acciones que
+
+197
+00:37:07.570 --> 00:37:13.879
+Lucas Bonanni: no necesariamente las tengas correr local, porque tampoco queremos
+
+198
+00:37:14.120 --> 00:37:26.240
+Lucas Bonanni: hacer todas las pruebas. La idea es tener un conjunto mínimo siempre de pruebas para saber que tu código o el código que estás desarrollando es saludable.
+
+199
+00:37:26.610 --> 00:37:37.730
+Lucas Bonanni: Entonces mínimo son las correr todos los tests que tengamos correr el Inter, si tienen que correr links y ese tipo de y correr el virus No, obviamente que compile
+
+200
+00:37:38.360 --> 00:37:40.230
+Lucas Bonanni: en
+
+201
+00:37:41.920 --> 00:38:01.529
+Lucas Bonanni: así. Que Bueno, esto es lo mismo. Pasa en en el flujo de C, D, C, D, Sí, Entonces corre los tests, o sea, primero corre el Bil. Después corre los test y después pueden correr otros tipos de pruebas automatizadas, ya sea el escaneo de seguridad con cobras. Sí, ese tipo de cosas.
+
+202
+00:38:02.840 --> 00:38:10.839
+Lucas Bonanni: Entonces la idea de estas etapas es básicamente tratar de encontrar errores
+
+203
+00:38:11.530 --> 00:38:27.070
+Lucas Bonanni: cuando corremos las pruebas, lo que intentamos ver es si hay algún algún error de lógica o se introdujo alguna modificación que afectó a alguna otra funcionalidad, entonces eso nos permite darnos cuenta de algún tipo de error.
+
+204
+00:38:33.500 --> 00:38:52.159
+Lucas Bonanni: Bien, después, en la parte de codificación. Bueno, esto es un poquito como lo que vimos en la clase pasada. Tenemos el control de versiones. Sí que en nuestro caso lo que vimos fue hit. Sí, Entonces, bueno, nosotros tenemos las branchas strateges para tratar de de manejar esto de forma local.
+
+205
+00:38:52.160 --> 00:39:00.510
+Lucas Bonanni: y a partir de ahí, poder crear un punriquest, tener el core review, Sí, con el correr con estos checks y
+
+206
+00:39:00.540 --> 00:39:17.520
+Lucas Bonanni: con la revisión de paro. Sí ver que nuestra nuestro código esté correctamente. Sí, entonces el código debe estar siempre en buen estado para que pueda ser desplegado, sí,
+
+207
+00:39:17.600 --> 00:39:19.630
+Lucas Bonanni: y
+
+208
+00:39:22.280 --> 00:39:36.149
+Lucas Bonanni: sino también, además de los core reviews, Sí, son para también compartir el conocimiento en el equipo, compartir mejoras prácticas y cómo se hacen diferentes cosas
+
+209
+00:39:36.220 --> 00:39:43.489
+Lucas Bonanni: después. Algunas Bueno, de las herramientas que tenemos son: Fit
+
+210
+00:39:43.680 --> 00:39:52.079
+Lucas Bonanni: Hit Hob Hit, Lab y Big Baked. Para para hacer esto, no el tema de los Public West y ejecutar las las pruebas. Finalmente
+
+211
+00:39:53.610 --> 00:40:02.670
+Lucas Bonanni: por la etapa siguiente sería la de vid. Sí, donde realmente construimos el
+
+212
+00:40:02.980 --> 00:40:07.440
+Lucas Bonanni: el, digamos, el paquete, sí o o la aplicación.
+
+213
+00:40:07.620 --> 00:40:10.410
+Lucas Bonanni: La idea es que
+
+214
+00:40:10.630 --> 00:40:23.970
+Lucas Bonanni: esto se pueda ejecutar en el A, en la en el ambiente tiene que ser poder ser repetible. Sí, esto de que mi en mi máquina funciona. No tiene que ser ya una excusa válida.
+
+215
+00:40:25.050 --> 00:40:33.279
+Lucas Bonanni: Por eso hoy en día el es el el estándar es usar Broker porque hace que 1 tenga el mismo ambiente
+
+216
+00:40:33.410 --> 00:40:47.290
+Lucas Bonanni: o ese ambiente reproducible, sí, en cualquier lado que se vaya a ejecutar. Y finalmente, el artefacto que que se genera no va a ser solamente
+
+217
+00:40:47.320 --> 00:41:01.840
+Lucas Bonanni: un un J. S o un shar sí, sino que va a ser una imagen de contenedor que incluye todas las dependencias y las configuraciones del sistema operativo para correr la aplicación.
+
+218
+00:41:07.630 --> 00:41:14.930
+Lucas Bonanni: Bien, acá vemos un ejemplo básico básico de de un Bill de Docker.
+
+219
+00:41:17.460 --> 00:41:29.770
+Lucas Bonanni: Bueno, acá hay hay algunas. Otras herramientas que nos ayudan a hacer este proceso de build, sí o ejecutar, digamos, un script de build donde podemos utilizar, por ejemplo, lo que vamos a ver nosotros.
+
+220
+00:41:29.930 --> 00:41:38.979
+Lucas Bonanni: la clase que viene Sí, cuando vamos a hacer todo el proceso de C. S. D. Va a ser utilizando Hith Java Actions.
+
+221
+00:41:39.190 --> 00:41:46.719
+Lucas Bonanni: Después tenemos lo mismo. Se puede hacer con cirugía, travesía y Jenkings. La idea es
+
+222
+00:41:46.840 --> 00:41:52.479
+Lucas Bonanni: poder ejecutar una serie de pasos, una serie de pruebas. Nosotros las podemos definir
+
+223
+00:41:52.620 --> 00:41:56.610
+Lucas Bonanni: y definir los comandos que queremos ejecutar.
+
+224
+00:42:04.650 --> 00:42:23.970
+Lucas Bonanni: Bueno, para la etapa de Build, también hay, digamos, esta etapa. La parte de código. Tenemos herramientas como Webpac, que es para una herramienta de construcción para el desarrollo de aplicaciones web, sí generalmente para
+
+225
+00:42:24.040 --> 00:42:26.330
+Lucas Bonanni: a aplicaciones basadas en Javascript
+
+226
+00:42:26.620 --> 00:42:39.150
+Lucas Bonanni: grave. Es otra herramienta, sí que es de más de propósito general. Se usa principalmente en proyectos de Java, pero también es compatible con otros lenguajes como Cotling, Sí,
+
+227
+00:42:39.300 --> 00:42:47.089
+Lucas Bonanni: Y Y después Travezer, que es una herramienta de construcción de código abierto desarrollada por Google.
+
+228
+00:42:47.390 --> 00:42:55.269
+Lucas Bonanni: que también nos permite construir código y también es compatible con diferentes tipos de lenguaje. Sí,
+
+229
+00:42:55.410 --> 00:43:02.059
+Lucas Bonanni: estas son todas herramientas que nos permiten verificar que nuestro código, digamos, compila. Y funciona
+
+230
+00:43:05.390 --> 00:43:22.120
+Lucas Bonanni: después. Bueno, tenemos un pequeño código acá de de Hit Hub Action. Si de un flujo de Hit Java Action, esto igual lo lo vamos a ver en detalle. Cada Cada partecita de
+
+231
+00:43:22.290 --> 00:43:37.910
+Lucas Bonanni: este hith action en la se la clase que viene, pero acá tenemos un pequeño adelanto. Acá. Le podemos decir en qué evento queremos que se ejecute el Hith Java Action, si es en el evento de push o en el evento de Purryquest.
+
+232
+00:43:38.000 --> 00:43:50.449
+Lucas Bonanni: Acá Le asignamos un nombre que el nombre es el que se va a ver después lo vamos a ver en la interfaz de de Heath Actions que nos permite ver el nombre con el que se va a mostrar la acción.
+
+233
+00:43:51.260 --> 00:44:01.860
+Lucas Bonanni: Después tenemos Jobs, donde podemos definir Esto es en formato Jamel. O sea, por eso tenemos usamos estas tabulaciones
+
+234
+00:44:03.370 --> 00:44:09.170
+Lucas Bonanni: y definimos el nombre de del show que queremos ponerle. Sí, Upa
+
+235
+00:44:11.160 --> 00:44:18.340
+Lucas Bonanni: acá en el nombre. Si esto siempre 1 puede tener espacios, siempre tiene que tener bienes medios
+
+236
+00:44:19.190 --> 00:44:33.199
+Lucas Bonanni: y se le podemos decir en esta etiqueta donde corre este shock, dónde va a correr, qué ¿Qué imagen va a utilizar para correr y después los pasos que va a ejecutar esta
+
+237
+00:44:33.770 --> 00:44:45.139
+Lucas Bonanni: esta este show, Sí, en este caso, este jobs, que es un continuos integration, sí para
+
+238
+00:44:45.570 --> 00:44:48.919
+Lucas Bonanni: para este, es para dividir, para node.
+
+239
+00:44:49.320 --> 00:45:00.929
+Lucas Bonanni: Entonces lo que vamos a hacer es la acción estándar. Esta es la acción estándar de de Hit Hub, Si, donde hace el check out de del código, no hay que pasarle ningún parámetro.
+
+240
+00:45:01.830 --> 00:45:12.930
+Lucas Bonanni: Acá El segundo es hacer ese tap de no donde si le especificamos, cuál es el action definida, porque
+
+241
+00:45:13.530 --> 00:45:28.650
+Lucas Bonanni: van a ver que cuando creemos la clase que viene el action. Vamos a tener ya básicamente template para definir, según la tecnología que vamos a utilizar, vamos a tener diferentes actishots. Entonces
+
+242
+00:45:28.730 --> 00:45:39.409
+Lucas Bonanni: podemos definir, y estos ya están construidos y se pueden buscar después de la clase que viene. Los vamos a ver que 1 puede ver el código como desarrollar nuestras diferentes actions.
+
+243
+00:45:40.140 --> 00:45:47.030
+Lucas Bonanni: Y Acá le pasamos un parámetro. Le decimos la versión de node que con la cual queremos ejecutarlo.
+
+244
+00:45:48.770 --> 00:45:53.670
+Lucas Bonanni: Después, como ya tenemos el checkout y dentro de este shock
+
+245
+00:45:53.760 --> 00:46:13.369
+Lucas Bonanni: dentro de la esto es como si fuera un un contenedor de de Docker, sí que está corriendo sobre una imagen de un de ubuntu lates. Entonces nosotros ya hicimos el check out del código. Es como que se vuelve a clonar esa esa rama, ese código dentro de ese contenedor.
+
+246
+00:46:13.390 --> 00:46:17.200
+Lucas Bonanni: Y podemos hacer un npm cristal.
+
+247
+00:46:18.660 --> 00:46:22.990
+Lucas Bonanni: Después podemos correr los test, sí que tenemos los
+
+248
+00:46:23.190 --> 00:46:31.330
+Lucas Bonanni: United o los integration test que tengamos dentro de nuestra aplicación y finalmente correr el virus, sí
+
+249
+00:46:32.150 --> 00:46:41.650
+Lucas Bonanni: para saber y hacer esas pruebas básicas y saber que nuestra aplicación está saludable. Si el código que tenemos ahí es de nuestra aplicación está saludable.
+
+250
+00:46:46.830 --> 00:46:51.379
+Lucas Bonanni: Bueno, vamos a entrar un poquito de detalle en
+
+251
+00:46:52.210 --> 00:47:05.610
+Lucas Bonanni: lo que es la parte de test. Si acá dentro de los tests. Tenemos diferentes tipos de test. Uno son los unitex que prueban la lógica interna de cada una de las funciones.
+
+252
+00:47:05.700 --> 00:47:18.539
+Lucas Bonanni: Después también tenemos los integration test que lo que intentan hacer es probar lo cómo funcionan y cómo se comunican cada 1 de los módulos que nosotros desarrollamos
+
+253
+00:47:19.770 --> 00:47:32.190
+Lucas Bonanni: después. Tenemos pruebas de análisis estático de código. C. O Linkedin. Sí, para ver la calidad y el estilo de código para saber si nos faltaron
+
+254
+00:47:33.450 --> 00:47:48.870
+Lucas Bonanni: tabulaciones, si hay espacios al finales de la línea, ¿qué tipo de comidas estamos usando comillas dobles, comillas simples en el caso que que valga la pena, si es Python, saber si estamos usando comillas dobles o comillas
+
+255
+00:47:48.900 --> 00:48:00.250
+Lucas Bonanni: simples después análisis de seguridades, que sea, estático. Sí, también.
+
+256
+00:48:02.580 --> 00:48:08.670
+Lucas Bonanni: Bien, ahí dentro de eso ver el coverage, por ejemplo.
+
+257
+00:48:09.100 --> 00:48:18.010
+Lucas Bonanni: saber lo que hacemos con el code coverge es un un algoritmo que lo que intenta hacer es a través de ver
+
+258
+00:48:18.940 --> 00:48:25.810
+Lucas Bonanni: cuáles son las líneas de código que nuestro test y
+
+259
+00:48:26.420 --> 00:48:39.840
+Lucas Bonanni: ejecutó de alguna manera o por las cuales el test realmente probó y cuáles no. Entonces nos permite saber si tenemos realmente una cobertura total de nuestro código o no.
+
+260
+00:48:40.240 --> 00:48:46.470
+Lucas Bonanni: aunque igual. Tampoco es muy preciso, porque nosotros podemos hacer test
+
+261
+00:48:47.400 --> 00:48:50.250
+Lucas Bonanni: que pasen por una parte del código
+
+262
+00:48:52.350 --> 00:49:05.160
+Lucas Bonanni: y que realmente no prueben nada, ¿no? Pero bueno, la idea es la idea es que nos nos sirva como herramienta y que realmente hagamos la cobertura correcta de de esas partes que nos faltan por probar.
+
+263
+00:49:06.740 --> 00:49:12.420
+Lucas Bonanni: Así que, bueno, algunas de las herramientas que están ahí,
+
+264
+00:49:12.860 --> 00:49:18.269
+Lucas Bonanni: por ejemplo. Yest sí es para hacer un marco de pruebas unitarias que es un
+
+265
+00:49:18.640 --> 00:49:24.120
+Lucas Bonanni: un framework desarrollado por por Facebook para proyectos Javascript.
+
+266
+00:49:24.290 --> 00:49:33.239
+Lucas Bonanni: Después tenemos Unit. Que es un marco de pruebas unitarias, ¿sí? O un framework de pruebas unitarias para Java
+
+267
+00:49:33.550 --> 00:49:38.530
+Lucas Bonanni: y testifi es básicamente para para go.
+
+268
+00:49:41.120 --> 00:49:43.860
+Lucas Bonanni: Vamos a modificar una cosita Acá
+
+269
+00:49:45.540 --> 00:50:05.239
+Lucas Bonanni: después para el análisis de de código estático. Tenemos herramientas como son arcube, sí que nos pueden decir, Nos pueden ayudar a tratar de medir la deuda técnica. Si estamos introduciendo smalls o
+
+270
+00:50:05.340 --> 00:50:15.369
+Lucas Bonanni: en fallos dentro del código, sí que y poder detectarlos de manera temprana. Sí, todo eso nos da
+
+271
+00:50:15.500 --> 00:50:24.320
+Lucas Bonanni: de alguna manera. También nos dan métricas, ¿sí? Para ta saber qué tan saludable está el código, poder hacerle un seguimiento.
+
+272
+00:50:24.740 --> 00:50:28.170
+Lucas Bonanni: ¿sí? Y de esa manera
+
+273
+00:50:29.080 --> 00:50:37.030
+Lucas Bonanni: también ir calculando a ver si tenemos que ha hacer algún tipo de refalto si tenemos que puntos de mejora que podemos realizar.
+
+274
+00:50:37.370 --> 00:50:49.099
+Lucas Bonanni: No sé si alguno tiene experiencia de haber ver correr estas herramientas si las ha utilizado, los beneficios que les ha traído tenerlas dentro del proyecto.
+
+275
+00:50:56.220 --> 00:51:00.380
+FACUNDO EMANUEL MODARELLI: Use una a modo de usuario, puede configurar otro chico
+
+276
+00:51:00.560 --> 00:51:06.000
+FACUNDO EMANUEL MODARELLI: en el reto de de del código de Terra, donde tenemos la infraestructura.
+
+277
+00:51:06.430 --> 00:51:10.270
+FACUNDO EMANUEL MODARELLI: las nubes de networking es un show que corría.
+
+278
+00:51:10.410 --> 00:51:18.150
+FACUNDO EMANUEL MODARELLI: No me acuerdo ahora el nombre, pero es un shock con un con una herramienta que no es ninguna de la que está. Acá pero hace como un análisis de vulnerabilidades
+
+279
+00:51:18.520 --> 00:51:22.189
+FACUNDO EMANUEL MODARELLI: de lo que estás implementando en el Código.
+
+280
+00:51:22.190 --> 00:51:22.670
+Lucas Bonanni: Okay.
+
+281
+00:51:22.670 --> 00:51:37.170
+FACUNDO EMANUEL MODARELLI: Ejemplo, si dejaste un security group abierto con una cuádruple 0, si, digamos si todos esos finis más de seguridad y no me acuerdo cómo se llamaba Kirk o kicks kicks. Puede ser, no sé si será una herramienta.
+
+282
+00:51:37.170 --> 00:51:38.250
+Lucas Bonanni: No me suena.
+
+283
+00:51:38.250 --> 00:51:47.630
+FACUNDO EMANUEL MODARELLI: Similar a a esta. Yo entiendo que sí, porque está integrado al pibeline en sí, es que.
+
+284
+00:51:47.630 --> 00:51:48.490
+Lucas Bonanni: Que era.
+
+285
+00:51:49.060 --> 00:51:51.650
+Lucas Bonanni: Sí, Kicks, más.
+
+286
+00:51:52.340 --> 00:51:55.829
+FACUNDO EMANUEL MODARELLI: Lo estoy googleiendo a ver si lo estoy escribiendo bien. Pero
+
+287
+00:52:06.190 --> 00:52:09.219
+FACUNDO EMANUEL MODARELLI: Tikics, pero con C, K, ahí y Cs.
+
+288
+00:52:11.120 --> 00:52:18.270
+Lucas Bonanni: Mira interesante a ver infraestructura.
+
+289
+00:52:20.410 --> 00:52:21.270
+Lucas Bonanni: Vamos a
+
+290
+00:52:28.270 --> 00:52:29.310
+Lucas Bonanni: este. No.
+
+291
+00:52:31.770 --> 00:52:39.790
+FACUNDO EMANUEL MODARELLI: Ese mismo es lo lo lo tenemos configurado en un piveline
+
+292
+00:52:40.250 --> 00:52:50.209
+FACUNDO EMANUEL MODARELLI: que primero corre este show y después te corre los shows de implementación del plan play, etcétera. Y este te tira
+
+293
+00:52:50.430 --> 00:52:53.740
+FACUNDO EMANUEL MODARELLI: en un análisis de lo que estás haciendo.
+
+294
+00:52:54.640 --> 00:52:56.839
+FACUNDO EMANUEL MODARELLI: Y en base a ese análisis, puedes
+
+295
+00:52:57.190 --> 00:53:08.510
+FACUNDO EMANUEL MODARELLI: definir que el país line, pueda continuar o no. Por ejemplo, si falla este porque encontró un punto de seguridad, No sé un secreto con la cuádruple. Ponerle abierto en el lugar donde.
+
+296
+00:53:08.510 --> 00:53:09.020
+Lucas Bonanni: Mhm.
+
+297
+00:53:09.430 --> 00:53:13.610
+FACUNDO EMANUEL MODARELLI: No te deja avanzar con el siguiente paso del el pive lines
+
+298
+00:53:13.770 --> 00:53:15.890
+FACUNDO EMANUEL MODARELLI: como finning grave, No, si no te.
+
+299
+00:53:15.890 --> 00:53:16.250
+Lucas Bonanni: A el.
+
+300
+00:53:16.820 --> 00:53:22.170
+FACUNDO EMANUEL MODARELLI: Que te tira vulnerabilidades que podrías mejorar el Código y.
+
+301
+00:53:22.170 --> 00:53:22.660
+Lucas Bonanni: Exacto.
+
+302
+00:53:22.890 --> 00:53:25.609
+FACUNDO EMANUEL MODARELLI: Y te lo tira como Warnings, pero te deja avanzar.
+
+303
+00:53:25.850 --> 00:53:28.320
+FACUNDO EMANUEL MODARELLI: Y hay 1 también que está bueno
+
+304
+00:53:28.550 --> 00:53:31.770
+FACUNDO EMANUEL MODARELLI: que si lo usé. Lo usamos bastante ahora, ya no tanto.
+
+305
+00:53:32.360 --> 00:53:41.789
+FACUNDO EMANUEL MODARELLI: que es 1 que te mide, mide los costos de lo que estás implementando en cualquier nube. Entonces tiras un pibeline de implementación en una nube.
+
+306
+00:53:41.980 --> 00:53:47.009
+FACUNDO EMANUEL MODARELLI: Y antes de implementarlo, te dice todo lo que vos estás escribiendo, acá. Te sale esto
+
+307
+00:53:47.290 --> 00:53:50.420
+FACUNDO EMANUEL MODARELLI: porque vas a implementar. No hace una L B, ¿Una N, L, B, Un
+
+308
+00:53:50.730 --> 00:53:54.990
+FACUNDO EMANUEL MODARELLI: Un claustro, no algo de eso en las nubes entonces, y
+
+309
+00:53:56.130 --> 00:53:59.290
+FACUNDO EMANUEL MODARELLI: te hace un análisis de costos y lo integrás también en el país line.
+
+310
+00:54:00.200 --> 00:54:01.880
+Lucas Bonanni: Bien, eso está Eso está bueno.
+
+311
+00:54:02.480 --> 00:54:04.850
+FACUNDO EMANUEL MODARELLI: Fracoso se llama eso esta? Bueno.
+
+312
+00:54:05.200 --> 00:54:07.070
+Lucas Bonanni: Infracos bien.
+
+313
+00:54:08.210 --> 00:54:09.850
+FACUNDO EMANUEL MODARELLI: Ese también se agrega a los paines
+
+314
+00:54:10.870 --> 00:54:17.090
+FACUNDO EMANUEL MODARELLI: y se fija con las A, P. Is de los clavos arbis provider públicas, entonces te tira los precios actualizados no.
+
+315
+00:54:17.230 --> 00:54:20.079
+Lucas Bonanni: Claro, mira, vos. Qué? Bueno.
+
+316
+00:54:20.370 --> 00:54:21.590
+FACUNDO EMANUEL MODARELLI: Esa está buenísima.
+
+317
+00:54:25.160 --> 00:54:34.860
+Lucas Bonanni: Yeah No, no tiene lo mismo. Pero bueno, después voy a
+
+318
+00:54:35.870 --> 00:54:38.340
+Lucas Bonanni: buscar algo. Es capaz que lo veas
+
+319
+00:54:38.600 --> 00:54:40.510
+Lucas Bonanni: o lo paso después por Slack.
+
+320
+00:54:51.270 --> 00:54:54.689
+Lucas Bonanni: ya perfecto. Vamos a darles una deuda
+
+321
+00:54:58.070 --> 00:55:01.090
+Lucas Bonanni: bien. Y entonces
+
+322
+00:55:06.280 --> 00:55:13.989
+Lucas Bonanni: pasamos a la a la siguiente etapa. Sí que es continus Delivery y con tiños Deploydman.
+
+323
+00:55:14.190 --> 00:55:23.810
+Lucas Bonanni: esta va a ser, digamos, el gráfico que vimos al principio en la parte derecha, donde
+
+324
+00:55:24.060 --> 00:55:27.439
+Lucas Bonanni: una vez que el código está integrado y validado.
+
+325
+00:55:27.610 --> 00:55:35.690
+Lucas Bonanni: Vamos a ver cómo llega, digamos, para que a producción para que lo pueda utilizar finalmente el usuario, sí.
+
+326
+00:55:35.690 --> 00:55:36.210
+FACUNDO EMANUEL MODARELLI: Vamos a.
+
+327
+00:55:36.210 --> 00:55:40.170
+Lucas Bonanni: Entonces ahí en mi jugador, o quería.
+
+328
+00:55:41.480 --> 00:55:44.599
+FACUNDO EMANUEL MODARELLI: No, no por Dios. Me muté ahí porque me entró ruido de fondo.
+
+329
+00:55:44.850 --> 00:55:45.890
+Lucas Bonanni: Okay, listo.
+
+330
+00:55:46.030 --> 00:55:56.089
+Lucas Bonanni: Y entonces ac! Vamos a diferenciar. Básicamente, ¿cuál es la diferencia entre entrega continua y despliegue continuo.
+
+331
+00:55:59.320 --> 00:56:10.980
+Lucas Bonanni: Entonces acá. Tenemos Delivery versus de Flyman. Sí, entonces tenemos continues delivery, sí y continuos deploment.
+
+332
+00:56:11.220 --> 00:56:24.170
+Lucas Bonanni: Muchos equipos tratan de que llegar al despliegue continuo, ¿sí? Y siempre se comienza primero por la entrega continua. Si
+
+333
+00:56:24.330 --> 00:56:41.319
+Lucas Bonanni: entonces con la entrada continua, si es ideal para entornos donde está altamente regulado. Sí, donde el negocio prefiere recibir cuando lanzar una nueva funcionalidad.
+
+334
+00:56:43.070 --> 00:56:50.029
+Lucas Bonanni: Bueno, a a producción, sí por temas de marketing por temas de de tiempos comerciales
+
+335
+00:56:50.900 --> 00:57:07.019
+Lucas Bonanni: y el despliegue continuo, si ya requiere una madurez en la parte de desarrollo y al nivel técnico y una confianza total dentro de nuestra suite de pruebas y herramientas.
+
+336
+00:57:07.220 --> 00:57:14.579
+Lucas Bonanni: Entonces, después de a partir de esto, también lo que tenemos es la parte de
+
+337
+00:57:15.300 --> 00:57:19.629
+Lucas Bonanni: la siguiente etapa, que es la de release un deployment. Sí,
+
+338
+00:57:21.370 --> 00:57:31.210
+Lucas Bonanni: en la parte de release. Si tenemos la parte del versionado donde se crean las típicas notas o de
+
+339
+00:57:31.350 --> 00:57:45.679
+Lucas Bonanni: de del nuevo paquete del release. Sí release note. Donde podemos ver todos los cambios que se introdujeron sí y, además, todos los paquetes que
+
+340
+00:57:46.000 --> 00:58:00.870
+Lucas Bonanni: básicamente se construyeron dentro para la aplicación. Si entonces el release no es solamente código, sino que también incluye el paquete, el versionado y la documentación
+
+341
+00:58:01.510 --> 00:58:19.530
+Lucas Bonanni: a través de las reales. No Después tenemos estrategias de despliegue, sí que algunas de las que son que que tenemos disponibles. Pueden ser blue Green o Canary, ¿sí? Y
+
+342
+00:58:21.020 --> 00:58:27.079
+Lucas Bonanni: donde, por ejemplo, a modo para que ustedes se acuerden el Canary deployment.
+
+343
+00:58:27.340 --> 00:58:31.200
+Lucas Bonanni: No sé si ustedes saben, pero ¿de dónde viene la idea.
+
+344
+00:58:31.450 --> 00:58:36.459
+Lucas Bonanni: ¿sabes por qué se llama Cannery deployment o se imagina.
+
+345
+00:58:42.750 --> 00:58:44.200
+MORA OTEGUI: La verdad, que ni idea.
+
+346
+00:58:47.720 --> 00:58:51.069
+Lucas Bonanni: Nadie se anima a tirar alguna idea?
+
+347
+00:58:59.630 --> 00:59:10.049
+Lucas Bonanni: Bueno, les cuento. Básicamente viene. Ustedes conocen cuando se trabaja en una mina. Qué es lo que utilizaban para saber si
+
+348
+00:59:10.200 --> 00:59:20.449
+Lucas Bonanni: había si se podía entrar a la mina por el tema de gases tóxicos, por ejemplo, o si si realmente el aire se podía respirar, ¿Qué usaban.
+
+349
+00:59:33.120 --> 00:59:35.339
+NAZARENO AMIDOLARE: Ten tenían un canario en una jaula.
+
+350
+00:59:36.150 --> 00:59:42.880
+Lucas Bonanni: Exactamente. Tenían un canario en una jaula que era la que iba, que con el cual iban probando. Ellos iban avanzando.
+
+351
+00:59:43.010 --> 00:59:49.260
+Lucas Bonanni: Y mientras que el canario estuviera vivo, ellos sabían que estaban seguros.
+
+352
+00:59:49.410 --> 01:00:01.079
+Lucas Bonanni: Sí, Por alguna razón, el canario se moría, tenía que salir inmediatamente porque no no era seguro. Había el ese aire no era respirable
+
+353
+01:00:01.690 --> 01:00:11.159
+Lucas Bonanni: por esa de ese con ese mismo Por esa misma manera, por esa práctica. Se llamó el Canary Deployman de esa manera. Entonces lo que es.
+
+354
+01:00:11.400 --> 01:00:23.069
+Lucas Bonanni: se intenta hacer es desplegar una nueva versión, pero a solamente el 5 por 100 de los usuarios y se monitorea para saber si
+
+355
+01:00:23.170 --> 01:00:36.669
+Lucas Bonanni: hay errores o no. Si no hay errores, seguimos con el haciendo el deployment. Generalmente es progresivo. Si empezaste con el 5, por ahí, después lo haces con un 10 o con un 20
+
+356
+01:00:36.750 --> 01:00:50.270
+Lucas Bonanni: después. Tal vez con un 50 depende ahí. Las progresiones van a variar dependiendo de del equipo hasta finalmente llegar al 100 por 100. Así depende de cuántas etapas quieres tener, porque, obviamente.
+
+357
+01:00:50.390 --> 01:00:57.649
+Lucas Bonanni: entre cada etapa tienes que dejar un tiempo para para poder monitorear y tratar de que haya un uso
+
+358
+01:00:57.770 --> 01:00:59.200
+Lucas Bonanni: y
+
+359
+01:01:01.090 --> 01:01:17.559
+Lucas Bonanni: que realmente digamos ese uso refleje un uso real, No, porque si lo dejas por ahí 10 min no vale la pena, porque no por ahí no han accedido a todas las funcionalidades, y no sabes si realmente hubo un error o no o lo
+
+360
+01:01:17.620 --> 01:01:21.959
+Lucas Bonanni: o o solamente cuando lo incrementas. Entonces
+
+361
+01:01:22.440 --> 01:01:31.000
+Lucas Bonanni: el nivel de etapas con el que 1 vaya progresando también tiene que ver realmente no son más de
+
+362
+01:01:31.190 --> 01:01:48.529
+Lucas Bonanni: 3 o 4, sí, dependiendo de la aplicación. Porque si no puedes estar tal vez que bueno es algo que lo repartan en más días. Tal vez haya alguna aplicación o algún caso particular que lo haga en específico.
+
+363
+01:01:48.820 --> 01:01:54.199
+Lucas Bonanni: pero pero bueno, la idea es que no sean muchas etapas igualmente.
+
+364
+01:01:54.990 --> 01:02:14.580
+Lucas Bonanni: Y, por otro lado, es la el despliegue bluegrim. Sí, donde nos podemos tener una versión vieja y una nueva corriendo al mismo tiempo y migrando los usuarios de la vieja, la nueva sí, y facilitando también que eso nos facilita volver hacia atrás los cambios
+
+365
+01:02:19.390 --> 01:02:32.140
+Lucas Bonanni: después. También con esto nos preguntamos si todas las empresas tienen los procesos de C. D automatizados.
+
+366
+01:02:35.790 --> 01:02:36.410
+MANUEL KRIVOY: Ohh.
+
+367
+01:02:38.540 --> 01:02:40.030
+Lucas Bonanni: Y por qué puede ser.
+
+368
+01:02:41.990 --> 01:02:48.680
+MANUEL KRIVOY: Y hay que cambiar principalmente la cultura también de todo el proceso de desarrollo.
+
+369
+01:02:48.870 --> 01:02:53.270
+MANUEL KRIVOY: Si ya se empieza de una manera, es difícil cambiarlo.
+
+370
+01:02:54.160 --> 01:02:57.789
+Lucas Bonanni: Esa es una razón. La cultura es una organización muy bien.
+
+371
+01:02:58.460 --> 01:03:01.010
+Lucas Bonanni: ¿cuál otra puede ser la la razón.
+
+372
+01:03:05.040 --> 01:03:13.019
+MANUEL KRIVOY: También es cierto que tiene que haber alguien con conocimientos en las herramientas que mencionaste.
+
+373
+01:03:14.060 --> 01:03:14.750
+Lucas Bonanni: También.
+
+374
+01:03:14.750 --> 01:03:26.709
+MANUEL KRIVOY: Que, por por ejemplo, donde yo trabajo, se trabajan con 2 stacks tecnológicos distintos, y hay una, un
+
+375
+01:03:27.420 --> 01:03:34.139
+MANUEL KRIVOY: una aplicación que está el V a que está todo con Php con un framework que ni siquiera es la de un Framework muy viejo.
+
+376
+01:03:35.010 --> 01:03:38.839
+MANUEL KRIVOY: y sé que se habló mucho a veces de utilizar, y
+
+377
+01:03:39.190 --> 01:03:42.110
+MANUEL KRIVOY: la gente que está a cargo de infra como que siempre
+
+378
+01:03:42.500 --> 01:03:47.100
+MANUEL KRIVOY: termino opinando, que es muy complejo y no se termina haciendo.
+
+379
+01:03:49.340 --> 01:03:55.910
+Lucas Bonanni: Bueno, sí es verdad? Bueno, una de los otros motivos es eso. Las limitaciones técnicas o de o de recursos?
+
+380
+01:04:00.690 --> 01:04:13.590
+Lucas Bonanni: Después. Ot: Otra es por temas de seguridad, sí o cumplimiento con Plyent, Sí, donde hay industrias que están altamente reguladas
+
+381
+01:04:13.660 --> 01:04:20.790
+Lucas Bonanni: y son sensibles a temas de seguridad pueden llegar a tener problemas
+
+382
+01:04:20.960 --> 01:04:32.100
+Lucas Bonanni: estrictos sobre que quieran. Necesitan una revisión manual y aprobaciones adicionales. Antes de implementar esos cambios hemos
+
+383
+01:04:32.220 --> 01:04:44.429
+Lucas Bonanni: también puede ser por un tema de complejidad de del entorno donde son entornos de infraestructuras complejas o o que ya vienen heredados o son Legacy? Sí,
+
+384
+01:04:44.500 --> 01:04:52.279
+Lucas Bonanni: entonces puede ser que sea más difícil o más costoso automatizar completamente el proceso de despliegue.
+
+385
+01:04:54.660 --> 01:04:59.279
+Lucas Bonanni: Así que sí, Esas son todas una las 4 razones que pueden haber
+
+386
+01:05:02.470 --> 01:05:12.810
+Lucas Bonanni: después de esto. Bueno, tenemos otras estrategias de Deployment. Sí, por allá. Vimos Blue dreen sí que básicamente, que
+
+387
+01:05:13.100 --> 01:05:15.660
+Lucas Bonanni: que es esto que tenemos 2,
+
+388
+01:05:17.230 --> 01:05:28.579
+Lucas Bonanni: 2, una versión vieja y o un subjunto de con servidores, porque si estamos hablando, por ejemplo, en el caso de governetes, no es solamente una instancia, Muchas veces es
+
+389
+01:05:28.580 --> 01:05:37.999
+Lucas Bonanni: se reduce el ejemplo a una sola instancia, pero pueden ser como un cluster cuver net con la versión vieja y un cluster con
+
+390
+01:05:38.020 --> 01:05:51.499
+Lucas Bonanni: con la nueva ¿no? Entonces tenemos siempre la versión azul y la nueva versión verde, donde gradualmente se va redirigiendo el tráfico de los usuarios de
+
+391
+01:05:51.640 --> 01:05:54.349
+Lucas Bonanni: del azul a la verde, o sea, de la
+
+392
+01:05:54.870 --> 01:06:05.989
+Lucas Bonanni: versión vieja, a la nueva, y se va monitoreando el comportamiento para ver si hay errores o no. Si se llega a ver errores, se vuelve para atrás a la versión vieja
+
+393
+01:06:07.360 --> 01:06:25.970
+Lucas Bonanni: de Canary deployment. También lo vimos. Y después tenemos el el rolling deployment sí que es una manera de implementar los cambios si actualizando siempre parte de los servidores o o ciertas instancias de los servidores.
+
+394
+01:06:26.060 --> 01:06:40.889
+Lucas Bonanni: y esto asegura que la aplicación permanezca disponible durante el proceso y se minimiza el impacto. Sí, siempre, la idea viene por el mismo lado, es tratar de
+
+395
+01:06:40.900 --> 01:06:49.219
+Lucas Bonanni: hacer que afecte a un grupo reducido, sí de de usuarios. Este
+
+396
+01:06:49.250 --> 01:07:01.740
+Lucas Bonanni: después también está lo que es el despliegue progresivo donde vamos haciendo los cambios o se van implementando de forma gradual, ¿sí? Y se van
+
+397
+01:07:01.850 --> 01:07:07.090
+Lucas Bonanni: haciendo un mayor control sobre la infraestructura y sobre los usuarios. Entonces, bueno.
+
+398
+01:07:07.970 --> 01:07:22.239
+Lucas Bonanni: también se puede utilizar configuraciones para para tratar de ver como graduar esto y decir, bueno, pues se pueden filtrar por usuarios dependiendo de la aplicación. Por
+
+399
+01:07:22.370 --> 01:07:31.599
+Lucas Bonanni: si la empresa tiene muchos usuarios y tiene contratos por empresa, se podría decir, bueno
+
+400
+01:07:32.080 --> 01:07:41.559
+Lucas Bonanni: pagar otras empresas que son modelos para que prueben esta este nuevo release, sí, y pruebo con esas empresas que representan
+
+401
+01:07:41.620 --> 01:07:55.540
+Lucas Bonanni: un cierto grupo de usuarios, entonces las dejo activas, la funcionalidad solamente para eso, a través de usando fitur flax o configuraciones, entonces yo tengo una manera de controlar
+
+402
+01:07:55.540 --> 01:08:05.730
+Lucas Bonanni: de alguna manera quienes acceden a esa nueva funcionalidad, ya sea por tráfico, por configuraciones o
+
+403
+01:08:07.570 --> 01:08:21.319
+Lucas Bonanni: o por fiture flags, que básicamente son formas. La fiture flag es un o son banderas o tuggles, sí que nos permiten a nosotros, dentro del código.
+
+404
+01:08:21.680 --> 01:08:25.150
+Lucas Bonanni: habilitar ciertas funcionalidades
+
+405
+01:08:25.510 --> 01:08:33.719
+Lucas Bonanni: y poder habilitarlas sin modificar el código. Entonces, por medio de la fiture flax, nosotros vamos. Tenemos la posibilidad de
+
+406
+01:08:34.029 --> 01:08:42.350
+Lucas Bonanni: decir: bueno, esta fue este código solamente se va a aprobar cuando esté activo, No.
+
+407
+01:08:43.880 --> 01:08:46.090
+Lucas Bonanni: la contra que tiene. Es que
+
+408
+01:08:46.370 --> 01:08:49.260
+Lucas Bonanni: para saber si está activo. Muchas veces
+
+409
+01:08:50.680 --> 01:08:56.550
+Lucas Bonanni: se tiene que hacer una consulta para saber el estado de esa fecha clave, esa fichufl, ahí
+
+410
+01:08:56.680 --> 01:09:05.660
+Lucas Bonanni: fitos flag que puedan ser sí o por no, si o que está activo o que está inactivo, o también pueden ser por porcentajes o por configuraciones.
+
+411
+01:09:05.790 --> 01:09:22.329
+Lucas Bonanni: Idealmente lo como suelen funcionar es que están asociados a una caché. Y hay una caché que va actualizándose dependiendo de la configuración, así de cual no tiene que ir hasta el servidor de el tema, digamos
+
+412
+01:09:22.649 --> 01:09:26.960
+Lucas Bonanni: que mantiene la configuración, sino que va directamente a la caché antes
+
+413
+01:09:28.580 --> 01:09:39.069
+Lucas Bonanni: para impactar lo menos posible la decisión de procesar los recuerdos sin tener sin agregarle más tiempo. No
+
+414
+01:09:40.380 --> 01:09:56.009
+Lucas Bonanni: bien y después otra que no es en realidad un deploment strategy, pero en realidad es lo que nos falta que es decir, bueno, tenemos que tener una versión de una una forma de si hay algún error
+
+415
+01:09:56.200 --> 01:10:02.100
+Lucas Bonanni: volver a a la versión anterior, que lo que se llama es el role back automático. Sí,
+
+416
+01:10:02.300 --> 01:10:11.040
+Lucas Bonanni: puede ser automático o no. Pero la idea es simplemente al menos tener un roll back. Si algo que nos permita volver a la versión anterior
+
+417
+01:10:12.540 --> 01:10:18.089
+Lucas Bonanni: y que podamos, en caso de que se detecte errores, poder
+
+418
+01:10:18.570 --> 01:10:33.630
+Lucas Bonanni: justamente volver hacia atrás en ese paso y se pueden automatizar, entonces se puede automatizar que a través del despliegue, si se empiezan a detectar un ma, una cierta cantidad de errores, se revierten esos cambios automáticamente. Sí.
+
+419
+01:10:34.490 --> 01:10:45.699
+Lucas Bonanni: A veces, muchas veces muchos procesos de de Ployment ya vienen con eso integrado y pueden hacer un una una prueba para saber si
+
+420
+01:10:46.740 --> 01:10:52.629
+Lucas Bonanni: esa funcionalidad estaba Ok, o si se empiezan a detectar errores
+
+421
+01:10:54.450 --> 01:10:57.600
+Lucas Bonanni: y marcar si se empiezan a detectar errores
+
+422
+01:10:57.760 --> 01:11:06.029
+Lucas Bonanni: durante el deployments en deployment como fallidos y te avisa que hubo un fallo, ¿no? Y no termina siendo el deployment.
+
+423
+01:11:11.120 --> 01:11:21.079
+Lucas Bonanni: Bien, algunas herramientas de planment Bueno, Toker, porque es la que mantiene, digamos, el ambiente
+
+424
+01:11:21.560 --> 01:11:30.070
+Lucas Bonanni: Si igual para todas las las instancias o todas las etapas que nosotros vayamos implementando de nuestro código
+
+425
+01:11:31.440 --> 01:11:50.400
+Lucas Bonanni: después los beneficios? Bueno, como mencionábamos de de es la el tema de la portabilidad y la consistencia. Sí, al permitirnos esto de empaquetar toda la aplicación, sí y tenerlas en un contenedor nos garantiza que siempre se ejecuta de la misma manera.
+
+426
+01:11:52.230 --> 01:11:59.750
+Lucas Bonanni: Después, por otro lado, tenemos Argo. Sí que es para básicamente la automatización y la orquestación.
+
+427
+01:12:01.310 --> 01:12:07.939
+Lucas Bonanni: Es una herramienta que nos permite orquestar cluster de Coubert Net
+
+428
+01:12:08.120 --> 01:12:13.250
+Lucas Bonanni: nos permite automatizar y gestionar pipernes desde I C, D complejos
+
+429
+01:12:13.480 --> 01:12:33.070
+Lucas Bonanni: y nos da la posibilidad de tener funcionalidades avanzadas y para la gestionar los despliegues para hacer la ejecución de tareas en paralelo, para hacer la gestión de dependencias y para poder también integrarse con otras herramientas de C y civil, Sí,
+
+430
+01:12:33.210 --> 01:12:38.940
+Lucas Bonanni: y también
+
+431
+01:12:40.010 --> 01:12:58.900
+Lucas Bonanni: lo permite coordinar, tener múltiples etapas de despliegue. Sí, y a la vez, hacer, pues estas pruebas y validaciones dentro del proceso de Python. Este Este que yo le decía, bueno, ir deproyendo una parte y de comprobar a ver si ¿Hay algún tipo de errores?
+
+432
+01:12:59.000 --> 01:13:07.500
+Lucas Bonanni: Generalmente, los errores que detecta puede ser alguna inyección de dependencia que que esté faltando.
+
+433
+01:13:07.520 --> 01:13:27.279
+Lucas Bonanni: entonces puede ser que a veces son un poco difíciles de encontrar. Si no fue declarado algún servicio. Y cuando lo ves, es cuando lo estás deployando, ¿no? Y y se te intenta hacer una prueba de una funcionalidad. Y vemos que, en realidad, el
+
+434
+01:13:27.440 --> 01:13:39.580
+Lucas Bonanni: el digamos, la instancia, esa que estamos intentando probar o que estaba ejecutando. Ese post se muere porque
+
+435
+01:13:40.110 --> 01:13:45.659
+Lucas Bonanni: no puede ejecutar la aplicación porque no puede construirla, básicamente, no puede inyectar la dependencia.
+
+436
+01:13:48.650 --> 01:14:04.380
+Lucas Bonanni: Después. Por otro lado, tenemos también las funciones. Lambda, que nos dan una cierta escalabilidad y y eficiencia. Básicamente, las funciones lambda son para nos permiten hacer
+
+437
+01:14:04.380 --> 01:14:14.050
+Lucas Bonanni: hacer aplicaciones serbles, sí, y nos permiten ejecutar código de una manera rápida, escalar dependiendo de los eventos que tengamos
+
+438
+01:14:14.370 --> 01:14:26.709
+Lucas Bonanni: en y, bueno, se permite, obviamente, escalar automáticamente en función de la carga que tengamos de de recuadro.
+
+439
+01:14:27.680 --> 01:14:29.700
+Lucas Bonanni: Y,
+
+440
+01:14:34.670 --> 01:14:41.030
+Lucas Bonanni: bueno, como generalmente, las Lamdas también se pagan solamente por el tiempo de ejecución
+
+441
+01:14:41.160 --> 01:14:48.219
+Lucas Bonanni: y los recursos que se utilizan suele reducir bastante los costos, sí, ya que.
+
+442
+01:14:48.790 --> 01:15:03.589
+Lucas Bonanni: como digo solamente mientras que está en ejecución, entonces eso es bastante diferente en comparación con un cluster de gubernantes, sí que por lo menos eso tenés al menos una instancia corriendo siempre.
+
+443
+01:15:08.870 --> 01:15:19.499
+Lucas Bonanni: Y en conjunto, todas estas herramientas nos dan una capacidad para simplificar y mejorar el proceso de Plant.
+
+444
+01:15:20.430 --> 01:15:24.810
+Lucas Bonanni: Sí, hacerlo más sencillo.
+
+445
+01:15:25.720 --> 01:15:34.520
+Lucas Bonanni: Mejorar la la orquestación y la automatización de es del proceso de C, S, D, Sí, y
+
+446
+01:15:36.090 --> 01:15:46.419
+Lucas Bonanni: Y bueno, esto también nos permite que a los equipos les sea más fácil desplegar las aplicaciones de de una manera más rápida, segura y confiable.
+
+447
+01:15:47.560 --> 01:15:53.940
+Lucas Bonanni: Después, lo que tenemos también dentro de la parte de versionado es
+
+448
+01:15:54.390 --> 01:15:56.970
+Lucas Bonanni: la parte de las versiones beta.
+
+449
+01:15:58.880 --> 01:16:11.090
+Lucas Bonanni: las versiones beta, lo que nos permiten o las ventajas que tienen, si es la básicamente la retroalimentación temprana de los usuarios. Si nos permite
+
+450
+01:16:11.130 --> 01:16:22.580
+Lucas Bonanni: que los usuarios puedan probar una versión actualizada y nueva con nuevas funcionalidades a ciertos usuarios específicos que se hayan suscrito.
+
+451
+01:16:23.040 --> 01:16:26.759
+Lucas Bonanni: Este tipo de de pruebas.
+
+452
+01:16:28.700 --> 01:16:37.650
+Lucas Bonanni: que puedan ma tener una validación de las características que nosotros queremos llegar a llegar al usuario.
+
+453
+01:16:38.570 --> 01:16:53.739
+Lucas Bonanni: Entonces las personas pueden probar en en la versión beta, estas nuevas funcionalidades, tener ese feedback de de los usuarios también, tener una interacción más rápida y y y una mejora continua de
+
+454
+01:16:53.840 --> 01:17:06.959
+Lucas Bonanni: de los desarrollos? Sí, porque ya vamos a tener un feedback más temprano. También tenemos algo que puede llegar a ser un poco más localizado. Si el impacto sale, no sale como
+
+455
+01:17:06.960 --> 01:17:15.140
+Lucas Bonanni: como esperábamos, entonces, y eso no impacta en todos los usuarios. Solamente aquellos en los que estén en la en en la beta que
+
+456
+01:17:15.340 --> 01:17:16.870
+Lucas Bonanni: y
+
+457
+01:17:17.570 --> 01:17:29.830
+Lucas Bonanni: y también por promoción y generación de de interés. Esto lo podemos ver un ejemplo clásico, por ejemplo, es el ahora con
+
+458
+01:17:30.220 --> 01:17:40.420
+Lucas Bonanni: cuando sacó mccos hace poco el aeroglas y y todos. Bueno, no todos, yo no, no no estaba muy entusiasmado, pero
+
+459
+01:17:40.420 --> 01:17:50.300
+Lucas Bonanni: digamos, 1 podía actualizar y podía suscribirse a la versión beta. Inclusive antes de que saliera la versión estable, 1 tenía la posibilidad de
+
+460
+01:17:50.470 --> 01:17:59.950
+Lucas Bonanni: probar también en ese caso, tener un feedback también de de los desarrolladores no que desarrollan y mantienen aplicaciones
+
+461
+01:18:00.080 --> 01:18:10.539
+Lucas Bonanni: dentro de marcos, por ejemplo, y ver cómo se comporta esos nuevos cambios, ¿no? Entonces, de alguna manera eso te permite tener esos feedback tempranos.
+
+462
+01:18:16.670 --> 01:18:21.899
+Lucas Bonanni: Así que esto es una es una parte interesante.
+
+463
+01:18:23.580 --> 01:18:38.569
+Lucas Bonanni: Después llegamos a una de las etapas finales, que es la parte de operaciones y monitoreo, porque no termina todo cuando el código ya está desployado en producción.
+
+464
+01:18:38.570 --> 01:18:51.210
+Lucas Bonanni: no es que cerramos ahí y nos olvidamos. Ese es el problema de explosyar los viernes a última hora que nosotros después no podemos usar la par de monitoreo porque queda ahí
+
+465
+01:18:51.210 --> 01:19:00.410
+Lucas Bonanni: a última hora, ya 10 nos fuimos y que sea lo que Dios quiera, y eso es lo que por eso no es una buena práctica.
+
+466
+01:19:00.890 --> 01:19:16.059
+Lucas Bonanni: Entonces solemos tener esta siguiente etapa. Bueno, operate es la parte como cuando nosotros manejamos el nuestra infraestructura como código cuando definimos un escalado automático
+
+467
+01:19:16.120 --> 01:19:27.740
+Lucas Bonanni: de de de nuestra infraestructura. Sí, y tenemos una gestión de los secretos y y y y las
+
+468
+01:19:29.200 --> 01:19:41.040
+Lucas Bonanni: y nuestras claves. Sí, por otro lado, tenemos la parte de observabilidad donde tenemos toda la parte de monitoreo donde vamos a definir, vamos a poder hacer observar que los
+
+469
+01:19:41.090 --> 01:19:51.180
+Lucas Bonanni: y tener un un dashboard dentro de ya sea grafana, o esto lo vamos a ver más detalle en el módulo de mode monitoreo
+
+470
+01:19:51.180 --> 01:20:01.540
+Lucas Bonanni: donde vamos a poner ver las trazas. También vamos a poder definir especialmente las alertas, si que nos pueden llegar a partir de las métricas alertar sobre
+
+471
+01:20:01.620 --> 01:20:09.620
+Lucas Bonanni: cosas que puedan estar funcionando incorrectamente. Entonces podemos tener, por ejemplo.
+
+472
+01:20:10.360 --> 01:20:18.409
+Lucas Bonanni: alerta sobre la cantidad de errores dentro de de la aplicación. Entonces, si vemos que hay un
+
+473
+01:20:18.410 --> 01:20:35.249
+Lucas Bonanni: que empiezan a haber errores muy rápido, tenemos que accionar y ver por qué se están ge dando esos errores y ver si es un error de un deployment. Si no ha habido un deplomen por ahí. No sé un error nuestro y por ahí puede ser que sea un error
+
+474
+01:20:35.410 --> 01:20:39.080
+Lucas Bonanni: de alguien que está consumiendo en nuestra A, P, I
+
+475
+01:20:41.200 --> 01:20:51.069
+Lucas Bonanni: Y bueno, herramientas que nos permiten hacer esto. Bueno, para la parte de operaciones, infraestructura como Código está terrapform.
+
+476
+01:20:51.210 --> 01:20:59.880
+Lucas Bonanni: Después, para la parte de monitoreo puede ser grafana puede ser datador. New Rally.
+
+477
+01:21:00.130 --> 01:21:03.469
+Lucas Bonanni: Sí, ahora vamos a ver algunas.
+
+478
+01:21:03.670 --> 01:21:10.180
+Lucas Bonanni: Y y la terraza. Y por acá
+
+479
+01:21:10.760 --> 01:21:23.350
+Lucas Bonanni: tenía un slide con cada una y acá tenemos más de monitoreo. Nosotros, para el trabajo práctico vamos. Podemos utilizar New Relly Data Doe.
+
+480
+01:21:24.100 --> 01:21:27.299
+Lucas Bonanni: y creo que había una más
+
+481
+01:21:29.040 --> 01:21:33.140
+Lucas Bonanni: que ahora. No me acuerdo, pero sí está en la definición del trabajo práctico
+
+482
+01:21:36.210 --> 01:21:52.250
+Lucas Bonanni: grafana y Prometheus hay una versión gratuita. Creo que también ahora cual cosa lo voy a chequear, pero creo que tienen también gratuitas. Todas generalmente lo que las aplicaciones que tenemos de monitoreo nos permiten.
+
+483
+01:21:52.520 --> 01:21:57.589
+Lucas Bonanni: por lo menos para en contexto de trabajo práctico, tener un monitoreo
+
+484
+01:21:58.590 --> 01:22:18.430
+Lucas Bonanni: general. Lo único que nos suelen limitar es la parte de cuánto histórico tenemos? No, generalmente nos guardan más de un mes de logs, o tenemos limitada la cantidad de logs o el espacio de logs que podemos almacenar no
+
+485
+01:22:18.530 --> 01:22:28.090
+Lucas Bonanni: generalmente viene por ese lado de la fun, la limitación de las funcionalidades, no tanto por otras cosas.
+
+486
+01:22:34.380 --> 01:22:40.020
+Lucas Bonanni: Y finalmente, como resumen, vamos a
+
+487
+01:22:41.410 --> 01:22:46.910
+Lucas Bonanni: unificar un poquito. Esto es lo que aprendimos ahora con esto. Lo de C, C, D,
+
+488
+01:22:46.930 --> 01:22:51.989
+Lucas Bonanni: con el tema de lo que habíamos visto en el primer módulo, sí
+
+489
+01:22:52.010 --> 01:23:07.879
+Lucas Bonanni: sobre la parte de la cultura de box, ¿sí? Donde nosotros teníamos toda la parte de, por ejemplo, Camps: Sí, donde veíamos la parte de la cultura, la colaboración y la transparencia. Donde veíamos la automatización.
+
+490
+01:23:07.880 --> 01:23:21.569
+Lucas Bonanni: Sí, después las métricas o la forma de medir nuestro código a través de pruebas mod automáticas o el monitoreo de enfermos de performance
+
+491
+01:23:22.880 --> 01:23:35.509
+Lucas Bonanni: después el compartir a través de repositorios compartidos, documentación compartida, dando visibilidad de nuestro, el estado de nuestros despliegue, despliegues de nuestra aplicación
+
+492
+01:23:35.540 --> 01:23:44.569
+Lucas Bonanni: a través de notificaciones de Slac a través de las el de las aplicaciones que nos dan a ver cómo es el estatus de nuestros despliegues
+
+493
+01:23:46.690 --> 01:23:48.640
+Lucas Bonanni: y
+
+494
+01:23:50.020 --> 01:24:01.380
+Lucas Bonanni: entonces C, A, C, D, Básicamente es una herramienta técnica que lo que hace posible implementar todas estas partes. Estas
+
+495
+01:24:02.190 --> 01:24:10.690
+Lucas Bonanni: Y si est estos conceptos de camps sí, y que fomenta
+
+496
+01:24:10.950 --> 01:24:21.500
+Lucas Bonanni: básicamente a que los equipos no tengan miedo al al cambio. Sí, entonces
+
+497
+01:24:21.870 --> 01:24:37.120
+Lucas Bonanni: básicamente hay u una una frase de de una persona que se llama Hess humble. Sí que dice que el objetivo de CCD es hacer que los deployment de software sean aburridos
+
+498
+01:24:37.160 --> 01:24:47.100
+Lucas Bonanni: porque no queremos ningún tipo de drama. Sí, no queremos los fines de semana arreglando servidores.
+
+499
+01:24:47.150 --> 01:24:56.459
+Lucas Bonanni: Cree Queremos apretar un botón y que sea algo rutinario y seguro. Eso es lo que queremos con con el C, I, Si.
+
+500
+01:25:04.120 --> 01:25:14.639
+Lucas Bonanni: Y bien, y después para terminar. Bueno, acá yo les dejo algunos recursos que se pueden leer. Acá Bueno, está
+
+501
+01:25:14.780 --> 01:25:21.970
+Lucas Bonanni: un libro para para ver acá después, vamos a ver la próxima clase. Todo lo que es hit up actions.
+
+502
+01:25:22.520 --> 01:25:30.690
+Lucas Bonanni: Y bueno, acá hay un artículo de Martin Fuller que lo pueden leer que está online. Básicamente es parte de la página.
+
+503
+01:25:31.920 --> 01:25:42.039
+Lucas Bonanni: Y antes de que salgan, vamos a quiero hacer una cosa. Quiero compartirles
+
+504
+01:25:43.380 --> 01:25:48.120
+Lucas Bonanni: a ver si podemos, si les puedo compartir una planilla
+
+505
+01:25:48.560 --> 01:25:54.300
+Lucas Bonanni: y por lo menos que se vayan anotando ahí para
+
+506
+01:25:54.470 --> 01:25:59.930
+Lucas Bonanni: armar los grupos, o si lo van a presentar solos.
+
+507
+01:26:14.540 --> 01:26:19.529
+Lucas Bonanni: Quiere. Queda alguna duda respecto lo que vimos hoy?
+
+508
+01:26:22.090 --> 01:26:26.519
+Lucas Bonanni: Ve. Veo que hay en el chat, habían puesto algo. Y yo no lo vi
+
+509
+01:26:28.560 --> 01:26:39.060
+Lucas Bonanni: para el logs. Usamos Cloudback Sí. Cloud Watch es para es el de Amazon. ¿no?
+
+510
+01:26:39.440 --> 01:26:41.819
+Lucas Bonanni: Si no me equivoco, si no estoy mal.
+
+511
+01:26:42.590 --> 01:26:42.980
+MANUEL KRIVOY: Sí.
+
+512
+01:26:42.980 --> 01:26:43.670
+Lucas Bonanni: Perfecto.
+
+513
+01:26:55.510 --> 01:27:02.490
+Lucas Bonanni: Sí, no sé. Yo nunca usé las herramientas de teclado Watch.
+
+514
+01:27:02.750 --> 01:27:07.440
+Lucas Bonanni: Generalmente están más para el equipo de desarrollo.
+
+515
+01:27:25.370 --> 01:27:28.990
+Lucas Bonanni: Estoy. Bueno, les comparto la planilla.
+
+516
+01:27:37.960 --> 01:27:41.120
+FACUNDO EMANUEL MODARELLI: Hay que hacerlo en grupo o se puede hacer.
+
+517
+01:27:41.120 --> 01:27:41.580
+Lucas Bonanni: Individual.
+
+518
+01:27:41.580 --> 01:27:43.639
+FACUNDO EMANUEL MODARELLI: Individual no hay problema. Por eso.
+
+519
+01:27:44.080 --> 01:27:46.920
+Lucas Bonanni: No hay. No hay problema con eso.
+
+520
+01:28:54.800 --> 01:29:00.210
+Lucas Bonanni: Bien, Ahora todo le voy a compartir la planisa.
+
+521
+01:30:00.920 --> 01:30:03.089
+Lucas Bonanni: Ahí ven mi pantalla.
+
+522
+01:30:06.910 --> 01:30:08.160
+FACUNDO EMANUEL MODARELLI: Sí.
+
+523
+01:30:08.160 --> 01:30:12.060
+Lucas Bonanni: Perfecto. Ahí se lo voy a compartir.
+
+524
+01:30:18.010 --> 01:30:26.219
+Lucas Bonanni: Se los comparto por el chat y después lo pongo Ahora lo subo también a a Blackboard.
+
+525
+01:30:27.230 --> 01:30:32.950
+Lucas Bonanni: Por ahí puse un ejemplo, no de como como notarse
+
+526
+01:30:40.780 --> 01:30:42.710
+Lucas Bonanni: esto. No, ahí se las compartí.
+
+527
+01:30:45.250 --> 01:30:48.569
+Lucas Bonanni: Bueno, ese es el ejemplo, no que
+
+528
+01:30:48.890 --> 01:30:57.540
+Lucas Bonanni: nombre apellido. Acá Ponen el nombre del grupo. Y, bueno, y así lo vamos agrupando de esa manera.
+
+529
+01:30:58.320 --> 01:31:00.490
+Lucas Bonanni: Algo sencillo.
+
+530
+01:31:02.690 --> 01:31:08.270
+Lucas Bonanni: Acá el Grupo pueden poner grupo. Uno, el Grupo 2, si quieren. Pónganle el nombre del grupo que quieran.
+
+531
+01:31:08.610 --> 01:31:13.079
+Lucas Bonanni: Tengo problema con eso. Voy a hacer otro nombre del grupo.
+
+532
+01:31:22.000 --> 01:31:28.820
+Lucas Bonanni: Desde, bueno, y ahora lo voy a subir a Blackboard. Y lo que voy a después subir también
+
+533
+01:31:38.730 --> 01:31:40.760
+Lucas Bonanni: es el documento.
+
+534
+01:31:41.390 --> 01:31:44.420
+Lucas Bonanni: Todos pueden instalar.
+
+535
+01:31:44.800 --> 01:31:50.710
+Lucas Bonanni: Tienen la máquina disponible para instalar o tienen algún inconveniente con instalar cosas sobre la máquina.
+
+536
+01:31:53.900 --> 01:31:55.010
+FACUNDO EMANUEL MODARELLI: No por.
+
+537
+01:31:55.630 --> 01:32:01.829
+Lucas Bonanni: Algo que se me olvida Acá es
+
+538
+01:32:03.950 --> 01:32:08.200
+Lucas Bonanni: bueno. Si no tienen grupo, obviamente pueden poner
+
+539
+01:32:13.670 --> 01:32:16.719
+Lucas Bonanni: individual y ponemos
+
+540
+01:32:27.870 --> 01:32:28.580
+Lucas Bonanni: Ahí está.
+
+541
+01:32:36.840 --> 01:32:39.240
+Lucas Bonanni: Se queda ordenadito.
+
+542
+01:32:59.670 --> 01:33:04.589
+JOAQUÍN IPAR: Profe una consulta más o menos, cómo se va a liberar el el enunciado.
+
+543
+01:33:05.800 --> 01:33:10.499
+Lucas Bonanni: No. Ahora lo lo voy a subir también a ver cómo se te acordar.
+
+544
+01:33:11.630 --> 01:33:13.869
+Lucas Bonanni: Ya lo voy a subir Ahora, cuando
+
+545
+01:33:14.020 --> 01:33:22.239
+Lucas Bonanni: a ver si lo tengo para ver, yo tengo el enunciado.
+
+546
+01:33:29.940 --> 01:33:39.070
+Lucas Bonanni: Sí, a gastar, básicamente este es el enunciado. Si quieren saber, lo podemos probar en
+
+547
+01:33:41.700 --> 01:33:44.399
+Lucas Bonanni: acá. Más o menos. Le hice mención de
+
+548
+01:33:45.620 --> 01:33:52.960
+Lucas Bonanni: cuál es la idea de los conceptos que puedan aplicar. Básicamente son los conceptos teóricos de la primera clase
+
+549
+01:33:55.740 --> 01:34:08.700
+Lucas Bonanni: y los puntos que se van a evaluar. Es bueno desarrollar una a P I básica. No tiene que tener mucha funcionalidad, o por lo menos no es lo que voy a evaluar la o la calidad de la A. P I.
+
+550
+01:34:08.700 --> 01:34:22.210
+Lucas Bonanni: La idea es que incrementen las etapas que estamos viendo. Si entonces agregar algunas pruebas unitarias lo suficientemente básicas como para que tengamos algo para correr dentro del proceso de C, C, D,
+
+551
+01:34:22.690 --> 01:34:30.399
+Lucas Bonanni: hacer doterizar la aplicación. Entonces acá vamos a ver que dentro del cuadro de lo que se va a evaluar es
+
+552
+01:34:30.690 --> 01:34:38.820
+Lucas Bonanni: y cada punto tiene su su evaluación, o sea, su su su peso. Digamos Entonces
+
+553
+01:34:38.820 --> 01:34:52.260
+Lucas Bonanni: el docker fight tener multi stage. Sí, seguir las buenas prácticas. Las buenas prácticas es algo que van a tener que investigar si tanto buenas prácticas desde para el Docker Five, como las buenas prácticas
+
+554
+01:34:52.310 --> 01:35:09.630
+Lucas Bonanni: de Docker Compost. Esto lo tienen que investigar porque básicamente va a ser según el framework o el lenguaje que ustedes elijan, van a tener que justificar porque, como consiguieron esas buenas prácticas, realmente tiene que ser alguna fuente confiable.
+
+555
+01:35:10.420 --> 01:35:24.419
+Lucas Bonanni: Les mencioné, o la página del Framework que están utilizando, o el lenguaje que están utilizando, o puede ser de de las librerías de que hacen la construcción de del lenguaje
+
+556
+01:35:24.820 --> 01:35:29.049
+Lucas Bonanni: después tener dentro del proceso de C, A, s. C. D. Tener
+
+557
+01:35:29.350 --> 01:35:32.360
+Lucas Bonanni: la parte de Build. Los Unitest sí
+
+558
+01:35:33.850 --> 01:35:38.479
+Lucas Bonanni: tener. Si quieren agregarle algún otro escáner más que pueda
+
+559
+01:35:38.570 --> 01:35:55.379
+Lucas Bonanni: que quieran sumarle que sea gratuito y que no no le sume costos. No hay problema. Ahí pueden probar lo que ustedes quieran. No es muy esa parte de los check no es muy difícil de integrar bastante sencilla.
+
+560
+01:35:55.510 --> 01:36:04.500
+Lucas Bonanni: Después, si tienen algún flujo de marfil y están en equipo, se puede
+
+561
+01:36:05.460 --> 01:36:13.760
+Lucas Bonanni: sumar también decir esto de crear publiquest de crear ramas, sí. Para ser un un poquito más
+
+562
+01:36:14.630 --> 01:36:19.830
+Lucas Bonanni: simi simular, digamos, la realidad de lo que sería un flujo en una empresa.
+
+563
+01:36:21.590 --> 01:36:26.629
+Lucas Bonanni: Después hay que publicar la imagen de Docker File a
+
+564
+01:36:27.390 --> 01:36:35.939
+Lucas Bonanni: el Hub Registry. Eso parte de eso lo vamos a ver. La clase que viene. También vamos a ver en detalle si pueden.
+
+565
+01:36:36.480 --> 01:36:41.599
+Lucas Bonanni: aunque sea individualmente, tengan algo medio armado
+
+566
+01:36:41.820 --> 01:36:58.810
+Lucas Bonanni: y traigan algo medio armado para la próxima clase. Así lo pueden seguir cada 1 individualmente. No, Yo les voy explicando, y por ahí lo pueden seguir. Y si tienen alguna duda, lo pueden preguntar ahí mismo, y si no, bueno, será después por Slap.
+
+567
+01:37:00.010 --> 01:37:08.160
+Lucas Bonanni: Después el despliegue, vamos a hacer el despliegue a la aplicación de render si también lo vamos a ver
+
+568
+01:37:09.350 --> 01:37:12.370
+Lucas Bonanni: detalle cómo cómo hacerlo
+
+569
+01:37:12.980 --> 01:37:24.519
+Lucas Bonanni: y hacer un dashboard de monitoreo y a P Ms: Y trazas. Sí, Básicamente, esos son los puntos que se tienen que cumplir. Lo mismo está acá. Sí,
+
+570
+01:37:25.720 --> 01:37:29.150
+Lucas Bonanni: para que ustedes lo puedan ver. Y bueno, y acá. Está
+
+571
+01:37:29.420 --> 01:37:34.669
+Lucas Bonanni: un poquito más en detalles, pero no es mucho más. Sí.
+
+572
+01:37:43.940 --> 01:37:50.380
+FACUNDO EMANUEL MODARELLI: Profe lo que es la A, P. I. La ideamos y desarrollamos a nuestro gusto o hay algún
+
+573
+01:37:50.830 --> 01:37:57.650
+FACUNDO EMANUEL MODARELLI: hay algún algún lineamiento, una a P I que haga determinado determinada cosa o.
+
+574
+01:37:58.090 --> 01:38:02.789
+Lucas Bonanni: No pasa que. Bueno, obviamente, el solamente lo básico que acepte request
+
+575
+01:38:03.030 --> 01:38:12.700
+Lucas Bonanni: no necesariamente tiene que tenerlo bien o o alguna funcionalidad. Como les digo, eso depende de lo que ustedes
+
+576
+01:38:12.880 --> 01:38:23.569
+Lucas Bonanni: que quieran representar de de la realidad tampoco es hacer un un e commerce o un no. Les voy a pedir que hagan un gestor de de stock o nada por el estilo.
+
+577
+01:38:23.900 --> 01:38:26.450
+Lucas Bonanni: pero
+
+578
+01:38:26.620 --> 01:38:37.810
+Lucas Bonanni: pero bueno, como digo que por lo menos hacerte algún recues puedan, después en la parte de monitoreo, mostrar algún error, ¿sí? Entonces por ahí, aunque sea
+
+579
+01:38:38.690 --> 01:38:41.310
+Lucas Bonanni: tener algún
+
+580
+01:38:43.040 --> 01:38:59.410
+Lucas Bonanni: algún tiempo en que falle. Sí, que ustedes ya sepan que falle por alguna razón, para poder probarlo y poder mostrar cómo se muestran los errores Después, en la etapa de monitoreo, yo les recomiendo hacer integrar o o hacer una llamada
+
+581
+01:39:00.660 --> 01:39:09.319
+Lucas Bonanni: tener varias capas. Está, bueno, por ejemplo, tener un controller, tener un servicio después, tener otro servicio que por ahí consuma
+
+582
+01:39:09.700 --> 01:39:24.349
+Lucas Bonanni: a una a P, I. Estas gratuitas de desarrollo para hacer que pueden ser las las A, P. I de de Star Wars o las o las apis de de Pokemon o o cualquiera de esas que nos permiten
+
+583
+01:39:24.350 --> 01:39:29.790
+Lucas Bonanni: consumir. Porque después, en la parte de monitoreo está bueno ver y poder mostrar
+
+584
+01:39:30.130 --> 01:39:43.800
+Lucas Bonanni: cómo se ven esas trazas? Sí, ¿Cómo ¿Cómo se ven las llamadas encadenadas dentro de nuestra a P I, Poder hacer esa integración y tenerlo para mostrar para el final
+
+585
+01:39:46.080 --> 01:39:49.149
+Lucas Bonanni: también. A veces está bueno tener.
+
+586
+01:39:49.480 --> 01:40:04.189
+Lucas Bonanni: aunque sea una base de datos de pruebas, y lo pueden tener, aunque después va a ser difícil hacer el Deployment, pero por ahí a veces lo pueden tener para para probar algo. En particular, también se puede hacer
+
+587
+01:40:04.340 --> 01:40:16.159
+Lucas Bonanni: en render. Creo que nos permiten tener un Se puede hacer un deployd. No es que nos permiten, pero creo que en la cuenta gratuita. Se puede hacer un deployment de una base de datos y tener una instancia de de una A. P I.
+
+588
+01:40:16.720 --> 01:40:18.250
+Lucas Bonanni: ¿en
+
+589
+01:40:18.850 --> 01:40:32.740
+Lucas Bonanni: qué más. Así que si es, son esas pequeñas cosas. No digo que sea much la funcionalidad, sea, mucha, pero ustedes van a poder ver después en la parte de monitoreo integrando datador New Rally. Si ustedes tienen
+
+590
+01:40:32.740 --> 01:40:41.100
+Lucas Bonanni: este tipo de cositas que por ahí son satélites que son agregadas dentro de la App y les va a poder permitir
+
+591
+01:40:41.480 --> 01:40:58.020
+Lucas Bonanni: enriquecer mucho más la herramienta y poder explorarla con un poco más de detalle que solamente ver el log que están imprimiendo o solamente ver un un dashboard con los recursos. ¿ ¿les va a permitir ver más cosas de la herramienta.
+
+592
+01:41:02.780 --> 01:41:04.120
+Lucas Bonanni: quedó claro.
+
+593
+01:41:18.090 --> 01:41:19.560
+MANUEL KRIVOY: Sí, clarísimo.
+
+594
+01:41:20.410 --> 01:41:35.110
+Lucas Bonanni: Perfecto. Sí, porque la idea no es que por ahí hagan una aplicación en particular, sino es más que nada lo que ustedes puedan demostrar, de las cosas que vamos viendo que integren las cosas, que que les facilite. Usted mostrar
+
+595
+01:41:35.420 --> 01:41:38.370
+Lucas Bonanni: la potencia que tiene en cada una de las herramientas no.
+
+596
+01:41:39.380 --> 01:41:44.150
+Lucas Bonanni: y que también a ustedes les permita experimentar, porque es la parte de de aprender no
+
+597
+01:41:54.470 --> 01:42:04.780
+Lucas Bonanni: igual cualquier duda. Me escriben o lo chateamos, o lo vemos entonces. Ahora lo voy a descargar como Pdf y lo voy a subir.
+
+598
+01:42:55.720 --> 01:42:59.900
+Lucas Bonanni: y lo que voy a subir ya va a ser la Pepe Text.
+
+599
+01:43:08.910 --> 01:43:15.230
+Lucas Bonanni: Bueno, si no tienen dudas, yo los libero. Por ahora
+
+600
+01:43:16.370 --> 01:43:26.530
+Lucas Bonanni: voy a quedarme subiendo esto. Y les voy a subir los que les decía que todavía no encontré, que es la le la guía para instalar
+
+601
+01:43:28.120 --> 01:43:29.220
+Lucas Bonanni: Localestat.
+
+602
+01:43:31.520 --> 01:43:39.570
+MORA OTEGUI: Perdón, pregunta, no me acuerdo si lo dijiste, pero este T P. Se entrega. Está en el la planilla de.
+
+603
+01:43:39.570 --> 01:43:40.670
+Lucas Bonanni: Esta es la fecha. Sí.
+
+604
+01:43:40.670 --> 01:43:41.400
+MORA OTEGUI: Okay. Perfecto.
+
+605
+01:43:41.400 --> 01:43:51.690
+Lucas Bonanni: Está acá. Tenemos en la parte de presentación. Debería estar todo terminado para que yo les pueda dar un feedback. Así que en realidad.
+
+606
+01:43:52.900 --> 01:43:58.200
+Lucas Bonanni: acá más bien que revisamos los últimos detalles.
+
+607
+01:44:00.130 --> 01:44:04.209
+Lucas Bonanni: Bueno, podríamos revisar acá los últimos detalles y entregar
+
+608
+01:44:04.840 --> 01:44:11.949
+Lucas Bonanni: antes de llegar a es, o sea, el jueves 21, no como para
+
+609
+01:44:12.330 --> 01:44:14.380
+Lucas Bonanni: dar un poco más de tiempo.
+
+610
+01:44:14.650 --> 01:44:27.820
+Lucas Bonanni: Pero bueno, lo ideal sería tener o tenerlo terminado para el 15. Pero si el 22 ya tiene que estar porque tienen que tener la presentación, así que tiene que estar funcionando. Y así yo ya después, con el día que hagan esa presentación, yo les doy el feedback.
+
+611
+01:44:28.620 --> 01:44:29.600
+MORA OTEGUI: Perfecto.
+
+612
+01:44:43.500 --> 01:44:45.409
+Lucas Bonanni: Por tu corazón.
+
+613
+01:44:52.850 --> 01:44:57.209
+FACUNDO EMANUEL MODARELLI: Profe algún trabajo de ejemplo que podamos tomar como referencia.
+
+614
+01:44:58.580 --> 01:45:01.609
+Lucas Bonanni: Bien, buena pregunta. Tengo 1
+
+615
+01:45:06.890 --> 01:45:08.750
+Lucas Bonanni: el autóctono.
+
+616
+01:45:09.460 --> 01:45:13.739
+FACUNDO EMANUEL MODARELLI: Y el local está con otra pregunta y el local está que es simplemente para testear en
+
+617
+01:45:14.030 --> 01:45:18.269
+FACUNDO EMANUEL MODARELLI: para para conocer. Yo lo tengo instalado, me lo lo lo lo probé hace un tiempo, pero
+
+618
+01:45:18.460 --> 01:45:21.360
+FACUNDO EMANUEL MODARELLI: es, no forma parte del trabajo, no, sino que es para.
+
+619
+01:45:21.360 --> 01:45:22.310
+Lucas Bonanni: No, no.
+
+620
+01:45:22.640 --> 01:45:23.150
+FACUNDO EMANUEL MODARELLI: A hacer.
+
+621
+01:45:23.150 --> 01:45:28.739
+Lucas Bonanni: Para el laboratorio, tratar de hacer un ejercicio y poder ejecutarlo.
+
+622
+01:45:29.520 --> 01:45:30.310
+FACUNDO EMANUEL MODARELLI: Okay
+
+623
+01:45:34.810 --> 01:45:37.769
+FACUNDO EMANUEL MODARELLI: dejó de ser gratuito. No creo lo que destaca hace poquito.
+
+624
+01:45:39.720 --> 01:45:44.960
+Lucas Bonanni: No creo que sigue siendo gratuito. Los servicios? Sí, yo entré.
+
+625
+01:45:45.450 --> 01:45:48.490
+Lucas Bonanni: No sé, entre ahora, a principio de marzo.
+
+626
+01:45:52.080 --> 01:45:56.870
+Lucas Bonanni: Sé que, como digo, habían despertado. No sé a ver los tales están.
+
+627
+01:46:09.480 --> 01:46:17.130
+Lucas Bonanni: Entonces voy a subir. Acá Les dejo también subido el trabajo para el tipo.
+
+628
+01:46:41.490 --> 01:46:42.639
+Lucas Bonanni: No es un
+
+629
+01:46:42.960 --> 01:46:50.060
+Lucas Bonanni: modelo para qué igual lo vamos a ir viendo? Porque yo, la semana que viene, cuando veamos, lo decidimos, vamos a dar. Este reto.
+
+630
+01:46:50.240 --> 01:46:57.640
+Lucas Bonanni: No es algo para que sigan al pie de la letra, obviamente, pero una referencia no.
+
+631
+01:46:59.480 --> 01:47:02.239
+FACUNDO EMANUEL MODARELLI: Profe semana que viene, viernes feriado, no.
+
+632
+01:47:02.240 --> 01:47:04.439
+Lucas Bonanni: No vas a tener clase.
+
+633
+01:47:04.960 --> 01:47:05.640
+FACUNDO EMANUEL MODARELLI: Okay.
+
+634
+01:47:05.910 --> 01:47:09.119
+Lucas Bonanni: Sí, acá acá en la el calendario está
+
+635
+01:47:11.850 --> 01:47:13.680
+Lucas Bonanni: que está tan marcado como Feria. Ahora.
+
+636
+01:47:13.680 --> 01:47:14.790
+FACUNDO EMANUEL MODARELLI: bárbaro bárbaro.
+
+637
+01:47:18.220 --> 01:47:26.029
+Lucas Bonanni: Que sí bien. Y a ver lo que me decías, yo no lo vi.
+
+638
+01:47:26.450 --> 01:47:32.720
+Lucas Bonanni: pero como ahora me dejaste la duda porque, como digo, me enteré que hicieron.
+
+639
+01:47:37.420 --> 01:47:43.909
+FACUNDO EMANUEL MODARELLI: Sí antes. Como que era gratuito, yo me lo instalé en una máquina virtual de mi máquina cuando era gratuito hace unos meses
+
+640
+01:47:44.360 --> 01:47:47.559
+FACUNDO EMANUEL MODARELLI: y entiendo que habías leído que se acababa
+
+641
+01:47:47.920 --> 01:47:49.569
+FACUNDO EMANUEL MODARELLI: y ahora hay que pagar, digamos.
+
+642
+01:47:49.670 --> 01:47:52.639
+FACUNDO EMANUEL MODARELLI: me pareció por ahí. Me estoy confundiendo con otro.
+
+643
+01:47:53.850 --> 01:47:58.119
+Lucas Bonanni: No, yo entiendo a ver, mira, vamos a dar pricing.
+
+644
+01:48:00.880 --> 01:48:09.389
+Lucas Bonanni: Sí, A a mí me me dio, como digo, me dio la duda porque habían archivado el el proyecto de open source.
+
+645
+01:48:09.630 --> 01:48:19.499
+Lucas Bonanni: Pero a ver, vamos a ver lo que al estar por a doble s Y acá tenemos Free para Hobby, y tenemos hasta 30 servicios para emular.
+
+646
+01:48:19.770 --> 01:48:25.899
+Lucas Bonanni: Sí, tal vez no es todo completo. Puede ser Pero bueno, esto hasta lo que yo vi.
+
+647
+01:48:25.900 --> 01:48:27.110
+FACUNDO EMANUEL MODARELLI: Muchas.
+
+648
+01:48:27.110 --> 01:48:28.970
+Lucas Bonanni: Teníamos lo que nos interesa.
+
+649
+01:48:30.400 --> 01:48:33.030
+FACUNDO EMANUEL MODARELLI: Ah, bien, bien, bien.
+
+650
+01:48:33.690 --> 01:48:38.380
+Lucas Bonanni: Creo que acá. Yo había visto. No hice Muga Services.
+
+651
+01:48:38.380 --> 01:48:40.890
+FACUNDO EMANUEL MODARELLI: En el no.
+
+652
+01:48:45.780 --> 01:48:48.530
+Lucas Bonanni: Tenemos Chiriquín.
+
+653
+01:48:50.550 --> 01:48:51.220
+Lucas Bonanni: Mhm
+
+654
+01:49:00.530 --> 01:49:12.430
+Lucas Bonanni: Compute y containers, trae el hobby, lastic container. El K Sh mira, no está el K s de acá.
+
+655
+01:49:15.590 --> 01:49:19.999
+Lucas Bonanni: Bueno, igual. Ahora, yo lo confirmo con las dudas. Lo voy a correr de vuelta.
+
+656
+01:49:21.020 --> 01:49:25.739
+Lucas Bonanni: porque hasta donde yo sabía a ver cómo estoy compartiendo
+
+657
+01:49:27.360 --> 01:49:31.780
+Lucas Bonanni: a ver si les puedo mostrar lo que yo estuve haciendo.
+
+658
+01:50:34.780 --> 01:50:38.140
+Lucas Bonanni: Ahí está eso es
+
+659
+01:50:45.560 --> 01:50:46.830
+Lucas Bonanni: chao.
+
+660
+01:50:54.850 --> 01:50:58.120
+Lucas Bonanni: y al otro lado sobre Homo.
+
+661
+01:51:14.010 --> 01:51:17.239
+Lucas Bonanni: pero cada día has disfrutado un waker compost.
+
+662
+01:51:17.520 --> 01:51:22.170
+Lucas Bonanni: había puesto los módulos y había ejecutado un E. K. S.
+
+663
+01:51:25.210 --> 01:51:28.390
+FACUNDO EMANUEL MODARELLI: Claro, capaz que era antes de que se haga.
+
+664
+01:51:29.400 --> 01:51:30.310
+Lucas Bonanni: Sí.
+
+665
+01:51:30.310 --> 01:51:31.310
+FACUNDO EMANUEL MODARELLI: Que se.
+
+666
+01:51:31.310 --> 01:51:31.870
+Lucas Bonanni: De los.
+
+667
+01:51:31.870 --> 01:51:33.150
+FACUNDO EMANUEL MODARELLI: La notificación.
+
+668
+01:51:34.040 --> 01:51:35.380
+Lucas Bonanni: Cuándo te llegó.
+
+669
+01:51:36.040 --> 01:51:39.779
+FACUNDO EMANUEL MODARELLI: Me llevó ahí. La busco. Pero eso pasó un poquito.
+
+670
+01:51:40.290 --> 01:51:41.990
+Lucas Bonanni: Sí, porque
+
+671
+01:51:45.080 --> 01:51:47.499
+Lucas Bonanni: a ver esto, si tengo un histórico
+
+672
+01:51:53.300 --> 01:51:56.579
+Lucas Bonanni: no patriarcado, voy a querer.
+
+673
+01:52:07.700 --> 01:52:12.879
+FACUNDO EMANUEL MODARELLI: No, Seguramente quizás usaste el trial que te incluye casi todo
+
+674
+01:52:13.270 --> 01:52:17.150
+FACUNDO EMANUEL MODARELLI: y quizás se te acabó el en el.
+
+675
+01:52:17.150 --> 01:52:22.970
+Lucas Bonanni: No, no sé si me se me acabó porque nunca nunca me dejó de funcionar. Pero bueno, quiero saber, porque
+
+676
+01:52:23.240 --> 01:52:30.339
+Lucas Bonanni: para que ustedes también saber que si ustedes lo instalan, sabe que tenemos un cierto tiempo, me sirve para planificar. No.
+
+677
+01:52:30.510 --> 01:52:32.889
+Lucas Bonanni: yo lo sé. un mega en enero.
+
+678
+01:52:40.820 --> 01:52:42.340
+Lucas Bonanni: Me lo creo. Las cosas.
+
+679
+01:52:45.880 --> 01:52:49.380
+FACUNDO EMANUEL MODARELLI: Marzo de 2 016 cambió el modelo.
+
+680
+01:52:49.810 --> 01:52:51.690
+Lucas Bonanni: Puf gusto.
+
+681
+01:52:51.690 --> 01:52:52.520
+FACUNDO EMANUEL MODARELLI: Justo.
+
+682
+01:52:55.300 --> 01:53:00.570
+Lucas Bonanni: Bueno, yo lo yo lo voy a probar. Y dependiendo de eso, le subo, la la guía de la clase que viene.
+
+683
+01:53:05.420 --> 01:53:09.200
+FACUNDO EMANUEL MODARELLI: Desapareció ese tren secuestre, Daina Modibil, anda.
+
+684
+01:53:10.670 --> 01:53:11.340
+Lucas Bonanni: Claro.
+
+685
+01:53:14.030 --> 01:53:16.719
+FACUNDO EMANUEL MODARELLI: Hay otra opción, que es mini Stack, capaz que.
+
+686
+01:53:17.440 --> 01:53:18.859
+Lucas Bonanni: Mini Starck, a ver.
+
+687
+01:53:23.240 --> 01:53:24.710
+Lucas Bonanni: Alguien me iba a decir algo más
+
+688
+01:53:31.320 --> 01:53:32.749
+Lucas Bonanni: mixtar punto. O.
+
+689
+01:53:33.020 --> 01:53:34.820
+Lucas Bonanni: Esto está bueno.
+
+690
+01:53:42.540 --> 01:53:43.660
+Lucas Bonanni: buenísimo.
+
+691
+01:53:50.660 --> 01:53:52.100
+Lucas Bonanni: Sí.
+
+692
+01:53:52.480 --> 01:53:54.980
+FACUNDO EMANUEL MODARELLI: Magie y una.
+
+693
+01:53:58.630 --> 01:54:05.820
+Lucas Bonanni: Bueno, lo voy a ver. Y la clase que viene la confirmo a ver qué onda
+
+694
+01:54:18.620 --> 01:54:30.190
+Lucas Bonanni: a ver si lo podemos utilizar y hacer las pruebas. Yo quería hacer todo un flujo completo, no utilizando como mostraba ahí en el R Epo, la parte de
+
+695
+01:54:30.880 --> 01:54:39.200
+Lucas Bonanni: Terrafón y y simular el flujo completo y hacer el deplement de covernetters.
+
+696
+01:54:55.250 --> 01:55:00.600
+Lucas Bonanni: Excelente. Bueno, buen deporte. ¿ La verdad que genial no lo conocía, así que lo voy a probar.
+
+697
+01:55:22.920 --> 01:55:26.900
+FACUNDO EMANUEL MODARELLI: Y el que lo está desarrollando es un argentino. Nahuel usera.
+
+698
+01:55:27.580 --> 01:55:29.610
+Lucas Bonanni: Mira, sí, acá. Está.
+
+699
+01:55:30.210 --> 01:55:31.330
+Lucas Bonanni: Qué? Bueno.
+
+700
+01:55:35.040 --> 01:55:38.010
+FACUNDO EMANUEL MODARELLI: No lo probé. Recién lo encontré yo. Este no lo conocía.
+
+701
+01:55:38.870 --> 01:55:45.589
+Lucas Bonanni: Sí, Sí, yo tampoco. Así que no. Y aparte, está actualizado. Ya lo la puse acá
+
+702
+01:55:47.990 --> 01:55:54.260
+Lucas Bonanni: hace 3 días a ver hace 3 días. Dos días. Estamos actualizado el ritmo
+
+703
+01:56:12.640 --> 01:56:17.250
+Lucas Bonanni: genial. Y lo empezó. Bueno, todo hace 3 días.
+
+704
+01:56:22.320 --> 01:56:23.720
+Lucas Bonanni: buenísima.
+
+705
+01:56:28.240 --> 01:56:34.729
+Lucas Bonanni: Bueno, todo es cuestión de probarlo por lo menos una herramienta más, aunque por lo menos nos sirva para lo que teníamos pensado.
+
+706
+01:56:39.450 --> 01:56:51.140
+Lucas Bonanni: Está bueno, por lo menos vos lo que vamos a tratar de hacer por lo menos es configurarlo. No nos puede llegar a servir a a todos los que estemos en esto, para inclusive para probar nuestras aplicaciones.
+
+707
+01:56:52.780 --> 01:56:54.270
+Lucas Bonanni: es una herramienta más.
+
+708
+01:56:59.450 --> 01:57:00.350
+Lucas Bonanni: Sí, Sí.
+
+709
+01:57:00.350 --> 01:57:03.009
+FACUNDO EMANUEL MODARELLI: Tal cual hay que probarlo a ver qué tal va.
+
+710
+01:57:03.570 --> 01:57:04.500
+Lucas Bonanni: Sí, sí.
+
+711
+01:57:05.980 --> 01:57:10.580
+Lucas Bonanni: Así que y aparte, tenemos la la oportunidad de verlo
+
+712
+01:57:11.780 --> 01:57:15.219
+Lucas Bonanni: directamente. El desarrollo del proyecto también. No.
+
+713
+01:57:18.600 --> 01:57:19.470
+Lucas Bonanni: Bueno.
+
+714
+01:57:20.090 --> 01:57:26.770
+Lucas Bonanni: Excelente. Bueno, si no quedan nada más los los libros, vamos a quedar mirando sumando estos un poquito más.
+
+715
+01:57:29.910 --> 01:57:30.350
+FACUNDO EMANUEL MODARELLI: Gracias.
+
+716
+01:57:31.390 --> 01:57:34.570
+Lucas Bonanni: Buen finde chao, chao.
+
+717
+01:57:34.570 --> 01:57:35.779
+VALENTIN KRAJZELMAN: No profe.
+
+

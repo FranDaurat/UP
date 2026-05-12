@@ -1,0 +1,3115 @@
+WEBVTT
+
+1
+00:00:08.420 --> 00:00:09.300
+Adrian Ezequiel Mart�nez: Ahí está.
+
+2
+00:00:13.800 --> 00:00:17.200
+Adrian Ezequiel Mart�nez: Bueno, hoy vamos a a continuar con la misma
+
+3
+00:00:17.630 --> 00:00:20.869
+Adrian Ezequiel Mart�nez: con con la misma. P, P, T de de la clase pasada.
+
+4
+00:00:21.940 --> 00:00:32.110
+Adrian Ezequiel Mart�nez: Desde no sé, nos habíamos quedado en en estados y sesiones. Y ahora arrancamos desde funcionalidad web
+
+5
+00:00:39.900 --> 00:00:43.860
+Adrian Ezequiel Mart�nez: por resto de aus ahí está.
+
+6
+00:00:44.770 --> 00:00:45.820
+Adrian Ezequiel Mart�nez: Mhm.
+
+7
+00:00:49.580 --> 00:00:57.879
+Adrian Ezequiel Mart�nez: Bueno, hasta ahora habíamos visto cómo funciona. H, T, T, P: Pero todavía no hablamos de qué tecnologías se ejecutan
+
+8
+00:00:58.000 --> 00:00:59.930
+Adrian Ezequiel Mart�nez: las aplicaciones
+
+9
+00:01:00.770 --> 00:01:14.690
+Adrian Ezequiel Mart�nez: y las aplicaciones modernas tienen 2 partes iniciales. Como Como bien sabemos, la parte de Backend y las de Frontend, la de Backend corresponde al servidor y la de Frontend al
+
+10
+00:01:15.250 --> 00:01:16.699
+Adrian Ezequiel Mart�nez: al cliente.
+
+11
+00:01:17.360 --> 00:01:19.109
+Adrian Ezequiel Mart�nez: Primero vamos a
+
+12
+00:01:19.920 --> 00:01:29.490
+Adrian Ezequiel Mart�nez: a a ver las de las que corresponden a a Bakend, donde podemos encontrar la las aplicaciones web que pueden estar escritas en distintos lenguajes, como
+
+13
+00:01:29.760 --> 00:01:37.540
+Adrian Ezequiel Mart�nez: como bien comenta acá en Ph P. Java Python Perl en distintas este plataformas.
+
+14
+00:01:38.090 --> 00:01:41.690
+Adrian Ezequiel Mart�nez: como a S. P. Sprint, Django, etcétera.
+
+15
+00:01:41.810 --> 00:01:43.230
+Adrian Ezequiel Mart�nez: También.
+
+16
+00:01:43.460 --> 00:01:50.569
+Adrian Ezequiel Mart�nez: Este del del lado del del servidor nos podemos encontrar
+
+17
+00:01:50.900 --> 00:01:57.870
+Adrian Ezequiel Mart�nez: con con Ap con E con equipos como Iginex, Apache, el information service Tomcat.
+
+18
+00:01:58.930 --> 00:02:05.689
+Adrian Ezequiel Mart�nez: Y finalmente, también vamos a a interactuar con bases de datos relacionales como
+
+19
+00:02:05.930 --> 00:02:16.679
+Adrian Ezequiel Mart�nez: S. Q. L. Ahora que el My s. Q. L. Otras tipo de base de datos No, no. S. Q. L, como mongo, por ejemplo, Casandra o o Elastic.
+
+20
+00:02:18.140 --> 00:02:25.050
+Adrian Ezequiel Mart�nez: y también en el backud. Vamos a encontrar otros componentes, como sistemas de archivos, servicios web basados en
+
+21
+00:02:25.370 --> 00:02:29.329
+Adrian Ezequiel Mart�nez: en Zoab, Andrest y y otros servicios.
+
+22
+00:02:30.030 --> 00:02:39.709
+Adrian Ezequiel Mart�nez: Como Como ejemplo de de ¡Ay, me perdí perdón de de backend este también podemos
+
+23
+00:02:40.140 --> 00:02:50.950
+Adrian Ezequiel Mart�nez: que, como bien este se seguramente imaginan cómo procesar un login consultas a la base de datos, cálculos, validación de permisos, etcétera, que ya vamos a estar viendo en
+
+24
+00:02:51.230 --> 00:03:01.429
+Adrian Ezequiel Mart�nez: en en las próximas clases, por ejemplo, l sitios como Netflix, Amazon, Spotify, etcétera, etcétera.
+
+25
+00:03:01.560 --> 00:03:06.980
+Adrian Ezequiel Mart�nez: utilizan muchos de estas tecnologías al mismo tiempo como el de
+
+26
+00:03:07.090 --> 00:03:10.790
+Adrian Ezequiel Mart�nez: de pensar, no no se casan con ninguna en particular.
+
+27
+00:03:10.960 --> 00:03:20.289
+Adrian Ezequiel Mart�nez: y por eso se se dice que tienen arquitecturas también distribuidas, a pesar de ha hablando tecnológicamente.
+
+28
+00:03:28.520 --> 00:03:33.340
+Adrian Ezequiel Mart�nez: En cuanto al al lado del cliente, ya habíamos comentado que era
+
+29
+00:03:33.770 --> 00:03:48.879
+Adrian Ezequiel Mart�nez: del lado del nave del navegador web principalmente. Y aquí encontramos tecnologías. Las las más fundamentales que podemos comentar son. Htt: H. T. M. L. Que es la que le da la estructura Css, que es el el estilo visual
+
+30
+00:03:49.200 --> 00:03:53.270
+Adrian Ezequiel Mart�nez: y Javascript, que es lo que permite la la interacción
+
+31
+00:03:54.010 --> 00:04:00.210
+Adrian Ezequiel Mart�nez: y el navegador. Además de de tener estas estos 3 componentes en la interfaz.
+
+32
+00:04:00.680 --> 00:04:05.060
+Adrian Ezequiel Mart�nez: este también tienen algo que se llama don, que es el modelo de objetos
+
+33
+00:04:05.260 --> 00:04:08.950
+Adrian Ezequiel Mart�nez: de de documentos doc, do documentos en model
+
+34
+00:04:09.080 --> 00:04:15.740
+Adrian Ezequiel Mart�nez: que lo que permite, por ejemplo, es mediante javascript manipular la página.
+
+35
+00:04:15.920 --> 00:04:21.769
+Adrian Ezequiel Mart�nez: Seguramente Veamos algunos ejemplos más más adentrado en otros temas más adelante.
+
+36
+00:04:21.870 --> 00:04:34.079
+Adrian Ezequiel Mart�nez: pero, por ejemplo, se pueden cambiar textos. Bueno, ya seguramente lo los que programan, lo lo saben también. Cambiar textos, ocultar imágenes, jugar un poquito con con los request.
+
+37
+00:04:38.400 --> 00:04:39.400
+SOFIA LIBERTAD VELAZCO MONTAGNA: Sí.
+
+38
+00:04:40.660 --> 00:04:41.980
+Adrian Ezequiel Mart�nez: Sí, perdón.
+
+39
+00:04:45.120 --> 00:04:55.570
+Adrian Ezequiel Mart�nez: Sigo este ahora puntualmente. En cuanto a los hipervínculos o links en en los formularios.
+
+40
+00:04:55.630 --> 00:05:08.310
+Adrian Ezequiel Mart�nez: permiten H. T Ml le permite interactuar con el servidor mediante los links. Valga la redundancia, también conocidos como hipervínculos a través de los formularios.
+
+41
+00:05:08.650 --> 00:05:14.740
+Adrian Ezequiel Mart�nez: como por ejemplo, acá no sé si llega a ver bien, pero acá, tenemos un un Imperlink.
+
+42
+00:05:14.960 --> 00:05:22.860
+Adrian Ezequiel Mart�nez: una referencia que hace cuando 1 hace click lo que está pasando es invocar
+
+43
+00:05:23.090 --> 00:05:35.970
+Adrian Ezequiel Mart�nez: esta e esta línea del html y hacer una redirección a Update update 29 html si se acuerdan del pequeño arbolito.
+
+44
+00:05:36.770 --> 00:05:48.239
+Adrian Ezequiel Mart�nez: como si fuese una representación de de unix. Este Esto sería en una carpeta, es en realidad una carpeta, y este el el archivo que se va a renderizar luego de que
+
+45
+00:05:48.740 --> 00:05:51.610
+Adrian Ezequiel Mart�nez: se se se ejecuta el el request
+
+46
+00:05:53.400 --> 00:05:58.170
+Adrian Ezequiel Mart�nez: y lo que se estaría ejecutando internamente es un get de
+
+47
+00:05:58.590 --> 00:06:00.930
+Adrian Ezequiel Mart�nez: de de ese H, T. M. L,
+
+48
+00:06:01.540 --> 00:06:05.690
+Adrian Ezequiel Mart�nez: Con Con su configuración, el Host, dónde está, etcétera.
+
+49
+00:06:10.300 --> 00:06:20.689
+Adrian Ezequiel Mart�nez: Y cuan el de del otro lado. Lo que lo que tenemos también es que cuando se se ejecute esa llamada, se se retorna
+
+50
+00:06:20.950 --> 00:06:39.829
+Adrian Ezequiel Mart�nez: un un request como pudimos ya conversar la clase pasada con un montón de componentes como como cookies como distintos atributos. En En realidad, las cookies son son una de ellas donde podemos también ver que tiene un un verbo, un
+
+51
+00:06:40.020 --> 00:06:44.370
+Adrian Ezequiel Mart�nez: un Host que es de dónde viene un contentty, que es el tipo de
+
+52
+00:06:44.470 --> 00:06:52.029
+Adrian Ezequiel Mart�nez: de de contenido del mensaje que que se está recibiendo para poder ser interpretado un leng.
+
+53
+00:06:52.410 --> 00:06:59.739
+Adrian Ezequiel Mart�nez: que es el el el peso y y las cookies acá. En este caso las estamos viendo. Y en el body.
+
+54
+00:06:59.860 --> 00:07:04.739
+Adrian Ezequiel Mart�nez: básicamente podríamos encontrar o o o en un o en algún
+
+55
+00:07:05.310 --> 00:07:11.960
+Adrian Ezequiel Mart�nez: en algún script. Seguramente podríamos encontrar parámetros, como por ejemplo, usuario, password, etc.
+
+56
+00:07:14.370 --> 00:07:18.180
+Adrian Ezequiel Mart�nez: Después vamos a a hacer un un pequeño ejemplito de eso.
+
+57
+00:07:21.700 --> 00:07:32.579
+Adrian Ezequiel Mart�nez: Después tenemos algo que pod que conocemos como formularios Multipark, que son formularios que pueden tener distintos tipos de de comunicación
+
+58
+00:07:32.770 --> 00:07:41.609
+Adrian Ezequiel Mart�nez: principalmente se utilizan para para hacer el uplog de archivos, fotos, documentos, etcétera, etcétera.
+
+59
+00:07:42.600 --> 00:07:54.759
+Adrian Ezequiel Mart�nez: y como, por ejemplo, se los se los marca como en el Contenttype, que es el el tipo de contenido, se los puede encontrar como multipar form data
+
+60
+00:07:55.670 --> 00:07:59.919
+Adrian Ezequiel Mart�nez: de, y después el el el mismo.
+
+61
+00:08:00.940 --> 00:08:05.509
+Adrian Ezequiel Mart�nez: el el mismo, fichero, el perdón, el mismo archivo H. T. M. L. Continúa con
+
+62
+00:08:05.780 --> 00:08:24.690
+Adrian Ezequiel Mart�nez: con los mismos parámetros que que podemos ver antes como la disposición. Esto está referido a los S S también a a otros tipos de archivos que se pueden estar invocando en este caso puede estar haciendo referencia a algún archivo en Php a un botón Summiet.
+
+63
+00:08:25.060 --> 00:08:26.070
+Adrian Ezequiel Mart�nez: también
+
+64
+00:08:30.390 --> 00:08:40.039
+Adrian Ezequiel Mart�nez: en como un un ejemplo práctico sería que cuando 1 sube una foto a un a una red social, lo que se este, lo que se estaría enviando es un es un multipark.
+
+65
+00:08:40.659 --> 00:08:42.729
+Adrian Ezequiel Mart�nez: pero del del tipo ricost.
+
+66
+00:08:50.390 --> 00:09:02.899
+Adrian Ezequiel Mart�nez: el como seguramente vieron en en en otras materias, y también se se comentó recién el don es una representación del documento Html en forma de árbol, no donde tiene otro
+
+67
+00:09:03.400 --> 00:09:10.449
+Adrian Ezequiel Mart�nez: otra otra forma de de representación. El ejemplo práctico es a ver si lo puedo ver desde acá
+
+68
+00:09:10.570 --> 00:09:20.320
+Adrian Ezequiel Mart�nez: y mostrarles 1 pu pum alguno. Así al azar.
+
+69
+00:09:22.870 --> 00:09:30.559
+Adrian Ezequiel Mart�nez: como sería la representación. Esto podría ser un ejemplo de representación en forma de árbol, básicamente donde están
+
+70
+00:09:30.960 --> 00:09:38.099
+Adrian Ezequiel Mart�nez: el el Tag H T. M. L. Después tenemos el tag del Body. Acá podemos jugar con las distintas ramas.
+
+71
+00:09:38.220 --> 00:09:44.229
+Adrian Ezequiel Mart�nez: Tenemos o otro nodo. Puede ser un div que adentro. Tiene distintos
+
+72
+00:09:44.340 --> 00:09:47.969
+Adrian Ezequiel Mart�nez: tipos distintos nodos en este caso un Div también
+
+73
+00:09:48.540 --> 00:09:54.600
+Adrian Ezequiel Mart�nez: distintos elementos anidados, Acá un H, 2, un texto con un
+
+74
+00:09:55.020 --> 00:09:58.480
+Adrian Ezequiel Mart�nez: con un determinado, con una determinada configuración.
+
+75
+00:09:59.150 --> 00:10:03.170
+Adrian Ezequiel Mart�nez: un párrafo. Estos son son todos nodos. Son son todos
+
+76
+00:10:03.340 --> 00:10:08.539
+Adrian Ezequiel Mart�nez: sí nodos de objetos del árbol del domo.
+
+77
+00:10:08.720 --> 00:10:11.150
+Adrian Ezequiel Mart�nez: como Acá está representado en esta pequeña imagen.
+
+78
+00:10:12.040 --> 00:10:22.210
+Adrian Ezequiel Mart�nez: Esto va a permitir a a Javascript, como comentamos al al comienzo, modificar textos, agregar elementos o eliminar contenidos.
+
+79
+00:10:22.950 --> 00:10:38.309
+Adrian Ezequiel Mart�nez: Muchos habrán habrán escuchado del del Tag del de la sintaxis document Getmainbayd. Eso es una Ma. Una de las maneras de de acceder a 1 de de estos
+
+80
+00:10:38.600 --> 00:10:43.090
+Adrian Ezequiel Mart�nez: de estos objetos. No sé si se acuerdan. La La semana pasada.
+
+81
+00:10:44.050 --> 00:10:48.789
+Adrian Ezequiel Mart�nez: cuando vimos el en la consola.
+
+82
+00:10:53.580 --> 00:11:02.489
+Adrian Ezequiel Mart�nez: el por ejemplo, el el objeto navigator y adentro tiene distintos tipos de
+
+83
+00:11:02.740 --> 00:11:09.910
+Adrian Ezequiel Mart�nez: de parámetros, como el el vendor, el producto, etcétera, etcétera. Esto se se pueden consultar
+
+84
+00:11:13.650 --> 00:11:18.400
+Adrian Ezequiel Mart�nez: sin sin inconvenientes. Esto es parte de un objeto don llamado Navigator.
+
+85
+00:11:25.270 --> 00:11:33.990
+Adrian Ezequiel Mart�nez: Otra de de de las tecnologías es el el Jason o Javascript javascribe Otion notation.
+
+86
+00:11:34.360 --> 00:11:38.380
+Adrian Ezequiel Mart�nez: que es un formato para expresar básicamente objetos de javascript.
+
+87
+00:11:38.680 --> 00:11:51.010
+Adrian Ezequiel Mart�nez: y se puede utilizar para transferir datos de una manera muy muy sencilla. Hay maneras de hacerlo de de aún comprimir mucho más este este tipo de de notación.
+
+88
+00:11:51.280 --> 00:11:57.809
+Adrian Ezequiel Mart�nez: que que en el fondo es un par nombre de valor
+
+89
+00:11:58.070 --> 00:12:06.240
+Adrian Ezequiel Mart�nez: y adentro se puede anidar, por ejemplo, de diferentes maneras, formando una estructura
+
+90
+00:12:07.030 --> 00:12:12.440
+Adrian Ezequiel Mart�nez: que no, no, no tiene por qué ser sencilla puede ser muy compleja, y
+
+91
+00:12:12.610 --> 00:12:18.010
+Adrian Ezequiel Mart�nez: este se navega de de la misma manera que que tuvimos acá. En el ejemplo.
+
+92
+00:12:18.690 --> 00:12:24.330
+Adrian Ezequiel Mart�nez: Esto podría ser un un objeto navigator y un y el atributo product de de un Jason
+
+93
+00:12:24.880 --> 00:12:26.429
+Adrian Ezequiel Mart�nez: Ni ni más ni menos.
+
+94
+00:12:35.160 --> 00:12:44.410
+Adrian Ezequiel Mart�nez: Ahora pasamos a a a esquemas de de codificación, donde muchas veces.
+
+95
+00:12:44.840 --> 00:13:01.880
+Adrian Ezequiel Mart�nez: como como bien sabemos, Htm Http y Html están basados en texto y muchas veces es necesario transmitir caracteres, datos, datos binarios, símbolos y por ello existen los esquemas de de decodificación. Entre los más importantes.
+
+96
+00:13:02.000 --> 00:13:14.059
+Adrian Ezequiel Mart�nez: Tenemos estos mecanismos que seguramente los los conocen, que son aquí únicode bueno. Html ya hablamos y distintos tipos de de codificación
+
+97
+00:13:14.280 --> 00:13:17.389
+Adrian Ezequiel Mart�nez: como base 64, y y el hexadecimal.
+
+98
+00:13:22.850 --> 00:13:31.759
+Adrian Ezequiel Mart�nez: Esto no sé si se llega a ver bien, pero acá hay un Pe. Aquí hay un pequeño jueguito que es, por ejemplo, la tabla Aski es una
+
+99
+00:13:32.500 --> 00:13:40.629
+Adrian Ezequiel Mart�nez: una representación de de caracteres y después este tenemos lo que se llama
+
+100
+00:13:40.900 --> 00:13:45.340
+Adrian Ezequiel Mart�nez: Aski extendido que, como bien pueden ver el Aski.
+
+101
+00:13:45.670 --> 00:13:54.869
+Adrian Ezequiel Mart�nez: Ahora vamos a a conversar un poquito sobre esto. El Aski llega hasta 100 veinti 6 127
+
+102
+00:13:55.010 --> 00:13:57.779
+Adrian Ezequiel Mart�nez: lugares caracteres imprimibles.
+
+103
+00:13:58.160 --> 00:14:10.840
+Adrian Ezequiel Mart�nez: y el cua y el extendido se ocupa de llegar hasta los 200 a agregar un de 128 a 255 caracteres es una extensión.
+
+104
+00:14:12.460 --> 00:14:32.290
+Adrian Ezequiel Mart�nez: La diferencia fundamental entre 1 y otro radica en la cantidad de bits utilizados y el rango de caracteres que pueden representar. Como Como les comenté ayer, recién perdón el aski estándar, que es este, que que vemos acá en imagen, utiliza 7 bits para codificar 127 caracteres
+
+105
+00:14:34.170 --> 00:14:42.970
+Adrian Ezequiel Mart�nez: que van del del 0 al 100, 26 mientras que el extendido que es la la App T, que sigue.
+
+106
+00:14:44.630 --> 00:14:56.149
+Adrian Ezequiel Mart�nez: Aprovecha un 1, un Beat más. El octavo Vip para añadir 128 caracteres van de 128 de 127 en 127. Perdón.
+
+107
+00:14:57.450 --> 00:15:03.680
+Adrian Ezequiel Mart�nez: Esto permite agregar, No sé si llega a ver bien, acá. Pero podemos hacer zoom, Ahí está
+
+108
+00:15:04.720 --> 00:15:12.869
+Adrian Ezequiel Mart�nez: permita agregar acentos, por ejemplo, o diferentes caracteres que no son que que son
+
+109
+00:15:13.300 --> 00:15:18.520
+Adrian Ezequiel Mart�nez: representados en en el resto de de las lenguas.
+
+110
+00:15:18.660 --> 00:15:27.250
+Adrian Ezequiel Mart�nez: El El Asky representa únicamente la la lengua inglesa, mientras que el que el extendido representa
+
+111
+00:15:27.750 --> 00:15:36.539
+Adrian Ezequiel Mart�nez: el los caracteres que la lengua inglesa no N no tiene caracteres signos, etcétera, como, por ejemplo, la la ñ
+
+112
+00:15:36.660 --> 00:15:40.480
+Adrian Ezequiel Mart�nez: o o las o las letras con tilde de del español
+
+113
+00:15:41.310 --> 00:15:54.020
+Adrian Ezequiel Mart�nez: el Aski, extendido como como bien pueden interpretar no es único ni universal, y los caracteres asignados entre los códigos, 128 y 255,
+
+114
+00:15:54.260 --> 00:15:58.770
+Adrian Ezequiel Mart�nez: además de incluir acentos, símbolos, letras.
+
+115
+00:15:58.920 --> 00:16:02.020
+Adrian Ezequiel Mart�nez: etcétera, son signos de de varios idiomas.
+
+116
+00:16:02.430 --> 00:16:08.409
+Adrian Ezequiel Mart�nez: La diferencia, como bien les comentaba entre los caracteres, varía según la página de del código
+
+117
+00:16:08.590 --> 00:16:14.450
+Adrian Ezequiel Mart�nez: con la página del código. Me refiero al código desarrollado para Pari B M para
+
+118
+00:16:14.620 --> 00:16:17.959
+Adrian Ezequiel Mart�nez: para sistemas Macintosh para o distintas
+
+119
+00:16:18.740 --> 00:16:23.939
+Adrian Ezequiel Mart�nez: normativas, como la I S, o 888 59.
+
+120
+00:16:24.280 --> 00:16:35.939
+Adrian Ezequiel Mart�nez: Esto básicamente lo que puede provocar es que los caracteres se muestren corruptos en un sistema distinto, el cual no utiliza la la misma codificación extendida.
+
+121
+00:16:36.980 --> 00:16:44.389
+Adrian Ezequiel Mart�nez: Por esta razón, aunque el comienzo de de aunque el comienzo de Lasky.
+
+122
+00:16:45.050 --> 00:16:48.480
+Adrian Ezequiel Mart�nez: que va del 0 al 126
+
+123
+00:16:49.270 --> 00:16:55.110
+Adrian Ezequiel Mart�nez: se mantiene igual en todos los sistemas. El El tramo que le sigue, que es la tercera tablita.
+
+124
+00:16:55.840 --> 00:17:01.030
+Adrian Ezequiel Mart�nez: Este depende del fabricante o o el software. Muchas veces
+
+125
+00:17:01.350 --> 00:17:11.170
+Adrian Ezequiel Mart�nez: siendo el el la codificación u T. F Ocho. La alternativa moderna preferida que asegure esta compatibilidad que les comentaba antes.
+
+126
+00:17:11.260 --> 00:17:26.830
+Adrian Ezequiel Mart�nez: Por ejemplo, si tenemos que que I, B, M tiene un un extendido, muy parti, un un una tabla de de extensión distinta a la de Mac o o otros sistemas, como, por ejemplo, Iso.
+
+127
+00:17:26.849 --> 00:17:32.199
+Adrian Ezequiel Mart�nez: Lo que se garantiza es que unificar unificar todo mediante el U T, F
+
+128
+00:17:32.900 --> 00:17:43.860
+Adrian Ezequiel Mart�nez: y En, y eso hace que entre los sistemas que usan la parte extendida del Aski no tenga nin no no sean susceptibles a
+
+129
+00:17:44.040 --> 00:17:52.350
+Adrian Ezequiel Mart�nez: a inconvenientes con con los caracteres, aunque pueda haber alguna diferencia.
+
+130
+00:17:55.230 --> 00:18:06.610
+Adrian Ezequiel Mart�nez: En cuanto a hay unicode. Es un es un estándar que permite representar caracteres en todos los idiomas como i idiomas de de de distintas lenguas ¿no?
+
+131
+00:18:06.760 --> 00:18:20.369
+Adrian Ezequiel Mart�nez: Y existen varias implementaciones, como podemos ver Acá que son 8, 16 y 32, básicamente el el 8, el 16 y el 32 son es la codificación en en Bits.
+
+132
+00:18:21.940 --> 00:18:33.310
+Adrian Ezequiel Mart�nez: el ute F 8. La diferencia principal radica en el tamaño de los bytes utilizados para codificar cada carácter y su compatibilidad con con el Aski
+
+133
+00:18:33.680 --> 00:18:39.439
+Adrian Ezequiel Mart�nez: es el el U T. F. Ocho. Es el formato más más eficiente para textos en inglés.
+
+134
+00:18:39.830 --> 00:18:46.720
+Adrian Ezequiel Mart�nez: Y ya que usa, si mal no recuerdo entre 1 y 4 Byte que
+
+135
+00:18:47.440 --> 00:19:00.890
+Adrian Ezequiel Mart�nez: que tiene mayor de los cuales tienen mayor compatibilidad con A con el Aski, mientras que el U T. F, 2, 16, perdón, utiliza 2 o o 4 Byte y el estándar nativo en sistemas Windows
+
+136
+00:19:01.180 --> 00:19:07.530
+Adrian Ezequiel Mart�nez: y el U T. F, 32. Si mal, no recuerdo, usa siempre 4 Byte fijos para cualquier carácter
+
+137
+00:19:07.820 --> 00:19:11.319
+Adrian Ezequiel Mart�nez: es el el que menos comp menos complica las cosas.
+
+138
+00:19:11.620 --> 00:19:21.810
+Adrian Ezequiel Mart�nez: ofreciendo simplicidad al momento de procesar, pero mayor consumo de memoria, dado que utiliza este más cantidad de bits, No, Obviamente.
+
+139
+00:19:22.800 --> 00:19:33.030
+Adrian Ezequiel Mart�nez: en cuanto a las características técnicas y los casos de uso, los podemos resumir en lo que comentamos recién que un Tf 8 utiliza duna 4 Byte
+
+140
+00:19:33.490 --> 00:19:38.300
+Adrian Ezequiel Mart�nez: y es compatible con Aski, lo que hace muy eficiente para los textos en inglés.
+
+141
+00:19:38.600 --> 00:19:45.170
+Adrian Ezequiel Mart�nez: el u T F de 16 utiliza de 2 a 4 Byte por por carácter
+
+142
+00:19:46.310 --> 00:19:50.970
+Adrian Ezequiel Mart�nez: y es muy eficiente en en idiomas asiáticos como el chino o el japonés.
+
+143
+00:19:51.240 --> 00:19:58.240
+Adrian Ezequiel Mart�nez: donde el u T. F. Ocho me parece que utilizaría 3 Byte, tendría que hacerlo.
+
+144
+00:19:58.680 --> 00:20:03.600
+Adrian Ezequiel Mart�nez: Tendría que haber alguna tableta, pero entiendo que utiliza que que utilizaría 3 Byte
+
+145
+00:20:04.430 --> 00:20:14.579
+Adrian Ezequiel Mart�nez: y y obviamente, el u T. F 16 es el formato nativo de de Windows y y Java, pero no es compatible con Aski y
+
+146
+00:20:14.920 --> 00:20:20.150
+Adrian Ezequiel Mart�nez: y es poco eficiente en textos predominantes en en idioma inglés.
+
+147
+00:20:21.670 --> 00:20:27.720
+Adrian Ezequiel Mart�nez: En cambio, el como les comenté, el a modo de resumen, el U T. F. 32 utiliza bytes
+
+148
+00:20:28.160 --> 00:20:34.619
+Adrian Ezequiel Mart�nez: utiliza 4 Byte, o sea, 32 bits básicamente fijos. Para cada carácter.
+
+149
+00:20:35.270 --> 00:20:54.980
+Adrian Ezequiel Mart�nez: Es una codificación directa y muy simple, sin necesidad de manejar pares de sustituciones o o longitudes variables, y es ideal para el procesamiento interno de de texto donde el tamaño no es un límite, pero es ineficiente para
+
+150
+00:20:55.080 --> 00:21:00.040
+Adrian Ezequiel Mart�nez: para almacenarlo Al ocupar 4 veces más que un kilotefi a 8.
+
+151
+00:21:03.810 --> 00:21:05.990
+Adrian Ezequiel Mart�nez: En cuanto a al
+
+152
+00:21:06.280 --> 00:21:14.039
+Adrian Ezequiel Mart�nez: a la elección de cada 1 depende del contexto. El u T, F. Ocho es ideal para para la web y para
+
+153
+00:21:14.550 --> 00:21:18.630
+Adrian Ezequiel Mart�nez: para una in interoperabilidad global.
+
+154
+00:21:19.320 --> 00:21:27.410
+Adrian Ezequiel Mart�nez: El el U T. F. Dieciséis es preferible en aplicaciones que manejan muchos volúmenes de caracteres suplementarios, o Windows.
+
+155
+00:21:27.600 --> 00:21:29.020
+Adrian Ezequiel Mart�nez: básicamente
+
+156
+00:21:29.610 --> 00:21:37.539
+Adrian Ezequiel Mart�nez: y el U T. F. 32 se reserva para casos donde se requiere una manipulación de texto muy sencilla y uniforme.
+
+157
+00:21:38.000 --> 00:21:43.210
+Adrian Ezequiel Mart�nez: y no nos tenemos que preocupar de del espacio de de almacenamiento.
+
+158
+00:21:51.540 --> 00:21:53.609
+Adrian Ezequiel Mart�nez: Y acá es donde se pone divertido.
+
+159
+00:21:55.540 --> 00:22:03.300
+Adrian Ezequiel Mart�nez: En en H. T, T, P, Los caracteres especiales se codifican usando una técnica que se llama
+
+160
+00:22:03.410 --> 00:22:12.570
+Adrian Ezequiel Mart�nez: u R. L. En Coding, como por ejemplo, esto que tenemos, acá representa el
+
+161
+00:22:12.840 --> 00:22:21.850
+Adrian Ezequiel Mart�nez: el loguito de de marca registrada que de acuerdo al al idioma, es una C, una R o U o una T, M,
+
+162
+00:22:22.180 --> 00:22:27.529
+Adrian Ezequiel Mart�nez: De acuerdo al al país que eso viene atado a lo que les comentaba antes, también
+
+163
+00:22:28.040 --> 00:22:35.050
+Adrian Ezequiel Mart�nez: de de si es habla inglesa, asiática o o u otra lengua.
+
+164
+00:22:36.460 --> 00:22:43.219
+Adrian Ezequiel Mart�nez: De hecho, va a cambiar la tablita. Esta Acá figura, por ejemplo.
+
+165
+00:22:43.590 --> 00:22:44.650
+Adrian Ezequiel Mart�nez: Mhm.
+
+166
+00:22:45.730 --> 00:22:47.260
+Adrian Ezequiel Mart�nez: Con una R.
+
+167
+00:22:48.170 --> 00:22:53.000
+Adrian Ezequiel Mart�nez: 169 con una R, y en otros casos puede figurar con
+
+168
+00:22:53.550 --> 00:23:01.260
+Adrian Ezequiel Mart�nez: con la estampa de del aseo con T. M. Acá 100 chico en 184 suelen permutarse también
+
+169
+00:23:06.370 --> 00:23:16.290
+Adrian Ezequiel Mart�nez: acá la La pregunta divertida es, como representar este el un un carácter en en esto.
+
+170
+00:23:17.220 --> 00:23:18.420
+Adrian Ezequiel Mart�nez: Este el
+
+171
+00:23:19.310 --> 00:23:34.639
+Adrian Ezequiel Mart�nez: esto es la representación. Básicamente es la representación hexadecimal de 2 Byte del carácter copyright en cualquiera de sus versiones, No, T. Mr: es indistinto de de este carácter
+
+172
+00:23:35.930 --> 00:23:39.510
+Adrian Ezequiel Mart�nez: el este código. El porcentaje es Co. Dos.
+
+173
+00:23:40.420 --> 00:23:46.159
+Adrian Ezequiel Mart�nez: Corresponde a al al by 0 X C, 2
+
+174
+00:23:46.780 --> 00:24:03.830
+Adrian Ezequiel Mart�nez: y el porcentaje a 9 corresponde al byte X a 9 en hexadecimal siempre hablando, no los cuales juntos forman un un carácter único que no tienen por qué saberlo. Obviamente, la la tablita se encuentra en Internet, así que no, no sé, no.
+
+175
+00:24:04.120 --> 00:24:10.419
+Adrian Ezequiel Mart�nez: no, no, no hay, no hay que aprenderla. Yo me la sé porque la usé un par de veces
+
+176
+00:24:10.840 --> 00:24:17.209
+Adrian Ezequiel Mart�nez: que re se representa como el 0 0 a 9, y el carácter resultante es el
+
+177
+00:24:17.550 --> 00:24:19.869
+Adrian Ezequiel Mart�nez: el carácter de de copyright.
+
+178
+00:24:20.370 --> 00:24:29.360
+Adrian Ezequiel Mart�nez: Lo Lo interesante es que el el hexadecimal es la suma en hexadecimal, se puede representar como C 2 a 9.
+
+179
+00:24:30.080 --> 00:24:36.240
+Adrian Ezequiel Mart�nez: Y como son 2 este 2 Byte, cada byte lo representamos con el
+
+180
+00:24:37.630 --> 00:24:39.900
+Adrian Ezequiel Mart�nez: con el carácter de por 100.
+
+181
+00:24:43.780 --> 00:24:53.410
+Adrian Ezequiel Mart�nez: Esto cuando lo convertimos a u Tf. Ocho implica codificar primero los valores hexadecimales como bien vemos acá.
+
+182
+00:24:54.170 --> 00:25:00.740
+Adrian Ezequiel Mart�nez: Y luego in interpretar los los valores, los los bytes resultantes, perdón.
+
+183
+00:25:01.460 --> 00:25:05.750
+Adrian Ezequiel Mart�nez: como les les comenté a ahora, el un
+
+184
+00:25:06.120 --> 00:25:12.510
+Adrian Ezequiel Mart�nez: ahora viene el porqué de la tablita, por ejemplo, porque los valores C, 2, y a 9,
+
+185
+00:25:12.800 --> 00:25:16.000
+Adrian Ezequiel Mart�nez: cuando los o sea de dónde vienen. ¿no?
+
+186
+00:25:16.250 --> 00:25:22.450
+Adrian Ezequiel Mart�nez: Como bien les les comenté, y espero que me hayan creído, son los valores en Hexadecimal
+
+187
+00:25:22.810 --> 00:25:27.779
+Adrian Ezequiel Mart�nez: para para representar este carácter en U T, f 8
+
+188
+00:25:28.440 --> 00:25:44.410
+Adrian Ezequiel Mart�nez: derivado de un código de unicode que se se escribe como U mayúscula más 0, 0, ¿Nueve?
+
+189
+00:25:46.170 --> 00:25:55.080
+Adrian Ezequiel Mart�nez: ¿de ¿De dónde viene este esta representación de esta tablita.
+
+190
+00:25:58.250 --> 00:26:04.070
+Adrian Ezequiel Mart�nez: donde 169 es la
+
+191
+00:26:04.840 --> 00:26:09.860
+Adrian Ezequiel Mart�nez: es la representas. Es donde este valor tiene una representación decimal.
+
+192
+00:26:10.930 --> 00:26:16.820
+Adrian Ezequiel Mart�nez: que es si lo encontramos por acá 100, 84 por
+
+193
+00:26:19.270 --> 00:26:27.460
+Adrian Ezequiel Mart�nez: o 169 de acuerdo al al al idioma que que se están intentando representar.
+
+194
+00:26:29.650 --> 00:26:31.689
+Adrian Ezequiel Mart�nez: O sea, se se busca con
+
+195
+00:26:31.860 --> 00:26:40.019
+Adrian Ezequiel Mart�nez: básicamente lo que se hace es armar la representación hexadecimal de un carácter. En esta tabla.
+
+196
+00:26:40.200 --> 00:26:44.049
+Adrian Ezequiel Mart�nez: El paso inverso sería buscar este carácter
+
+197
+00:26:44.930 --> 00:26:52.020
+Adrian Ezequiel Mart�nez: en en el idioma que que se está intentando representar en este caso
+
+198
+00:26:54.160 --> 00:27:00.739
+Adrian Ezequiel Mart�nez: puede ser 169 o 184 se pasa a hexadecimal.
+
+199
+00:27:06.370 --> 00:27:12.480
+Adrian Ezequiel Mart�nez: y ahí tenemos la la codificación. ¿cómo se conforma non?
+
+200
+00:27:12.740 --> 00:27:23.039
+Adrian Ezequiel Mart�nez: No, No, no vamos a entrar en detalles de codificación binaria, porque la la la realidad es saber que se compone de de de 2 Byte.
+
+201
+00:27:24.540 --> 00:27:27.909
+Adrian Ezequiel Mart�nez: pero si quieren, le tengo la la explicación y se las
+
+202
+00:27:28.140 --> 00:27:35.099
+Adrian Ezequiel Mart�nez: se las comentó. Es un poquito larga la transformación binaria, pero es divertida. Yo me perdí la primera vez que la vi.
+
+203
+00:27:35.430 --> 00:27:39.249
+Adrian Ezequiel Mart�nez: pero es sentarse y y seguirlo un poquitín.
+
+204
+00:27:43.730 --> 00:27:48.719
+Adrian Ezequiel Mart�nez: Después tenemos continuando con el encoding de
+
+205
+00:27:48.930 --> 00:28:00.460
+Adrian Ezequiel Mart�nez: de D. H, T. M. L. Tenemos que se permiten mediante el encoding podemos representar caracteres especiales. El famoso.
+
+206
+00:28:00.690 --> 00:28:05.750
+Adrian Ezequiel Mart�nez: Este ap acude muchas veces cuando 1 1 codea en
+
+207
+00:28:05.900 --> 00:28:13.250
+Adrian Ezequiel Mart�nez: en en Javascript para o en H. T, M. L, Para que el Growser lo pueda interpretar el famoso a a qute
+
+208
+00:28:14.530 --> 00:28:21.440
+Adrian Ezequiel Mart�nez: como por ejemplo, acá tenemos diferentes maneras de de representar estos caracteres.
+
+209
+00:28:23.270 --> 00:28:31.519
+Adrian Ezequiel Mart�nez: el carácter y que es legible, pero lo podemos también representar de esta manera, lo mismo que los piquitos de
+
+210
+00:28:32.600 --> 00:28:34.040
+Adrian Ezequiel Mart�nez: de mayor y menor.
+
+211
+00:28:34.850 --> 00:28:41.480
+Adrian Ezequiel Mart�nez: Lo Lo interesante es por qué este
+
+212
+00:28:41.650 --> 00:28:45.379
+Adrian Ezequiel Mart�nez: representarlos de esta manera. Después ya vamos a ver
+
+213
+00:28:45.740 --> 00:28:56.129
+Adrian Ezequiel Mart�nez: el la la practicidad. Pero lo interesante de esto es que este se pueden prevenir ataques como por ejemplo, Croside Scripting.
+
+214
+00:28:57.220 --> 00:29:10.139
+Adrian Ezequiel Mart�nez: donde les estoy spoileando algo donde se P. Pueden escribir cueris en formularios Web, entonces de de esta manera se podría prevenir
+
+215
+00:29:10.290 --> 00:29:16.859
+Adrian Ezequiel Mart�nez: el el el uso de de de determinada sintaxis y quoris.
+
+216
+00:29:18.350 --> 00:29:26.569
+Adrian Ezequiel Mart�nez: Básicamente el el crozar escrito y busca Ca: Un carácter en en una tabla aski bajo un determinado valor
+
+217
+00:29:27.440 --> 00:29:37.800
+Adrian Ezequiel Mart�nez: que acá está 34, que es la representación de de las comillas y
+
+218
+00:29:38.490 --> 00:29:56.309
+Adrian Ezequiel Mart�nez: este, como bien saben, el po el las comillas dobles, puede ser utilizado para buscar un un texto en una base o o simplemente este, los mayores y menores para jugar con con sentencias If case
+
+219
+00:29:56.590 --> 00:30:02.110
+Adrian Ezequiel Mart�nez: qué más los guiones guiones para comentar este
+
+220
+00:30:02.980 --> 00:30:06.949
+Adrian Ezequiel Mart�nez: la la quary que se ejecuta del lado del servidor.
+
+221
+00:30:07.620 --> 00:30:10.569
+Adrian Ezequiel Mart�nez: ya ya lo vamos a ver, y se se pone divertido.
+
+222
+00:30:12.860 --> 00:30:13.859
+Adrian Ezequiel Mart�nez: Para mí, no.
+
+223
+00:30:13.860 --> 00:30:15.599
+FRANCISCO DAURAT: Diría cosas de scripting o no.
+
+224
+00:30:16.150 --> 00:30:18.379
+Adrian Ezequiel Mart�nez: Sí. Equis. S S.
+
+225
+00:30:18.560 --> 00:30:24.890
+FRANCISCO DAURAT: No, claro, pero digo como interferir en las qurris de los del lado del back end. Digo, tiene que ver con cosas de scripting.
+
+226
+00:30:25.230 --> 00:30:32.210
+Adrian Ezequiel Mart�nez: S, lo estás interviniendo del lado de del cliente, Estas.
+
+227
+00:30:32.350 --> 00:30:35.350
+Adrian Ezequiel Mart�nez: En En el fondo, lo que estás haciendo.
+
+228
+00:30:38.230 --> 00:30:45.319
+FRANCISCO DAURAT: Porque lo que tenía entendido era que jugabas con cómo estaba hecha como la lógica del Front End. Y como que
+
+229
+00:30:45.440 --> 00:30:49.780
+FRANCISCO DAURAT: rompías con esa lógica para ejecutar código Javascript en el navegador.
+
+230
+00:30:49.890 --> 00:30:53.309
+FRANCISCO DAURAT: hizo que yo entendía que quedaba todo del lado del Front.
+
+231
+00:30:54.330 --> 00:31:02.000
+MATEO VALENZUELA: No, Pero hay. Entiendo que si puedes inyectarlo a la base de datos después, cuando lo renderices, y si no está bien.
+
+232
+00:31:02.000 --> 00:31:02.490
+Adrian Ezequiel Mart�nez: ¿correcto?
+
+233
+00:31:02.490 --> 00:31:04.529
+MATEO VALENZUELA: Sanitizado lo va a inyectar.
+
+234
+00:31:05.940 --> 00:31:06.509
+FRANCISCO DAURAT: De la.
+
+235
+00:31:06.510 --> 00:31:09.279
+Adrian Ezequiel Mart�nez: Inyección e inyección de Sql. Perdón
+
+236
+00:31:09.470 --> 00:31:15.490
+Adrian Ezequiel Mart�nez: desde el desde un Javascript, por ejemplo. No, No yo sé que no va a funcionar.
+
+237
+00:31:15.860 --> 00:31:22.399
+Adrian Ezequiel Mart�nez: porque es el ejemplito que tenía preparado para después. Pero, por ejemplo, podrías o ser
+
+238
+00:31:22.950 --> 00:31:29.539
+Adrian Ezequiel Mart�nez: el famoso uni igual a 1 para que te tire True la respuesta del otro lado olvídate que acá dice el user. ¿
+
+239
+00:31:30.580 --> 00:31:37.509
+Adrian Ezequiel Mart�nez: O por ejemplo, podrías hacer, No sé, guión guión.
+
+240
+00:31:37.640 --> 00:31:43.199
+Adrian Ezequiel Mart�nez: Si hubiese un campo que se llame password Paz, po podrías
+
+241
+00:31:45.110 --> 00:31:47.470
+Adrian Ezequiel Mart�nez: y que la contraseña sea 4 X
+
+242
+00:31:47.790 --> 00:31:52.390
+Adrian Ezequiel Mart�nez: Podrías. Si si enviases esto pod podrías obviar
+
+243
+00:31:52.840 --> 00:31:57.130
+Adrian Ezequiel Mart�nez: que que hago un control de de este campo si fuese se cuela, l
+
+244
+00:31:58.020 --> 00:32:02.240
+Adrian Ezequiel Mart�nez: por ejemplo, esto lo lo ejecutas del lado de lo lo envías
+
+245
+00:32:02.860 --> 00:32:08.039
+Adrian Ezequiel Mart�nez: en en un objeto javascript, y del otro lado lo estás resolviendo.
+
+246
+00:32:09.000 --> 00:32:12.969
+Adrian Ezequiel Mart�nez: Lo está resolviendo en la base, en caso de ser un Sq. L.
+
+247
+00:32:14.020 --> 00:32:14.680
+FRANCISCO DAURAT: Okay.
+
+248
+00:32:15.770 --> 00:32:27.020
+Adrian Ezequiel Mart�nez: Pero sí es una manera de el crose de Script. Tiene. Es una manera de ejecutar script del lado de del cliente.
+
+249
+00:32:27.590 --> 00:32:34.370
+FRANCISCO DAURAT: Yo lo veía más que cuando es reflejado cuando lo pasas viste por Goethe, como Querry Baram. Y se refleja directamente en el Html.
+
+250
+00:32:34.940 --> 00:32:36.300
+MATEO VALENZUELA: Ya.
+
+251
+00:32:36.300 --> 00:32:36.740
+Adrian Ezequiel Mart�nez: Arriba.
+
+252
+00:32:36.740 --> 00:32:38.540
+MATEO VALENZUELA: Hace el
+
+253
+00:32:38.840 --> 00:32:47.240
+MATEO VALENZUELA: El ejemplo sería que en tu us online lo pongas, como no sé, una, un Allart, un, 2, 3. Claro.
+
+254
+00:32:47.240 --> 00:32:47.939
+FRANCISCO DAURAT: A eso me refería.
+
+255
+00:32:47.940 --> 00:33:01.240
+MATEO VALENZUELA: Cuando alguien venga a renderizar como, Ah Ok Mateo Valenzuela dejó un comentario, pero en vez de que diga, Mateo valenzuela va a decir, alertó un 2, 3. Y como no está sanitizado a en este caso, levantaría 1, 2, 3. Y sí, sería un crossain scripting.
+
+256
+00:33:01.480 --> 00:33:07.140
+Adrian Ezequiel Mart�nez: Correcto y estarías viendo parte de la lógica de o o estarías tratando de inferir
+
+257
+00:33:07.260 --> 00:33:11.430
+Adrian Ezequiel Mart�nez: parte de de la de la base, por ejemplo, sí
+
+258
+00:33:12.490 --> 00:33:17.299
+Adrian Ezequiel Mart�nez: solo lo vamos. Esas técnicas las vamos a ver en la próxima clase. Si mal no recuerdo
+
+259
+00:33:18.420 --> 00:33:23.199
+Adrian Ezequiel Mart�nez: que que he dicho, les les comento que la próxima clase es feriado el jueves que viene.
+
+260
+00:33:25.390 --> 00:33:29.689
+Adrian Ezequiel Mart�nez: Así que este pasa para la la que le sigue que es él
+
+261
+00:33:31.570 --> 00:33:33.720
+Adrian Ezequiel Mart�nez: 1, 2, 9 9 de abril.
+
+262
+00:33:35.240 --> 00:33:38.230
+Adrian Ezequiel Mart�nez: que ya íbamos a a ver estos estos ejemplitos.
+
+263
+00:33:40.630 --> 00:33:46.069
+Adrian Ezequiel Mart�nez: Después tenemos otra codificación, que es en que se llama base 64,
+
+264
+00:33:46.710 --> 00:33:55.590
+Adrian Ezequiel Mart�nez: que es una forma de codificar datos binarios usando aquí, básicamente se usa mucho en autenticaciones Http, Tokens
+
+265
+00:33:56.060 --> 00:34:02.079
+Adrian Ezequiel Mart�nez: Apis, y y también no tan Yo Yo no la vi mucho en archivos, pero sé que
+
+266
+00:34:02.290 --> 00:34:07.230
+Adrian Ezequiel Mart�nez: que se utiliza como, por ejemplo, un el
+
+267
+00:34:07.390 --> 00:34:13.889
+Adrian Ezequiel Mart�nez: Volvemos al ejemplo de recién el el el par Admin Password.
+
+268
+00:34:14.670 --> 00:34:22.529
+Adrian Ezequiel Mart�nez: usuario, password perdón, se se podría codificar en en base 64 de del del otro lado.
+
+269
+00:34:24.639 --> 00:34:25.809
+Adrian Ezequiel Mart�nez: Este es un
+
+270
+00:34:26.199 --> 00:34:39.170
+Adrian Ezequiel Mart�nez: un un un breve comentario de que más 64 procesa datos de de entrada de bloques de de 3 Byte, y cada 1 de estos bloques se divide a a su vez en en 6 Byte
+
+271
+00:34:39.449 --> 00:34:49.560
+Adrian Ezequiel Mart�nez: cada 1 y que emplea un conjunto de caracteres que comprendibles. No, No hay este caracteres con
+
+272
+00:34:50.620 --> 00:35:05.140
+Adrian Ezequiel Mart�nez: con té raros, por por llamarlos mu muy rápido. No, ya no hay, no hay tildes, no hay este e ñ escri no, no hay eñe, no hay tildes, no hay caracteres de de marca registrada ni
+
+273
+00:35:05.340 --> 00:35:08.349
+Adrian Ezequiel Mart�nez: ni a ni algún carácter que aquí raro.
+
+274
+00:35:08.850 --> 00:35:11.099
+Adrian Ezequiel Mart�nez: Esto es todo reconocible visualmente
+
+275
+00:35:15.900 --> 00:35:27.820
+Adrian Ezequiel Mart�nez: y también seguramente lo lo habrán escuchado, que son hexadecimal, que es una codificación que es, se utiliza para representar datos en base 16
+
+276
+00:35:28.720 --> 00:35:30.890
+Adrian Ezequiel Mart�nez: los posibles valores
+
+277
+00:35:31.350 --> 00:35:37.069
+Adrian Ezequiel Mart�nez: que que toma son del 0 al 9 y de la A a la F de la letra, a a la letra F,
+
+278
+00:35:37.220 --> 00:35:45.459
+Adrian Ezequiel Mart�nez: y se usaba mucho cuando 1 está debagueando, haciendo algún encoding o o analizando tráfico que ya lo vamos a a ver también.
+
+279
+00:35:49.800 --> 00:35:57.609
+Adrian Ezequiel Mart�nez: Y hasta este punto este fueron temas bastante teóricos.
+
+280
+00:35:57.740 --> 00:36:03.060
+Adrian Ezequiel Mart�nez: este con muy poco contenido práctico. Si Si podemos decirlo así,
+
+281
+00:36:03.200 --> 00:36:10.869
+Adrian Ezequiel Mart�nez: este la idea está en este punto en la materia fue hacer un repaso bastante teórico y comentar algunos temas.
+
+282
+00:36:11.380 --> 00:36:18.320
+Adrian Ezequiel Mart�nez: este que que van comentar, ¿sí? Y dar pie para ver algunos temas que van a comenzar a
+
+283
+00:36:18.780 --> 00:36:25.819
+Adrian Ezequiel Mart�nez: a caer ahora, y es donde la materia se pone este
+
+284
+00:36:26.510 --> 00:36:31.110
+Adrian Ezequiel Mart�nez: más divertida y cada vez se va a poner un un poquito más más práctica.
+
+285
+00:36:33.620 --> 00:36:36.320
+Adrian Ezequiel Mart�nez: Y para eso hay una herramienta que se llama
+
+286
+00:36:37.000 --> 00:36:40.790
+Adrian Ezequiel Mart�nez: Burp, bur suite, que es una suite de
+
+287
+00:36:41.120 --> 00:36:54.199
+Adrian Ezequiel Mart�nez: funcionalidades, básicamente y burp para los que no la hayan escuchado. Es un proxy para para interceptar este mensajería, para interceptar respuestas
+
+288
+00:36:54.840 --> 00:36:56.030
+Adrian Ezequiel Mart�nez: y
+
+289
+00:36:56.180 --> 00:37:04.659
+Adrian Ezequiel Mart�nez: lo cual da el pie para decir que vamos a poder ver y modificar el el tráfico que que se esté generando el tráfico Htt: P.
+
+290
+00:37:04.930 --> 00:37:11.110
+Adrian Ezequiel Mart�nez: Esto nos va a permitir analizar request, modificar parámetros y vamos a hacer un ejemplo muy chiquitito
+
+291
+00:37:11.810 --> 00:37:14.369
+Adrian Ezequiel Mart�nez: y ver algunas vulnerabilidades.
+
+292
+00:37:20.380 --> 00:37:28.980
+Adrian Ezequiel Mart�nez: Este en el en la V P. T. El En el título So está el el link, al la herramienta que se la pueden bajar tranquilamente.
+
+293
+00:37:30.750 --> 00:37:37.940
+Adrian Ezequiel Mart�nez: La La tengo instalada. La le recomiendo la la community Edition, que es la la gratuita.
+
+294
+00:37:39.480 --> 00:37:43.090
+Adrian Ezequiel Mart�nez: ¿qué es la l la gratuita.
+
+295
+00:37:43.280 --> 00:37:45.000
+Adrian Ezequiel Mart�nez: Y lo que tienen que hacer es
+
+296
+00:37:45.320 --> 00:37:53.300
+Adrian Ezequiel Mart�nez: es registrarse y bajarla. Los que tienen Linux, como como es mi caso, la pueden instalar en con Snap
+
+297
+00:37:53.740 --> 00:38:02.369
+Adrian Ezequiel Mart�nez: o bajándose directamente el desde del del repositorio. No no hace falta registrarse ni nada.
+
+298
+00:38:02.730 --> 00:38:05.369
+Adrian Ezequiel Mart�nez: También la pueden ejecutar en una máquina virtual
+
+299
+00:38:05.900 --> 00:38:20.080
+Adrian Ezequiel Mart�nez: y y listo. No, no rompe nada, ni ni es nada malicioso lo que se ejecuta se usa para determinados fines, pero se puede instalar tranquilamente. Yo no no me he topado con ningún inconveniente.
+
+300
+00:38:21.810 --> 00:38:26.379
+MARTIN DAUS: Intenté probarlo el otro día en una máquina cali y
+
+301
+00:38:27.160 --> 00:38:29.460
+MARTIN DAUS: no puedo hacerle andar mucho, pero también.
+
+302
+00:38:29.460 --> 00:38:30.030
+Adrian Ezequiel Mart�nez: Sí.
+
+303
+00:38:30.540 --> 00:38:31.480
+MARTIN DAUS: Es.
+
+304
+00:38:31.910 --> 00:38:36.699
+Adrian Ezequiel Mart�nez: Sí es la las primeras veces. Este es bastante
+
+305
+00:38:36.930 --> 00:38:39.409
+Adrian Ezequiel Mart�nez: tosca hasta que le enganchas la mano.
+
+306
+00:38:39.600 --> 00:38:44.899
+Adrian Ezequiel Mart�nez: Yo no la sé, usar del todo. So: Solo sé al solo conozco lo lo que he utilizado, nada más
+
+307
+00:38:45.360 --> 00:38:48.300
+Adrian Ezequiel Mart�nez: este, pero sé que en
+
+308
+00:38:48.530 --> 00:39:05.200
+Adrian Ezequiel Mart�nez: en de acuerdo al sistema operativo o a la versión del sistema operativo que utilices. Este es más compleja de de hacerla correr porque te pide más requerimientos, por ejemplo, tenés que tener una versión. Creo que en cali si ya no te viene
+
+309
+00:39:05.460 --> 00:39:18.549
+Adrian Ezequiel Mart�nez: ya de por por defecto utilizar la que tiene por defecto. Si Si te quieres instalar una nueva, a veces te entra en conflicto porque necesito otras versiones de Java, es como una cosa media compleja.
+
+310
+00:39:18.800 --> 00:39:23.649
+Adrian Ezequiel Mart�nez: este si te vienen las recomendaciones, Si ya te viene instalado usala.
+
+311
+00:39:24.160 --> 00:39:27.459
+Adrian Ezequiel Mart�nez: vamos a hacer. Vamos a hacer un ejemplo muy chiquitito.
+
+312
+00:39:27.790 --> 00:39:35.900
+Adrian Ezequiel Mart�nez: Y yo la acabo de instalar. Yo Yo tengo Ubuntu, la la instale y la tengo fresca. Así que sin sin nada raro.
+
+313
+00:39:36.670 --> 00:39:39.460
+Adrian Ezequiel Mart�nez: Y funcionó en en.
+
+314
+00:39:39.460 --> 00:39:44.179
+MARTIN DAUS: La quería usar en otra materia en seguridad ofensiva.
+
+315
+00:39:44.180 --> 00:39:45.200
+Adrian Ezequiel Mart�nez: Ofensiva? Sí.
+
+316
+00:39:45.200 --> 00:39:46.420
+MARTIN DAUS: Nos pidieron
+
+317
+00:39:46.670 --> 00:39:58.659
+MARTIN DAUS: un tepe que era de las 5 etapas de un pen test que herramientas utilizaremos en cada una de Cali. Yo fui, obviamente fui con inteligencia artificial, preguntando, pero a la vez, probando las herramientas.
+
+318
+00:39:58.860 --> 00:39:59.670
+Adrian Ezequiel Mart�nez: Está perfecto.
+
+319
+00:39:59.670 --> 00:40:13.720
+MARTIN DAUS: Y llegué a burp. Y es como que, ah, bueno, y me metí, intenté viste, pero no ni con la vida. Ya en un momento me perdí y bueno, dije, volví a Meta Exployd. Dije un poquito más fácil.
+
+320
+00:40:13.720 --> 00:40:15.040
+Adrian Ezequiel Mart�nez: Nunca falla.
+
+321
+00:40:15.040 --> 00:40:19.649
+MARTIN DAUS: Nunca falla, pero tiene un 1 000 000 de cosas.
+
+322
+00:40:19.980 --> 00:40:25.750
+MARTIN DAUS: Y la vi lo que vi por arriba Dije que interesante, o sea parecía súper útil.
+
+323
+00:40:26.170 --> 00:40:30.659
+MARTIN DAUS: pero bueno, no en el momento. No lo pude probar mucho y no tenía mucho tiempo.
+
+324
+00:40:31.390 --> 00:40:37.760
+Adrian Ezequiel Mart�nez: Tranquilo va. Vamos Vamos a jugar un un poquito de lo que resta de de la materia, así que no de despreocúpate.
+
+325
+00:40:38.170 --> 00:40:48.349
+EXEQUIEL ALVAREZ BIANCO: Un chip con el tema de la calle y burp. Además, que usar Book te conviene utilizar las que ya vienen instaladas herramientas porque justamente cali.
+
+326
+00:40:48.350 --> 00:40:49.430
+MARTIN DAUS: Estaba instalado.
+
+327
+00:40:50.160 --> 00:40:53.160
+EXEQUIEL ALVAREZ BIANCO: Ya, pero esta la la community y todo.
+
+328
+00:40:54.080 --> 00:40:55.549
+MARTIN DAUS: Sí, sí, con interfaz, todo.
+
+329
+00:40:55.940 --> 00:41:06.900
+EXEQUIEL ALVAREZ BIANCO: Bueno, porque nosotros teníamos otra versión que era que directamente no, no venía instalada y era un bardo hacer andar, porque tenía algunos tenías que cómo son estos instalar algunos paquetes y todo así.
+
+330
+00:41:06.900 --> 00:41:07.410
+Adrian Ezequiel Mart�nez: Di.
+
+331
+00:41:07.410 --> 00:41:08.810
+EXEQUIEL ALVAREZ BIANCO: O sea, era un lío.
+
+332
+00:41:08.940 --> 00:41:10.569
+MARTIN DAUS: No, Esto es un poquito más fácil.
+
+333
+00:41:10.850 --> 00:41:11.800
+EXEQUIEL ALVAREZ BIANCO: Gracias. Ruso.
+
+334
+00:41:16.320 --> 00:41:23.600
+Adrian Ezequiel Mart�nez: Sí incluso tiene este ta Tal vez hay funcionalidades que el que le sean muy conocidas de de Onexark
+
+335
+00:41:23.970 --> 00:41:26.579
+Adrian Ezequiel Mart�nez: es muy similar en algunas cosas.
+
+336
+00:41:26.720 --> 00:41:31.650
+Adrian Ezequiel Mart�nez: Pero como tiene otros otros agregados, te permite este
+
+337
+00:41:32.490 --> 00:41:36.670
+Adrian Ezequiel Mart�nez: a hacer algunas cositas que con Wisere, por ejemplo, no no podés.
+
+338
+00:41:37.030 --> 00:41:39.879
+Adrian Ezequiel Mart�nez: Y como está, todo integrado, es es supercómodo.
+
+339
+00:41:40.810 --> 00:41:43.760
+Adrian Ezequiel Mart�nez: por lo menos el el el uso que yo le fui dando
+
+340
+00:41:44.570 --> 00:41:54.640
+Adrian Ezequiel Mart�nez: este lo que sí tiene de de de divertido es que está diseñada, como bien dice, acá para hacer
+
+341
+00:41:54.760 --> 00:41:57.099
+Adrian Ezequiel Mart�nez: para usar con intervención manual.
+
+342
+00:41:57.890 --> 00:42:07.430
+Adrian Ezequiel Mart�nez: Yo puntualmente No, no encontré la manera de de automatizarla. Sí, he hecho código en Python para jugar y hacer un montón de cosas que
+
+343
+00:42:07.610 --> 00:42:11.229
+Adrian Ezequiel Mart�nez: que hace Bur, pero por fuera de de Urg
+
+344
+00:42:11.880 --> 00:42:20.350
+Adrian Ezequiel Mart�nez: y este. Pero ese de ese lado fue de manera automática, de de manera o de manera manual todo desde la aplicación.
+
+345
+00:42:23.860 --> 00:42:34.959
+Adrian Ezequiel Mart�nez: Ahí está en en lenguaje Java, por si quieren armar algún algún Plugin o algo particular, sepan que que están en Java y que si
+
+346
+00:42:35.740 --> 00:42:46.449
+Adrian Ezequiel Mart�nez: codean algo en Ja algún Plugin tiene que ser en en en Java y bueno, como
+
+347
+00:42:46.740 --> 00:42:52.030
+Adrian Ezequiel Mart�nez: como comentamos recién medio por arriba, tiene un un montón de de herramientas.
+
+348
+00:42:52.310 --> 00:42:56.979
+Adrian Ezequiel Mart�nez: como un escáner, un que es para para escanear la Web. Hoy vamos a
+
+349
+00:42:58.330 --> 00:43:00.690
+Adrian Ezequiel Mart�nez: a a jugar un poquito con
+
+350
+00:43:01.980 --> 00:43:05.560
+Adrian Ezequiel Mart�nez: con con interceptar un una petición.
+
+351
+00:43:05.970 --> 00:43:14.380
+Adrian Ezequiel Mart�nez: un hacer un después, tienen otra herramienta que se llama intruder que permite hacer ataques automatizados. Mira no me acordaba
+
+352
+00:43:14.720 --> 00:43:15.940
+Adrian Ezequiel Mart�nez: hace el.
+
+353
+00:43:15.980 --> 00:43:17.750
+MARTIN DAUS: Es lo que intenté hacer, andar.
+
+354
+00:43:18.180 --> 00:43:19.240
+Adrian Ezequiel Mart�nez: Okay.
+
+355
+00:43:19.420 --> 00:43:22.710
+Adrian Ezequiel Mart�nez: Bueno, ya ya ya nos pelearemos todos. Entonces
+
+356
+00:43:23.200 --> 00:43:33.870
+Adrian Ezequiel Mart�nez: el el repiter permite, bueno, como comenta, acá una vez que capturaste una una request, pues, a hacer
+
+357
+00:43:34.420 --> 00:43:43.679
+Adrian Ezequiel Mart�nez: peticiones. Un spuffing de de peticiones no no sería un espuffin, porque no estás cambiando la Ip, pero estás enviando muchas peticiones.
+
+358
+00:43:45.710 --> 00:43:48.939
+Adrian Ezequiel Mart�nez: como, por ejemplo, barrer una lista de contraseñas
+
+359
+00:43:49.500 --> 00:43:54.659
+Adrian Ezequiel Mart�nez: y tienes un un T X T con varias contraseñas, si quieres probarlas.
+
+360
+00:43:55.150 --> 00:43:59.829
+Adrian Ezequiel Mart�nez: Y el repúter es un una de esas funcionalidades que te permite hacer eso.
+
+361
+00:44:00.160 --> 00:44:07.879
+Adrian Ezequiel Mart�nez: an analizar los los tokens que que te van este Esto nunca lo utilice
+
+362
+00:44:08.390 --> 00:44:14.559
+Adrian Ezequiel Mart�nez: ver ver si los tokens están, ¿Tienen algún patrón decodificar algún dato.
+
+363
+00:44:15.100 --> 00:44:21.409
+Adrian Ezequiel Mart�nez: Esto lo lo lo van a ver bastante en en ingeniería inversa sin utilizar esta herramienta.
+
+364
+00:44:22.310 --> 00:44:25.960
+Adrian Ezequiel Mart�nez: Ahí se van a divertir bastante con con código
+
+365
+00:44:26.460 --> 00:44:34.209
+Adrian Ezequiel Mart�nez: y y también para hacer la comparación tiene una herramienta para hacer la comparación visual de de bits de datos.
+
+366
+00:44:34.940 --> 00:44:39.590
+Adrian Ezequiel Mart�nez: para buscar este cosas cosas que que puedan serles útiles
+
+367
+00:44:43.070 --> 00:44:46.369
+Adrian Ezequiel Mart�nez: después, como como otras herramientas que vamos a
+
+368
+00:44:46.550 --> 00:44:52.300
+Adrian Ezequiel Mart�nez: a a estar este, no hoy, sino más adelante, este utilizando.
+
+369
+00:44:52.680 --> 00:45:02.380
+Adrian Ezequiel Mart�nez: Tenemos la la que ya vimos del Browser, que es Dead Tools, que son herramientas básicamente más o
+
+370
+00:45:03.330 --> 00:45:15.529
+Adrian Ezequiel Mart�nez: que que van a utilizar más del lado de de de los equipos de de desarrollo, porque es más cómodo para para debaguear o para ver contenidos de de Javascript, pero también nos nos va a servir a
+
+371
+00:45:15.810 --> 00:45:17.860
+Adrian Ezequiel Mart�nez: a nosotros
+
+372
+00:45:19.320 --> 00:45:39.220
+Adrian Ezequiel Mart�nez: donde se va a poder i interactuar con con con el cliente para inspeccionar el el don, por ejemplo, desde la consola o ver los Hiders de hacer lo mismo, ver algunos contenidos de de los risuez y los response de acuerdo a lo que estemos viendo en ese momento
+
+373
+00:45:39.950 --> 00:45:46.519
+Adrian Ezequiel Mart�nez: o simplemente ver el el Storage, que que puede estar generando un un Browser.
+
+374
+00:45:47.670 --> 00:45:50.500
+Adrian Ezequiel Mart�nez: No sé si es el caso.
+
+375
+00:45:51.880 --> 00:45:54.979
+Adrian Ezequiel Mart�nez: a ver si lo si tiene.
+
+376
+00:45:55.850 --> 00:46:03.419
+Adrian Ezequiel Mart�nez: bueno, po podemos ver el la cadena también de cómo se van realizando las llamadas y los tiempos
+
+377
+00:46:05.090 --> 00:46:12.320
+Adrian Ezequiel Mart�nez: podemos ver a alguna a al algún alguna instancia de cuánto está consumiendo.
+
+378
+00:46:13.810 --> 00:46:24.230
+Adrian Ezequiel Mart�nez: Acá Esto buscaba el la podemos ver el el Storage, en caso de de que haya, si hay algún el el consumo, el
+
+379
+00:46:24.660 --> 00:46:31.590
+Adrian Ezequiel Mart�nez: el el storage local, que puede estar siendo invo siendo necesitado por alguna invocación, en particular
+
+380
+00:46:32.560 --> 00:46:36.239
+Adrian Ezequiel Mart�nez: si hay alguna historia así de sesión, etcétera. Las cookies.
+
+381
+00:46:36.380 --> 00:46:40.940
+Adrian Ezequiel Mart�nez: Bien, esto es todo hablado del cliente, No, no del lado del
+
+382
+00:46:41.060 --> 00:46:47.479
+Adrian Ezequiel Mart�nez: del servidor. S Sería buenísimo que podemos que se pudiese ver las cosas que pasan desde en el servidor. Pero
+
+383
+00:46:48.050 --> 00:46:49.790
+Adrian Ezequiel Mart�nez: este de momento no.
+
+384
+00:46:51.720 --> 00:46:54.629
+Adrian Ezequiel Mart�nez: Así que es toda info que incluso los
+
+385
+00:46:54.820 --> 00:46:58.500
+Adrian Ezequiel Mart�nez: a algún servicio que te permita ver algún medio de pago.
+
+386
+00:47:00.830 --> 00:47:12.750
+Adrian Ezequiel Mart�nez: Este y con una breve explicación de de lo que hace cada solapita, todos tienen la misma tul cada por y cada browser tiene al alguna fiture más. Pero
+
+387
+00:47:12.790 --> 00:47:23.210
+Adrian Ezequiel Mart�nez: este, básicamente, todas tienen elements consolas. Ver los fuentes. La la red, analizar, performance la memoria, el
+
+388
+00:47:23.330 --> 00:47:30.270
+Adrian Ezequiel Mart�nez: el manifiesto qué es lo que lo que vimos recién donde dice: hay almacenamiento, caché, etcétera. Y
+
+389
+00:47:30.460 --> 00:47:35.260
+Adrian Ezequiel Mart�nez: y un apartado de seguridad donde se puede ver si hay algún cifrado en en algún momento
+
+390
+00:47:39.510 --> 00:47:49.489
+Adrian Ezequiel Mart�nez: y ahora, si no, si no tienen dudas, vamos a un a un ejemplito muy, muy sencillito, y
+
+391
+00:47:51.350 --> 00:47:54.559
+Adrian Ezequiel Mart�nez: y vamos a a empezar a a movernos un poquitín
+
+392
+00:48:01.350 --> 00:48:11.050
+Adrian Ezequiel Mart�nez: genial. El el que calla otorga. Así que sí, dejar de compartir acá Uma.
+
+393
+00:48:11.970 --> 00:48:18.159
+Adrian Ezequiel Mart�nez: Y comparto que es lo que puedo con el sipo.
+
+394
+00:48:18.610 --> 00:48:23.920
+Adrian Ezequiel Mart�nez: Y mi máquina
+
+395
+00:48:31.170 --> 00:48:39.979
+Adrian Ezequiel Mart�nez: es un es un ejemplito muy, muy cortito para mostrar muy, muy por arriba. Burb: No, No, no es otro en funcionamiento.
+
+396
+00:48:40.090 --> 00:48:42.509
+Adrian Ezequiel Mart�nez: No, No, no es otro tema.
+
+397
+00:48:45.420 --> 00:48:50.410
+Adrian Ezequiel Mart�nez: Ahí deberían estar viendo mi mi Dekstop. Les presento Bur. Esta es la
+
+398
+00:48:51.360 --> 00:48:54.520
+Adrian Ezequiel Mart�nez: la pero que corremos esto así. No.
+
+399
+00:48:54.660 --> 00:48:56.670
+Adrian Ezequiel Mart¿½nez: no meto por la vista. AhÃ­ estÃ¡.
+
+400
+00:48:57.640 --> 00:48:59.749
+Adrian Ezequiel Martï¿½nez: Esta es la la Community Edition
+
+401
+00:49:00.340 --> 00:49:09.929
+Adrian Ezequiel Martï¿½nez: en un proyecto temporario. No, al ser temporario este lo que ocurre es que no lo estoy guardando en ningÃºn lado
+
+402
+00:49:10.600 --> 00:49:21.980
+Adrian Ezequiel Martï¿½nez: cuando vos lo lo ejecutas por primera vez, te dice: si querÃ©s tener un un un ejem, un un proyecto sin registrar algo para probar asÃ­ rÃ¡pido como vamos a hacer
+
+403
+00:49:22.790 --> 00:49:26.620
+Adrian Ezequiel Martï¿½nez: y y nada mÃ¡s y.
+
+404
+00:49:26.620 --> 00:49:29.690
+FRANCISCO DAURAT: Desde ahÃ­, o solamente lo puedes elegir al comienzo.
+
+405
+00:49:29.690 --> 00:49:35.359
+Adrian Ezequiel Martï¿½nez: Al comienzo, al comienzo, cuando vos lo lo ejecutas, vamos a ejecutarlo desde el comienzo. A ver.
+
+406
+00:49:38.750 --> 00:49:40.510
+Adrian Ezequiel Martï¿½nez: sÃ­, vamos a decirlo.
+
+407
+00:49:48.380 --> 00:49:51.410
+Adrian Ezequiel Martï¿½nez: lo tenÃ­a armadito, Pero vamos a hacer.
+
+408
+00:49:53.310 --> 00:50:00.410
+Adrian Ezequiel Martï¿½nez: arrastrÃ³, lo puedes ejecutar en memoria donde no se va a guardar nada o guardar el proyecto
+
+409
+00:50:00.810 --> 00:50:05.800
+Adrian Ezequiel Martï¿½nez: S, o o abrir 1 que que ya tengas este hecho previamente.
+
+410
+00:50:08.950 --> 00:50:09.540
+FRANCISCO DAURAT: Perfecto.
+
+411
+00:50:09.540 --> 00:50:11.729
+Adrian Ezequiel Martï¿½nez: AcÃ¡ puedes buscar algÃºn. PerdÃ³n chip.
+
+412
+00:50:12.650 --> 00:50:17.870
+FRANCISCO DAURAT: No, no decÃ­a perfecto, Perfecto. Nunca le daba bola. Yo a eso yo le daba asÃ­ tipo clic, clic, clic asÃ­. Y.
+
+413
+00:50:18.790 --> 00:50:24.550
+Adrian Ezequiel Martï¿½nez: Te pue es. EstÃ¡ bien, porque por default no no te guarda nada, asÃ­ que es la es la misma situaciÃ³n.
+
+414
+00:50:26.000 --> 00:50:30.790
+Adrian Ezequiel Martï¿½nez: El servicio de calidad Next Next Nex es proyecto temporal
+
+415
+00:50:32.320 --> 00:50:34.870
+Adrian Ezequiel Martï¿½nez: u usar el la configuraciÃ³n por default.
+
+416
+00:50:37.090 --> 00:50:43.119
+Adrian Ezequiel Martï¿½nez: o si tienes alguna configuraciÃ³n, en particular. Pero si le das Next Next Next va superbiÃ©n.
+
+417
+00:50:44.070 --> 00:50:46.059
+Adrian Ezequiel Martï¿½nez: y ahÃ­ te te lo levanta
+
+418
+00:51:00.280 --> 00:51:01.030
+Adrian Ezequiel Martï¿½nez: AhÃ­ estÃ¡.
+
+419
+00:51:03.860 --> 00:51:05.690
+Adrian Ezequiel Martï¿½nez: Entonces acÃ¡ tenemos los
+
+420
+00:51:05.940 --> 00:51:17.909
+Adrian Ezequiel Martï¿½nez: lo los diferentes funcionalidades que les comentaba al comienzo en la en la A, P. P. T es el el proxy, el introder, el el repiter, el secuenciador, etcÃ©tera.
+
+421
+00:51:19.000 --> 00:51:22.190
+Adrian Ezequiel Martï¿½nez: Hoy vamos a jugar con el Proxy.
+
+422
+00:51:22.700 --> 00:51:31.180
+Adrian Ezequiel Martï¿½nez: Lo que hace el Proxy es bÃ¡sicamente un proxy. Es interceptar una a H. T, T, P,
+
+423
+00:51:31.470 --> 00:51:34.870
+Adrian Ezequiel Martï¿½nez: Es lo que lo que ha harÃ­a. Winedsharp.
+
+424
+00:51:34.990 --> 00:51:47.299
+Adrian Ezequiel Martï¿½nez: Y y 1 Po pudi podrÃ­a ver este. Las las peticiones y todo lo que se estÃ¡ desencadenando. Pero la la diferencia con wizard es que
+
+425
+00:51:47.730 --> 00:51:54.130
+Adrian Ezequiel Martï¿½nez: este podÃ©s modificarlo po podÃ©s capturarlo es topeÃ¡s la ejecuciÃ³n.
+
+426
+00:51:55.050 --> 00:51:57.699
+Adrian Ezequiel Martï¿½nez: Modificas. El request Si quieres.
+
+427
+00:51:57.700 --> 00:51:58.220
+GABRIEL JESUS RODRIGUEZ CARMAUTA: Cuando la.
+
+428
+00:51:58.220 --> 00:52:01.950
+Adrian Ezequiel Martï¿½nez: Una mangas modificado, perdÃ³n.
+
+429
+00:52:09.270 --> 00:52:14.089
+MARTIN DAUS: No habÃ­a preguntado a la chica si se habÃ­a cortado, pero creo que tenÃ­a problemas con la otra.
+
+430
+00:52:14.090 --> 00:52:16.040
+Adrian Ezequiel Martï¿½nez: con la conexiÃ³n.
+
+431
+00:52:16.230 --> 00:52:16.900
+MARTIN DAUS: SÃ­.
+
+432
+00:52:17.790 --> 00:52:22.770
+Adrian Ezequiel Martï¿½nez: AsÃ­ que lo que vamos a hacer, vamos a hacer un login interceptar un login sÃºper sencillo.
+
+433
+00:52:23.550 --> 00:52:31.980
+Adrian Ezequiel Martï¿½nez: Â¿para quÃ© lo quise hacer con esta, pero hoy no no cargÃ³, asÃ­ que vamos con una
+
+434
+00:52:33.980 --> 00:52:35.599
+Adrian Ezequiel Martï¿½nez: que tambiÃ©n es divertida.
+
+435
+00:52:37.020 --> 00:52:42.239
+Adrian Ezequiel Martï¿½nez: Esta estÃ¡ pro Esta este sitio estÃ¡ promocionado por Burp
+
+436
+00:52:44.590 --> 00:52:53.820
+Adrian Ezequiel Martï¿½nez: para para probar su su su su suite. Como su su laboratorio, suel suelen tener este como
+
+437
+00:52:54.550 --> 00:52:56.480
+Adrian Ezequiel Martï¿½nez: como esta, otra que es de Owas.
+
+438
+00:52:57.300 --> 00:53:02.520
+Adrian Ezequiel Martï¿½nez: Cada tanto suelen hacer challenge de de vulnerabilidades.
+
+439
+00:53:03.320 --> 00:53:09.960
+Adrian Ezequiel Martï¿½nez: y incluso las las suelen publicar, Son son sitios para para aprender y y jugar un rato
+
+440
+00:53:10.350 --> 00:53:15.490
+Adrian Ezequiel Martï¿½nez: puntualmente lo que vamos a vamos a utilizar esta para hacer un un login.
+
+441
+00:53:18.720 --> 00:53:22.769
+Adrian Ezequiel Martï¿½nez: Entonces la la manera de de de capturar un
+
+442
+00:53:23.300 --> 00:53:30.310
+Adrian Ezequiel Martï¿½nez: de eso. El El lo interesante es cÃ³mo comenzamos con la herramienta y vamos a capturar un bloggin
+
+443
+00:53:30.580 --> 00:53:35.270
+Adrian Ezequiel Martï¿½nez: para capturar un login. Necesitamos un Browser. Y ese Browser
+
+444
+00:53:35.550 --> 00:53:40.360
+Adrian Ezequiel Martï¿½nez: tiene que ser 1 que maneje B, u R, p. Con el que B u r pueda interactuar
+
+445
+00:53:40.920 --> 00:53:46.899
+Adrian Ezequiel Martï¿½nez: en este caso. G, u R. P. Tiene un un Browser dentro que este
+
+446
+00:53:47.020 --> 00:53:51.380
+Adrian Ezequiel Martï¿½nez: lo lo utilizamos con Open Browser y
+
+447
+00:53:51.740 --> 00:53:55.230
+Adrian Ezequiel Martï¿½nez: una configuraciÃ³n. Lo que puede pasar
+
+448
+00:53:55.850 --> 00:54:04.240
+Adrian Ezequiel Martï¿½nez: es que Ã©l les diga que no estÃ¡ habilitado utilizar una sandbox, porque el el Browser, este en particular que utiliza Burp.
+
+449
+00:54:04.380 --> 00:54:10.219
+Adrian Ezequiel Martï¿½nez: Este L corre solamente en el entorno del de la aplicaciÃ³n.
+
+450
+00:54:10.450 --> 00:54:16.880
+Adrian Ezequiel Martï¿½nez: Entonces lo que hay que hacer es habilitar el Browser propio
+
+451
+00:54:17.480 --> 00:54:29.919
+Adrian Ezequiel Martï¿½nez: para que te lo deje co para que pueda ejecutarlo dentro del del ambiente de de Burp, o sea, todo lo que se ejecuta. Lo va a ver burp bÃ¡sicamente
+
+452
+00:54:31.140 --> 00:54:39.449
+Adrian Ezequiel Martï¿½nez: en en esto difiere un poquito a a Wildesharp. Porque vos en Wise, lo que hacÃ­as era activarlo, y te escuchaba todo lo que traficaba la
+
+453
+00:54:39.580 --> 00:54:41.180
+Adrian Ezequiel Martï¿½nez: todo lo que se traficaba.
+
+454
+00:54:41.560 --> 00:54:49.780
+Adrian Ezequiel Martï¿½nez: No solamente lo que vos buscabas, sino todo acÃ¡ es un lo que pasa por lo que pasaba por tu mÃ¡quina. Lo que traficaba tu mÃ¡quina
+
+455
+00:54:50.080 --> 00:54:52.869
+Adrian Ezequiel Martï¿½nez: en en este caso es un poquito mÃ¡s acotado
+
+456
+00:54:53.060 --> 00:54:58.040
+Adrian Ezequiel Martï¿½nez: porque ejecuto un Browser en la instancia de de la aplicaciÃ³n.
+
+457
+00:55:00.310 --> 00:55:04.090
+Adrian Ezequiel Martï¿½nez: AsÃ­ estuvo, si si estÃ¡ bien configurado.
+
+458
+00:55:07.520 --> 00:55:09.020
+Adrian Ezequiel Martï¿½nez: Pick, ahÃ­ estÃ¡
+
+459
+00:55:12.740 --> 00:55:18.360
+Adrian Ezequiel Martï¿½nez: mensajes, ahÃ­, te te abre un Browser propio de
+
+460
+00:55:19.290 --> 00:55:24.799
+Adrian Ezequiel Martï¿½nez: de de de urb, o sea, encapsulado en Bur que es de
+
+461
+00:55:25.030 --> 00:55:28.740
+Adrian Ezequiel Martï¿½nez: Cronium, Cronium, mira, vos no no lo habÃ­a visto nunca.
+
+462
+00:55:31.150 --> 00:55:36.340
+Adrian Ezequiel Martï¿½nez: Hab HabrÃ¡ un browser dentro de de la aplicaciÃ³n que supongo que se podrÃ¡ cambiar. Desconozco.
+
+463
+00:55:36.610 --> 00:55:38.839
+Adrian Ezequiel Martï¿½nez: pero bueno, en este caso viene bien para
+
+464
+00:55:40.360 --> 00:55:42.490
+Adrian Ezequiel Martï¿½nez: para lo que vamos a realizar
+
+465
+00:55:43.250 --> 00:55:49.659
+Adrian Ezequiel Martï¿½nez: y ingresamos a a la aplicaciÃ³n. AcÃ¡ Hay un hay que tener algo. Este.
+
+466
+00:55:50.100 --> 00:55:55.230
+Adrian Ezequiel Martï¿½nez: Hay que tener en cuenta que todavÃ­a yo no activÃ© ningÃºn proxy. EstÃ¡ todo apagado.
+
+467
+00:55:56.230 --> 00:56:01.370
+Adrian Ezequiel Martï¿½nez: o sea, lo puedo acÃ¡, puedo navegar tranquilamente, o sea, que no, no va a pasar nada.
+
+468
+00:56:01.670 --> 00:56:04.910
+Adrian Ezequiel Martï¿½nez: SÃ­, AcÃ¡ no estÃ¡ interceptando trÃ¡fico.
+
+469
+00:56:05.220 --> 00:56:17.610
+Adrian Ezequiel Martï¿½nez: BÃ¡sicamente, no no estÃ¡ pasando nada a menos que quiere interceptarlo, que quieren interceptar una, un una request
+
+470
+00:56:18.250 --> 00:56:23.439
+Adrian Ezequiel Martï¿½nez: propia de que se estÃ¡ ejecutando dentro de este browser que me levantÃ³ burp
+
+471
+00:56:25.800 --> 00:56:32.189
+Adrian Ezequiel Martï¿½nez: si yo quisiese interceptarlo. Lo Ãºnico que hay que hacer es prender el el intercept.
+
+472
+00:56:33.190 --> 00:56:35.280
+Adrian Ezequiel Martï¿½nez: Nada mÃ¡s es tan simple como eso.
+
+473
+00:56:35.530 --> 00:56:46.440
+Adrian Ezequiel Martï¿½nez: Entonces, Ahora, cualquier cosa que hagamos la va a interceptar, como, por ejemplo, volver a cargarla.
+
+474
+00:56:47.890 --> 00:56:54.580
+Adrian Ezequiel Martï¿½nez: Entonces lo que hace es interceptar. Lo que estÃ¡ ocurriendo es que intercepta el el request.
+
+475
+00:56:55.090 --> 00:57:03.220
+Adrian Ezequiel Martï¿½nez: Yo, en este caso le di click al al logo para que la recargue, y el el resultado es
+
+476
+00:57:04.810 --> 00:57:12.169
+Adrian Ezequiel Martï¿½nez: me lo curro acÃ¡ como es un proxy. Lo que estÃ¡ haciendo es interceptar esa request y pararla
+
+477
+00:57:12.970 --> 00:57:18.670
+Adrian Ezequiel Martï¿½nez: Entonces acÃ¡. Lo que tenemos es toda la request que se acaba de enviar bÃ¡sicamente
+
+478
+00:57:19.640 --> 00:57:26.610
+Adrian Ezequiel Martï¿½nez: en Formato Raw y y en hexa tambiÃ©n. Si si se quieren divertir con otro formato.
+
+479
+00:57:27.800 --> 00:57:29.000
+ARIEL ALEJANDRO QUINTERO: En Brasil, y no.
+
+480
+00:57:29.000 --> 00:57:29.470
+Adrian Ezequiel Martï¿½nez: Es el mÃ¡s.
+
+481
+00:57:29.470 --> 00:57:32.570
+ARIEL ALEJANDRO QUINTERO: Aprovecho ahÃ­ a mencionar
+
+482
+00:57:32.820 --> 00:57:41.819
+ARIEL ALEJANDRO QUINTERO: si se va al H. T. Tve History puede ver la peticiÃ³n anterior. El intercept, justamente lo que hace es
+
+483
+00:57:42.030 --> 00:57:46.129
+ARIEL ALEJANDRO QUINTERO: interceptarla en tiempo real. El Ht registrar y es como que va dejando pasar.
+
+484
+00:57:46.860 --> 00:57:51.539
+Adrian Ezequiel Martï¿½nez: Mira la tenÃ­a. Mira El las interacciones que hicimos antes. MirÃ¡.
+
+485
+00:57:51.540 --> 00:57:52.920
+ARIEL ALEJANDRO QUINTERO: Exacto.
+
+486
+00:57:52.920 --> 00:57:57.170
+Adrian Ezequiel Martï¿½nez: No tenÃ­a esa claro de debe tener las del rÃ©ferer. Calculo.
+
+487
+00:57:57.950 --> 00:58:13.340
+ARIEL ALEJANDRO QUINTERO: Claro es el el Intercept, justamente como lo hice. Intercepta en tiempo real. Claro, es como que le da forwar a todo el, o sea, por defecto. Si no estÃ¡ el el intercepto en on, le da como forbor a todo, pero lo puede ir a ver en Ht, Phistory.
+
+488
+00:58:14.650 --> 00:58:15.990
+Adrian Ezequiel Martï¿½nez: Mira, no tenÃ­a esa.
+
+489
+00:58:18.030 --> 00:58:23.279
+Adrian Ezequiel Martï¿½nez: Mira, Po: Bueno, se puede ver el Request y el response de ese momento. Mira, no la tenÃ­a. Esa.
+
+490
+00:58:24.290 --> 00:58:24.929
+ARIEL ALEJANDRO QUINTERO: O sea que.
+
+491
+00:58:24.930 --> 00:58:25.440
+Adrian Ezequiel Martï¿½nez: Claro que.
+
+492
+00:58:25.440 --> 00:58:25.760
+ARIEL ALEJANDRO QUINTERO: Totalmente.
+
+493
+00:58:25.760 --> 00:58:26.770
+Adrian Ezequiel Martï¿½nez: Recientemente.
+
+494
+00:58:27.130 --> 00:58:30.549
+ARIEL ALEJANDRO QUINTERO: Claro cuando cuando s o sea, cuando lo abres del navegador sÃ­.
+
+495
+00:58:30.550 --> 00:58:31.050
+Adrian Ezequiel Martï¿½nez: SÃ­.
+
+496
+00:58:31.050 --> 00:58:40.750
+ARIEL ALEJANDRO QUINTERO: Si lo hace con un navegador externo, usando justamente confiando el proxy egure, puede habilitarlo o no, por ejemplo, con.
+
+497
+00:58:40.750 --> 00:58:41.250
+Adrian Ezequiel Martï¿½nez: No sÃ©.
+
+498
+00:58:41.250 --> 00:58:42.990
+ARIEL ALEJANDRO QUINTERO: Manager, la extensiÃ³n.
+
+499
+00:58:43.280 --> 00:58:43.830
+Adrian Ezequiel Martï¿½nez: SÃ­.
+
+500
+00:58:43.830 --> 00:58:50.479
+ARIEL ALEJANDRO QUINTERO: Me permite confiarles particularmente. Soy muy fan de de Firefox.
+
+501
+00:58:50.480 --> 00:58:54.020
+Adrian Ezequiel Martï¿½nez: Bien, SÃ­, Yo acÃ¡. No sÃ© si se ve, pero tengo.
+
+502
+00:58:54.930 --> 00:58:56.330
+Adrian Ezequiel Martï¿½nez: Fue.
+
+503
+00:58:56.690 --> 00:59:00.480
+ARIEL ALEJANDRO QUINTERO: Y es la mÃ¡s grande que hay en EspaÃ±a.
+
+504
+00:59:00.480 --> 00:59:05.900
+Adrian Ezequiel Martï¿½nez: SÃ­, por mÃ¡s que tiene el sÃ­ yo, las cosas particulares. Las uso con
+
+505
+00:59:06.650 --> 00:59:14.460
+Adrian Ezequiel Martï¿½nez: con Firefox y el resto con con Break. Y este comentario fuera de de programa
+
+506
+00:59:15.270 --> 00:59:24.460
+Adrian Ezequiel Martï¿½nez: es un roaser muy livianito, que no sÃ© si lo levanto ahora, pero este sÃºper no es safari.
+
+507
+00:59:24.780 --> 00:59:42.619
+Adrian Ezequiel Martï¿½nez: Es 1 que no su superliviano sÃºper rÃ¡pido. Y bueno, tienen que interactuar con con algÃºn sitio que te Mata Request, que te baja un montÃ³n de request y ves que el Browser se saca la lengua y pide, por favor, este este la verdad va sÃºper bien.
+
+508
+00:59:43.220 --> 00:59:45.090
+ARIEL ALEJANDRO QUINTERO: PerdÃ³n, pero Â¿se puede repetir el nombre.
+
+509
+00:59:46.130 --> 00:59:47.200
+Adrian Ezequiel Martï¿½nez: Ya te digo.
+
+510
+00:59:56.630 --> 01:00:03.720
+ARIEL ALEJANDRO QUINTERO: TambiÃ©n. Otra recomendaciÃ³n para los compaÃ±eros. EstÃ¡n trabajando en soria ofensiva es que
+
+511
+01:00:04.220 --> 01:00:08.189
+ARIEL ALEJANDRO QUINTERO: guarden la sesiÃ³n de burr, porque ya me ha pasado que
+
+512
+01:00:08.650 --> 01:00:11.930
+ARIEL ALEJANDRO QUINTERO: me olvido de sacar captura o algo y se pierde.
+
+513
+01:00:12.950 --> 01:00:13.760
+Adrian Ezequiel Martï¿½nez: Web.
+
+514
+01:00:13.910 --> 01:00:15.420
+Adrian Ezequiel Martï¿½nez: Lisa y llanamente.
+
+515
+01:00:16.310 --> 01:00:17.590
+ARIEL ALEJANDRO QUINTERO: Fuera de educaciÃ³n.
+
+516
+01:00:18.130 --> 01:00:19.589
+Adrian Ezequiel Martï¿½nez: Es es de genoma.
+
+517
+01:00:21.100 --> 01:00:22.150
+ARIEL ALEJANDRO QUINTERO: Okay.
+
+518
+01:00:22.300 --> 01:00:24.569
+ARIEL ALEJANDRO QUINTERO: No, no hay versiÃ³n para Windows.
+
+519
+01:00:24.570 --> 01:00:32.090
+Adrian Ezequiel Martï¿½nez: Supongo que no, Pero en un momento tuve muchos problemas con con la cantidad de request que tenÃ­a.
+
+520
+01:00:32.460 --> 01:00:38.729
+Adrian Ezequiel Martï¿½nez: Y y y me me me molestaba que que me mate el consumo.
+
+521
+01:00:38.880 --> 01:00:41.400
+Adrian Ezequiel Martï¿½nez: Entonces me busquÃ© un 1 que
+
+522
+01:00:41.650 --> 01:00:44.429
+Adrian Ezequiel Martï¿½nez: que no con que que sea superliviano.
+
+523
+01:00:44.650 --> 01:00:50.839
+Adrian Ezequiel Martï¿½nez: que no levante en el fondo, no levanta plaguines ni nada. Es un intÃ©rprete de Html, puro.
+
+524
+01:00:50.960 --> 01:00:57.399
+Adrian Ezequiel Martï¿½nez: hecho, un genoma nada mÃ¡s, pero calculo que va a haber para para otros sistemas igual seguro.
+
+525
+01:00:57.820 --> 01:00:59.820
+Adrian Ezequiel Martï¿½nez: o este mismo, por esta portada.
+
+526
+01:01:01.680 --> 01:01:08.319
+ARIEL ALEJANDRO QUINTERO: DespuÃ©s lo lo voy a buscar. SÃ­, la verdad estÃ¡. EstÃ¡. Bueno. Hay veces que Chrome mata cualquier computadora.
+
+527
+01:01:08.320 --> 01:01:12.819
+Adrian Ezequiel Martï¿½nez: SÃ­, sÃ­, sÃ­, yo. Yo Yo dejÃ© de utilizar Chrome por por eso.
+
+528
+01:01:13.760 --> 01:01:18.560
+Adrian Ezequiel Mart�nez: pues mi mi las últimas versiones me estaban matando. Y tengo. Si bien tengo
+
+529
+01:01:19.130 --> 01:01:25.600
+Adrian Ezequiel Mart�nez: este 32 gigas de de R a m. Este chrome me las mataba.
+
+530
+01:01:26.400 --> 01:01:28.140
+Adrian Ezequiel Mart�nez: Entonces no me dejaba hacer nada.
+
+531
+01:01:29.140 --> 01:01:30.739
+ARIEL ALEJANDRO QUINTERO: Y hay que matar 32.
+
+532
+01:01:31.150 --> 01:01:35.320
+Adrian Ezequiel Mart�nez: Sí hay que hay hay que matar. Hay que me tiene que consumir un browser de 32 gigas.
+
+533
+01:01:36.050 --> 01:01:42.599
+Adrian Ezequiel Mart�nez: Entonces en un momento, dije, ah, sí, y todo lo personal, lo paso por Firefox
+
+534
+01:01:43.110 --> 01:01:47.290
+Adrian Ezequiel Mart�nez: y el resto lo paso por por Break.
+
+535
+01:01:47.800 --> 01:01:52.169
+Adrian Ezequiel Mart�nez: igual. Break está empezando a a tener problemitas de performance.
+
+536
+01:01:53.250 --> 01:01:54.959
+ARIEL ALEJANDRO QUINTERO: Es que está basado en Prado.
+
+537
+01:01:54.960 --> 01:01:58.460
+Adrian Ezequiel Mart�nez: Sí, el mismo motor tiene lo mismo que el nuevo Edge.
+
+538
+01:01:58.920 --> 01:01:59.450
+ARIEL ALEJANDRO QUINTERO: Ah.
+
+539
+01:01:59.620 --> 01:02:05.759
+Adrian Ezequiel Mart�nez: No, no es nuevo ya la todo. Todo lo que es Edge tiene está basado en el mismo motor, así que
+
+540
+01:02:06.230 --> 01:02:07.970
+Adrian Ezequiel Mart�nez: l los mismos problemas.
+
+541
+01:02:09.420 --> 01:02:17.589
+Adrian Ezequiel Mart�nez: Así, Bueno, volviendo a lo anterior, como bien comentaron, lo que está haciendo es agarrando esta esta invocación
+
+542
+01:02:19.730 --> 01:02:25.450
+Adrian Ezequiel Mart�nez: y no no la deja seguir de largo. Nosotros la podríamos dejar. Le podríamos decir que siga
+
+543
+01:02:25.860 --> 01:02:32.130
+Adrian Ezequiel Mart�nez: la Ford guardeamos y sigue de largo, No pasa nada U, por ejemplo.
+
+544
+01:02:32.730 --> 01:02:35.860
+Adrian Ezequiel Mart�nez: si le damos a blog, me intercepta la
+
+545
+01:02:37.290 --> 01:02:43.720
+Adrian Ezequiel Mart�nez: L la request de de blog a hacia el blog la vara.
+
+546
+01:02:43.820 --> 01:02:51.680
+Adrian Ezequiel Mart�nez: Pero como no nos interesa, la seguimos de largo y el sitio se se refresca
+
+547
+01:02:53.250 --> 01:02:57.599
+Adrian Ezequiel Mart�nez: puntualmente. Lo que vamos a interceptar es un login
+
+548
+01:02:58.270 --> 01:03:02.940
+Adrian Ezequiel Mart�nez: y modificar un un un unos, 1 o 2 parámetros.
+
+549
+01:03:03.820 --> 01:03:06.159
+Adrian Ezequiel Mart�nez: Entonces para eso vamos a interceptar.
+
+550
+01:03:06.600 --> 01:03:12.070
+Adrian Ezequiel Mart�nez: Está prendida la el el intercept, vamos a interceptar el login.
+
+551
+01:03:13.410 --> 01:03:19.750
+Adrian Ezequiel Mart�nez: Entonces acá lo que vemos es la primera llamada login al formulario de Login. Básicamente.
+
+552
+01:03:19.970 --> 01:03:25.470
+Adrian Ezequiel Mart�nez: Y como esto no es lo que nos nos interesa o sí. Pero para este ejemplo no
+
+553
+01:03:27.250 --> 01:03:28.549
+Adrian Ezequiel Mart�nez: que siga de largo.
+
+554
+01:03:29.450 --> 01:03:38.490
+Adrian Ezequiel Mart�nez: Entonces, al seguir de largo el sitio, este se va a car a cargar perdón o debería.
+
+555
+01:03:40.070 --> 01:03:43.009
+Adrian Ezequiel Mart�nez: Poco hoy me estuvo dando error de Token.
+
+556
+01:03:47.320 --> 01:03:50.439
+Adrian Ezequiel Mart�nez: así que supongo que debe ser Por este
+
+557
+01:03:51.290 --> 01:03:56.230
+Adrian Ezequiel Mart�nez: portaimov descubrí que si lo dejaba mucho tiempo, me me saltaba por
+
+558
+01:03:57.060 --> 01:04:02.399
+Adrian Ezequiel Mart�nez: por error de Token y yo pensé que debía ser por por Time Out, por el por el tiempo.
+
+559
+01:04:03.530 --> 01:04:05.839
+CAMILO CEDRÉS AGUIRRE: Pero tenés o trabajar.
+
+560
+01:04:06.210 --> 01:04:07.150
+Adrian Ezequiel Mart�nez: Ahí está.
+
+561
+01:04:07.360 --> 01:04:09.310
+Adrian Ezequiel Mart�nez: Muchas gracias. Ahora, sí.
+
+562
+01:04:09.800 --> 01:04:11.979
+Adrian Ezequiel Mart�nez: Y llegamos al formulario de Login.
+
+563
+01:04:14.330 --> 01:04:19.100
+Adrian Ezequiel Mart�nez: Acá Bueno, el el sitio te te te tira la respuesta, ¿no?
+
+564
+01:04:19.400 --> 01:04:26.169
+Adrian Ezequiel Mart�nez: Pero lo que vamos a hacer es este utilizar una de esas respuestas.
+
+565
+01:04:30.680 --> 01:04:36.429
+Adrian Ezequiel Mart�nez: Entonces acá escribimos el el usuario en este caso es Carlos, que lo podemos haber puesto admin.
+
+566
+01:04:37.040 --> 01:04:43.970
+Adrian Ezequiel Mart�nez: Y lo que vemos acá es el en el request.
+
+567
+01:04:44.280 --> 01:04:51.890
+Adrian Ezequiel Mart�nez: el un token, que es el que se venía venciendo durante todo el día que me me se me estuvo venciendo, que les contaba recién
+
+568
+01:04:52.910 --> 01:04:57.220
+Adrian Ezequiel Mart�nez: y un parámetro user name que
+
+569
+01:04:57.690 --> 01:05:05.480
+Adrian Ezequiel Mart�nez: nosotros, en este momento, lo estamos viendo que se llama dicerne, pero se podría llamar lo que el que diseñó la página que era
+
+570
+01:05:05.660 --> 01:05:12.259
+Adrian Ezequiel Mart�nez: y el contenido de que que pusimos recién en este ejemplo. Carlos
+
+571
+01:05:12.850 --> 01:05:19.599
+Adrian Ezequiel Mart�nez: hasta ahora no ingresamos nunca Password porque no nos las pidió. Entonces seguimos de largo
+
+572
+01:05:21.070 --> 01:05:25.299
+Adrian Ezequiel Mart�nez: Y acá llegamos al password porque el sitio está hecho así.
+
+573
+01:05:25.520 --> 01:05:32.770
+Adrian Ezequiel Mart�nez: Tiene 2 formularios, 1 para el usuario y otro para el password sacando que en este caso te lo está cantando, te está diciendo cuál es
+
+574
+01:05:33.060 --> 01:05:35.839
+Adrian Ezequiel Mart�nez: nosotros, vamos a poner cualquier cosa
+
+575
+01:05:40.260 --> 01:05:41.600
+Adrian Ezequiel Mart�nez: para capturarlo.
+
+576
+01:05:47.690 --> 01:05:53.159
+Adrian Ezequiel Mart�nez: Entonces vemos que mantiene el el el token, seguramente haya cambiado
+
+577
+01:05:55.130 --> 01:05:58.809
+Adrian Ezequiel Mart�nez: el usuario es el mismo que ingresamos antes Carlos.
+
+578
+01:05:59.230 --> 01:06:05.430
+Adrian Ezequiel Mart�nez: Y Ahora vemos que hay una nueva, un una nueva variable, un nuevo atributo que se llama Password.
+
+579
+01:06:06.340 --> 01:06:12.080
+Adrian Ezequiel Mart�nez: y que tiene el lo que cargamos recién como como credencial.
+
+580
+01:06:12.230 --> 01:06:18.860
+Adrian Ezequiel Mart�nez: En este caso, la válida es Hunter, 2, pero le puse cualquier cosa.
+
+581
+01:06:19.470 --> 01:06:21.470
+Adrian Ezequiel Mart�nez: Si esto lo dejamos correr.
+
+582
+01:06:24.840 --> 01:06:26.590
+Adrian Ezequiel Mart�nez: va a decir inválido.
+
+583
+01:06:27.160 --> 01:06:33.149
+Adrian Ezequiel Mart�nez: Entonces, Ahora, lo que vamos a hacer es modificar la request desde el desde la aplicación desde Burt
+
+584
+01:06:33.260 --> 01:06:40.100
+Adrian Ezequiel Mart�nez: para loguearnos como si quisiésemos este bpasear un un login.
+
+585
+01:06:41.200 --> 01:06:48.840
+Adrian Ezequiel Mart�nez: Entonces, acá, en en en el Pe la contraseña, le podemos poner cualquier cosa.
+
+586
+01:06:53.730 --> 01:06:55.920
+Adrian Ezequiel Mart�nez: entonces la la la intercepta.
+
+587
+01:07:00.040 --> 01:07:05.650
+Adrian Ezequiel Mart�nez: inter sigue manteniendo el la la misma.
+
+588
+01:07:06.300 --> 01:07:15.620
+Adrian Ezequiel Mart�nez: los mismos. Hay di los los mismos parámetros y User Carlos y Password. Lo que pusimos recién lo que complete ahí, que va a aparecer con
+
+589
+01:07:15.920 --> 01:07:17.210
+Adrian Ezequiel Mart�nez: con puntitos.
+
+590
+01:07:17.520 --> 01:07:32.870
+Adrian Ezequiel Mart�nez: Pero sabemos que la la password Hunter en en este caso nos ahorramos un montón de de trabajo, porque ha habría que tal vez tratar de de de buscarla, de de interpretarla, de de obtenerla de alguna manera
+
+591
+01:07:33.170 --> 01:07:35.770
+Adrian Ezequiel Mart�nez: que ya vamos a ver más adelante.
+
+592
+01:07:36.770 --> 01:07:41.039
+Adrian Ezequiel Mart�nez: Entonces simplemente nosotros ahora cambiamos así
+
+593
+01:07:41.210 --> 01:07:50.069
+Adrian Ezequiel Mart�nez: la password, porque ya la sabemos, modificamos la request porque la la tenemos interceptada.
+
+594
+01:07:50.580 --> 01:07:55.439
+Adrian Ezequiel Mart�nez: Y cuando la dejamos correr ya con el cambio realizado.
+
+595
+01:08:00.070 --> 01:08:05.590
+Adrian Ezequiel Mart�nez: otra más, vemos que efectivamente nos lo guiamos.
+
+596
+01:08:07.230 --> 01:08:11.119
+Adrian Ezequiel Mart�nez: voy a pagar esto porque si no, cada cosa que hagamos lo lo ofrenda
+
+597
+01:08:11.750 --> 01:08:16.600
+Adrian Ezequiel Mart�nez: y efectivamente, ahora estamos logueados en la aplicación, vamos con.
+
+598
+01:08:17.990 --> 01:08:21.999
+Adrian Ezequiel Mart�nez: Somos Carlos, supuestamente el usuario Carlos.
+
+599
+01:08:22.870 --> 01:08:28.849
+Adrian Ezequiel Mart�nez: Entonces, esto es un un bypass de de login medio sencillo.
+
+600
+01:08:31.910 --> 01:08:44.060
+Adrian Ezequiel Mart�nez: Después, por ejemplo, pod podríamos utilizar el a ver si me sale, nos dilogueamos.
+
+601
+01:08:47.300 --> 01:08:54.200
+Adrian Ezequiel Mart�nez: Vamos a volvernos a bloquear esta vez online. Fue bien.
+
+602
+01:09:00.600 --> 01:09:04.100
+Adrian Ezequiel Mart�nez: esto es un montón que no lo uso, Así que puede fallar
+
+603
+01:09:05.029 --> 01:09:06.810
+Adrian Ezequiel Mart�nez: y nos vamos a divertir si fallas
+
+604
+01:09:08.720 --> 01:09:18.810
+Adrian Ezequiel Mart�nez: ahí. Capturamos en este caso un recuest verdadero. No es el usamos el usuario Carlos y el usuario y la contraseña Hunter, 2
+
+605
+01:09:19.000 --> 01:09:22.410
+Adrian Ezequiel Mart�nez: como para ingresar directamente total. Ya la conocemos.
+
+606
+01:09:23.450 --> 01:09:26.680
+Adrian Ezequiel Mart�nez: y dentro de de todas las funcionalidades que tiene.
+
+607
+01:09:28.020 --> 01:09:36.790
+Adrian Ezequiel Mart�nez: como Como bien comentaron, además de del history de todas las invocaciones y y el historial de todos los riques y rispons que que ocurrieron.
+
+608
+01:09:37.310 --> 01:09:40.100
+Adrian Ezequiel Mart�nez: Tenemos algo que se llama repiter
+
+609
+01:09:42.130 --> 01:09:45.530
+Adrian Ezequiel Mart�nez: entonces para utilizar el repreter. Lo que tenemos que hacer
+
+610
+01:09:46.290 --> 01:09:54.730
+Adrian Ezequiel Mart�nez: es, si mal no recuerdo es enviar esta request que capturamos
+
+611
+01:09:56.390 --> 01:09:59.310
+Adrian Ezequiel Mart�nez: al a la funcionalidad del repiter.
+
+612
+01:10:01.990 --> 01:10:03.359
+Adrian Ezequiel Mart�nez: Y acá. La tenemos.
+
+613
+01:10:03.590 --> 01:10:15.709
+Adrian Ezequiel Mart�nez: Esto que nos va a permitir hacer, por ejemplo, detectar algunos algunos atributos donde nosotros, digamos.
+
+614
+01:10:16.020 --> 01:10:18.560
+Adrian Ezequiel Mart�nez: Este es el nombre del usuario, por ejemplo.
+
+615
+01:10:21.900 --> 01:10:24.120
+Adrian Ezequiel Mart�nez: Y este es el pa el password.
+
+616
+01:10:25.460 --> 01:10:29.629
+Adrian Ezequiel Mart�nez: No lo voy a hacer porque no tengo una lista de password en este momento en la máquina.
+
+617
+01:10:30.700 --> 01:10:34.140
+Adrian Ezequiel Mart�nez: pero este podríamos este.
+
+618
+01:10:34.550 --> 01:10:48.750
+Adrian Ezequiel Mart�nez: o sea, lo lo vamos a hacer más adelante. Que quedese tranquilos. Podríamos tener una lista de de credenciales de del par usuario contraseña o del solamente de la contraseña
+
+619
+01:10:50.750 --> 01:10:59.189
+Adrian Ezequiel Mart�nez: y y empezar a hacer repeticiones hasta probar cuál es la que realmente funciona y evaluar el Ris Ponse.
+
+620
+01:10:59.550 --> 01:11:04.600
+Adrian Ezequiel Mart�nez: que nos va a dar para saber si esa puede funcionar o no.
+
+621
+01:11:05.060 --> 01:11:08.279
+Adrian Ezequiel Mart�nez: Lo interesante que tiene es que
+
+622
+01:11:09.110 --> 01:11:14.240
+Adrian Ezequiel Mart�nez: hay hay sitios que este a A todos nos debe ocurrir
+
+623
+01:11:14.690 --> 01:11:21.689
+Adrian Ezequiel Mart�nez: cuando 1 ingresa, por ejemplo, de 3 o 5 o o la cantidad de veces que esté
+
+624
+01:11:21.790 --> 01:11:31.070
+Adrian Ezequiel Mart�nez: que que tenga la la regla del donde estemos intentando ingresar la password mal nos va a bloque, se nos bloquea la cuenta
+
+625
+01:11:31.680 --> 01:11:39.600
+Adrian Ezequiel Mart�nez: o, por ejemplo, si la ingresamos, si si tratamos de loguearnos 3 veces seguidas durante
+
+626
+01:11:39.800 --> 01:11:44.950
+Adrian Ezequiel Mart�nez: en menos de X tiempo. En menos de 20 s, por ejemplo.
+
+627
+01:11:45.100 --> 01:11:47.860
+Adrian Ezequiel Mart�nez: salta una alerta en algún monitoreo
+
+628
+01:11:48.220 --> 01:11:53.600
+Adrian Ezequiel Mart�nez: y nos bloquean la cuenta. Entonces lo que el repater nos va a permitir hacer es
+
+629
+01:11:54.070 --> 01:11:59.599
+Adrian Ezequiel Mart�nez: que se haga un intento cada un minuto, por ejemplo.
+
+630
+01:11:59.830 --> 01:12:04.350
+Adrian Ezequiel Mart�nez: o un o probar una lista de
+
+631
+01:12:04.460 --> 01:12:15.639
+Adrian Ezequiel Mart�nez: de de contraseñas de de parámetros de valores que querramos pasar a un parámetro en particular en este caso, un usuario y y una contraseña.
+
+632
+01:12:17.500 --> 01:12:22.629
+Adrian Ezequiel Mart�nez: Este hay un tin, tiene un montón de de info también como poder verlogs
+
+633
+01:12:22.920 --> 01:12:26.289
+Adrian Ezequiel Mart�nez: que se fueron realizando como lo que contaban recién de
+
+634
+01:12:26.400 --> 01:12:28.929
+Adrian Ezequiel Mart�nez: del historial de del H. L. T. B,
+
+635
+01:12:29.340 --> 01:12:35.730
+Adrian Ezequiel Mart�nez: donde pueden ver desde dónde se envía la las cookies.
+
+636
+01:12:36.070 --> 01:12:40.890
+Adrian Ezequiel Mart�nez: la información que pueden ver del del del Browser.
+
+637
+01:12:41.130 --> 01:12:45.040
+Adrian Ezequiel Mart�nez: como por ejemplo, el el Iseration. También esto se puede ver desde las de tools.
+
+638
+01:12:46.390 --> 01:12:51.670
+Adrian Ezequiel Mart�nez: el elenco utilizado, que es lo que estuvimos conversando hoy.
+
+639
+01:12:52.210 --> 01:12:55.259
+Adrian Ezequiel Mart�nez: que es en este caso es de este tipo
+
+640
+01:12:59.490 --> 01:13:02.530
+Adrian Ezequiel Mart�nez: y ver el el código que viene del otro lado
+
+641
+01:13:12.540 --> 01:13:18.840
+Adrian Ezequiel Mart�nez: son 2: 1 e ingresamos este.
+
+642
+01:13:19.120 --> 01:13:24.919
+Adrian Ezequiel Mart�nez: Así que lo lo que nos permite hacer esta esta herramienta. Lo vamos a a utilizar en
+
+643
+01:13:25.120 --> 01:13:30.520
+Adrian Ezequiel Mart�nez: en en en más proebitas más adelante en en más este sí demostraciones.
+
+644
+01:13:30.720 --> 01:13:38.710
+Adrian Ezequiel Mart�nez: Este es, básicamente interceptar una una request, modificarla de alguna manera
+
+645
+01:13:38.890 --> 01:13:45.240
+Adrian Ezequiel Mart�nez: y y darle que que Hidro y hacer el Forward para que siga
+
+646
+01:13:46.160 --> 01:13:56.130
+Adrian Ezequiel Mart�nez: justo. Se me escapó la la palabra drop. Si quisiésemos, ta también podemos, este, por ejemplo, interceptamos algo
+
+647
+01:13:58.150 --> 01:14:04.939
+Adrian Ezequiel Mart�nez: y no es lo que queríamos interceptar, puedes dropearlo.
+
+648
+01:14:07.810 --> 01:14:09.170
+Adrian Ezequiel Mart�nez: Y perdiste
+
+649
+01:14:09.360 --> 01:14:18.020
+Adrian Ezequiel Mart�nez: el el request. En ese caso, o sea, lo que hiciste, fue capturarlo y tirarlo del otro lado, no llegó nada. Podría ser muy útil
+
+650
+01:14:18.160 --> 01:14:24.270
+Adrian Ezequiel Mart�nez: para para ver algún error o para ver cómo reacciona el En este caso, el sitio
+
+651
+01:14:27.810 --> 01:14:36.660
+Adrian Ezequiel Mart�nez: Lo apago. Ahí está, en este caso el sitio al momento de de dropear una una recuest que la request no llegue a destino nunca
+
+652
+01:14:36.810 --> 01:14:38.220
+Adrian Ezequiel Mart�nez: de de tirarla.
+
+653
+01:14:40.360 --> 01:14:41.510
+Adrian Ezequiel Mart�nez: Este
+
+654
+01:14:41.810 --> 01:14:56.480
+Adrian Ezequiel Mart�nez: hay un hay un montón de de tutoriales dando vueltas si quieren ver bien en en profundidad algún a alguna funcionalidad en particular, pero básicamente las las que vamos a utilizar y las que se van a utilizar en el T. P. Es
+
+655
+01:14:56.790 --> 01:15:00.710
+Adrian Ezequiel Mart�nez: básicamente un proxy, la el proxy.
+
+656
+01:15:01.090 --> 01:15:09.920
+Adrian Ezequiel Mart�nez: y seguramente el el repater que lo lo vamos a estar este este mirando más más adelante.
+
+657
+01:15:19.830 --> 01:15:33.740
+EXEQUIEL ALVAREZ BIANCO: Consulta. La esto de tirar la conexión que acabamos que acabas de decir recién y ver cómo reacciona El sitio. Me puede servir para sacar algún endpoint o cuál sería un un caso de uso real? No.
+
+658
+01:15:45.040 --> 01:15:46.589
+MARTIN DAUS: Estás silenciado. Profe.
+
+659
+01:15:51.840 --> 01:15:57.710
+EXEQUIEL ALVAREZ BIANCO: Creo que se me cayó si no, su foto se cortó la yo que sé.
+
+660
+01:15:58.970 --> 01:16:01.700
+Adrian Ezequiel Mart�nez: Estaba mudeado, perdón.
+
+661
+01:16:01.920 --> 01:16:12.839
+Adrian Ezequiel Mart�nez: un un endpoint, No, con Burp? No, No, no, Nunca me usé con ese caso de uso a menos que por ahí, que es es bastante normal
+
+662
+01:16:13.350 --> 01:16:18.830
+Adrian Ezequiel Mart�nez: que justo en el request encuentres algún comentario de algo que
+
+663
+01:16:19.620 --> 01:16:30.340
+Adrian Ezequiel Mart�nez: que te que te pueda dar indicios, o muchas veces se escapa en algún repositorio, algún archivo de configuración o algo y justo, Te cayó en una requesla referencia.
+
+664
+01:16:30.910 --> 01:16:36.140
+Adrian Ezequiel Mart�nez: Pero para para saber este, End Points o
+
+665
+01:16:36.350 --> 01:16:40.800
+Adrian Ezequiel Mart�nez: puntualmente infraestructura, este he utilizado maltego
+
+666
+01:16:41.910 --> 01:16:47.329
+Adrian Ezequiel Mart�nez: que te hace un un research bastante bastante bueno de de lo que está online.
+
+667
+01:16:48.770 --> 01:16:57.670
+Adrian Ezequiel Mart�nez: Y si no una una herramienta, y vuelvo a compartir, puc
+
+668
+01:16:59.970 --> 01:17:08.270
+Adrian Ezequiel Mart�nez: ahí estamos. Que seguramente la la vieron en aquí se ha visto en en alguna materia.
+
+669
+01:17:09.030 --> 01:17:17.070
+Adrian Ezequiel Mart�nez: en seguridad ofensiva. Creo que se la comentan donde puedes ver este
+
+670
+01:17:21.540 --> 01:17:26.480
+Adrian Ezequiel Mart�nez: algún este algún emboin que sea este público.
+
+671
+01:17:33.130 --> 01:17:37.210
+Adrian Ezequiel Mart�nez: Acá Podrías buscar este A en Endpoints públicos.
+
+672
+01:17:37.640 --> 01:17:41.900
+Adrian Ezequiel Mart�nez: No se me ocurre ninguno, pero vamos a explorar. Por ejemplo.
+
+673
+01:17:54.410 --> 01:17:57.100
+Adrian Ezequiel Mart�nez: podría Podríamos buscar.
+
+674
+01:18:01.050 --> 01:18:02.359
+Adrian Ezequiel Mart�nez: Y tengo que diluviar.
+
+675
+01:18:04.490 --> 01:18:13.090
+Adrian Ezequiel Mart�nez: No creo ya, pero a acá. Podría puede ser Se te listarían este aplicaciones
+
+676
+01:18:13.350 --> 01:18:16.559
+Adrian Ezequiel Mart�nez: que que está, que estarían públicas o que Jodan haya
+
+677
+01:18:17.120 --> 01:18:25.600
+Adrian Ezequiel Mart�nez: haya tenido en algún momento la manera de hacer el Inspec y y monitorizarlo.
+
+678
+01:18:28.540 --> 01:18:32.259
+Adrian Ezequiel Mart�nez: ¿qué máquina lo puedo antes. Antes, te dejaba hacer búsquedas gratuitas.
+
+679
+01:18:38.630 --> 01:18:46.440
+Adrian Ezequiel Mart�nez: No sé. Por ejemplo, ahí está. Mira, vale.
+
+680
+01:18:52.480 --> 01:18:53.310
+Adrian Ezequiel Mart�nez: pobre.
+
+681
+01:18:57.310 --> 01:19:01.580
+Adrian Ezequiel Mart�nez: no ya está. Volvemos al ejemplo de alguien que se llama Casio.
+
+682
+01:19:02.270 --> 01:19:07.780
+Adrian Ezequiel Mart�nez: Y Po. Podrías ver, por ejemplo, acá podrías tener información. Si tuvieses un un Ip.
+
+683
+01:19:07.940 --> 01:19:12.859
+Adrian Ezequiel Mart�nez: podrías tener información de de esa infraestructura, siempre y cuando haya pasado por
+
+684
+01:19:13.110 --> 01:19:16.430
+Adrian Ezequiel Mart�nez: por alguna por algún I alguna inspección de yoda.
+
+685
+01:19:17.400 --> 01:19:19.539
+Adrian Ezequiel Mart�nez: Por ejemplo, podrías ver
+
+686
+01:19:19.900 --> 01:19:26.680
+Adrian Ezequiel Mart�nez: si tiene información como algún certificado y te podría dar idea de de cuándo estaría por vencer.
+
+687
+01:19:27.760 --> 01:19:34.350
+Adrian Ezequiel Mart�nez: Mhm, el país ir a casio tran
+
+688
+01:19:38.200 --> 01:19:45.529
+Adrian Ezequiel Mart�nez: in información muy, su muy superficial, algún certificado. Y eso te te podría tener un poco de
+
+689
+01:19:46.250 --> 01:19:51.209
+Adrian Ezequiel Mart�nez: de de idea po por dónde este un apache. Mira de un 10
+
+690
+01:19:51.440 --> 01:19:59.539
+Adrian Ezequiel Mart�nez: equipo, hay un emboin divertido, un apache, podrías buscar vulnerabilidades de un apache y utilizar algún algún Sploid
+
+691
+01:20:00.010 --> 01:20:03.329
+Adrian Ezequiel Mart�nez: y seguir sacando información de del equipo.
+
+692
+01:20:07.340 --> 01:20:12.190
+Adrian Ezequiel Mart�nez: Mira, no, pero ahí sí en
+
+693
+01:20:15.810 --> 01:20:23.300
+Adrian Ezequiel Mart�nez: acá mirá. Acá. Tenés un servidor. N: M: P: sobre un Linux, ahí tenés, un endboin.
+
+694
+01:20:25.420 --> 01:20:36.890
+Adrian Ezequiel Mart�nez: Podrías ver alguna alguna vulnerabilidad sobre alguna versión y y jugar con eso siempre sin infringir las
+
+695
+01:20:37.350 --> 01:20:43.040
+Adrian Ezequiel Mart�nez: siempre sin ser malo, obviamente mira qué lindo.
+
+696
+01:20:48.280 --> 01:20:49.890
+Adrian Ezequiel Mart�nez: una imagen de un texto.
+
+697
+01:20:50.060 --> 01:20:54.010
+Adrian Ezequiel Mart�nez: Este jodam tiene mu muy buena información también de eso.
+
+698
+01:20:54.550 --> 01:21:01.590
+Adrian Ezequiel Mart�nez: Y y en una época, podías ver cámaras web que estaban este abiertas.
+
+699
+01:21:01.970 --> 01:21:03.499
+Adrian Ezequiel Mart�nez: Er era muy divertido.
+
+700
+01:21:05.220 --> 01:21:09.560
+Adrian Ezequiel Mart�nez: Podían ver cámaras web de de gente que las dejaba sin de de
+
+701
+01:21:09.900 --> 01:21:15.530
+Adrian Ezequiel Mart�nez: infraestructura en en sí que cuyo Endpoint era un una web, una cámara web y
+
+702
+01:21:15.660 --> 01:21:18.079
+Adrian Ezequiel Mart�nez: podías ver a alguien en su casa cocinando.
+
+703
+01:21:18.560 --> 01:21:21.160
+Adrian Ezequiel Mart�nez: Si la computadora estaba prendida y lo estaba enfocando.
+
+704
+01:21:22.590 --> 01:21:23.960
+Adrian Ezequiel Mart�nez: Es muy divertido.
+
+705
+01:21:24.270 --> 01:21:32.829
+EXEQUIEL ALVAREZ BIANCO: Hace poco pasó un caso que había sido que un tipo hackeó, una, no. Si haciendo cómo se llama Esto ingeniería inversa en una rumba.
+
+706
+01:21:32.990 --> 01:21:36.910
+EXEQUIEL ALVAREZ BIANCO: no una rumba específicamente. Pero una aspiradora no me acuerdo. ¿qué marcó.
+
+707
+01:21:36.910 --> 01:21:37.420
+Adrian Ezequiel Mart�nez: Sí.
+
+708
+01:21:37.420 --> 01:21:42.849
+EXEQUIEL ALVAREZ BIANCO: El tipo la terminó, hackeando y podía entrar a las cámaras de algunas
+
+709
+01:21:43.190 --> 01:21:47.059
+EXEQUIEL ALVAREZ BIANCO: de que estaban. No sé en por todo el país. Creo que era China.
+
+710
+01:21:47.420 --> 01:21:50.160
+EXEQUIEL ALVAREZ BIANCO: y nada el tipo podía acceder a las cámaras si quería.
+
+711
+01:21:50.490 --> 01:21:56.980
+EXEQUIEL ALVAREZ BIANCO: Por suerte, el tipo ni Sanada reportó directamente del problema, pero haciendo un toque de
+
+712
+01:21:57.220 --> 01:22:01.150
+EXEQUIEL ALVAREZ BIANCO: jugando un toque, digamos, ya sí. Sí, puse.
+
+713
+01:22:01.150 --> 01:22:11.409
+Adrian Ezequiel Mart�nez: Mhm: Totalmente. Sí, son casos que que ocurren. Sí, Sí, totalmente. Es infraestructura no no controlada
+
+714
+01:22:12.150 --> 01:22:19.260
+Adrian Ezequiel Mart�nez: y que que queda abierta por in. ¿hay algún suele haber Storage de de algún cloud Este
+
+715
+01:22:19.680 --> 01:22:23.169
+Adrian Ezequiel Mart�nez: sin sin securizar y por ir sacar listados.
+
+716
+01:22:25.010 --> 01:22:29.659
+Adrian Ezequiel Mart�nez: Es un Este es un buen punto de partida para jugar también a puertos.
+
+717
+01:22:30.780 --> 01:22:34.350
+Adrian Ezequiel Mart�nez: porque te encuentras con algún puerto abierto.
+
+718
+01:22:35.780 --> 01:22:37.759
+Adrian Ezequiel Mart�nez: Mira tingui justito.
+
+719
+01:22:39.620 --> 01:22:42.419
+Adrian Ezequiel Mart�nez: Este Este es un Este es un lindo punto de partida
+
+720
+01:22:43.020 --> 01:22:49.920
+Adrian Ezequiel Mart�nez: y seguramente este, si llega a haber alguna base de datos, se podría utilizar.
+
+721
+01:22:50.080 --> 01:22:52.980
+Adrian Ezequiel Mart�nez: se podría enviar a algún acuario para
+
+722
+01:22:53.270 --> 01:22:57.130
+Adrian Ezequiel Mart�nez: aprender. No se puede decir otra palabra, pero sí para aprender.
+
+723
+01:22:58.860 --> 01:23:06.289
+Adrian Ezequiel Mart�nez: Y Co: Y si no con creo que en en ofen seguridad ofensiva utilizan este
+
+724
+01:23:07.080 --> 01:23:11.229
+Adrian Ezequiel Mart�nez: me meta Exployd me parece, y y se puede llegar a ver un
+
+725
+01:23:11.840 --> 01:23:14.850
+Adrian Ezequiel Mart�nez: un un poco de información de de la red que hay?
+
+726
+01:23:17.580 --> 01:23:18.340
+Adrian Ezequiel Mart�nez: Sí,
+
+727
+01:23:21.940 --> 01:23:23.280
+Adrian Ezequiel Mart�nez: Sí, sí, totalmente.
+
+728
+01:23:29.120 --> 01:23:34.530
+Adrian Ezequiel Mart�nez: Pero, bueno, son este Co: cosas muy, di muy divertidas que no, no, No, no vamos a verlos, pero
+
+729
+01:23:34.730 --> 01:23:36.279
+Adrian Ezequiel Mart�nez: sí y se ven otras materias.
+
+730
+01:23:39.960 --> 01:23:48.809
+Adrian Ezequiel Mart�nez: Y volviendo al al ejemplito que que vimos recién eso se llama manipular un un request. No sé si si lo llega a comentar.
+
+731
+01:23:49.490 --> 01:23:54.560
+Adrian Ezequiel Mart�nez: pero se llama manipulación de de de Request.
+
+732
+01:23:55.880 --> 01:24:02.650
+Adrian Ezequiel Mart�nez: Así que eso es e eso es todo por hoy, lo lo que vamos a empezar a ver las
+
+733
+01:24:02.790 --> 01:24:12.009
+Adrian Ezequiel Mart�nez: las próximas clases. Este es un poquito de memoria. Es Squ, el Injection X, s. S. Que también lo lo comentábamos.
+
+734
+01:24:12.440 --> 01:24:18.950
+Adrian Ezequiel Mart�nez: Y creo que hasta el hasta el parcial, este van esos esos temitas nuevos
+
+735
+01:24:19.140 --> 01:24:21.139
+Adrian Ezequiel Mart�nez: que que los vamos a ver.
+
+736
+01:24:22.310 --> 01:24:25.189
+EDUARDO MANUEL ROCHA: Te puedo hacer una pregunta rápido. Adrián viste lo que se.
+
+737
+01:24:25.190 --> 01:24:25.700
+Adrian Ezequiel Mart�nez: Y obvio.
+
+738
+01:24:25.700 --> 01:24:28.690
+EDUARDO MANUEL ROCHA: De los proxies, Si vos armas, tu
+
+739
+01:24:29.110 --> 01:24:34.049
+EDUARDO MANUEL ROCHA: o sea en tulán podés armar una especie de de proxy que me que
+
+740
+01:24:34.300 --> 01:24:36.719
+EDUARDO MANUEL ROCHA: que sea como Tu Airway. Y vos. Ahí
+
+741
+01:24:37.280 --> 01:24:39.699
+EDUARDO MANUEL ROCHA: básicamente puedes hacer como made in the Midd.
+
+742
+01:24:40.050 --> 01:24:44.120
+EDUARDO MANUEL ROCHA: Vos. Podés ver el tráfico con ese broche. Si si todos los request pasan por ese.
+
+743
+01:24:44.120 --> 01:24:48.300
+Adrian Ezequiel Mart�nez: Sí totalmente sí de de desvío. Todo por por ahí sí.
+
+744
+01:24:48.900 --> 01:24:52.940
+EDUARDO MANUEL ROCHA: O sea, pero los C D, yo vería el post, digamos, no sé
+
+745
+01:24:53.260 --> 01:24:58.599
+EDUARDO MANUEL ROCHA: de de de Facebook, de juancito que se está logueando en mi red, e eso lo lo verías. No.
+
+746
+01:24:58.910 --> 01:25:06.709
+Adrian Ezequiel Mart�nez: Sí. A ver si tengo Wiresharp instalado, No, no lo tengo, acá.
+
+747
+01:25:07.730 --> 01:25:10.980
+Adrian Ezequiel Mart�nez: Pero sí sí sí.
+
+748
+01:25:10.980 --> 01:25:13.070
+EDUARDO MANUEL ROCHA: Un lago para practicar.
+
+749
+01:25:13.220 --> 01:25:22.539
+Adrian Ezequiel Mart�nez: To totalmente. Este. Hay un cómo, ¿Cuál era el yo? Utilizaba Rem Remnux, a ver
+
+750
+01:25:26.230 --> 01:25:30.450
+Adrian Ezequiel Mart�nez: si le hice bien el nombre. Sí, ahí te comparto.
+
+751
+01:25:35.290 --> 01:25:36.660
+Adrian Ezequiel Mart�nez: Mhm.
+
+752
+01:25:39.830 --> 01:25:47.829
+Adrian Ezequiel Mart�nez: Bueno, hay un hay algo que se llama Remnux, que es un un una
+
+753
+01:25:48.220 --> 01:25:58.020
+Adrian Ezequiel Mart�nez: que se utiliza para malware de análisis. Básicamente, lo lo que hace es responderte Eso es una máquina que la puedes utilizar como alguien que te responda.
+
+754
+01:25:58.420 --> 01:26:03.889
+Adrian Ezequiel Mart�nez: y L. Lo recomendable es tener un
+
+755
+01:26:04.240 --> 01:26:07.069
+Adrian Ezequiel Mart�nez: una, una virtual, una de M
+
+756
+01:26:07.530 --> 01:26:21.919
+Adrian Ezequiel Mart�nez: con con tu con tu sistema operativo cualquiera no interesa. Y del otro lado, un una, una máquina Remnux. ¿qué es un Linux? Es un ubuntus igual. No recuerdo o un debian, pero es es un Linux
+
+757
+01:26:22.230 --> 01:26:25.109
+Adrian Ezequiel Mart�nez: y te lo configuras dentro de
+
+758
+01:26:25.320 --> 01:26:35.819
+Adrian Ezequiel Mart�nez: yo utilizo virtual box, pero con bioware, creo que se puede hacer igual, te te armas un un proxy entre las 2 máquinas
+
+759
+01:26:36.100 --> 01:26:38.530
+Adrian Ezequiel Mart�nez: y y escuchas ese proxy.
+
+760
+01:26:39.510 --> 01:26:48.009
+Adrian Ezequiel Mart�nez: Y Y puedes tener todo el tráfico que que va generando, obviamente l la la máquina. Esta Rednux es
+
+761
+01:26:48.240 --> 01:27:04.259
+Adrian Ezequiel Mart�nez: es una máquina falsa. Es como una máquina moqueada que vos le podés levantar puertos, le puedes hacer lo que quieras y hacer que te responda lo que vos quieras y para ver peticiones, jugar competiciones o mismo jugar con
+
+762
+01:27:04.590 --> 01:27:07.960
+Adrian Ezequiel Mart�nez: como vimos recién con con un sitio de ployado
+
+763
+01:27:08.690 --> 01:27:17.859
+Adrian Ezequiel Mart�nez: que me parece que este también te lo puedes bajar y instalarlo. Este viene viene bien, o podrías también hacer lo que comentaste recién
+
+764
+01:27:18.210 --> 01:27:23.110
+Adrian Ezequiel Mart�nez: de generar un proxy y y escucharlo y.
+
+765
+01:27:23.700 --> 01:27:24.070
+EDUARDO MANUEL ROCHA: Maldad.
+
+766
+01:27:24.070 --> 01:27:25.119
+Adrian Ezequiel Mart�nez: Pero pero.
+
+767
+01:27:25.120 --> 01:27:30.629
+EDUARDO MANUEL ROCHA: Da igual es para ver qué es lo que pasa. Ojo de chicos. Yo no soy gente, buena, soy guay.
+
+768
+01:27:31.410 --> 01:27:31.980
+Adrian Ezequiel Mart�nez: Sí.
+
+769
+01:27:31.980 --> 01:27:34.700
+EDUARDO MANUEL ROCHA: Por ahora es lo que todos decimos. No.
+
+770
+01:27:36.680 --> 01:27:47.479
+Adrian Ezequiel Mart�nez: Si, y no sé si hay algún método de control puntualmente, calculo que lo hará, pero es decir, podrías hacerte un un prox y y escucharlo tranquilamente
+
+771
+01:27:47.810 --> 01:27:52.659
+Adrian Ezequiel Mart�nez: como laboratorio, viene bien excelente para para jugar también.
+
+772
+01:27:53.870 --> 01:27:55.040
+Adrian Ezequiel Mart�nez: Sí, sí, totalmente.
+
+773
+01:27:55.040 --> 01:27:58.959
+EDUARDO MANUEL ROCHA: Después no te iba a comer. Esto claramente no, no
+
+774
+01:27:59.600 --> 01:28:02.499
+EDUARDO MANUEL ROCHA: nada que ver con la materia. El otro día
+
+775
+01:28:02.670 --> 01:28:04.629
+EDUARDO MANUEL ROCHA: hay 1 de estos. C. L, L,
+
+776
+01:28:04.800 --> 01:28:09.119
+EDUARDO MANUEL ROCHA: Esto es de Light. L. L: No sé si viste la noticia.
+
+777
+01:28:10.090 --> 01:28:13.869
+EDUARDO MANUEL ROCHA: Yo no, no entiendo mucho para mí es como yo. Llega un punto que es chino.
+
+778
+01:28:14.100 --> 01:28:15.059
+EDUARDO MANUEL ROCHA: que en una isla.
+
+

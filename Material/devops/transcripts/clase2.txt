@@ -1,0 +1,3507 @@
+WEBVTT
+
+1
+00:09:33.750 --> 00:09:34.909
+JUANA BOJOSIAN: Buenas tardes.
+
+2
+00:09:36.560 --> 00:09:38.619
+Lucas Bonanni: Buenas tardes, cómo están.
+
+3
+00:09:38.620 --> 00:09:40.160
+VALENTIN KRAJZELMAN: Hola, ¿Qué tal.
+
+4
+00:09:41.250 --> 00:09:42.990
+JUAN GUZZARDI: Hola, buenas tardes.
+
+5
+00:09:43.600 --> 00:09:44.790
+Lucas Bonanni: Buenas tardes.
+
+6
+00:09:47.770 --> 00:09:49.090
+Lucas Bonanni: Mhm
+
+7
+00:09:53.210 --> 00:09:54.170
+Lucas Bonanni: Mhm.
+
+8
+00:13:23.080 --> 00:13:26.430
+Lucas Bonanni: Bueno, excelente, Creo que ya vamos a poder arrancar
+
+9
+00:13:31.130 --> 00:13:32.510
+Lucas Bonanni: ahí. Me escuchan. Bien.
+
+10
+00:13:33.870 --> 00:13:34.470
+JUANA BOJOSIAN: Sí.
+
+11
+00:13:34.730 --> 00:13:35.629
+LUCAS RAMOS: Sí, sí, claro.
+
+12
+00:13:35.630 --> 00:13:36.040
+CRISTIAN QUEIROLO DOMINGUEZ: Sí, Sí.
+
+13
+00:13:36.040 --> 00:13:46.150
+Lucas Bonanni: Perfecto, excelente. Bueno, hoy lo que vamos a ver va a ser algunas de las herramientas que nos van a ayudar en el proceso de voz.
+
+14
+00:13:46.250 --> 00:14:00.630
+Lucas Bonanni: ¿sí? Entonces vamos a empezar por por ver algunas. ¿sí? Y un poco de la teoría después, seguramente en una clase o a medida que vayamos necesitando, vamos a ir viendo si hacemos algo práctico, también
+
+15
+00:14:00.850 --> 00:14:07.229
+Lucas Bonanni: va a haber práctico seguro de otras cosas. Tal vez esto. Algunas cosas son básicas, como
+
+16
+00:14:07.340 --> 00:14:09.520
+Lucas Bonanni: como hablamos al principio de clase.
+
+17
+00:14:09.900 --> 00:14:19.780
+Lucas Bonanni: Así que, bueno, las herramientas que vamos a ver hoy, o repasar. Básicamente van a ser hit hip, hop y dot. Sí,
+
+18
+00:14:20.220 --> 00:14:37.799
+Lucas Bonanni: básicamente vamos a empezar con Hit, que es básicamente es un sistema de control de versiones es 1 de los más utilizados. Bueno, ustedes ya lo conocen. Muchos ya ya lo utilizaron. Permite, Bueno, esto de tener un historial de cambios.
+
+19
+00:14:37.800 --> 00:14:42.949
+Lucas Bonanni: de todo lo que se hizo en en el proyecto.
+
+20
+00:14:43.130 --> 00:14:51.930
+Lucas Bonanni: ¿sí? Y bueno, fue creado por linus traves en esto. Creo que en 2 005 no sé si está bien esto, pero bueno.
+
+21
+00:14:52.060 --> 00:14:54.190
+Lucas Bonanni: pero fue creado por él
+
+22
+00:14:55.400 --> 00:15:12.419
+Lucas Bonanni: la idea de tener un sistema de de diversionado es que te facilita la gestión y compartir eso. Esos cambios sí ir modificando y colaborar en equipo.
+
+23
+00:15:12.520 --> 00:15:29.029
+Lucas Bonanni: Entonces 1 puede hacer y rastrear todos los cambios que se hicieron. ¿quién lo hizo. Si identificar en qué punto se agregó un vago o no, si o en qué momento se hizo algún Fitch
+
+24
+00:15:30.560 --> 00:15:41.600
+Lucas Bonanni: después? Bueno, es hit, como como venimos diciendo, es un versi, un sistema de versión de control, ¿sí? O un control de versiones. Perdón.
+
+25
+00:15:41.990 --> 00:15:55.069
+Lucas Bonanni: entonces no es el único. Hay otros sí, pero bueno, a partir de ahora ya es casi el más utilizado de todos, pero los objetivos principales de
+
+26
+00:15:55.180 --> 00:16:01.599
+Lucas Bonanni: un sistema de control de versiones es el primero, la atraviesabilidad de
+
+27
+00:16:01.800 --> 00:16:09.369
+Lucas Bonanni: de quién hizo un cambio, ¿Sí? Y cuando lo hizo, si poder colaborar entre múltiples personas.
+
+28
+00:16:09.560 --> 00:16:17.859
+Lucas Bonanni: recuperar versiones anteriores, sí o ya sean estables o con errores.
+
+29
+00:16:18.050 --> 00:16:30.779
+Lucas Bonanni: soportar ramas o branching. Hacer estos merjs comics de de estas Brunch. Sí, hacer relises
+
+30
+00:16:31.340 --> 00:16:37.909
+Lucas Bonanni: entonces poder gestionar también estas religios, a partir y todas las versiones con estas herramientas sí,
+
+31
+00:16:37.930 --> 00:16:52.690
+Lucas Bonanni: entonces de los beneficios es menor riesgo si pérdida de trabajo. Si no se pierden los cambios y todos los cambios quedan registrados, siempre y cuando se utilice la herramienta correctamente.
+
+32
+00:16:52.760 --> 00:17:07.130
+Lucas Bonanni: 1 tiene puede hacer una auditoría técnica del proyecto y te proporciona más velocidad para experimentar y corregir. Sí,
+
+33
+00:17:10.099 --> 00:17:27.590
+Lucas Bonanni: Bueno, después hay diferentes tipos de sistemas de de versión de de control de versiones. Sí, está. Bueno, hay hay los tipos clásicos, Sí, son local. Sí que está solamente en tu máquina centralizado sí
+
+34
+00:17:27.740 --> 00:17:32.290
+Lucas Bonanni: que están en un servidor central distribuidos.
+
+35
+00:17:32.410 --> 00:17:36.469
+Lucas Bonanni: donde cada desarrollador tiene una copia completa del repositorio
+
+36
+00:17:36.680 --> 00:17:51.150
+Lucas Bonanni: y después acá hay que hacer una diferencia entre lo que es centralizado y distribuido, no donde centralizado siempre se depende del servidor central. Si no se puede trabajar en realidad un
+
+37
+00:17:51.150 --> 00:18:02.339
+Lucas Bonanni: nunca tenés tus cambios, acá Siempre lo que te vas, des digamos, descargando, es una parte y trabajar sobre tus cambios. Y siempre te tenés que conectar al servidor.
+
+38
+00:18:02.650 --> 00:18:04.570
+Lucas Bonanni: En
+
+39
+00:18:05.460 --> 00:18:16.310
+Lucas Bonanni: En cambio, los distribuidos te permite el trabajo fuera sin internet en tu máquina. Y después, inclusive, ni siquiera tenés que estar, digamos.
+
+40
+00:18:16.430 --> 00:18:18.070
+Lucas Bonanni: Y
+
+41
+00:18:19.670 --> 00:18:31.540
+Lucas Bonanni: con un repositorio como Hith. Ahora estamos muy acostumbrados a usar hípica, pero nosotros podríamos compartir nuestros cambios y poder marcharlos y poder ir, por ejemplo, mandarlos por email.
+
+42
+00:18:32.100 --> 00:18:39.310
+Lucas Bonanni: Y esto también lo que permite es la Co: bueno. Un
+
+43
+00:18:39.660 --> 00:18:47.210
+Lucas Bonanni: un sistema centralizado bueno, obviamente descentralizada, lo que es menos flexible cuando es centralizado. Porque.
+
+44
+00:18:47.340 --> 00:19:07.120
+Lucas Bonanni: ¡ay, bueno, primero tenés que estar conectado todos tienen que compartir. Y a veces es mucho más difícil el tema de que vos no estás trabajando sobre tu copia. Entonces, bueno, es más difícil, la verdad. Yo tampoco lo llegué a utilizar. Así que yo ya cuando empecé ya empecé con Phil.
+
+45
+00:19:08.270 --> 00:19:19.429
+Lucas Bonanni: así que no les puedo contar mucha experiencia sobre eso en bien. Y después, bueno, los
+
+46
+00:19:20.760 --> 00:19:24.419
+Lucas Bonanni: funcionalidades principales que tienen Sí,
+
+47
+00:19:24.540 --> 00:19:40.670
+Lucas Bonanni: Bueno, es esto. El sistema, que es un sistema distribuido. Cada desarrollador tiene la copia completa del repositorio, Así como cuando nosotros vamos a hit hub o hit, Lab y hacemos un hit clon Lo estamos descargando todo el repositorio.
+
+48
+00:19:41.640 --> 00:19:55.010
+Lucas Bonanni: Esto nos da también mayor rendimiento y mayor velocidad, porque lo tenemos en nuestra máquina, sí. Entonces lo podemos gestionar mucho más fácil. Después nos permite
+
+49
+00:19:55.430 --> 00:20:00.759
+Lucas Bonanni: tener varias funcionalidades, como los las ramas, los T A, Cs y los Merh.
+
+50
+00:20:00.890 --> 00:20:04.819
+Lucas Bonanni: Sí para para gestionar las diferentes versiones.
+
+51
+00:20:04.920 --> 00:20:15.950
+Lucas Bonanni: Y también nos da una gran flexibilidad para tener diferentes flujos de trabajo, Sí, para diferentes proyectos y diferentes necesidades.
+
+52
+00:20:17.500 --> 00:20:31.949
+Lucas Bonanni: Bueno, acá están los comandos esenciales? Sí que básicamente ya conocerán que, bueno, el primero es para iniciar el repositorio. El segundo es para clonar un repositorio de una Url.
+
+53
+00:20:33.310 --> 00:20:46.469
+Lucas Bonanni: Después elegí a sí, es para pasar esos cambios y preparar esos cambios para hacer el Comité y pasarlos a stacing después.
+
+54
+00:20:47.640 --> 00:21:03.480
+Lucas Bonanni: el digamos a Stage, no al al noah stating por ahí el el ambiente, sino al a la parte del stage. Después podemos hacer un hit estatus para ver el estado de el nuestro
+
+55
+00:21:03.830 --> 00:21:06.329
+Lucas Bonanni: directorio de trabajo.
+
+56
+00:21:06.500 --> 00:21:13.899
+Lucas Bonanni: Después tenemos Hitlog, que nos permite hacer un historial, un resumen del historial de lo de los cómics.
+
+57
+00:21:14.470 --> 00:21:18.800
+Lucas Bonanni: un headpool que nos permite básicamente cambiar y
+
+58
+00:21:19.010 --> 00:21:23.270
+Lucas Bonanni: fusionar los cambios si hay algún conflicto, ¿sí?
+
+59
+00:21:24.510 --> 00:21:33.139
+Lucas Bonanni: Y después hippus que nos permite subir nuestros cambios, de que que tenemos hechos, de los que estamos trabajando en nuestra rama
+
+60
+00:21:33.480 --> 00:21:42.720
+Lucas Bonanni: hasta acá el todos los utilizaron algunos de estos comandos, alguien que no utilizó alguno de los comandos o utiliza solamente una bubi.
+
+61
+00:21:46.170 --> 00:21:50.590
+FACUNDO EMANUEL MODARELLI: Yo eventualmente. Hola, buCEO ¿Alguno? Sí, Sí.
+
+62
+00:21:51.480 --> 00:21:55.029
+Lucas Bonanni: Perfecto. Todos los que están acá o hay alguno que no.
+
+63
+00:21:57.160 --> 00:21:58.570
+JUANA BOJOSIAN: No, nunca.
+
+64
+00:21:59.600 --> 00:22:00.460
+Lucas Bonanni: Okay?
+
+65
+00:22:00.790 --> 00:22:11.539
+Lucas Bonanni: Bueno, un una una buena práctica sería tratar de si quieren ahora una pequeña demo al final de los slide y para que podamos ver cómo funciona.
+
+66
+00:22:12.920 --> 00:22:13.840
+JUANA BOJOSIAN: Perfecto.
+
+67
+00:22:17.700 --> 00:22:18.800
+Lucas Bonanni: Alguien, más.
+
+68
+00:22:20.780 --> 00:22:24.589
+VALENTINO CORTESE: Yo pude usar todos, la verdad. Tuve proyectos que usé todos.
+
+69
+00:22:25.120 --> 00:22:26.500
+Lucas Bonanni: Bien, así.
+
+70
+00:22:26.500 --> 00:22:30.070
+VALENTINO CORTESE: Facilita mucho los comandos más que la
+
+71
+00:22:30.750 --> 00:22:34.719
+VALENTINO CORTESE: que hay algunas herramientas. Y lo hago desde y bajo.
+
+72
+00:22:35.330 --> 00:22:45.729
+Lucas Bonanni: Claro está perfecto. Sí, la verdad es que cada cada 1 tiene ayudas que tienen buenas funcionalidades.
+
+73
+00:22:45.730 --> 00:23:02.130
+Lucas Bonanni: Yo, a lo largo del tiempo fui probando un poco de todo. Fui probando Souls Tree, que es el de Atlasyan. Fui probando Kickle, que también estaba
+
+74
+00:23:02.420 --> 00:23:09.219
+Lucas Bonanni: Sí, la extensión de visual studio. Code que que también está ahí.
+
+75
+00:23:09.330 --> 00:23:26.819
+Lucas Bonanni: Te permite Bast. A mí. Yo. Lo que me me sirve mucho es ahora bueno con con con el tema de la inteligencia artificial que, bueno, que 1 tiene como la preview de los cambios y Además, tienes la posibilidad de pasarlos a stating por ahí, a veces esos.
+
+76
+00:23:26.820 --> 00:23:39.539
+Lucas Bonanni: ¿qué es lo que voy a comitear? ¿y qué es lo que no. A veces sí lo lo manejo por ahí por la ibai. Y después el resto de los comandos y por ahí en la terminal depende, depende eso. Si estoy usando visual studio, code
+
+77
+00:23:39.550 --> 00:23:42.120
+Lucas Bonanni: o o estoy trabajando en la terminal.
+
+78
+00:23:42.690 --> 00:23:57.300
+Lucas Bonanni: y a veces, si es que la uso, no porque ahora hasta Kopilot o algún la inteligencia artificial. Hasta incluso te va haciendo los cómics y se lo pedís va te haciendo los cambios y te va haciendo los cómics.
+
+79
+00:23:57.410 --> 00:24:05.429
+Lucas Bonanni: En eso sí, hay que tener un poco de cuidado, porque, bueno, si te hacen los cómics igual
+
+80
+00:24:05.550 --> 00:24:19.330
+Lucas Bonanni: no verificas esos cambios. Cuando hizo el Covid siempre igual lo puedas mientras que no hagas un push y lo puedas reeditar, digamos, tampoco habría tanto problema. Pero, bueno, hay que tener cuidado, ¿no?
+
+81
+00:24:19.870 --> 00:24:21.860
+Lucas Bonanni: En
+
+82
+00:24:22.210 --> 00:24:33.140
+Lucas Bonanni: Pero también estuve experimentando y y tranquilamente te hace los cómics y y vos le decís cómo que le y le pones un texto y todo. Así que un mensaje de cómic.
+
+83
+00:24:34.460 --> 00:24:35.450
+Lucas Bonanni: Bien.
+
+84
+00:24:36.790 --> 00:24:50.710
+Lucas Bonanni: Bueno, acá hay un ejemplo de lo que después de última ya lo lo podemos ver. Básicamente podemos clonar un archivo, hacer. Bueno, después tenemos que ir a la carpeta de
+
+85
+00:24:50.860 --> 00:24:58.820
+Lucas Bonanni: de ese repositorio. Ahí hacemos un check out para para crear un nuevo Brunch, Sí,
+
+86
+00:24:58.960 --> 00:25:06.440
+Lucas Bonanni: ahí podríamos llegar a estar haciendo modificaciones. Y después, acá en este paso agregamos los archivos que queremos hacer del.
+
+87
+00:25:06.440 --> 00:25:08.780
+JUAN GUZZARDI: Y.
+
+88
+00:25:09.550 --> 00:25:10.330
+Lucas Bonanni: Cómo.
+
+89
+00:25:11.950 --> 00:25:13.140
+JUAN GUZZARDI: ¿qué es Chicago.
+
+90
+00:25:14.200 --> 00:25:21.700
+Lucas Bonanni: Check Out es básicamente lo que estás cambiando es la referencia, porque
+
+91
+00:25:21.820 --> 00:25:28.909
+Lucas Bonanni: H. I, I, T, Todavía no llegamos a esta parte, pero después vamos a llegar, que trabaja con referencias
+
+92
+00:25:29.010 --> 00:25:47.140
+Lucas Bonanni: con un sha. Sí, entonces todo es una referencia y vos tenés como si fueran punteros a diferentes lados, entonces lo que le está diciendo, Bueno, ahora, a partir de acá voy a referenciar al al último cómic del cual estoy parado o en cuál tengo yo local.
+
+93
+00:25:47.140 --> 00:25:58.130
+Lucas Bonanni: Y a partir y este nuevo Brunch va a apuntar a ese comic que ya estaba parado. Y ahí, a partir de ahí, voy a agregar, digamos.
+
+94
+00:25:58.170 --> 00:26:00.600
+Lucas Bonanni: nuevos cambios. Sí.
+
+95
+00:26:03.530 --> 00:26:04.600
+JUAN GUZZARDI: ¡venga! Gracias.
+
+96
+00:26:06.330 --> 00:26:24.070
+Lucas Bonanni: Entonces, bueno, ahí después agregamos los archivos, que es de de la fiture que tenemos y hacemos el Comic con un con un nombre y después hacemos el push a origen, el origen que tenemos configurado. Si cuando hacemos un fit club, tenemos
+
+97
+00:26:24.270 --> 00:26:31.749
+Lucas Bonanni: lo que son los orígenes remotos, sí que básicamente son esto. Dónde están
+
+98
+00:26:31.780 --> 00:26:47.350
+Lucas Bonanni: costeado el repositorio? Porque el repositorio lo podemos tener tranquilamente local y hacerlo funcionar local. Y no necesitamos detenernos en Hit Hob. Eso es una funcionalidad que es independiente, que la podemos tener o no.
+
+99
+00:26:47.680 --> 00:26:56.109
+Lucas Bonanni: Entonces inclusive. Nosotros podemos tener como un origen como una carpeta que sea local o o un servidor local. No hace falta que sea
+
+100
+00:26:56.300 --> 00:26:58.929
+Lucas Bonanni: una U. R L, A de H, I, I, T,
+
+101
+00:27:00.640 --> 00:27:04.840
+Lucas Bonanni: Y bueno, básicamente, con esto subimos los cambios en el caso que tengamos
+
+102
+00:27:05.180 --> 00:27:11.799
+Lucas Bonanni: Hith Houck o Hit Lag o cualquier otro servicio de Foxter.
+
+103
+00:27:13.980 --> 00:27:24.310
+Lucas Bonanni: Bien, después pasamos un poquito al al tema de formato o una de las convenciones, sí para los cómics
+
+104
+00:27:24.440 --> 00:27:36.629
+Lucas Bonanni: o es una buena práctica que no siempre va a estar. La van a utilizar en todas las empresas o en todos los lugares, pero sí es una. Vale la pena mencionarlo, que
+
+105
+00:27:36.790 --> 00:27:49.009
+Lucas Bonanni: son estos los conventional comics. La idea es tener un formato predefinido para todos los cómics donde se indica en tanto en los cómics que se hicieron.
+
+106
+00:27:49.010 --> 00:28:01.759
+Lucas Bonanni: ¿Qué es lo que qué tipo de trabajo se usó básicamente no si se creó una nueva fichare o una nueva funcionalidad. Si se hizo un fix o una corrección de un bar. Si se cambió documentación
+
+107
+00:28:02.200 --> 00:28:05.640
+Lucas Bonanni: sobre esto? Bueno, tareas de mantenimiento, no que
+
+108
+00:28:07.080 --> 00:28:14.029
+Lucas Bonanni: qué sé yo cambié archivos de de lugar sí o
+
+109
+00:28:14.400 --> 00:28:28.740
+Lucas Bonanni: sí, cosas que no tienen que ver con el código. Exactamente sí, después, refacto, Sí, cosas que tienen que ver con, bueno, cambiar o cómo fun
+
+110
+00:28:29.260 --> 00:28:34.410
+Lucas Bonanni: cómo trabajaba una funcionalidad o hacer mejoras de performance.
+
+111
+00:28:35.290 --> 00:28:39.309
+Lucas Bonanni: Y después, acá dentro de lo que sería la parte del Scope, ponemos
+
+112
+00:28:39.500 --> 00:28:57.949
+Lucas Bonanni: realmente esto. Uno pone o el o el archivo que modificó o la funcionalidad que afecta. A veces el el tema del Scope se puede un poquito, llevar como un esgrimenl dentro de del equipo para saber, bueno, hay ciertos Scope definidos
+
+113
+00:28:57.950 --> 00:29:06.180
+Lucas Bonanni: para no hacerlo tan complicado y después una una buena descripción sobre los cambios que se hicieron.
+
+114
+00:29:08.220 --> 00:29:09.480
+Lucas Bonanni: Acá Bueno.
+
+115
+00:29:10.130 --> 00:29:20.710
+Lucas Bonanni: está un poquito en las las ves práctices de cómo hacer un comic mesas. Si de usar un verbo imperativo de autfix, remove upday.
+
+116
+00:29:20.710 --> 00:29:33.310
+Lucas Bonanni: ¿sí? Escribir una idea por cómic. Si cada cada vez que 1 hace un Covid. Tiene que ser algo chico pequeño. No tienen que ser muchas líneas de de código.
+
+117
+00:29:33.560 --> 00:29:46.710
+Lucas Bonanni: Hay que mantener un un título breve y claro de y
+
+118
+00:29:47.190 --> 00:29:57.130
+Lucas Bonanni: cuando sea necesario, también el porqué de esos cambios, sí, entonces siempre, para dar un contexto, y después, cuando 1
+
+119
+00:29:57.560 --> 00:30:19.710
+Lucas Bonanni: justamente va y rastrea algún algún bag, algún error o algún cambio. Entiendo por qué se hizo el cambio si no tener el historial y tener un. Bueno, hice un comida actualicé. Esto no era nada de información. Si eso era por alguna razón, relacio, Otra cosa te tiene que generar un poquito
+
+120
+00:30:19.710 --> 00:30:21.210
+Lucas Bonanni: de contexto
+
+121
+00:30:23.200 --> 00:30:38.559
+Lucas Bonanni: dentro de de sistema de control de versiones y no es apoyarse mucho en, por ejemplo, en Siria, No, porque muchas veces veo que también en empresas, como digo, tienen
+
+122
+00:30:38.730 --> 00:30:49.389
+Lucas Bonanni: una convención como equipo de decir: bueno, no creo un Brunch por el ticket que tengo y total. Yo no le pongo mucha descripción porque después está el ticket.
+
+123
+00:30:49.540 --> 00:31:07.460
+Lucas Bonanni: El problema de eso es que el día de mañana cambian de gira a otro proveedor. Y van a Hay que ver si logran hacer la migración correcta de todos los tickets y los tickets siguen teniendo la misma numeración
+
+124
+00:31:07.660 --> 00:31:18.050
+Lucas Bonanni: y vas a perder la referencia. Entonces lo mejor es que las descripciones de todo, queden dentro de sistema de control de versiones.
+
+125
+00:31:20.010 --> 00:31:25.239
+Lucas Bonanni: Así que, bueno, la estructura recomendada un título corto, sí,
+
+126
+00:31:26.350 --> 00:31:41.630
+Lucas Bonanni: tener en una línea en blanco y un cuerpo opcional si con un contexto técnico que es la parte del cuerpo del mensaje, nosotros generalmente ponemos como estaba acá el menos M: Pero si no pones el menos M
+
+127
+00:31:41.860 --> 00:31:46.019
+Lucas Bonanni: va a tener, te permite agregar un cuerpo de mensaje.
+
+128
+00:31:49.640 --> 00:32:06.920
+Lucas Bonanni: Bien, acá. Bueno, algunos ejemplos. Sí de convencional, Comis, donde estaba, mencionamos en la parte del Scope, donde podemos tener una funcionalidad que sea el Login, Entonces ahí va a entrar el scope ponemos out.
+
+129
+00:32:07.100 --> 00:32:19.070
+Lucas Bonanni: Y bueno, se agrega, sí, de terapi Se ha en el
+
+130
+00:32:21.190 --> 00:32:41.050
+Lucas Bonanni: que consumen el un endpoint en particular, y para agregar documentación, ponemos doc y se modifica el redmi. Entonces se pone. ¿qué es lo que se? Acá Bueno, en El ejemplo es un setup. Se Se actualizan la instalación local de la aplicación. Lo que sea
+
+131
+00:32:41.840 --> 00:32:45.229
+Lucas Bonanni: bien, y esto es lo que permite es
+
+132
+00:32:45.450 --> 00:32:55.800
+Lucas Bonanni: estandarizar el historial, facilitar las revisiones y también nos permite automatizar
+
+133
+00:32:56.020 --> 00:33:15.050
+Lucas Bonanni: lo que vamos a ver después qué es el continuo. Se integration y el continuo deployment, porque, al tener este tipo de estructura, podemos saber que para que seas una piture, podemos incrementar el versionado tanto de dependiendo si es
+
+134
+00:33:15.150 --> 00:33:28.090
+Lucas Bonanni: major, minor o o fix. Sí, entonces podemos ir modificando la versión en Cam. En basándonos en los cómics, sí entonces generalmente los tienen
+
+135
+00:33:28.120 --> 00:33:39.630
+Lucas Bonanni: un bump que para hacer el band de la versión, o sea, subir la versión. Y según los comics, van haciendo el cálculo de cómo tienen que modificar el el ese número de versión.
+
+136
+00:33:42.520 --> 00:33:52.949
+Lucas Bonanni: Bueno, ahí muestra básicamente los mismos ejemplos, pero escritos con el comando.
+
+137
+00:33:56.390 --> 00:34:05.999
+Lucas Bonanni: Y después, bueno, tenemos un poquito lo que sería el data model, ¿sí? O el concepto de lo que cómo trabaja hit por dentro.
+
+138
+00:34:07.420 --> 00:34:09.230
+Lucas Bonanni: En
+
+139
+00:34:11.860 --> 00:34:27.910
+Lucas Bonanni: básicamente, el tiene diferentes tipos de archivos y los nombra. O sea, tiene conceptos para para cada cosa que nosotros por ahí lo lo vamos a relacionar de manera diferente que donde los blogs
+
+140
+00:34:27.909 --> 00:34:36.070
+Lucas Bonanni: son el contenido del archivo. Un tri es la estructura de dir de directorios de la carpeta.
+
+141
+00:34:37.120 --> 00:34:47.089
+Lucas Bonanni: Después en un cómic. Es un snapshot. Sí que va a tener que va a contener un autor, una fecha, un mensaje
+
+142
+00:34:47.389 --> 00:34:55.449
+Lucas Bonanni: y referencia del cómic padre, el Comic padre, el que va a hacer va a ser el el el comida, anterior, no
+
+143
+00:34:56.409 --> 00:35:04.620
+Lucas Bonanni: en el caso de un Brunch. Este cómic. El comic padre va a ser este el snapshot de cambios?
+
+144
+00:35:06.240 --> 00:35:22.489
+Lucas Bonanni: Bien, después, el Brunch, que es un pun, como dice, como me preguntaron hace un rato, es un puntero móvil al comic más reciente de una línea de trabajo. Si, o sea, este Brunch, lo que está apuntando es que parte de este Comic
+
+145
+00:35:24.360 --> 00:35:32.700
+Lucas Bonanni: y después Held es básicamente es la referencia a la rama o el comic que estamos parados actualmente.
+
+146
+00:35:33.270 --> 00:35:44.380
+Lucas Bonanni: Entonces nosotros, en este caso, que en el ejemplo que estábamos, acá que después de que terminamos de hacer la fitchur y la marchamos nuestro gel va a estar parado acá. ¿sí?
+
+147
+00:35:44.890 --> 00:35:57.319
+Lucas Bonanni: Si nosotros todavía estuviéramos en desarrollo por ahí. Nuestro jefe estaría casi siempre está en el último comida en el que estamos so nosotros desarrollando. Sí, eso generalmente por defecto.
+
+148
+00:35:57.370 --> 00:36:15.569
+Lucas Bonanni: Porque, básicamente, bueno, el el es la cabeza donde está apuntando? ¿no? Si nosotros podemos, digamos, cambiar esa referencia a cualquier otra y estar y posicionarnos en cualquier punto, digamos, de de este historial
+
+149
+00:36:16.270 --> 00:36:17.040
+Lucas Bonanni: también.
+
+150
+00:36:18.770 --> 00:36:26.700
+Lucas Bonanni: Pero bueno, es más o menos como para que entiendan el concepto de algunas cosas de algunos.
+
+151
+00:36:27.080 --> 00:36:32.840
+Lucas Bonanni: Sí, Básicamente, los conceptos que usa H E. I, I, T dentro de su sistema de archivos
+
+152
+00:36:35.390 --> 00:36:43.240
+Lucas Bonanni: después, lo que también nos permite usar. H. I, I, T, Es el tema de los Tags, sí, y
+
+153
+00:36:43.880 --> 00:36:45.710
+Lucas Bonanni: que básicamente
+
+154
+00:36:46.110 --> 00:36:55.260
+Lucas Bonanni: es lo mismo, es una referencia, pero en este caso es fija a un comité específico. Entonces lo que nos permite es
+
+155
+00:36:55.470 --> 00:37:09.479
+Lucas Bonanni: trabajar con esto, con marcar versiones. Realmente, Entonces nosotros podemos ver marcar. Bueno, hasta acá se llegó a la versión tanto hasta hasta el pasan unos comics y llegamos a otra versión. Sí.
+
+156
+00:37:09.620 --> 00:37:22.790
+Lucas Bonanni: Y esto nos permite, básicamente como son puntos de referencia etiquetas. Si nos permite referenciar fácilmente a puntos específicos
+
+157
+00:37:23.390 --> 00:37:39.790
+Lucas Bonanni: para después poder hacer? Rol back, mucho más fácil. Sí saber qué, cuál es la versión que tenemos hacer: un un mejor seguimiento de también hasta qué punto llegamos a hacer los cambios. Esto también lo que nos permite, junto con los convencional comité,
+
+158
+00:37:40.420 --> 00:37:43.819
+Lucas Bonanni: poder hacer auto automatizar también el
+
+159
+00:37:45.580 --> 00:37:56.419
+Lucas Bonanni: el resumen de cambios por versión. ¿no? Entonces ya podemos con eso también listar todos los cambios que se
+
+160
+00:37:56.730 --> 00:38:00.510
+Lucas Bonanni: realicé si siguieron un release en esa versión? ¿sí?
+
+161
+00:38:00.730 --> 00:38:05.640
+Lucas Bonanni: Y además nos permite esto asociar artefactos, sí,
+
+162
+00:38:05.670 --> 00:38:23.999
+Lucas Bonanni: básicamente la aplicación o o la librería que estemos desarrollando si poner estas notas de lanzamiento. Con Con todo el historial de qué es lo que se agregó, que es lo que se ficcionó como 1 ve en cualquier repositorio que esté más o menos organizado?
+
+163
+00:38:25.040 --> 00:38:37.640
+Lucas Bonanni: ¿sí? Y bueno, acá ¿están los comandos para generar los Tag los Tags para apoyar el origen. Sí, hacer el check out. También 1 puede cambiar la referencia y hacer un check out de
+
+164
+00:38:37.780 --> 00:38:44.459
+Lucas Bonanni: de un T A, G entonces ya se posiciona en esa en esa versión o hasta ese punto
+
+165
+00:38:47.830 --> 00:38:59.840
+Lucas Bonanni: después. Otra característica importante es el tema de los Brunch, que son básicamente son ramas. Nos permiten crear versiones
+
+166
+00:39:00.090 --> 00:39:09.949
+Lucas Bonanni: si nuestras versiones para poder trabajar y modificar una funcionalidad o agregar una funcionalidad. Si
+
+167
+00:39:12.070 --> 00:39:25.530
+Lucas Bonanni: básicamente es. Esto nos permite trabajar con las nuevas versiones que querramos hacer o con con correcciones, trabajar de forma aislada, sin afectar el resto de el código productivo.
+
+168
+00:39:25.930 --> 00:39:33.280
+Lucas Bonanni: En después. Bueno, esas ramas se pueden, obviamente son pueden funcionar para
+
+169
+00:39:33.460 --> 00:39:36.640
+Lucas Bonanni: incorporar esos cambios a la a la rama principal.
+
+170
+00:39:38.030 --> 00:39:49.490
+Lucas Bonanni: Después hay diferentes tipos de flujos de trabajo. Acá está, por ejemplo, Head Flow. Sí que básicamente es crear una rama principal
+
+171
+00:39:49.700 --> 00:39:54.260
+Lucas Bonanni: tener una feature. Sí que
+
+172
+00:39:54.320 --> 00:40:01.350
+Lucas Bonanni: que se va a rehacer. Entonces se crea un Brunch se desarrolla esa ficheo y después se mercea.
+
+173
+00:40:01.350 --> 00:40:18.850
+Lucas Bonanni: Y luego se hace el deplon. Sí, esto. Este Heath Flow es más recomendado para equipos muy pequeños o para proyectos muy chicos, ¿sí? Donde es bastante sencillo manejarlo. Sí, para evitar temas de conflicto
+
+174
+00:40:18.870 --> 00:40:21.559
+Lucas Bonanni: tiene que ser chico. El equipo.
+
+175
+00:40:23.760 --> 00:40:28.949
+Lucas Bonanni: Entonces bueno, generalmente suele tener también ramas dedicadas.
+
+176
+00:40:29.200 --> 00:40:37.139
+Lucas Bonanni: como decíamos para las fechos, para los relixes y para los hotfieles. Sí,
+
+177
+00:40:39.770 --> 00:40:55.869
+Lucas Bonanni: esto. Bueno, es un un flujo especial que es más estructurado. Sí, sigue un poquito más. Esta estructura, y también funciona bien con esto de tener ciclos de
+
+178
+00:40:56.700 --> 00:41:13.549
+Lucas Bonanni: de relixes cada cierto tiempo. ¿no? Entonces decimos, Bueno, cada 6 meses tenemos un release para ese tipo de cosas, así como algo así como funciona el carnal de Linux, que cada cierto tiempo. No es que sacan una release
+
+179
+00:41:14.580 --> 00:41:20.030
+Lucas Bonanni: cada No, esos tienen un tiempo, ¿no?
+
+180
+00:41:23.460 --> 00:41:35.699
+Lucas Bonanni: Bueno, acá podemos ver otro tipo, un ejemplo, Sí, donde tenemos la rama. Maine Sí. La
+
+181
+00:41:35.960 --> 00:41:38.869
+Lucas Bonanni: en un brunch de desarrollo.
+
+182
+00:41:40.220 --> 00:41:52.460
+Lucas Bonanni: entonces se quiere agregar una nueva funcionalidad de Login. Se parte bueno en este caso como tanto de desarrollo, y
+
+183
+00:41:53.110 --> 00:41:56.330
+Lucas Bonanni: y las fichas de Login parten del mismo
+
+184
+00:41:56.570 --> 00:42:04.300
+Lucas Bonanni: comida inicial. Parten del mismo lado, pero bueno, podría ser que partiera solamente de de desarrollo.
+
+185
+00:42:04.810 --> 00:42:15.709
+Lucas Bonanni: Y de a partir de ahí, sí. Una vez que se termina el el login se Mercea no con Maine, sino con la parte de desarrollo.
+
+186
+00:42:16.120 --> 00:42:33.069
+Lucas Bonanni: Después, una vez que está listo y y se prueba y se hacen todas las pruebas o se hace en las pruebas, en los diferentes ambientes que sean necesarios, se crea una rama de release. Sí, y ahí se marcha directamente en mail.
+
+187
+00:42:34.170 --> 00:42:37.729
+Lucas Bonanni: Después dentro de mail, pueden haber
+
+188
+00:42:37.810 --> 00:42:56.900
+Lucas Bonanni: ramas de hot fixes, ¿sí? Para hacer un estos fixes en realidad tienen que ser cosas rápidas, cosas que no, que no pueden esperar, que tienen que ser cosas del momento. Y generalmente tienen que ser muy chicas y muy particulares para poder realmente hacerse
+
+189
+00:42:56.900 --> 00:43:08.700
+Lucas Bonanni: ese tipo de Hotfix Y después, bueno, se marchea tanto en Main como en Develoment para mantener las las actualizados en las ambas ramas.
+
+190
+00:43:11.380 --> 00:43:17.379
+Lucas Bonanni: Después hay otro tipo de desarrollo que básicamente es
+
+191
+00:43:17.910 --> 00:43:29.630
+Lucas Bonanni: por ramas donde cada 1 cada desarrollador tiene su propia rama que pueden ir. Bueno, acá lo muestran un poquito como que 1
+
+192
+00:43:29.910 --> 00:43:34.669
+Lucas Bonanni: avanza el otro, pero bueno, podrían haber avanz avanzado todos del base.
+
+193
+00:43:35.840 --> 00:43:40.530
+Lucas Bonanni: Y después cada 1 mercé a come.
+
+194
+00:43:43.390 --> 00:44:02.369
+Lucas Bonanni: La idea. Es bueno, importante acá es que estas ramas tienen que ser muy cortas. No, tie, no, No puede haber un desarrollo muy largo en cada rama. Tienen que ser cosas muy particulares, casi tan chicos como como un Co un hotfit. Sí,
+
+195
+00:44:02.370 --> 00:44:14.749
+Lucas Bonanni: La idea es que sean cambios chicos y evitar, obviamente que 2 desarrolladores estén trabajando en una funcionalidad en en la misma funcionalidad o en funcionalidades que comparten
+
+196
+00:44:15.090 --> 00:44:21.969
+Lucas Bonanni: las mismas características o se puede o que pueda haber overlapil. No
+
+197
+00:44:25.130 --> 00:44:33.540
+Lucas Bonanni: Bueno, acá hay algunas plataformas populares para hacer el hosting de la parte de repositorios.
+
+198
+00:44:34.210 --> 00:44:49.309
+Lucas Bonanni: Bueno, Hit Hub es la más conocida. Después está Hit, Lab y después Big Backet, que también tanto como Hit Lab y Big Backet te permiten tener repositorios privados. Sí,
+
+199
+00:44:49.410 --> 00:45:06.289
+Lucas Bonanni: creo que esa es la la principal diferencia con con Hit Hub por y teniendo una cuenta gratuita, no siempre hablando, porque, obviamente, después, si 1 tiene una pu cuenta paga también. Te puedes tener otras funcionalidades
+
+200
+00:45:06.440 --> 00:45:13.740
+Lucas Bonanni: que en Github para tener repositorios privados en
+
+201
+00:45:14.270 --> 00:45:19.089
+Lucas Bonanni: bueno. Y todas estas fl plataformas básicamente
+
+202
+00:45:19.220 --> 00:45:29.940
+Lucas Bonanni: más o menos ofrecen los mismos servicios. Sí es básicamente para solucionar los mismos problemas. La colaboración en equipo, seguimiento de problemas y revisión de Covid.
+
+203
+00:45:37.680 --> 00:45:45.040
+Lucas Bonanni: Bien, acá. Después tenemos el Work Float para para trabajar con Heat, que es donde tenemos
+
+204
+00:45:45.370 --> 00:45:50.399
+Lucas Bonanni: nuestro directorio actual, en el cual estamos trabajando nuestro working directory.
+
+205
+00:45:50.560 --> 00:45:57.599
+Lucas Bonanni: la parte de stacing, el Stacin, área donde es donde vamos a poner los cambios antes de hacer el Comic.
+
+206
+00:45:58.830 --> 00:46:07.130
+Lucas Bonanni: nuestro repositorio local, que generalmente es, digamos, la misma carpeta. Pero en realidad.
+
+207
+00:46:07.870 --> 00:46:14.669
+Lucas Bonanni: o sea, si 1 lo ve como en el día a día. Vas 1 suele tender a pensar que es la misma carpeta, ¿no?
+
+208
+00:46:14.960 --> 00:46:17.820
+Lucas Bonanni: Pero en realidad, bueno, son
+
+209
+00:46:18.110 --> 00:46:30.159
+Lucas Bonanni: todos los Snapshots que con tenemos ahí no que están dentro del directorio. Punto Hit. Ahora, igual después lo lo vamos a ver en un ejemplo rápido.
+
+210
+00:46:31.950 --> 00:46:36.840
+Lucas Bonanni: y después el remode repositori es lo que tenemos.
+
+211
+00:46:37.420 --> 00:46:45.400
+Lucas Bonanni: básicamente costeado en Hit Hub Hit, Lab o o cualquier otro hosting.
+
+212
+00:46:47.300 --> 00:46:51.269
+Lucas Bonanni: Bien, Bueno, esto es un poquito más de lo mismo. Tenemos
+
+213
+00:46:51.470 --> 00:46:55.209
+Lucas Bonanni: el tema de ver las Brunch y cómo podemos crear un Brunch
+
+214
+00:46:55.430 --> 00:46:58.419
+Lucas Bonanni: de a partir de otro del mail.
+
+215
+00:46:58.950 --> 00:47:02.939
+Lucas Bonanni: Bien, bueno, después acá hay unos links por si los quieren revisar.
+
+216
+00:47:04.280 --> 00:47:08.629
+Lucas Bonanni: Y bueno, y ahora vamos a pasar a a la otra herramienta que es Zithub.
+
+217
+00:47:10.030 --> 00:47:26.140
+Lucas Bonanni: que, bueno, básicamente las funcionalidades principales sí son la de alojar esto, los repositorios sí gestionar el el control y el historial de de todos los repositorios que que tengamos, sí
+
+218
+00:47:26.250 --> 00:47:34.719
+Lucas Bonanni: poder colaborar, sí, mantenerlos públicos y que otras personas puedan abrir ellos o purr request dentro de
+
+219
+00:47:35.620 --> 00:47:41.159
+Lucas Bonanni: nuestro nuestro recuper repositorio, abrir un hinillo, lo que es, es, digamos
+
+220
+00:47:42.040 --> 00:47:49.199
+Lucas Bonanni: decir, bueno, yo uso una aplicación. Encontré un un error.
+
+221
+00:47:49.660 --> 00:47:55.590
+Lucas Bonanni: ¿sí? Y quiero reportarlo y decir, bueno, esta aplicación. Cuando se hago esto, esto, esto
+
+222
+00:47:55.820 --> 00:47:59.409
+Lucas Bonanni: pasa Entonces tengo que reportarlo.
+
+223
+00:48:00.050 --> 00:48:07.520
+Lucas Bonanni: Bueno, tengo, quiero reportarlo porque estoy usando la aplicación y y me interesa que que bueno que eso se arregle, no
+
+224
+00:48:08.130 --> 00:48:20.099
+Lucas Bonanni: después. El puro request generalmente son las soluciones que se dan a esos Sichus? Sí, o pueden ser nuevas funcionalidades también. Entonces lo que nos permiten es como
+
+225
+00:48:20.320 --> 00:48:31.730
+Lucas Bonanni: un paso de revisión de de ese desarrollo para que sea aprobado por los que administran, digamos, el repositorio
+
+226
+00:48:32.150 --> 00:48:44.800
+Lucas Bonanni: de ese código, nosotros podríamos crear un puro request en cualquier otro repositorio y agregar cambios en
+
+227
+00:48:44.930 --> 00:48:52.840
+Lucas Bonanni: después integraciones. Sí, básicamente. Bueno, esto hacer los Marx de, de.
+
+228
+00:48:53.530 --> 00:49:00.280
+Lucas Bonanni: bueno, no acá miento acá habla de las integraciones con con otras herramientas y otros servicios
+
+229
+00:49:00.410 --> 00:49:05.649
+Lucas Bonanni: también. Bueno, Wikipedia, y agregar documentación, Sí,
+
+230
+00:49:08.760 --> 00:49:16.010
+Lucas Bonanni: hay alguno que no le haya quedado alguna duda alguna duda con el servicio, algo que no haya visto o que no haya usado.
+
+231
+00:49:26.430 --> 00:49:28.540
+VALENTINO CORTESE: No lo único que
+
+232
+00:49:28.740 --> 00:49:33.500
+VALENTINO CORTESE: usé, pero no entendí. Fueron los tags los ponía. Pero la verdad es que nunca lo vi
+
+233
+00:49:33.640 --> 00:49:35.390
+VALENTINO CORTESE: los reutilicé. Digamos claro.
+
+234
+00:49:36.360 --> 00:49:37.829
+Lucas Bonanni: Y qué ponías las versiones.
+
+235
+00:49:39.030 --> 00:49:40.819
+VALENTINO CORTESE: Sí ponía la versión. Nada más.
+
+236
+00:49:41.070 --> 00:49:45.310
+Lucas Bonanni: Bueno, sí es que lo que pasa que bueno depende de.
+
+237
+00:49:45.580 --> 00:49:50.530
+Lucas Bonanni: como digo, si es tu propio repositorio y
+
+238
+00:49:51.140 --> 00:49:59.680
+Lucas Bonanni: y lo estás haciendo medio como para 1. Es medio como que por ahí no, 1 no, no le encuentra sentido porque 1 siempre
+
+239
+00:49:59.920 --> 00:50:14.080
+Lucas Bonanni: va avanzando y no, no, no vas. No tienes tanto la necesidad, no en esto. A medida que 1 empieza a colaborar y tener gente que usa tu repositorio, tus herramientas. Es ahí. Cuando empezás a
+
+240
+00:50:14.200 --> 00:50:15.769
+Lucas Bonanni: darle más el valor.
+
+241
+00:50:18.850 --> 00:50:21.160
+VALENTINO CORTESE: Vale, no ninguna duda. Más.
+
+242
+00:50:21.970 --> 00:50:23.180
+Lucas Bonanni: Fantástico.
+
+243
+00:50:29.930 --> 00:50:42.939
+Lucas Bonanni: Bueno, estos son los primeros pasos. Bueno, crear un repositorio en hit ub después. Bueno, se puede clonar después. Bueno, esto después, cualquier cosa lo lo vemos.
+
+244
+00:50:44.130 --> 00:50:47.919
+Lucas Bonanni: Alguien no tiene una cuenta de Fit Hab en clase
+
+245
+00:50:55.680 --> 00:50:57.200
+Lucas Bonanni: como para saber.
+
+246
+00:51:07.010 --> 00:51:08.919
+Lucas Bonanni: Bueno, asumo que todos tienen.
+
+247
+00:51:09.170 --> 00:51:20.010
+Lucas Bonanni: Bueno, bueno, esto sería un ejemplo de como crear un Purrquest donde bueno, hacemos un check out de un nuevo Brunch. Creamos un nuevo Brunch. Agregamos los cambios.
+
+248
+00:51:20.460 --> 00:51:32.210
+Lucas Bonanni: creamos un cómic, y después, básicamente hacemos un push a ese Brunch, y luego yendo a hith Hub.
+
+249
+00:51:32.620 --> 00:51:40.839
+Lucas Bonanni: vamos a ir al repositorio. Y generalmente ahí ya arriba nos aparece que queremos hacer un punr request y creamos un punryquest
+
+250
+00:51:40.960 --> 00:51:51.200
+Lucas Bonanni: en el cual, una vez que lo creamos automáticamente queda listo ahí para pue Podemos solicitar el review ohh.
+
+251
+00:51:51.370 --> 00:51:56.410
+Lucas Bonanni: Generalmente los que mantienen el repositorio van a ver que creaste un punr request
+
+252
+00:51:56.900 --> 00:52:03.649
+Lucas Bonanni: y les va a llegar una notificación y van a hacer una review de ese punr Request.
+
+253
+00:52:04.290 --> 00:52:11.449
+Lucas Bonanni: Y una vez que este aprobado, dependiendo de si 1 es el administrador del repositorio.
+
+254
+00:52:11.900 --> 00:52:27.999
+Lucas Bonanni: va a poder hacer el mesh. Si el repositorio no es nuestro, y es de un tercero el que administre ese repositorio Va a poder hacer el mesh una vez que considere que todos los cambios están correctos y siguen todos los dylanes.
+
+255
+00:52:31.260 --> 00:52:37.230
+Lucas Bonanni: Y después, además, tenemos, además de los convencional comités.
+
+256
+00:52:37.840 --> 00:52:44.559
+Lucas Bonanni: Tenemos los los convencional comments que básicamente se usan en los Co reviews.
+
+257
+00:52:45.800 --> 00:52:52.730
+Lucas Bonanni: La idea también es tener un algo estructurado para hacerlo.
+
+258
+00:52:52.920 --> 00:53:00.419
+Lucas Bonanni: Los comentarios de de todos los reviews que 1 que hace de un repositorio.
+
+259
+00:53:01.530 --> 00:53:04.520
+Lucas Bonanni: Entonces la idea de esto es que
+
+260
+00:53:04.730 --> 00:53:11.270
+Lucas Bonanni: sea un poquito más ordenado que la persona que está siendo revisada.
+
+261
+00:53:11.400 --> 00:53:25.230
+Lucas Bonanni: Sus cambios están siendo revisados, sepa a qué darle prioridad al momento de los comentarios, porque a veces puede llegar a pasar de que
+
+262
+00:53:25.450 --> 00:53:33.980
+Lucas Bonanni: los comentarios son no son para este momento o ten lo que
+
+263
+00:53:37.420 --> 00:53:41.289
+Lucas Bonanni: usar esos cambios. Entonces, bueno, tenemos cosas como.
+
+264
+00:53:42.270 --> 00:53:44.430
+JUANA BOJOSIAN: Profesor se está trabando.
+
+265
+00:53:51.030 --> 00:53:52.630
+Lucas Bonanni: Perdón. No escuché cómo.
+
+266
+00:53:53.290 --> 00:53:56.100
+JUANA BOJOSIAN: Se está trabando todo lo último que dijo.
+
+267
+00:53:56.800 --> 00:54:05.319
+Lucas Bonanni: Quieren que repita a ver, déjeme chequear por las dudas así o mejorar algo. Y
+
+268
+00:54:46.000 --> 00:54:49.479
+Lucas Bonanni: bueno, vamos a probar. Ahora sí.
+
+269
+00:54:49.600 --> 00:54:55.340
+Lucas Bonanni: Bien, como les decía, estos son comen.
+
+270
+00:54:55.710 --> 00:55:05.080
+Lucas Bonanni: Para hacer los correos. Básicamente lo que nos permiten es en
+
+271
+00:55:05.690 --> 00:55:10.919
+Lucas Bonanni: darle al que, al que está siendo revisada al que tienen revisión esos cambios.
+
+272
+00:55:11.400 --> 00:55:22.489
+Lucas Bonanni: Saber qué tipo veces es importante. Entonces, si si ponen dentro de vamos a ver acá los efectos que tienen en la página.
+
+273
+00:55:38.180 --> 00:55:40.050
+Lucas Bonanni: Bien, voy a
+
+274
+00:55:41.520 --> 00:55:59.270
+Lucas Bonanni: todo esto. Esto es bueno, Por ejemplo, sugerencia, un problema que no bloqueante Generalmente, la idea acá está la traducción, pero como como ejemplo, no es la idea, podrías utilizarlo inclusive
+
+275
+00:56:00.070 --> 00:56:02.620
+Lucas Bonanni: para documentos.
+
+276
+00:56:02.740 --> 00:56:12.859
+Lucas Bonanni: pero generalmente la idea también, al igual que convencional comics. La idea es que se use en inglés seguir un un mismo formato. Sí,
+
+277
+00:56:13.930 --> 00:56:24.550
+Lucas Bonanni: Bueno, revisión, la la el cuál es el objetivo, Pero revisión por código, revisión por pares para la revisión de un R. F, C: Sí,
+
+278
+00:56:24.800 --> 00:56:36.020
+Lucas Bonanni: entonces 1 tiene este tipo de formato donde tiene la etiqueta. Sí, diferentes decoraciones. Y el asunto sí
+
+279
+00:56:38.220 --> 00:56:43.020
+Lucas Bonanni: Entonces dice, bueno, ves, entonces pue puede ser la decoración que está acá
+
+280
+00:56:43.370 --> 00:56:50.880
+Lucas Bonanni: Y si es opcional, básicamente muy similar a a entonces saber, acá por ejemplo, tenemos
+
+281
+00:56:51.240 --> 00:57:00.530
+Lucas Bonanni: price un elogio o un Peak es algo detalle. Es algo muy puntual. Muchas veces también puede ser algo que
+
+282
+00:57:02.160 --> 00:57:14.000
+Lucas Bonanni: que es muy subjetivo, que la persona, por ejemplo, dice, no. Yo quiero cambiar esto porque no, me no me parece que sea la forma, el o la mejor forma, o es un detalle
+
+283
+00:57:14.270 --> 00:57:21.609
+Lucas Bonanni: muy, muy, un detalle muy, muy particular, no muy meticuloso.
+
+284
+00:57:22.500 --> 00:57:24.679
+Lucas Bonanni: Después, una sugerencia.
+
+285
+00:57:24.990 --> 00:57:37.390
+Lucas Bonanni: un hiyou bueno es realmente un problema y que tiene que ser que generalmente es bloqueante. Sí, un tudú algo que hay que hacer pendiente, que son
+
+286
+00:57:37.750 --> 00:57:46.900
+Lucas Bonanni: que no son necesarios para para merchear una pregunta, un
+
+287
+00:57:47.020 --> 00:57:52.930
+Lucas Bonanni: una idea, un pensamiento. Esto es básicamente un mantenimiento, un quehacer.
+
+288
+00:57:53.190 --> 00:57:58.679
+Lucas Bonanni: Sí, una nota. Hay Hay varias cosas que 1 puede diferentes ir agregando.
+
+289
+00:58:00.630 --> 00:58:05.189
+Lucas Bonanni: pues les muestro un ejemplo de esto.
+
+290
+00:58:11.590 --> 00:58:12.469
+Lucas Bonanni: Y bueno.
+
+291
+00:58:12.700 --> 00:58:30.109
+Lucas Bonanni: esto es básicamente los beneficios estos días y contexto inmediato Para quien recibe el feedback no nos ayuda un montón saber. Bueno, no, esto es una sugerencia menor. Yo te digo que que arregles esto, pero es una sugerencia.
+
+292
+00:58:31.250 --> 00:58:43.110
+Lucas Bonanni: Es algo subjetivo que a mí me parece que que va a ser mejor o o le va a dar más legibilidad al al comentario o al
+
+293
+00:58:43.370 --> 00:58:46.239
+Lucas Bonanni: al o al Covid.
+
+294
+00:58:47.460 --> 00:58:50.210
+Lucas Bonanni: Sí que muchas veces son de ese tipo de cosas.
+
+295
+00:58:51.980 --> 00:59:01.039
+Lucas Bonanni: Bueno, bueno para esto, para el desarrollo de software. Bueno, que el rol de hilstaba
+
+296
+00:59:01.290 --> 00:59:20.969
+Lucas Bonanni: en el día de hoy. Bueno, la verdad es que ha transformado toda la la parte de cómo se desarrolla software. ¿cómo se comparte si el código abierto donde, bueno, ustedes ya saben que mucho del código abierto que hoy se encuentra en Internet, donde está costeado del Hith Hub
+
+297
+00:59:22.790 --> 00:59:31.219
+Lucas Bonanni: y bueno, impulsando también el tema de la transparencia. A veces inclusive hay aplicaciones o navegadores que
+
+298
+00:59:31.640 --> 00:59:40.639
+Lucas Bonanni: por ahí no tienen todo el código o tienen cierta parte, Y perdí o herramientas. Sí, ya sabemos que hay errá incluso empresas
+
+299
+00:59:41.410 --> 00:59:49.229
+Lucas Bonanni: como Microsoft o que solían tener muchas cosas de o jet, brains, cosas
+
+300
+00:59:49.470 --> 00:59:55.760
+Lucas Bonanni: privadas, y ahora muchas cosas también. Y muchas herramientas se la han hecho de código abierto.
+
+301
+00:59:56.250 --> 01:00:04.359
+Lucas Bonanni: Hay veces que también es medio mentira. A veces no dicen que tienen abierto y lo que tienen abierto
+
+302
+01:00:04.400 --> 01:00:17.210
+Lucas Bonanni: o publicado no es todo el código, y es solamente una parte o solamente en la parte externa, y Y hay muchas cosas que no están completamente publicadas. Pero bueno.
+
+303
+01:00:17.640 --> 01:00:20.420
+Lucas Bonanni: bueno, eso es como todo.
+
+304
+01:00:22.920 --> 01:00:34.470
+Lucas Bonanni: Bien. Después, Bueno, un poquito más para repasar lo del flujo del hit hub. Y básicamente.
+
+305
+01:00:34.890 --> 01:00:54.850
+Lucas Bonanni: todo lo que está en la rama Main Main está el listo para estar en producción. Si cada vez que se quiere trabajar en algo nuevo, se tiene que crear una una nueva rama. ¿sí? Después, una vez finalizado el trabajo. Se hará un mesh
+
+306
+01:00:55.250 --> 01:01:03.259
+Lucas Bonanni: de esa rama local, ¿Sí? Y cuando
+
+307
+01:01:03.520 --> 01:01:09.300
+Lucas Bonanni: Bueno, no está el esto de integrando es que se va a ir subiendo la rama local al servidor.
+
+308
+01:01:09.470 --> 01:01:14.449
+Lucas Bonanni: Y después, cuando el esté lista, se va a crear un pool request.
+
+309
+01:01:15.260 --> 01:01:17.940
+Lucas Bonanni: se hace una revisión de los cambios.
+
+310
+01:01:18.420 --> 01:01:21.799
+Lucas Bonanni: Y luego, si se marcharon con la rama maine
+
+311
+01:01:22.900 --> 01:01:34.300
+Lucas Bonanni: y una vez que los cambios ya se inversionan con la Rama Main otra vez pasan esos cambios a producción, no porque una vez que pasan a la Rama Main, se deberían pasar esos.
+
+312
+01:01:35.800 --> 01:01:51.119
+Lucas Bonanni: porque La idea es que siempre producción esté sincronizado con esa rama. Lo puede. La idea es que no haya nunca un desfasaje o a o hayan cambios que no estén en, digamos, publicados y en producción.
+
+313
+01:01:52.730 --> 01:01:57.959
+Lucas Bonanni: Y ahora vamos a ver la última herramienta que va a ser docker
+
+314
+01:02:01.000 --> 01:02:19.359
+Lucas Bonanni: bien. Docker básicamente es una plataforma que nos permite, a través de contenedores, virtualizar las aplicaciones, empaquetarlas y poder hacer el de despliegue de las aplicaciones. Sí, es una herramienta que fue lanzada en 2 013.
+
+315
+01:02:19.560 --> 01:02:31.690
+Lucas Bonanni: Y bueno, la verdad es que ha cambiado y ha revolucionado como como trabajar en la nube, trabajar con este tipo de herramientas
+
+316
+01:02:33.530 --> 01:02:43.369
+Lucas Bonanni: después. Bueno, tenemos la parte de la vis virtualización tradicional o las máquinas virtuales como las tú no puede ver en el hipervisor de
+
+317
+01:02:43.380 --> 01:02:55.990
+Lucas Bonanni: virtual Box o Bmward, Sí, donde hacen una emulación completa del hardware donde 1 puede llegar a tener
+
+318
+01:02:56.040 --> 01:03:02.109
+Lucas Bonanni: instalar o emular diferentes máquinas con diferentes eco sistemas operativos.
+
+319
+01:03:02.210 --> 01:03:17.329
+Lucas Bonanni: Pero esto tiene un mayor consumo porque necesita más memoria, más procesador, ¿sí? Porque básicamente vos estás levantando o emulando toda una máquina. Inclusive con el mismo hardware.
+
+320
+01:03:17.770 --> 01:03:34.850
+Lucas Bonanni: En cambio, los contenedores. Básicamente, es una virtualización a nivel del sistema operativo, ¿sí? Entonces comparte lo que es el carnet o lo que es la parte principal del sistema operativo, el ac lo que sería
+
+321
+01:03:34.930 --> 01:03:42.880
+Lucas Bonanni: el carnet, es el que maneja los accesos a a los recursos del sistema operativo
+
+322
+01:03:43.470 --> 01:03:55.570
+Lucas Bonanni: y a través de y el sistema operativo aparte con ju trabajando en conjunto con el Kernal es el que acce accede a los recursos. Entonces.
+
+323
+01:03:56.670 --> 01:04:04.739
+Lucas Bonanni: por eso la idea es que compartan el Kernel sí como a modo de virtualización.
+
+324
+01:04:04.840 --> 01:04:19.280
+Lucas Bonanni: y de esa manera logra desacoplarse del hardware sí. Y de esa manera también es suelen ser más ligeros y más eficientes, porque no tienen que emular todo el hardware. Ya trabajan
+
+325
+01:04:19.390 --> 01:04:27.320
+Lucas Bonanni: en comunicación con Internet, y eso evita que tengamos que modular todo el hardware.
+
+326
+01:04:29.490 --> 01:04:37.540
+Lucas Bonanni: Bueno, algunos conceptos básicos de Docker para para poder trabajar con Docker.
+
+327
+01:04:37.900 --> 01:04:47.460
+Lucas Bonanni: Básicamente, Loker trabaja con imágenes que son unas plantillas que
+
+328
+01:04:47.720 --> 01:04:53.250
+Lucas Bonanni: la idea es que sean lo más inmutables posibles
+
+329
+01:04:54.070 --> 01:04:56.179
+Lucas Bonanni: que donde que se corra la App.
+
+330
+01:04:57.790 --> 01:05:02.979
+Lucas Bonanni: Y bueno, a través de eso, manejar también las de las dependencias.
+
+331
+01:05:03.210 --> 01:05:16.409
+Lucas Bonanni: Después, el contenedor sí que es básicamente una instancia de esa imagen. Si entonces nos permite, pues nosotros podamos tener diferentes contenedores para una misma imagen.
+
+332
+01:05:18.090 --> 01:05:24.090
+Lucas Bonanni: Después tenemos el Docker file, que es el archivo con instrucciones para construir esa imagen.
+
+333
+01:05:25.460 --> 01:05:33.400
+Lucas Bonanni: Y después, bueno, acá tenemos algunos comandos donde nosotros podemos ver cómo construir la imagen de la aplicación.
+
+334
+01:05:35.060 --> 01:05:45.240
+Lucas Bonanni: En acá una vez que tenemos la imagen, podemos correr esa aplicación y ejecutar el contenedor.
+
+335
+01:05:46.680 --> 01:05:56.539
+Lucas Bonanni: o sea, hasta acá vamos a, vamos a tener un archivo con un docker file con las instrucciones de cómo construir la imagen.
+
+336
+01:05:56.990 --> 01:06:10.999
+Lucas Bonanni: Con este comando. Recién ahí vamos a tener una imagen. Y acá recién vamos a tener el contenedor si ejecutándose y digamos si la aplicación.
+
+337
+01:06:16.950 --> 01:06:30.390
+Lucas Bonanni: Bueno, acá. Tenemos un poco cómo está la la arquitectura de de Docker. Sí, donde tenemos, por un lado el cliente sí que lo que nos va es: ¿Va a ser la interfaz
+
+338
+01:06:30.420 --> 01:06:42.889
+Lucas Bonanni: que puede ser la de la terminal, o puede ser docker restos. Sí, depende de lo que tengan instalado ¿Pueden utilizar eso esas 2
+
+339
+01:06:43.050 --> 01:06:48.210
+Lucas Bonanni: después. El diemon sí que es básicamente es el servicio
+
+340
+01:06:48.230 --> 01:07:03.520
+Lucas Bonanni: de fondo que gestiona los contenedores, está también puede ser El Dimon puede ser diferentes. Puede ser, por ejemplo, colima. No necesariamente tiene que ser el mismo de Docker. Sí.
+
+341
+01:07:03.700 --> 01:07:13.470
+Lucas Bonanni: Después tenemos el tema de las imágenes, que son estas plantillas versionadas en mutables.
+
+342
+01:07:13.810 --> 01:07:25.570
+Lucas Bonanni: Después tenemos, bueno, como decíamos los contenedores que son estas instancias de estas imágenes que nosotros corremos donde realmente corren Las aplicaciones. Son como los procesos.
+
+343
+01:07:26.360 --> 01:07:31.089
+Lucas Bonanni: Y después tenemos, por otro lado, el ro el Docker Registry.
+
+344
+01:07:31.530 --> 01:07:38.230
+Lucas Bonanni: donde es, digamos. Ahí es donde se publican estas
+
+345
+01:07:39.910 --> 01:07:46.150
+Lucas Bonanni: imágenes, sí para poder descargarlas y poder reutilizarlas.
+
+346
+01:07:48.930 --> 01:08:06.099
+Lucas Bonanni: Básicamente, lo que 1 hace cuando está trabajando con Docker, cuando haces que escribes cualquier comando de Docker, lo que te estás comunicando. Básicamente es con el el daamon o el servicio de fondo que está ejecutándose. Sí.
+
+347
+01:08:08.410 --> 01:08:16.509
+Lucas Bonanni: Entonces lo que hace es que el servicio, ese verifica el si la imagen está descargada o la tiene que descargar
+
+348
+01:08:17.340 --> 01:08:21.850
+Lucas Bonanni: si la tiene que descargar la busca en el registry e intenta descargarla.
+
+349
+01:08:23.430 --> 01:08:32.600
+Lucas Bonanni: Y a partir de eso? Bueno, si nosotros le dijimos que cree el contenedor lo va a ejecutar.
+
+350
+01:08:32.770 --> 01:08:44.580
+Lucas Bonanni: Todos estos pasos se pueden hacer por separados o todos juntos si 1 hace Docker ron y le pasa la imagen. Si no la tiene, el local automáticamente la va a descargar, va a intentar descargarlo, no
+
+351
+01:08:44.939 --> 01:08:47.560
+Lucas Bonanni: en ya.
+
+352
+01:08:49.760 --> 01:08:57.959
+Lucas Bonanni: Entonces, bueno, una imagen de Docker básicamente se construye sobre
+
+353
+01:08:58.920 --> 01:09:14.660
+Lucas Bonanni: cambio. Cuando veamos esto, acá este archivo de Docker, acá tenemos el básicamente desde que imagen base estamos partiendo. Si en este caso es una imagen de Enginex
+
+354
+01:09:14.800 --> 01:09:20.330
+Lucas Bonanni: que corre sobre una distribución de Linux, que es Alpine. Sí,
+
+355
+01:09:20.830 --> 01:09:26.750
+Lucas Bonanni: Después, cuando ejecutamos este nuevo comando, se crea una nueva capa.
+
+356
+01:09:26.979 --> 01:09:35.660
+Lucas Bonanni: Así que agrega en este caso el paquete de curl sobre esa capa base. Básicamente.
+
+357
+01:09:36.979 --> 01:09:51.899
+Lucas Bonanni: cuando se agrega curl, se agrega un binario o un diferentes archivos que se instalan para que la aplicación funcione, un man pages y diferentes cosas.
+
+358
+01:09:51.899 --> 01:09:58.970
+Lucas Bonanni: Y todos esos archivos que se van agregando se agregan en una nueva capa mhm.
+
+359
+01:10:00.100 --> 01:10:18.240
+Lucas Bonanni: Y después, una vez que queda ahí, digamos, cierra esa capa. Y el siguiente comando que viene después se va a crear otra capa nueva con los archivos que se están agregando. En este caso, está copiando los archivos del directorio local, donde está la imagen
+
+360
+01:10:19.200 --> 01:10:25.580
+Lucas Bonanni: con los de estar copiando los de a la al directorio. App: Sí.
+
+361
+01:10:26.070 --> 01:10:29.360
+JUAN GUZZARDI: Ahí estamos viendo lo del dogger File, No, Eso es lo que hay.
+
+362
+01:10:29.360 --> 01:10:29.700
+Lucas Bonanni: Claro.
+
+363
+01:10:29.700 --> 01:10:30.580
+JUAN GUZZARDI: Lo que.
+
+364
+01:10:31.250 --> 01:10:32.139
+Lucas Bonanni: Dogger Fight.
+
+365
+01:10:34.670 --> 01:10:42.350
+Lucas Bonanni: Y bueno, esto podría tener muchas más capas Después, igual lo vamos a ver un poquito más en profundidad.
+
+366
+01:10:44.150 --> 01:10:59.010
+Lucas Bonanni: Y después tenemos la la parte de la configuración que acá le decimos. Bueno, que es lo que tiene que ejecutar finalmente y le damos con el Entri Point, que básicamente es una configuración. Si
+
+367
+01:10:59.160 --> 01:11:06.490
+Lucas Bonanni: entonces lo que nos permite trabajar con con el tema de las capas es que
+
+368
+01:11:07.390 --> 01:11:12.459
+Lucas Bonanni: cuando esto la ventaja se ve cuando construyes las imágenes.
+
+369
+01:11:12.600 --> 01:11:19.770
+Lucas Bonanni: Si nosotros hacemos una modificación, acá estas capas no las toca
+
+370
+01:11:20.070 --> 01:11:24.420
+Lucas Bonanni: entonces solamente reconstruye de acá. Hacia adelante.
+
+371
+01:11:24.990 --> 01:11:39.750
+Lucas Bonanni: ¿sí? Entonces, si nosotros tenemos muchos, muchas capas o muchos comandos en los que vamos ejecutando, sí nos va a permitir justamente reutilizar estas capas y poder
+
+372
+01:11:40.040 --> 01:11:55.310
+Lucas Bonanni: hacer el Bill o o o generar la imagen más rápido. Sí, Si ahora, si nosotros ter tuviéramos acá un comando entre el entre el F, R o M y el R o a M, Y lo modificamos todas estas ramas siguientes se van a tener que volver a generar.
+
+373
+01:11:55.470 --> 01:12:00.280
+Lucas Bonanni: entonces siempre una buena práctica es tener
+
+374
+01:12:01.100 --> 01:12:06.649
+Lucas Bonanni: este copy, por ejemplo, siempre sea una de las últimas capas, porque es la
+
+375
+01:12:07.170 --> 01:12:18.809
+Lucas Bonanni: para que todas las capas que requieren pocos cambios no se estén generando siempre. Si Si yo pusiera este copy arriba del Ran.
+
+376
+01:12:19.200 --> 01:12:37.759
+Lucas Bonanni: sería una mala idea, porque no estaría aprovechando esto en lo de las de las layers o las capas, porque Em: se empezaría a generar esta esta, que en realidad es casi siempre va a ser la misma. Entonces se volvería a generar cada vez y no tendría sentido.
+
+377
+01:12:37.890 --> 01:12:39.100
+Lucas Bonanni: Se entiende.
+
+378
+01:12:48.840 --> 01:12:50.799
+JUAN GUZZARDI: Yo no lo terminé de entender. Profe:
+
+379
+01:12:51.730 --> 01:12:55.109
+Lucas Bonanni: Okay, no importa lo explico de vuelta, no hay problema.
+
+380
+01:12:55.510 --> 01:12:57.020
+Lucas Bonanni: La idea es que.
+
+381
+01:12:59.550 --> 01:13:07.090
+Lucas Bonanni: como acá este comando instala curv Y siempre que lo ejecutes va a instalar curv, no hace otra cosa.
+
+382
+01:13:08.240 --> 01:13:11.929
+Lucas Bonanni: entonces eso genera una capa con esos archivos de curv.
+
+383
+01:13:13.820 --> 01:13:32.340
+Lucas Bonanni: Entonces La idea es que vos lo Si a la imagen base y le agregas, curl listo, siempre va a ser igual, no va a cambiar. Entonces, cuando lo único que vos vas a cambiar realmente cuando estés desarrollando en tu repositorio local y quieras construir una nueva imagen
+
+384
+01:13:32.470 --> 01:13:47.319
+Lucas Bonanni: va a ser esta parte la parte donde tú tienes tu directorio local y tienes tu código, ¿no? Entonces supongamos que esto es un proyecto de node. Entonces vos estás haciendo una A, P, I en Node. Y lo que estás cambiando es tu A. P, I,
+
+385
+01:13:48.120 --> 01:13:54.249
+Lucas Bonanni: El cool. No lo vas a cambiar. Se entiende hasta ahí. Me siguen.
+
+386
+01:13:54.500 --> 01:13:56.550
+JUAN GUZZARDI: Sí, sí, pero.
+
+387
+01:13:57.440 --> 01:14:00.440
+Lucas Bonanni: Entonces, acá? ¿cómo sí.
+
+388
+01:14:00.970 --> 01:14:06.109
+JUAN GUZZARDI: La A B. Esa va a haber igual. Si vos corres primero el copy igual Run Starter Core.
+
+389
+01:14:06.430 --> 01:14:07.100
+JUAN GUZZARDI: ¿no es cierto.
+
+390
+01:14:07.100 --> 01:14:10.269
+Lucas Bonanni: ¿cómo no te seguí, perdona, ¿ ¿cómo es.
+
+391
+01:14:10.270 --> 01:14:13.940
+JUAN GUZZARDI: La la la a que va a arrancar con el trípode
+
+392
+01:14:14.510 --> 01:14:20.360
+JUAN GUZZARDI: igual copiar los archivos antes de instalar, curr o instalar curva después de copiar los archivos.
+
+393
+01:14:20.360 --> 01:14:23.490
+Lucas Bonanni: Sí. El Endtren Point acá no es el caso.
+
+394
+01:14:23.490 --> 01:14:23.810
+JUAN GUZZARDI: Claro.
+
+395
+01:14:23.810 --> 01:14:25.440
+Lucas Bonanni: Sí, el trípode no le importa.
+
+396
+01:14:25.440 --> 01:14:27.469
+JUAN GUZZARDI: Función de la cama.
+
+397
+01:14:28.160 --> 01:14:31.880
+Lucas Bonanni: Sí es en cua en función del oro de de las capas.
+
+398
+01:14:32.350 --> 01:14:33.690
+Lucas Bonanni: En
+
+399
+01:14:34.650 --> 01:14:45.349
+Lucas Bonanni: como digo, esta capa siempre que se ejecute va a ser lo mismo. Entonces acá digamos que se puede. La idea es como como funciona una caché, No, ahí en
+
+400
+01:14:46.080 --> 01:14:48.300
+Lucas Bonanni: tienen el concepto de caché.
+
+401
+01:14:50.300 --> 01:14:55.160
+JUAN GUZZARDI: Sí sí. Lo que te pregunto es si el orden afecta al producto. Al fin y al cabo.
+
+402
+01:14:56.140 --> 01:14:58.350
+JUAN GUZZARDI: en ese caso entre Roone y Copyt.
+
+403
+01:14:58.350 --> 01:14:59.539
+Lucas Bonanni: En este caso, no
+
+404
+01:15:00.340 --> 01:15:12.360
+Lucas Bonanni: en este caso, porque 1 no está relacionado 1 con el otro. No hay forma de que el copy me modifique el Court, salvo que tengas algo en el directorio, que
+
+405
+01:15:13.150 --> 01:15:17.510
+Lucas Bonanni: pero sería una buena mala práctica tener algo
+
+406
+01:15:17.600 --> 01:15:36.949
+Lucas Bonanni: que qué sé, yo podrías tener dentro De ahí un script que que esté haciendo lo mismo y que te ins y que después tengas otro paso que ejecutes el script y que te esté instalando curl. Y después vos haces una pepe te quede install cool. Y ahí, en ese caso sí te afecta, no, pero.
+
+407
+01:15:37.160 --> 01:15:42.059
+JUAN GUZZARDI: Claro claro si vas a utilizar el curl después ahí, si tendrías que instalar donde está el pero.
+
+408
+01:15:42.060 --> 01:15:42.590
+Lucas Bonanni: Sí, Sí.
+
+409
+01:15:42.590 --> 01:15:46.310
+JUAN GUZZARDI: No lo tiene como no tiene como efecto.
+
+410
+01:15:46.680 --> 01:15:47.809
+Lucas Bonanni: No. En este caso No.
+
+411
+01:15:47.810 --> 01:15:53.660
+JUAN GUZZARDI: El el hecho de ruñar Installs al inicio tipo muy buena, práctica.
+
+412
+01:15:54.030 --> 01:16:09.630
+Lucas Bonanni: Claro, pero porque no es solamente como buena práctica, sino por esto, para aprovechar el tema de las capas y que esto digamos quede como de alguna manera. Si fuera una caché, entonces no. Cuando tiene que reconstruir.
+
+413
+01:16:09.870 --> 01:16:14.440
+Lucas Bonanni: no va a reconstruir todo, sí o sea, yo hago cambios? ¿no?
+
+414
+01:16:14.890 --> 01:16:17.620
+Lucas Bonanni: Entonces.
+
+415
+01:16:17.620 --> 01:16:18.280
+JUAN GUZZARDI: Sí.
+
+416
+01:16:18.900 --> 01:16:19.650
+Lucas Bonanni: Cómo.
+
+417
+01:16:19.960 --> 01:16:22.350
+JUAN GUZZARDI: Va a reconstruir desde el Copy. Decís.
+
+418
+01:16:22.350 --> 01:16:24.090
+Lucas Bonanni: Claro exacto.
+
+419
+01:16:24.090 --> 01:16:27.530
+JUAN GUZZARDI: Ok, está bien, ahí terminando.
+
+420
+01:16:28.120 --> 01:16:44.399
+Lucas Bonanni: Exacto. La idea es esa y que y que no haga toda la reconstrucción de todo, que haga como una especie de básicamente una caché, te cae. Te dice, bueno, estas 2 no las necesito regenerar. ¿para qué son las mismas. No cambiaron. Entonces eso nos las regenera.
+
+421
+01:16:44.590 --> 01:16:46.520
+Lucas Bonanni: Regenero de acá para adelante.
+
+422
+01:16:46.950 --> 01:16:50.980
+JUAN GUZZARDI: Claro, o sea, cuando revillas regenera desde Copy para adelante.
+
+423
+01:16:51.210 --> 01:16:51.950
+Lucas Bonanni: Exacto.
+
+424
+01:16:59.960 --> 01:17:11.519
+Lucas Bonanni: Bien. Y después, bueno, los los contenedores, como proceso, si son básicamente un proceso aislado
+
+425
+01:17:11.720 --> 01:17:18.900
+Lucas Bonanni: dentro de la máquina, o sea, de dentro de nuestro P, C, Y
+
+426
+01:17:19.960 --> 01:17:24.829
+Lucas Bonanni: como decíamos anteriormente, no es una máquina virtual, o sea que no tiene un sistema opera
+
+427
+01:17:24.920 --> 01:17:38.490
+Lucas Bonanni: objetivo completo y después lo que usa lo el para aislar el Keiner, el keart perdón. ¿es esto no el procesado sí para el aislado.
+
+428
+01:17:38.490 --> 01:17:45.380
+Lucas Bonanni: los procesos, el let para para tener su propia red privada.
+
+429
+01:17:46.190 --> 01:17:53.190
+Lucas Bonanni: Después tenemos el I P, C para te tener su propia comunicación entre entre los procesos.
+
+430
+01:17:53.380 --> 01:18:00.699
+Lucas Bonanni: también tener los los name los 2 main name que 1 los ve cuando corre la imagen.
+
+431
+01:18:01.670 --> 01:18:11.109
+Lucas Bonanni: Sí, después. Bueno, mapeo de usuarios, tener sus propios usuarios y y un punto de montaje aislado. Ca.
+
+432
+01:18:11.330 --> 01:18:19.499
+Lucas Bonanni: Básicamente, los volúmenes, Sí, los volúmenes es donde nuestras pasiones van a
+
+433
+01:18:19.630 --> 01:18:30.390
+Lucas Bonanni: tienen lugar ciertas cosas, pues, por ejemplo, si nosotros creamos una una imagen, usamos una imagen Docker de y corremos un contenedor de una base.
+
+434
+01:18:31.180 --> 01:18:35.250
+Lucas Bonanni: Tenemos que tener un volumen para guardar esos datos
+
+435
+01:18:36.990 --> 01:18:45.740
+Lucas Bonanni: también, pues esos volúmenes se pueden apuntar a un vale y
+
+436
+01:18:46.610 --> 01:18:52.170
+Lucas Bonanni: a los para hacer la persistencia. Y cada vez que se
+
+437
+01:18:52.590 --> 01:18:57.500
+Lucas Bonanni: la imagen, no hace falta que para dar tu
+
+438
+01:19:00.780 --> 01:19:03.030
+Lucas Bonanni: acá está Mhm.
+
+439
+01:19:05.000 --> 01:19:08.940
+FACUNDO REYNOSO: Profe. Lo escucho muy trabado. No sé si soy yo o.
+
+440
+01:19:08.940 --> 01:19:10.980
+JUANA BOJOSIAN: No, no sé tampoco.
+
+441
+01:19:13.530 --> 01:19:14.989
+Lucas Bonanni: Porque ahora es mejor.
+
+442
+01:19:18.270 --> 01:19:22.249
+Lucas Bonanni: o de hay algo que nos.
+
+443
+01:19:28.600 --> 01:19:30.659
+JUAN GUZZARDI: Sí escuchando, Sí, es muy, muy mal.
+
+444
+01:19:31.600 --> 01:19:32.010
+FACUNDO REYNOSO: No se.
+
+445
+01:19:32.010 --> 01:19:32.359
+FACUNDO EMANUEL MODARELLI: Que los.
+
+446
+01:19:32.360 --> 01:19:32.840
+FACUNDO REYNOSO: Le digo.
+
+447
+01:19:32.840 --> 01:19:33.480
+FACUNDO EMANUEL MODARELLI: Profe.
+
+448
+01:19:33.920 --> 01:19:34.550
+FACUNDO REYNOSO: Sí.
+
+449
+01:19:37.880 --> 01:19:38.790
+Lucas Bonanni: ¿verdad?
+
+450
+01:19:41.900 --> 01:19:43.100
+Lucas Bonanni: Déjeme a ver.
+
+451
+01:19:43.100 --> 01:19:48.600
+FACUNDO EMANUEL MODARELLI: Está fallando. El Net de el Delan Natepace.
+
+452
+01:20:08.170 --> 01:20:09.220
+Lucas Bonanni: No.
+
+453
+01:20:10.220 --> 01:20:12.590
+VALENTIN KRAJZELMAN: Profe: No lo escuchamos,
+
+454
+01:21:02.730 --> 01:21:05.719
+FACUNDO EMANUEL MODARELLI: Pues la verdad. Los demás me escuchan o perdí a todos.
+
+455
+01:21:07.600 --> 01:21:08.699
+JUANA BOJOSIAN: De escucha.
+
+456
+01:21:08.870 --> 01:21:09.509
+FRANCISCO DAURAT: Ahí se escuchan.
+
+457
+01:21:09.510 --> 01:21:11.170
+FACUNDO EMANUEL MODARELLI: Listo? La verdad.
+
+458
+01:21:13.070 --> 01:21:14.610
+Lucas Bonanni: Desde un momento.
+
+459
+01:22:46.950 --> 01:22:49.170
+Lucas Bonanni: a ver si ahí se me escucha mejor.
+
+460
+01:22:51.540 --> 01:22:52.680
+JUANA BOJOSIAN: Por Ahora bien.
+
+461
+01:22:53.250 --> 01:23:03.340
+Lucas Bonanni: Okay. Bueno, si vemos que va a funcionar medio raro, tal vez cortamos 10 min. Y hago algo más
+
+462
+01:23:04.600 --> 01:23:08.030
+Lucas Bonanni: bien Bueno.
+
+463
+01:23:08.390 --> 01:23:20.270
+Lucas Bonanni: básicamente, acá. Lo que tenemos es para ejemplos de cómo correr un contenedor si este lo que corre es el
+
+464
+01:23:20.870 --> 01:23:31.479
+Lucas Bonanni: básicamente un comando o corre de forma interactiva. Esto lo que nos permite es básicamente poder tener un
+
+465
+01:23:31.690 --> 01:23:38.710
+Lucas Bonanni: la Schell o la terminal, sí y poder escribir comando así de forma interactiva. Y es como tener un
+
+466
+01:23:39.290 --> 01:23:45.489
+Lucas Bonanni: A como abrir un cómo se utilizar nuestra terminal de forma local.
+
+467
+01:23:46.220 --> 01:23:58.700
+Lucas Bonanni: Este este comando nos va a permitir ver los blogs de del contenedor, este inspeccionar algunos detalles, ¿sí?
+
+468
+01:23:59.070 --> 01:24:06.230
+Lucas Bonanni: Y con este copiar archivos dentro del contenedor acá lo que le pasamos, el container id
+
+469
+01:24:06.750 --> 01:24:20.250
+Lucas Bonanni: y acá le pasamos la ruta dentro del contenedor. Si dentro de la App y el archivo file. Y acá bueno, le pasamos el el archivo que queremos.
+
+470
+01:24:21.460 --> 01:24:22.810
+Lucas Bonanni: Y
+
+471
+01:24:23.190 --> 01:24:36.249
+Lucas Bonanni: Y bueno, por este lado, tenemos la parte de volúmenes. Sí que era lo que les más o menos les adelanté hace un rato que era la parte de que nos permite compartir. Perdón, permite
+
+472
+01:24:36.430 --> 01:24:44.790
+Lucas Bonanni: 3: hacer la persistencia de los datos de dentro del contenedor y también compartir los datos entre el Host y el contenedor.
+
+473
+01:24:45.110 --> 01:24:51.130
+Lucas Bonanni: En entonces hay diferentes tipos de formas de
+
+474
+01:24:51.750 --> 01:25:01.180
+Lucas Bonanni: configurarlo. Es el Beinmo, donde se mapea el directorio del Host al contenedor. Entonces podemos de esa manera
+
+475
+01:25:02.630 --> 01:25:10.280
+Lucas Bonanni: tener como nuestra carpeta compartida entre el contenedor y y nuestra máquina local. Entonces podemos.
+
+476
+01:25:10.830 --> 01:25:18.090
+Lucas Bonanni: en algún caso, podríamos modificar algún archivo y que se modifique a su vez en el contenedor. Sí,
+
+477
+01:25:18.530 --> 01:25:25.919
+Lucas Bonanni: un volumen con nombre ¿sí? Básicamente es un volumen gestionado por Docker.
+
+478
+01:25:26.260 --> 01:25:36.850
+Lucas Bonanni: Un volumen anónimo es básicamente un volumen temporal que se borra cuando que se crea con el contenedor y se borra cuando el el el contenedor
+
+479
+01:25:37.090 --> 01:25:38.890
+Lucas Bonanni: termina de ejecutarse.
+
+480
+01:25:39.310 --> 01:25:56.619
+Lucas Bonanni: Bueno cuando, por ejemplo, cuando se quiere utilizar un volumen, como les comentaba, les adelantaba cuando se quiere persistir los datos de la base de datos. Usa un volumen. Sí, Bueno, esto
+
+481
+01:25:56.640 --> 01:26:10.450
+Lucas Bonanni: podría ser un caso, compartir el código entre el Host y el contenedor. Cuando 1 está, digamos, digamos, para la parte de desarrollo ¿no? Y quiere tener esto de del Live a up Day de de los cambios
+
+482
+01:26:10.510 --> 01:26:13.160
+Lucas Bonanni: y y no correr las las tus.
+
+483
+01:26:13.310 --> 01:26:26.320
+Lucas Bonanni: Y, por otro lado, para separar los datos, sí tener una aplicación donde de datos es Facebook y la aplicaciones no tenga Estados. Sí, esos states.
+
+484
+01:26:31.290 --> 01:26:41.190
+Lucas Bonanni: después, un concepto más que viene relacionado con Docker y con el gestión de las imágenes es el
+
+485
+01:26:41.850 --> 01:26:45.410
+Lucas Bonanni: es la idea de Golden. In Si
+
+486
+01:26:45.900 --> 01:26:52.500
+Lucas Bonanni: un Golden Emes, básicamente una imagen dorada sería es lo que
+
+487
+01:26:52.850 --> 01:26:58.199
+Lucas Bonanni: una imagen base confiable, generalmente versionada e inmutable.
+
+488
+01:26:58.500 --> 01:27:05.920
+Lucas Bonanni: La idea es que dentro puede ser dentro de la misma empresa dentro de la organización
+
+489
+01:27:06.200 --> 01:27:10.769
+Lucas Bonanni: se crean estas imágenes para
+
+490
+01:27:11.440 --> 01:27:23.700
+Lucas Bonanni: básicamente con las herramientas que ya se necesitan usualmente dentro de la empresa. Ya se saben, hay herramientas que ya se suelen utilizar y que son comunes a todas las aplicaciones
+
+491
+01:27:23.840 --> 01:27:37.800
+Lucas Bonanni: y especialmente también, por ejemplo, si se está utilizando el mismo framework de desarrollo, o todos utilizan node ese tipo de cosas. Sí,
+
+492
+01:27:38.370 --> 01:27:48.709
+Lucas Bonanni: La idea es que permite reducir las diferencias entre y estab y estandarizar un poquito más, lo que se está
+
+493
+01:27:48.990 --> 01:28:06.590
+Lucas Bonanni: utilizando dentro de las aplicaciones. Mejorar la seguridad y la consistencia dentro de todos los stacks sí facilita el uso de, o sea, hacer el roll back, porque básicamente.
+
+494
+01:28:07.180 --> 01:28:13.959
+Lucas Bonanni: nosotros, como veníamos hablando con Hill, Nosotros podíamos hacer este
+
+495
+01:28:14.070 --> 01:28:25.580
+Lucas Bonanni: cada cada y cada versión nueva. Lo que podemos hacer es una imagen nueva. Entonces, con una serie de cambios de nuestro código.
+
+496
+01:28:25.580 --> 01:28:35.080
+Lucas Bonanni: sí que que están en un snapshot, o están en esa imagen, entonces nosotros lo único que hacemos es cambiar. Digamos, la imagen
+
+497
+01:28:35.390 --> 01:28:46.939
+Lucas Bonanni: que queremos de desployar, sí en producción con el ambiente que sea, entonces nos permite gestionar mucho más fácil si esto anteriormente, para
+
+498
+01:28:47.070 --> 01:28:51.520
+Lucas Bonanni: para los que no saben, cuando se usaban las máquinas virtuales.
+
+499
+01:28:52.790 --> 01:28:59.140
+Lucas Bonanni: Has antes de de hit y los contenedores, muchas veces el código
+
+500
+01:28:59.380 --> 01:29:07.170
+Lucas Bonanni: se desempaquetaba en un directorio. Sí que podía ser en el caso de Windows, El
+
+501
+01:29:07.530 --> 01:29:12.490
+Lucas Bonanni: El Bueno, el directorio. ¿cómo se llamaba el servicio? De
+
+502
+01:29:13.490 --> 01:29:29.909
+Lucas Bonanni: No me acuerdo ahora, pero bueno, básicamente es un un directorio particular, sí del servicio que publica las aplicaciones. Entonces, en ese caso, se muchas veces se hacía manual, después se empezó a automatizar un poco.
+
+503
+01:29:30.320 --> 01:29:35.670
+Lucas Bonanni: pero muchas veces también había fallos, o, bueno, o
+
+504
+01:29:35.860 --> 01:29:39.199
+Lucas Bonanni: tampoco había una gestión de la configuración, como
+
+505
+01:29:39.470 --> 01:29:56.400
+Lucas Bonanni: como es actualmente, entonces a veces eso también. Entonces 1 tenía que eso al Directorio del I A Yes. Ahí es donde a veces, si 1 tenía, por ejemplo, una aplicación en punto, Net 1 tenía que empaquetarla
+
+506
+01:29:57.040 --> 01:30:00.960
+Lucas Bonanni: y con suerte, empaquetarla, porque a veces
+
+507
+01:30:01.720 --> 01:30:15.190
+Lucas Bonanni: 1 hacía el Bild, y de alguna manera de forma local. Ni a veces ni siquiera había un proceso de repositorio, y había la gente que administraba las máquinas virtuales subía tu aplicación
+
+508
+01:30:15.420 --> 01:30:19.110
+Lucas Bonanni: o esos cambios a esa carpeta.
+
+509
+01:30:20.020 --> 01:30:34.620
+Lucas Bonanni: Entonces la verdad, que era un proceso que era complicado, porque si 1 se tenía algún cambio en particular, o se había hecho algún cambio en la configuración que estaban todos por separados. Sí,
+
+510
+01:30:34.710 --> 01:30:46.879
+Lucas Bonanni: podía llegar a haber problemas podría llegar a generar errores. Entonces, bueno, había realmente mucha fricción en el proceso de pasar a producción en ese tipo de casos. Sí.
+
+511
+01:30:47.370 --> 01:30:56.969
+Lucas Bonanni: Con Con esto de lo de las imágenes de Dockers fue mucho más sencillo, porque la idea es justamente tratar de aislar también
+
+512
+01:30:57.640 --> 01:31:14.070
+Lucas Bonanni: el ambiente de desarrollo. El desamie también el ambiente de producción, entonces ya viene todo empaquetado, entonces eso ya va empaquetado con el sistema operativo con lo que necesita la aplicación para correr, y lo único que hace es correr la imagen
+
+513
+01:31:14.430 --> 01:31:21.279
+Lucas Bonanni: y ya está, no es: No hay que gestionar puertos, porque ese era otro problema que muchas veces.
+
+514
+01:31:21.560 --> 01:31:36.329
+Lucas Bonanni: si por alguna razón, en tu máquina, no tenías ese puerto disponible por ahí lo tenías que cambiar, porque estabas ejecutando en la aplicación. En ese momento todavía las aplicaciones. El puerto no era tan
+
+515
+01:31:36.380 --> 01:31:47.330
+Lucas Bonanni: cuando 1 corría una aplicación. No estaba tan expuesto para para cambiarlo. Era más difícil. Tú tenías que meter buscar en algún archivo y y cambiarlo.
+
+516
+01:31:47.890 --> 01:31:50.720
+Lucas Bonanni: Y entonces
+
+517
+01:31:50.970 --> 01:31:58.320
+Lucas Bonanni: era medio complicado. Y si vos 1 quería hacer algo más rápido y tener diferentes aplicaciones corriendo para ir desarrollando
+
+518
+01:31:58.500 --> 01:32:10.700
+Lucas Bonanni: al no el mismo momento. Pero Bueno, ir cambiando más rápidamente. Después, por ahí, 1 no se daba cuenta, dejaba con ese puerto y después, cuando pasaba ese mismo paquete.
+
+519
+01:32:11.680 --> 01:32:29.480
+Lucas Bonanni: había cambiado el puerto y y hacía que no, no funcionara la aplicación. Y bueno, nada que la idea es evitar todo ese tipo de configuraciones y que con dockers 1 pueda, digamos, administrar de una manera más sencilla y ya esté todo empaquetado dentro de la imagen.
+
+520
+01:32:31.020 --> 01:32:34.339
+Lucas Bonanni: Entonces, es esto básicamente. Y lo que
+
+521
+01:32:34.530 --> 01:32:38.780
+Lucas Bonanni: permite tener esta la imagen dorada. La Golden Image es
+
+522
+01:32:39.690 --> 01:32:52.430
+Lucas Bonanni: tener todavía un paso más allá y tener exactamente todo lo que necesitas, generalmente compartido a través de la organización o o de la empresa.
+
+523
+01:32:55.980 --> 01:32:57.939
+Lucas Bonanni: Hasta acá se entendió esto.
+
+524
+01:33:01.520 --> 01:33:02.060
+FRANCISCO DAURAT: Sí, claro.
+
+525
+01:33:02.390 --> 01:33:06.769
+JUAN GUZZARDI: No sé, es como medio un macho o un template seguro. No.
+
+526
+01:33:06.770 --> 01:33:12.729
+Lucas Bonanni: Claro un tem, como un template seguro. Exactamente cuando vos ya tenés
+
+527
+01:33:12.930 --> 01:33:19.589
+Lucas Bonanni: todo lo que necesitas para la aplicación. Y y, además de estandarizado también muchas cosas de seguridad, no.
+
+528
+01:33:24.420 --> 01:33:25.480
+JUAN GUZZARDI: Claro, claro.
+
+529
+01:33:32.030 --> 01:33:41.129
+Lucas Bonanni: Bueno, básicamente es esto. La Golden Nimes es la que después se aplica a los diferentes ambientes, y y básicamente es la la imagen base.
+
+530
+01:33:43.110 --> 01:33:47.219
+Lucas Bonanni: Básicamente, esto es
+
+531
+01:33:47.750 --> 01:34:00.419
+Lucas Bonanni: más mínima mínima mínima para asimilar lo que habíamos visto antes. No tiene mucho sentido. Y acá usted me si esto sí es importante porque acá vemos las diferencias entre
+
+532
+01:34:00.450 --> 01:34:08.220
+Lucas Bonanni: contenedor de docker y las máquinas virtuales, ¿no? Donde una
+
+533
+01:34:08.860 --> 01:34:24.939
+Lucas Bonanni: un contenedor? Bueno, la la emulación de la distancia, la máquina virtual es toda la máquina física. Así emula toda una máquina física. Esto se abstrae de los detalles del sistema operativo
+
+534
+01:34:25.120 --> 01:34:30.709
+Lucas Bonanni: del código si abstrae 1 del otro y, por este lado.
+
+535
+01:34:31.090 --> 01:34:33.370
+Lucas Bonanni: se abstrae de los detalles del Faro.
+
+536
+01:34:34.180 --> 01:34:37.949
+Lucas Bonanni: Este, digamos, es un un nivel más arriba, ¿no?
+
+537
+01:34:39.620 --> 01:34:41.260
+Lucas Bonanni: Y
+
+538
+01:34:41.770 --> 01:34:56.780
+Lucas Bonanni: bueno, mejora la administración de del entorno con eso que que decíamos, No, el El entorno está de desarrollo. Está empaquetado en esa imagen y en este caso se abstrae del hardware, sí para para aumentar su utilización
+
+539
+01:34:56.890 --> 01:35:04.309
+Lucas Bonanni: tienen básicamente tienen 2 concepciones diferentes: las máquinas virtuales. Lo que intentaban hacer era
+
+540
+01:35:05.070 --> 01:35:12.019
+Lucas Bonanni: que en en el momento donde los servidores, muchos de los servidores corrían a un premis en en las empresas
+
+541
+01:35:13.310 --> 01:35:23.160
+Lucas Bonanni: era llegó un punto en que 1 podía tener un servidor suficientemente grande y no estar aprovechándolo.
+
+542
+01:35:23.800 --> 01:35:32.679
+Lucas Bonanni: Entonces dijeron, bueno, pero no voy a tener muchos servidores. Eso genera mucho consumo, mucha electricidad.
+
+543
+01:35:32.920 --> 01:35:39.209
+Lucas Bonanni: Además, trae un problema que tenés que tener el hardware y los hardware de de los servidores
+
+544
+01:35:40.170 --> 01:35:56.820
+Lucas Bonanni: requerían discos especiales con con hot swap, para poder cambiarlos con las fuentes con hot swap, digamos, para poderlos cambiarlos mientras que están encendidos. Y por eso llaman Hot Shop, porque se pueden cambiar, mientras que los servidores están encendidos.
+
+545
+01:35:57.030 --> 01:36:02.650
+Lucas Bonanni: Entonces no era como tener un un hardware cualquiera
+
+546
+01:36:03.900 --> 01:36:16.879
+Lucas Bonanni: y además, siempre estabas propenso a que era más difícil, tenías que tener. Además de eso, backups, tienes que tener bueno un montón de cosas.
+
+547
+01:36:18.910 --> 01:36:28.360
+Lucas Bonanni: En cambio, teniendo, bueno, ni hablar de que necesitabas tener aplicaciones des
+
+548
+01:36:28.750 --> 01:36:44.680
+Lucas Bonanni: que, por ejemplo, tenías que tener aplicaciones que utilic que corran sobre Windows o aplicaciones que corran sobre Linux, ya tienes que tener otro sistema, otro otro servidor. Si necesitas una con Windows y 1 con Linux, o si necesitas
+
+549
+01:36:45.090 --> 01:36:53.690
+Lucas Bonanni: 2 aplicaciones con Windows, pero necesitaban instalar algo que por ahí.
+
+550
+01:36:54.030 --> 01:36:55.220
+Lucas Bonanni: El
+
+551
+01:36:55.620 --> 01:37:13.249
+Lucas Bonanni: qué sé yo, un parche de actualización cuando estaban los parches de actualizaciones en ese momento, entonces y por ahí la otra aplicación, no porque era Legacy y y y no necesitaba el sistema tan actualizado. Entonces.
+
+552
+01:37:14.510 --> 01:37:30.050
+Lucas Bonanni: bueno, por esas diferentes tipos de razones tenías. Era más conveniente, en vez de tener un servidor separado, aprovechar todo el hardware y tener máquinas virtuales. Y ya era más fácil el backup, porque de alguna manera el backup
+
+553
+01:37:30.100 --> 01:37:42.979
+Lucas Bonanni: se hace de la máquina virtual. Un s. De ahí salió también el tema del snapshot. Sí, de las máquinas virtuales, y 1 hacía un snapshot de la máquina virtual, y de alguna manera sea backup de toda la máquina virtual.
+
+554
+01:37:44.050 --> 01:37:53.679
+Lucas Bonanni: Entonces, después, cualquier cambio de configuración o cualquier problema con el sistema operativo se podía recuperar mucho más rápido, inclusive
+
+555
+01:37:53.680 --> 01:38:04.970
+Lucas Bonanni: que un servidor, un servidor si fallaba. El sistema operativo había que reinstalarlo. No había posibilidad de en el servidor mismo tener Snapshot. Hasta cierto momento, no
+
+556
+01:38:05.220 --> 01:38:09.860
+Lucas Bonanni: Después salieron otras herramientas también.
+
+557
+01:38:10.670 --> 01:38:20.750
+Lucas Bonanni: Pero bueno, entonces la idea de Docker fue es un paso más allá de esta evolución de las máquinas virtuales a hacer algo mucho más performancente.
+
+558
+01:38:21.690 --> 01:38:29.750
+Lucas Bonanni: Entonces ya deja de compartir recursos directamente con con el hardware, sino empezar a
+
+559
+01:38:29.980 --> 01:38:39.200
+Lucas Bonanni: a a a compartir recursos con el sistema operativo. Sí, entonces consumen muchos menos recursos, ¿Sí?
+
+560
+01:38:39.370 --> 01:38:50.830
+Lucas Bonanni: Y bueno, como decíamos, comparte el carnet del host. Bueno, está utilizando los Namespace y los 6 Groups para, para, digamos, hacer ese entorno aislado.
+
+561
+01:38:55.430 --> 01:39:06.380
+Lucas Bonanni: Bueno, acá son el algunas de las ventajas, sí sobre de dockers, sobre las virtua, las máquinas virtuales. Básicamente, es la rapidez, sí de
+
+562
+01:39:06.570 --> 01:39:16.069
+Lucas Bonanni: en la que 1 puede inicializar una imagen de docker el la cantidad de el el poco uso de memoria Ram.
+
+563
+01:39:19.350 --> 01:39:24.970
+Lucas Bonanni: Cuántos, digamos, máquinas? Uno puede tener varias el docker
+
+564
+01:39:25.100 --> 01:39:34.930
+Lucas Bonanni: o contenedores corriendo en una misma máquina, porque al tener menos uso de Ram, menos uso de recursos, 1 puede tener más
+
+565
+01:39:34.930 --> 01:39:47.710
+Lucas Bonanni: de 1 corriendo. Y es mucho más fácil la portabilidad. Si una Imme, una misma imagen puede trabajar de la misma manera, siempre y cuando esté bien construida, deberían
+
+566
+01:39:48.850 --> 01:39:51.540
+Lucas Bonanni: trabajar de la misma manera en cualquier lado
+
+567
+01:39:52.020 --> 01:40:03.789
+Lucas Bonanni: que se ejecuten. Sí, un C Asi mucho más ágil, porque, bueno, te permite automatizar ahora todo esto que con las máquinas virtuales no se podía, no podías
+
+568
+01:40:04.100 --> 01:40:12.420
+Lucas Bonanni: hasta algún punto hacer un crear una máquina virtual como hasta que no salió, digamos.
+
+569
+01:40:12.420 --> 01:40:25.040
+Lucas Bonanni: Bmwwear, con con sus sistemas de de virtualización que bueno ahora tenemos actualmente. Está Promox, que por ahí lo habrán escuchado donde nos permite si hacer esto, no levantar
+
+570
+01:40:25.120 --> 01:40:43.589
+Lucas Bonanni: ahí. Sí, máquinas virtuales completas. Y Pero bueno, acá. Lo que nos permite con los dockers es hacer básicamente un un proceso de C, A, C, C, D, Mucho más fácil. Sí, entonces podemos construirlas, testearlas y básicamente distribuirlas.
+
+571
+01:40:44.920 --> 01:40:48.410
+Lucas Bonanni: Y además, que al ser eso
+
+572
+01:40:48.910 --> 01:40:58.560
+Lucas Bonanni: más compacta, sí, porque no necesitan una máquina virtual, no necesita emular el hardware Es más, es más chica en tema de tamaño, y es más fácil distribuir.
+
+573
+01:40:59.240 --> 01:41:05.990
+Lucas Bonanni: Y también nos permite esto. La escalabilidad horizontal, que es súper importante porque podemos
+
+574
+01:41:06.120 --> 01:41:13.170
+Lucas Bonanni: tener múltiples instancias de la misma aplicación para cuando.
+
+575
+01:41:15.360 --> 01:41:19.280
+Lucas Bonanni: por ejemplo, tenemos una alta demanda de nuestra aplicación.
+
+576
+01:41:19.830 --> 01:41:23.160
+Lucas Bonanni: Sí que eso es lo que después vamos a ver con Google Net: eso.
+
+577
+01:41:25.160 --> 01:41:42.319
+Lucas Bonanni: bueno, y la desventaja es que todos comparten el mismo carnel, col por lo cual no están completamente aislados de alguna manera. No, Si hay alguna vulnerabilidad en el canal, todos comparten ese mismo carnel, así que son todos igualmente vulnerables.
+
+578
+01:41:45.280 --> 01:42:00.570
+Lucas Bonanni: Bueno, esta es la definición canónica de un contenedor, Sí, básicamente, que es un proceso ejecutándose de forma aislada a través de namespace y límites de recursos. Sí,
+
+579
+01:42:00.720 --> 01:42:10.170
+Lucas Bonanni: corre la aplicación renta más. Las dependencias sí como en un entorno reproducible.
+
+580
+01:42:12.050 --> 01:42:15.670
+Lucas Bonanni: Y bueno, la idea es que arranque milisegundos
+
+581
+01:42:16.400 --> 01:42:23.900
+Lucas Bonanni: y puede ser promovido sin cambios entre diferentes ambientes, sí de desarrollo, stacin y producción.
+
+582
+01:42:30.630 --> 01:42:39.130
+Lucas Bonanni: Bueno, Bueno, las funcionalidades principales, esta no tener poder tener contenedores que sean ligeros y aislados, Sí,
+
+583
+01:42:39.300 --> 01:42:47.339
+Lucas Bonanni: la portabilidad, como también vimos hasta al ser contenedores ligeros y aislados, son más fáciles de
+
+584
+01:42:47.510 --> 01:43:04.730
+Lucas Bonanni: portar o o o llevar a diferentes máquinas, sí y poder ejecutarlos. Mayor eficiencia en los recursos. Si poder escalar horizontalmente y poder tener replicar la misma aplicación varias veces, de manera.
+
+585
+01:43:05.610 --> 01:43:12.019
+Lucas Bonanni: digamos que siempre sea la misma aplicación y y y el mismo código ¿no?
+
+586
+01:43:13.650 --> 01:43:16.640
+Lucas Bonanni: Y después, cómo.
+
+587
+01:43:17.620 --> 01:43:19.130
+JUAN GUZZARDI: Sí réplicas.
+
+588
+01:43:19.480 --> 01:43:27.129
+Lucas Bonanni: Sí réplicas. Lo que quería decir era tipo de forma inmutable, no que son las mismas instancias inmutables de la misma aplicación
+
+589
+01:43:29.490 --> 01:43:35.890
+Lucas Bonanni: y gestionar estas imágenes y distribuirlas, no crearlas, versionarlas y distribuirlas.
+
+590
+01:43:39.410 --> 01:43:52.100
+Lucas Bonanni: Bueno, los casos de uso. Bueno, es básicamente el despliegue de de las aplicaciones también para crear entornos de desarrollo y no tener que
+
+591
+01:43:52.680 --> 01:44:01.839
+Lucas Bonanni: crear instalarse todas las tunings en tu máquina, ¿no? Entonces no estás por ahí. Muchas. Lo más común es que
+
+592
+01:44:02.840 --> 01:44:12.870
+Lucas Bonanni: 1 a veces tenía que tener instalado antes de que existieran los contenedores. Uno tenía que instalarse
+
+593
+01:44:13.430 --> 01:44:33.069
+Lucas Bonanni: alguna base de motor de base de datos o ejecutar Php My admin y tener Mys Q L corriendo y levantar el proceso. Eso era algo más o menos parecido, pero siempre tenías que tenerlo y correr tu aplicación y que, con suerte.
+
+594
+01:44:33.400 --> 01:44:39.510
+Lucas Bonanni: tener la misma base de datos, si es que después se generaba con un R. M
+
+595
+01:44:39.780 --> 01:44:54.770
+Lucas Bonanni: y podía generar la la misma estructura de base de datos de forma automática o la tenías que asegurarte de siempre tener la mismo actualizado. Y bueno, la verdad, que era difícil mantener un entorno de desarrollo
+
+596
+01:44:54.940 --> 01:44:56.910
+Lucas Bonanni: antes de los contenedores.
+
+597
+01:44:58.020 --> 01:45:03.110
+Lucas Bonanni: En cambio, ahora 1 puede tener un contenedor o definir un
+
+598
+01:45:03.770 --> 01:45:18.510
+Lucas Bonanni: docker con post y tener todos los servicios, ahí las herramientas, entonces no sé tener node instalado ahí, ejecutarlo y utilizarlo a través de de Docker y no tener que tener las cosas en tu máquina, no
+
+599
+01:45:21.060 --> 01:45:26.019
+Lucas Bonanni: después. Bueno, también para hacer las pruebas de quad, entonces no sé,
+
+600
+01:45:26.170 --> 01:45:43.099
+Lucas Bonanni: Básicamente tienes un entorno controlado para hacer las pruebas, a ver qué versión estás probando, porque la imagen está versionada. El código está versionado. Entonces se hace exactamente qué qué es lo que se está probando. Se pueden hacer entornos
+
+601
+01:45:43.100 --> 01:45:51.450
+Lucas Bonanni: y preparar entornos para pruebas de cuevas específicas. Y bueno, esto nos asegura una mayor calidad dentro del proceso.
+
+602
+01:45:55.010 --> 01:46:15.420
+Lucas Bonanni: Bueno, otros usos muy comunes. Bueno, para hacer deployar microservicios. Y ya que los microservicios la idea es que son aplicaciones modulares que se ejecutan independientemente cada módulo y por si se cae cada módulo, otras partes de la aplicación puede seguir funcionando.
+
+603
+01:46:15.420 --> 01:46:21.510
+Lucas Bonanni: Sí, entonces cada servicio o cada microservicio ejecuta su propio contenedor de forma independiente.
+
+604
+01:46:21.570 --> 01:46:29.159
+Lucas Bonanni: Y también esto nos permite, de alguna manera ahorrar recursos, porque al aplicar
+
+605
+01:46:29.480 --> 01:46:38.730
+Lucas Bonanni: cada módulo, puede llegar a tener su propia escalabilidad. Entonces no todo el por ahí, todos los módulos necesitan escalar de la misma manera.
+
+606
+01:46:38.940 --> 01:46:42.870
+Lucas Bonanni: entonces es es mucho más sencillo, aparte. Es mucho más rápido.
+
+607
+01:46:43.030 --> 01:46:51.939
+Lucas Bonanni: porque al ser módulos y no ser una aplicación monolítica, si tenés que reiniciarlo
+
+608
+01:46:52.140 --> 01:46:58.180
+Lucas Bonanni: es más fácil que reinicie un solo módulo pequeño que toda una aplicación completa no
+
+609
+01:46:59.710 --> 01:47:07.970
+Lucas Bonanni: o hacer el Deployd no y que esperar que eso inicie bien.
+
+610
+01:47:08.010 --> 01:47:27.139
+Lucas Bonanni: Y bueno, esto las cosas que ha facilitado no que son un poco el resumen de lo que venimos hablando, que también ha facilitado la opción de infraestructura como código, Porque, bueno, es un paso más dentro de, digamos, de la automatización y el control del entorno.
+
+611
+01:47:28.160 --> 01:47:45.300
+Lucas Bonanni: Entonces, bueno, ha mejorado la agilidad en en el desarrollo y en el despliegue de las de las aplicaciones por por todos estos temas, no por el tema de de del ambiente, de desarrollo de poder con tener empaquetada la aplicación.
+
+612
+01:47:46.780 --> 01:47:58.279
+Lucas Bonanni: Bueno, también. Obviamente, esto es lo que impulsó todavía más las arquitecturas de microservicios. Al facilitar mucho más
+
+613
+01:47:58.350 --> 01:48:11.039
+Lucas Bonanni: poder hacer este tipo de de plo el Deployd de aplicaciones conte en contenedores, Lo que permitió es que sea mucho más fácil desarrollar microservicios no
+
+614
+01:48:11.220 --> 01:48:13.100
+Lucas Bonanni: en
+
+615
+01:48:15.260 --> 01:48:22.179
+Lucas Bonanni: Y bueno. Y la verdad es que se sí. Esto se ha convertido en una herramienta fundamental para para el desarrollo de las aplicaciones.
+
+616
+01:48:24.860 --> 01:48:34.139
+Lucas Bonanni: Bueno, esto es básicamente cómo se conectan los 3 temas si básicamente 1 tiene un desarrollo
+
+617
+01:48:34.400 --> 01:48:44.710
+Lucas Bonanni: en un cambio local. Básicamente, 1 publica, hacemos esto en la parte del versionado. O hacemos nuestros cambios? Hacemos el Hi D, a D, el Hit comité,
+
+618
+01:48:45.170 --> 01:48:48.810
+Lucas Bonanni: publicamos nuestra rama. Creamos nuestro pur request
+
+619
+01:48:49.290 --> 01:48:57.989
+Lucas Bonanni: y a partir de hacer nuestro purr Request. Una vez que merceamos, se construye la imagen de Docker de la aplicación en ese nuevo release.
+
+620
+01:48:58.770 --> 01:49:03.579
+Lucas Bonanni: Y una vez que tenemos ese nuevo release que puede ser un release.
+
+621
+01:49:04.050 --> 01:49:11.130
+Lucas Bonanni: No necesariamente tiene que ser el último release, porque pueden haber varios relixes que
+
+622
+01:49:12.220 --> 01:49:27.289
+Lucas Bonanni: esto. Por ahí lo vamos a ver más La la clase siguiente, que es la de C, C, D, donde podemos tener diferentes relixes y versiones. Podemos tener una versión que sea de puramente desarrollo.
+
+623
+01:49:27.920 --> 01:49:36.510
+Lucas Bonanni: Y bueno, que eso se despliegue en el entorno de desarrollo y no necesariamente esa versión pueda ir a producción.
+
+624
+01:49:41.060 --> 01:49:55.179
+Lucas Bonanni: Bueno, este es el flujo de del diagrama de los pasos que veíamos. No de hacemos un cambio del código. Hacemos un cómic. Después pulsamos esos cambios dentro del Brunch de nuestra funcionalidad.
+
+625
+01:49:55.980 --> 01:49:57.810
+Lucas Bonanni: Creamos el Pur Request
+
+626
+01:50:06.690 --> 01:50:18.309
+Lucas Bonanni: y después hacemos el Mers t main. Hacemos el build y el depload. Eso es lo que también vamos a hacer después con la parte de trabajo práctico
+
+627
+01:50:20.730 --> 01:50:30.700
+Lucas Bonanni: a Ver Manuel dice en un proyecto de levantado en Docker, 1, el local trabaja con la imagen desplegada en forma local.
+
+628
+01:50:31.170 --> 01:50:39.740
+Lucas Bonanni: Bueno, desplegar no salía por ahí la palabra desplegada. Pero vos usas el contenedor corriendo de forma local.
+
+629
+01:50:40.530 --> 01:50:46.970
+Lucas Bonanni: y puedes correr, digamos, sin la aplicación de forma local, Sí, sí,
+
+630
+01:50:47.790 --> 01:50:52.780
+Lucas Bonanni: en vez de hacer un N, P, M, R, A, N, O
+
+631
+01:50:52.920 --> 01:51:01.910
+Lucas Bonanni: o o un server, o lo que sea. Haces un docker con pause up y lo tenés corriendo.
+
+632
+01:51:09.420 --> 01:51:15.899
+Lucas Bonanni: Bueno, y ahí ya más o menos, esto era lo de lo lo que teníamos que ver los conceptos hoy.
+
+633
+01:51:16.050 --> 01:51:27.890
+Lucas Bonanni: ¿en qué quieren los que puedo mostrarles es la parte de Hi. Y al algunos comandos básicos.
+
+634
+01:51:30.860 --> 01:51:33.029
+Lucas Bonanni: Déjenme que cambie acá.
+
+635
+01:51:37.510 --> 01:51:39.770
+Lucas Bonanni: Lo que les voy a mostrar.
+
+636
+01:51:42.040 --> 01:51:43.110
+Lucas Bonanni: Mhm.
+
+637
+01:51:48.360 --> 01:51:49.650
+Lucas Bonanni: por ejemplo, es todo.
+
+638
+01:51:51.280 --> 01:51:54.519
+Lucas Bonanni: Mhm: Me voy a mostrar el
+
+639
+01:51:54.850 --> 01:52:05.000
+Lucas Bonanni: le voy a mostrar un ejemplo de esto de convencional. Comments y cometional cómics. Así que Mhm.
+
+640
+01:53:55.610 --> 01:54:02.969
+Lucas Bonanni: Bueno, acá. A ver, tengo una monstruos, Vamos a analizarlo.
+
+641
+01:54:53.830 --> 01:54:56.009
+Lucas Bonanni: Ahí ven otra vez mi pantalla ¿no?
+
+642
+01:54:58.570 --> 01:54:59.110
+JUAN GUZZARDI: De los.
+
+643
+01:54:59.110 --> 01:55:00.680
+FACUNDO EMANUEL MODARELLI: Sí, Sí, Ahí se ve.
+
+644
+01:55:01.010 --> 01:55:06.380
+Lucas Bonanni: Bien, perfecto. Bueno, este fue un puro Request que hice yo.
+
+645
+01:55:07.710 --> 01:55:17.950
+Lucas Bonanni: Y a ver si ahora tiene, bueno, no estaba haciendo. Acá estaba haciendo el tema de la traducción justamente de la página t de conmissional comics.
+
+646
+01:55:18.830 --> 01:55:26.690
+Lucas Bonanni: Y a ver si vemos acá lo que pasa es que creo que todos están cerrados. Quedan.
+
+647
+01:55:30.540 --> 01:55:32.510
+Lucas Bonanni: pues, bueno, acá. Está Ves
+
+648
+01:55:33.000 --> 01:55:44.010
+Lucas Bonanni: Question y me hace una pregunta. Básicamente entonces a mí me da más insight de de esto de
+
+649
+01:55:44.900 --> 01:55:54.400
+Lucas Bonanni: que es una pregunta. ¿no? Ahí ves un poco obvio. En ese caso, tal vez No, no es muy útil, pero a ver, creo que hay alguno más. Algún Meet pick a ver
+
+650
+01:55:55.190 --> 01:55:57.300
+Lucas Bonanni: question question.
+
+651
+01:55:58.190 --> 01:56:05.530
+Lucas Bonanni: Acá Bueno, una su vez ves. Esto es interesante porque esto es una sugerencia, pero no es bloqueante. O sea que
+
+652
+01:56:05.610 --> 01:56:19.220
+Lucas Bonanni: yo si fuera esto un código de producción. Podéis una sugerencia, no necesariamente tengo que hacer la mejora. Podría no hacerla. O decir, bueno, la hago en otro momento.
+
+653
+01:56:20.000 --> 01:56:38.339
+Lucas Bonanni: y un poquito es eso para ayudar a a decidir, bueno, cuáles las decisiones también podría venir alguien acá? Y decir: no, Esto me parece que otro compañero, no nuestro que esté trabajando con nosotros. Y decir no, esto me parece que sí, es bloqueante, ¿no? Y de esa manera
+
+654
+01:56:41.450 --> 01:56:51.460
+Lucas Bonanni: Sí, acá. Bueno, otra otra sugerencia, y nos permite eso. Y después, si quieren ver en realidad también podemos ver
+
+655
+01:56:54.070 --> 01:56:55.000
+Lucas Bonanni: hola.
+
+656
+01:56:55.000 --> 01:56:55.610
+FACUNDO EMANUEL MODARELLI: Y el.
+
+657
+01:56:58.120 --> 01:56:59.360
+Lucas Bonanni: Alguien me iba a decir algo.
+
+658
+01:57:07.170 --> 01:57:13.290
+Lucas Bonanni: acá podemos ver lo de los convencional comics, Uno de los comments.
+
+659
+01:57:13.870 --> 01:57:17.729
+Lucas Bonanni: como para ver como ellos lo lo están utilizando
+
+660
+01:57:26.480 --> 01:57:27.880
+Lucas Bonanni: son container nada.
+
+661
+01:57:38.830 --> 01:57:39.940
+Lucas Bonanni: En ese caso.
+
+662
+01:57:41.320 --> 01:57:44.630
+Lucas Bonanni: Sí, me parece picnic.
+
+663
+01:57:48.220 --> 01:57:53.299
+Lucas Bonanni: Acá está Acá está lo de los convencional. Comics. Entonces acá
+
+664
+01:57:53.780 --> 01:58:02.810
+Lucas Bonanni: ellos tienen la parte de rifactor, modificación de docu de documentación. Modificaron el el B I D,
+
+665
+01:58:02.940 --> 01:58:08.250
+Lucas Bonanni: Bueno, acá ven, por ejemplo, tienen la acción que hicieron un fix
+
+666
+01:58:08.510 --> 01:58:18.769
+Lucas Bonanni: que el contexto de no era el el scope, sí de lo que modificaron en este caso, el compiler acá. La parte de Core.
+
+667
+01:58:19.600 --> 01:58:25.960
+Lucas Bonanni: Bueno, sirve un poquito para eso. Sí, para tener más o menos ¿
+
+668
+01:58:26.540 --> 01:58:29.499
+Lucas Bonanni: Ordenado, toda el historial.
+
+669
+01:58:30.310 --> 01:58:38.280
+Lucas Bonanni: Acá Este, si quieren, es muy buen repositorio para Me App. Está bastante bien organizado, inclusive con los pur Request
+
+670
+01:58:40.430 --> 01:58:45.410
+Lucas Bonanni: es donde ellos lo utilizan. Y después acá lo que yo estuve mirando
+
+671
+01:58:45.750 --> 01:58:52.530
+Lucas Bonanni: un poquito es que en realidad después comprimen todo en un cómic.
+
+672
+01:58:52.850 --> 01:58:58.340
+Lucas Bonanni: Uno si puede mirar esto para ver cómo quiero entender el flujo de cómo
+
+673
+01:58:58.610 --> 01:59:06.229
+Lucas Bonanni: cómo organizar esto acá, en la parte de contribution a ver tu tu tu.
+
+674
+01:59:09.220 --> 01:59:14.200
+Lucas Bonanni: Esto quedará que lo había visto y dice, bueno, fui yo
+
+675
+01:59:14.720 --> 01:59:20.439
+Lucas Bonanni: submission online por acá y dices bueno, ¿cómo tienes que hacer el perro.
+
+676
+01:59:25.990 --> 01:59:28.000
+Lucas Bonanni: Y después.
+
+677
+01:59:29.930 --> 01:59:40.529
+Lucas Bonanni: claro, esto es, creo que es lo que hace que hace. Creo, un zigzag, Sí, y comité. Lo que hace es que en realidad te quede un historial
+
+678
+01:59:40.820 --> 01:59:43.860
+Lucas Bonanni: para eso. Es un historial, en realidad más limpio.
+
+679
+01:59:44.110 --> 01:59:53.090
+Lucas Bonanni: porque van a ver que cada público es: no tiene más de 5 000. Entonces después, cuando mercé en tu publiquest
+
+680
+01:59:53.790 --> 02:00:03.469
+Lucas Bonanni: como el público es queda con el título en convencional Comics, vamos a los publico air.
+
+681
+02:00:05.890 --> 02:00:16.759
+Lucas Bonanni: Queda con este título, entonces la inversión y ya les queda con el convencional comic dentro de la rama Main o de la rama a la que lo vayan a marchear, ¿no?
+
+682
+02:00:19.880 --> 02:00:35.399
+Lucas Bonanni: Así que este es interesante. Después se los paso por Slack, para que también lo puedan chusmear y ver cómo se usa. Y después, bueno, lo que les permite esto, Si 1 va, si 1 se esto se pone a investigar un poquito más. Y se entonces a chusmear un poquito más.
+
+683
+02:00:35.400 --> 02:00:42.010
+Lucas Bonanni: van a verlo dentro de acá donde están los actions, habla World Flows
+
+684
+02:00:43.370 --> 02:00:53.200
+Lucas Bonanni: Continuo se integration, y debería estar acá. La herramienta que lo que va a hacer es hacer el Bamp o cambiar la versión de manera automática.
+
+685
+02:00:53.730 --> 02:00:56.259
+Lucas Bonanni: a ver después de todo lo que corre.
+
+686
+02:01:06.500 --> 02:01:07.880
+Lucas Bonanni: no hay ningún banco.
+
+687
+02:01:19.930 --> 02:01:25.439
+Lucas Bonanni: Bueno, habría que ver cuál cosa. Yo lo busco después y lo preparo. Y Y y lo miramos bien, porque
+
+688
+02:01:25.940 --> 02:01:30.639
+Lucas Bonanni: es interesante ver cómo cómo aplicaron Conventional Comics.
+
+689
+02:01:32.230 --> 02:01:34.929
+Lucas Bonanni: Si ustedes también lo pueden ir acá
+
+690
+02:01:42.230 --> 02:01:50.600
+Lucas Bonanni: a a la página y por acá bueno, nos explica les dicen inclusive hasta que herramientas tienen para
+
+691
+02:01:52.100 --> 02:01:55.149
+Lucas Bonanni: para utilizar por alguna parte.
+
+692
+02:01:56.030 --> 02:02:02.290
+Lucas Bonanni: Y no solamente eso había about.
+
+693
+02:02:05.310 --> 02:02:08.360
+Lucas Bonanni: Claro, acá. Están en about, están todos. Los
+
+694
+02:02:08.980 --> 02:02:13.560
+Lucas Bonanni: Bueno, a veces el los el angular Commetic Airlines Sí,
+
+695
+02:02:14.050 --> 02:02:17.720
+Lucas Bonanni: de los 5 000 messages. Creo que fue por acá que lo vi
+
+696
+02:02:20.440 --> 02:02:26.150
+Lucas Bonanni: entonces el casting de cómo hacerlo, como ser reverte en el
+
+697
+02:02:26.580 --> 02:02:32.199
+Lucas Bonanni: acá están definidos. Los que yo le decía: los Scoops ya están predefinidos.
+
+698
+02:02:33.410 --> 02:02:42.999
+Lucas Bonanni: que son las coci los que van entre paréntesis, ¿no? Entonces ellos ya tienen cada 1 predefinidos. No tienes que andar pensando mucho que que pongo acá
+
+699
+02:02:43.360 --> 02:02:45.200
+Lucas Bonanni: ese tipo de cosas.
+
+700
+02:02:47.580 --> 02:02:55.159
+Lucas Bonanni: Bueno, acá te hablan un poquito más. Bueno, está bueno para para tenerlo en cuenta, siempre tenerlo como referencia. Y
+
+701
+02:02:55.310 --> 02:03:06.779
+Lucas Bonanni: Y bueno, de última, siempre, proponer mejoras. Acá Están todas las herramientas que nos permiten, para diferentes lenguajes. Maj manejar esto del convencional comics. Y hacer
+
+702
+02:03:06.880 --> 02:03:10.630
+Lucas Bonanni: esto de hacer el versionado mucho más simple.
+
+703
+02:03:18.610 --> 02:03:25.389
+Lucas Bonanni: Bien. Y después vamos a ver un poquito de la herramienta de zit.
+
+704
+02:04:24.690 --> 02:04:26.079
+Lucas Bonanni: Vamos a ver este.
+
+705
+02:04:49.400 --> 02:04:58.039
+Lucas Bonanni: Bien. Acá Básicamente tenemos un repositorio que ese en realidad es el que después
+
+706
+02:04:58.140 --> 02:05:02.030
+Lucas Bonanni: yo se los comparto. Está en el en el repositorio nuestro.
+
+707
+02:05:02.330 --> 02:05:11.919
+Lucas Bonanni: en el en el mío, perdón, pero compartida. La idea. Este es el el proyecto de de ejemplo para para la materia de del trabajo práctico.
+
+708
+02:05:12.220 --> 02:05:19.999
+Lucas Bonanni: Básicamente, bueno, este ya es un repositorio desarmado.
+
+709
+02:05:21.080 --> 02:05:24.850
+Lucas Bonanni: pero acá podemos ver dentro de la terminal
+
+710
+02:05:27.710 --> 02:05:30.360
+Lucas Bonanni: que que ya hay un historial.
+
+711
+02:05:35.650 --> 02:05:52.130
+Lucas Bonanni: ¿sí? Entonces, bueno, básicamente son todos los cambios que yo fui haciendo. Obviamente, acá no seguí ninguna convención, ni nada. Ni siquiera mejore los los mensajes de de los comets, porque básicamente es algo para para mí
+
+712
+02:05:52.540 --> 02:05:54.430
+Lucas Bonanni: y
+
+713
+02:05:55.910 --> 02:06:04.140
+Lucas Bonanni: o bueno, compartido. Pero no no me interesa hacer un un seguimiento completo de todo, cada 1 de los cambios o cada una de las mejoras.
+
+714
+02:06:04.330 --> 02:06:13.409
+Lucas Bonanni: pero sí lo que nos permite es tener diferentes ramas. Acá Bueno, esto es una interfaz donde nosotros podemos verlo.
+
+715
+02:06:13.740 --> 02:06:20.670
+Lucas Bonanni: Y a esto nosotros podríamos hacer lo mismo desde la interfaz con Hitlog.
+
+716
+02:06:22.690 --> 02:06:35.929
+Lucas Bonanni: Graph. Si no me acuerdo mal, entonces nos permite acá tener un pequeño gráfico, lo mismo, pero con aquí. Entonces nos va mostrando. Acá Nos va mostrando
+
+717
+02:06:36.340 --> 02:06:41.280
+Lucas Bonanni: como nos hicimos estos mismos saltos que hicimos acá
+
+718
+02:06:41.700 --> 02:06:45.609
+Lucas Bonanni: a ver si están exacta update main, claro es este.
+
+719
+02:06:45.920 --> 02:06:52.720
+FACUNDO SAFE: Perdón profe. ¿con qué comando hizo esto? Me Me parece.
+
+720
+02:06:53.660 --> 02:06:55.100
+Lucas Bonanni: Este Hit Long Graf.
+
+721
+02:06:55.370 --> 02:06:57.230
+FACUNDO SAFE: Graf no lo conocía.
+
+722
+02:06:58.490 --> 02:07:04.330
+Lucas Bonanni: Entonces te da. Sí, hay hay muchos. Si ustedes buscan por Internet, va a ver
+
+723
+02:07:04.760 --> 02:07:06.660
+Lucas Bonanni: para que estés compartiendo a ver
+
+724
+02:07:09.830 --> 02:07:11.860
+Lucas Bonanni: qué voy a compartir todos los escritores.
+
+725
+02:07:12.950 --> 02:07:14.120
+Lucas Bonanni: No tengo problema.
+
+726
+02:07:21.050 --> 02:07:25.800
+Lucas Bonanni: pues sin saber ahí está.
+
+727
+02:07:26.290 --> 02:07:32.909
+Lucas Bonanni: Si yo acá ay, no, Eso es
+
+728
+02:07:37.190 --> 02:07:43.809
+Lucas Bonanni: que cada 1 van y buscan hit One liner. Van a ver que van a ver diferentes cosas.
+
+729
+02:07:44.070 --> 02:07:49.560
+Lucas Bonanni: Y vamos a buscar decir no
+
+730
+02:07:51.820 --> 02:08:01.450
+Lucas Bonanni: con básicamente que son que tienen varias cosas para A A y
+
+731
+02:08:03.380 --> 02:08:10.189
+Lucas Bonanni: que nos permiten verlo, el historial de manera diferente, no agregándole mejores cositas y
+
+732
+02:08:10.730 --> 02:08:13.670
+Lucas Bonanni: y cosas por el estilo. Entonces 1 puede
+
+733
+02:08:13.930 --> 02:08:20.790
+Lucas Bonanni: después. Lo que 1 puede hacer también es poner alia alias, Sí, puedes definir alias
+
+734
+02:08:21.470 --> 02:08:26.280
+Lucas Bonanni: entro. Entonces, bueno, esto lo muestro así. No veo mucha diferencia.
+
+735
+02:08:26.420 --> 02:08:28.549
+Lucas Bonanni: más o menos lo mismo que tenía antes.
+
+736
+02:08:28.850 --> 02:08:35.189
+Lucas Bonanni: pero sí hay un montón de de Flags que 1 le puede pasar para hacer
+
+737
+02:08:36.870 --> 02:08:46.509
+Lucas Bonanni: lo que sea. ¿no? Entonces te puede. Uno puede personalizar Si 1 quiere ver el Comic, si quiere ver la diferencia como lo querés ver.
+
+738
+02:08:46.570 --> 02:08:57.550
+Lucas Bonanni: entonces la verdad que se puede personalizar un montón, los colores y todo ese tipo de cosas. Yo, por ejemplo, si yo hago un hit a le haces.
+
+739
+02:08:58.490 --> 02:09:00.980
+Lucas Bonanni: estos son los alias que yo tengo.
+
+740
+02:09:02.630 --> 02:09:06.690
+Lucas Bonanni: Entonces, puedes por ejemplo, acá tenemos un
+
+741
+02:09:07.500 --> 02:09:12.080
+Lucas Bonanni: H. I I T, 120 es solamente elegir.
+
+742
+02:09:13.010 --> 02:09:22.310
+Lucas Bonanni: No. L 20, No, si no tipo de hit y reinter
+
+743
+02:09:23.290 --> 02:09:25.520
+Lucas Bonanni: que 1 de los últimos 20 comics.
+
+744
+02:09:26.890 --> 02:09:33.650
+Lucas Bonanni: Y si hago un hit de
+
+745
+02:09:33.790 --> 02:09:41.690
+Lucas Bonanni: 50, entonces bueno, me colorea, me muestra acá personaliza. Me dice quién es el autor. Me dice el mensaje.
+
+746
+02:09:42.010 --> 02:09:48.830
+Lucas Bonanni: Si hago un 50, también me muestra el el grafito, pero vieron que es diferente. Me muestra
+
+747
+02:09:48.970 --> 02:09:52.550
+Lucas Bonanni: un gráfico más compacto
+
+748
+02:09:55.640 --> 02:09:58.819
+Lucas Bonanni: chaval, y haces de vuelta.
+
+749
+02:10:01.430 --> 02:10:09.380
+Lucas Bonanni: ¿me va a decir, bueno, no, este no Sí. Algo
+
+750
+02:10:11.680 --> 02:10:20.290
+Lucas Bonanni: entonces ahí puedo tener diferentes áreas para hacerlo un poquito más rápido, así como los alias de de Buah. Sí,
+
+751
+02:10:22.440 --> 02:10:30.619
+Lucas Bonanni: bien, pero vamos a ver, vamos a ver ahora cómo crear un un reto nuevo.
+
+752
+02:10:35.510 --> 02:10:38.940
+Lucas Bonanni: Acá. Creo, un un directorio cualquiera.
+
+753
+02:10:42.930 --> 02:10:47.540
+Lucas Bonanni: sí. Y lo que puedo hacer es una vez que cree el repositorio.
+
+754
+02:10:49.810 --> 02:10:58.179
+Lucas Bonanni: Vamos a a hacer? Co: Así vemos directamente ahí como vamos cambiando.
+
+755
+02:11:06.880 --> 02:11:11.549
+Lucas Bonanni: Bueno, una vez que estoy en el repositorio, nosotros vamos a poder ver Acá
+
+756
+02:11:13.290 --> 02:11:24.709
+Lucas Bonanni: al lado a ver. Creo que me lo va a mostrar Si yo hago un hit init para crear para inicializar el repositorio, Sí, porque no es un repositorio. Por ahora, es solamente una carpeta.
+
+757
+02:11:25.550 --> 02:11:42.520
+Lucas Bonanni: Ahora no nos muestra nada, pero si vemos que cambió porque ya nos puso acá. En el Cron. Me apareció Master porque se generó el proyecto y me apareció un máster acá no me muestra nada, porque por defecto de tener que no muestre archivos ocultos
+
+758
+02:11:44.970 --> 02:11:54.549
+Lucas Bonanni: con el explorador. Pero si hago un L, S a ahí veo que tengo la carpeta de de H I, I, T, Sí, ya inició un repositorio.
+
+759
+02:11:54.790 --> 02:12:02.559
+Lucas Bonanni: Tengo Touch, y creo un archivo de texto.
+
+760
+02:12:03.440 --> 02:12:09.950
+Lucas Bonanni: Puedo crear un archivo Ahí ya lo veo. Me aparece, acá me aparece con un estatus de
+
+761
+02:12:10.090 --> 02:12:22.440
+Lucas Bonanni: que Debut de un truck, o sea, que no está haciendo, no tiene seguimiento a ese archivo. Y si hago, acá veo exactamente lo mismo, sí
+
+762
+02:12:23.430 --> 02:12:29.790
+Lucas Bonanni: como que no está haciendo. S No tiene seguimiento. Ese archivo si está fuera del repositorio.
+
+763
+02:12:30.300 --> 02:12:39.959
+Lucas Bonanni: Si bien está en nuestro working directory, no está en en ningún snapshot no está agregado para hacerle seguimiento. Sí, está afuera.
+
+764
+02:12:40.500 --> 02:12:50.040
+Lucas Bonanni: Si yo lo quiero agregar para que esto hacer un un cómic, si lo que hago es girar, como veníamos antes.
+
+765
+02:12:52.520 --> 02:13:02.940
+Lucas Bonanni: Con punto, le digo básicamente que agarre todos los archivos que hay acá si le hago girar y le pongo el nombre del archivo. Me va a agregar solamente este archivo.
+
+766
+02:13:04.550 --> 02:13:08.680
+Lucas Bonanni: Entonces ahora vamos a cambiar que acá co cambió la
+
+767
+02:13:09.740 --> 02:13:15.760
+Lucas Bonanni: la letrita. Esta lo que significa es que quedó en Stacin, o sea, que
+
+768
+02:13:15.940 --> 02:13:29.910
+Lucas Bonanni: estatus ahora cambia y me dice, bueno, ahora agregaste este nuevo archivo todavía no se cometió. Así que no tengo un Snaphot de ese archivo. Solamente tengo que bueno, que lo agregaste.
+
+769
+02:13:31.610 --> 02:13:41.010
+Lucas Bonanni: Y si lo vemos acá en la en la U I, también lo podemos ver como estos Estados que lo podemos ver en los archivos que están
+
+770
+02:13:41.230 --> 02:13:50.679
+Lucas Bonanni: en stage, sí versus. Y los cambios. Si yo, si esto lo vuelvo, le hago clic en el menos va a volver como estaba antes.
+
+771
+02:13:50.800 --> 02:14:01.700
+Lucas Bonanni: estatus, me va a decir que no, que no le está haciendo seguimiento. Acá Hago exactamente lo mismo con que con gira. Si entonces preparo estos cambios para hacer el Covid.
+
+772
+02:14:01.990 --> 02:14:04.790
+Lucas Bonanni: acá podría escribir el cómic. Y hago el cómic.
+
+773
+02:14:04.920 --> 02:14:07.259
+Lucas Bonanni: ¿sí? Y si lo hago desde la terminal
+
+774
+02:14:07.550 --> 02:14:12.349
+Lucas Bonanni: como yo ya lo agregué otra vez al Stage, que de ahí
+
+775
+02:14:12.820 --> 02:14:18.289
+Lucas Bonanni: y acá lo que puedo hacer a partir de ahora es el Comic.
+
+776
+02:14:19.840 --> 02:14:26.369
+Lucas Bonanni: Sí, generalmente inicia el Comic. Cuando 1 hace el primer cómic con el Scafolding y nada más
+
+777
+02:14:26.860 --> 02:14:32.049
+Lucas Bonanni: escribe, se escribe eso, pero no hay mucho más que comentar.
+
+778
+02:14:34.900 --> 02:14:37.380
+Lucas Bonanni: Y bueno, y ahí quedó como tema del archivo.
+
+779
+02:14:39.470 --> 02:14:42.669
+Lucas Bonanni: Después 1 lo que puede hacer es
+
+780
+02:14:44.250 --> 02:14:46.789
+Lucas Bonanni: 1 puede hacer un cambio. Sí,
+
+781
+02:14:50.750 --> 02:15:00.600
+Lucas Bonanni: 1 guardamos línea 2. Guardamos express
+
+782
+02:15:01.150 --> 02:15:03.719
+Lucas Bonanni: a vos. Y bueno, y así,
+
+783
+02:15:03.910 --> 02:15:12.079
+Lucas Bonanni: entonces, acá cuando ya hagamos un Hit, deberíamos ver la diferencia? Bueno, acá no hay nada
+
+784
+02:15:13.110 --> 02:15:26.839
+Lucas Bonanni: porque ahí nos muestra la diferencia con lo que ya tenemos cometeado, que se agregaron esas 3 líneas. Es lo mismo que si yo veo, acá vengo, acá me muestra exactamente lo mismo, solamente que 1 es la terminal y otro
+
+785
+02:15:27.520 --> 02:15:32.539
+Lucas Bonanni: en acá este botoncito mueble este año.
+
+786
+02:15:34.030 --> 02:15:39.529
+Lucas Bonanni: Perfecto. Bien, ahí podemos ver. Y después, si yo hago un giro.
+
+787
+02:15:39.660 --> 02:15:45.609
+Lucas Bonanni: esto creo que era archivo. Y creo que era menos P:
+
+788
+02:15:47.260 --> 02:15:59.349
+Lucas Bonanni: claro. Acá, me permite. Cuando yo le agrego el menos P. Me permite, si yo tengo varios cambios, me permite decir, bueno, ¿qué cambios quiero agregar y cuáles no? Yo Esto lo
+
+789
+02:15:59.520 --> 02:16:03.810
+Lucas Bonanni: lo cancelo voy a hacer Acá y voy a agregar
+
+790
+02:16:03.960 --> 02:16:05.730
+Lucas Bonanni: a ese D, a ver si
+
+791
+02:16:06.490 --> 02:16:08.720
+Lucas Bonanni: si me funciona como yo. Quiero.
+
+792
+02:16:10.300 --> 02:16:16.699
+Lucas Bonanni: No siempre me marca como que 1 solo a ver si yo
+
+793
+02:16:19.630 --> 02:16:28.569
+Lucas Bonanni: lo que tengo que hacer esto, y después puedo hacer otra cosa. Acá.
+
+794
+02:16:31.210 --> 02:16:35.920
+Lucas Bonanni: Y después hago gir a a Mhm.
+
+795
+02:16:37.100 --> 02:16:44.719
+Lucas Bonanni: Sinceramente me muestra esto, pero hay una forma. Ahora, no me acuerdo que te va marcando y vos puedes ir seleccionando
+
+796
+02:16:46.209 --> 02:16:53.329
+Lucas Bonanni: los cambios como separados. Y acá en vez de parecerte, 1 en 1, 1 puede agregar inclusive ir
+
+797
+02:16:54.120 --> 02:16:56.800
+Lucas Bonanni: separando cada 1 de los cambios.
+
+798
+02:16:57.980 --> 02:17:13.670
+Lucas Bonanni: Bueno, acá. No tiene mucho más sentido. Lo agrego. ¿puedo ir agregando nuevos cambios e ir pasando o puedo ir dejando cambios afuera. ¿no? Entonces lo que me permite esto es esto. Yo puedo tener 2 Estados del mismo del mismo archivo.
+
+799
+02:17:14.170 --> 02:17:24.230
+Lucas Bonanni: Sí, 1 en stage preparado para hacer el Comic y otro con cambios para ser.
+
+800
+02:17:24.440 --> 02:17:35.080
+Lucas Bonanni: Comité ahora, sí, Entonces nada. Lo que puedo hacer es bueno. Ahora hago otra comida básicamente.
+
+801
+02:17:44.250 --> 02:17:49.459
+Lucas Bonanni: y se van a ir solamente esos primeros comics, pero van a quedar cambios pendientes todavía.
+
+802
+02:17:50.670 --> 02:17:54.979
+Lucas Bonanni: Entonces hacemos un hit estatus.
+
+803
+02:17:55.940 --> 02:18:02.849
+Lucas Bonanni: Amazon subir Ahí vemos que todavía hay modificaciones con esto, con el dif vemos
+
+804
+02:18:02.950 --> 02:18:04.980
+Lucas Bonanni: que es lo que tenemos pendiente.
+
+805
+02:18:07.629 --> 02:18:15.600
+Lucas Bonanni: Y ahora hacemos un H. I, P, al otra vez. Y bueno, y así es. ¿podemos seguir. ¿no?
+
+806
+02:18:17.000 --> 02:18:20.669
+Lucas Bonanni: Ahora vamos a ver lo de los brunches.
+
+807
+02:18:23.549 --> 02:18:25.410
+Lucas Bonanni: Seríamos rápido.
+
+808
+02:18:27.320 --> 02:18:34.480
+Lucas Bonanni: Entonces, después, lo que podemos tener es un Brunch y check out.
+
+809
+02:18:37.030 --> 02:18:41.399
+Lucas Bonanni: Entonces acá podemos hacer esto una nueva funcionalidad.
+
+810
+02:18:50.920 --> 02:18:58.690
+Lucas Bonanni: Y ya pasamos a esa Ram a esa nueva rama. Si esta rama, si nosotros hacemos un logo.
+
+811
+02:19:03.020 --> 02:19:05.529
+Lucas Bonanni: hacer este menos 20 en total.
+
+812
+02:19:05.980 --> 02:19:25.439
+Lucas Bonanni: ahí nos va a mostrar básicamente que nos muestra el gel, que era una de las cosas que mencionamos antes: la rama. Si nuestro gel está apuntando a esta rama que casualmente también está parada en máster porque Máster. Ese es también está en este último Comid por ahora.
+
+813
+02:19:27.400 --> 02:19:33.120
+Lucas Bonanni: Y lo que podemos hacer es bueno, agregamos otro nuevo archivo, ¿no?
+
+814
+02:19:37.870 --> 02:19:39.209
+Lucas Bonanni: Y nada.
+
+815
+02:19:40.049 --> 02:19:44.440
+Lucas Bonanni: Y me comí otro archivo.
+
+816
+02:19:45.930 --> 02:19:54.530
+Lucas Bonanni: y ahí vamos a tener. Recién ahí, digamos, te agregamos un cambio a nuestra rama. Entonces ahora sí podemos hacer ver el historial.
+
+817
+02:19:55.360 --> 02:20:03.360
+Lucas Bonanni: Y vamos a ver que ahora el Head está apuntando a extra último comic de nuestra nueva Rama
+
+818
+02:20:04.820 --> 02:20:07.960
+Lucas Bonanni: Lo que nosotros podríamos tener es tener.
+
+819
+02:20:10.350 --> 02:20:15.810
+Lucas Bonanni: Podemos cambiar la la rama con con Hit Switch
+
+820
+02:20:16.130 --> 02:20:27.890
+Lucas Bonanni: y acá ponemos Master, el nombre de la rama a la que queremos cambiar. Y podemos estar en en master otra vez. Acá Lo que va a cambiar es que si ustedes notan, no. Si yo hago un switch.
+
+821
+02:20:28.160 --> 02:20:31.800
+Lucas Bonanni: no tengo el archivo, el otro archivo quedo en la otra rama.
+
+822
+02:20:31.800 --> 02:20:39.450
+FACUNDO EMANUEL MODARELLI: Check Out. Me grabé.
+
+823
+02:20:39.450 --> 02:20:43.919
+Lucas Bonanni: El B, lo que hace es crearte la la
+
+824
+02:20:44.740 --> 02:20:49.020
+Lucas Bonanni: la rama. Sí, el hit switch básicamente.
+
+825
+02:20:49.020 --> 02:20:55.140
+FACUNDO EMANUEL MODARELLI: Entonces era que yo usaba 1 para intercambiar entre las ramas que era el check out. Creo que era.
+
+826
+02:20:55.140 --> 02:21:00.970
+Lucas Bonanni: Sí es check out es lo mismo, Sí, sí.
+
+827
+02:21:01.430 --> 02:21:16.320
+Lucas Bonanni: Lo que pasa que después agregaron switch para que sea más fácil acordarse porque check out no es muy intuitivo que cuando 1 quiere cambiar de rama. Entonces después agregaron esto. Si yo ahora he cambiado a máster otra vez estoy en máster Sí,
+
+828
+02:21:18.740 --> 02:21:19.820
+Lucas Bonanni: es lo mismo.
+
+829
+02:21:24.800 --> 02:21:25.450
+FACUNDO EMANUEL MODARELLI: Gracias.
+
+830
+02:21:25.680 --> 02:21:34.719
+Lucas Bonanni: De nada ahí. Si hago un Switch van a ver ahora, estoy en máster y no tengo ese segundo archivo, Pero si voy al Brunch, me aparece el segundo archivo
+
+831
+02:21:34.880 --> 02:21:42.930
+Lucas Bonanni: en lo que quería hacer era ahora Switch Master a un cambio.
+
+832
+02:21:45.160 --> 02:21:48.710
+Lucas Bonanni: un tercer archivo para no agregar mucho conflicto.
+
+833
+02:22:02.810 --> 02:22:07.970
+Lucas Bonanni: Bueno, acá. Porque estoy viendo máster y no me ve el otro.
+
+834
+02:22:08.840 --> 02:22:17.740
+Lucas Bonanni: Si yo Hit soy, fui a funcionalidad a ver.
+
+835
+02:22:17.940 --> 02:22:21.120
+Lucas Bonanni: Y el la intro.
+
+836
+02:22:31.150 --> 02:22:36.020
+Lucas Bonanni: Mhm Eso, Mhm: No.
+
+837
+02:22:41.590 --> 02:22:54.739
+Lucas Bonanni: si considera me muestra todo o me ciega. No, claro, porque yo estoy parado en la en la rama y no no ves la segunda rama para mostrármelo. Acá Eso no me acuerdo. El Comando vale
+
+838
+02:22:57.390 --> 02:23:02.339
+Lucas Bonanni: de ver las feature, pero no me ve. No me gustan las 2 ramas al mismo tiempo.
+
+839
+02:23:03.260 --> 02:23:07.130
+Lucas Bonanni: pero deberían estar bridge
+
+840
+02:23:12.810 --> 02:23:18.170
+Lucas Bonanni: Claro, dependiendo de siempre. Me muestro por ahora una rama lineal, porque no hice ningún
+
+841
+02:23:18.790 --> 02:23:32.469
+Lucas Bonanni: más. Si yo hago hit mash mhm beat, el el
+
+842
+02:23:46.960 --> 02:23:56.560
+Lucas Bonanni: ahí está, me dice, bueno, yo comercial los cambios Sí, entonces nada me escribe para que
+
+843
+02:23:56.700 --> 02:24:05.559
+Lucas Bonanni: agregué algún comentario. Si no quiero agregar ningún comentario o ningún Body más acá abajo. Lo dejo así como está
+
+844
+02:24:07.240 --> 02:24:08.560
+Lucas Bonanni: guardo.
+
+845
+02:24:12.810 --> 02:24:13.960
+Lucas Bonanni: salgo.
+
+846
+02:24:15.030 --> 02:24:27.779
+Lucas Bonanni: Y ahí está. Entonces ahora. Sí, nos creó el mismo grafito donde yo tenía un comité, acá un comida acá en cada rama. Y ahora tengo el grafiti.
+
+847
+02:24:28.540 --> 02:24:29.960
+Lucas Bonanni: Debería tener
+
+848
+02:24:30.920 --> 02:24:41.930
+Lucas Bonanni: con las 2 brunches que que hizo. Básicamente es esto. No es mucho más complicado. Lo puede manejar desde acá y crear. Yo.
+
+849
+02:24:42.300 --> 02:24:50.849
+Lucas Bonanni: como siempre hago. Tengo muchas veces esto abierto y y miro qué cambios tengo que que otros cambios no. Pero
+
+850
+02:24:51.200 --> 02:24:57.369
+Lucas Bonanni: no hay mucha complicación con utilizando. H I, I, T, La verdad
+
+851
+02:24:57.910 --> 02:25:01.609
+Lucas Bonanni: tienen. No sé si tienen alguna duda o quieren ver algo en particular.
+
+852
+02:25:07.380 --> 02:25:09.060
+JUANA BOJOSIAN: Por mí. Está perfecto.
+
+853
+02:25:10.410 --> 02:25:13.429
+Lucas Bonanni: Perfecto, igual cualquier cosa. Yo les puedo
+
+854
+02:25:13.660 --> 02:25:28.500
+Lucas Bonanni: después por Slack, o les comparto algún otros recursos para con ejercicios y cosas para para ir mirando y de último ir practicando. Lo importante de esto es básicamente practicar
+
+855
+02:25:28.610 --> 02:25:36.010
+Lucas Bonanni: y acostumbrarse tanto, o ya te digo, o a la terminal o a o a la interfaz.
+
+856
+02:25:36.230 --> 02:25:40.300
+Lucas Bonanni: No hay problema. Si es a la a la terminal mucho mejor
+
+857
+02:25:40.300 --> 02:25:56.250
+Lucas Bonanni: porque les va a servir después más adelante para para otras cosas. Y ustedes lo pueden aplicar a otros procesos de C, C, D, y todo ese tipo de cosas y entender un poquito más cómo funciona Hill y tener un mayor control que con la interfaz.
+
+858
+02:25:56.470 --> 02:26:00.199
+Lucas Bonanni: Así que no está de más siempre poder utilizar la terminal.
+
+859
+02:26:00.380 --> 02:26:02.900
+Lucas Bonanni: Pero si quieres yo después le subo
+
+860
+02:26:03.870 --> 02:26:15.359
+Lucas Bonanni: cosa y después lo que tenemos que ver cuando veamos la parte de C, C, D, Y vamos a ver un poco más sobre el comando de docker y docker con post, y como y cómo crear los archivos.
+
+861
+02:26:17.610 --> 02:26:19.729
+FACUNDO SAFE: Bárbaro profe buena semana.
+
+862
+02:26:20.760 --> 02:26:21.260
+Lucas Bonanni: Vale.
+
+863
+02:26:21.260 --> 02:26:21.670
+JUANA BOJOSIAN: A mi.
+
+864
+02:26:21.670 --> 02:26:22.140
+Lucas Bonanni: No, no.
+
+865
+02:26:22.140 --> 02:26:27.379
+JUANA BOJOSIAN: V así subirlo de Git: Muchas gracias.
+
+866
+02:26:27.380 --> 02:26:27.909
+Lucas Bonanni: De la de.
+
+867
+02:26:27.910 --> 02:26:28.700
+JUANA BOJOSIAN: Besar.
+
+868
+02:26:29.310 --> 02:26:35.159
+Lucas Bonanni: No de nada, solo yo subo ese material, ¿sí? Y material de Docker también. Para si quieren ir a.
+
+869
+02:26:35.160 --> 02:26:36.700
+JUANA BOJOSIAN: Excelente a.
+
+870
+02:26:37.990 --> 02:26:38.730
+Lucas Bonanni: Dale.
+
+871
+02:26:41.150 --> 02:26:44.150
+Lucas Bonanni: Bueno, buen fin de que.
+
+872
+02:26:44.150 --> 02:26:45.270
+JUANA BOJOSIAN: De profesor.
+
+873
+02:26:46.410 --> 02:26:47.350
+VALENTIN KRAJZELMAN: Hasta luego.
+
+874
+02:26:47.560 --> 02:26:48.909
+Lucas Bonanni: Hasta luego chao, chao.
+
+875
+02:26:48.910 --> 02:26:50.230
+FACUNDO EMANUEL MODARELLI: Chao! ¡buen fin de.
+
+876
+02:26:55.440 --> 02:26:56.880
+Lucas Bonanni: No.
+
+

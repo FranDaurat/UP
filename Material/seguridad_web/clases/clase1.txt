@@ -1,0 +1,5763 @@
+WEBVTT
+
+1
+00:00:37.490 --> 00:00:38.870
+Francisco Daurat: Buenas. ¿cómo va.
+
+2
+00:00:53.440 --> 00:00:54.430
+Adrian Ezequiel Mart�nez: Buenas.
+
+3
+00:00:56.050 --> 00:00:56.920
+Sofia Libertad Velazco Montagna: Buenas.
+
+4
+00:00:58.860 --> 00:01:00.610
+Exequiel Alvarez Bianco: Hola, buenas tardes.
+
+5
+00:01:00.840 --> 00:01:01.590
+Adrian Ezequiel Mart�nez: Mhm.
+
+6
+00:02:11.500 --> 00:02:12.740
+Adrian Ezequiel Mart�nez: Ahora, sí.
+
+7
+00:03:33.500 --> 00:03:40.249
+Adrian Ezequiel Mart�nez: Bienvenidos a a la materia, que es seguridad en el desarrollo de de aplicaciones web
+
+8
+00:03:40.550 --> 00:03:48.919
+Adrian Ezequiel Mart�nez: y a modo de de comentario de resumen. La materia trata de entender cómo funciona realmente las aplicaciones web
+
+9
+00:03:49.110 --> 00:03:59.569
+Adrian Ezequiel Mart�nez: Para poder diseñarlas, desarrollarlas y auditarlas de una manera segura. La materia es muy, muy divertida. Al comienzo tiene una carga teórica.
+
+10
+00:03:59.840 --> 00:04:06.379
+Adrian Ezequiel Mart�nez: Este que que espero no no sea tan pesada. Yo, cuando la cursé no no me resultó pesada para nada.
+
+11
+00:04:06.760 --> 00:04:12.140
+Adrian Ezequiel Mart�nez: Y a medida que van pasando las clases y la
+
+12
+00:04:12.740 --> 00:04:22.579
+Adrian Ezequiel Mart�nez: la la materia se va tornando práctica. Lo Lo recomendable, como siempre, es que que que hagan los ejercicios propuestos y
+
+13
+00:04:23.110 --> 00:04:28.650
+Adrian Ezequiel Mart�nez: y que están muy relacionados con con el T P en
+
+14
+00:04:28.690 --> 00:04:40.429
+Adrian Ezequiel Mart�nez: de de introducción. Hoy, como muchos sabemos, prácticamente casi todo es web, bancos y commerce, plataformas educativas, sistemas corporativos, etcétera.
+
+15
+00:04:40.440 --> 00:04:56.509
+Adrian Ezequiel Mart�nez: Y obviamente, donde hay software, hay vulnerabilidades, Y el objetivo en esta cursada, como les había comentado, es entender cómo se cómo se explotan esas vulnerabilidades. Pero principalmente, ¿cómo se previenen.
+
+16
+00:04:57.070 --> 00:04:58.320
+Adrian Ezequiel Mart�nez: Y
+
+17
+00:05:00.110 --> 00:05:15.909
+Adrian Ezequiel Mart�nez: como les les adelanté, vamos a tener una una mirada bastante técnica. Y y a medida que curse, el tiempo va a ser bastante práctico. No, No vamos a ver solamente teoría, eso va a ser lo lo divertido. También
+
+18
+00:05:16.020 --> 00:05:22.899
+Adrian Ezequiel Mart�nez: vamos a tratar temas como protocolos, arquitectura, vulnerabilidades, herramientas, etcétera.
+
+19
+00:05:23.030 --> 00:05:36.319
+Adrian Ezequiel Mart�nez: Y la idea está al finalizar la materia. No solo sepan qué es un squ el inyección Xss, sino que la idea es que se que puedan detectarlo, explotarlo en algún entorno controlado, como
+
+20
+00:05:36.470 --> 00:05:41.459
+Adrian Ezequiel Mart�nez: como ya vamos a ver y y comentarlo y remediarlo.
+
+21
+00:05:41.640 --> 00:05:44.880
+Adrian Ezequiel Mart�nez: o o intentar verlo desde dónde proviene.
+
+22
+00:05:48.440 --> 00:05:51.270
+Adrian Ezequiel Mart�nez: Bueno, sí soy yo. El el de la foto
+
+23
+00:05:51.790 --> 00:05:58.039
+Adrian Ezequiel Mart�nez: Mi nombre es Adrián Ezequiel Martínez como un breve repaso. Me
+
+24
+00:05:58.450 --> 00:06:02.630
+Adrian Ezequiel Mart�nez: Me recibí en la facultad y trabajo hace más de 20 años de
+
+25
+00:06:03.190 --> 00:06:15.480
+Adrian Ezequiel Mart�nez: en en sistemas tanto de manera autónoma como en relación de dependencia, mayoritariamente en proyectos bancarios como desarrollador, y actualmente, en el área de hace ya como 10 años, un poquito más
+
+26
+00:06:16.050 --> 00:06:22.420
+Adrian Ezequiel Mart�nez: en el área de seguridad informática como consultor auditor y perito forense en
+
+27
+00:06:23.090 --> 00:06:29.560
+Adrian Ezequiel Mart�nez: la idea, también a lo largo de la cursada es transmitir experiencia laboral a través de lo que vamos a ir viendo y
+
+28
+00:06:29.990 --> 00:06:33.259
+Adrian Ezequiel Mart�nez: y en los e ejercicios y el y el T P propuesto
+
+29
+00:06:33.570 --> 00:06:48.869
+Adrian Ezequiel Mart�nez: como método de de gestión del curso. Vamos a utilizar blackboard y para cualquier comunicación formal, la pueden hacer a través de los correos que figuran. Acá Este es mi el el correo de la facultad a Marc y 100,
+
+30
+00:06:49.120 --> 00:06:51.910
+Adrian Ezequiel Mart�nez: y y el correo. Número 2:
+
+31
+00:06:52.730 --> 00:06:59.459
+Adrian Ezequiel Mart�nez: este es el en mi personal destinado a a temas de la facultad. Obviamente.
+
+32
+00:07:00.220 --> 00:07:12.189
+Adrian Ezequiel Mart�nez: este Así que cualquiera de esos 2 medios me me me escriben por privado o o lo que sea, y y los tengo en en el celu.
+
+33
+00:07:12.840 --> 00:07:23.290
+Adrian Ezequiel Mart�nez: y también vamos a utilizar pronto para comunicaciones generales o dudas, o lo que sea, siéntanse libres de de escribir, no se queden con dudas ni con comentarios.
+
+34
+00:07:23.400 --> 00:07:41.089
+Adrian Ezequiel Mart�nez: El único temita es que yo tengo una cierta diferencia horaria con con Argentina, así que sepan disculpar si o no los veo al momento o les caiga un mensaje a las 3 o 4 de la mañana que les pido, por favor, que no me respondan a esa hora
+
+35
+00:07:41.630 --> 00:07:47.050
+Adrian Ezequiel Mart�nez: es que yo, a esa hora ya estoy acá a Pleno, y
+
+36
+00:07:47.230 --> 00:07:53.620
+Adrian Ezequiel Mart�nez: este es el ratito que tengo del comienzo del día. Perdón donde aprovecho a a ver estos temas.
+
+37
+00:07:55.270 --> 00:08:00.790
+Adrian Ezequiel Mart�nez: Pero, bueno, no, no se sientan mal si les cae un mensaje mío a esa hora y
+
+38
+00:08:02.060 --> 00:08:08.289
+Adrian Ezequiel Mart�nez: como a modo de de de presentación y para para romper el hielo.
+
+39
+00:08:08.400 --> 00:08:27.330
+Adrian Ezequiel Mart�nez: este da una simple pregunta de nombre apellido: a qué se dedican. Y y si no les molesta donde trabajan, la idea no no es investigar ni nada, sino es para adaptar mejor la el curso, la los temas que vamos a ir conversando y y que sea lo lo más ameno posible.
+
+40
+00:08:27.510 --> 00:08:35.229
+Adrian Ezequiel Mart�nez: Así que les les dejo que se abran el micro y y que aumenten.
+
+41
+00:08:37.140 --> 00:08:37.770
+Martin Daus: Bueno.
+
+42
+00:08:37.770 --> 00:08:38.150
+Manuel Krivoy: Bueno.
+
+43
+00:08:38.150 --> 00:08:40.450
+Martin Daus: Y a ronco show.
+
+44
+00:08:41.100 --> 00:08:43.419
+Adrian Ezequiel Mart�nez: No.
+
+45
+00:08:44.169 --> 00:08:46.239
+Martin Daus: Me llamo Martín Daus.
+
+46
+00:08:46.599 --> 00:08:59.259
+Martin Daus: Actualmente trabajo como administrativo, nada relacionado Ategi, ni ninguna experiencia previa en un colegio y estudio licenciatura en ciberseguridad.
+
+47
+00:09:00.900 --> 00:09:01.760
+Adrian Ezequiel Mart�nez: Genial.
+
+48
+00:09:03.710 --> 00:09:06.790
+Manuel Krivoy: Bueno, yo soy manuel.
+
+49
+00:09:07.230 --> 00:09:12.969
+Manuel Krivoy: Me queda este cuatrimestre de la licenciatura de intec esta materia. La elegí como directiva
+
+50
+00:09:13.770 --> 00:09:20.880
+Manuel Krivoy: me llamó bastante la atención y trabajo como analista funcionario de una empresa de de telemedicina
+
+51
+00:09:21.780 --> 00:09:24.119
+Manuel Krivoy: en rosario, vivo en Rosario.
+
+52
+00:09:24.650 --> 00:09:25.460
+Adrian Ezequiel Mart�nez: Genial.
+
+53
+00:09:31.740 --> 00:09:44.279
+Mariana D'odorico: Bueno, mi nombre es mariana. Yo ahora no estoy trabajando. Estoy en búsqueda laboral, pero hasta diciembre del año pasado trabajé más de 3 años en una consultora Chica: Como programadora.
+
+54
+00:09:44.280 --> 00:09:54.079
+Mariana D'odorico: Yo soy técnica en programación recibida en U C, E. S, y estoy haciendo el ciclo de complementación curricular para la licenciatura en tecnología de la información
+
+55
+00:09:54.080 --> 00:10:07.890
+Mariana D'odorico: y acá en Palermo hice en 2 024 la digna matura en ciberseguridad que me pareció bastante interesante. Así que, bueno, elegí esta materia porque parecía buena para volver a repasar algunos conceptos y ver cosas que por ahí me perdí ahí.
+
+56
+00:10:13.220 --> 00:10:16.139
+Franco Emiliano Lombroni: Bueno, yo soy Exequia, Álvarez.
+
+57
+00:10:16.170 --> 00:10:22.920
+Exequiel Alvarez Bianco: Tengo 22 años y actualmente no trabajo. Estoy buscando en búsqueda laboral.
+
+58
+00:10:23.120 --> 00:10:31.519
+Exequiel Alvarez Bianco: pero nada me noté la materia. Por lo mismo me estoy haciendo licenciatura de seguridad, y nada me pareció una algo que iba de complemento, ¿no?
+
+59
+00:10:31.770 --> 00:10:33.850
+Exequiel Alvarez Bianco: Y que era bastante interesante.
+
+60
+00:10:37.590 --> 00:10:43.670
+Tobías Felix Medlam: Hola buenas. Soy Toby Azeland. Estoy en el ciberseguridad en tercer año. Entrando
+
+61
+00:10:43.930 --> 00:10:52.720
+Tobías Felix Medlam: to ahora mismo, no estoy trabajando. Sí, me encanta mucho todo lo que tiene que ver con la programación y aplicaciones.
+
+62
+00:10:52.940 --> 00:11:00.920
+Tobías Felix Medlam: Tuve un par de cursos así, pero nada todavía no me decido bien a dónde apuntar igualmente.
+
+63
+00:11:03.850 --> 00:11:10.409
+Franco Emiliano Lombroni: Bueno, yo soy Franco Lombroni. Yo actualmente estoy trabajando en el área de monitoreo continuo
+
+64
+00:11:10.590 --> 00:11:18.240
+Franco Emiliano Lombroni: de Coal Fire, una empresa yanqui, y estoy en la licenciatura de ciberseguridad. Me queda un año y toy.
+
+65
+00:11:22.560 --> 00:11:29.539
+Ariel Alejandro Quintero: Buenas. Soy Ariel Alejandro quintero, prefiero pues Alejandro, Estoy estudiando la licenciatura en ciberseguridad
+
+66
+00:11:29.830 --> 00:11:34.339
+Ariel Alejandro Quintero: y actualmente estoy trabajando en el área de seguridad ofensiva en el Banco Nacional.
+
+67
+00:11:40.410 --> 00:11:43.859
+Eduardo Manuel Rocha: Me presento Hola, perdón. Querés ir más. Nico.
+
+68
+00:11:45.660 --> 00:11:46.829
+Federico Celaya: No, no, no.
+
+69
+00:11:46.830 --> 00:11:48.140
+Eduardo Manuel Rocha: Dale. Perdón.
+
+70
+00:11:48.140 --> 00:11:55.589
+Federico Celaya: Bueno, mi nombre es mi nombre es Federico. Tengo 21. Años, Estoy actualmente cursando Cuarto año de la licenciatura en ciudad de seguridad
+
+71
+00:11:56.080 --> 00:11:59.879
+Federico Celaya: y trabajo como analista de deseo de seguridad en el zoo de Telecom.
+
+72
+00:12:04.310 --> 00:12:07.360
+Eduardo Manuel Rocha: Ahora, Sí, Bueno, hola a todos. Mi nombre es Eduardo.
+
+73
+00:12:07.780 --> 00:12:09.809
+Eduardo Manuel Rocha: Yo soy el recursante.
+
+74
+00:12:10.570 --> 00:12:14.850
+Eduardo Manuel Rocha: Se venció la cursada, Les recomiendo que rindan el final
+
+75
+00:12:15.310 --> 00:12:20.229
+Eduardo Manuel Rocha: trabajo en un banco en la parte de service management de gestión de servicio.
+
+76
+00:12:20.690 --> 00:12:22.190
+Eduardo Manuel Rocha: Hemos
+
+77
+00:12:22.320 --> 00:12:30.620
+Eduardo Manuel Rocha: Estoy tratando de cambiar de área más porque estoy estudiando ciberseguridad más que nada, ir más a la parte técnica. Así que eso es todo gracias.
+
+78
+00:12:33.670 --> 00:12:36.180
+Adrian Ezequiel Mart�nez: La Cruz Roja con Antonio.
+
+79
+00:12:37.090 --> 00:12:39.740
+Eduardo Manuel Rocha: Claro, pero
+
+80
+00:12:40.330 --> 00:12:45.579
+Eduardo Manuel Rocha: no me acuerdo del año, pero a mí se me mención ya ha pasado porque tuve, bueno, cuestiones personales.
+
+81
+00:12:46.080 --> 00:12:50.080
+Eduardo Manuel Rocha: me arrastré la de cómo es la de seguridad.
+
+82
+00:12:50.530 --> 00:12:57.620
+Eduardo Manuel Rocha: sí o sí tenés que no. La primera, La no introducción a otra.
+
+83
+00:12:58.450 --> 00:13:00.100
+Adrian Ezequiel Mart�nez: Web, redes.
+
+84
+00:13:00.100 --> 00:13:06.890
+Eduardo Manuel Rocha: No, no, no, claro. Seguridad en redes, te pide rendir el final y se me venció. Bueno, fue todo un gran despelote en mi vida.
+
+85
+00:13:06.890 --> 00:13:11.419
+Adrian Ezequiel Mart�nez: Con gerardo, perdí un montón claro con gerardo, ¿Sí? ¿sí? Ya cursé todas con gerardo 2 veces.
+
+86
+00:13:11.580 --> 00:13:14.829
+Eduardo Manuel Rocha: Hice seguridad ofensiva en red de la otra también.
+
+87
+00:13:15.010 --> 00:13:17.419
+Eduardo Manuel Rocha: Así que, bueno, tratando de ponerme al día de nuevo.
+
+88
+00:13:18.040 --> 00:13:22.250
+Adrian Ezequiel Mart�nez: Genial Pa como como Spoiler, es el el el mismo.
+
+89
+00:13:22.660 --> 00:13:29.360
+Adrian Ezequiel Mart�nez: el el mismo programa, los mismos temas y el T p. Seguramente sea por esa, por ese camino.
+
+90
+00:13:29.360 --> 00:13:34.859
+Eduardo Manuel Rocha: Da igual. El Tepe anda a saber dónde estará. Así que no sé si tengo los apuntes con eso, te digo todo. Así que para mí es como.
+
+91
+00:13:35.020 --> 00:13:35.880
+Adrian Ezequiel Mart�nez: Ajá.
+
+92
+00:13:35.880 --> 00:13:38.420
+Eduardo Manuel Rocha: Un buen refresco de todo. Me viene fantástico.
+
+93
+00:13:38.420 --> 00:13:39.200
+Adrian Ezequiel Mart�nez: Perfecto.
+
+94
+00:13:43.960 --> 00:14:01.659
+Candela Lis: Bueno, me presento. Mi nombre es Candela. Tengo 34 años. Estoy estudiando 35. Perdón. Te estoy estudiando la licenciatura en ciberseguridad. Y bueno, mis experiencias laborales no tienen que ver con la ciberseguridad. Trabajé en la gerencia de 2
+
+95
+00:14:01.800 --> 00:14:04.370
+Candela Lis: empresas diferentes
+
+96
+00:14:04.960 --> 00:14:12.700
+Candela Lis: ni de rubros diferentes. Y bueno, después me dediqué un poco a lo que es la carrera, y estoy en búsqueda. Ahora, si algo referido a lo que estoy estudiando.
+
+97
+00:14:16.730 --> 00:14:21.820
+Camilo Cedrés Aguirre: Hola, bueno, yo soy camilo. Vivo en Uruguay.
+
+98
+00:14:22.580 --> 00:14:27.139
+Camilo Cedrés Aguirre: Bueno, en su momento hice una tenicatura en redes de datos.
+
+99
+00:14:27.630 --> 00:14:31.029
+Camilo Cedrés Aguirre: Yo ahora estudio licenciatura en tecnología de la información.
+
+100
+00:14:31.540 --> 00:14:38.320
+Camilo Cedrés Aguirre: Estoy en el último año y trabajo en una empresa estatal acá en Uruguay.
+
+101
+00:14:38.690 --> 00:14:47.230
+Camilo Cedrés Aguirre: vinculada a la refinería de petróleo y a la producción de de combustibles.
+
+102
+00:14:49.690 --> 00:15:05.160
+Cristian Albuja Izurieta: Muy buenas noches con todos. Mi nombre es Christian Albujan. Actualmente tengo 20 años y solo estoy estudiando el momento de la la carrera de licenciatura en ciberseguridad. Y Y bueno esperar que este año ya empezar con el área laboral.
+
+103
+00:15:08.650 --> 00:15:13.360
+Abril Valentina Marolo Bobis: Bueno, yo soy abril, estoy recibida de analista en sistemas
+
+104
+00:15:13.610 --> 00:15:21.480
+Abril Valentina Marolo Bobis: y ahora estoy cumpliendo una suplencia. Como profesora de informática en un secundario para nivel de primer año de secundaria.
+
+105
+00:15:27.510 --> 00:15:28.270
+Mauro Agustín Cornali: Hola, Hola.
+
+106
+00:15:29.620 --> 00:15:38.469
+Mauro Agustín Cornali: mi nombre es Mauro. Estudio también licenciatura en ciberseguridad. Tengo 26 años y trabajo para el Ministerio de salud en el área de datos.
+
+107
+00:15:38.940 --> 00:15:39.849
+Mauro Agustín Cornali: Soy nariz.
+
+108
+00:15:50.290 --> 00:15:51.179
+Mauricio Mauricio Adalian: Pero si en.
+
+109
+00:15:51.880 --> 00:15:53.309
+Francisco Daurat: Andamos, andamos sin eso.
+
+110
+00:15:53.990 --> 00:16:01.350
+Mauricio Mauricio Adalian: Dale. Hola, mi nombre es Mauricio Dalian. Tengo 34 años. Estoy estudiando la licenciatura de ciberseguridad
+
+111
+00:16:01.710 --> 00:16:10.130
+Mauricio Mauricio Adalian: y trabajo en una empresa que vende productos de ciberseguridad hace 13 años.
+
+112
+00:16:10.470 --> 00:16:14.369
+Mauricio Mauricio Adalian: Sí, Bueno, lo tengo de profundizar en los conceptos.
+
+113
+00:16:30.780 --> 00:16:31.890
+Adrian Ezequiel Mart�nez: Ge: Genial.
+
+114
+00:16:32.970 --> 00:16:39.939
+Adrian Ezequiel Mart�nez: No sé si pasaron todos, pero no pasa nada. Así que arrancamos, vamos con la con la intro.
+
+115
+00:16:46.250 --> 00:16:51.570
+Adrian Ezequiel Mart�nez: Hay. Tenemos un par de de libros que son recomendados.
+
+116
+00:16:51.740 --> 00:16:53.510
+Adrian Ezequiel Mart�nez: No hace falta que
+
+117
+00:16:53.790 --> 00:17:03.289
+Adrian Ezequiel Mart�nez: que lo compren es. Están en en Internet, dando vueltas en P, D, F, Y si no lo encuentran, me tiran un mensaje, y lo buscamos. Yo creo que los tengo
+
+118
+00:17:03.770 --> 00:17:06.440
+Adrian Ezequiel Mart�nez: en en algún repositorio.
+
+119
+00:17:06.589 --> 00:17:11.450
+Adrian Ezequiel Mart�nez: Así que es más que nada un una ayuda de memoria y
+
+120
+00:17:12.220 --> 00:17:15.420
+Adrian Ezequiel Mart�nez: y va a son que no les suene mal Lo que voy a decir.
+
+121
+00:17:15.569 --> 00:17:25.179
+Adrian Ezequiel Mart�nez: si tienen un ratito para viajar, y y están mirando al aire, los pueden leer, que les va a pasar el el tiempo más rápido y son bastante divertidos.
+
+122
+00:17:25.680 --> 00:17:27.260
+Adrian Ezequiel Mart�nez: por lo menos me resultaron a mí.
+
+123
+00:17:27.609 --> 00:17:44.629
+Adrian Ezequiel Mart�nez: Este libro es no es nuevo. Luego hay que tener en cuenta que no es nuevo y es 1 de los textos más completos que hay en en seguridad. Tiene una combinación muy buena entre teoría y práctica. Es muy completo. El libro to toca un montón de temas.
+
+124
+00:17:45.230 --> 00:17:56.839
+Adrian Ezequiel Mart�nez: y lo lo divertido es que, como les dije recién no se limita a enumerar vulnerabilidades. Lo que tiene de interesante es que explica el pensar de un atacante.
+
+125
+00:17:57.490 --> 00:18:00.829
+Adrian Ezequiel Mart�nez: Tiene una parte de de análisis de de ese.
+
+126
+00:18:01.200 --> 00:18:06.120
+Adrian Ezequiel Mart�nez: de de de eso que se le ocurrió y cómo cómo descubre fallas lógicas
+
+127
+00:18:06.590 --> 00:18:15.950
+Adrian Ezequiel Mart�nez: Es bastante bastante divertido. A: Hay Hay un libro muy, muy lindo que no está acá comentado, que se llama hacker épico.
+
+128
+00:18:16.190 --> 00:18:25.580
+Adrian Ezequiel Mart�nez: que trata exactamente lo mismo, pero lo tiene muy narrado estilo. Cuento lo hizo un un jefe mío. No, no es porque se los quiera vender.
+
+129
+00:18:25.920 --> 00:18:31.150
+Adrian Ezequiel Mart�nez: pero el por y muchos lo tienen: el señor de la boina, el Chema.
+
+130
+00:18:32.250 --> 00:18:38.430
+Adrian Ezequiel Mart�nez: Este es el el autor del libro jefe de mi trabajo anterior, este bueno y.
+
+131
+00:18:38.430 --> 00:18:38.900
+Sofia Libertad Velazco Montagna: No, no.
+
+132
+00:18:38.900 --> 00:18:40.830
+Adrian Ezequiel Mart�nez: Y perdón.
+
+133
+00:18:40.830 --> 00:18:41.859
+Sofia Libertad Velazco Montagna: Chema Alonso.
+
+134
+00:18:42.000 --> 00:18:42.750
+Adrian Ezequiel Mart�nez: Sí.
+
+135
+00:18:43.050 --> 00:18:43.970
+Sofia Libertad Velazco Montagna: Sí.
+
+136
+00:18:44.170 --> 00:18:51.059
+Adrian Ezequiel Mart�nez: Hasta hace 2 años era mi jefe. Y bueno, después Cam, cambié
+
+137
+00:18:51.280 --> 00:18:53.919
+Adrian Ezequiel Mart�nez: de de de de compañía de empleo, y
+
+138
+00:18:54.460 --> 00:19:05.920
+Adrian Ezequiel Mart�nez: este. Ahora solamente lo veo cuando voy a algún alguna presentación o algún evento y y lo salud, este.
+
+139
+00:19:06.450 --> 00:19:13.620
+Adrian Ezequiel Mart�nez: Lo que tiene de interesante este libro es que tiene esa narrativa. Así que es muy sencillo, muy práctico para leer.
+
+140
+00:19:14.990 --> 00:19:21.709
+Adrian Ezequiel Mart�nez: Después tenemos otro libro recomendado que es bastante bastante técnico.
+
+141
+00:19:22.120 --> 00:19:32.589
+Adrian Ezequiel Mart�nez: Y lo que lo que tiene interesante es que tiene una algo que no. So: no se suele ver mucho y se piensa que es
+
+142
+00:19:32.850 --> 00:19:40.019
+Adrian Ezequiel Mart�nez: un un una fantasía. Un cuento es alguien que un día se sentó, se fue armando bitácoras de
+
+143
+00:19:40.470 --> 00:19:49.839
+Adrian Ezequiel Mart�nez: de de sus detenciones, las las fue teorizando. La la le fue agregando los conceptos.
+
+144
+00:19:50.050 --> 00:19:57.550
+Adrian Ezequiel Mart�nez: Y lo que tuvo de lindo es que vive De hacer eso es alguien que se sienta y busca vulnerabilidades y cobra por solucionarlas.
+
+145
+00:19:58.350 --> 00:20:05.940
+Adrian Ezequiel Mart�nez: Y o sea, te contacta y te dice tenés, una vulnerabilidad, acá, felicitaciones, me debes tanto dinero. Te ayudo a solucionarlo
+
+146
+00:20:06.340 --> 00:20:10.899
+Adrian Ezequiel Mart�nez: y son solucion. Son vulnerabilidades bastantes
+
+147
+00:20:11.120 --> 00:20:18.820
+Adrian Ezequiel Mart�nez: ba bastantes pesadas con bastante peso. Sí que la verdad es súper recomendable también para para leer.
+
+148
+00:20:19.900 --> 00:20:24.139
+Adrian Ezequiel Mart�nez: Este es un libro que está enfocado. A ahí se ve mejor
+
+149
+00:20:24.210 --> 00:20:43.199
+Adrian Ezequiel Mart�nez: a desarrolladores. No se centra en cómo atacar, sino en cómo escribir código seguro a lo que este hace ya un un par de años se está intentando llevar hacia adelante el famoso desarrollo seguro. Así que es muy interesante también para para leer.
+
+150
+00:20:43.910 --> 00:20:50.740
+Adrian Ezequiel Mart�nez: Después tenemos los libros de de O Reilly con con sus tapas muy, muy lindas.
+
+151
+00:20:51.060 --> 00:20:57.550
+Adrian Ezequiel Mart�nez: Este es muy similar al al libro anterior, pero este tiene un enfoque más más moderno.
+
+152
+00:20:58.500 --> 00:21:02.449
+Adrian Ezequiel Mart�nez: Está abar está más visto desde la
+
+153
+00:21:02.820 --> 00:21:11.910
+Adrian Ezequiel Mart�nez: desde la seguridad en aplicaciones más actuales, tiene una parte de Frameworks muy, muy interesante y tiene prácticas ejemplitos muy.
+
+154
+00:21:12.220 --> 00:21:21.569
+Adrian Ezequiel Mart�nez: muy, muy cómodos, muy fáciles de seguir. También este es un es un muy lindo puente entre el desarrollo y la seguridad.
+
+155
+00:21:21.960 --> 00:21:34.439
+Adrian Ezequiel Mart�nez: Es es muy recomendable para perfiles técnicos. La verdad, Si si les gusta mucho ser un perfil técnico, este es un libro para sentarse y leerlo y y divertirse
+
+156
+00:21:35.400 --> 00:21:38.190
+Adrian Ezequiel Mart�nez: después. Acá Hay un un par de de libros más
+
+157
+00:21:38.620 --> 00:21:41.930
+Adrian Ezequiel Mart�nez: que es material complementario. Siempre es
+
+158
+00:21:42.190 --> 00:21:47.030
+Adrian Ezequiel Mart�nez: este e está bueno tenerlo al alcance por por algún tema.
+
+159
+00:21:47.320 --> 00:21:52.220
+Adrian Ezequiel Mart�nez: Este están más enfocados a a herramientas como burp seguramente.
+
+160
+00:21:52.450 --> 00:22:01.719
+Adrian Ezequiel Mart�nez: pero la recomendación es que, como siempre no hay que leerlo todo, sino hacerse de una buena base para tener consultas.
+
+161
+00:22:02.620 --> 00:22:05.770
+Adrian Ezequiel Mart�nez: Así que es Ba: es bastante bueno.
+
+162
+00:22:05.970 --> 00:22:16.239
+Adrian Ezequiel Mart�nez: y y acá la la pregunta. Una pregunta abierta que que se me acaba de ocurrir es si suelen leer documentación regularmente.
+
+163
+00:22:20.630 --> 00:22:21.660
+Sofia Libertad Velazco Montagna: No.
+
+164
+00:22:22.100 --> 00:22:25.270
+Francisco Daurat: Solo cuando no me queda otra, pero trato de evitarlo.
+
+165
+00:22:27.430 --> 00:22:35.230
+Exequiel Alvarez Bianco: Claro si ya busqué 800 cosas y no, no encuentro la razón ahí veo, pero en lo posible intento evitarlo.
+
+166
+00:22:36.190 --> 00:22:40.170
+Exequiel Alvarez Bianco: Intento buscar más a gente que me haya pasado y ver cómo solucionarlo.
+
+167
+00:22:40.870 --> 00:22:47.860
+Francisco Daurat: Claro si tipo empiezo por I a después arranco en foros. Y después, si no encontré nada de nada. Estoy desesperado. Ahí recién arrancó a leer.
+
+168
+00:22:47.860 --> 00:22:49.200
+Sofia Libertad Velazco Montagna: en la.
+
+169
+00:22:49.200 --> 00:22:49.600
+Adrian Ezequiel Mart�nez: Antes.
+
+170
+00:22:49.840 --> 00:22:52.710
+Sofia Libertad Velazco Montagna: Son los foros, los foros mucho.
+
+171
+00:22:54.080 --> 00:22:57.890
+Adrian Ezequiel Mart�nez: Y su show guay, yo tiro tiro mucho de de la I a
+
+172
+00:22:58.860 --> 00:23:03.850
+Adrian Ezequiel Mart�nez: este de hecho. Este, si bien don donde estoy está bastante
+
+173
+00:23:04.290 --> 00:23:10.989
+Adrian Ezequiel Mart�nez: e e en vista de regularse. Lamentablemente, este es es muy útil
+
+174
+00:23:11.130 --> 00:23:16.069
+Adrian Ezequiel Mart�nez: y estoy todo el día con con agentes o consultando
+
+175
+00:23:16.310 --> 00:23:26.540
+Adrian Ezequiel Mart�nez: y en caso de que no me cierre mucho lo que dicen o o lo que te recomiendan. En definitiva, algún foro y después bajo al al manual directamente.
+
+176
+00:23:26.540 --> 00:23:31.820
+Sofia Libertad Velazco Montagna: Dijiste, en vista de regularse, lamentablemente, la la guía a decir.
+
+177
+00:23:31.820 --> 00:23:34.870
+Adrian Ezequiel Mart�nez: ¿qué tiene de malo?
+
+178
+00:23:36.100 --> 00:23:36.500
+Sofia Libertad Velazco Montagna: Muy bien.
+
+179
+00:23:36.500 --> 00:23:45.229
+Adrian Ezequiel Mart�nez: Por lo menos a acá Yo estoy en Europa a nivel corporativo lo están regulando. Actualmente no está regulado.
+
+180
+00:23:46.320 --> 00:23:54.839
+Adrian Ezequiel Mart�nez: El el caso sencillo es vos. Estás trabajando en remoto o en la oficina de remoto. Se utiliza mucho más
+
+181
+00:23:55.210 --> 00:24:00.019
+Adrian Ezequiel Mart�nez: y la gente utiliza sus sus credenciales corporativas
+
+182
+00:24:01.500 --> 00:24:07.500
+Adrian Ezequiel Mart�nez: para para subir información del trabajo y hacerte el el resumen de
+
+183
+00:24:07.680 --> 00:24:13.250
+Adrian Ezequiel Mart�nez: de ese de ese paper de trabajo. El ejemplo.
+
+184
+00:24:13.680 --> 00:24:18.969
+Adrian Ezequiel Mart�nez: Por ahí No, no, No son los términos correctos, pero subís un balance
+
+185
+00:24:19.630 --> 00:24:24.690
+Adrian Ezequiel Mart�nez: y le preguntas a a Charles. G, P, T, ¿Qué te parece el balance
+
+186
+00:24:24.930 --> 00:24:31.420
+Adrian Ezequiel Mart�nez: y chat. G, P, T, Te tira un u una salida y
+
+187
+00:24:32.840 --> 00:24:45.840
+Adrian Ezequiel Mart�nez: y vos le entregaste a. Ca: A cambio de esa salida. ¿vos le entregaste información etiquetada como interna o como crítica, de acuerdo A, como tenga el el etiquetado, el donde trabajes.
+
+188
+00:24:46.080 --> 00:24:50.590
+Adrian Ezequiel Mart�nez: entonces Chas G, P: T, No mide si es un
+
+189
+00:24:50.880 --> 00:24:57.780
+Adrian Ezequiel Mart�nez: si es algo laboral o es algo personal o es algo de estudio, y se utiliza para entrenarlo. En el fondo.
+
+190
+00:24:57.890 --> 00:25:00.879
+Adrian Ezequiel Mart�nez: todo lo que 1 interactúa, lo entrena
+
+191
+00:25:01.480 --> 00:25:05.039
+Adrian Ezequiel Mart�nez: y y es información que le vas dando a no sabes quién.
+
+192
+00:25:05.040 --> 00:25:06.490
+Eduardo Manuel Rocha: Pero.
+
+193
+00:25:06.490 --> 00:25:16.710
+Sofia Libertad Velazco Montagna: Pero ¿qué tiene? Porque, como dijiste, es, ¿se está, se está regulando, lamentablemente. O sea, por mi pregunta es: ¿qué tiene de malo que se regule.
+
+194
+00:25:18.120 --> 00:25:18.440
+Adrian Ezequiel Mart�nez: ¿por qué?
+
+195
+00:25:18.440 --> 00:25:19.060
+Exequiel Alvarez Bianco: No es la de.
+
+196
+00:25:19.060 --> 00:25:19.630
+Adrian Ezequiel Mart�nez: Haciendo.
+
+197
+00:25:19.630 --> 00:25:22.579
+Exequiel Alvarez Bianco: Otra vez serían 5 que lamentablemente lo están regulando.
+
+198
+00:25:22.900 --> 00:25:31.070
+Adrian Ezequiel Mart�nez: Correcto. Sí, lo están regulando, lamentablemente porque vos le estás ofreciendo la la reglamentación que se está
+
+199
+00:25:31.310 --> 00:25:36.310
+Adrian Ezequiel Mart�nez: conversando es que no le pueda subir determinados datos
+
+200
+00:25:36.880 --> 00:25:41.979
+Adrian Ezequiel Mart�nez: y que po por un tema de seguridad y no compartir información crítica nada más.
+
+201
+00:25:42.330 --> 00:25:48.970
+Adrian Ezequiel Mart�nez: Y también se vio que eso es es algo que siempre recomiendo. Yo no lo hago, pero siempre lo recomiendo.
+
+202
+00:25:49.490 --> 00:25:54.589
+Adrian Ezequiel Mart�nez: que se lean los términos y condiciones de muchos de los servicios que 1 contrata
+
+203
+00:25:54.820 --> 00:25:59.700
+Adrian Ezequiel Mart�nez: y puntualmente los sistemas de I a cualquier el nombre: G, P. T. Copilot, etcétera.
+
+204
+00:26:00.850 --> 00:26:03.770
+Adrian Ezequiel Mart�nez: vos podes contratar instancias locales.
+
+205
+00:26:04.590 --> 00:26:13.750
+Adrian Ezequiel Mart�nez: pero esas instancias locales vos interactúas con ellas todo bien, pero siempre tienen una interacción hacia afuera de de tu
+
+206
+00:26:13.870 --> 00:26:15.000
+Adrian Ezequiel Mart�nez: de tu red.
+
+207
+00:26:15.310 --> 00:26:20.250
+Adrian Ezequiel Mart�nez: No, no quedan cuando vos vos a empresa, contratas un servicio de inteligencia artificial.
+
+208
+00:26:20.390 --> 00:26:23.970
+Adrian Ezequiel Mart�nez: Ellos te dicen: Genial. Na: Nadie lo va.
+
+209
+00:26:24.080 --> 00:26:26.370
+Adrian Ezequiel Mart�nez: N. No sale la información de tu entorno.
+
+210
+00:26:26.730 --> 00:26:32.909
+Adrian Ezequiel Mart�nez: pero en algún momento ya ya se ha detectado, por lo menos en en el trabajo mío. Lo Lo hemos detectado
+
+211
+00:26:33.210 --> 00:26:35.840
+Adrian Ezequiel Mart�nez: y y hemos bajado el el contrato.
+
+212
+00:26:36.100 --> 00:26:42.239
+Adrian Ezequiel Mart�nez: que cierta información se iba para afuera de la del sistema de día
+
+213
+00:26:43.230 --> 00:26:52.370
+Adrian Ezequiel Mart�nez: y leyendo los términos y condiciones. Decía que eso, pues, e está bien que ocurra, Entonces, lo que se quiere legislar es el la cancha.
+
+214
+00:26:52.490 --> 00:27:00.740
+Adrian Ezequiel Mart�nez: básicamente en en donde puede actuar la I A y qué se podría utilizar para interactuar con ella.
+
+215
+00:27:00.980 --> 00:27:05.200
+Adrian Ezequiel Mart�nez: Por eso, lamentablemente, porque 1 lo lo lo digo con
+
+216
+00:27:05.380 --> 00:27:14.650
+Adrian Ezequiel Mart�nez: co con orgullo. Cuando se rompe algo de de tu casa, puedes utilizar la guía como como travel shooting
+
+217
+00:27:15.100 --> 00:27:25.530
+Adrian Ezequiel Mart�nez: y es buenísima, resolviendo, entonces lo que están queriendo es regular eso que vos no puedas compartir determinados contenidos, no le darías de comer entre comillas
+
+218
+00:27:25.640 --> 00:27:29.959
+Adrian Ezequiel Mart�nez: a la I a este y no ayudarías a su desarrollo.
+
+219
+00:27:30.180 --> 00:27:36.139
+Adrian Ezequiel Mart�nez: Lamentablemente, es algo bastante controversial.
+
+220
+00:27:36.440 --> 00:27:40.239
+Adrian Ezequiel Mart�nez: Utilizaría las recomendaciones que la usen. Yo la.
+
+221
+00:27:40.240 --> 00:27:43.080
+Eduardo Manuel Rocha: En un entorno corporativo capaz que es complicado, Pero
+
+222
+00:27:43.310 --> 00:27:45.620
+Eduardo Manuel Rocha: a ver los otros argentinos tener.
+
+223
+00:27:45.720 --> 00:27:48.349
+Eduardo Manuel Rocha: estás en Europa tenés problemas para un G, P, T,
+
+224
+00:27:48.470 --> 00:27:51.519
+Eduardo Manuel Rocha: Entonces haces una V, P: N, salís por otro lado. Y.
+
+225
+00:27:51.520 --> 00:27:53.309
+Adrian Ezequiel Mart�nez: Correcto y listo!
+
+226
+00:27:54.210 --> 00:27:55.360
+Adrian Ezequiel Mart�nez: Exacto.
+
+227
+00:27:56.050 --> 00:27:56.520
+Sofia Libertad Velazco Montagna: Es un.
+
+228
+00:27:56.520 --> 00:27:57.830
+Adrian Ezequiel Mart�nez: Acá en las.
+
+229
+00:27:58.580 --> 00:28:12.530
+Sofia Libertad Velazco Montagna: Yo capaz. Tengo una opinión totalmente opuesta a la a la tuya o no. Estoy entendiendo viste porque para mí tiene que estar regulada la guía completamente. O sea, estoy reencontra, digamos, de los abusos que se hacen
+
+230
+00:28:12.600 --> 00:28:20.899
+Sofia Libertad Velazco Montagna: con respecto a la utilización, o sea todo lo la filtra lo que hacen con la Justamente hoy estaba viendo una noticia de que
+
+231
+00:28:20.900 --> 00:28:33.049
+Sofia Libertad Velazco Montagna: de que un tipo perdón que baj. La rebaje, pero nada, un tipo se se suicidó hablando con la inteligencia artificial, la la in lo y lo in lo incitó a hacerlo. Entonces yo digo para mí, tiene que estar regulado. O sea.
+
+232
+00:28:33.120 --> 00:28:37.979
+Sofia Libertad Velazco Montagna: cerré abusan de de eso.
+
+233
+00:28:37.980 --> 00:28:39.310
+Adrian Ezequiel Mart�nez: De su uso. Sí.
+
+234
+00:28:39.310 --> 00:28:40.300
+Sofia Libertad Velazco Montagna: Sí.
+
+235
+00:28:40.790 --> 00:28:43.919
+Adrian Ezequiel Mart�nez: Sí hay hay casos en que si no, no, no estaba al tanto de ese.
+
+236
+00:28:44.680 --> 00:28:45.100
+Sofia Libertad Velazco Montagna: Ahí va.
+
+237
+00:28:45.100 --> 00:28:45.430
+Adrian Ezequiel Mart�nez: Claro.
+
+238
+00:28:45.430 --> 00:28:54.679
+Sofia Libertad Velazco Montagna: No es el único. Hay varios. Por eso, por eso me rechocó que dijeras lamentable que se regule fue como que.
+
+239
+00:28:54.950 --> 00:29:00.199
+Adrian Ezequiel Mart�nez: Sí Ta: tal vez tendría que haber dicho, lamentablemente, por el uso de de datos. Ahí está
+
+240
+00:29:00.610 --> 00:29:13.190
+Adrian Ezequiel Mart�nez: este, pero sí pue es un Es un caso extremo el que comentas hay de haber un montón. No, no digo que sea el único, debe ser un caso extremo, y y mucha gente no
+
+241
+00:29:13.520 --> 00:29:18.469
+Adrian Ezequiel Mart�nez: no interpreta lo que dice la la I A, y lo lleva al pie de la letra.
+
+242
+00:29:18.610 --> 00:29:24.760
+Adrian Ezequiel Mart�nez: y suelen pasar, o pueden pasar cosas como la la que comentas totalmente. Sí, Sí, Sí.
+
+243
+00:29:25.240 --> 00:29:30.479
+Sofia Libertad Velazco Montagna: Se utilizan como chat bot de acompañamiento. No sé, se.
+
+244
+00:29:30.480 --> 00:29:30.880
+Adrian Ezequiel Mart�nez: Sí, Sí.
+
+245
+00:29:30.880 --> 00:29:32.430
+Sofia Libertad Velazco Montagna: De que.
+
+246
+00:29:32.430 --> 00:29:33.410
+Adrian Ezequiel Mart�nez: Uso para.
+
+247
+00:29:33.410 --> 00:29:34.570
+Sofia Libertad Velazco Montagna: Total.
+
+248
+00:29:34.570 --> 00:29:48.269
+Adrian Ezequiel Mart�nez: Yo tengo un agente, hay agente. Bueno, todo lo podemos hacer. No, no soy el único. Vos le lo puedes utilizar como pa para hablar idiomas. Tu Puedes te armas, un un bot y que te tire todos los días
+
+249
+00:29:48.460 --> 00:29:56.569
+Adrian Ezequiel Mart�nez: en determinados horarios, frases en en el idioma que que vos estés estudiando o en que quieras mantener lo que sea
+
+250
+00:29:56.930 --> 00:30:04.180
+Adrian Ezequiel Mart�nez: y te salta una alerta en el teléfono de un mensaje y interactuar 2 o 3 palabras.
+
+251
+00:30:04.430 --> 00:30:10.520
+Adrian Ezequiel Mart�nez: y lo utilizas como entrenamiento tiene tiene bastantes deficiencias, pero cada vez va mejorando.
+
+252
+00:30:10.810 --> 00:30:16.939
+Adrian Ezequiel Mart�nez: Este tiene cosas útiles como esa cosas no tan buenas como la que la que acabas de contar.
+
+253
+00:30:17.180 --> 00:30:18.150
+Adrian Ezequiel Mart�nez: Este.
+
+254
+00:30:18.150 --> 00:30:20.959
+Sofia Libertad Velazco Montagna: También se utiliza para la guerra. O sea, se está.
+
+255
+00:30:20.960 --> 00:30:22.370
+Adrian Ezequiel Mart�nez: Totalmente. Sí. Sí.
+
+256
+00:30:22.370 --> 00:30:23.150
+Sofia Libertad Velazco Montagna: Como es.
+
+257
+00:30:23.150 --> 00:30:25.420
+Adrian Ezequiel Mart�nez: Bueno, lo lo lo estamos viendo actualmente. Eso.
+
+258
+00:30:25.420 --> 00:30:35.239
+Eduardo Manuel Rocha: A Adrián. Vos. Sabes que bue en su momento cuando yo la cursénis estábamos hablando hace 2 años, 3 crisis ni se sabía qué carajo era echar? G, P, T, Cuando vos le preguntas algo de
+
+259
+00:30:35.980 --> 00:30:41.869
+Eduardo Manuel Rocha: de inyección de código, por ejemplo, te te te da una mano o te dice, no loco. Esto es malicioso.
+
+260
+00:30:42.580 --> 00:30:43.910
+Eduardo Manuel Rocha: Depende del prongun.
+
+261
+00:30:44.120 --> 00:30:44.500
+Adrian Ezequiel Mart�nez: Exacto.
+
+262
+00:30:45.000 --> 00:30:45.819
+Exequiel Alvarez Bianco: El que.
+
+263
+00:30:45.820 --> 00:30:48.010
+Eduardo Manuel Rocha: Bonito que te portás bien. No pasa nada.
+
+264
+00:30:48.430 --> 00:30:50.450
+Exequiel Alvarez Bianco: Que hacer de forma educativa.
+
+265
+00:30:50.460 --> 00:30:57.510
+Adrian Ezequiel Mart�nez: Muy diplomático y y encubrírselo en el texto, en el.
+
+266
+00:30:57.510 --> 00:31:00.850
+Eduardo Manuel Rocha: Debería protegerme. Si me quieren atacar algo así.
+
+267
+00:31:00.850 --> 00:31:04.200
+Adrian Ezequiel Mart�nez: No, no hubo un cambio muy grande. Eso es verdad.
+
+268
+00:31:04.420 --> 00:31:08.399
+Adrian Ezequiel Mart�nez: porque vos al comienzo le podías decir armame un prom, para
+
+269
+00:31:08.660 --> 00:31:12.400
+Adrian Ezequiel Mart�nez: ya lo vamos a ver más adelante, para va a ser un login.
+
+270
+00:31:12.800 --> 00:31:22.150
+Adrian Ezequiel Mart�nez: un un una inyección para ver, para hacer un login y te respondía. No puedo hacer eso, o te o te directamente te pateaba
+
+271
+00:31:22.460 --> 00:31:28.160
+Adrian Ezequiel Mart�nez: diciéndote oso que no estoy autorizado a hacer eso.
+
+272
+00:31:28.470 --> 00:31:41.229
+Adrian Ezequiel Mart�nez: Entonces actualmente se lo lo están. Este amasando. Lo están a aligerando. Y también está la ayuda de los prom que si no funciona con 1 probás con otro. Y lo más probable es que te
+
+273
+00:31:41.490 --> 00:31:43.140
+Adrian Ezequiel Mart�nez: que que te tire una idea.
+
+274
+00:31:44.040 --> 00:31:52.160
+Adrian Ezequiel Mart�nez: Entonces está está el el modo. Yo no lo conozco. No, no lo probé, pero lo puedes poner como en modo modo hacker modo malo.
+
+275
+00:31:52.510 --> 00:32:00.710
+Adrian Ezequiel Mart�nez: y te responde hasta incluso te puede hacer que te responda de de manera no diplomática.
+
+276
+00:32:01.210 --> 00:32:03.049
+Adrian Ezequiel Mart�nez: por no decir este otras cosas.
+
+277
+00:32:03.420 --> 00:32:09.149
+Adrian Ezequiel Mart�nez: Y Co con un prom, lo lo lo logras. El famoso. Hola sos el experto en
+
+278
+00:32:09.750 --> 00:32:21.889
+Adrian Ezequiel Mart�nez: y me podés decir, o lo que acabaron de decir. De te comenté. Recién estoy estudiando es sólo con fines educativos y te empieza a guiar hasta que le encontras la vuelta de cómo llevarlo
+
+279
+00:32:22.140 --> 00:32:26.180
+Adrian Ezequiel Mart�nez: y magia, obtuviste tu resultado.
+
+280
+00:32:27.480 --> 00:32:39.030
+Mariana D'odorico: Cuando hice la la diplomatura en ciberseguridad. Justamente yo lo que le decía, estoy estudiando una diplomatura y ciberseguridad. Estoy en el entorno de Cari Linux. Y con eso me decía lo que quería.
+
+281
+00:32:39.030 --> 00:32:39.450
+Adrian Ezequiel Mart�nez: Mhm.
+
+282
+00:32:39.450 --> 00:32:42.349
+Mariana D'odorico: Estás haciendo en fines educativos, listo y me tiraba todo.
+
+283
+00:32:42.350 --> 00:32:42.870
+Adrian Ezequiel Mart�nez: Ah.
+
+284
+00:32:43.040 --> 00:32:47.209
+Adrian Ezequiel Mart�nez: si si si si no le das eso por ahí te te rechaza, te dice, no, no te puedo decir.
+
+285
+00:32:47.530 --> 00:32:48.750
+Mariana D'odorico: No así tal cual.
+
+286
+00:32:49.380 --> 00:32:50.170
+Adrian Ezequiel Mart�nez: Sí, Sí.
+
+287
+00:32:50.170 --> 00:32:51.590
+Camilo Cedrés Aguirre: No creo.
+
+288
+00:32:51.590 --> 00:32:54.589
+Sofia Libertad Velazco Montagna: ¿cuál es el cambio que dijo que se implementó hace poco
+
+289
+00:32:55.650 --> 00:32:57.400
+Sofia Libertad Velazco Montagna: con respecto a eso. Los Proms.
+
+290
+00:32:58.030 --> 00:33:09.189
+Adrian Ezequiel Mart�nez: Los aligeraron, te permitieron una mayor diversidad de consultas. Entonces es como cuando vos interactúas con alguien con una persona
+
+291
+00:33:09.370 --> 00:33:13.249
+Adrian Ezequiel Mart�nez: y medio como que lo tenés que aflojar un poquito de palabras
+
+292
+00:33:13.470 --> 00:33:22.880
+Adrian Ezequiel Mart�nez: o entrarle con las palabras justas para tratar de de que te responda lo que vos querés realmente o te dé una pista de lo que vos querés saber realmente.
+
+293
+00:33:23.230 --> 00:33:28.979
+Adrian Ezequiel Mart�nez: Entonces por ahí, si vas eso lo lo lo utilizamos mucho en auditoría. Si vas con una par con
+
+294
+00:33:29.070 --> 00:33:38.060
+Adrian Ezequiel Mart�nez: con algo muy necesito el control. Tal y la gente no sabe o no te lo quiere dar, me Y después lo lo vas guiando.
+
+295
+00:33:38.150 --> 00:33:52.960
+Adrian Ezequiel Mart�nez: En vez de hacer eso, le decís, bueno, ¿cómo te lo guias, tenés, algún control de usuarios tenés algún al algo muy particular, tenés, un procedimiento, y lo vas llevando lo mismo, haces con con chatg, P, T, o con cualquier guía
+
+296
+00:33:53.420 --> 00:33:59.479
+Adrian Ezequiel Mart�nez: Este, en vez de tirarle la pregunta en seco, lo vas guiando lo vas aflojando lo vas
+
+297
+00:33:59.620 --> 00:34:01.490
+Adrian Ezequiel Mart�nez: llevando a tu
+
+298
+00:34:02.430 --> 00:34:07.919
+Adrian Ezequiel Mart�nez: a tu a tu mundo, a a a tu cancha y y le sacas lo que quieres.
+
+299
+00:34:08.360 --> 00:34:14.129
+Adrian Ezequiel Mart�nez: Y una vez que aprendiste el el P. R. O M. Que que aprendiste como sacarlo, lo reutilizas a
+
+300
+00:34:14.570 --> 00:34:16.980
+Adrian Ezequiel Mart�nez: a cualquiera, a cualquiera, a cualquier chat.
+
+301
+00:34:17.630 --> 00:34:20.839
+Adrian Ezequiel Mart�nez: y lo más probable es que tengas una respuesta muy.
+
+302
+00:34:21.090 --> 00:34:23.460
+Adrian Ezequiel Mart�nez: muy cercana a la que F a la que te va dando
+
+303
+00:34:24.250 --> 00:34:31.440
+Adrian Ezequiel Mart�nez: como que el en cada modelo lo van ablandando un poquito más. Te Terminator se vuelve más bueno o más accesible.
+
+304
+00:34:31.909 --> 00:34:32.649
+Camilo Cedrés Aguirre: No.
+
+305
+00:34:33.880 --> 00:34:37.010
+Adrian Ezequiel Mart�nez: Es la experiencia mía también. no, no es, no es la ley, pero.
+
+306
+00:34:37.210 --> 00:34:39.690
+Sofia Libertad Velazco Montagna: Yo lo veo como un caballo de Troya. En realidad.
+
+307
+00:34:40.440 --> 00:34:42.619
+Adrian Ezequiel Mart�nez: Sí también. Sí.
+
+308
+00:34:42.889 --> 00:34:49.549
+Camilo Cedrés Aguirre: Yo, como decía, trabajo en el Estado en Uruguay, y acá también se está
+
+309
+00:34:49.849 --> 00:34:53.559
+Camilo Cedrés Aguirre: iniciando un proceso de regulación de
+
+310
+00:34:53.859 --> 00:34:58.179
+Camilo Cedrés Aguirre: del uso de vida a la interna de de Estado, digamos.
+
+311
+00:34:58.939 --> 00:35:02.809
+Camilo Cedrés Aguirre: y me parece que sí o sea, sí puede sonar un poco
+
+312
+00:35:03.449 --> 00:35:08.039
+Camilo Cedrés Aguirre: cuestionable decir que es lamentable de regular el uso de la vida.
+
+313
+00:35:08.409 --> 00:35:13.829
+Camilo Cedrés Aguirre: porque, bueno, eso también un uso desregulado
+
+314
+00:35:14.169 --> 00:35:22.069
+Camilo Cedrés Aguirre: trae aparejado cuestiones que justamente tienen que ver con la seguridad como filtraciones de datos como.
+
+315
+00:35:22.570 --> 00:35:23.190
+Adrian Ezequiel Mart�nez: Exacto.
+
+316
+00:35:23.330 --> 00:35:30.090
+Camilo Cedrés Aguirre: O sea así, No, no es que se plantea, por lo menos en este caso, y calculo que las empresas privadas.
+
+317
+00:35:30.240 --> 00:35:39.769
+Camilo Cedrés Aguirre: La situación es similar, no la inhabilitación del uso de la guía, pero sí acompasado con la educación de los usuarios.
+
+318
+00:35:40.130 --> 00:35:45.480
+Camilo Cedrés Aguirre: no está no se está en contra de que se use la vida, pero sí que se use dentro.
+
+319
+00:35:45.480 --> 00:35:46.330
+Adrian Ezequiel Mart�nez: Subconsciente.
+
+320
+00:35:47.410 --> 00:35:59.890
+Camilo Cedrés Aguirre: Claro no, que yo suba una parte de un o sea, un un proyecto de desarrollo de un producto por decir a la guía y que después le llegue a la competencia. Digamos.
+
+321
+00:35:59.890 --> 00:36:00.340
+Adrian Ezequiel Mart�nez: Mhm.
+
+322
+00:36:00.340 --> 00:36:05.339
+Camilo Cedrés Aguirre: Cuestiones que tienen que ver con datos personales cuestiones de cumplimiento legal.
+
+323
+00:36:05.520 --> 00:36:06.360
+Camilo Cedrés Aguirre: Funciona.
+
+324
+00:36:06.570 --> 00:36:12.329
+Camilo Cedrés Aguirre: Hay como varios riesgos en un uso así e indiscriminado me parece.
+
+325
+00:36:12.890 --> 00:36:17.150
+Adrian Ezequiel Mart�nez: Sí to totalmente y más, y cada vez se van a poner peor los riesgos.
+
+326
+00:36:17.910 --> 00:36:26.000
+Adrian Ezequiel Mart�nez: Este, bueno, todos lo sabemos. Estamos estamos estudiando esta esta carrera, este
+
+327
+00:36:26.170 --> 00:36:33.730
+Adrian Ezequiel Mart�nez: to Todos sabemos lo lo que conlleva regalar un dato entre comillas o una foto.
+
+328
+00:36:34.100 --> 00:36:36.410
+Adrian Ezequiel Mart�nez: Este, lo que lo que puede traer aparejado
+
+329
+00:36:36.520 --> 00:36:40.589
+Adrian Ezequiel Mart�nez: este y a eso súmale I A, y
+
+330
+00:36:41.040 --> 00:36:44.010
+Adrian Ezequiel Mart�nez: es complejo, es complicado, Sería la palabra.
+
+331
+00:36:44.690 --> 00:36:45.330
+Adrian Ezequiel Mart�nez: Así que.
+
+332
+00:36:45.330 --> 00:36:46.200
+Candela Lis: Profesor.
+
+333
+00:36:46.290 --> 00:36:47.280
+Adrian Ezequiel Mart�nez: Sí.
+
+334
+00:36:47.280 --> 00:36:55.039
+Candela Lis: Te puedo hacer una consulta que no tiene que ver con el debate, pero quería saber si se toma asistencia, porque yo, personalmente, hoy me tengo que ir antes y si.
+
+335
+00:36:55.040 --> 00:37:00.560
+Adrian Ezequiel Mart�nez: Ahí llegamos a Ahora llegamos a eso. Ahora llegamos a la región. Se abrió un debate divertido
+
+336
+00:37:00.870 --> 00:37:06.759
+Adrian Ezequiel Mart�nez: y ahora llegamos, Bueno, seguimos con con más recursos recomendados.
+
+337
+00:37:07.350 --> 00:37:11.910
+Adrian Ezequiel Mart�nez: Seguramente conozca Nowass, que es un
+
+338
+00:37:12.440 --> 00:37:22.339
+Adrian Ezequiel Mart�nez: es, es una organización muy, muy reconocida e importante de de seguridad web solamente escucharon el top 10 de Owas.
+
+339
+00:37:22.780 --> 00:37:27.649
+Adrian Ezequiel Mart�nez: Este que lo es súper recomendable, es es un un ranking de
+
+340
+00:37:28.000 --> 00:37:31.550
+Adrian Ezequiel Mart�nez: de de vulnerabili de las vulnerabilidades.
+
+341
+00:37:32.130 --> 00:37:38.879
+Adrian Ezequiel Mart�nez: Este más ma más más rankeadas y más complicadas, más críticas
+
+342
+00:37:39.130 --> 00:37:44.880
+Adrian Ezequiel Mart�nez: en base a un a un montón de de puntuaciones de ratings y
+
+343
+00:37:46.020 --> 00:37:52.150
+Adrian Ezequiel Mart�nez: y ofrece herramientas para entrenarlas. Información muy importante, la verdad recomendable.
+
+344
+00:37:52.460 --> 00:38:02.370
+Adrian Ezequiel Mart�nez: Lo mismo ocurre con con la red de de desarrollo de de Mozilla son está más para el lado de los desarrolladores.
+
+345
+00:38:02.790 --> 00:38:09.680
+Adrian Ezequiel Mart�nez: Está más vista de la de la interacción con el desarrollo y Ahora vamos a
+
+346
+00:38:09.920 --> 00:38:20.809
+Adrian Ezequiel Mart�nez: a lo rico, que es lo que comentaban recién la La materia está dividida en cu en un par de unidades, y cada unidad tiene diversos temas.
+
+347
+00:38:21.380 --> 00:38:23.859
+Adrian Ezequiel Mart�nez: Los que los que vamos a ver
+
+348
+00:38:24.070 --> 00:38:32.760
+Adrian Ezequiel Mart�nez: son son los los que están. Acá Por ejemplo, introducción, arquitectura, tecnología. Vamos a ver Owas, también. Vamos a
+
+349
+00:38:34.600 --> 00:38:38.559
+Adrian Ezequiel Mart�nez: a utilizar a algunas máquinas virtuales.
+
+350
+00:38:39.540 --> 00:38:47.240
+Adrian Ezequiel Mart�nez: Este vamos a introducir herramientas como Proxy. Vamos a interceptar tráfico, cosas un poquito más
+
+351
+00:38:47.490 --> 00:38:54.780
+Adrian Ezequiel Mart�nez: más divertidas por ir al comienzo, les va a resultar un poquito pesado, porque es muy teórico, pero después este
+
+352
+00:38:54.980 --> 00:38:56.039
+Adrian Ezequiel Mart�nez: va a ir Solo
+
+353
+00:38:57.510 --> 00:39:05.290
+Adrian Ezequiel Mart�nez: después tenemos una una unidad de vulnerabilidades donde vamos a ver lo que, por ejemplo, lo que veníamos conversando recién
+
+354
+00:39:05.840 --> 00:39:20.289
+Adrian Ezequiel Mart�nez: este, donde no s la idea no es solamente ver teoría, sino seguramente tengamos algún algún laboratorio levantemos algún alguna máquina y propongamos al algunos ejercicios como para tratar de
+
+355
+00:39:20.890 --> 00:39:22.400
+Adrian Ezequiel Mart�nez: de de entenderlo.
+
+356
+00:39:23.550 --> 00:39:26.850
+Adrian Ezequiel Mart�nez: Este a acá se van a divertir un montón con estos temas.
+
+357
+00:39:27.020 --> 00:39:29.509
+Adrian Ezequiel Mart�nez: Lo Lo lo doy por hecho.
+
+358
+00:39:30.430 --> 00:39:32.990
+Adrian Ezequiel Mart�nez: Después hay criptografía.
+
+359
+00:39:33.530 --> 00:39:35.030
+Adrian Ezequiel Mart�nez: Este
+
+360
+00:39:35.430 --> 00:39:41.710
+Adrian Ezequiel Mart�nez: no, no. La La idea de la de de la materia no es que hagan matemática, no es que hagan una serie y digan
+
+361
+00:39:41.960 --> 00:39:49.390
+Adrian Ezequiel Mart�nez: y a y armen un un algoritmo con alguna serie media rebuscada si no es entender cómo funciona la criptografía
+
+362
+00:39:49.770 --> 00:39:54.239
+Adrian Ezequiel Mart�nez: simétrica asimétrica certificados, jugar un poquito con los hash.
+
+363
+00:39:54.610 --> 00:40:04.190
+Adrian Ezequiel Mart�nez: este. Porque más adelante vamos a ver https y como todos sabemos, este
+
+364
+00:40:04.310 --> 00:40:07.420
+Adrian Ezequiel Mart�nez: sin H, T, T, P, S, no habría seguridad.
+
+365
+00:40:07.790 --> 00:40:09.050
+Adrian Ezequiel Mart�nez: Es como un eslogan.
+
+366
+00:40:10.070 --> 00:40:12.330
+Adrian Ezequiel Mart�nez: ¿qué ¿Qué suele ser? ¿qué suele pegar
+
+367
+00:40:12.790 --> 00:40:17.339
+Adrian Ezequiel Mart�nez: el en la unidad en la última unidad.
+
+368
+00:40:17.380 --> 00:40:33.170
+Adrian Ezequiel Mart�nez: Vamos a ver contramedidas. Protección contraataques harden in Waff. Por ejemplo, ¿qué más me estoy perdiendo? Está bien seguridad en el desarrollo, tipos de de testing estáticos dinámicos.
+
+369
+00:40:33.420 --> 00:40:41.000
+Adrian Ezequiel Mart�nez: Claro, la la idea es que se entienda que la seguridad no no es el el parche
+
+370
+00:40:41.340 --> 00:40:48.829
+Adrian Ezequiel Mart�nez: a un montón de cosas, sino que es parte del ciclo de vida de de sistemas. Actualmente
+
+371
+00:40:51.650 --> 00:40:56.260
+Adrian Ezequiel Mart�nez: esto ta es ya más adentrado a la
+
+372
+00:40:56.830 --> 00:41:01.049
+Adrian Ezequiel Mart�nez: a a las clases. Van a haber laboratorios y un T. P.
+
+373
+00:41:01.360 --> 00:41:08.979
+Adrian Ezequiel Mart�nez: Los laboratorios van a ser prácticos. No es necesario que entreguen nada en los laboratorios, pero sí es recomendable que que los hagan.
+
+374
+00:41:09.690 --> 00:41:19.400
+Adrian Ezequiel Mart�nez: porque ayuda a afianzar un montón de de temas. Y es divertido. Este a mí me pasaba que cuando cursaba, tenía 3 4 materias y se me juntaban un montón de cosas
+
+375
+00:41:19.650 --> 00:41:25.420
+Adrian Ezequiel Mart�nez: este entre trabajo y y vida personal que todos tenemos, pero
+
+376
+00:41:25.770 --> 00:41:31.430
+Adrian Ezequiel Mart�nez: seguirlos este ayuda un montón. Doy Doy doy fe de eso.
+
+377
+00:41:31.770 --> 00:41:36.619
+Adrian Ezequiel Mart�nez: Vamos a utilizar máquinas virtuales con aplicaciones vulnerables.
+
+378
+00:41:36.960 --> 00:41:43.889
+Adrian Ezequiel Mart�nez: nada un poco más herramientas y y técnicas. Yo me quedaría más con las técnicas que con las herramientas.
+
+379
+00:41:44.540 --> 00:41:53.330
+Adrian Ezequiel Mart�nez: El en el caso del T P va a haber que hacer un un pa, un par de entregas, un un informe y Lo
+
+380
+00:41:54.230 --> 00:42:00.119
+Adrian Ezequiel Mart�nez: Lo que hay que tener en cuenta es que en el caso de los laboratorios no pasa nada.
+
+381
+00:42:00.270 --> 00:42:18.319
+Adrian Ezequiel Mart�nez: Pero en el caso del T, P, que ya le le voy a comentar más adelante. Va a ser individual. No, no se puede realizar en en grupo si entre ustedes. Las consultas no no pasa nada. Pero cuando ent hacen la entrega del del final del T, P final, este va a ser individual.
+
+382
+00:42:19.260 --> 00:42:26.690
+Adrian Ezequiel Mart�nez: Y acá la pregunta, este importante es cómo se aprueba la materia.
+
+383
+00:42:27.860 --> 00:42:35.380
+Adrian Ezequiel Mart�nez: Va a haber que hacer un un es muchas de muchas de estas de estos puntos viene de del departamento
+
+384
+00:42:35.930 --> 00:42:37.440
+Adrian Ezequiel Mart�nez: Este.
+
+385
+00:42:37.640 --> 00:42:42.859
+Adrian Ezequiel Mart�nez: Así que este, si muchas veces este
+
+386
+00:42:44.210 --> 00:42:47.080
+Adrian Ezequiel Mart�nez: es bastante difícil aflojarle un poquito
+
+387
+00:42:47.340 --> 00:42:55.630
+Adrian Ezequiel Mart�nez: este. Pero si hay algún caso particular o algo, lo vemos por privado, no no hay inconveniente que
+
+388
+00:42:56.250 --> 00:43:01.679
+Adrian Ezequiel Mart�nez: va va a haber que realizar un un mínimo de actividades, propuestas
+
+389
+00:43:01.980 --> 00:43:20.610
+Adrian Ezequiel Mart�nez: que son son 2, 2, 12. La idea es hacer 7 de las 12 las actividades no es lo que les comentaba antes de los de los laboratorios, sino la típica actividad que se encuentran en una unidad de de la materia. El famoso preguntas autoevaluación.
+
+390
+00:43:20.930 --> 00:43:32.400
+Adrian Ezequiel Mart�nez: Este, En E. En este caso hay que hacer 7 de de todas las propuestas. No importa el el el puntaje la nota en esas, pero sí importa que las hayan hecho
+
+391
+00:43:34.280 --> 00:43:43.790
+Adrian Ezequiel Mart�nez: participar en clase. Bueno, eso ya ya se da por descontado. Ya ya arrancamos con eso bastante bien el tema de de la concurrencia de de la
+
+392
+00:43:44.730 --> 00:43:50.750
+Adrian Ezequiel Mart�nez: de las clases. Vamos a tener 12 clases sin contar las de examen
+
+393
+00:43:51.170 --> 00:43:58.529
+Adrian Ezequiel Mart�nez: y se pide un 75 por 100 mínimo de asistencia son 9 clases.
+
+394
+00:43:58.930 --> 00:44:12.370
+Adrian Ezequiel Mart�nez: No, no tomo lista la lista. La tomo zoom. Esa es la la realidad. Este yo veo quién se conecta, quién se desconecta, etcétera. Así que cuando termina la clase me bajo esa listita y y listo. Despreocúpense.
+
+395
+00:44:13.400 --> 00:44:24.060
+Adrian Ezequiel Mart�nez: la recomendación es tener cámara y y el audio encendido no es una obligación. Si pueden genial. Yo, por ejemplo, hay veces que puede y hay veces que no este
+
+396
+00:44:24.760 --> 00:44:27.569
+Adrian Ezequiel Mart�nez: si si no se les complica y
+
+397
+00:44:27.680 --> 00:44:31.000
+Adrian Ezequiel Mart�nez: y no tienen problema. Se prende si no no pasa nada
+
+398
+00:44:32.580 --> 00:44:46.779
+Adrian Ezequiel Mart�nez: después este a probar, como siempre, el primer y el segundo parcial o los recuperatorios. Como saben, hay una tanda de recuperatorios dentro de la cursada y una fuera de la cursada
+
+399
+00:44:47.530 --> 00:44:53.600
+Adrian Ezequiel Mart�nez: acá Aclaro que es con proterning, porque es cal calculo que
+
+400
+00:44:54.180 --> 00:44:57.739
+Adrian Ezequiel Mart�nez: se habrán hecho muchas materias con el famoso respondus.
+
+401
+00:44:58.280 --> 00:45:02.449
+Adrian Ezequiel Mart�nez: Este año, El respondus tiene un agregado que es una segunda Cámara.
+
+402
+00:45:02.770 --> 00:45:04.820
+Adrian Ezequiel Mart�nez: Yo la la probé estos días.
+
+403
+00:45:05.030 --> 00:45:06.370
+Adrian Ezequiel Mart�nez: Este
+
+404
+00:45:07.480 --> 00:45:17.220
+Adrian Ezequiel Mart�nez: no N: no es nada complicado. Es un un control más que se agrega, al que que al que ya tenemos, que es la camarita frontal, como todos lo usamos.
+
+405
+00:45:17.330 --> 00:45:21.280
+Adrian Ezequiel Mart�nez: Este Bueno, ahora se agrega una que te tenés que tener el paneo
+
+406
+00:45:21.430 --> 00:45:33.709
+Adrian Ezequiel Mart�nez: durante todo el examen de de la pantalla del teclado y de y tuyo que se vea que no no tenés nada en el entorno hay una manera muy hay un ángulo particular que hay que tener
+
+407
+00:45:33.970 --> 00:45:39.599
+Adrian Ezequiel Mart�nez: este que que que es acordado, que yo hice un un instructivo y
+
+408
+00:45:39.750 --> 00:45:49.290
+Adrian Ezequiel Mart�nez: y genere un un examen de prueba nuevamente sin notas solamente para probar que que se puede configurar y que tienen el ángulo ¿correcto?
+
+409
+00:45:49.600 --> 00:45:50.580
+Adrian Ezequiel Mart�nez: Así que
+
+410
+00:45:50.710 --> 00:45:57.940
+Adrian Ezequiel Mart�nez: pueden jugar cuantas veces quieran y y probarlo. El tema de la segunda cámara es cuando hacen entran a
+
+411
+00:45:58.170 --> 00:46:11.459
+Adrian Ezequiel Mart�nez: respondus que les dicen: vas a configurar tu cámara. Vas a sacarte la foto tuya, la del documento, etcétera. En 1 de esos pasos les aparece un Q. R. El Celu Escanean, el Q, R
+
+412
+00:46:11.760 --> 00:46:13.210
+Adrian Ezequiel Mart�nez: y
+
+413
+00:46:13.610 --> 00:46:22.150
+Adrian Ezequiel Mart�nez: y se les levanta la camarita frontal del del cerú y listo. Durante todo el examen, tienen que tener apuntando con la cámara frontal
+
+414
+00:46:23.030 --> 00:46:28.679
+Adrian Ezequiel Mart�nez: un determinado plano, que es lo que les comentaba recién una determinada vista y listo.
+
+415
+00:46:28.830 --> 00:46:35.989
+Adrian Ezequiel Mart�nez: Cuando se termina el examen, se se cortan la la el el respondus y baja todas las cámaras
+
+416
+00:46:36.220 --> 00:46:42.039
+Adrian Ezequiel Mart�nez: No, No, no es otro el control. Este acá este.
+
+417
+00:46:42.600 --> 00:46:48.139
+Adrian Ezequiel Mart�nez: lo lo importante, a saber, es que esta la la filmación de
+
+418
+00:46:48.390 --> 00:46:51.979
+Adrian Ezequiel Mart�nez: de que que S. ¿qué se lleva adelante en los exámenes.
+
+419
+00:46:52.120 --> 00:46:54.059
+Adrian Ezequiel Mart�nez: Este de cualquiera de las 2 cámaras.
+
+420
+00:46:54.220 --> 00:47:03.949
+Adrian Ezequiel Mart�nez: Este dura todo el cuatrimestre. Cuando termina el cuatrimestre, se se se borra todo este. Doy fe.
+
+421
+00:47:04.320 --> 00:47:10.430
+Adrian Ezequiel Mart�nez: Eso se llama derecho al olvido. Este doy fe y
+
+422
+00:47:10.740 --> 00:47:20.009
+Adrian Ezequiel Mart�nez: y que las las clases que que estamos grabando, que vamos teniendo quedan grabadas disponibles, perdón por 30 días en en la plataforma.
+
+423
+00:47:20.220 --> 00:47:29.060
+Adrian Ezequiel Mart�nez: A modo de recomendación, hay plugins que te permiten bajar los vídeos de Zoom, o sea, entras a
+
+424
+00:47:29.560 --> 00:47:33.780
+Adrian Ezequiel Mart�nez: hablar, va a ser las clases sincrónicas y hay plugines que
+
+425
+00:47:34.070 --> 00:47:50.209
+Adrian Ezequiel Mart�nez: que podés tener en en el Browser que que utilices que te dejan bajar el vídeo de la clase de zoom. Tanto el audio como el sonido, el audio o el video, o todo junto no como como un vídeo normal con audio. Este es súper recomendable
+
+426
+00:47:50.380 --> 00:47:53.809
+Adrian Ezequiel Mart�nez: porque después de los 30 días como les comentaba antes.
+
+427
+00:47:53.930 --> 00:47:59.869
+Adrian Ezequiel Mart�nez: tiende a desaparecer el contenido. Y está bueno tener un respaldo de
+
+428
+00:48:00.420 --> 00:48:03.399
+Adrian Ezequiel Mart�nez: Po por para repasar algún concepto o algo.
+
+429
+00:48:04.250 --> 00:48:13.870
+Adrian Ezequiel Mart�nez: Ese. Otro Otro punto importante es entregar el tiempo y forma al T, P. Defenderlo y aprobarlo. Obviamente.
+
+430
+00:48:14.230 --> 00:48:18.079
+Adrian Ezequiel Mart�nez: el tema de de defenderlo. Al ser un
+
+431
+00:48:19.210 --> 00:48:26.220
+Adrian Ezequiel Mart�nez: un un T P de de unipersonal, No, no grupal individual, no me salía disculpen.
+
+432
+00:48:26.350 --> 00:48:44.169
+Adrian Ezequiel Mart�nez: Estoy evaluando en en ocasiones anteriores. E el T. P tenía una cierta dinámica, y te tenías que grabar vos haciéndola. Esa dinámica mostrabas una camarita chiquitita acá arriba donde se te veía Voz: y vos hacías tu. T, P:
+
+433
+00:48:44.230 --> 00:48:51.100
+Adrian Ezequiel Mart�nez: Y E, El T. P. Eran 10, 15 min, como mucho, No es una hora grabándote ni hablando.
+
+434
+00:48:51.400 --> 00:48:52.650
+Adrian Ezequiel Mart�nez: Este.
+
+435
+00:48:52.930 --> 00:48:56.350
+Adrian Ezequiel Mart�nez: Así que más allá de del informe que se entrega
+
+436
+00:48:56.590 --> 00:49:08.079
+Adrian Ezequiel Mart�nez: aprobar el final que puede ser oral u o escrito. Lo más probable es que sea escrito, porque la instancia oral es la de la grabación del Pp, seguramente
+
+437
+00:49:08.740 --> 00:49:11.939
+Adrian Ezequiel Mart�nez: y acá no se asusten, como es el examen.
+
+438
+00:49:12.590 --> 00:49:15.040
+Adrian Ezequiel Mart�nez: El
+
+439
+00:49:15.270 --> 00:49:25.930
+Adrian Ezequiel Mart�nez: primero, el el horario, El examen va a ser en horario de clases. Sabemos que todos estamos disponibles en en ese horario, así que va a ser de 19 a
+
+440
+00:49:26.100 --> 00:49:27.390
+Adrian Ezequiel Mart�nez: 22.
+
+441
+00:49:27.390 --> 00:49:32.090
+Sofia Libertad Velazco Montagna: Disculpe, Argentina con exámenes se refiere a examen final o al parcial.
+
+442
+00:49:33.110 --> 00:49:36.560
+Adrian Ezequiel Mart�nez: El el final lo
+
+443
+00:49:37.490 --> 00:49:42.920
+Adrian Ezequiel Mart�nez: lo lo dictamina, el departamento, o sea, el como todos los finales te dicen, es el día tal a tal hora
+
+444
+00:49:43.440 --> 00:49:45.379
+Adrian Ezequiel Mart�nez: y no hay, No, no tenemos.
+
+445
+00:49:45.380 --> 00:49:50.980
+Sofia Libertad Velazco Montagna: No sabía si estaba hablando del examen final o del par. Los parciales.
+
+446
+00:49:51.140 --> 00:49:59.680
+Adrian Ezequiel Mart�nez: Genial, buen buena edad. También me sirve para actualizar la Appt gracias del del parcial puntualmente.
+
+447
+00:50:00.040 --> 00:50:11.609
+Adrian Ezequiel Mart�nez: Este es es el en horario de clase. Este hay hay materias que me ha pasado a mí que te lo te lo habilitan o todo el día o o 2 3 días.
+
+448
+00:50:11.880 --> 00:50:19.900
+Adrian Ezequiel Mart�nez: Este. Pero bueno, es porque es modalidad a sincrónica. Al ser sincrónica, se supone que
+
+449
+00:50:20.400 --> 00:50:27.470
+Adrian Ezequiel Mart�nez: 1 está disponible en horario de clases. Por eso el examen es en en ese horario. Igualmente, si.
+
+450
+00:50:27.570 --> 00:50:46.240
+Adrian Ezequiel Mart�nez: por al por algo en particular me me dicen profe o o Adrin. Lo puedo tomar en más tarde porque corto de de trabajar esa hora tengo un viaje. Lo que sea este. Me avisan. Y vemos de le buscamos la vuelta de disponibilizarlo en
+
+451
+00:50:46.470 --> 00:50:51.130
+Adrian Ezequiel Mart�nez: en otro momento. No, no hay inconveniente con eso y
+
+452
+00:50:51.650 --> 00:51:01.800
+Adrian Ezequiel Mart�nez: no se asusten porque ven 100 preguntas. Son muy sencillas. Es múltiple choice repartidos entre teoría y práctica verdadero, falso.
+
+453
+00:51:01.960 --> 00:51:03.489
+Adrian Ezequiel Mart�nez: muy, muy sencilla.
+
+454
+00:51:03.770 --> 00:51:06.199
+Adrian Ezequiel Mart�nez: Y seguramente haya una o 2,
+
+455
+00:51:06.380 --> 00:51:11.250
+Adrian Ezequiel Mart�nez: como mucho, a a desarrollar un concepto, 2, 3 líneas.
+
+456
+00:51:11.970 --> 00:51:14.480
+Adrian Ezequiel Mart�nez: ¿qué es esto? Una definición y nada más.
+
+457
+00:51:15.120 --> 00:51:17.349
+Adrian Ezequiel Mart�nez: Pero no se asusten porque
+
+458
+00:51:17.670 --> 00:51:26.599
+Adrian Ezequiel Mart�nez: en en 3 h las 100 preguntas se hacen y más. Si son multipre show de aero falso, este les va a sobrar tiempo.
+
+459
+00:51:27.640 --> 00:51:34.450
+Adrian Ezequiel Mart�nez: ¿y por qué 100? También? Porque es más fácil para este
+
+460
+00:51:35.450 --> 00:51:42.900
+Adrian Ezequiel Mart�nez: control. Para validar el 60 por 100 de del parcial hay que tener el 60 por 100 del parcial.
+
+461
+00:51:43.060 --> 00:51:48.599
+Adrian Ezequiel Mart�nez: bien para tener el el 4, como pasa en todas las las materias.
+
+462
+00:51:48.850 --> 00:51:55.339
+Adrian Ezequiel Mart�nez: Este esta es una tablita. Si tenés el 66 por 100, tenés un 5. Y así,
+
+463
+00:51:56.110 --> 00:52:03.540
+Adrian Ezequiel Mart�nez: puntualmente, es. 60 preguntas. Son un 4, 66, son un 5, y así es más fácil de
+
+464
+00:52:03.780 --> 00:52:05.070
+Adrian Ezequiel Mart�nez: de controlar.
+
+465
+00:52:05.610 --> 00:52:08.450
+Adrian Ezequiel Mart�nez: Así que eso puntualmente.
+
+466
+00:52:08.450 --> 00:52:09.000
+Francisco Daurat: Profe y.
+
+467
+00:52:09.000 --> 00:52:11.449
+Ariel Alejandro Quintero: Perdón. El final es igual.
+
+468
+00:52:12.260 --> 00:52:19.490
+Adrian Ezequiel Mart�nez: El final sí lo lo preparo. Yo. Lo lo que no dispongo es el día y el horario, pero
+
+469
+00:52:19.630 --> 00:52:21.089
+Adrian Ezequiel Mart�nez: este no, no, no lo elijo. Ya.
+
+470
+00:52:21.090 --> 00:52:22.749
+Ariel Alejandro Quintero: Modalidad, pregunto, Dios también se.
+
+471
+00:52:22.750 --> 00:52:23.629
+Adrian Ezequiel Mart�nez: Sí sí me ha preguntado.
+
+472
+00:52:23.630 --> 00:52:24.480
+Ariel Alejandro Quintero: Okay.
+
+473
+00:52:24.480 --> 00:52:27.109
+Adrian Ezequiel Mart�nez: 100 preguntas. Y
+
+474
+00:52:27.860 --> 00:52:35.389
+Adrian Ezequiel Mart�nez: este, el el incluso lo mismo, tienen la misma franja de tiempo. Tres horitas. Entiendo que es
+
+475
+00:52:35.660 --> 00:52:37.999
+Adrian Ezequiel Mart�nez: este, pero es la misma modalidad.
+
+476
+00:52:38.290 --> 00:52:45.230
+Adrian Ezequiel Mart�nez: 100 preguntas, multiple choice quédense tranquilos que no hay que desarrollar. No hay que vulnerar nada, nada. Es
+
+477
+00:52:45.580 --> 00:52:53.589
+Adrian Ezequiel Mart�nez: puramente teoría y y una a des una o 2 a desarrollar lo mismo. Dos, 3 líneas
+
+478
+00:52:54.080 --> 00:52:57.919
+Adrian Ezequiel Mart�nez: bien bien sencillas, puntuales y listo.
+
+479
+00:52:58.490 --> 00:53:02.490
+Adrian Ezequiel Mart�nez: Este, creo que no se me olvida ni se me escapa nada.
+
+480
+00:53:03.270 --> 00:53:08.410
+Adrian Ezequiel Mart�nez: Y si no, cuando tengan alguna duda o algo, lo lo vemos.
+
+481
+00:53:08.720 --> 00:53:14.279
+Adrian Ezequiel Mart�nez: Así que este la próxima dice dudas.
+
+482
+00:53:15.080 --> 00:53:19.589
+Adrian Ezequiel Mart�nez: Así que si tienen alguna duda de lo que conversamos recién antes de conversar
+
+483
+00:53:19.780 --> 00:53:29.650
+Adrian Ezequiel Mart�nez: antes de hacer un por una bauxita de 5 o 10 min, lo que necesiten y comenzar formalmente con con los contenidos. Los escucho.
+
+484
+00:53:29.920 --> 00:53:35.840
+Adrian Ezequiel Mart�nez: Yo te quería consultar si en todas las materias hay que grabarse ahora con la segunda Cámara, Sí,
+
+485
+00:53:36.390 --> 00:53:44.579
+Adrian Ezequiel Mart�nez: buena pregunta. Si a partir de de este lunes, que fue cuando comenzó el el cuatri. Este sí,
+
+486
+00:53:45.080 --> 00:53:46.190
+Adrian Ezequiel Mart�nez: todas las.
+
+487
+00:53:48.050 --> 00:53:55.269
+Eduardo Manuel Rocha: Me desaprobaron en diciembre ya con esa, con, o sea, si vos no aceptabas esa modalidad y no la hacías automáticamente te
+
+488
+00:53:56.670 --> 00:53:59.600
+Eduardo Manuel Rocha: te sobraban. Al final no pasó ya en diciembre.
+
+489
+00:54:00.550 --> 00:54:06.449
+Eduardo Manuel Rocha: no con las 2 cámaras, sino ponerlo así de costado viste que mire la cámara, mire la pantalla.
+
+490
+00:54:06.450 --> 00:54:13.070
+Adrian Ezequiel Mart�nez: Que tener un un este, un plano de filmación, este muy, muy puntual.
+
+491
+00:54:13.580 --> 00:54:21.469
+Adrian Ezequiel Mart�nez: Si se te tené el de la de frente, no la no la podés cambiar, obviamente. Pero la segunda cámara sí tiene que verse el
+
+492
+00:54:21.520 --> 00:54:33.770
+Adrian Ezequiel Mart�nez: la la pantalla de donde estás tomando el examen te tenés que es complicado e encontrarle el plano. Te tengo que cuando yo arme un un pequeño instructivo que subí ahí de la materia. Con 2 fotos.
+
+493
+00:54:34.000 --> 00:54:43.219
+Adrian Ezequiel Mart�nez: este me costó a a mí buscarle el plano para que se se se entienda. Pero tenés que verte. Vos. Tené aparecer en la misma pantalla, ¿Vos
+
+494
+00:54:43.560 --> 00:54:45.050
+Adrian Ezequiel Mart�nez: el escritorio.
+
+495
+00:54:45.540 --> 00:54:51.810
+Adrian Ezequiel Mart�nez: Los elementos que te permita la cátedra tener en en en el escritorio y la compu nada más.
+
+496
+00:54:52.460 --> 00:55:00.669
+Adrian Ezequiel Mart�nez: Te un una taza de café. No, no pasa nada, pero que se vea que no tenés nada que pueda sospechar de que
+
+497
+00:55:01.250 --> 00:55:03.710
+Adrian Ezequiel Mart�nez: de de que estás haciendo algo fraudulento.
+
+498
+00:55:05.980 --> 00:55:11.090
+Adrian Ezequiel Mart�nez: Y Y
+
+499
+00:55:11.740 --> 00:55:22.510
+Adrian Ezequiel Mart�nez: y sí, es desde este cuatrimestre desde el lunes. Ya lo empezaron a hacer obligatorio. Desconocía que ya estuvo en uso eso. La verdad no lo sabía. Pero si ya este 4.
+
+500
+00:55:22.510 --> 00:55:33.320
+Eduardo Manuel Rocha: Las 2 cámaras, No, pero ponerlo visto en instructivo que que te dicen que tenés que ponerlo de costado, que la cámara tiene que estar mirándote la hoja, el teclado, la pantalla. Tu absolutamente todo. Requisitos que
+
+501
+00:55:33.770 --> 00:55:34.320
+Eduardo Manuel Rocha: y.
+
+502
+00:55:34.320 --> 00:55:34.720
+Adrian Ezequiel Mart�nez: Sí.
+
+503
+00:55:34.870 --> 00:55:37.450
+Eduardo Manuel Rocha: No pude, no pude hacerlo. Y me de ese problema, la bronca.
+
+504
+00:55:37.450 --> 00:55:40.020
+Adrian Ezequiel Mart�nez: Sí. E. Esa es otra. Si no cumple con
+
+505
+00:55:40.830 --> 00:55:46.929
+Adrian Ezequiel Mart�nez: con con lo con lo que se pide, con con lo con lo que visualmente se necesita que que esté
+
+506
+00:55:47.410 --> 00:55:52.890
+Adrian Ezequiel Mart�nez: que esté controlado Este te te te pueden desaprobar? Sí, Sí, totalmente.
+
+507
+00:55:53.580 --> 00:55:59.430
+Adrian Ezequiel Mart�nez: Sí, Sí, sí es Ba bastante. Heavy, el cambio.
+
+508
+00:56:02.690 --> 00:56:09.890
+Adrian Ezequiel Mart�nez: pero bueno, es es un paso más, porque la la realidad es que si si estudiaste y sabes, este
+
+509
+00:56:10.640 --> 00:56:18.020
+Adrian Ezequiel Mart�nez: nada es que es como es como que el el profesor que te está mirando en el aula y y está dando vueltas.
+
+510
+00:56:18.930 --> 00:56:21.420
+Adrian Ezequiel Mart�nez: Así que es ¿es esa la idea
+
+511
+00:56:22.020 --> 00:56:26.679
+Adrian Ezequiel Mart�nez: no de despejar las dudas, de qué estudiaste realmente
+
+512
+00:56:27.000 --> 00:56:30.090
+Adrian Ezequiel Mart�nez: y de que no estás haciendo nada nada fuera de la ley
+
+513
+00:56:37.530 --> 00:56:42.059
+Adrian Ezequiel Mart�nez: Este. Así que si por ese lado viene el el cambio en el en el proctoring.
+
+514
+00:56:48.880 --> 00:56:50.580
+Adrian Ezequiel Mart�nez: sin que si
+
+515
+00:56:51.380 --> 00:57:05.520
+Adrian Ezequiel Mart�nez: si de momento no no tienen más este dudas. Este si se les tiene más adelante. Las vemos. No No hay inconveniente, pero de momento, si no, si no tienen dudas, si quieren, hacemos un una paradita de
+
+516
+00:57:05.990 --> 00:57:12.410
+Adrian Ezequiel Mart�nez: 5 o 10 min, lo lo que estimen la acordamos y seguimos después.
+
+517
+00:57:15.680 --> 00:57:23.620
+Adrian Ezequiel Mart�nez: No, no sé qué prefieran o le damos Derecho y son 0 4.
+
+518
+00:57:23.620 --> 00:57:24.200
+Camilo Cedrés Aguirre: Mhm.
+
+519
+00:57:25.310 --> 00:57:28.269
+Adrian Ezequiel Mart�nez: Este lo lo que digan ustedes, no, no hay inconveniente.
+
+520
+00:57:29.120 --> 00:57:34.189
+Exequiel Alvarez Bianco: Yo diría derecho, porque no, no vimos nada pesado solamente cómo va a ser la materia.
+
+521
+00:57:34.580 --> 00:57:34.969
+Mauro Agustín Cornali: No te.
+
+522
+00:57:34.970 --> 00:57:37.880
+Adrian Ezequiel Mart�nez: Lo que digan eso por mí. No, no tengo problema.
+
+523
+00:57:37.880 --> 00:57:38.740
+Francisco Daurat: Sí.
+
+524
+00:57:40.420 --> 00:57:49.719
+Mauricio Mauricio Adalian: Profe Ta: también una pregunta. La las clases suelen ser hasta las 10, se suele cortar un poco antes en cómo es eso.
+
+525
+00:57:51.440 --> 00:57:55.950
+Adrian Ezequiel Mart�nez: ¡qué buena pregunta. Lo ideal es que no exceda las 3 h.
+
+526
+00:57:56.700 --> 00:58:02.089
+Adrian Ezequiel Mart�nez: o sea, de 19 a 10 a 22. La La idea es que después de las 10
+
+527
+00:58:02.470 --> 00:58:05.909
+Adrian Ezequiel Mart�nez: este no, no, no, no tengamos clases.
+
+528
+00:58:06.510 --> 00:58:15.090
+Adrian Ezequiel Mart�nez: puede durar media hora. Puede durar 20 min, una hora. Lo lo lo lo que veamos, este
+
+529
+00:58:16.130 --> 00:58:18.250
+Adrian Ezequiel Mart�nez: no. No. No hay problema con eso.
+
+530
+00:58:18.440 --> 00:58:24.789
+Adrian Ezequiel Mart�nez: Es yo. Yo entiendo que me pasaba a mí también. Bueno, más ahora, con la diferencia horaria
+
+531
+00:58:24.950 --> 00:58:33.860
+Adrian Ezequiel Mart�nez: que venís de de laburar y muchas veces no cortás entre el laburo y la facultad y te queda la cabeza.
+
+532
+00:58:34.050 --> 00:58:35.290
+Adrian Ezequiel Mart�nez: este
+
+533
+00:58:35.710 --> 00:58:44.089
+Adrian Ezequiel Mart�nez: dada vueltas y a la noche, te te cuesta por ahí, conciliar el sueño, etcétera. Este. Así que si en algún momento dicen.
+
+534
+00:58:44.620 --> 00:58:59.300
+Adrian Ezequiel Mart�nez: che estoy quemado, ya estoy estoy cansado, podemos pasarlo para el próximo. La próxima clase. Lo vemos entre todos. Y listo, no, no hay inconveniente este. Los contenidos se llegan. No, no, no hay problema con eso. Se llegan a ver.
+
+535
+00:59:00.870 --> 00:59:04.290
+Adrian Ezequiel Mart�nez: Así que hoy puntualmente este.
+
+536
+00:59:04.420 --> 00:59:12.630
+Adrian Ezequiel Mart�nez: Hay 33 30 y algo de dipositi de diapositivas, este más sumadas a esta.
+
+537
+00:59:12.800 --> 00:59:15.630
+Adrian Ezequiel Mart�nez: pero son todas teóricas y y pasan rápido.
+
+538
+00:59:15.860 --> 00:59:20.130
+Adrian Ezequiel Mart�nez: Así que seguramente no no estemos hasta el final del día con
+
+539
+00:59:21.470 --> 00:59:25.020
+Adrian Ezequiel Mart�nez: con con la clase. Seguramente cortemos un cachito antes.
+
+540
+00:59:29.140 --> 00:59:30.300
+Mauricio Mauricio Adalian: Perfecto. Gracias.
+
+541
+00:59:31.140 --> 00:59:32.000
+Adrian Ezequiel Mart�nez: Por favor.
+
+542
+00:59:32.350 --> 00:59:34.600
+Adrian Ezequiel Mart�nez: Así que si les parece, arrancamos.
+
+543
+00:59:35.050 --> 00:59:43.980
+Adrian Ezequiel Mart�nez: y si quieren hacer un un stop en el medio, el micrófono está abierto y y listo.
+
+544
+00:59:45.420 --> 00:59:56.150
+Adrian Ezequiel Mart�nez: Vamos a arrancar con los primeros temas, que es networking como intro. Antes de
+
+545
+00:59:56.410 --> 01:00:01.680
+Adrian Ezequiel Mart�nez: de hablar de vulnerabilidades, exploten testing, etcétera. Lo
+
+546
+01:00:02.080 --> 01:00:05.780
+Adrian Ezequiel Mart�nez: lo ideal es entender cómo viajan los datos.
+
+547
+01:00:06.020 --> 01:00:15.249
+Adrian Ezequiel Mart�nez: básicamente porque una aplicación web no vive sola, o sea, que, po por ende, viven en en en la red
+
+548
+01:00:16.230 --> 01:00:17.740
+Adrian Ezequiel Mart�nez: este.
+
+549
+01:00:18.580 --> 01:00:22.809
+Adrian Ezequiel Mart�nez: Así que les presento los los temas a cubrir
+
+550
+01:00:25.120 --> 01:00:32.589
+Adrian Ezequiel Mart�nez: concepto de redes. Tc: P otros conceptos importantes que ya vamos a a a ver este.
+
+551
+01:00:32.970 --> 01:00:43.650
+Adrian Ezequiel Mart�nez: la traza de rutas de geolocalización. Un Un poquito de historia muy, muy breve, el D. N. S. Wis y herramientas. Básicamente, son los temas que
+
+552
+01:00:43.890 --> 01:01:00.699
+Adrian Ezequiel Mart�nez: que vamos a ver. L: La P, P, T, Si la quieren descargar y seguir en la clase y y y no mirar el El monitor, también la la pueden descargar. Los contenidos están para habilitarse en el momento que comienza la clase, y quedan hasta el final de
+
+553
+01:01:00.860 --> 01:01:06.050
+Adrian Ezequiel Mart�nez: del cuatrimestre. Y Y si no es así, me avisan y lo arreglo acá el
+
+554
+01:01:06.310 --> 01:01:11.450
+Adrian Ezequiel Mart�nez: al momento, seguramente le habré pifiado en alguna en alguna configuración.
+
+555
+01:01:12.230 --> 01:01:17.830
+Adrian Ezequiel Mart�nez: Bueno, arrancamos con con el primero, que es concepto de redes.
+
+556
+01:01:20.190 --> 01:01:27.740
+Adrian Ezequiel Mart�nez: Bueno, el primer concepto que que tenemos que que conocer es el layering.
+
+557
+01:01:28.680 --> 01:01:42.230
+Adrian Ezequiel Mart�nez: que la la definición sería. ¿qué es la arquitectura que divide la comunicación en capas independientes, donde cada una cumple una función específica y ofrece servicios a una capa superior
+
+558
+01:01:42.750 --> 01:01:43.880
+Adrian Ezequiel Mart�nez: y
+
+559
+01:01:44.640 --> 01:01:57.370
+Adrian Ezequiel Mart�nez: como qué qué podemos remarcar en este punto es la separación de responsabilidades. La interoperabilidad, palabra difícil de entre fabricantes
+
+560
+01:01:58.340 --> 01:02:04.370
+Adrian Ezequiel Mart�nez: y la facilidad para diagnosticar y y la seguridad. Obviamente, cada capa
+
+561
+01:02:04.920 --> 01:02:08.779
+Adrian Ezequiel Mart�nez: podés este separar la seguridad en capas en cada una.
+
+562
+01:02:10.020 --> 01:02:16.560
+Adrian Ezequiel Mart�nez: Y en este ejemplo podemos ver que las redes están y están diseñadas por capas
+
+563
+01:02:16.680 --> 01:02:23.539
+Adrian Ezequiel Mart�nez: y que cada capa confíe en la anterior sin saber cómo funciona. Este. Internamente, es como una caja negra.
+
+564
+01:02:23.770 --> 01:02:35.180
+Adrian Ezequiel Mart�nez: donde protocolo envía sin sin interesarle al al anterior lo que pasó y
+
+565
+01:02:35.700 --> 01:02:49.429
+Adrian Ezequiel Mart�nez: como, por ejemplo, lo el un comentario de de la imagen. Este cada cada capa tiene un contrato, una funciona como una caja negra, en realidad, donde, mientras se cumpla el input de de esa
+
+566
+01:02:49.920 --> 01:02:51.189
+Adrian Ezequiel Mart�nez: de esa caja.
+
+567
+01:02:51.700 --> 01:02:57.880
+Adrian Ezequiel Mart�nez: Este no importa lo lo que pasa dentro. Ya se sabe lo que lo que se va a retornar
+
+568
+01:02:58.270 --> 01:03:06.890
+Adrian Ezequiel Mart�nez: y Lo que se ve acá es que, por ejemplo, el Protocolo de Capa N. N Plus, 1 interactúa con el de Capa N y el de capa N
+
+569
+01:03:07.150 --> 01:03:14.350
+Adrian Ezequiel Mart�nez: vamos. No, No, hemos, No vamos a ponerle nombres. Este no sabe lo que pasa acá adentro, pero recibe el el input que
+
+570
+01:03:15.410 --> 01:03:23.280
+Adrian Ezequiel Mart�nez: que que veníamos comentando acá podemos este.
+
+571
+01:03:24.350 --> 01:03:28.209
+Adrian Ezequiel Mart�nez: Lo Lo interesante de este modelo
+
+572
+01:03:28.850 --> 01:03:33.190
+Adrian Ezequiel Mart�nez: es que si una capa falla, cualquiera de estas.
+
+573
+01:03:33.430 --> 01:03:36.460
+Adrian Ezequiel Mart�nez: El el sistema no compromete los datos.
+
+574
+01:03:36.590 --> 01:03:40.529
+Adrian Ezequiel Mart�nez: Es algo este muy, muy interesante de ver, porque
+
+575
+01:03:40.670 --> 01:03:49.810
+Adrian Ezequiel Mart�nez: este no tiene idea de los datos que maneja este Esta capa no tiene idea de lo que maneja esta y así sucesivamente.
+
+576
+01:03:50.760 --> 01:03:53.929
+Adrian Ezequiel Mart�nez: Entonces lo que tiene interesante es que aíslas.
+
+577
+01:03:54.370 --> 01:03:58.319
+Adrian Ezequiel Mart�nez: el el hecho de que los datos se puedan comprometer.
+
+578
+01:04:00.100 --> 01:04:06.429
+Adrian Ezequiel Mart�nez: Este es el famoso modelo Office, que todos lo seguramente lo escuchamos en algún en algún momento.
+
+579
+01:04:06.600 --> 01:04:16.249
+Adrian Ezequiel Mart�nez: Y la la definición del modelo sería que es un modelo teórico de 7 capas.
+
+580
+01:04:16.500 --> 01:04:19.240
+Adrian Ezequiel Mart�nez: podemos contar 1, 2, 3, 4, 5, 6, 7,
+
+581
+01:04:19.740 --> 01:04:26.120
+Adrian Ezequiel Mart�nez: que estandariza funciones de comunicaciones en en red y entre las capas
+
+582
+01:04:26.300 --> 01:04:31.810
+Adrian Ezequiel Mart�nez: contando de de abajo hacia arriba. Tenemos física enlace de datos de red.
+
+583
+01:04:32.270 --> 01:04:48.009
+Adrian Ezequiel Mart�nez: la capa de transporte, la de cesión, la de presentación y la de aplicación, falta la capa 8, que es la que todos conocemos como usuario. Pero este no hace al modelo o Z I real, sino a la a la creencia popular
+
+584
+01:04:48.760 --> 01:04:50.030
+Adrian Ezequiel Mart�nez: en
+
+585
+01:04:52.420 --> 01:05:05.880
+Adrian Ezequiel Mart�nez: como separación entre la capa. Tenemos que las primeras 3 capas están todas relacionadas a dispositivos de red, los que todos conocemos: Firewall, Switch Routers, Aps, etcétera.
+
+586
+01:05:06.370 --> 01:05:08.580
+Adrian Ezequiel Mart�nez: o el nombre que le querramos poner.
+
+587
+01:05:09.130 --> 01:05:14.859
+Adrian Ezequiel Mart�nez: Y las capas 4, 5, 6 y 7, está destinado a Host.
+
+588
+01:05:15.190 --> 01:05:20.349
+Adrian Ezequiel Mart�nez: N, No necesariamente son. Son fier, son son equipos.
+
+589
+01:05:23.920 --> 01:05:31.669
+Adrian Ezequiel Mart�nez: Lo Lo lindo de esto es que no es no es solo una teoría. Esto lo lo que Uti es lo utilizamos Normalmente, cuando vos haces una
+
+590
+01:05:32.360 --> 01:05:42.249
+Adrian Ezequiel Mart�nez: un un request, vamos a ponerle el el el nombre a a una A, P, I, o vas a consultar tu correo o lo que sea, est está ocurriendo todo esto.
+
+591
+01:05:42.770 --> 01:05:52.120
+Adrian Ezequiel Mart�nez: ¿vos estás acá arriba baja esta capa baja baja. O ocurre gran parte de estas especificaciones
+
+592
+01:05:53.510 --> 01:06:00.300
+Adrian Ezequiel Mart�nez: llega la física y después sube tic, Tic, Tic hasta que te llega la vista. Todo esto ocurre en
+
+593
+01:06:00.790 --> 01:06:08.449
+Adrian Ezequiel Mart�nez: 0 coma y es muy, es una forma muy, muy sencilla, muy mental
+
+594
+01:06:09.050 --> 01:06:15.980
+Adrian Ezequiel Mart�nez: de de diagnosticar problemas. Porque vos. Podés saber en en qué momento puedes tener indicios
+
+595
+01:06:16.110 --> 01:06:25.209
+Adrian Ezequiel Mart�nez: de en qué momento ocurrió algo. Si fue en la capa física, si fue en el enlace si fue en la sesión.
+
+596
+01:06:25.960 --> 01:06:31.729
+Adrian Ezequiel Mart�nez: si fue la presentación, se dio mal. Por ejemplo, si fue el usuario que metió mal un dedo.
+
+597
+01:06:33.850 --> 01:06:39.690
+Adrian Ezequiel Mart�nez: después tenemos otro concepto que seguramente todos conocemos.
+
+598
+01:06:40.100 --> 01:06:51.190
+Adrian Ezequiel Mart�nez: que es bastante crítico, que es el de encapsulación, que es el el proceso por el cual cada etapa cada capa agrega su propio encabezado
+
+599
+01:06:51.840 --> 01:06:53.950
+Adrian Ezequiel Mart�nez: como un un Rapper.
+
+600
+01:06:54.630 --> 01:07:01.520
+Adrian Ezequiel Mart�nez: En realidad es un Rapper al mom a a los agrega a los datos antes de transmitirlos.
+
+601
+01:07:01.940 --> 01:07:10.500
+Adrian Ezequiel Mart�nez: Y es como si un ejemplo práctico de esto es como como si quieres enviar un
+
+602
+01:07:11.040 --> 01:07:13.430
+Adrian Ezequiel Mart�nez: un un correo, un mail.
+
+603
+01:07:13.870 --> 01:07:19.440
+Adrian Ezequiel Mart�nez: Este. Lo lo que está ocurriendo es que tenés los dato el body.
+
+604
+01:07:19.560 --> 01:07:25.830
+Adrian Ezequiel Mart�nez: Después se agregan di distintos metadatos del
+
+605
+01:07:26.190 --> 01:07:35.849
+Adrian Ezequiel Mart�nez: de del cliente que estás utilizando Gmail Outlook, etcétera, se ac se agregan los los los los datos.
+
+606
+01:07:36.090 --> 01:07:47.860
+Adrian Ezequiel Mart�nez: valga la redundancia de todo el trasero que realiza ese ese correo hasta llegar al equipo físico y después se van descomponiendo en la vuelta
+
+607
+01:07:47.970 --> 01:07:51.950
+Adrian Ezequiel Mart�nez: y hasta que nos llega el mensaje que
+
+608
+01:07:52.100 --> 01:07:59.369
+Adrian Ezequiel Mart�nez: que quisimos pre de que hicimos algo, preguntar en en un correo. Y hasta que te llega la respuesta de ese correo, quise decir
+
+609
+01:08:00.460 --> 01:08:12.809
+Adrian Ezequiel Mart�nez: acá en o en la imagen, vemos cómo se va agregando un hyder. Y como se va encapsulando, no en el primero tenés un Mens, un un mensaje. En el segundo, vemos que se agregan
+
+610
+01:08:13.530 --> 01:08:15.870
+Adrian Ezequiel Mart�nez: el lo un hider.
+
+611
+01:08:16.479 --> 01:08:24.550
+Adrian Ezequiel Mart�nez: Y en el y en la tercera, capa un nuevamente un hyder encapsula el resto al mensaje y se agrega un hyder.
+
+612
+01:08:24.670 --> 01:08:31.489
+Adrian Ezequiel Mart�nez: Y y se va este componiendo de acuerdo al al modelo que tenemos acá arriba.
+
+613
+01:08:35.250 --> 01:08:40.890
+Adrian Ezequiel Mart�nez: Lo que lo que tiene de de interesante también que esto lo lo vamos a ver más adelante
+
+614
+01:08:41.050 --> 01:08:43.279
+Adrian Ezequiel Mart�nez: es que cada una de estas capas
+
+615
+01:08:43.550 --> 01:08:47.960
+Adrian Ezequiel Mart�nez: se puede inspeccionar vos podés ver que hay en determinadas capas
+
+616
+01:08:48.380 --> 01:08:55.479
+Adrian Ezequiel Mart�nez: y y una manera de validar que que esa capa no fue corrompida, no fue vulnerada, es porque tiene un hash.
+
+617
+01:08:55.899 --> 01:09:09.339
+Adrian Ezequiel Mart�nez: entonces se puede validar que si el hash cambi si el hash cambió la la la la capa, la mensajería que tiene esa capa. Este fue vulnerada, fue cambiada
+
+618
+01:09:09.740 --> 01:09:12.320
+Adrian Ezequiel Mart�nez: y y se encontró el problema
+
+619
+01:09:12.630 --> 01:09:18.290
+Adrian Ezequiel Mart�nez: se se cambió. El contenido original sería la la la palabra
+
+620
+01:09:20.040 --> 01:09:26.900
+Adrian Ezequiel Mart�nez: en el stack de de protocolo saca tam. Cada cada numerito es una de las capas que vimos recién que conversamos
+
+621
+01:09:27.229 --> 01:09:29.940
+Adrian Ezequiel Mart�nez: A acá Vemos cómo interactúa
+
+622
+01:09:30.200 --> 01:09:39.889
+Adrian Ezequiel Mart�nez: a distintos niveles: los host, el el host, el Switch, los Routers, hasta nuevamente llegar al Host. Básicamente, ¿cómo viaja un mensaje
+
+623
+01:09:41.149 --> 01:09:54.320
+Adrian Ezequiel Mart�nez: no tenés que cuando viaja el mensaje pasa por las 7 capas, de las cuales 2 le corresponden al Switch. Como vimos al comienzo de equipo de red.
+
+624
+01:09:54.720 --> 01:09:56.760
+Adrian Ezequiel Mart�nez: 3, le corresponden al router.
+
+625
+01:09:57.500 --> 01:10:06.059
+Adrian Ezequiel Mart�nez: Y nuevamente este en entra el hostel en juego con las 7 capas.
+
+626
+01:10:06.470 --> 01:10:16.000
+Adrian Ezequiel Mart�nez: Y por ejemplo, vemos que en la capa 3, que es la capa de red en el caso de interactúa con el router. Más que nada.
+
+627
+01:10:16.130 --> 01:10:21.779
+Adrian Ezequiel Mart�nez: si bien la mensajería aparece la la intervención de la capa aparece del lado del host.
+
+628
+01:10:22.140 --> 01:10:26.599
+Adrian Ezequiel Mart�nez: Vemos que aparece en el router, pero no en el switch, porque el switch es de capa 1, y 2
+
+629
+01:10:26.890 --> 01:10:31.169
+Adrian Ezequiel Mart�nez: es el el mensaje que que que nos podemos llevar de
+
+630
+01:10:31.350 --> 01:10:37.050
+Adrian Ezequiel Mart�nez: de esta imagen, que que es bastante útil muchas veces para entender que qué es cada capa
+
+631
+01:10:40.900 --> 01:10:48.920
+Adrian Ezequiel Mart�nez: Y llegamos a a un concepto nuevo y que es.
+
+632
+01:10:49.020 --> 01:10:51.090
+Adrian Ezequiel Mart�nez: Bueno, acá un una pregunta
+
+633
+01:10:52.230 --> 01:10:54.910
+Adrian Ezequiel Mart�nez: no no maliciosa, si no de
+
+634
+01:10:55.340 --> 01:11:00.500
+Adrian Ezequiel Mart�nez: de a abierta al público, es en qué,
+
+635
+01:11:00.850 --> 01:11:11.889
+Adrian Ezequiel Mart�nez: en qué E En la voy a reformular en donde creen que es mej que es más sencillo o mejor interceptar paquetes
+
+636
+01:11:12.660 --> 01:11:14.190
+Adrian Ezequiel Mart�nez: de.
+
+637
+01:11:14.190 --> 01:11:14.690
+Francisco Daurat: De red.
+
+638
+01:11:16.030 --> 01:11:23.160
+Adrian Ezequiel Mart�nez: Correcto. Sí, Correcto. Sí. Sí. Respuesta rápida, buenísimo.
+
+639
+01:11:24.950 --> 01:11:29.790
+Adrian Ezequiel Mart�nez: Pasamos al próximo concepto a los próximos temas. Perdón.
+
+640
+01:11:32.400 --> 01:11:35.470
+Adrian Ezequiel Mart�nez: Vamos a hablar de T, C, P,
+
+641
+01:11:35.660 --> 01:11:38.610
+Adrian Ezequiel Mart�nez: El famoso T, C, P, I, P.
+
+642
+01:11:39.130 --> 01:11:45.150
+Adrian Ezequiel Mart�nez: Tenemos que el es un modelo que está un modelo práctico
+
+643
+01:11:45.390 --> 01:11:52.630
+Adrian Ezequiel Mart�nez: que está dividido en 4 capas donde tenemos aplicación, transporte, la capa de Internet y la interfaz de red.
+
+644
+01:11:54.150 --> 01:11:59.049
+Adrian Ezequiel Mart�nez: y lo el uso más práctico que
+
+645
+01:11:59.450 --> 01:12:04.239
+Adrian Ezequiel Mart�nez: que le pu que que tenemos, el más a la mano es la famosa Internet.
+
+646
+01:12:07.380 --> 01:12:08.360
+Adrian Ezequiel Mart�nez: ¿
+
+647
+01:12:09.100 --> 01:12:12.980
+Adrian Ezequiel Mart�nez: Nada. Después, el la explicación de que tiene cada
+
+648
+01:12:13.290 --> 01:12:19.740
+Adrian Ezequiel Mart�nez: cada capa es, por ejemplo, de transporte que permite la administración de sesiones. Tenemos la
+
+649
+01:12:19.980 --> 01:12:26.509
+Adrian Ezequiel Mart�nez: la capa de interfaz de red que especifica la información de del envío físico de los datos.
+
+650
+01:12:27.460 --> 01:12:37.560
+Adrian Ezequiel Mart�nez: las, por ejemplo, la la señalización de eléctrica de de los bits entre los dispositivos ¿Y
+
+651
+01:12:39.110 --> 01:12:41.779
+Adrian Ezequiel Mart�nez: qué qué más remarcar? Acá
+
+652
+01:12:42.020 --> 01:12:48.249
+Adrian Ezequiel Mart�nez: Bueno, y el en la capa de de aplicación se definen los protocolos, en este caso. T. C. P:
+
+653
+01:12:50.280 --> 01:12:52.250
+Adrian Ezequiel Mart�nez: Después tenemos un
+
+654
+01:12:53.260 --> 01:13:02.839
+Adrian Ezequiel Mart�nez: un pequeño este diagrama que mu muestra algo que es, está, que que es bastante bastante importante
+
+655
+01:13:03.350 --> 01:13:16.050
+Adrian Ezequiel Mart�nez: que lo lo que vemos que Ethernet está en lo más bajo de de la cadena, que es el la entrada, el el el el frame de entrada, que es donde se chequea el el destino
+
+656
+01:13:17.190 --> 01:13:32.180
+Adrian Ezequiel Mart�nez: después. Tenemos que va subiendo. Y si tenemos lo el famoso I I, P, que se puede descomponer Ya lo vamos a ver más adelante si no es en la que viene este el el B, 4 y el B, 6, el
+
+657
+01:13:33.250 --> 01:13:38.640
+Adrian Ezequiel Mart�nez: y después este, el tenemos la capa de de transporte y donde vive la aplicación.
+
+658
+01:13:39.390 --> 01:13:44.069
+Adrian Ezequiel Mart�nez: en este caso, este en en en en un D, N, S. O en un servidor?
+
+659
+01:13:44.390 --> 01:13:45.579
+Adrian Ezequiel Mart�nez: H, T. T, B,
+
+660
+01:13:46.410 --> 01:13:53.710
+Adrian Ezequiel Mart�nez: Es una manera más práctica de ver cómo cómo interactúa el las capas del del modelo.
+
+661
+01:13:54.450 --> 01:13:56.829
+Francisco Daurat: Por qué Internet y no Internet.
+
+662
+01:13:59.140 --> 01:14:06.179
+Adrian Ezequiel Mart�nez: Porque Internet es todo lo que es. Es. Es el uso práctico de todo. T, C, P,
+
+663
+01:14:06.990 --> 01:14:15.430
+Adrian Ezequiel Mart�nez: vos. Cuando Cuando cuando es, es un tema de de palabras, no no pasa por por otro.
+
+664
+01:14:15.730 --> 01:14:21.140
+Adrian Ezequiel Mart�nez: por otro por otro lugar. Internet es el el el uso
+
+665
+01:14:21.350 --> 01:14:28.330
+Adrian Ezequiel Mart�nez: de de las de de todo el modelo Ethernet es el la parte del modelo.
+
+666
+01:14:28.590 --> 01:14:36.950
+Adrian Ezequiel Mart�nez: la la capa del modelo que hace referencia al al chequeo de de de las direcciones.
+
+667
+01:14:38.260 --> 01:14:41.859
+Adrian Ezequiel Mart�nez: No sé si fui medio rebuscado, Me parece.
+
+668
+01:14:41.860 --> 01:14:59.719
+Francisco Daurat: Sí, a mí me confunde un poco, porque como yo lo veo, champ lo tenía entendido de otra manera, como que Internet, O sea, como te dice la palabra, es un conjunto de redes interconectadas no que están todo el mundo y Internet es como, o sea, si Internet por cable, digamos, o al menos así lo tengo yo yo entendido. Por eso me confundía un poco.
+
+669
+01:15:00.470 --> 01:15:04.309
+Francisco Daurat: pero por cable.
+
+670
+01:15:04.450 --> 01:15:10.490
+Adrian Ezequiel Mart�nez: Ethernet no es el no. No hace referencia al cable. R. J: 45.
+
+671
+01:15:10.490 --> 01:15:11.220
+Eduardo Manuel Rocha: Escapado.
+
+672
+01:15:12.270 --> 01:15:15.009
+Adrian Ezequiel Mart�nez: Claro exacto, es, es una es la capa.
+
+673
+01:15:15.650 --> 01:15:16.150
+Francisco Daurat: No, no.
+
+674
+01:15:16.150 --> 01:15:20.230
+Adrian Ezequiel Mart�nez: Referencia al cable con que vos enchufas
+
+675
+01:15:21.190 --> 01:15:24.850
+Adrian Ezequiel Mart�nez: para para tener Internet física, Po, o sea.
+
+676
+01:15:24.850 --> 01:15:26.109
+Francisco Daurat: Cable. Digamos.
+
+677
+01:15:26.300 --> 01:15:27.280
+Adrian Ezequiel Mart�nez: Claro, pues ¿puedes.
+
+678
+01:15:27.280 --> 01:15:27.610
+Francisco Daurat: Lo que.
+
+679
+01:15:27.610 --> 01:15:35.630
+Adrian Ezequiel Mart�nez: El si utilizas el Wifi, por ejemplo, o cualquier comunicación inalámbrica, no le interesa el nombre.
+
+680
+01:15:36.140 --> 01:15:38.930
+Adrian Ezequiel Mart�nez: este no no estás utilizando un cable.
+
+681
+01:15:41.750 --> 01:15:47.079
+Adrian Ezequiel Mart�nez: o sea, tu tu tu computadora se conecta a algún lado sin utilizar cables
+
+682
+01:15:47.540 --> 01:15:51.360
+Adrian Ezequiel Mart�nez: este. Pero I, igualmente estás utilizando la la capa.
+
+683
+01:15:51.460 --> 01:15:54.989
+Adrian Ezequiel Mart�nez: la la esta capa de del modelo que se.
+
+684
+01:15:54.990 --> 01:15:59.139
+Francisco Daurat: Mirá. No sabía. No sabía. Pensé que era solamente cuando era por cable. No tenía idea.
+
+685
+01:15:59.140 --> 01:16:06.149
+Adrian Ezequiel Mart�nez: No, No, no, No No hace referencia al al cable Okay Perfecto. Perfecto. El cable es más seguro que cualquier cocina inalámbrica.
+
+686
+01:16:06.640 --> 01:16:12.690
+Adrian Ezequiel Mart�nez: pero no, no, no hace referencia puntual al al tipo de de conexión mediante cable.
+
+687
+01:16:13.160 --> 01:16:13.820
+Adrian Ezequiel Mart�nez: No no.
+
+688
+01:16:14.760 --> 01:16:22.810
+Sofia Libertad Velazco Montagna: Y o sea, el modelo T, C, P, I, P, también, o sea, por lo que veo, puede usar cualquier Protocolo, además de T, C, P.
+
+689
+01:16:23.090 --> 01:16:32.149
+Adrian Ezequiel Mart�nez: Sí, correcto. Y se me P. U D, P. Que tienen dif diferencias entre entre ellas más adelante Hay una
+
+690
+01:16:32.250 --> 01:16:34.150
+Adrian Ezequiel Mart�nez: Estado u D, P.
+
+691
+01:16:35.020 --> 01:16:35.850
+Sofia Libertad Velazco Montagna: Mhm.
+
+692
+01:16:36.100 --> 01:16:41.389
+Adrian Ezequiel Mart�nez: Creo que ninguno más. R. D. P. Que todos lo lo conocen. El remock de esto.
+
+693
+01:16:41.700 --> 01:16:45.269
+Adrian Ezequiel Mart�nez: por ejemplo, es un protocolo
+
+694
+01:16:46.380 --> 01:16:51.509
+Adrian Ezequiel Mart�nez: que está basado en un U, D, P, Si mal, No, no por por el funcionamiento, Creo que está basado en U. V, P:
+
+695
+01:16:51.930 --> 01:17:03.320
+Adrian Ezequiel Mart�nez: Pero son estos son protocolos correctos. Esta es Esta es la famosa Ip que todos conocemos: 127 000 lo que sea, o 192, lo que sea está Acá
+
+696
+01:17:04.480 --> 01:17:09.280
+Adrian Ezequiel Mart�nez: Acá está el el protocolo, que es el el contrato de transporte
+
+697
+01:17:09.500 --> 01:17:13.370
+Adrian Ezequiel Mart�nez: y acá está la donde vive la la aplicación
+
+698
+01:17:13.700 --> 01:17:17.010
+Adrian Ezequiel Mart�nez: o en un D N. S en en un domein
+
+699
+01:17:17.770 --> 01:17:20.390
+Adrian Ezequiel Mart�nez: o en servidor. H. H. T. T, P,
+
+700
+01:17:21.340 --> 01:17:27.090
+Adrian Ezequiel Mart�nez: Obviamente, las flechitas están en una dirección, pero también está la bajada.
+
+701
+01:17:27.340 --> 01:17:29.790
+Adrian Ezequiel Mart�nez: Este es esto es solamente un una
+
+702
+01:17:30.210 --> 01:17:34.100
+Adrian Ezequiel Mart�nez: vi vistos desde el punto de vista desde el frente entrada.
+
+703
+01:17:34.210 --> 01:17:39.589
+Adrian Ezequiel Mart�nez: todo el el el desarrollo que que hace el el caminito que que tiene.
+
+704
+01:17:39.950 --> 01:17:46.499
+Adrian Ezequiel Mart�nez: Pero una vez que que sube, como vimos antes, la se van componiendo Las capas
+
+705
+01:17:47.050 --> 01:17:53.470
+Adrian Ezequiel Mart�nez: para bajar, se van descomponiendo hasta llegar al a la capa física
+
+706
+01:17:53.890 --> 01:18:02.419
+Adrian Ezequiel Mart�nez: para ponerle un un nombre que es donde se valida el el la Mac, en este caso una dirección, destino.
+
+707
+01:18:06.520 --> 01:18:11.389
+Adrian Ezequiel Mart�nez: Co: L, Lo que veíamos antes estamos acá Ahora
+
+708
+01:18:15.810 --> 01:18:25.999
+Adrian Ezequiel Mart�nez: tenemos que el el P, que el I, P, el básicamente antes de entrar en B, 4
+
+709
+01:18:26.150 --> 01:18:29.510
+Adrian Ezequiel Mart�nez: es el es la la capa
+
+710
+01:18:30.070 --> 01:18:36.940
+Adrian Ezequiel Mart�nez: que proporciona direccionamiento y enrutamiento de los paquetes de red. El protocolo, llamémoslo
+
+711
+01:18:37.080 --> 01:18:48.030
+Adrian Ezequiel Mart�nez: básicamente lo que tiene de de interesante Ip es que sin conexión, está basado en en en datagramas.
+
+712
+01:18:48.570 --> 01:18:52.590
+Adrian Ezequiel Mart�nez: Qu datagrama. Es lo que vimos antes, un una porción de
+
+713
+01:18:53.120 --> 01:18:57.299
+Adrian Ezequiel Mart�nez: de de de la mensajería y que no es confiable.
+
+714
+01:18:58.310 --> 01:19:08.630
+Adrian Ezequiel Mart�nez: ¿por qué puede ser vul vulnerable, vulnerado y y
+
+715
+01:19:08.740 --> 01:19:18.750
+Adrian Ezequiel Mart�nez: también, y y p no el bro. El Sí, la I, el I, P, La K, P, I, P, No, te no te garantiza entrega
+
+716
+01:19:19.270 --> 01:19:22.470
+Adrian Ezequiel Mart�nez: el que garantiza la entrega es T, C, P:
+
+717
+01:19:22.680 --> 01:19:25.099
+Adrian Ezequiel Mart�nez: La la otra parte, el el transporte.
+
+718
+01:19:25.790 --> 01:19:33.150
+Adrian Ezequiel Mart�nez: Y básicamente tenemos que el puede tener un un variable de
+
+719
+01:19:33.390 --> 01:19:37.310
+Adrian Ezequiel Mart�nez: de 65 000 Byte un poquito más.
+
+720
+01:19:38.070 --> 01:19:53.120
+Adrian Ezequiel Mart�nez: Este y la composición de de los encabezados como vimos que se van componiendo. El es está compuesto por el ver perdón, el versionado, el servistipe, el el land de
+
+721
+01:19:53.450 --> 01:19:57.399
+Adrian Ezequiel Mart�nez: de ese Hitler, la identificación. Hay distintos flags.
+
+722
+01:19:57.680 --> 01:20:04.839
+Adrian Ezequiel Mart�nez: Este hay información de protocolos certificados que se utilizan, el famoso Ttl.
+
+723
+01:20:05.730 --> 01:20:09.259
+Adrian Ezequiel Mart�nez: las direcciones de de destino y de origen.
+
+724
+01:20:09.420 --> 01:20:14.640
+Adrian Ezequiel Mart�nez: y y si hay al alguna característica particular que que tener en cuenta
+
+725
+01:20:15.300 --> 01:20:18.300
+Adrian Ezequiel Mart�nez: este y los datos. Lo más importante.
+
+726
+01:20:20.280 --> 01:20:28.410
+Sofia Libertad Velazco Montagna: Una pregunta dice, bueno, no confiable, que no está garantizada la entrega. Eso es porque no hay, como
+
+727
+01:20:29.610 --> 01:20:36.230
+Sofia Libertad Velazco Montagna: o sea, en qué? ¿por qué no está garantizada la entrega? O sea, no hay como un.
+
+728
+01:20:36.230 --> 01:20:39.259
+Adrian Ezequiel Mart�nez: De que hay de
+
+729
+01:20:39.370 --> 01:20:58.359
+Adrian Ezequiel Mart�nez: porque puede haber, se puede perder el El paquete suena muy repartidor de de de de mercado libre. Pero cuando se se envía el mensaje, hay protocolos que te garantizan que el mensaje se se llega, Hay un hay un hay una.
+
+730
+01:20:58.610 --> 01:21:16.990
+Adrian Ezequiel Mart�nez: Se llama Han Shake. Es cuando se llega al acuerdo. Es, por ejemplo, 1 mantiene una conversación con alguien, no una conversación coloquial. Entonces una persona le pregunta a la a la otra. Hola, y la otra le responde. Hola, Entonces, en en ese
+
+731
+01:21:18.230 --> 01:21:22.990
+Adrian Ezequiel Mart�nez: voy a poner una una una frase más. Hola, Hola, ¿cómo estás? Le le retorna
+
+732
+01:21:23.090 --> 01:21:42.739
+Adrian Ezequiel Mart�nez: Entonces, en ese pasaje de mensajes, el el mensaje llegó sin inconvenientes. No se perdió ningún paquete. El mensaje llegó El primero. Hola, llegó. El hola. Se entendió. Y el cómo estás. Fue la la respuesta. La el retorno no te garantiza
+
+733
+01:21:42.870 --> 01:21:45.429
+Adrian Ezequiel Mart�nez: que el otro te pueda responder como estás.
+
+734
+01:21:46.110 --> 01:21:56.179
+Adrian Ezequiel Mart�nez: Alguien es indiferente y dice: hola y pasó. Acá. Es lo mismo de cuando vos tenés un una mensajería
+
+735
+01:21:57.020 --> 01:22:04.609
+Adrian Ezequiel Mart�nez: y se te corta la la la comunicación de esa mensajería en el medio no te garantiza.
+
+736
+01:22:05.350 --> 01:22:17.570
+Adrian Ezequiel Mart�nez: No sé. En realidad no tenés el el el envío completo, entonces no se puede garantizar que te llevó toda la todo el requerimiento de del mensaje.
+
+737
+01:22:17.940 --> 01:22:27.190
+Sofia Libertad Velazco Montagna: Claro es esto. Tiene que ver con que con otros protocolos como que quedan, escucha, digamos, o sea, que.
+
+738
+01:22:27.190 --> 01:22:30.950
+Adrian Ezequiel Mart�nez: Este, como como bien comentas, se envían datos
+
+739
+01:22:31.220 --> 01:22:34.059
+Adrian Ezequiel Mart�nez: y no hay ningún chequeo. Y si te llega te llega.
+
+740
+01:22:35.110 --> 01:22:40.969
+Adrian Ezequiel Mart�nez: y que es el Cuando 1 tiene, hace hace streaming, está pasando eso?
+
+741
+01:22:41.120 --> 01:22:50.479
+Adrian Ezequiel Mart�nez: Se o o juega o tiene juguitos en red. Lo es lo mismo va todo por el mismo Protocolo. Lo que está ocurriendo es que los paquetes se envían
+
+742
+01:22:51.280 --> 01:22:52.660
+Adrian Ezequiel Mart�nez: 1 atrás del otro
+
+743
+01:22:52.980 --> 01:22:59.570
+Adrian Ezequiel Mart�nez: y el que y el receptor no siempre se va a quedar. No, no siempre va a tener el 100 por 100 de los paquetes.
+
+744
+01:23:00.770 --> 01:23:03.639
+Adrian Ezequiel Mart�nez: Entonces lo que se produce son huecos.
+
+745
+01:23:04.050 --> 01:23:13.209
+Adrian Ezequiel Mart�nez: Y ahí está el famoso salto en en los juegos de red. Por ejemplo, el famoso salto. Cuando estás viendo una peli que se produce un hueco
+
+746
+01:23:13.570 --> 01:23:26.709
+Adrian Ezequiel Mart�nez: y no. Y Y te perdiste ese ese esa partecita son paquetes que no llegaron o cuando estás, por ejemplo, con Teamviewer o o con un remock de stop tratando de interactuar con el otro lado, o en un Teams.
+
+747
+01:23:27.610 --> 01:23:35.700
+Adrian Ezequiel Mart�nez: vamos a hacerlo lo laboral. Y ves que se produce un salto y te perdiste algo, es porque no se entregaron todos los paquetes.
+
+748
+01:23:36.240 --> 01:23:44.609
+Adrian Ezequiel Mart�nez: Pudo ser por temas de red. También pudo ser que de el lado que te los envíos no llegó a lo no los llegó a procesar
+
+749
+01:23:44.770 --> 01:23:49.510
+Adrian Ezequiel Mart�nez: puede ser un tema de procesamiento personal de de tu equipo que no lo llevo a pers a
+
+750
+01:23:50.760 --> 01:23:56.629
+Adrian Ezequiel Mart�nez: a a procesar. Por eso? No, No, No hay un Hay un Ok, no hay un Ok en en cada
+
+751
+01:23:56.980 --> 01:23:58.590
+Adrian Ezequiel Mart�nez: en en cada paquete.
+
+752
+01:23:58.750 --> 01:24:02.610
+Adrian Ezequiel Mart�nez: Si, como vamos a ver más adelante. Hay Hay envíos
+
+753
+01:24:02.900 --> 01:24:06.440
+Adrian Ezequiel Mart�nez: que ante cada envío de paquete, te dan un Ok.
+
+754
+01:24:07.090 --> 01:24:11.549
+Adrian Ezequiel Mart�nez: de una confirmación de que ese paquete llegó correctamente.
+
+755
+01:24:11.880 --> 01:24:21.190
+Adrian Ezequiel Mart�nez: Entonces, en ese caso, tenés la tenés, la garantía de que tenés todo todo completo y.
+
+756
+01:24:21.470 --> 01:24:25.550
+Adrian Ezequiel Mart�nez: como como comentaste antes, no te garantiza de que tengas
+
+757
+01:24:25.660 --> 01:24:31.779
+Adrian Ezequiel Mart�nez: todo el toda la traza completa de los paquetes. El todos los pa, el 100 por 100 de los paquetes no la traza.
+
+758
+01:24:34.500 --> 01:24:40.830
+Exequiel Alvarez Bianco: Resulta con salto te referís a como que te o como que te dash, o que tarda en cargar esas cosas, no
+
+759
+01:24:42.710 --> 01:24:43.230
+Exequiel Alvarez Bianco: a que.
+
+760
+01:24:43.230 --> 01:24:43.790
+Adrian Ezequiel Mart�nez: Preferible.
+
+761
+01:24:43.790 --> 01:24:45.190
+Exequiel Alvarez Bianco: Con salto.
+
+762
+01:24:45.980 --> 01:24:53.250
+Adrian Ezequiel Mart�nez: Por ejemplo, el el el ejemplo que más más fácil me me viene a la cabeza.
+
+763
+01:24:53.900 --> 01:24:56.260
+Adrian Ezequiel Mart�nez: Hay un ejemplo.
+
+764
+01:24:56.770 --> 01:24:57.420
+Adrian Ezequiel Mart�nez: Joder: Sí.
+
+765
+01:24:57.420 --> 01:25:04.070
+Exequiel Alvarez Bianco: O sea, por ejemplo, en Teams, pone de cuando de la nada se traba, la conexión al otro y dejo escucharlo pone de eso. Sería un salto.
+
+766
+01:25:04.400 --> 01:25:18.770
+Adrian Ezequiel Mart�nez: Eso sería. Se Se podría tomar como un salto, porque tan el el equipo receptor, por lo general que es tu tu máquina que vos lo social, el que experimenta el el inconveniente de
+
+767
+01:25:18.770 --> 01:25:26.039
+Adrian Ezequiel Mart�nez: re recibió tu máquina, recibió muchos paquetes. No los pudo procesar y realiza el salto.
+
+768
+01:25:27.210 --> 01:25:35.179
+Adrian Ezequiel Mart�nez: Re rebo Es donde vos percibís que se corta la comunicación se cortó el video 1 o 2, s, y te perdiste lo que estaba comentando.
+
+769
+01:25:35.480 --> 01:25:41.319
+Exequiel Alvarez Bianco: Es como que intenta man. Es como que intenta mantenerlo en tiempo real. Y dice, bueno, lo que perdí, y ya está una pena.
+
+770
+01:25:41.320 --> 01:25:46.269
+Adrian Ezequiel Mart�nez: Exacto y no importa exacto, por eso no te lo garantiza.
+
+771
+01:25:46.580 --> 01:25:51.110
+Adrian Ezequiel Mart�nez: Pero si si fuese realmente con garantía.
+
+772
+01:25:51.910 --> 01:25:54.969
+Adrian Ezequiel Mart�nez: se se cortaría la se haría un stop.
+
+773
+01:25:55.720 --> 01:26:02.579
+Adrian Ezequiel Mart�nez: Se procesaría y vos te te quedarías verías el la imagen frisada, por ejemplo.
+
+774
+01:26:03.050 --> 01:26:10.160
+Adrian Ezequiel Mart�nez: Pero verías que cuando la imagen retorna el procesamiento, retorna. Lo ves desde el punto que se cortó,
+
+775
+01:26:11.810 --> 01:26:19.519
+Adrian Ezequiel Mart�nez: entonces te te está, te está garantizando que estás viendo todo el toda la mensajería completa. Todo el el video completo
+
+776
+01:26:20.850 --> 01:26:25.649
+Adrian Ezequiel Mart�nez: Es como que el el problema es la performance del equipo y no afecta a
+
+777
+01:26:26.350 --> 01:26:30.130
+Adrian Ezequiel Mart�nez: At: al al al mensaje que te están enviando
+
+778
+01:26:30.860 --> 01:26:36.390
+Adrian Ezequiel Mart�nez: Y en en el otro caso, que es lo que ocurre realmente, es que se envían todos los paquetes
+
+779
+01:26:36.720 --> 01:26:48.449
+Adrian Ezequiel Mart�nez: y el equipo, de acuerdo a su tratamiento de Performance, o a cómo esté configurado o al tipo de procesador hardware. En definitiva, este es libre de decir
+
+780
+01:26:48.580 --> 01:26:50.420
+Adrian Ezequiel Mart�nez: proceso. Lo que puedo.
+
+781
+01:26:50.670 --> 01:27:06.210
+Adrian Ezequiel Mart�nez: Y cuando veo que tengo un cuello de botella, lo que me está generando el cuello, lo limpio, lo quito de la cola. Y y vuelvo a arrancar. Y ese es el salto que vos percibís de de sonido de video, y te perdiste una parte de la de la mensajería.
+
+782
+01:27:07.060 --> 01:27:09.720
+Exequiel Alvarez Bianco: Okay Okay, gracioso.
+
+783
+01:27:09.860 --> 01:27:10.939
+Adrian Ezequiel Mart�nez: No, por favor.
+
+784
+01:27:13.460 --> 01:27:23.930
+Adrian Ezequiel Mart�nez: Después tenemos que el direccionamiento de de I P. B, 4 es de 32 bits y
+
+785
+01:27:24.120 --> 01:27:33.670
+Adrian Ezequiel Mart�nez: no se acuerda en el número. Yo no me lo acuerdo. Les soy sincero. Hay una muy grande cantidad de Direcciones I P
+
+786
+01:27:34.960 --> 01:27:36.450
+Adrian Ezequiel Mart�nez: puntualmente está.
+
+787
+01:27:37.340 --> 01:27:44.870
+Adrian Ezequiel Mart�nez: No se como todos hemos visto en algún momento, se divide en obtetos.
+
+788
+01:27:45.270 --> 01:27:47.890
+Adrian Ezequiel Mart�nez: no la dirección. I P: son 4.
+
+789
+01:27:48.400 --> 01:27:55.299
+Adrian Ezequiel Mart�nez: Este 4 octetos decimales. El octeto viene porque son de decimales.
+
+790
+01:27:56.290 --> 01:28:00.540
+Adrian Ezequiel Mart�nez: y tenemos que existen 4 tipos de direccionamiento I, P que son
+
+791
+01:28:00.650 --> 01:28:11.099
+Adrian Ezequiel Mart�nez: unicas broadcast multicast y y encast a los que juegan con con hardware. Seguramente le les suene bastante.
+
+792
+01:28:11.310 --> 01:28:13.450
+Adrian Ezequiel Mart�nez: pero este
+
+793
+01:28:13.910 --> 01:28:19.739
+Adrian Ezequiel Mart�nez: vi viene de ahí el el unicas es la Direc, El dire, la dirección del del Host, el broadcast
+
+794
+01:28:19.840 --> 01:28:33.610
+Adrian Ezequiel Mart�nez: es el es la dirección de todos los Host de la red. El multicast es la dirección para hacer difusión a un grupo de Host y el y el A. N. I. Cast es la dirección de de un grupo de Host.
+
+795
+01:28:33.890 --> 01:28:36.639
+Adrian Ezequiel Mart�nez: pero solo los que están más cercanos.
+
+796
+01:28:37.490 --> 01:28:41.920
+Adrian Ezequiel Mart�nez: Es como cuando setean las las configuraciones de red en
+
+797
+01:28:42.300 --> 01:28:49.539
+Adrian Ezequiel Mart�nez: en un Firewall, básicamente el el el mismo, el el la la misma copla, el la misma regla.
+
+798
+01:28:51.110 --> 01:28:56.660
+Adrian Ezequiel Mart�nez: la dirección entre la diferencia entre el B, 4 y y B 6 es la cantidad de bits.
+
+799
+01:28:57.420 --> 01:29:10.289
+Adrian Ezequiel Mart�nez: Porque la la historia cuenta que en en el el número de I P, al ser un número finito. En algún momento se ese direccional esa cantidad de direcciones I, P
+
+800
+01:29:10.380 --> 01:29:20.830
+Adrian Ezequiel Mart�nez: que en realidad, cuando 1 escribe, creo que todos lo sabemos, pero la aclaración siempre viene cuando vos escribís Google, punto com o la dirección de la facultad se traduce en
+
+801
+01:29:21.020 --> 01:29:22.010
+Adrian Ezequiel Mart�nez: en esto.
+
+802
+01:29:23.040 --> 01:29:23.959
+Adrian Ezequiel Mart�nez: No sé si.
+
+803
+01:29:23.960 --> 01:29:33.119
+Eduardo Manuel Rocha: Pero cuando hay alguna fecha, Adrián de cuando se van a saltar ahí. Pv: Seis. Porque ahora pone. Yo tengo
+
+804
+01:29:34.060 --> 01:29:39.580
+Eduardo Manuel Rocha: Esto es de Ipland. Y hace un año empezaron a Usarsegenap tan de.
+
+805
+01:29:39.580 --> 01:29:39.900
+Adrian Ezequiel Mart�nez: De y.
+
+806
+01:29:39.900 --> 01:29:41.850
+Eduardo Manuel Rocha: Entonces tengo que pintar una.
+
+807
+01:29:42.370 --> 01:29:43.550
+Eduardo Manuel Rocha: No sé qué tengo.
+
+808
+01:29:43.680 --> 01:29:49.310
+Eduardo Manuel Rocha: me tiro una como una mac, pero yo me fui con el pecho y saliendo por California, nada que ver.
+
+809
+01:29:50.380 --> 01:29:59.999
+Adrian Ezequiel Mart�nez: No, Eso es donde está el el Host que te está dando el servicio. Yo, por ejemplo, si si lo miro acá no me marca donde estoy en en mi casa, no me geolocaliza.
+
+810
+01:30:00.370 --> 01:30:05.729
+Adrian Ezequiel Mart�nez: pero este me dice dónde está el la antena a la que estoy conectado.
+
+811
+01:30:05.830 --> 01:30:14.179
+Adrian Ezequiel Mart�nez: Lo Lo más probable es que el que estés dando el el servicio de de Internet esté saliendo por por esa celda.
+
+812
+01:30:14.460 --> 01:30:18.179
+Eduardo Manuel Rocha: Ellos porque vo vos en donde estás en España.
+
+813
+01:30:18.450 --> 01:30:19.260
+Adrian Ezequiel Mart�nez: Correcto. Sí.
+
+814
+01:30:19.260 --> 01:30:21.869
+Eduardo Manuel Rocha: España, Usa Shegenat hace años, ya.
+
+815
+01:30:22.040 --> 01:30:22.360
+Adrian Ezequiel Mart�nez: Sí.
+
+816
+01:30:22.360 --> 01:30:26.210
+Eduardo Manuel Rocha: Acá se cerró a cursos. Ahora se al menos.
+
+817
+01:30:26.210 --> 01:30:26.530
+Adrian Ezequiel Mart�nez: Sí, Sí.
+
+818
+01:30:26.530 --> 01:30:32.520
+Eduardo Manuel Rocha: Año para él, Pero con eso, como que estiro mucho más la fecha de implementación de I p. Seis.
+
+819
+01:30:32.770 --> 01:30:34.529
+Adrian Ezequiel Mart�nez: Sí está.
+
+820
+01:30:35.110 --> 01:30:37.420
+Adrian Ezequiel Mart�nez: No sé si hay fecha definitiva.
+
+821
+01:30:38.150 --> 01:30:45.529
+Adrian Ezequiel Mart�nez: pero este están. Hay Hay lugares donde están implementados porque en algún momento este numerito se se va a agotar
+
+822
+01:30:46.440 --> 01:30:49.699
+Adrian Ezequiel Mart�nez: y y necesitan al alguna conversión
+
+823
+01:30:49.920 --> 01:30:52.740
+Adrian Ezequiel Mart�nez: que internamente seguramente ya la la tienen.
+
+824
+01:30:53.170 --> 01:30:55.979
+Adrian Ezequiel Mart�nez: Creo que actualmente están conviviendo los 2 modelos.
+
+825
+01:30:56.390 --> 01:30:57.310
+Martin Daus: Pero.
+
+826
+01:30:57.310 --> 01:30:59.429
+Adrian Ezequiel Mart�nez: Lleno de de duda.
+
+827
+01:30:59.710 --> 01:31:07.089
+Martin Daus: Perdón, están hablando ¿de de qué están hablando? Que justo se me fue el Wi Fi y puse el ejemplo práctico.
+
+828
+01:31:07.370 --> 01:31:10.650
+Adrian Ezequiel Mart�nez: Ipb: 4 y Pv: 6, las.
+
+829
+01:31:10.980 --> 01:31:12.050
+Martin Daus: Okay.
+
+830
+01:31:13.350 --> 01:31:17.449
+Adrian Ezequiel Mart�nez: Este, pero si me creo que ahora están conviviendo.
+
+831
+01:31:17.570 --> 01:31:19.419
+Adrian Ezequiel Mart�nez: no no sé si hay una fecha
+
+832
+01:31:19.950 --> 01:31:29.330
+Adrian Ezequiel Mart�nez: de de de bajada de una y de puesta en producción definitiva de la otra. Creo que ahora están conviviendo una, pues tal vez el modo más
+
+833
+01:31:29.460 --> 01:31:30.739
+Adrian Ezequiel Mart�nez: más de prueba.
+
+834
+01:31:30.960 --> 01:31:42.199
+Adrian Ezequiel Mart�nez: pero este están yo. Por ejemplo, estoy en en España y no salgo de no salgo por la célula más cercana. A mí me da el servicio Orange
+
+835
+01:31:42.890 --> 01:31:47.030
+Adrian Ezequiel Mart�nez: y salgo por una celda que la tengo como a 30 kilómetros.
+
+836
+01:31:47.140 --> 01:31:48.729
+Adrian Ezequiel Mart�nez: ¿por qué no no lo sé,
+
+837
+01:31:50.210 --> 01:31:59.300
+Adrian Ezequiel Mart�nez: este tengo yo, tengo se servicio de 5. G. Uso Internet como te no tengo cableado. Uso un Router 5, G, el el famoso chip, ¿Cinco? G.
+
+838
+01:31:59.540 --> 01:32:03.369
+Adrian Ezequiel Mart�nez: Esto es un com. Tengo un contrato de de Internet por 5 G.
+
+839
+01:32:03.930 --> 01:32:08.389
+Adrian Ezequiel Mart�nez: Y salgo por una celda que está como a 30 kilómetros de de mi casa.
+
+840
+01:32:08.980 --> 01:32:10.410
+Adrian Ezequiel Mart�nez: Este rarísimo.
+
+841
+01:32:11.090 --> 01:32:12.500
+Martin Daus: Y eso cómo lo sabes?
+
+842
+01:32:14.120 --> 01:32:15.719
+Adrian Ezequiel Mart�nez: ¿por qué dicen? Das algo.
+
+843
+01:32:16.160 --> 01:32:16.850
+Martin Daus: Claro.
+
+844
+01:32:17.250 --> 01:32:21.099
+Adrian Ezequiel Mart�nez: Porque los sistemas de de geolocalización
+
+845
+01:32:21.280 --> 01:32:23.860
+Adrian Ezequiel Mart�nez: me me marcan dónde estoy saliendo?
+
+846
+01:32:24.230 --> 01:32:26.169
+Adrian Ezequiel Mart�nez: Me estoy conectando.
+
+847
+01:32:27.160 --> 01:32:27.490
+Martin Daus: Claro.
+
+848
+01:32:27.490 --> 01:32:35.499
+Adrian Ezequiel Mart�nez: No, no, No me marcan puntualmente donde estoy. Pero si marcan, ¿cuál es mi mi mi antena.
+
+849
+01:32:36.970 --> 01:32:38.910
+Martin Daus: Claro como el speed test. Digamos.
+
+850
+01:32:38.910 --> 01:32:44.220
+Adrian Ezequiel Mart�nez: Exacto viste que te dice, Estás saliendo de ahí y muchas veces no. No le pega a la ciudad.
+
+851
+01:32:44.450 --> 01:32:49.900
+Adrian Ezequiel Mart�nez: Por lo general es de de dónde está saliendo tu conexión, de adónde estás conectado.
+
+852
+01:32:50.390 --> 01:32:51.240
+Martin Daus: Claro.
+
+853
+01:32:53.470 --> 01:33:03.980
+Adrian Ezequiel Mart�nez: Y hay otros servicios que no vienen a a esta materia, pero creo que en se en seguridad en redes, creo que se comenta. Sí, se comenta el famoso lora
+
+854
+01:33:04.090 --> 01:33:05.350
+Adrian Ezequiel Mart�nez: que es un
+
+855
+01:33:05.480 --> 01:33:18.519
+Adrian Ezequiel Mart�nez: va va por por u H, F, por ondas de radio, este ahí si podés trascear donde está físicamente el dispositivo y te dice con una con un margen de error, de nada de metros.
+
+856
+01:33:18.770 --> 01:33:25.550
+Adrian Ezequiel Mart�nez: Pero Ten, Pero sos vos la antena, En ese caso, tenés una pequeña antenita y Sos: vos La antena
+
+857
+01:33:26.130 --> 01:33:27.979
+Adrian Ezequiel Mart�nez: es muy, muy lindo.
+
+858
+01:33:28.670 --> 01:33:30.470
+Adrian Ezequiel Mart�nez: Si en algún momento se corta.
+
+859
+01:33:31.110 --> 01:33:43.550
+Adrian Ezequiel Mart�nez: Ocurre un apagón, como ocurrió acá hace poco Este la y todos quedamos sin Internet, sin luz, sin conexión, sin nada. Este Este medio te te permite
+
+860
+01:33:43.760 --> 01:33:47.810
+Adrian Ezequiel Mart�nez: este estar al tanto de un montón de cosas.
+
+861
+01:33:48.150 --> 01:33:52.500
+Adrian Ezequiel Mart�nez: Es como un paiser, el el viejo y conocido paiser para los que.
+
+862
+01:33:52.500 --> 01:33:52.860
+Ariel Alejandro Quintero: Se de.
+
+863
+01:33:52.860 --> 01:33:53.270
+Adrian Ezequiel Mart�nez: Mhm.
+
+864
+01:33:53.270 --> 01:34:00.519
+Ariel Alejandro Quintero: Perdón. El tema de la ubicación a través del ordenador es cuando justamente tiene el módulo. G. P. S, Porque me parece que
+
+865
+01:34:00.980 --> 01:34:03.310
+Ariel Alejandro Quintero: no siempre te da la la ubicación.
+
+866
+01:34:05.440 --> 01:34:10.310
+Adrian Ezequiel Mart�nez: Me mataste seguramente tenga que tener algo habilitado para.
+
+867
+01:34:10.310 --> 01:34:12.880
+Ariel Alejandro Quintero: Me parece que sí, no funciona.
+
+868
+01:34:12.880 --> 01:34:13.200
+Adrian Ezequiel Mart�nez: En la.
+
+869
+01:34:13.200 --> 01:34:19.740
+Ariel Alejandro Quintero: Exclusivamente, quizás por la intensidad de señal, sino que lo mapea a través de módulos. G. P: S.
+
+870
+01:34:20.030 --> 01:34:25.589
+Adrian Ezequiel Mart�nez: Seguramente sí de desconozco, pero suena superlógico, Sí, totalmente.
+
+871
+01:34:27.240 --> 01:34:29.029
+Adrian Ezequiel Mart�nez: Me me lo anoto para ver.
+
+872
+01:34:29.880 --> 01:34:34.870
+Adrian Ezequiel Mart�nez: Mhm Me Me lo anoto, pero sí, no, no suena descabellado.
+
+873
+01:34:38.100 --> 01:34:40.789
+Mariano Médici: Perdón depende depende de la placa que tengas. Sí.
+
+874
+01:34:41.070 --> 01:34:42.089
+Adrian Ezequiel Mart�nez: A ver lo que dice.
+
+875
+01:34:42.260 --> 01:34:45.889
+Mariano Médici: Yo justo tengo el S. P. 32 de Lora.
+
+876
+01:34:45.890 --> 01:34:47.110
+Adrian Ezequiel Mart�nez: Sí estoy en cuenta.
+
+877
+01:34:47.110 --> 01:34:50.179
+Mariano Médici: Pero no viene el el G. P. S. Integrado.
+
+878
+01:34:50.590 --> 01:34:51.629
+Adrian Ezequiel Mart�nez: Utilizan el Facebook.
+
+879
+01:34:52.130 --> 01:34:54.279
+Mariano Médici: Claro, sí, exactamente.
+
+880
+01:34:54.900 --> 01:34:56.150
+Adrian Ezequiel Mart�nez: Sí, Sí, yo tengo la.
+
+881
+01:34:56.440 --> 01:35:00.540
+Mariano Médici: La de G Heltech, la la I Paper.
+
+882
+01:35:00.770 --> 01:35:06.899
+Ariel Alejandro Quintero: Claro, yo tengo 2 también del Tech, por eso. Y nunca le encontré la forma.
+
+883
+01:35:06.910 --> 01:35:07.770
+Mariano Médici: El Campeonato.
+
+884
+01:35:07.770 --> 01:35:11.529
+Adrian Ezequiel Mart�nez: Lo que no, no, Por favor, digan, digan.
+
+885
+01:35:11.930 --> 01:35:15.420
+Mariano Médici: No que el el el barato viste el el el más común, no lo tiene.
+
+886
+01:35:15.580 --> 01:35:21.730
+Mariano Médici: pero los otros más caros sí ya tienen todo todo integrado y con la batería también.
+
+887
+01:35:22.430 --> 01:35:29.840
+Adrian Ezequiel Mart�nez: Sí soy yo el que tengo, que es igual el Heltek. No me acuerdo el modelo, pero bueno, el Ely Paper lo buscan como Heltek y Paper, y aparece
+
+888
+01:35:30.300 --> 01:35:36.580
+Adrian Ezequiel Mart�nez: este utiliza el el celu. Lo es la una mera antena. Y vos desde el celulo y te conectas a
+
+889
+01:35:36.790 --> 01:35:39.700
+Adrian Ezequiel Mart�nez: a ese dispositivo y utilizas el G. P. S del 0.
+
+890
+01:35:40.670 --> 01:35:46.840
+Adrian Ezequiel Mart�nez: De hecho, te podés ver en un mapa y no, no lo probé nunca en tiempo real. Pero puedes ver dónde estás.
+
+891
+01:35:47.300 --> 01:35:50.570
+Adrian Ezequiel Mart�nez: Ese es el el chiste, y está bastante lindo
+
+892
+01:35:52.570 --> 01:35:54.740
+Adrian Ezequiel Mart�nez: En medio de Friki, el comentario perdón.
+
+893
+01:35:55.860 --> 01:36:03.060
+Adrian Ezequiel Mart�nez: Después co continuamos con la las clases de de I, P.
+
+894
+01:36:03.840 --> 01:36:07.730
+Adrian Ezequiel Mart�nez: Donde tenemos que pueden ser del tipo A, B, C, D y E
+
+895
+01:36:08.360 --> 01:36:12.470
+Adrian Ezequiel Mart�nez: todas tienen la la misma longitud, 32 bits.
+
+896
+01:36:12.720 --> 01:36:18.110
+Adrian Ezequiel Mart�nez: Y lo que cambia es cómo está, cómo está compuesto?
+
+897
+01:36:18.830 --> 01:36:22.379
+Adrian Ezequiel Mart�nez: No, no, no, no, no, se no se queden con más
+
+898
+01:36:22.830 --> 01:36:28.340
+Adrian Ezequiel Mart�nez: este con más. Este Cada cada tipo está dividido en
+
+899
+01:36:28.820 --> 01:36:38.299
+Adrian Ezequiel Mart�nez: en en diferentes segmentos donde está el por ejemplo, la parte de de la red el Host, en algunos casos se permite que tenga más o menos
+
+900
+01:36:38.630 --> 01:36:44.430
+Adrian Ezequiel Mart�nez: este lugares libres. Beats di libres en
+
+901
+01:36:45.490 --> 01:36:47.880
+Adrian Ezequiel Mart�nez: no, no, no. Más que eso.
+
+902
+01:36:49.150 --> 01:36:57.559
+Adrian Ezequiel Mart�nez: Se Se preguntarán para qué sirve todo esto? Después lo lo vamos a ver en en las clases y seguramente les caiga la ficha de de todo esto.
+
+903
+01:37:00.920 --> 01:37:07.000
+Adrian Ezequiel Mart�nez: Después acá tenemos en siguiendo con con las clases de
+
+904
+01:37:07.540 --> 01:37:20.099
+Adrian Ezequiel Mart�nez: de I P, A, A, algo muy, muy, muy importante que no dije es que cada parte de red tiene su Ca: Cada dirección y dirección. I, P. Tiene su parte
+
+905
+01:37:20.300 --> 01:37:26.079
+Adrian Ezequiel Mart�nez: de de red, que es la Nec y la de Host, como podemos ver, varía.
+
+906
+01:37:26.270 --> 01:37:33.020
+Adrian Ezequiel Mart�nez: Y pues, y después hice el comentario de si está de que puede tener partes libres y partes ocupadas.
+
+907
+01:37:34.060 --> 01:37:41.130
+Adrian Ezequiel Mart�nez: no, no más después te
+
+908
+01:37:43.500 --> 01:37:47.149
+Adrian Ezequiel Mart�nez: a acá Podemos ver los diferentes rangos.
+
+909
+01:37:48.090 --> 01:37:54.439
+Adrian Ezequiel Mart�nez: Muchos de ellos se encuentran reservados para uso interno.
+
+910
+01:37:54.630 --> 01:37:58.739
+Adrian Ezequiel Mart�nez: como, por ejemplo, el el famoso 10 puntos, por lo general
+
+911
+01:37:59.030 --> 01:38:05.200
+Adrian Ezequiel Mart�nez: son este redes internas. Si 1 está en el trabajo y se fija, qué Ip tiene en la máquina.
+
+912
+01:38:05.310 --> 01:38:10.070
+Adrian Ezequiel Mart�nez: Lo más probable es que tenga 10 algo este.
+
+913
+01:38:11.940 --> 01:38:27.570
+Adrian Ezequiel Mart�nez: Tenemos los los 5 tipos de I, P. ¿en ¿En qué? Cuáles son los bits de de inicio. Una manera de de darse cuenta de qué tipo de I P es son por los por los bits de inicio comienzan con 0 con 10 y así sucesivamente.
+
+914
+01:38:28.090 --> 01:38:38.120
+Adrian Ezequiel Mart�nez: y y la cantidad de cost soportados por por por cada una de de las clases.
+
+915
+01:38:40.310 --> 01:38:44.829
+Adrian Ezequiel Mart�nez: Después hay hay una tablita que sinceramente no me la acuerdo.
+
+916
+01:38:44.960 --> 01:38:50.159
+Adrian Ezequiel Mart�nez: que es el famoso barra, algo barra, 2, barra, 4, etcétera.
+
+917
+01:38:50.290 --> 01:38:54.710
+Adrian Ezequiel Mart�nez: Este proviene del de la cantidad de
+
+918
+01:38:54.960 --> 01:38:59.050
+Adrian Ezequiel Mart�nez: de en en binario de conexiones que que acepta.
+
+919
+01:39:01.510 --> 01:39:05.849
+Adrian Ezequiel Mart�nez: Ese es un un ejemplito de de de Ip.
+
+920
+01:39:06.010 --> 01:39:13.609
+Sofia Libertad Velazco Montagna: No tenía eso último, ese porcentaje, un medio, un cuarto, un octavo como.
+
+921
+01:39:14.870 --> 01:39:16.980
+Adrian Ezequiel Mart�nez: Son.
+
+922
+01:39:17.180 --> 01:39:20.190
+Sofia Libertad Velazco Montagna: El día de agosto y dijo.
+
+923
+01:39:20.550 --> 01:39:33.280
+Adrian Ezequiel Mart�nez: Sí, en realidad son. Sí, está referenciado la cantidad de de de Host, el famoso barra algo cuando muchas veces, cuando se seleccionan los rangos de de Yp. Este.
+
+924
+01:39:33.370 --> 01:39:43.180
+Adrian Ezequiel Mart�nez: por ejemplo, un un ejemplo, 191 a 100, por ejemplo, acá 10 de acá por ejemplo.
+
+925
+01:39:43.630 --> 01:39:54.470
+Adrian Ezequiel Mart�nez: 172, 31, 2, 55, 55, algo. Ese algo es la cantidad de de Host, que tiene reservadas esa esa.
+
+926
+01:39:55.020 --> 01:39:57.340
+Sofia Libertad Velazco Montagna: Ese conjunto, ese grupo de I, Ps.
+
+927
+01:39:57.910 --> 01:39:59.790
+Adrian Ezequiel Mart�nez: Vos Podes, este.
+
+928
+01:39:59.790 --> 01:40:00.230
+Camilo Cedrés Aguirre: Mhm.
+
+929
+01:40:00.230 --> 01:40:01.470
+Adrian Ezequiel Mart�nez: Y reservártelas.
+
+930
+01:40:04.290 --> 01:40:09.369
+Camilo Cedrés Aguirre: Cada dirección. I P se utiliza junto con una máscara de red.
+
+931
+01:40:09.630 --> 01:40:10.490
+Adrian Ezequiel Mart�nez: ¿correcto?
+
+932
+01:40:10.690 --> 01:40:15.229
+Camilo Cedrés Aguirre: Y el barra. El número que está después de la barra es como una forma abreviada.
+
+933
+01:40:15.350 --> 01:40:18.680
+Camilo Cedrés Aguirre: es decir, cuántos bits de la dirección son.
+
+934
+01:40:19.330 --> 01:40:19.820
+Adrian Ezequiel Mart�nez: Años de.
+
+935
+01:40:19.820 --> 01:40:21.520
+Camilo Cedrés Aguirre: Red. Y cuántos son de Hoods.
+
+936
+01:40:21.770 --> 01:40:24.640
+Adrian Ezequiel Mart�nez: Mhm, Exacto.
+
+937
+01:40:30.420 --> 01:40:33.690
+Adrian Ezequiel Mart�nez: Acá Tenemos un un ejemplo de Ip
+
+938
+01:40:34.680 --> 01:40:38.380
+Adrian Ezequiel Mart�nez: donde se pue donde se puede ver por el tipo de la clase
+
+939
+01:40:38.580 --> 01:40:42.960
+Adrian Ezequiel Mart�nez: de lo que comentábamos antes: 0, 100 000, etcétera.
+
+940
+01:40:43.360 --> 01:40:46.539
+Adrian Ezequiel Mart�nez: Esto los Beats de de inicio
+
+941
+01:40:49.160 --> 01:40:54.889
+Adrian Ezequiel Mart�nez: los podemos ubicar con el primer octeto, Y esto se traduce en
+
+942
+01:40:56.160 --> 01:41:05.480
+Adrian Ezequiel Mart�nez: en en esta dirección de de red. Como el el primer octeto te dice que es una pie de clase A: ya sabes que las de clase A son de este tipo.
+
+943
+01:41:05.930 --> 01:41:13.039
+Adrian Ezequiel Mart�nez: y después las restantes te los de los restantes bits te van dando la
+
+944
+01:41:13.220 --> 01:41:17.669
+Adrian Ezequiel Mart�nez: L, la I, P, los restos de de los objetos, los 3 objetos restantes.
+
+945
+01:41:18.200 --> 01:41:21.109
+Camilo Cedrés Aguirre: Es un sello barra 8. Por ejemplo.
+
+946
+01:41:21.650 --> 01:41:22.050
+Adrian Ezequiel Mart�nez: ¿correcto?
+
+947
+01:41:22.050 --> 01:41:23.710
+Camilo Cedrés Aguirre: Primero, muchos son de red.
+
+948
+01:41:24.050 --> 01:41:24.730
+Adrian Ezequiel Mart�nez: Mhm.
+
+949
+01:41:25.420 --> 01:41:27.970
+Sofia Libertad Velazco Montagna: ¿por qué? ¿por qué sería agarrar 8.
+
+950
+01:41:30.420 --> 01:41:30.969
+Adrian Ezequiel Mart�nez: Que me.
+
+951
+01:41:30.970 --> 01:41:41.120
+Camilo Cedrés Aguirre: Primero, los primeros 8 bits identifican la red y los otros 24, digamos, son las direcciones.
+
+952
+01:41:42.260 --> 01:41:42.640
+Adrian Ezequiel Mart�nez: Exacto.
+
+953
+01:41:42.640 --> 01:41:46.059
+Sofia Libertad Velazco Montagna: Entonces la barra 8 sería de la
+
+954
+01:41:47.300 --> 01:41:51.969
+Sofia Libertad Velazco Montagna: no sería de los pero no eran de los 2 cantidad de Juegos.
+
+955
+01:41:54.010 --> 01:41:57.049
+Adrian Ezequiel Mart�nez: Sí, a ver si tengo, acá pero corro este y les muestro.
+
+956
+01:41:57.050 --> 01:42:01.059
+Sofia Libertad Velazco Montagna: No tengo que estudiarlo aparte, porque nunca terminé de entenderlo Bien, a esto.
+
+957
+01:42:01.210 --> 01:42:09.110
+Adrian Ezequiel Mart�nez: Puedo correr esto más y mira, podía correr cómo se llamaba.
+
+958
+01:42:10.050 --> 01:42:12.210
+Adrian Ezequiel Mart�nez: Creo que ya sí
+
+959
+01:42:19.800 --> 01:42:22.510
+Adrian Ezequiel Mart�nez: hay una tablita.
+
+960
+01:42:27.730 --> 01:42:35.159
+Adrian Ezequiel Mart�nez: Esto la máscara de redes Es lo que lo que comentaban antes. Hay una tablita que
+
+961
+01:42:38.030 --> 01:42:39.809
+Adrian Ezequiel Mart�nez: a ver si la consigo
+
+962
+01:42:51.720 --> 01:42:53.380
+Adrian Ezequiel Mart�nez: la mesita completa.
+
+963
+01:42:54.850 --> 01:42:55.740
+Adrian Ezequiel Mart�nez: Esta
+
+964
+01:43:00.340 --> 01:43:07.669
+Adrian Ezequiel Mart�nez: Esto es lo que comentábamos de de las barras. Son la cantidad de host que se aceptan
+
+965
+01:43:08.490 --> 01:43:17.950
+Adrian Ezequiel Mart�nez: en en ese rango, por ejemplo, lo lo que comentaban recién una vez que sabes la
+
+966
+01:43:18.230 --> 01:43:20.070
+Adrian Ezequiel Mart�nez: la clase de I P.
+
+967
+01:43:20.280 --> 01:43:22.699
+Adrian Ezequiel Mart�nez: Con los diferentes rangos.
+
+968
+01:43:23.590 --> 01:43:31.259
+Adrian Ezequiel Mart�nez: con con las di con la máscara perdón podés saber cuántas i Ps. Este podés tener en este caso
+
+969
+01:43:31.960 --> 01:43:36.639
+Adrian Ezequiel Mart�nez: un barra. Ocho, creo que dijeron por ahí, podrías tener esta cantidad de de I Ps.
+
+970
+01:43:38.820 --> 01:43:43.049
+Adrian Ezequiel Mart�nez: Tra tra 16 millon más de 16 000 000 de I, Ps.
+
+971
+01:43:43.250 --> 01:43:52.339
+Adrian Ezequiel Mart�nez: Dentro de de ese rango es complicado. A mí me me me costó un montón. Engancharle la la vuelta.
+
+972
+01:43:53.030 --> 01:43:54.960
+Adrian Ezequiel Mart�nez: Soy soy s totalmente sincero.
+
+973
+01:43:55.960 --> 01:44:05.360
+Adrian Ezequiel Mart�nez: pero no, no, no, No escapa más de de esto lo lo que hay que que que que llevarse.
+
+974
+01:44:05.690 --> 01:44:12.430
+Adrian Ezequiel Mart�nez: cómo cómo se co cómo están conformadas las clases, cómo se detectan y y nada más.
+
+975
+01:44:13.440 --> 01:44:20.359
+Exequiel Alvarez Bianco: El tema con las máscaras que hay que tener bien en cuenta. O sea, hay que saber bien lo de lo de los números binarios.
+
+976
+01:44:20.730 --> 01:44:23.840
+Exequiel Alvarez Bianco: si no hay Siem es que es muy complicada.
+
+977
+01:44:24.170 --> 01:44:34.850
+Adrian Ezequiel Mart�nez: Sí, sí, igual para Para eso están las tablitas, ya machete, no este
+
+978
+01:44:35.810 --> 01:44:41.139
+Adrian Ezequiel Mart�nez: to to todos los los los barra y las máscaras son son similares.
+
+979
+01:44:41.330 --> 01:44:48.270
+Adrian Ezequiel Mart�nez: Así que te te buscas un machete y y y y listo, pero sí son valores binarios.
+
+980
+01:44:52.560 --> 01:44:54.980
+Adrian Ezequiel Mart�nez: Después tenemos subredes.
+
+981
+01:44:55.370 --> 01:45:06.790
+Adrian Ezequiel Mart�nez: que es una técnica que divide una una red en en varias valga la redundancia, sus redes más pequeñas mediante el uso de máscaras, que es lo que comentábamos recién
+
+982
+01:45:07.080 --> 01:45:09.459
+Adrian Ezequiel Mart�nez: un poco de
+
+983
+01:45:09.600 --> 01:45:19.480
+Adrian Ezequiel Mart�nez: de de historia. En los 80 comenzaron los inconvenientes con la asignación de de Direcciones I P, por el aumento de de redes
+
+984
+01:45:20.570 --> 01:45:28.500
+Adrian Ezequiel Mart�nez: que que se querían conectar y se propuso considerar y un recibir en
+
+985
+01:45:28.610 --> 01:45:34.550
+Adrian Ezequiel Mart�nez: po por por antenas, por por tipos de conexión, agruparlas.
+
+986
+01:45:34.970 --> 01:45:38.529
+Adrian Ezequiel Mart�nez: co cuántas podía recibir cada una un poco de historia, No.
+
+987
+01:45:39.340 --> 01:45:53.320
+Adrian Ezequiel Mart�nez: No, no hace más. Si es si si les gusta bastante el el detalle y lo quieren tener en cuenta. Hay está nomenclado por el R. F. C, 9 50.
+
+988
+01:45:53.440 --> 01:46:00.610
+Adrian Ezequiel Mart�nez: Está en inglés y en castellano, por si lo quieren leer y nada más.
+
+989
+01:46:02.440 --> 01:46:05.420
+Adrian Ezequiel Mart�nez: no nada más de que marcar de acá
+
+990
+01:46:08.150 --> 01:46:14.420
+Adrian Ezequiel Mart�nez: un ejemplo de de su red, lo que comentábamos recién el tipo de de I, P.
+
+991
+01:46:14.530 --> 01:46:16.090
+Adrian Ezequiel Mart�nez: Tenemos la máscara.
+
+992
+01:46:18.650 --> 01:46:28.350
+Adrian Ezequiel Mart�nez: ¿y cómo se se va desarrollando eso hasta llegar al a la dirección de de su red. Es hace una entre ambas.
+
+993
+01:46:30.050 --> 01:46:38.730
+Adrian Ezequiel Mart�nez: y eso te da la la dirección de de la subred, una imagen de de lo que ocurre, No, no más que eso.
+
+994
+01:46:42.960 --> 01:46:50.980
+Adrian Ezequiel Mart�nez: Ahora vamos a a la otra parte que es Tc, P, que es el la parte del Protocolo, es la la transmisión.
+
+995
+01:46:51.260 --> 01:46:52.890
+Adrian Ezequiel Mart�nez: Es el
+
+996
+01:46:53.180 --> 01:47:10.089
+Adrian Ezequiel Mart�nez: Básicamente es el protocolo de transporte orientado a conexión que garantiza la entrega confiable y ordenada de los datos. Es lo que comentábamos al comienzo. No sé si si recuerdan de si se entrega todo el toda la mensajería o se entrega
+
+997
+01:47:10.200 --> 01:47:12.770
+Adrian Ezequiel Mart�nez: ac de una manera acordada.
+
+998
+01:47:13.790 --> 01:47:18.099
+Adrian Ezequiel Mart�nez: Entonces acá vamos a a ver que vamos a tener mecanismos
+
+999
+01:47:18.280 --> 01:47:26.380
+Adrian Ezequiel Mart�nez: como, por ejemplo, el el A. S. K, el control de flujo, el el handshike, la retransmisión.
+
+1000
+01:47:26.670 --> 01:47:36.159
+Adrian Ezequiel Mart�nez: Lo Lo importante de de de de de este de este Protocolo es que es ideal para
+
+1001
+01:47:36.530 --> 01:47:46.099
+Adrian Ezequiel Mart�nez: para aplicaciones críticas basadas en Htt, P. S, en S. M. T, P son otros protocolos que seguramente
+
+1002
+01:47:46.230 --> 01:47:56.350
+Adrian Ezequiel Mart�nez: conozcan porque se garantiza la entrega, el orden de entrega, la integridad y el control de del flujo.
+
+1003
+01:48:02.520 --> 01:48:08.680
+Adrian Ezequiel Mart�nez: Acá tenemos, como es el el cóm, ¿Cómo está compuesto.
+
+1004
+01:48:08.880 --> 01:48:19.079
+Adrian Ezequiel Mart�nez: Vemos los puertos de origen de de destino, el número de la secuencia, también el el orden en el que los paquetes tienen que que ser interpretados.
+
+1005
+01:48:19.320 --> 01:48:25.780
+Adrian Ezequiel Mart�nez: El el A. S. K, que es el el check, el arnoles y los
+
+1006
+01:48:26.100 --> 01:48:29.890
+Adrian Ezequiel Mart�nez: lo los diferentes. Este, las diferentes composiciones
+
+1007
+01:48:30.430 --> 01:48:36.330
+Adrian Ezequiel Mart�nez: flax acá dentro de los Flags. Tenemos cada 1 de los de los significados.
+
+1008
+01:48:36.580 --> 01:48:40.519
+Adrian Ezequiel Mart�nez: que es lo que le estaba comentando. El acuse de recibo, que es el anolis
+
+1009
+01:48:43.840 --> 01:48:48.079
+Adrian Ezequiel Mart�nez: acá Tenemos 1 de los que les comentaba al al comienzo
+
+1010
+01:48:48.360 --> 01:49:02.740
+Adrian Ezequiel Mart�nez: que el el el han, que es el proceso de establecimiento de de conexión, es lo que les contaba antes de o Hola, ¿cómo estás y que del otro lado te respondan? En este caso sería. Estás ahí?
+
+1011
+01:49:03.060 --> 01:49:04.460
+Adrian Ezequiel Mart�nez: Sí, estoy.
+
+1012
+01:49:05.210 --> 01:49:08.309
+Adrian Ezequiel Mart�nez: Sí. Estoy. Te te respondo? Genial.
+
+1013
+01:49:08.690 --> 01:49:19.200
+Adrian Ezequiel Mart�nez: Te te doy el Ok, de que de que te entendí. Y ahí, una vez que la conexión se se establece, que es el han, que es como el dar la mano literal
+
+1014
+01:49:19.360 --> 01:49:28.039
+Adrian Ezequiel Mart�nez: este una vez que que ambas ya validaron, que entre ellas este está establecida, la conexión
+
+1015
+01:49:28.230 --> 01:49:35.510
+Adrian Ezequiel Mart�nez: se se lleva adelante el el proceso de de envío de de la información.
+
+1016
+01:49:39.930 --> 01:49:46.509
+Adrian Ezequiel Mart�nez: otro de los de los protocolos que que también conversamos a que por lo menos nombramos es u D. P,
+
+1017
+01:49:46.870 --> 01:49:52.040
+Adrian Ezequiel Mart�nez: y que, a a comparación de la anterior, no garantiza
+
+1018
+01:49:52.320 --> 01:50:00.209
+Adrian Ezequiel Mart�nez: l la la entrega ni ni el orden. Es lo que lo que hablábamos al comienzo de
+
+1019
+01:50:00.500 --> 01:50:04.819
+Adrian Ezequiel Mart�nez: de del de los juegos enred o o del streaming
+
+1020
+01:50:04.970 --> 01:50:08.929
+Adrian Ezequiel Mart�nez: no, no te garantiza que se te van a entregar todos los paquetes.
+
+1021
+01:50:10.950 --> 01:50:23.059
+Adrian Ezequiel Mart�nez: Este es obviamente, es mucho más rápido y está muy utilizado, por ejemplo, en en streaming, en en voz. I, P, Si mal no recuerdo, y y es muy vulnerable a
+
+1022
+01:50:24.130 --> 01:50:26.509
+Adrian Ezequiel Mart�nez: a ataques porque podrías interceptar un
+
+1023
+01:50:27.380 --> 01:50:34.150
+Adrian Ezequiel Mart�nez: un paquete y o o o inundar de paquetes y saturarlo del otro lado.
+
+1024
+01:50:34.660 --> 01:50:47.449
+Adrian Ezequiel Mart�nez: Lo que tiene de de de lindo es que es, no establece conexión, o sea, que mandas mandas bandas sin que del otro lado haya que hacer todo el proceso
+
+1025
+01:50:48.160 --> 01:50:52.409
+Adrian Ezequiel Mart�nez: este directamente entras en la en la conexión
+
+1026
+01:50:53.480 --> 01:51:00.390
+Adrian Ezequiel Mart�nez: y que no, no, no se garantizan la la entrega total de todos los paquetes.
+
+1027
+01:51:03.070 --> 01:51:09.100
+Adrian Ezequiel Mart�nez: Un ejemplo visual de para que se entienda un un poquito más acá se
+
+1028
+01:51:09.270 --> 01:51:13.710
+Adrian Ezequiel Mart�nez: se genera el el el chequeo, el Hanshech.
+
+1029
+01:51:15.610 --> 01:51:27.990
+Adrian Ezequiel Mart�nez: Entonces, una vez que que logran realizar la la conexión que está validada. La conexión se empieza a enviar el paquete y ante cada paquete se da un un Ok, de esa recepción.
+
+1030
+01:51:28.300 --> 01:51:31.539
+Adrian Ezequiel Mart�nez: Sí, lo lo recibí. Te mandé el segundo
+
+1031
+01:51:31.650 --> 01:51:38.390
+Adrian Ezequiel Mart�nez: y así se garantiza la traza completa de todos los paquetes en el caso de Dvp se envía
+
+1032
+01:51:38.510 --> 01:51:45.010
+Adrian Ezequiel Mart�nez: envían vía vía vía con como un una videollamada, envían vía vía vía vía vía y
+
+1033
+01:51:45.270 --> 01:51:49.790
+Adrian Ezequiel Mart�nez: hasta hasta que el el emisor decide no no enviar más paquetes.
+
+1034
+01:51:50.440 --> 01:51:52.689
+Sofia Libertad Velazco Montagna: Y ahí, o sea, el
+
+1035
+01:51:53.440 --> 01:51:59.450
+Sofia Libertad Velazco Montagna: sí puedo volver ahí tal el receptor, El neu 9, siempre es el receptor, el que inicia y
+
+1036
+01:52:00.100 --> 01:52:02.760
+Sofia Libertad Velazco Montagna: la conec o bueno, no es una.
+
+1037
+01:52:02.760 --> 01:52:16.000
+Adrian Ezequiel Mart�nez: La conexión. Si si si correcto vos este vos como el no vamos a ponerles nombres. Pero si el receptor es el que este el que in inicia la solicitud. En el otro caso es el el.
+
+1038
+01:52:16.000 --> 01:52:16.549
+Sofia Libertad Velazco Montagna: La emiso.
+
+1039
+01:52:16.550 --> 01:52:26.530
+Adrian Ezequiel Mart�nez: El emisor correcto en este caso sería el ejemplo práctico. Seríamos nosotros cuando nos nos sumamos a una video.
+
+1040
+01:52:27.050 --> 01:52:29.130
+Sofia Libertad Velazco Montagna: No sigas.
+
+1041
+01:52:29.130 --> 01:52:33.129
+Adrian Ezequiel Mart�nez: Te conectás ¿Vos Iniciás ¿Vos la solicitud del requerimiento?
+
+1042
+01:52:33.710 --> 01:52:35.060
+Adrian Ezequiel Mart�nez: Este.
+
+1043
+01:52:35.060 --> 01:52:39.440
+Sofia Libertad Velazco Montagna: Este lado sería el el servidor que te está enviando.
+
+1044
+01:52:39.440 --> 01:52:41.530
+Adrian Ezequiel Mart�nez: Algo que que pediste.
+
+1045
+01:52:42.020 --> 01:52:42.780
+Sofia Libertad Velazco Montagna: Okay.
+
+1046
+01:52:42.920 --> 01:52:43.900
+Sofia Libertad Velazco Montagna: Gracias.
+
+1047
+01:52:44.160 --> 01:52:51.959
+Adrian Ezequiel Mart�nez: Por favor, acá hay un ejemplo también un poquito más más divertido
+
+1048
+01:52:52.250 --> 01:53:01.309
+Adrian Ezequiel Mart�nez: de que el u u d. P. La la diferencia entre U, D, P y y T, C, P, T, C, P, Ante cada llegada de de la cajita en
+
+1049
+01:53:01.670 --> 01:53:14.469
+Adrian Ezequiel Mart�nez: al a la persona al receptor, hay un chequeo de del otro lado. Te llevo la caja, tal. Te llevó la caja tal y el del otro lado. Fíjate que envían las cajas. Algunas se caen de la cinta.
+
+1050
+01:53:14.600 --> 01:53:22.880
+Adrian Ezequiel Mart�nez: no importan y se siguen recibiendo igual. Algunas llegan rotas y se siguen recibiendo igual. En este caso, están todas parejitas y en orden.
+
+1051
+01:53:24.020 --> 01:53:27.800
+Adrian Ezequiel Mart�nez: es un una de las diferencias
+
+1052
+01:53:31.860 --> 01:53:39.139
+Adrian Ezequiel Mart�nez: y después otros otros conceptos también que hay que
+
+1053
+01:53:39.800 --> 01:53:43.300
+Adrian Ezequiel Mart�nez: ha hay. Hay que tener en en mente, por ejemplo.
+
+1054
+01:53:43.500 --> 01:53:45.700
+Adrian Ezequiel Mart�nez: un un farew y y un nat.
+
+1055
+01:53:46.920 --> 01:53:56.679
+Adrian Ezequiel Mart�nez: lo que lo que muestra el el los 2 dibujitos. La comparativa es que el el Firewall filtra el tráfico según reglas
+
+1056
+01:53:57.630 --> 01:54:01.959
+Adrian Ezequiel Mart�nez: y el y el nat traduce las I Ps privadas a públicas.
+
+1057
+01:54:03.550 --> 01:54:05.740
+Adrian Ezequiel Mart�nez: Nada. Na: Na: Nada más.
+
+1058
+01:54:05.940 --> 01:54:10.450
+Adrian Ezequiel Mart�nez: Este son son equipos, Son equi equipos físicos.
+
+1059
+01:54:10.780 --> 01:54:13.340
+Adrian Ezequiel Mart�nez: Este con diferentes funcionalidades.
+
+1060
+01:54:14.790 --> 01:54:18.349
+Adrian Ezequiel Mart�nez: Si entran a un A, un C, P. D. Está minado de estas cosas.
+
+1061
+01:54:19.140 --> 01:54:23.180
+Adrian Ezequiel Mart�nez: Lo las famosas de destellos de lucecitas.
+
+1062
+01:54:25.030 --> 01:54:29.629
+Adrian Ezequiel Mart�nez: Después tenemos también otros equipos, como los hubs y y los Switch.
+
+1063
+01:54:30.720 --> 01:54:35.269
+Adrian Ezequiel Mart�nez: Tenemos que la diferencia entre que el Hub repite el el tráfico
+
+1064
+01:54:36.590 --> 01:54:41.589
+Adrian Ezequiel Mart�nez: y y el Switch lo envía solo al al destinatario que se pide.
+
+1065
+01:54:42.630 --> 01:54:45.820
+Adrian Ezequiel Mart�nez: No es un es la la diferencia particular.
+
+1066
+01:54:49.590 --> 01:54:58.870
+Adrian Ezequiel Mart�nez: y después tenemos otro concepto, que son los dominios de broadcast y los dominios de de colisión
+
+1067
+01:54:59.900 --> 01:55:05.059
+Adrian Ezequiel Mart�nez: donde vemos que el el el router separa los dominios
+
+1068
+01:55:05.710 --> 01:55:11.430
+Adrian Ezequiel Mart�nez: en para el broadcast. Y en el caso del Switch separa los dominios para la colisión.
+
+1069
+01:55:11.950 --> 01:55:17.210
+Adrian Ezequiel Mart�nez: Los dominios de colisión, perdón son equipos físicos que se encargan de
+
+1070
+01:55:17.760 --> 01:55:20.589
+Adrian Ezequiel Mart�nez: de de realizar la las tareas
+
+1071
+01:55:21.780 --> 01:55:29.820
+Adrian Ezequiel Mart�nez: es darle una una capa más abajo a lo que conversamos en el en en la imagen anterior.
+
+1072
+01:55:31.730 --> 01:55:37.940
+Adrian Ezequiel Mart�nez: Esto viene también atado la parte de geolocalización y rutas a lo que estábamos conversando antes.
+
+1073
+01:55:42.460 --> 01:55:44.740
+Adrian Ezequiel Mart�nez: donde este
+
+1074
+01:55:44.910 --> 01:56:02.789
+Adrian Ezequiel Mart�nez: entra el el Protocolo y I, C, M. P, que era otro de los que habíamos visto en el primer cuadrito, que es un campo de del encabezado de de de Ip del Protocolo de de de Internet valga la la redundancia y que limita l la
+
+1075
+01:56:03.380 --> 01:56:08.889
+Adrian Ezequiel Mart�nez: el tiempo de vida de del paquete, reduciéndolo en en cada
+
+1076
+01:56:09.040 --> 01:56:15.969
+Adrian Ezequiel Mart�nez: en cada salto. Con cada salto es en en cada componente de hardware por el que va pasando el
+
+1077
+01:56:16.090 --> 01:56:20.820
+Adrian Ezequiel Mart�nez: el mensaje. Lo que tiene de de lindo de de interesante
+
+1078
+01:56:20.960 --> 01:56:23.600
+Adrian Ezequiel Mart�nez: es que previene los looks infinitos.
+
+1079
+01:56:23.880 --> 01:56:29.150
+Adrian Ezequiel Mart�nez: o sea, el que el mensaje este de deja de de dar vueltas
+
+1080
+01:56:30.360 --> 01:56:36.279
+Adrian Ezequiel Mart�nez: y que se puede hacer y que se puede. El el Fa utilizar el famoso Tresrood.
+
+1081
+01:56:36.480 --> 01:56:39.799
+Adrian Ezequiel Mart�nez: que es el trasiego de de los paquetes
+
+1082
+01:56:45.820 --> 01:56:54.450
+Adrian Ezequiel Mart�nez: que lo vamos a ver más en las próximas diapositivas. Si mal no recuerdo, esto es como está compuesto, el el el Icmp.
+
+1083
+01:56:54.770 --> 01:56:55.810
+Adrian Ezequiel Mart�nez: donde
+
+1084
+01:56:55.960 --> 01:57:03.130
+Adrian Ezequiel Mart�nez: está el el el Heather de I P. El heather propio de de I, C, M P. Y los datos de
+
+1085
+01:57:03.620 --> 01:57:10.779
+Adrian Ezequiel Mart�nez: de de este protocolo en particular, tiene la misma L. El El Hyder tiene la longitud de 32 bits.
+
+1086
+01:57:12.550 --> 01:57:16.369
+Adrian Ezequiel Mart�nez: y existen de de 8 tipos?
+
+1087
+01:57:16.530 --> 01:57:18.749
+Adrian Ezequiel Mart�nez: No, no, no más que eso.
+
+1088
+01:57:23.150 --> 01:57:31.590
+Adrian Ezequiel Mart�nez: Y ahora venimos, llegamos al a la traza de las rutas, el
+
+1089
+01:57:33.090 --> 01:57:51.219
+Adrian Ezequiel Mart�nez: de de no, no sé por donde comenzar, acá porque es bastante bastante grande. Pero según el el estándar I, P, el el campo de de del T T. L es el Time Time to tu lib. Si mal no recuerdo, la la definición correcta.
+
+1090
+01:57:51.220 --> 01:57:53.850
+Adrian Ezequiel Mart�nez: si se
+
+1091
+01:57:53.980 --> 01:58:06.019
+Adrian Ezequiel Mart�nez: es, es reducido en 1 por los routers. Cada vez que el que el atagrama llega al dispositivo, o sea que cada vez que el el la mensajería va pasando por cada componente de hardware se se va, se va reduciendo.
+
+1092
+01:58:06.900 --> 01:58:12.710
+Adrian Ezequiel Mart�nez: Cuando el ese ese T T L llega a 0.
+
+1093
+01:58:13.470 --> 01:58:20.000
+Adrian Ezequiel Mart�nez: Mientras no llegue a 0 perdón, el router puede reenviar el el paquete.
+
+1094
+01:58:20.180 --> 01:58:24.409
+Adrian Ezequiel Mart�nez: En el caso que llega a 0, se
+
+1095
+01:58:25.310 --> 01:58:31.549
+Adrian Ezequiel Mart�nez: se utiliza un tipo particular, que es el tipo 11 que indica que es que se extendió el tiempo de de origen.
+
+1096
+01:58:32.710 --> 01:58:43.819
+Adrian Ezequiel Mart�nez: Se este este tiempo de de vida se se implementa para evitar que que el datagrama, lo que comentaba al comienzo entre en un loop y quede dando vueltas
+
+1097
+01:58:44.240 --> 01:58:48.309
+Adrian Ezequiel Mart�nez: por por por toda la la infraestructura de de la red.
+
+1098
+01:58:49.800 --> 01:58:57.380
+Adrian Ezequiel Mart�nez: Hay que evitar, como como comentario este hay que evitar la se la los paquetes
+
+1099
+01:58:58.110 --> 01:59:05.749
+Adrian Ezequiel Mart�nez: que que comiencen en 1 e ir incrementando lo que es lo lo contrario, que es lo que comentamos al comienzo
+
+1100
+01:59:11.000 --> 01:59:17.050
+Adrian Ezequiel Mart�nez: el famoso 3 Root, que es lo que no los que nos permite ver es el
+
+1101
+01:59:17.300 --> 01:59:34.750
+Adrian Ezequiel Mart�nez: el el destino de de cada paquete. Tres Root es una herramienta que permite ver el destino de enviado de paquetes de de manera incremental para llegar desde un desde una a hasta un B. En este caso: ¿Cuánto tarda en en llegar a
+
+1102
+01:59:34.850 --> 01:59:37.030
+Adrian Ezequiel Mart�nez: a Google en el ejempjito de acá abajo.
+
+1103
+01:59:40.470 --> 01:59:48.529
+Adrian Ezequiel Mart�nez: Lo Lo lindo de de esto es que Mapea, la la infraestructura intermedia te permite ver cuántos saltos hay
+
+1104
+01:59:48.940 --> 01:59:52.819
+Adrian Ezequiel Mart�nez: En este. En este ejemplo, hay 7 7 saltos.
+
+1105
+01:59:53.930 --> 02:00:00.859
+Adrian Ezequiel Mart�nez: Yo te doy una idea de que pasa por 7 dispositivos de hardware en en el medio antes de de llegar al
+
+1106
+02:00:01.680 --> 02:00:06.740
+Adrian Ezequiel Mart�nez: al al destino y que vemos que lo los tiempos de
+
+1107
+02:00:07.330 --> 02:00:20.250
+Adrian Ezequiel Mart�nez: de de ca por por los que pasan en cada dispositivo se van incrementando, que es lo que comentábamos antes en el tiempo. Uno, el tiempo, 2, y así sucesivamente hasta llegar al al último. Y lo hemos expresado en
+
+1108
+02:00:20.590 --> 02:00:24.350
+Adrian Ezequiel Mart�nez: en milisegundos, que son los los saltos.
+
+1109
+02:00:26.710 --> 02:00:33.340
+Adrian Ezequiel Mart�nez: y llegamos a la geolocalización, que es lo que estábamos viendo antes co comentando antes. Tenemos
+
+1110
+02:00:33.720 --> 02:00:39.010
+Adrian Ezequiel Mart�nez: es algo muy, muy importante desde el punto de vista de
+
+1111
+02:00:39.830 --> 02:00:46.919
+Adrian Ezequiel Mart�nez: de del del hacking, tanto defensivo como u ofensivo, y en el desarrollo de aplicaciones también
+
+1112
+02:00:47.220 --> 02:00:57.659
+Adrian Ezequiel Mart�nez: este donde se puede estimar el el Do, ¿Dónde está físicamente desde donde estás saliendo físicamente.
+
+1113
+02:00:58.630 --> 02:01:03.299
+Adrian Ezequiel Mart�nez: hay diferentes páginas que te dicen desde dónde está saliendo.
+
+1114
+02:01:03.450 --> 02:01:06.320
+Adrian Ezequiel Mart�nez: Y podrías ver cuál es tu
+
+1115
+02:01:08.360 --> 02:01:12.410
+Adrian Ezequiel Mart�nez: tu tu salida, a ver. Vamos a probar donde estoy. Yo
+
+1116
+02:01:13.590 --> 02:01:19.920
+Adrian Ezequiel Mart�nez: mi P: A ver si dice dónde estoy a ver un ejemplo.
+
+1117
+02:01:22.070 --> 02:01:23.670
+Adrian Ezequiel Mart�nez: Algo divertido. No
+
+1118
+02:01:26.830 --> 02:01:28.760
+Adrian Ezequiel Mart�nez: mira, estoy saliendo
+
+1119
+02:01:29.750 --> 02:01:35.830
+Adrian Ezequiel Mart�nez: por una ciudad que se llama cabeza de buey que está en Extremadura. No me encuentro en Extremadura.
+
+1120
+02:01:37.340 --> 02:01:42.070
+Adrian Ezequiel Mart�nez: Este sí estoy saliendo por Orange los datos de
+
+1121
+02:01:42.310 --> 02:01:45.569
+Adrian Ezequiel Mart�nez: mirar hasta la estación de del clima.
+
+1122
+02:01:45.720 --> 02:01:55.350
+Adrian Ezequiel Mart�nez: pero te dice que estoy localizado. Acá En realidad estoy saliendo por, acá No, no estoy localizado en Extremadura puntualmente, pero estoy saliendo por por acá
+
+1123
+02:01:56.120 --> 02:02:02.949
+Adrian Ezequiel Mart�nez: y demás datos de geolocalización, la la elevación de dónde está la antena, el código de
+
+1124
+02:02:03.480 --> 02:02:07.990
+Adrian Ezequiel Mart�nez: del de la red. Por ejemplo, ¿qué tipo de categoría
+
+1125
+02:02:08.410 --> 02:02:10.759
+Adrian Ezequiel Mart�nez: e el que me da el servicio? Está bien.
+
+1126
+02:02:12.070 --> 02:02:17.170
+Adrian Ezequiel Mart�nez: El tipo de de uso que, saliendo por Unicet y mi Peinson.
+
+1127
+02:02:21.660 --> 02:02:26.080
+Eduardo Manuel Rocha: E está ahora? ¿estás usando los datos del teléfono, o es tu tu internet de Wifi de.
+
+1128
+02:02:26.080 --> 02:02:29.170
+Adrian Ezequiel Mart�nez: Es mi Internet. Uso un sistema de 5 uso 5. G:
+
+1129
+02:02:33.250 --> 02:02:39.320
+Adrian Ezequiel Mart�nez: No, no tengo, No tengo proveedor de tipo tipo Fivertel, que es como si
+
+1130
+02:02:39.320 --> 02:02:42.979
+Eduardo Manuel Rocha: Sí, Sí, es una locura. Yo viajé hace un par de años. Me compré una E. S. I, M.
+
+1131
+02:02:43.350 --> 02:02:46.170
+Adrian Ezequiel Mart�nez: Eso toma un router que le clavas la.
+
+1132
+02:02:46.170 --> 02:02:53.250
+Eduardo Manuel Rocha: Claro, exactamente exactamente Usa. Creo que algunos postres de mercado pavo viste.
+
+1133
+02:02:53.250 --> 02:02:54.380
+Adrian Ezequiel Mart�nez: Eso.
+
+1134
+02:02:54.380 --> 02:02:55.529
+Eduardo Manuel Rocha: No lo he visto, pero.
+
+1135
+02:02:55.530 --> 02:02:58.890
+Adrian Ezequiel Mart�nez: Sí, Sí, sí que, dicho sea de paso
+
+1136
+02:02:59.090 --> 02:03:11.009
+Adrian Ezequiel Mart�nez: E E es, es: está bueno. No, N: No soy comercial, de ventas de Orange no sirvo como venta. Pero el sistema está bueno si no querés tirar un un cable de fibra.
+
+1137
+02:03:11.260 --> 02:03:19.549
+Eduardo Manuel Rocha: Este y agujerear paredes. No es una locura. Yo estoy. Yo tuve cobertura en casi toda Europa.
+
+1138
+02:03:19.830 --> 02:03:23.249
+Adrian Ezequiel Mart�nez: Sí, Sí, sí. Y vuela vuela.
+
+1139
+02:03:23.250 --> 02:03:25.960
+Eduardo Manuel Rocha: Raro. Eso tenemos. Tenemos buena latencia.
+
+1140
+02:03:26.450 --> 02:03:26.960
+Eduardo Manuel Rocha: Ah, sí.
+
+1141
+02:03:26.960 --> 02:03:30.810
+Adrian Ezequiel Mart�nez: No, no te sirve si quieres jugar jueguitos. Por ejemplo, yo tengo el.
+
+1142
+02:03:30.880 --> 02:03:34.080
+Eduardo Manuel Rocha: El eso siempre va a ser así. Sí, Hokee.
+
+1143
+02:03:34.080 --> 02:03:34.969
+Adrian Ezequiel Mart�nez: El envidia.
+
+1144
+02:03:34.970 --> 02:03:35.520
+Eduardo Manuel Rocha: Pero.
+
+1145
+02:03:35.520 --> 02:03:36.400
+Adrian Ezequiel Mart�nez: El aparatito.
+
+1146
+02:03:36.400 --> 02:03:36.970
+Eduardo Manuel Rocha: Era.
+
+1147
+02:03:37.540 --> 02:03:42.880
+Adrian Ezequiel Mart�nez: Exacto si no, no, no, no está recomendado para para muy baja latencia.
+
+1148
+02:03:43.340 --> 02:03:49.269
+Adrian Ezequiel Mart�nez: Pero para las actividades de de trabajo y ver una peli. Cada tanto está súper bien.
+
+1149
+02:03:49.870 --> 02:03:56.009
+Adrian Ezequiel Mart�nez: Este lo único que tiene es que, por ejemplo, en determinadas horas del día esa demanda.
+
+1150
+02:03:56.260 --> 02:03:59.100
+Adrian Ezequiel Mart�nez: Este. Hay días que vi que tienes 700 megas.
+
+1151
+02:03:59.270 --> 02:04:03.510
+Eduardo Manuel Rocha: Esa sí ya acá también era así. En su momento.
+
+1152
+02:04:03.900 --> 02:04:07.669
+Adrian Ezequiel Mart�nez: Pero nada. La vez que tengo 700
+
+1153
+02:04:07.770 --> 02:04:16.450
+Adrian Ezequiel Mart�nez: descorcho, una botella de agua. Y las veces que tengo 2 50 lo mismo porque a mí no me afecta. Pero este se nota.
+
+1154
+02:04:17.770 --> 02:04:21.529
+Exequiel Alvarez Bianco: Tan variable, o sea, porque no es es algo meramente fijo.
+
+1155
+02:04:21.740 --> 02:04:28.880
+Exequiel Alvarez Bianco: o sea, porque está bien que se te sientes mucho. Está bien, pero 200 perdón, no es mucho, pero de 700 A. 200 y como.
+
+1156
+02:04:29.150 --> 02:04:31.280
+Adrian Ezequiel Mart�nez: Mucho. Sí, hay un montón.
+
+1157
+02:04:31.280 --> 02:04:38.250
+Eduardo Manuel Rocha: El servicio multiflexado es como en su momento también acá era contratar 100 mega. Tenía 20 y bueno, lo.
+
+1158
+02:04:38.250 --> 02:04:39.439
+Adrian Ezequiel Mart�nez: Exacto. Sí.
+
+1159
+02:04:39.810 --> 02:04:42.200
+Eduardo Manuel Rocha: Nosotros te ofrecemos hasta esta.
+
+1160
+02:04:42.200 --> 02:04:46.049
+Adrian Ezequiel Mart�nez: Exacto sí ha hasta hasta un giga. Creo que que es válido.
+
+1161
+02:04:46.260 --> 02:04:48.499
+Adrian Ezequiel Mart�nez: pero de ahí a nunca llegó un giga.
+
+1162
+02:04:48.500 --> 02:04:50.710
+Eduardo Manuel Rocha: Igual mega ya ya está.
+
+1163
+02:04:50.710 --> 02:04:51.399
+Adrian Ezequiel Mart�nez: Es un montón.
+
+1164
+02:04:51.400 --> 02:04:52.280
+Eduardo Manuel Rocha: A sí.
+
+1165
+02:04:52.280 --> 02:05:01.059
+Adrian Ezequiel Mart�nez: Sí sí. Y para el el uso que le podés dar en tu casa, que es trabajar. Y cada tanto bueno, yo personalmente.
+
+1166
+02:05:01.060 --> 02:05:02.999
+Eduardo Manuel Rocha: Límite de gigas mensual.
+
+1167
+02:05:03.000 --> 02:05:04.030
+Adrian Ezequiel Mart�nez: No.
+
+1168
+02:05:04.030 --> 02:05:04.810
+Eduardo Manuel Rocha: Es nada.
+
+1169
+02:05:04.810 --> 02:05:05.210
+Adrian Ezequiel Mart�nez: Es que.
+
+1170
+02:05:05.210 --> 02:05:05.950
+Eduardo Manuel Rocha: No. Eso está.
+
+1171
+02:05:05.950 --> 02:05:06.439
+Adrian Ezequiel Mart�nez: Y del y.
+
+1172
+02:05:06.440 --> 02:05:07.050
+Eduardo Manuel Rocha: Está la.
+
+1173
+02:05:07.260 --> 02:05:15.730
+Adrian Ezequiel Mart�nez: De hecho, si ves mis tasas de consumo, no es muy alto, pero este
+
+1174
+02:05:15.850 --> 02:05:18.890
+Adrian Ezequiel Mart�nez: la la amplitud es más que nada por
+
+1175
+02:05:19.070 --> 02:05:25.579
+Adrian Ezequiel Mart�nez: por los usu, por la cantidad de de carga que tenga un una antena, el nodo al que estés conectado.
+
+1176
+02:05:26.320 --> 02:05:30.310
+Adrian Ezequiel Mart�nez: Pensar que es como el teléfono donde te conectas a a una antena.
+
+1177
+02:05:30.710 --> 02:05:45.399
+Adrian Ezequiel Mart�nez: En realidad es así. Y el teléfono es el router. Y entonces vos te conectas a una a una antena. Y si esa antena está con muchos usuarios, se reparte la capacidad de esa antena entre todos los usuarios. Entonces puedes tener 2, 50
+
+1178
+02:05:46.500 --> 02:05:50.820
+Adrian Ezequiel Mart�nez: o o menos. Y si hay pocos usuarios.
+
+1179
+02:05:51.310 --> 02:05:56.410
+Adrian Ezequiel Mart�nez: este tienes unas tasas muy altas. Lo Lo recomendable es que
+
+1180
+02:05:56.720 --> 02:06:11.710
+Adrian Ezequiel Mart�nez: 1 acá hay ba. Hay varias antenas, Pero de de acuerdo al a la a la saturación de cada antena, este, puedes tener de de usuarios conectados a esa antena. Podés tener este más o menos tasas de descarga.
+
+1181
+02:06:12.180 --> 02:06:15.620
+Adrian Ezequiel Mart�nez: Y bastante bien. la verdad, Muy muy bien.
+
+1182
+02:06:15.720 --> 02:06:25.010
+Adrian Ezequiel Mart�nez: es más caro el servicio, pero también tienes la practicidad de me lo llevo. Me me desconecto el router de de la corriente, me voy a otro lado y me lo llevo.
+
+1183
+02:06:25.250 --> 02:06:28.459
+Adrian Ezequiel Mart�nez: Es Es supercómodo. Estás pagando comodidad en el fondo
+
+1184
+02:06:28.890 --> 02:06:31.680
+Adrian Ezequiel Mart�nez: y y usabilidad que está buenísimo.
+
+1185
+02:06:34.550 --> 02:06:39.810
+Sofia Libertad Velazco Montagna: Con respecto a esto de la geolocalización de I, P. S.
+
+1186
+02:06:40.350 --> 02:06:48.449
+Sofia Libertad Velazco Montagna: Cuando se usa una V p. N, igual es posible geolocalizar real en realmente.
+
+1187
+02:06:48.880 --> 02:06:55.890
+Adrian Ezequiel Mart�nez: Te cambia la la lo la localización, probarlo.
+
+1188
+02:06:56.610 --> 02:07:07.200
+Sofia Libertad Velazco Montagna: Claro la localización, pero siempre, digamos si se hace el seguimiento. Bien es como que siempre va a llegar a tu ubicación final.
+
+1189
+02:07:08.430 --> 02:07:12.879
+Adrian Ezequiel Mart�nez: Lo que te garantizan. Lo que los los proveedores de V. P. N.
+
+1190
+02:07:13.080 --> 02:07:20.660
+Adrian Ezequiel Mart�nez: Es que no nunca van a a revelar donde estás realmente o, por ejemplo, en el ejemplito de recién
+
+1191
+02:07:22.080 --> 02:07:23.620
+Adrian Ezequiel Mart�nez: polibrio a ver si.
+
+1192
+02:07:23.620 --> 02:07:26.590
+Sofia Libertad Velazco Montagna: Cómo no, y cómo no lo o sea.
+
+1193
+02:07:26.870 --> 02:07:38.370
+Adrian Ezequiel Mart�nez: Ejemplo. Yo no estoy. Acá No estoy en en Madrid, Pero si yo me me subo una VPN va a saltar o o debería aparecer, de hecho, que yo no estoy. Acá
+
+1194
+02:07:38.860 --> 02:07:52.190
+Adrian Ezequiel Mart�nez: Entonces el el que el que ve el que quiera ver dónde estoy va, va va va a ver la dirección que me provee la V. P. N No va a saber nunca que estoy en en este lugar.
+
+1195
+02:07:52.930 --> 02:07:57.999
+Martin Daus: Claro, entiendo que justamente la idea de la VPN es que vos te conectas a ellos y ellos se conectan por vos.
+
+1196
+02:07:58.370 --> 02:08:03.810
+Adrian Ezequiel Mart�nez: Y nunca te nu nunca dan a conocer tu tu lugar.
+
+1197
+02:08:04.080 --> 02:08:11.240
+Sofia Libertad Velazco Montagna: Pero no hay F, No hay ninguna forma de de romper eso. Digamos, o sea, de que ponerle Si alguien me está.
+
+1198
+02:08:11.710 --> 02:08:17.960
+Sofia Libertad Velazco Montagna: No sé un cómo se llama esto cuando en Mann in the Mittle. O sea, tampoco lo podría
+
+1199
+02:08:18.420 --> 02:08:20.280
+Sofia Libertad Velazco Montagna: sacar, digamos, donde estoy realmente.
+
+1200
+02:08:20.280 --> 02:08:23.020
+Adrian Ezequiel Mart�nez: No, no, no, te técnicamente, No.
+
+1201
+02:08:23.660 --> 02:08:25.049
+Sofia Libertad Velazco Montagna: Okay Okay.
+
+1202
+02:08:25.050 --> 02:08:25.840
+Adrian Ezequiel Mart�nez: Seguramente el.
+
+1203
+02:08:25.840 --> 02:08:27.580
+Sofia Libertad Velazco Montagna: Alguna duda existencial que tenía.
+
+1204
+02:08:27.580 --> 02:08:34.630
+Adrian Ezequiel Mart�nez: Sí, Sí, To: totalmente. Sí, El de hecho es para que quedes este anónimo no me salía la palabra
+
+1205
+02:08:34.810 --> 02:08:42.310
+Adrian Ezequiel Mart�nez: anónimo. Entonces. N: nadie va Na: Nadie podría saber de una manera muy, muy sencilla.
+
+1206
+02:08:42.590 --> 02:08:45.150
+Adrian Ezequiel Mart�nez: Este seguramente alguna técnica tiene que haber
+
+1207
+02:08:45.310 --> 02:08:58.310
+Adrian Ezequiel Mart�nez: que yo la la desconozco, pero seguramente tiene que haber alguna de decir. Adrián está saliendo por una V. P. N, Y a él él me figura que está en Holanda por la V. P. N, Pero en realidad está en España
+
+1208
+02:09:00.020 --> 02:09:03.350
+Adrian Ezequiel Mart�nez: y la V P. N enmascara de
+
+1209
+02:09:03.470 --> 02:09:11.370
+Adrian Ezequiel Mart�nez: de de dónde estoy saliendo realmente y expone que estoy en en Holanda, podríamos probarlo a ver.
+
+1210
+02:09:11.370 --> 02:09:24.819
+Sofia Libertad Velazco Montagna: Claro, pero ponerle, o sea, si si hubieran metido, No sé cierto tipo de, no no sé ponerle la silla a ponerle. Te están investigando o algo así, ¿sí? Digamos si estás con el internet en tu casa, por ejemplo, y sí,
+
+1211
+02:09:25.100 --> 02:09:26.130
+Sofia Libertad Velazco Montagna: o sea, no hay depende.
+
+1212
+02:09:26.130 --> 02:09:26.990
+Adrian Ezequiel Mart�nez: Sí.
+
+1213
+02:09:27.540 --> 02:09:32.370
+Adrian Ezequiel Mart�nez: Sí, La recomendación es que siempre utilizar una V, P. N, Siempre.
+
+1214
+02:09:32.730 --> 02:09:40.190
+Adrian Ezequiel Mart�nez: no no solamente para cambiar la regionalización de de Netflix o de Amazon. Importa el proveedor que quieras
+
+1215
+02:09:40.650 --> 02:09:45.500
+Adrian Ezequiel Mart�nez: y ve y ver contenidos de de otro país o ver el fútbol de otro país
+
+1216
+02:09:45.870 --> 02:09:49.930
+Adrian Ezequiel Mart�nez: este, sino también para no dar pistas de de dónde estás.
+
+1217
+02:09:51.830 --> 02:09:52.480
+Adrian Ezequiel Mart�nez: Sí.
+
+1218
+02:09:52.480 --> 02:09:54.679
+Sofia Libertad Velazco Montagna: Claro. Pero igualmente, si usas tu internet
+
+1219
+02:09:55.060 --> 02:10:00.870
+Sofia Libertad Velazco Montagna: así, tu propio internet con tu nombre y tu apellido, o sea, en un de una u otra forma. Eso.
+
+1220
+02:10:01.260 --> 02:10:05.620
+Adrian Ezequiel Mart�nez: Lo que pueden ver es que estás utilizando una V. P: N.
+
+1221
+02:10:07.150 --> 02:10:07.859
+Adrian Ezequiel Mart�nez: Eso sí.
+
+1222
+02:10:08.710 --> 02:10:16.390
+Adrian Ezequiel Mart�nez: Eso se puede saber. Lo que no se puede saber es qué hay atrás de esa lo que no se podría saber tan fácil es que.
+
+1223
+02:10:16.390 --> 02:10:17.270
+Sofia Libertad Velazco Montagna: La navegación.
+
+1224
+02:10:17.270 --> 02:10:18.809
+Adrian Ezequiel Mart�nez: ¿qué hay atrás de esa veterana.
+
+1225
+02:10:18.810 --> 02:10:20.380
+Sofia Libertad Velazco Montagna: O lo que os claro.
+
+1226
+02:10:21.220 --> 02:10:27.150
+Adrian Ezequiel Mart�nez: Sí se puede saber que está saliendo por determinado país o determinada regionalización.
+
+1227
+02:10:27.870 --> 02:10:29.970
+Adrian Ezequiel Mart�nez: pero no si es la real.
+
+1228
+02:10:31.420 --> 02:10:32.290
+Adrian Ezequiel Mart�nez: ¿correcto?
+
+1229
+02:10:32.750 --> 02:10:35.669
+Adrian Ezequiel Mart�nez: Yo, por ejemplo, utilizo Proton, V. P. N,
+
+1230
+02:10:36.160 --> 02:10:44.590
+Adrian Ezequiel Mart�nez: Y pasa eso, pues puedes ser cambiar de desde qué lugar salir. Y para el otro.
+
+1231
+02:10:44.870 --> 02:10:51.060
+Adrian Ezequiel Mart�nez: este para el destino. Vos? ¿estás saliendo del lugar que elegiste? No, No estoy saliendo de de donde figuró.
+
+1232
+02:10:51.060 --> 02:10:52.160
+Sofia Libertad Velazco Montagna: Y si no.
+
+1233
+02:10:52.160 --> 02:10:52.630
+Adrian Ezequiel Mart�nez: Ya no.
+
+1234
+02:10:52.860 --> 02:10:58.400
+Sofia Libertad Velazco Montagna: Para tu proveedor de Internet. Tampoco. Eso es un no. O sea, no.
+
+1235
+02:10:58.690 --> 02:11:00.080
+Adrian Ezequiel Mart�nez: No, no, no, no, le.
+
+1236
+02:11:00.080 --> 02:11:03.410
+Sofia Libertad Velazco Montagna: O sea, ya que vos recibís, digamos.
+
+1237
+02:11:03.410 --> 02:11:04.529
+Adrian Ezequiel Mart�nez: Correcto. Sí.
+
+1238
+02:11:04.530 --> 02:11:12.030
+Sofia Libertad Velazco Montagna: Esto va, pero no pasa. O sea, tu proveedor con el Internet no ni se entera.
+
+1239
+02:11:12.030 --> 02:11:19.610
+Adrian Ezequiel Mart�nez: No para nada es transparente, es transparente. El me me da el servicio de de Internet y lo que haga yo con con el servicio
+
+1240
+02:11:19.800 --> 02:11:23.380
+Adrian Ezequiel Mart�nez: problema mío, a donde me conecte, es problema mío
+
+1241
+02:11:24.320 --> 02:11:30.800
+Adrian Ezequiel Mart�nez: y de la manera que me conecte, pero no no tiene restricciones
+
+1242
+02:11:31.030 --> 02:11:36.550
+Adrian Ezequiel Mart�nez: o no, o por lo menos, Orange No, no tiene restricciones de de donde me conecto
+
+1243
+02:11:37.120 --> 02:11:41.710
+Adrian Ezequiel Mart�nez: hay algunos países que sí que R que tienen restringido. No es el caso.
+
+1244
+02:11:42.660 --> 02:11:49.529
+Adrian Ezequiel Mart�nez: pero sí incluso hay restringido l u en países en los que las V P. N. Pueden funcionar.
+
+1245
+02:11:50.160 --> 02:11:53.730
+Adrian Ezequiel Mart�nez: Bueno, hubo un tema con el fútbol puntualmente.
+
+1246
+02:11:54.190 --> 02:11:59.580
+Adrian Ezequiel Mart�nez: Yo no, no, no soy futbolero, pero están los los canales de streaming que lo que hacen es
+
+1247
+02:11:59.990 --> 02:12:14.980
+Adrian Ezequiel Mart�nez: tomar una señal. Entonces, ¿vos utilizas una V? P. N, para ver el el evento de de algún de algún país en en particular. Y lo que se hizo es súper reciente. Este es bloquear determinados proveedores.
+
+1248
+02:12:15.350 --> 02:12:21.610
+Adrian Ezequiel Mart�nez: Entonces no te puedes conectar a ver las carreras, el fútbol e eventos, lo que sea de determinado país.
+
+1249
+02:12:22.160 --> 02:12:22.560
+Sofia Libertad Velazco Montagna: Mhm.
+
+1250
+02:12:22.560 --> 02:12:23.269
+Exequiel Alvarez Bianco: Eso te iba a consultar.
+
+1251
+02:12:23.270 --> 02:12:23.600
+Adrian Ezequiel Mart�nez: En el.
+
+1252
+02:12:23.600 --> 02:12:24.250
+Exequiel Alvarez Bianco: De eso.
+
+1253
+02:12:24.250 --> 02:12:26.380
+Adrian Ezequiel Mart�nez: Codificado el famoso codificado.
+
+1254
+02:12:26.610 --> 02:12:31.910
+Exequiel Alvarez Bianco: En base a esto de que están bloqueadas conexiones ahí en España que se me acaba de me lo acabo de guardar
+
+1255
+02:12:32.340 --> 02:12:44.389
+Exequiel Alvarez Bianco: que tanto te afecta. Si es verdad que los domingos. Creo que ahora no me acuerdo. Bien, ¿qué día que tiraban el Internet directamente de ciertas zonas. Y es así de que no puedes usar Internet para nada.
+
+1256
+02:12:44.560 --> 02:12:50.160
+Adrian Ezequiel Mart�nez: Para nada. Sí, hay. Está buenísimo ahí métricas de
+
+1257
+02:12:50.330 --> 02:12:59.130
+Adrian Ezequiel Mart�nez: de las Vi de de Argentina, las vi, pero el movistar tiene, que es que es la misma caca allá que en todos lados
+
+1258
+02:12:59.350 --> 02:13:10.710
+Adrian Ezequiel Mart�nez: hay detecta. Es, ¿Está la métrica? Es pública que se ve que en algún momento del fin de semana las conexiones se disparan.
+
+1259
+02:13:11.640 --> 02:13:20.089
+Adrian Ezequiel Mart�nez: Proponerle mantenés. 30 000 000 de conexiones parejito, que es tu tu media, Y después, si te dispara a 100 000 000,
+
+1260
+02:13:20.310 --> 02:13:23.859
+Adrian Ezequiel Mart�nez: entonces empiezan a a ver qué es lo que pasa
+
+1261
+02:13:24.090 --> 02:13:30.459
+Adrian Ezequiel Mart�nez: y a a a a ver el porqué de ese incremento y todos se conectan a determinados
+
+1262
+02:13:30.830 --> 02:13:37.880
+Adrian Ezequiel Mart�nez: de proveedores de contenidos que llames. Cualquier cosa, no fútbol, eventos de música, lo que sea.
+
+1263
+02:13:37.980 --> 02:13:57.659
+Adrian Ezequiel Mart�nez: Entonces eso es ilegal porque vos es. Hay gente que paga el el servicio, un codificado. Vos pagas el el fútbol, por ejemplo. Entonces hay gente que se conecta de forma ilegal, y eso lo lo ven. Se se ve el consumo. Y entonces lo que hicieron acá es
+
+1264
+02:13:57.690 --> 02:14:02.340
+Adrian Ezequiel Mart�nez: cortar el el servicio a a un montón de gente.
+
+1265
+02:14:02.700 --> 02:14:10.260
+Adrian Ezequiel Mart�nez: y saben que que persona lo lo utilizaba. Entonces le le cortan el servicio y y te y pueden
+
+1266
+02:14:10.470 --> 02:14:15.700
+Adrian Ezequiel Mart�nez: hacer que que se caiga el servicio tranquilamente. Sí.
+
+1267
+02:14:17.260 --> 02:14:21.110
+Exequiel Alvarez Bianco: Sí algún alguna cosa de producción de consumidor, algo así, porque.
+
+1268
+02:14:21.120 --> 02:14:21.920
+Adrian Ezequiel Mart�nez: Sí, Sí.
+
+1269
+02:14:21.920 --> 02:14:24.499
+Exequiel Alvarez Bianco: De hecho, hay muchos sentidos que se.
+
+1270
+02:14:24.500 --> 02:14:25.060
+Adrian Ezequiel Mart�nez: Pero no.
+
+1271
+02:14:25.060 --> 02:14:27.470
+Exequiel Alvarez Bianco: Ver un Netflix. No puedo porque.
+
+1272
+02:14:27.960 --> 02:14:41.919
+Adrian Ezequiel Mart�nez: Hubo un usuario, hubo muchos usuarios afectados, incluso el con esta diferencia que te contaba de los 70 000 000 entre los que están conectados y y el pico este provocan un cuello de botella en en la red.
+
+1273
+02:14:42.070 --> 02:14:45.780
+Adrian Ezequiel Mart�nez: Entonces la forma de bajarlos a todos de manera
+
+1274
+02:14:46.040 --> 02:14:50.959
+Adrian Ezequiel Mart�nez: rápida y no diplomática, es les corto a todos el servicio
+
+1275
+02:14:51.720 --> 02:14:55.430
+Adrian Ezequiel Mart�nez: y ves que las conexiones se caen a 0,
+
+1276
+02:14:56.650 --> 02:15:01.409
+Adrian Ezequiel Mart�nez: y las cuando las investigan este empiezan a ver que hay gente
+
+1277
+02:15:01.960 --> 02:15:06.340
+Adrian Ezequiel Mart�nez: que hace uso ilegal de de de determinados servicios
+
+1278
+02:15:07.180 --> 02:15:13.370
+Adrian Ezequiel Mart�nez: y después las vuelven a restablecer. Banean, la cortan las I Ps que tienen esos servicios
+
+1279
+02:15:13.540 --> 02:15:17.390
+Adrian Ezequiel Mart�nez: acceso a esos servicios y vuelven a a su media normal.
+
+1280
+02:15:17.560 --> 02:15:24.819
+Adrian Ezequiel Mart�nez: Pero sí hay hubo un un problema muy grande con movistar puntualmente, que es el proveedor más grande de de este tipo de
+
+1281
+02:15:25.030 --> 02:15:27.830
+Adrian Ezequiel Mart�nez: de servicios y
+
+1282
+02:15:28.260 --> 02:15:38.570
+Adrian Ezequiel Mart�nez: este, entre otros no. Pero el el tipo de vieron que se disparó el consumo y bajaron el el cable para todos, Se cortaron el servicio literal.
+
+1283
+02:15:38.860 --> 02:15:39.700
+Adrian Ezequiel Mart�nez: ¿sí?
+
+1284
+02:15:40.330 --> 02:15:41.150
+Exequiel Alvarez Bianco: Oír.
+
+1285
+02:15:41.650 --> 02:15:49.009
+Adrian Ezequiel Mart�nez: Y hubo aparte. No, No Fueron do. Do, 2 min Fueron como fueron 2 o 3 h. Fue
+
+1286
+02:15:49.190 --> 02:15:51.480
+Adrian Ezequiel Mart�nez: un tiempo muy grande.
+
+1287
+02:15:51.640 --> 02:15:56.409
+Adrian Ezequiel Mart�nez: Yo calculo que va a haber un S L a que que están cumpliendo.
+
+1288
+02:15:56.760 --> 02:16:02.079
+Adrian Ezequiel Mart�nez: Pero este sí fue un una caída muy grande. De hecho, fue un tema muy, muy tratado
+
+1289
+02:16:02.770 --> 02:16:06.239
+Adrian Ezequiel Mart�nez: y que te trajo mucho, mucho lío.
+
+1290
+02:16:06.600 --> 02:16:12.309
+Adrian Ezequiel Mart�nez: Así que este sí sí sí es. P. Puede pasar tranquilamente.
+
+1291
+02:16:14.100 --> 02:16:14.670
+Exequiel Alvarez Bianco: Joder.
+
+1292
+02:16:17.460 --> 02:16:21.890
+Adrian Ezequiel Mart�nez: Y para ir este redondeando los temas
+
+1293
+02:16:22.130 --> 02:16:28.230
+Adrian Ezequiel Mart�nez: a un poco de de historia que creo que todos conocemos, aunque sea un poquito
+
+1294
+02:16:28.900 --> 02:16:39.150
+Adrian Ezequiel Mart�nez: que in Internet nació de de un de una necesidad de de un proyecto de una necesidad del Departamento de Defensa de Estados Unidos.
+
+1295
+02:16:39.780 --> 02:16:50.180
+Adrian Ezequiel Mart�nez: Este muchos lo seguramente escucharon de L Escucharon la famosa Arpa y después de Arpa, Este
+
+1296
+02:16:50.430 --> 02:16:53.450
+Adrian Ezequiel Mart�nez: y y nada más. Fue una red experimental
+
+1297
+02:16:53.660 --> 02:17:02.259
+Adrian Ezequiel Mart�nez: que derivó en en muchas evoluciones, muchas necesidades, muchas, muchas features, muchas legislaciones.
+
+1298
+02:17:02.770 --> 02:17:06.380
+Adrian Ezequiel Mart�nez: muchas mejoras también, y hasta lo que llegamos hoy en día
+
+1299
+02:17:06.580 --> 02:17:13.340
+Adrian Ezequiel Mart�nez: a a Internet, que es lo que permite que podamos conectarnos a un montón de cosas este
+
+1300
+02:17:14.799 --> 02:17:19.349
+Adrian Ezequiel Mart�nez: como siempre. El El proyecto inicial era permitir a
+
+1301
+02:17:19.740 --> 02:17:26.309
+Adrian Ezequiel Mart�nez: E era un un algo en particular, un proyecto en particular que era compartir recursos entre
+
+1302
+02:17:26.549 --> 02:17:41.760
+Adrian Ezequiel Mart�nez: distintos. Este distintos contratistas, distintos servicios, más allá de de de de quien sea, es distintos servicios. Y se encontró que esto era una manera para esa época para el año S para la década del 60.
+
+1303
+02:17:42.280 --> 02:17:53.379
+Adrian Ezequiel Mart�nez: Este bastante conveniente y y siempre fue colaborativa. Es algo que está bueno. Yo vengo mucho del Open Surf.
+
+1304
+02:17:53.850 --> 02:17:58.109
+Adrian Ezequiel Mart�nez: y el el hecho de que Internet sea colaborativo ayudó a
+
+1305
+02:17:59.350 --> 02:18:04.660
+Adrian Ezequiel Mart�nez: a a sumar mucho y a y a hacerla crecer y
+
+1306
+02:18:05.240 --> 02:18:18.090
+Adrian Ezequiel Mart�nez: nada. Y después, este, a lo largo de todo este tiempo. D, Además, está comentar que se comparten archivos, programas correos, etcétera, etcétera.
+
+1307
+02:18:18.440 --> 02:18:25.209
+Adrian Ezequiel Mart�nez: Ta también hay hoy una rama que lo utilizo mucho para para
+
+1308
+02:18:25.879 --> 02:18:30.490
+Adrian Ezequiel Mart�nez: a ambientes de estudio: universidades. Puntualmente también
+
+1309
+02:18:30.660 --> 02:18:37.500
+Adrian Ezequiel Mart�nez: de de fueron 2 proyectos paralelos y derivó en lo que hoy conocemos como como Internet.
+
+1310
+02:18:40.540 --> 02:18:49.089
+Adrian Ezequiel Mart�nez: com cómo estaban conectadas muchas, muchas máquinas Empezó todo en en una pequeña lan es es algo que
+
+1311
+02:18:49.889 --> 02:18:52.729
+Adrian Ezequiel Mart�nez: que que que se cree que es así.
+
+1312
+02:18:53.070 --> 02:19:00.069
+Adrian Ezequiel Mart�nez: Y de un de un de muy poquitos host de de un puñadito de de Host a
+
+1313
+02:19:00.500 --> 02:19:03.509
+Adrian Ezequiel Mart�nez: a lo que soy, que es un número eno enorme.
+
+1314
+02:19:04.240 --> 02:19:10.209
+Adrian Ezequiel Mart�nez: Después, este en en el año 88 se
+
+1315
+02:19:10.809 --> 02:19:26.369
+Adrian Ezequiel Mart�nez: se se decidió que que que este experimento de de interconexión te terminó, se se se lo desmantela, se genera otro nuevo proyecto financiado ya como como de de manera científica y
+
+1316
+02:19:26.520 --> 02:19:29.510
+Adrian Ezequiel Mart�nez: Y en la década del mediados de la década del 90
+
+1317
+02:19:30.030 --> 02:19:35.269
+Adrian Ezequiel Mart�nez: Internet ya ya se empieza a a maximizar y a y a utilizar
+
+1318
+02:19:37.969 --> 02:19:42.069
+Adrian Ezequiel Mart�nez: nada. Y ahí termina la la la clase de hoy.
+
+1319
+02:19:43.280 --> 02:19:47.510
+Adrian Ezequiel Mart�nez: Este no lo lo que dice. Hay dudas.
+
+1320
+02:19:48.549 --> 02:19:52.069
+Adrian Ezequiel Mart�nez: dudas, comentarios. Este lo que necesiten
+
+1321
+02:19:52.650 --> 02:19:57.750
+Adrian Ezequiel Mart�nez: ahora o en los o en los canales que comentamos al comienzo es indistinto.
+
+1322
+02:20:05.650 --> 02:20:12.770
+Exequiel Alvarez Bianco: Yo no tengo una duda, pero ahí productor en el chat, no que creo que contestamos que quién define el T, T, te preguntamos.
+
+1323
+02:20:14.720 --> 02:20:16.470
+Manuel Krivoy: Sí. Yo había preguntado.
+
+1324
+02:20:17.030 --> 02:20:19.750
+Adrian Ezequiel Mart�nez: Mira estaba hace como una hora media hora.
+
+1325
+02:20:19.750 --> 02:20:22.729
+Manuel Krivoy: Sí, pero después lo lo busqué en Internet.
+
+1326
+02:20:23.120 --> 02:20:27.259
+Adrian Ezequiel Mart�nez: Que se enviaba y y quién lo define, o sea, que lo buscaste.
+
+1327
+02:20:28.280 --> 02:20:39.579
+Manuel Krivoy: No, en realidad. O sea, no me quedó del todo claro. Leí que, primero, como que se hacía una prueba para saber la cantidad de teteles que iba a usar de un una dirección a otra. Y después quedaba como fijo. Entendía eso.
+
+1328
+02:20:40.370 --> 02:20:41.100
+Adrian Ezequiel Mart�nez: Sí.
+
+1329
+02:20:41.100 --> 02:20:44.049
+Manuel Krivoy: Del sentido, entendí que primero mandaba un Ttl.
+
+1330
+02:20:44.160 --> 02:20:55.310
+Manuel Krivoy: Llegaba la primer, o sea, el primer paso que hacía ya ponía en 0. Volvía entonces ahí mandaba 2 después, mandaba 3, pero eso se me hacía sin sentido. Porque entonces, ¿cuál es el punto de
+
+1331
+02:20:55.900 --> 02:20:57.799
+Manuel Krivoy: tener un T T L definido.
+
+1332
+02:20:59.150 --> 02:21:04.249
+Adrian Ezequiel Mart�nez: Es que tampoco podés este saber por cuántos puntos va a pasar.
+
+1333
+02:21:04.850 --> 02:21:05.580
+Manuel Krivoy: Claro.
+
+1334
+02:21:06.570 --> 02:21:07.390
+Adrian Ezequiel Mart�nez: ¿correcto?
+
+1335
+02:21:07.390 --> 02:21:08.050
+Manuel Krivoy: Sí, Sí.
+
+1336
+02:21:08.220 --> 02:21:10.520
+Francisco Daurat: Perdón, pero no varía según el sistema operativo.
+
+1337
+02:21:12.870 --> 02:21:15.360
+Adrian Ezequiel Mart�nez: Es que buena pregunta. Ay, Me me mataste.
+
+1338
+02:21:15.750 --> 02:21:24.379
+Francisco Daurat: Porque yo, siempre que le hago no se le tiro un pin a una máquina que sea Linux me responde con 64 o por ahí. Y si le tirás a Windows, creo que respondía con 128.
+
+1339
+02:21:25.380 --> 02:21:32.659
+Adrian Ezequiel Mart�nez: Eso eso va más de acuerdo a la distancia donde están las distancias físicas entre los equipos.
+
+1340
+02:21:32.940 --> 02:21:37.029
+Adrian Ezequiel Mart�nez: entre los nodos, O sea, desde, por ejemplo, si la tiras desde tu máquina.
+
+1341
+02:21:37.500 --> 02:21:44.029
+Adrian Ezequiel Mart�nez: ¿Qué distancia tenés al al al que te da el servicio la famosa última milla
+
+1342
+02:21:44.170 --> 02:21:47.459
+Adrian Ezequiel Mart�nez: di distancia en distancia. De verdad, No.
+
+1343
+02:21:47.730 --> 02:21:50.659
+Adrian Ezequiel Mart�nez: No di distancias, metros, kilómetros como lo quieras llamar
+
+1344
+02:21:51.270 --> 02:21:54.249
+Adrian Ezequiel Mart�nez: este y a la saturación que tenga la
+
+1345
+02:21:54.480 --> 02:21:59.530
+Adrian Ezequiel Mart�nez: la la red en ese momento, Muchas veces este
+
+1346
+02:21:59.670 --> 02:22:02.830
+Adrian Ezequiel Mart�nez: pue puede pasar que vos lo lo lo ves ahora
+
+1347
+02:22:02.970 --> 02:22:06.449
+Adrian Ezequiel Mart�nez: y lo ves dentro de 10 min y cambia totalmente
+
+1348
+02:22:07.440 --> 02:22:11.929
+Adrian Ezequiel Mart�nez: y Ta: También cambia de acuerdo por los equipos por donde va pasando.
+
+1349
+02:22:12.130 --> 02:22:18.280
+Adrian Ezequiel Mart�nez: Así que este es un número variable. Obviamente, cuanto más chico mejor.
+
+1350
+02:22:20.880 --> 02:22:24.749
+Francisco Daurat: Okay en el cine, nunca me lo plantee.
+
+1351
+02:22:25.950 --> 02:22:26.410
+Camilo Cedrés Aguirre: Mhm.
+
+1352
+02:22:26.410 --> 02:22:29.180
+Adrian Ezequiel Mart�nez: Porque no, en realidad no, no sabés la cantidad de
+
+1353
+02:22:29.290 --> 02:22:32.299
+Adrian Ezequiel Mart�nez: de de que podrías tener en el medio.
+
+1354
+02:22:33.540 --> 02:22:37.150
+Adrian Ezequiel Mart�nez: Puedes tener 8, como en el ejemplo que vimos, como.
+
+1355
+02:22:37.630 --> 02:22:38.820
+Manuel Krivoy: Sí los que.
+
+1356
+02:22:39.030 --> 02:22:39.730
+Adrian Ezequiel Mart�nez: Sí.
+
+1357
+02:22:40.060 --> 02:22:47.410
+Sofia Libertad Velazco Montagna: Y ahí busqué. Y si tiene que ver con el sistema operativo, dice el sistema operativo, la configuración de N. S.
+
+1358
+02:22:48.140 --> 02:22:48.620
+Adrian Ezequiel Mart�nez: Seguramente.
+
+1359
+02:22:48.620 --> 02:22:54.419
+Sofia Libertad Velazco Montagna: La infraestructura de la red, o sea, la cantidad de saltos que había hecho, y el tipo de servicio.
+
+1360
+02:22:55.320 --> 02:22:57.489
+Sofia Libertad Velazco Montagna: Y también dice la consistencia.
+
+1361
+02:22:57.490 --> 02:23:03.660
+Adrian Ezequiel Mart�nez: Me parece que el sistema operativo va más no al a tu a tu equipo personal.
+
+1362
+02:23:04.190 --> 02:23:10.059
+Adrian Ezequiel Mart�nez: sino al al sistema operativo que tiene el disp el dispositivo que está haciendo de nodo.
+
+1363
+02:23:10.440 --> 02:23:21.249
+Adrian Ezequiel Mart�nez: Por ejemplo, si vos te si tu servidor tiene un un linux o un Windows. Me parece que apunta más a eso me me me suena más coherente de ese lado.
+
+1364
+02:23:21.250 --> 02:23:25.239
+Sofia Libertad Velazco Montagna: No dice el sistema operativo de origen.
+
+1365
+02:23:26.320 --> 02:23:31.649
+Camilo Cedrés Aguirre: Los sistemas Uix o Linux por defecto es 64,
+
+1366
+02:23:31.830 --> 02:23:33.940
+Camilo Cedrés Aguirre: el T, el T. T. L.
+
+1367
+02:23:34.060 --> 02:23:38.689
+Camilo Cedrés Aguirre: Y en Windows 628, pero 1 lo puede modificar.
+
+1368
+02:23:38.690 --> 02:23:39.210
+Manuel Krivoy: Mira.
+
+1369
+02:23:39.210 --> 02:23:39.690
+Camilo Cedrés Aguirre: Es un.
+
+1370
+02:23:39.690 --> 02:23:42.889
+Manuel Krivoy: Me me sorprende tanta tanta diferencia.
+
+1371
+02:23:43.450 --> 02:23:43.980
+Adrian Ezequiel Mart�nez: Sí.
+
+1372
+02:23:43.980 --> 02:23:44.630
+Manuel Krivoy: Pero bueno.
+
+1373
+02:23:45.230 --> 02:23:49.440
+Adrian Ezequiel Mart�nez: No tenía ese dato. Yo pensaba más que era de de acuerdo al a
+
+1374
+02:23:49.540 --> 02:23:53.059
+Adrian Ezequiel Mart�nez: al sistema operativo que tenga el servidor que te va a responder.
+
+1375
+02:23:53.160 --> 02:23:56.190
+Adrian Ezequiel Mart�nez: No, no, no, que dependía de de la.
+
+1376
+02:23:56.190 --> 02:23:56.590
+Camilo Cedrés Aguirre: En el.
+
+1377
+02:23:56.590 --> 02:23:57.740
+Adrian Ezequiel Mart�nez: Y poco personal.
+
+1378
+02:23:58.640 --> 02:24:03.140
+Camilo Cedrés Aguirre: Lo que sí es verdad en el protocolo Trazer o 3 Root.
+
+1379
+02:24:03.140 --> 02:24:03.670
+Adrian Ezequiel Mart�nez: Mhm.
+
+1380
+02:24:03.970 --> 02:24:11.120
+Camilo Cedrés Aguirre: Sí. Primero, los los setean. Uno calcula el primer router. Después lo setean 2. Calcula el segundo.
+
+1381
+02:24:11.120 --> 02:24:12.660
+Adrian Ezequiel Mart�nez: Sí. Correcto.
+
+1382
+02:24:13.200 --> 02:24:13.700
+Camilo Cedrés Aguirre: No es que lo.
+
+1383
+02:24:13.700 --> 02:24:14.280
+Adrian Ezequiel Mart�nez: Lo que.
+
+1384
+02:24:14.280 --> 02:24:17.520
+Camilo Cedrés Aguirre: En el valor predeterminado de ese Protocolo, en particular.
+
+1385
+02:24:18.050 --> 02:24:19.329
+Adrian Ezequiel Mart�nez: Sí totalmente.
+
+1386
+02:24:20.170 --> 02:24:25.250
+Adrian Ezequiel Mart�nez: Creo que he estado en una de las imágenes Zip.
+
+1387
+02:24:28.480 --> 02:24:29.430
+Manuel Krivoy: Sí, ahí.
+
+1388
+02:24:31.210 --> 02:24:32.070
+Manuel Krivoy: Okay.
+
+1389
+02:24:33.370 --> 02:24:37.810
+Adrian Ezequiel Mart�nez: El paquete de 60, sí y por dónde va pasando?
+
+1390
+02:24:40.280 --> 02:24:41.550
+Adrian Ezequiel Mart�nez: Sí, Totalmente.
+
+1391
+02:24:46.670 --> 02:24:47.600
+Adrian Ezequiel Mart�nez: ¿Correcto?
+
+1392
+02:24:49.040 --> 02:24:51.579
+Adrian Ezequiel Mart�nez: Este. Así que es eso, no más.
+
+1393
+02:24:52.660 --> 02:24:53.920
+Adrian Ezequiel Mart�nez: Eso por hoy.
+
+1394
+02:24:57.300 --> 02:24:58.320
+Sofia Libertad Velazco Montagna: Era un rosa.
+
+1395
+02:24:59.460 --> 02:25:03.140
+Mariano Médici: Profe, El presentacion Pdf lo va a subir ahora. No.
+
+1396
+02:25:03.140 --> 02:25:06.449
+Adrian Ezequiel Mart�nez: Sí. Sí. Ah, eso sí. Fíjense
+
+1397
+02:25:06.770 --> 02:25:09.739
+Adrian Ezequiel Mart�nez: si lo ven en en Blackboard.
+
+1398
+02:25:11.040 --> 02:25:17.199
+Adrian Ezequiel Mart�nez: Este yo lo lo debería ver a ver, y les lo confirmo ya.
+
+1399
+02:25:17.420 --> 02:25:20.330
+Mariano Médici: Ha estado refrescando y no estaba hace un ratito. Y ahora.
+
+1400
+02:25:20.330 --> 02:25:26.270
+Adrian Ezequiel Mart�nez: Genial. Listo. Eso quería saber, pues lo puse que se que se activa a las 7. Si mal no recuerdo.
+
+1401
+02:25:26.270 --> 02:25:28.819
+Mariano Médici: Bien presentación está vacío, carpeta vacía.
+
+1402
+02:25:29.090 --> 02:25:29.610
+Mariano Médici: El se.
+
+1403
+02:25:29.610 --> 02:25:31.459
+Adrian Ezequiel Mart�nez: Ajá eso eso a ver.
+
+1404
+02:25:31.460 --> 02:25:38.259
+Sofia Libertad Velazco Montagna: Claro esto, la presentación está vacío. El otro, el de el 0, 1 networking Ese es cierto.
+
+1405
+02:25:38.260 --> 02:25:41.769
+Adrian Ezequiel Mart�nez: Genial. Listo eso? Quiero esa confirmación. Y ahí vamos.
+
+1406
+02:25:44.570 --> 02:25:45.330
+Adrian Ezequiel Mart�nez: Ahora, Sí.
+
+1407
+02:25:45.330 --> 02:25:53.479
+Mariano Médici: Y los y los libros de la bibliografía. Bueno, que están ahí en presentación se los pedimos a ellos. Para un lado particular tiene un link, algo.
+
+1408
+02:25:53.700 --> 02:26:05.200
+Adrian Ezequiel Mart�nez: No. Si los quiere, se los se los consigo y se los círculo en en Blackboard, labor pronto, o armo un un apartado acá. Y lo subo en P, D, F.
+
+1409
+02:26:06.230 --> 02:26:07.440
+Mariano Médici: Buenísimo. Sí, Sí.
+
+1410
+02:26:08.030 --> 02:26:08.750
+Adrian Ezequiel Mart�nez: No, no.
+
+1411
+02:26:08.750 --> 02:26:10.010
+Mariano Médici: Pero no lo encontré buenísimo.
+
+1412
+02:26:10.010 --> 02:26:16.040
+Adrian Ezequiel Mart�nez: Pongo en campaña y lo busco ahí ahí habilite la presentación. Seguramente, si refrescan, se puede ver.
+
+1413
+02:26:19.590 --> 02:26:20.809
+Mariano Médici: Sí. Ahora, sí, Ahí se ve.
+
+1414
+02:26:20.810 --> 02:26:30.060
+Adrian Ezequiel Mart�nez: Genial. Y para ir, me generó una una nueva carpetita y tiro. Los los libros que que comentamos. Excelente.
+
+1415
+02:26:32.270 --> 02:26:36.520
+Adrian Ezequiel Mart�nez: Creo que los los debo tener un pendrive, incluso. Así que más cómodo.
+
+1416
+02:26:40.020 --> 02:26:44.919
+Adrian Ezequiel Mart�nez: Ah, y ya que estoy para validar que viene el mensaje.
+
+1417
+02:26:49.280 --> 02:26:50.400
+Adrian Ezequiel Mart�nez: Mhm.
+
+1418
+02:26:50.850 --> 02:26:55.009
+Adrian Ezequiel Mart�nez: Esperando que me cargue el plan pronto. A ver si fue algo así,
+
+1419
+02:27:05.220 --> 02:27:10.300
+Adrian Ezequiel Mart�nez: debería llevarle el el mensajito de de pronto
+
+1420
+02:27:11.660 --> 02:27:14.020
+Adrian Ezequiel Mart�nez: para validar que que lo pueden ver todos.
+
+1421
+02:27:18.130 --> 02:27:20.260
+Mariana D'odorico: Sí a.
+
+1422
+02:27:20.260 --> 02:27:27.570
+Adrian Ezequiel Mart�nez: O sea, no cualquier cosita. N: También nos podemos comunicar por ahí o por correo o
+
+1423
+02:27:29.740 --> 02:27:32.030
+Adrian Ezequiel Mart�nez: o por correo, o por pronto, sí correcto.
+
+1424
+02:27:33.760 --> 02:27:35.890
+Sofia Libertad Velazco Montagna: ¿qué quieres llegó? ¿en dónde en pronto.
+
+1425
+02:27:36.270 --> 02:27:37.000
+Adrian Ezequiel Mart�nez: Sí.
+
+1426
+02:27:37.830 --> 02:27:43.470
+Sofia Libertad Velazco Montagna: Que que llegaba, No, no, no por otro tema.
+
+1427
+02:27:43.470 --> 02:27:48.869
+Adrian Ezequiel Mart�nez: Lo configuré hoy a la mañana y y quería validar que que estaba, que que que era visible.
+
+1428
+02:27:50.490 --> 02:27:52.010
+Adrian Ezequiel Mart�nez: No, no por otro temita.
+
+1429
+02:27:58.460 --> 02:28:03.150
+Adrian Ezequiel Mart�nez: Así que era era eso, no más Por hoy, Este.
+
+1430
+02:28:03.690 --> 02:28:12.809
+Adrian Ezequiel Mart�nez: o sea, la la semana que viene, el la próxima clase. La idea es terminar de ver las P. P. T que restan y de este tema, y listo, que son otras 30 y algo
+
+1431
+02:28:13.250 --> 02:28:19.510
+Adrian Ezequiel Mart�nez: sí que seguramente este sea sea más cortita. La clase media horita más cortita.
+
+1432
+02:28:23.840 --> 02:28:24.500
+Ariel Alejandro Quintero: Pero.
+
+1433
+02:28:24.500 --> 02:28:25.120
+Mariano Médici: Profe.
+
+1434
+02:28:25.120 --> 02:28:26.060
+Franco Emiliano Lombroni: Hombre.
+
+1435
+02:28:26.060 --> 02:28:27.570
+Mauricio Mauricio Adalian: Profe: Gracias.
+
+1436
+02:28:27.770 --> 02:28:29.560
+Federico Celaya: Gracias a ustedes. Profe: Gracias.
+
+1437
+02:28:29.560 --> 02:28:30.970
+Cristian Albuja Izurieta: Profesión.
+
+1438
+02:28:31.180 --> 02:28:31.969
+Adrian Ezequiel Mart�nez: De lo que.
+
+1439
+02:28:31.970 --> 02:28:32.690
+Martin Daus: De muchas.
+
+1440
+02:28:32.690 --> 02:28:34.150
+Adrian Ezequiel Mart�nez: Buenas noches, hasta luego.
+
+

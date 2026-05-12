@@ -1,0 +1,5151 @@
+WEBVTT
+
+1
+00:00:03.460 --> 00:00:08.010
+Arroyo Arzubi Carlos A.: Bueno, en la clase de hoy vamos a
+
+2
+00:00:08.870 --> 00:00:15.040
+Arroyo Arzubi Carlos A.: a terminar de ver un ejercicio práctico de semáforo donde aplicamos el and
+
+3
+00:00:15.200 --> 00:00:17.459
+Arroyo Arzubi Carlos A.: que fue un ejercicio que faltó,
+
+4
+00:00:18.120 --> 00:00:24.450
+Arroyo Arzubi Carlos A.: y luego vamos a ver la unidad. Cinco que es abrazo mortal deadlock.
+
+5
+00:00:25.250 --> 00:00:28.970
+Arroyo Arzubi Carlos A.: Y luego vamos a hacer el primer parcialito.
+
+6
+00:00:29.840 --> 00:00:32.729
+Arroyo Arzubi Carlos A.: Así que, bueno, vamos a empezar con.
+
+7
+00:00:33.340 --> 00:00:34.450
+FRANCISCO DAURAT: Profe.
+
+8
+00:00:35.140 --> 00:00:36.209
+Arroyo Arzubi Carlos A.: ¿qué pasa?
+
+9
+00:00:36.210 --> 00:00:40.200
+FRANCISCO DAURAT: Una pregunta antes de empezar: cuándo es el parcial parcial.
+
+10
+00:00:41.670 --> 00:00:47.170
+Arroyo Arzubi Carlos A.: Y el parcial parcial figura ahí a disposición de todos. Hay que leer en la planificación el 15.
+
+11
+00:00:47.170 --> 00:00:49.949
+FRANCISCO DAURAT: Viene a planificar a 15 del 4 Ok.
+
+12
+00:00:52.450 --> 00:00:57.239
+Emanuel CARLOS ORLANDINI: Profe y y el hora el horario que es. Qué horario sería el horario de clase? Diecinueve horas.
+
+13
+00:00:57.240 --> 00:01:08.990
+Arroyo Arzubi Carlos A.: Vamos a hablar del parcial. Vamos a hablar. Cuando llegue el momento, me faltan Dos semanas, no empiecen a distraerme, que después me atrasará todo. Y ustedes hoy tengo que dar la clase y tienen que hacer después el parcialito. No me mezclen todo. Con todo.
+
+14
+00:01:10.090 --> 00:01:17.320
+Arroyo Arzubi Carlos A.: ahora vamos a hacer un repaso de semáforos, que es lo que vimos la clase pasada.
+
+15
+00:01:18.010 --> 00:01:24.430
+Arroyo Arzubi Carlos A.: y para ello nos va a acompañar en esta actividad riesgosa.
+
+16
+00:01:27.110 --> 00:01:32.150
+Arroyo Arzubi Carlos A.: Vamos a ver si está a ver
+
+17
+00:01:41.360 --> 00:01:43.680
+Arroyo Arzubi Carlos A.: orlandini. Carlos está.
+
+18
+00:01:44.640 --> 00:01:46.469
+Emanuel CARLOS ORLANDINI: Sí, profe. Estoy acá. Deme un segundo.
+
+19
+00:01:46.470 --> 00:01:47.060
+Arroyo Arzubi Carlos A.: De verdad.
+
+20
+00:01:47.060 --> 00:01:47.630
+Emanuel CARLOS ORLANDINI: Para el.
+
+21
+00:01:48.050 --> 00:01:54.609
+Arroyo Arzubi Carlos A.: Prendiendo la cámara muy bien y nos va a secundar también de pronto.
+
+22
+00:02:00.860 --> 00:02:02.480
+Arroyo Arzubi Carlos A.: de pronto.
+
+23
+00:02:08.050 --> 00:02:11.199
+Arroyo Arzubi Carlos A.: bertín y agostina está. Sí, ahí está.
+
+24
+00:02:11.790 --> 00:02:13.089
+AGOSTINA BERTINI: Sí, profe acá. Estoy.
+
+25
+00:02:13.560 --> 00:02:20.229
+Arroyo Arzubi Carlos A.: Bien listo, la teoría no es mucho, así que
+
+26
+00:02:21.570 --> 00:02:24.120
+Arroyo Arzubi Carlos A.: podemos hacerla más o menos rápido.
+
+27
+00:02:26.620 --> 00:02:33.099
+Arroyo Arzubi Carlos A.: Bueno, orlandini, nosotros, la clase pasada
+
+28
+00:02:34.470 --> 00:02:43.779
+Arroyo Arzubi Carlos A.: hablamos de la necesidad de que los procesos en su ejecución sean
+
+29
+00:02:44.010 --> 00:02:52.869
+Arroyo Arzubi Carlos A.: sincronizados. Dijimos que es una tarea que obviamente realiza el sistema operativo cuando hablamos de la gestión.
+
+30
+00:02:53.420 --> 00:03:04.100
+Arroyo Arzubi Carlos A.: pero agregamos que, además de gestionarlos, había situaciones en que que había que sincronizar esos procesos.
+
+31
+00:03:05.210 --> 00:03:11.439
+Arroyo Arzubi Carlos A.: ¿Cómo clasificamos los procesos. Nosotros, la clase pasada Te acordás en relación a esto.
+
+32
+00:03:18.750 --> 00:03:20.299
+Arroyo Arzubi Carlos A.: ¿dónde está? Se fue.
+
+33
+00:03:21.770 --> 00:03:22.230
+LUCAS BONAFFINI: No está.
+
+34
+00:03:22.230 --> 00:03:22.720
+Arroyo Arzubi Carlos A.: Seguro.
+
+35
+00:03:22.720 --> 00:03:24.270
+LUCAS BONAFFINI: Está moteado.
+
+36
+00:03:24.610 --> 00:03:25.269
+LUCAS BONAFFINI: Está muy.
+
+37
+00:03:25.270 --> 00:03:26.150
+Arroyo Arzubi Carlos A.: Tiri.
+
+38
+00:03:26.520 --> 00:03:30.100
+Emanuel CARLOS ORLANDINI: Perdón estaba estaba hablando. Disculpe, ahí está ahí. Lo desnutié.
+
+39
+00:03:30.360 --> 00:03:31.600
+Arroyo Arzubi Carlos A.: Hablando con quién.
+
+40
+00:03:31.820 --> 00:03:34.829
+Emanuel CARLOS ORLANDINI: No, no estaba moteado, estaba hablando y estaba moteado.
+
+41
+00:03:34.830 --> 00:03:36.939
+Arroyo Arzubi Carlos A.: Ah, bueno, empezá de vuelta. Dale.
+
+42
+00:03:36.940 --> 00:03:44.059
+Emanuel CARLOS ORLANDINI: Perdón, no igual a ver si entendí bien. La pregunta puede ser por concurrencia real o concurrencia simulada.
+
+43
+00:03:44.560 --> 00:03:50.750
+Arroyo Arzubi Carlos A.: No. Eso es otra cosa que después me puedes explicar, pero los procesos entre sí, cómo pueden ser.
+
+44
+00:03:53.240 --> 00:03:55.899
+Arroyo Arzubi Carlos A.: porque hay procesos que hay que sincronizar y otros no
+
+45
+00:04:03.530 --> 00:04:04.780
+Arroyo Arzubi Carlos A.: agustina.
+
+46
+00:04:05.490 --> 00:04:13.600
+AGOSTINA BERTINI: Sí era, según las interacciones. Entre los procesos había procesos que podían que eran son independientes.
+
+47
+00:04:13.860 --> 00:04:14.230
+Arroyo Arzubi Carlos A.: Y eso.
+
+48
+00:04:14.230 --> 00:04:23.130
+AGOSTINA BERTINI: Los que no necesitan ayudas no requieren la interacción, colaboración o ayuda de otros procesos para ejecutarse.
+
+49
+00:04:23.230 --> 00:04:31.660
+AGOSTINA BERTINI: y habíamos dicho que a nivel del sistema operativo era la situación más cómoda de administrar, porque 1 lo ejecuta. Y ya, como que te olvidas del resto.
+
+50
+00:04:31.940 --> 00:04:38.260
+AGOSTINA BERTINI: Y después estaban los complementarios, que justamente son procesos diseñados para trabajar conjuntamente.
+
+51
+00:04:38.260 --> 00:04:40.049
+Arroyo Arzubi Carlos A.: En activos.
+
+52
+00:04:40.050 --> 00:04:42.460
+AGOSTINA BERTINI: Cooperativo, perdón.
+
+53
+00:04:42.460 --> 00:04:43.380
+Arroyo Arzubi Carlos A.: Te digo.
+
+54
+00:04:43.750 --> 00:05:00.890
+AGOSTINA BERTINI: Cooperativos para, bueno, trabajar conjuntamente en alguna actividad, y había 2 tipos que eran ahora. Sí, los concurrentes que traba trabajan en simultáneo los 2 al mismo tiempo, por ejemplo, en 2 procesadores diferentes y después estaban
+
+55
+00:05:00.960 --> 00:05:11.479
+AGOSTINA BERTINI: los complementarios que dependían de un orden determinado. Por ejemplo, no puedo ejecutar el proceso B sin antes haber ejecutado el proceso a.
+
+56
+00:05:11.740 --> 00:05:21.080
+Arroyo Arzubi Carlos A.: Bueno, bien, Carlos Vos hablaste de concurrencia. Nosotros mencionamos 2 tipos de concurrencia acordás.
+
+57
+00:05:21.490 --> 00:05:24.599
+Emanuel CARLOS ORLANDINI: Si la real y la simulada.
+
+58
+00:05:25.120 --> 00:05:25.449
+Arroyo Arzubi Carlos A.: Que era.
+
+59
+00:05:25.450 --> 00:05:29.899
+Emanuel CARLOS ORLANDINI: La real se da en sistemas de multiprocesador.
+
+60
+00:05:30.370 --> 00:05:30.730
+Arroyo Arzubi Carlos A.: Sí. Yo.
+
+61
+00:05:32.160 --> 00:05:39.239
+Emanuel CARLOS ORLANDINI: En cada procesador, obviamente se ejecuta un proceso distinto en paralelo. En cambio, en la simulada se utilizan los mono procesadores.
+
+62
+00:05:39.960 --> 00:05:46.379
+Emanuel CARLOS ORLANDINI: la cual la C. P. U va alternando un proceso tan rápido que parece que más o menos están corriendo al mismo tiempo.
+
+63
+00:05:47.330 --> 00:05:49.679
+Arroyo Arzubi Carlos A.: Es decir, hace multiprogramación.
+
+64
+00:05:49.680 --> 00:05:50.690
+Emanuel CARLOS ORLANDINI: Claro exacto.
+
+65
+00:05:50.950 --> 00:05:55.079
+Arroyo Arzubi Carlos A.: Bien sigamos Carlos después hablamos de
+
+66
+00:05:55.510 --> 00:06:03.280
+Arroyo Arzubi Carlos A.: los recursos en particular. Es decir, ya sabemos que tenemos procesos que son independientes y otros que hay que sincronizar.
+
+67
+00:06:03.700 --> 00:06:11.700
+Arroyo Arzubi Carlos A.: Pero ahora agregamos el tema de recursos y dijimos que cuando
+
+68
+00:06:12.320 --> 00:06:18.300
+Arroyo Arzubi Carlos A.: tratamos de recursos, no vamos a encontrar que hay procesos
+
+69
+00:06:18.460 --> 00:06:22.529
+Arroyo Arzubi Carlos A.: que son concurrentes sobre los mismos recursos.
+
+70
+00:06:23.390 --> 00:06:26.040
+Arroyo Arzubi Carlos A.: ¿qué podés decir con respecto a esto
+
+71
+00:06:26.150 --> 00:06:29.450
+Arroyo Arzubi Carlos A.: y qué? Bueno, contame un poquito.
+
+72
+00:06:30.550 --> 00:06:37.299
+Emanuel CARLOS ORLANDINI: Y no, no, No lo recuerdo muy bien. No sé, no recuerdo si
+
+73
+00:06:38.020 --> 00:06:42.770
+Emanuel CARLOS ORLANDINI: si habla de los recursos, de lo que es el recurso crítico, puede ser.
+
+74
+00:06:43.250 --> 00:06:45.069
+Arroyo Arzubi Carlos A.: No sé qué es el recurso crítico.
+
+75
+00:06:45.700 --> 00:06:46.240
+Emanuel CARLOS ORLANDINI: Sí.
+
+76
+00:06:46.680 --> 00:06:53.050
+Arroyo Arzubi Carlos A.: Yo no sé, pero puede ser que se lo mencione de alguna manera recurso crítico. No sé qué es el recurso.
+
+77
+00:06:53.050 --> 00:06:59.740
+Emanuel CARLOS ORLANDINI: Que es el recurso, ese que es compartido, el cual un solo procesador puede acceder a la vez.
+
+78
+00:07:01.730 --> 00:07:04.480
+Arroyo Arzubi Carlos A.: vos. Estás hablando de la sección crítica.
+
+79
+00:07:06.050 --> 00:07:11.300
+Emanuel CARLOS ORLANDINI: Bueno, Sí, eso sería la porción de código en la cual puede acceder el recurso.
+
+80
+00:07:11.300 --> 00:07:16.729
+Arroyo Arzubi Carlos A.: Pero el recurso crítico no como concepto. Así no lo usamos nunca. Nosotros acá.
+
+81
+00:07:17.550 --> 00:07:20.940
+Emanuel CARLOS ORLANDINI: Bueno, puede ser que lo haya leído. Profe. Entonces disculpe.
+
+82
+00:07:20.940 --> 00:07:24.200
+Arroyo Arzubi Carlos A.: Bueno puede ser, pero el recurso crítico puede ser cualquiera.
+
+83
+00:07:24.480 --> 00:07:25.050
+Emanuel CARLOS ORLANDINI: Claro.
+
+84
+00:07:26.990 --> 00:07:29.289
+Arroyo Arzubi Carlos A.: Sección crítica es algo en particular.
+
+85
+00:07:29.490 --> 00:07:30.440
+Emanuel CARLOS ORLANDINI: Mhm.
+
+86
+00:07:30.440 --> 00:07:32.470
+Arroyo Arzubi Carlos A.: ¿por qué? ¿qué es la sección crítica.
+
+87
+00:07:32.840 --> 00:07:35.020
+Emanuel CARLOS ORLANDINI: Es la porción
+
+88
+00:07:35.420 --> 00:07:41.960
+Emanuel CARLOS ORLANDINI: de código que se accede, que accede a un a un dato, a un dato crítico, a un recurso crítico.
+
+89
+00:07:41.960 --> 00:07:44.319
+Arroyo Arzubi Carlos A.: A un recurso o a un dato crítico a qué cosas.
+
+90
+00:07:44.320 --> 00:07:46.139
+Emanuel CARLOS ORLANDINI: A un a un a un dato.
+
+91
+00:07:47.790 --> 00:07:50.200
+Arroyo Arzubi Carlos A.: Bueno porque no es lo mismo. Lo aclaré Bien.
+
+92
+00:07:50.460 --> 00:07:51.230
+Emanuel CARLOS ORLANDINI: Sí.
+
+93
+00:07:51.440 --> 00:07:56.910
+Arroyo Arzubi Carlos A.: Estamos hablando de la sección crítica, accede a datos compartidos.
+
+94
+00:07:57.530 --> 00:08:01.379
+Arroyo Arzubi Carlos A.: Bien, y por qué surge la sección crítica.
+
+95
+00:08:02.340 --> 00:08:03.070
+Emanuel CARLOS ORLANDINI: Bueno para.
+
+96
+00:08:03.070 --> 00:08:03.920
+Arroyo Arzubi Carlos A.: Qué? Bueno.
+
+97
+00:08:07.240 --> 00:08:09.930
+Arroyo Arzubi Carlos A.: porque yo puedo tener 2 o más procesos
+
+98
+00:08:10.240 --> 00:08:12.639
+Arroyo Arzubi Carlos A.: que acceden a un dato compartido.
+
+99
+00:08:13.050 --> 00:08:22.120
+Arroyo Arzubi Carlos A.: que fue como empezamos a hablar la unidad, Pero después pasamos de hablar de los procesos que accedían a datos compartidos y hablamos de una sección crítica.
+
+100
+00:08:22.530 --> 00:08:25.149
+Arroyo Arzubi Carlos A.: ¿por qué hablamos de la sección crítica.
+
+101
+00:08:26.480 --> 00:08:31.170
+Emanuel CARLOS ORLANDINI: Y no, no, no lo recuerdo. Profe.
+
+102
+00:08:33.600 --> 00:08:35.200
+Arroyo Arzubi Carlos A.: Agustí agustina.
+
+103
+00:08:35.760 --> 00:08:40.970
+AGOSTINA BERTINI: Porque habíamos dicho que si aplicamos exclusión mutua
+
+104
+00:08:41.150 --> 00:08:48.159
+AGOSTINA BERTINI: a el dato compartido a lo largo de toda la ejecución del proceso. Eso era costoso e ineficiente.
+
+105
+00:08:48.320 --> 00:09:06.620
+AGOSTINA BERTINI: entonces la solución, la mejor solución sería definir la sección crítica que es, como dijo Carlos, la parte específica del código, donde los procesos acceden a ese dato compartido. Y entonces, ahora lo que habría que sincronizar únicamente son las secciones críticas en vez de todo el proceso.
+
+106
+00:09:06.930 --> 00:09:07.880
+Arroyo Arzubi Carlos A.: ¿correcto?
+
+107
+00:09:08.760 --> 00:09:18.379
+Arroyo Arzubi Carlos A.: Bueno, y Carlos, requisitos para proteger la sección crítica.
+
+108
+00:09:18.860 --> 00:09:20.459
+Arroyo Arzubi Carlos A.: Te acordás cuales eran.
+
+109
+00:09:25.940 --> 00:09:28.549
+Arroyo Arzubi Carlos A.: No, No se te escucha nada. Estás moteado?
+
+110
+00:09:29.020 --> 00:09:34.760
+Arroyo Arzubi Carlos A.: No, lo no lo saques al déjalo al no se escucha nada.
+
+111
+00:09:35.090 --> 00:09:39.210
+Emanuel CARLOS ORLANDINI: No perdón que por ahí tengo una perrita que por ahí torea. Por eso ves que.
+
+112
+00:09:39.210 --> 00:09:40.120
+Arroyo Arzubi Carlos A.: Perrita.
+
+113
+00:09:40.330 --> 00:09:41.120
+Emanuel CARLOS ORLANDINI: Sí.
+
+114
+00:09:41.120 --> 00:09:44.610
+Arroyo Arzubi Carlos A.: La perrita que te maneja la computadora. Ahora estamos en el horno ya viejo.
+
+115
+00:09:44.610 --> 00:09:53.729
+Emanuel CARLOS ORLANDINI: No profe por ahí torea. No quiero molestar en la clase. Por eso, bueno, los requisitos son la exclusión mutua, el progreso y la espera limitada.
+
+116
+00:09:53.730 --> 00:09:55.230
+Arroyo Arzubi Carlos A.: Qué es cada 1 de ellos.
+
+117
+00:09:56.220 --> 00:10:04.600
+Emanuel CARLOS ORLANDINI: La espera limitada básicamente sería darle prioridad a un proceso que está esperando mucho tiempo.
+
+118
+00:10:05.130 --> 00:10:09.739
+Emanuel CARLOS ORLANDINI: o sea, evitaría lo que sería la inanición.
+
+119
+00:10:10.190 --> 00:10:11.130
+Arroyo Arzubi Carlos A.: ¿correcto?
+
+120
+00:10:11.480 --> 00:10:15.270
+Emanuel CARLOS ORLANDINI: La exclusión mutua es
+
+121
+00:10:15.720 --> 00:10:24.239
+Emanuel CARLOS ORLANDINI: si un proceso está en su en su sección crítica. Ningún otro puede estar en en en en esa sección crítica, o sea, en las en la del proceso.
+
+122
+00:10:26.110 --> 00:10:40.310
+Emanuel CARLOS ORLANDINI: Y el progreso era a ver, sí, había
+
+123
+00:10:40.780 --> 00:10:47.880
+Emanuel CARLOS ORLANDINI: 2 procesos que estaban llegando a sucesión a su a su sección crítica.
+
+124
+00:10:48.130 --> 00:10:56.459
+Emanuel CARLOS ORLANDINI: el sistema operativo le daría paso al que llega al que llega primero a esa sesión, a esa sí al al
+
+125
+00:10:56.580 --> 00:10:58.820
+Emanuel CARLOS ORLANDINI: al primer paso de la sección crítica.
+
+126
+00:11:03.610 --> 00:11:04.850
+Arroyo Arzubi Carlos A.: Agustina.
+
+127
+00:11:06.890 --> 00:11:09.590
+AGOSTINA BERTINI: Sí. ¿qué cosas lo de progreso.
+
+128
+00:11:09.750 --> 00:11:12.429
+Arroyo Arzubi Carlos A.: Progreso. Nos quedó medio ahí.
+
+129
+00:11:12.920 --> 00:11:29.590
+AGOSTINA BERTINI: Sí Habíamos dicho que cuando el sistema operativo tiene que decidir qué proceso entra a ejecutar, su sección crítica, tenía que elegir solamente entre aquellos que estaban justo por empezar a ejecutarla y no entre los que estaban cerca o haciendo otra cosa.
+
+130
+00:11:31.110 --> 00:11:36.210
+Arroyo Arzubi Carlos A.: Carlos dijo cerca hundido, seguimos.
+
+131
+00:11:37.620 --> 00:11:42.980
+Arroyo Arzubi Carlos A.: Vimos carros. Vimos semáforos como una forma de, y
+
+132
+00:11:43.740 --> 00:11:47.360
+Arroyo Arzubi Carlos A.: como una herramienta para sincronizar los procesos.
+
+133
+00:11:47.710 --> 00:11:49.619
+Arroyo Arzubi Carlos A.: ¿qué son los semáforos.
+
+134
+00:11:59.750 --> 00:12:01.990
+Emanuel CARLOS ORLANDINI: No, no, no lo recuerdo. Sinceramente. Profe.
+
+135
+00:12:03.500 --> 00:12:04.580
+Arroyo Arzubi Carlos A.: Agustina.
+
+136
+00:12:05.920 --> 00:12:23.890
+AGOSTINA BERTINI: Los semáforos eran herramientas de software que el programador implementaba manualmente para sincronizar y evitar conflictos en la sección crítica y habíamos dicho que podían ser de 2 tipos: los binarios, que sólo tienen 2 Estados 0 y 1, y son los que utilizan
+
+137
+00:12:23.910 --> 00:12:38.090
+AGOSTINA BERTINI: las operaciones signal para habilitar o transmitir weith para esperar o recibir. Y después, mediante el init daba la condición de inicio. Y también habíamos hablado, ah, bueno.
+
+138
+00:12:38.090 --> 00:12:40.599
+Arroyo Arzubi Carlos A.: Sí, Sí, Sí, habíamos mencionado también los.
+
+139
+00:12:40.600 --> 00:12:50.319
+AGOSTINA BERTINI: Sí, los contadores que eran más completos y podían tomar valores enteros positivos o negativos, y que tenían 2 partes. La parte del semáforo y la parte del contador.
+
+140
+00:12:51.070 --> 00:12:56.240
+Arroyo Arzubi Carlos A.: Bien, ¿qué eran? Carlos los monitores.
+
+141
+00:12:57.240 --> 00:13:00.499
+Emanuel CARLOS ORLANDINI: No, sinceramente, no lo recuerdo. Profe esta parte. No, no recuerdo nada.
+
+142
+00:13:00.830 --> 00:13:07.720
+Arroyo Arzubi Carlos A.: Bueno, no voy a decir claro. Voy a decir: Emanuel va al repechaje como este.
+
+143
+00:13:07.940 --> 00:13:08.740
+Emanuel CARLOS ORLANDINI: Bueno.
+
+144
+00:13:11.300 --> 00:13:12.440
+Arroyo Arzubi Carlos A.: Dónde estaba?
+
+145
+00:13:16.700 --> 00:13:18.030
+Arroyo Arzubi Carlos A.: Agustina.
+
+146
+00:13:19.150 --> 00:13:31.460
+AGOSTINA BERTINI: Sí habíamos dicho que era lo de más alto nivel y lo más avanzado funcionaban como constructores de programas concurrentes, como estilo caja negra.
+
+147
+00:13:31.580 --> 00:13:51.259
+AGOSTINA BERTINI: y habíamos mencionado que la gran ventaja que tenía era que con solo definir los datos que queríamos preservar como monitor, el sistema operativo se encargaba automáticamente de asegurar la exclusión mutua y evitar conflictos en la sección crítica sin que el programador tenga que implementarlo manualmente.
+
+148
+00:13:51.980 --> 00:13:54.950
+Arroyo Arzubi Carlos A.: Bueno, agustina. Muy bien.
+
+149
+00:13:55.550 --> 00:13:55.940
+AGOSTINA BERTINI: Las y.
+
+150
+00:13:55.940 --> 00:13:57.869
+Arroyo Arzubi Carlos A.: Terminamos aquí el repaso.
+
+151
+00:13:58.000 --> 00:14:00.090
+Arroyo Arzubi Carlos A.: Me parece que lo que no di
+
+152
+00:14:00.300 --> 00:14:03.450
+Arroyo Arzubi Carlos A.: fue paso de mensaje. Creo que no lo di. No.
+
+153
+00:14:05.150 --> 00:14:05.590
+ARON FRAGA: pero.
+
+154
+00:14:05.590 --> 00:14:11.409
+Arroyo Arzubi Carlos A.: Entonces voy a dar paso de mensajes que yo entonces me quedo, que es muy cortito
+
+155
+00:14:11.520 --> 00:14:18.010
+Arroyo Arzubi Carlos A.: y después vamos a hacer el ejercicio donde vamos a usar unan y los semáforos.
+
+156
+00:14:18.960 --> 00:14:33.980
+Arroyo Arzubi Carlos A.: Y bueno, esto de acá la comunicación entre 2 procesos puede ser directa o indirecta, la comunicación directa.
+
+157
+00:14:33.980 --> 00:14:39.140
+ARON FRAGA: No, perdón. Profe. Eso sí lo digo. El paso del mensaje. Sí, lo digo, me confundí yo el paso del.
+
+158
+00:14:39.610 --> 00:14:43.260
+Arroyo Arzubi Carlos A.: Directo indirecto, sin crónicas electrónicos, buzones.
+
+159
+00:14:43.590 --> 00:14:44.350
+ARON FRAGA: Sí, Y.
+
+160
+00:14:44.350 --> 00:14:48.619
+Arroyo Arzubi Carlos A.: Bien, entonces vamos directamente a hacer el ejercicio donde.
+
+161
+00:14:48.620 --> 00:14:50.419
+GUSTAVO ALONSO ÁLVAREZ LUPU: Espero que no lo digo.
+
+162
+00:14:50.420 --> 00:14:51.510
+AGOSTINA BERTINI: No para mí.
+
+163
+00:14:51.510 --> 00:14:52.430
+MARIA CANQUIS SANCHEZ: No, pero.
+
+164
+00:14:52.430 --> 00:14:53.489
+GUSTAVO ALONSO ÁLVAREZ LUPU: Que no te ibas.
+
+165
+00:14:53.490 --> 00:14:53.930
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Es de que.
+
+166
+00:14:55.030 --> 00:14:55.560
+ARON FRAGA: En la.
+
+167
+00:14:55.560 --> 00:14:57.420
+MARIA CANQUIS SANCHEZ: A dar esta clase.
+
+168
+00:14:58.930 --> 00:14:59.480
+MARIA CANQUIS SANCHEZ: O sea, esta.
+
+169
+00:14:59.480 --> 00:15:00.369
+ARON FRAGA: Era la.
+
+170
+00:15:00.370 --> 00:15:00.700
+MARIA CANQUIS SANCHEZ: Y a.
+
+171
+00:15:00.700 --> 00:15:03.089
+ARON FRAGA: Indirecta y la percepción directa.
+
+172
+00:15:03.730 --> 00:15:05.159
+GUSTAVO ALONSO ÁLVAREZ LUPU: No, no, No lo vimos.
+
+173
+00:15:05.160 --> 00:15:06.509
+MARIA CANQUIS SANCHEZ: No, no lo vimos.
+
+174
+00:15:07.050 --> 00:15:07.540
+ARON FRAGA: O que.
+
+175
+00:15:07.540 --> 00:15:08.500
+Arroyo Arzubi Carlos A.: A los.
+
+176
+00:15:08.500 --> 00:15:09.460
+ARON FRAGA: Confundí.
+
+177
+00:15:09.460 --> 00:15:10.929
+Arroyo Arzubi Carlos A.: Se adelanta todo? ¿cómo.
+
+178
+00:15:10.930 --> 00:15:14.329
+ARON FRAGA: No pensé que me iba a tomar a mí. Entonces dije que me vine a preparar.
+
+179
+00:15:14.330 --> 00:15:15.130
+GUSTAVO ALONSO ÁLVAREZ LUPU: Capo.
+
+180
+00:15:15.970 --> 00:15:17.779
+LUCAS BONAFFINI: Viene del futuro. Crees que.
+
+181
+00:15:17.780 --> 00:15:20.030
+Arroyo Arzubi Carlos A.: Es una película. ¿qué barbaridad?
+
+182
+00:15:20.930 --> 00:15:24.450
+Arroyo Arzubi Carlos A.: Bueno, capaz que doy clases que no me entero mirá que bien, bueno.
+
+183
+00:15:24.450 --> 00:15:25.430
+ARON FRAGA: Perdone, ¿verdad?
+
+184
+00:15:26.080 --> 00:15:28.950
+Arroyo Arzubi Carlos A.: Bueno, listo. Es cortito, así que no de todos modos.
+
+185
+00:15:29.270 --> 00:15:37.019
+Arroyo Arzubi Carlos A.: Bueno, la comunicación entre proceso directa es cuando yo tengo, me voy a apoyar con algún dibujito a
+
+186
+00:15:41.040 --> 00:15:51.370
+Arroyo Arzubi Carlos A.: que siempre viene bien, puede ser directa o indirecta. La comunicación directa es cuando nosotros
+
+187
+00:15:51.650 --> 00:16:00.510
+Arroyo Arzubi Carlos A.: tenemos de pronto acá un proceso. Supongamos que este es un proceso, y este es otro otro proceso.
+
+188
+00:16:01.850 --> 00:16:08.600
+Arroyo Arzubi Carlos A.: Entonces este como el proceso tiene líneas de código que va ejecutando
+
+189
+00:16:11.560 --> 00:16:18.510
+Arroyo Arzubi Carlos A.: bien y en determinado momento le quiere mandar un mensaje al proceso. Supongamos que esté fuera el proceso A
+
+190
+00:16:20.350 --> 00:16:22.309
+Arroyo Arzubi Carlos A.: y este fuera el proceso B.
+
+191
+00:16:24.990 --> 00:16:30.420
+Arroyo Arzubi Carlos A.: Entonces en determinado momento, le mando un mensaje con un zen.
+
+192
+00:16:31.320 --> 00:16:38.160
+Arroyo Arzubi Carlos A.: Bueno, acá pónganse y todos los parámetros, cosa que más o menos conocen.
+
+193
+00:16:38.800 --> 00:16:46.830
+Arroyo Arzubi Carlos A.: Y Y entonces este este proceso ve.
+
+194
+00:16:47.000 --> 00:16:54.359
+Arroyo Arzubi Carlos A.: le va a contestar con un reshive y sus argumentos. Acá es esto. Es
+
+195
+00:16:54.470 --> 00:17:04.180
+Arroyo Arzubi Carlos A.: una comunicación directa donde no hay ningún intermediario. No hay nadie. Y como su nombre lo indica acá, si el nombre me especifica que es
+
+196
+00:17:05.319 --> 00:17:08.640
+Arroyo Arzubi Carlos A.: esta comunicación directa.
+
+197
+00:17:09.829 --> 00:17:20.150
+Arroyo Arzubi Carlos A.: Además, puede ser sincrónica o a sincrónica sincrónica. ¿qué es que
+
+198
+00:17:23.359 --> 00:17:26.369
+Arroyo Arzubi Carlos A.: este proceso a manda el mensaje
+
+199
+00:17:28.250 --> 00:17:31.709
+Arroyo Arzubi Carlos A.: y se queda esperando sin ejecutar.
+
+200
+00:17:31.900 --> 00:17:38.309
+Arroyo Arzubi Carlos A.: Se queda esperando acá en esta posición hasta que viene el recibo.
+
+201
+00:17:41.340 --> 00:17:51.870
+Arroyo Arzubi Carlos A.: es decir, esa es sincrónica y Y la sincrónica es cuando
+
+202
+00:17:59.160 --> 00:18:05.440
+Arroyo Arzubi Carlos A.: manda el mensaje A y sigue ejecutando sus líneas de código
+
+203
+00:18:05.940 --> 00:18:14.230
+Arroyo Arzubi Carlos A.: y en determinado momento, obviamente ve acá acá donde sea, me va a mandar el recibo.
+
+204
+00:18:17.290 --> 00:18:23.780
+Arroyo Arzubi Carlos A.: Esta comunicación a sincrónica.
+
+205
+00:18:24.800 --> 00:18:28.339
+Arroyo Arzubi Carlos A.: Permite que este proceso se siga ejecutando.
+
+206
+00:18:28.450 --> 00:18:36.160
+Arroyo Arzubi Carlos A.: es decir, que no pierda tiempo esperando a el recive del otro proceso.
+
+207
+00:18:36.560 --> 00:18:39.820
+Arroyo Arzubi Carlos A.: con lo cual, si 1 lo mira así,
+
+208
+00:18:40.270 --> 00:18:52.010
+Arroyo Arzubi Carlos A.: da la impresión de que entre la comunicación sincrónica y la a sincrónica a nivel de y
+
+209
+00:18:52.240 --> 00:19:00.050
+Arroyo Arzubi Carlos A.: privilegiar el procesamiento de líneas de código. Parecería más conveniente la sincrónica.
+
+210
+00:19:02.810 --> 00:19:15.110
+Arroyo Arzubi Carlos A.: pero bueno no todo lo que reluce es oro. Entonces pregunto, ¿qué inconveniente puede tener la comunicación a sincrónica.
+
+211
+00:19:16.210 --> 00:19:21.919
+LUCAS BONAFFINI: Si y que si A depende de ese recurso de B
+
+212
+00:19:22.050 --> 00:19:28.980
+LUCAS BONAFFINI: para poder avanzar o para poder com cumplimentar de manera correcta la la tarea.
+
+213
+00:19:29.090 --> 00:19:33.300
+LUCAS BONAFFINI: corres, el riesgo de que, de que
+
+214
+00:19:33.680 --> 00:19:38.380
+LUCAS BONAFFINI: de que se rompa, digamos, en un momento, porque si a pide un dato
+
+215
+00:19:38.610 --> 00:19:43.290
+LUCAS BONAFFINI: que necesita de B y sigue corriendo sin ese dato que por ahí es determinante para
+
+216
+00:19:43.520 --> 00:19:49.419
+LUCAS BONAFFINI: para el proceso de A. En algún momento puede puede generar un
+
+217
+00:19:49.640 --> 00:19:53.910
+LUCAS BONAFFINI: un quiebre, digamos, en en el funcionamiento de A.
+
+218
+00:19:54.470 --> 00:19:55.640
+LUCAS BONAFFINI: Puede ser que sea.
+
+219
+00:19:55.640 --> 00:19:57.879
+Arroyo Arzubi Carlos A.: Lo que está diciendo Lucas es que.
+
+220
+00:19:58.950 --> 00:20:16.540
+Arroyo Arzubi Carlos A.: Más o menos. ¿por qué? Porque si yo llego acá, y yo necesito el dato. Teóricamente, si yo no tengo el dato, no puedo seguir ejecutando o en su defecto. Si yo llegué a donde necesito el dato que sería acá y no lo tengo, voy a tener que esperar a que me llegue el dato. Acá
+
+221
+00:20:16.680 --> 00:20:17.890
+Arroyo Arzubi Carlos A.: se entiende.
+
+222
+00:20:18.080 --> 00:20:26.689
+Arroyo Arzubi Carlos A.: Es decir, si yo necesito el dato para seguir ejecutando. Se puede dar cualquiera de estas 2 situaciones que yo pens marqué,
+
+223
+00:20:26.830 --> 00:20:30.400
+Arroyo Arzubi Carlos A.: o lo necesito ya, o lo necesito más adelante.
+
+224
+00:20:30.560 --> 00:20:41.429
+Arroyo Arzubi Carlos A.: Si lo necesito. Ya no puedo seguir ejecutando si lo necesito más adelante. ¿qué puede pasar que yo llegue a necesitarlo acá y todavía no me haya llegado
+
+225
+00:20:42.010 --> 00:20:47.670
+Arroyo Arzubi Carlos A.: correcto, pero es otro problema. ¿qué otro problema puede haber?
+
+226
+00:20:51.830 --> 00:21:06.899
+Arroyo Arzubi Carlos A.: Estas son cosas que son interesantes, porque de alguna manera nos hacen ir abriendo la cabeza para ver temas que pueden surgir, o inconvenientes que pueden surgir cuando programamos cuando diseñamos.
+
+227
+00:21:08.410 --> 00:21:12.180
+Arroyo Arzubi Carlos A.: Bueno, el problema que puede tener
+
+228
+00:21:13.320 --> 00:21:17.420
+Arroyo Arzubi Carlos A.: es que cuando ve, demanda el reship
+
+229
+00:21:20.090 --> 00:21:22.420
+Arroyo Arzubi Carlos A.: de pronto ve. Y le puede decir.
+
+230
+00:21:23.590 --> 00:21:27.810
+Arroyo Arzubi Carlos A.: no me llegó bien. El mensaje mándemelo de vuelta.
+
+231
+00:21:28.970 --> 00:21:31.379
+Arroyo Arzubi Carlos A.: ¿cuál mensaje este?
+
+232
+00:21:32.130 --> 00:21:34.380
+Arroyo Arzubi Carlos A.: Como ustedes saben, en computación
+
+233
+00:21:34.630 --> 00:21:43.059
+Arroyo Arzubi Carlos A.: hay muchas cuestiones de mensajes que se repiten: control de errores. Y qué sé yo, que para 1 es transparente
+
+234
+00:21:43.480 --> 00:21:47.900
+Arroyo Arzubi Carlos A.: porque no se entera, pero que los distintos sistemas lo van manejando
+
+235
+00:21:48.560 --> 00:21:54.760
+Arroyo Arzubi Carlos A.: si manda un mail y no llegó, lo manda de vuelta el sistema. Y no me pregunta a mí. Yo, de pronto no me entero.
+
+236
+00:21:54.970 --> 00:22:03.080
+Arroyo Arzubi Carlos A.: Y así todas las comunicaciones y todas las comunicaciones. Entre los distintos dispositivos siempre hay un chequeo
+
+237
+00:22:03.200 --> 00:22:10.329
+Arroyo Arzubi Carlos A.: para que esa comunicación haya llegado bien, entonces puede ocurrir que yo mande un ser
+
+238
+00:22:11.260 --> 00:22:17.300
+Arroyo Arzubi Carlos A.: yendo a al proceso. B Sigo ejecutando y al ratito. Me llega
+
+239
+00:22:17.430 --> 00:22:21.969
+Arroyo Arzubi Carlos A.: en este punto que Bm dice, no me llegó bien.
+
+240
+00:22:22.140 --> 00:22:27.560
+Arroyo Arzubi Carlos A.: me lo puede enviar de vuelta, porque al decirme que no le digo bien, yo sé que se lo tengo que mandar de vuelta.
+
+241
+00:22:28.660 --> 00:22:32.790
+Arroyo Arzubi Carlos A.: entonces acá es donde puede ocurrir el problema o no.
+
+242
+00:22:33.080 --> 00:22:34.069
+Arroyo Arzubi Carlos A.: ¿por qué?
+
+243
+00:22:34.790 --> 00:22:43.870
+Arroyo Arzubi Carlos A.: Porque si yo la información que le puse acá, la puedo reconstruir, se lo puedo mandar.
+
+244
+00:22:45.810 --> 00:22:55.139
+Arroyo Arzubi Carlos A.: Si yo la información que la mandé, acá no la puedo reconstruir o restaurar, es en la palabra que quiera, entonces estoy en un problema.
+
+245
+00:22:57.600 --> 00:22:58.679
+Arroyo Arzubi Carlos A.: Es decir.
+
+246
+00:22:59.600 --> 00:23:19.289
+Arroyo Arzubi Carlos A.: vieron que nosotros hablamos de cuando hablamos de los semáforos, Hablamos de del contador. Bueno, imaginen la variable contador que de pronto, la mando para acá dentro de este argumento. Y este me dice: mándemela de vuelta, y yo haya perdido el dato que tenía. Acá
+
+247
+00:23:20.960 --> 00:23:31.769
+Arroyo Arzubi Carlos A.: Bueno, esto es una descripción de las cosas que pueden ocurrir para que 1 sepa cómo funciona esto y, En consecuencia, si quiere usar
+
+248
+00:23:31.930 --> 00:23:39.959
+Arroyo Arzubi Carlos A.: la comunicación a sincrónica, sepa que esto puede ocurrir, con lo cual, si 1 toma los recaudos.
+
+249
+00:23:40.080 --> 00:23:43.329
+Arroyo Arzubi Carlos A.: puede usar la comunicación a sincrónica sin ningún problema.
+
+250
+00:23:43.540 --> 00:23:46.280
+Arroyo Arzubi Carlos A.: sino que 1 tiene que saber
+
+251
+00:23:46.580 --> 00:23:50.499
+Arroyo Arzubi Carlos A.: qué cosas pueden tener problemas para evitarlas.
+
+252
+00:23:52.250 --> 00:23:52.860
+Arroyo Arzubi Carlos A.: Bueno.
+
+253
+00:23:52.860 --> 00:23:55.220
+LUCAS BONAFFINI: Sí o, como decía vos ahí, profe
+
+254
+00:23:55.800 --> 00:24:04.349
+LUCAS BONAFFINI: manejarlo justamente manejar ese potencial error. Y en el caso de que suceda.
+
+255
+00:24:04.830 --> 00:24:16.750
+LUCAS BONAFFINI: le va a llegar la notificación, el manejo de error de A y poder leer, en todo caso hacer un roll Bag para volverlo a pedir, en el caso de Quebec te devuelva una un un error. En base a esa información que tú estabas necesitando.
+
+256
+00:24:16.750 --> 00:24:17.450
+Arroyo Arzubi Carlos A.: Claro, es una.
+
+257
+00:24:17.450 --> 00:24:19.380
+LUCAS BONAFFINI: Para entorpecer la información.
+
+258
+00:24:19.380 --> 00:24:23.399
+Arroyo Arzubi Carlos A.: El tema es el siguiente: ¿vos pensa, le mandase un valor
+
+259
+00:24:23.980 --> 00:24:26.840
+Arroyo Arzubi Carlos A.: al rato, Te dicen, me lo podés mandar de vuelta
+
+260
+00:24:27.640 --> 00:24:31.899
+Arroyo Arzubi Carlos A.: y por ahí vos lo tenés. Si vos lo tenés, no hay ningún problema.
+
+261
+00:24:32.150 --> 00:24:42.289
+Arroyo Arzubi Carlos A.: Si vos lo podés recuperar haciendo una cuenta o lo que sea, tampoco el problema Ahora, Si vos no lo podés recuperar ahí, tenés un problema. Eso es lo que quiero marcar
+
+262
+00:24:42.460 --> 00:24:59.989
+Arroyo Arzubi Carlos A.: para que sepamos qué cosas pueden ocurrir. Si vos sabés que esto puede ocurrir y lo guardas en algún lado o o no te afecta o lo que sea listo. Es decir, acá no hay una solución buena para nada. Acá Uno tiene que saber las cosas que pueden ocurrir
+
+263
+00:25:00.270 --> 00:25:08.710
+Arroyo Arzubi Carlos A.: si 1 sabe lo que puede ocurrir. Bueno, ya va a ser lo necesario para que si el problema aparece poder solucionarlo, Me entendés.
+
+264
+00:25:09.550 --> 00:25:17.830
+LUCAS BONAFFINI: Claro, Sí, sí, Por eso decía esto de manejar el el potencial Error. Porque si vos no, no te va a cambiar mucho? No lo no lo tenés en cuenta en tu podio de.
+
+265
+00:25:17.830 --> 00:25:18.359
+Arroyo Arzubi Carlos A.: No es.
+
+266
+00:25:18.360 --> 00:25:25.699
+LUCAS BONAFFINI: Proceso de A, Pero si sabes que puede ser, o sea, porque estás mejorando un proceso sincrónico. Es decir, bueno, lo voy a manejar. Voy a tomar los recaudos.
+
+267
+00:25:25.700 --> 00:25:26.420
+Arroyo Arzubi Carlos A.: Exactamente.
+
+268
+00:25:26.420 --> 00:25:28.270
+LUCAS BONAFFINI: Que pueda suceder algún.
+
+269
+00:25:28.490 --> 00:25:37.710
+Arroyo Arzubi Carlos A.: Esa. Esa es la idea que 1 abra la cabeza y vaya viendo los pros y los contras de cada cosa después de acuerdo al problema que tenga.
+
+270
+00:25:38.050 --> 00:25:42.090
+Arroyo Arzubi Carlos A.: va a resolver con la herramienta que mejor le guste.
+
+271
+00:25:42.680 --> 00:25:49.250
+Arroyo Arzubi Carlos A.: Es como cuando hablamos de los algoritmos de prioridad y decimos: hay que prever de inanición, para lo cual hay que asociar
+
+272
+00:25:49.380 --> 00:25:53.710
+Arroyo Arzubi Carlos A.: algún algoritmo de envejecimiento y bueno
+
+273
+00:25:54.460 --> 00:26:00.299
+Arroyo Arzubi Carlos A.: los los algoritmos de prioridades se usan un montón. No es que por eso no lo usamos.
+
+274
+00:26:00.430 --> 00:26:04.110
+Arroyo Arzubi Carlos A.: Pero nos tomamos en real seguro con el envejecimiento.
+
+275
+00:26:04.470 --> 00:26:13.809
+Arroyo Arzubi Carlos A.: Bueno, acá sabiendo que esto puede ocurrir, listo, lo tengo en cuenta. Acá, El tema es ser consciente. Lo más que se pueda
+
+276
+00:26:14.240 --> 00:26:18.300
+Arroyo Arzubi Carlos A.: de las distintas situaciones que se plantean con las herramientas que 1 tiene.
+
+277
+00:26:18.520 --> 00:26:23.279
+Arroyo Arzubi Carlos A.: Cuando entonces, cuando 1 llega el momento de programar, diseñar y que se yo?
+
+278
+00:26:23.380 --> 00:26:27.249
+Arroyo Arzubi Carlos A.: Bueno, se va a acordar que algo de esto va a tener que tener en cuenta.
+
+279
+00:26:27.390 --> 00:26:33.309
+Arroyo Arzubi Carlos A.: Bueno, sigo y la otra forma de comunicación.
+
+280
+00:26:33.670 --> 00:26:39.010
+Arroyo Arzubi Carlos A.: Obviamente, si esta era directa tenemos la indirecta.
+
+281
+00:26:39.340 --> 00:26:40.250
+Arroyo Arzubi Carlos A.: ¿
+
+282
+00:26:44.630 --> 00:26:54.089
+Arroyo Arzubi Carlos A.: Joder, que la indirecta, como todos se imaginan, tenemos acá un buzón
+
+283
+00:26:55.470 --> 00:26:59.170
+Arroyo Arzubi Carlos A.: de manera que este proceso va a enviar
+
+284
+00:26:59.340 --> 00:27:03.340
+Arroyo Arzubi Carlos A.: al buzón y el proceso va a sacar del buzón
+
+285
+00:27:03.550 --> 00:27:06.189
+Arroyo Arzubi Carlos A.: un buzón. ¿qué es un espacio de memoria
+
+286
+00:27:06.870 --> 00:27:12.550
+Arroyo Arzubi Carlos A.: que se guarda un Buffer, llámenlo como quiera y
+
+287
+00:27:13.460 --> 00:27:16.730
+Arroyo Arzubi Carlos A.: que se usa como comunicación indirecta.
+
+288
+00:27:16.930 --> 00:27:20.110
+Arroyo Arzubi Carlos A.: pero yo menciono en particular el buzón
+
+289
+00:27:20.570 --> 00:27:23.660
+Arroyo Arzubi Carlos A.: más que nada para que abramos la cabeza
+
+290
+00:27:24.180 --> 00:27:28.309
+Arroyo Arzubi Carlos A.: e imaginemos que cuando definimos un buzón
+
+291
+00:27:29.270 --> 00:27:36.520
+Arroyo Arzubi Carlos A.: hay que tener en cuenta una serie de cuestiones, como, Por ejemplo, yo no puedo guardar en un buzón que está lleno
+
+292
+00:27:37.570 --> 00:27:42.890
+Arroyo Arzubi Carlos A.: o yo no puedo sacar o leer de un buzón que no tiene nada.
+
+293
+00:27:43.370 --> 00:27:51.680
+Arroyo Arzubi Carlos A.: o si yo tengo Acá otros procesos, no supongamos ya el proceso se que también
+
+294
+00:27:52.060 --> 00:28:00.100
+Arroyo Arzubi Carlos A.: va a acceder al buzón u otro más. Yo voy a tener que definir un tamaño
+
+295
+00:28:00.420 --> 00:28:05.369
+Arroyo Arzubi Carlos A.: de buzón adecuado al problema que tenga que resolver.
+
+296
+00:28:05.660 --> 00:28:09.250
+Arroyo Arzubi Carlos A.: Es decir, va a tener que tener un tamaño.
+
+297
+00:28:10.030 --> 00:28:14.230
+Arroyo Arzubi Carlos A.: No tan chico que no me quepa lo que yo tengo que guardar
+
+298
+00:28:14.440 --> 00:28:17.499
+Arroyo Arzubi Carlos A.: ni demasiado grande para no desperdiciar memoria.
+
+299
+00:28:18.160 --> 00:28:20.630
+Arroyo Arzubi Carlos A.: Pero Además, voy a tener que establecer
+
+300
+00:28:21.210 --> 00:28:30.600
+Arroyo Arzubi Carlos A.: quién es el que tiene la potestad de borrar el dato que está acá cuando se borra el dato que está acá cuando lo leyó,
+
+301
+00:28:31.040 --> 00:28:37.799
+Arroyo Arzubi Carlos A.: qué sé yo lo leí yo C, o cuando lo leyeron los 3 o o o o todos temas.
+
+302
+00:28:38.400 --> 00:28:39.860
+Arroyo Arzubi Carlos A.: es decir, que
+
+303
+00:28:40.230 --> 00:28:49.079
+Arroyo Arzubi Carlos A.: que yo no voy a dar respuesta ahora cuál es la solución? Porque la solución va a depender del problema. Lo único que quiero que les quede como
+
+304
+00:28:49.470 --> 00:28:53.739
+Arroyo Arzubi Carlos A.: como concepto es que cuando utilizamos buzones
+
+305
+00:28:54.380 --> 00:28:59.859
+Arroyo Arzubi Carlos A.: tenemos que establecer todas estas cosas y algunas otras más que ahora no se me ocurren
+
+306
+00:29:00.280 --> 00:29:10.429
+Arroyo Arzubi Carlos A.: que son el tamaño, ¿Quién lo vacía? ¿quién lo llena? ¿con qué permiso, ¿Con qué prioridades? Con qué tiempo de duración? Bueno, una cantidad de cuestiones a sincronizar
+
+307
+00:29:10.630 --> 00:29:16.279
+Arroyo Arzubi Carlos A.: por usar un buzón, porque, repito, no se puede
+
+308
+00:29:16.550 --> 00:29:32.420
+Arroyo Arzubi Carlos A.: guardar en un buzón que está lleno ni sacar de un buzón que está vacío. Por ejemplo, cuando nosotros mandamos un ejemplo que por ahí le queda más claro cuando se manda a imprimir determinada cantidad de cosas. Bueno, esos van a un buzón o un buffer y de ahí a la impresora, que es mucho más lenta.
+
+309
+00:29:32.950 --> 00:29:41.180
+Arroyo Arzubi Carlos A.: pero yo no voy a poder mandar a a guardar en el buzón si no tengo lugar y la impresora no va a poder imprimir. Si no hay nada en el buzón.
+
+310
+00:29:41.910 --> 00:29:47.349
+Arroyo Arzubi Carlos A.: Bueno, si tengo más de una impresora, habrá que sincronizar todo eso.
+
+311
+00:29:47.520 --> 00:29:53.269
+Arroyo Arzubi Carlos A.: Nada, La idea de la mención del buzón, en particular.
+
+312
+00:29:53.480 --> 00:29:56.229
+Arroyo Arzubi Carlos A.: Primero, porque es un medio de comunicación
+
+313
+00:29:56.840 --> 00:30:00.030
+Arroyo Arzubi Carlos A.: indirecto que obviamente se utiliza muchísimo
+
+314
+00:30:00.480 --> 00:30:08.410
+Arroyo Arzubi Carlos A.: de, pero que no es cuestión de definirlo y nada más, sino que hay que definir todas estas cosas que yo de alguna manera
+
+315
+00:30:08.790 --> 00:30:10.710
+Arroyo Arzubi Carlos A.: les he mencionado.
+
+316
+00:30:11.920 --> 00:30:17.920
+Arroyo Arzubi Carlos A.: Bueno, eso faltaba y vamos a ver ahora. Entonces
+
+317
+00:30:18.580 --> 00:30:22.820
+Arroyo Arzubi Carlos A.: que aparte les sirve de repaso para para el parcialito
+
+318
+00:30:23.700 --> 00:30:26.220
+Arroyo Arzubi Carlos A.: porque vamos a hacer un ejercicio
+
+319
+00:30:26.520 --> 00:30:31.940
+Arroyo Arzubi Carlos A.: de semáforos que ya seguramente ustedes lo han visto.
+
+320
+00:30:32.560 --> 00:30:37.780
+Arroyo Arzubi Carlos A.: pero voy a agregar el an y vamos a explicar.
+
+321
+00:30:38.740 --> 00:30:45.720
+Arroyo Arzubi Carlos A.: Bueno, vamos a Vamos a la pizarra. Entonces primero, este.
+
+322
+00:30:55.830 --> 00:30:58.270
+Arroyo Arzubi Carlos A.: bueno, el ejercicio tiene A.
+
+323
+00:30:59.270 --> 00:31:01.309
+Arroyo Arzubi Carlos A.: No. No voy a escribir con esto porque si no.
+
+324
+00:31:15.540 --> 00:31:16.540
+Arroyo Arzubi Carlos A.: B
+
+325
+00:31:19.850 --> 00:31:24.820
+Arroyo Arzubi Carlos A.: o sí, de
+
+326
+00:31:29.440 --> 00:31:30.999
+Arroyo Arzubi Carlos A.: vamos, yo sí, también.
+
+327
+00:31:31.340 --> 00:31:34.069
+Arroyo Arzubi Carlos A.: No. Este no es el ejercicio.
+
+328
+00:31:37.680 --> 00:31:45.360
+Arroyo Arzubi Carlos A.: Ese es el que vivo de ¿
+
+329
+00:31:47.040 --> 00:31:52.350
+Arroyo Arzubi Carlos A.: Y que dice, bueno, y acá seguimos.
+
+330
+00:31:52.710 --> 00:31:57.040
+Arroyo Arzubi Carlos A.: Es decir, acá vamos a poner un ejercicio donde tenemos un or
+
+331
+00:31:57.230 --> 00:32:00.489
+Arroyo Arzubi Carlos A.: y agregamos el an, que es el que no habíamos visto.
+
+332
+00:32:00.790 --> 00:32:03.740
+ARON FRAGA: Le puedo hacer una consulta rápida usted cuando.
+
+333
+00:32:03.740 --> 00:32:05.210
+Arroyo Arzubi Carlos A.: Rápida ya terminó.
+
+334
+00:32:05.740 --> 00:32:07.259
+ARON FRAGA: No estoy un poquito más de tiempo.
+
+335
+00:32:07.260 --> 00:32:08.610
+Arroyo Arzubi Carlos A.: Bueno, poco más.
+
+336
+00:32:08.610 --> 00:32:19.819
+ARON FRAGA: Usted cuando encierra el B en una computadora con el C. Lo están cerrando entre paréntesis. Por lo tanto, a pertenece a yo. Lo tengo que leer como A es el resultado de B o C.
+
+337
+00:32:20.610 --> 00:32:22.609
+Arroyo Arzubi Carlos A.: No. ¿cómo es El resultado? Debió ser.
+
+338
+00:32:22.610 --> 00:32:25.399
+ARON FRAGA: Usted pone a paréntesis, B o C.
+
+339
+00:32:25.610 --> 00:32:30.829
+Arroyo Arzubi Carlos A.: Bueno, ahora voy a hacer el gráfico, el grafo. ¿qué es lo que dijimos que hacíamos un grafo?
+
+340
+00:32:31.130 --> 00:32:38.080
+Arroyo Arzubi Carlos A.: Entonces poníamos acá y la hacemos. El método que usamos. Siempre usamos otra vez.
+
+341
+00:32:38.430 --> 00:32:41.859
+Arroyo Arzubi Carlos A.: Acá tenemos B o C. Quiero que se ejecuten
+
+342
+00:32:42.680 --> 00:32:47.919
+Arroyo Arzubi Carlos A.: en ese orden. Acá tenemos D, acá tenemos E.
+
+343
+00:32:48.700 --> 00:32:53.260
+Arroyo Arzubi Carlos A.: Y acá. Tenemos ese recuerden que yo
+
+344
+00:32:54.040 --> 00:32:59.730
+Arroyo Arzubi Carlos A.: uso un punteado para el oro, un invento mío, pero bueno.
+
+345
+00:33:01.680 --> 00:33:04.829
+Arroyo Arzubi Carlos A.: no lo pattenté. Así que si quieren usarlo, lo pueden usar.
+
+346
+00:33:06.690 --> 00:33:15.430
+Arroyo Arzubi Carlos A.: Y acá, voy a tener una, entonces hago la línea completa, bueno.
+
+347
+00:33:18.890 --> 00:33:20.500
+Arroyo Arzubi Carlos A.: y ahí estamos.
+
+348
+00:33:23.570 --> 00:33:25.380
+Arroyo Arzubi Carlos A.: y acá tengo el A
+
+349
+00:33:29.190 --> 00:33:33.720
+Arroyo Arzubi Carlos A.: Mhm, El B,
+
+350
+00:33:37.230 --> 00:33:38.350
+Arroyo Arzubi Carlos A.: Pensé
+
+351
+00:33:41.530 --> 00:33:42.440
+Arroyo Arzubi Carlos A.: de
+
+352
+00:33:51.310 --> 00:33:57.059
+Arroyo Arzubi Carlos A.: Y ese se entiende aarón lo que quería yo decir. Acá.
+
+353
+00:33:57.780 --> 00:34:03.769
+ARON FRAGA: O sea, Pero mi idea es que el resultado de lo que sale de E. E. F, el que vuelve a, digamos, o no.
+
+354
+00:34:03.770 --> 00:34:07.539
+Arroyo Arzubi Carlos A.: Sí, Sí, acá. Lo que estoy diciendo es que esto vuelve acá.
+
+355
+00:34:07.970 --> 00:34:10.689
+ARON FRAGA: O sea, el resultado de Daiseel que le pertenece a.
+
+356
+00:34:11.130 --> 00:34:14.820
+ARON FRAGA: o sea, en la seguidilla. Está bien el resultado de E. I F, que vuelve a.
+
+357
+00:34:16.760 --> 00:34:21.440
+Arroyo Arzubi Carlos A.: Sí, yo podía no haber hecho este ciclo, pero lo mismo lo voy a tener que hacer, que me quede bien.
+
+358
+00:34:21.909 --> 00:34:23.049
+ARON FRAGA: No, no, lo.
+
+359
+00:34:23.050 --> 00:34:29.880
+Arroyo Arzubi Carlos A.: Yo el loop lo hago nada más que para que le coincida el dato final con el entrante, pero no necesariamente
+
+360
+00:34:30.580 --> 00:34:35.230
+Arroyo Arzubi Carlos A.: podría dejarlo ahí sin el lujo, pero no cambia nada.
+
+361
+00:34:35.980 --> 00:34:43.359
+Arroyo Arzubi Carlos A.: Entonces, bueno, hasta acá vamos Bien, Bien, tenemos honor. Ya dijimos el oro, la clase pasada.
+
+362
+00:34:44.500 --> 00:34:48.010
+Arroyo Arzubi Carlos A.: Bueno, vamos a tirar algunos semáforos dijimos. Bueno.
+
+363
+00:34:48.560 --> 00:34:51.100
+Arroyo Arzubi Carlos A.: entonces a este le vamos a poner una
+
+364
+00:34:51.760 --> 00:34:55.649
+Arroyo Arzubi Carlos A.: el otro. Es un honor. Honor. Recuerden que
+
+365
+00:34:55.880 --> 00:35:02.919
+Arroyo Arzubi Carlos A.: con un solo, no con un solo con el mismo semáforo manejo todo lo que estén dentro del oro
+
+366
+00:35:03.070 --> 00:35:08.000
+Arroyo Arzubi Carlos A.: porque, como se va a ejecutar 1 solo con que
+
+367
+00:35:08.200 --> 00:35:16.209
+Arroyo Arzubi Carlos A.: 1 se habilita, ya es suficiente. Entonces acá dijimos, vamos a poner el semáforo.
+
+368
+00:35:16.880 --> 00:35:21.819
+FRANCO EMMANUEL SICARDO: Tengo una pregunta profe, aunque sea un norte, podría pasar que se ejecuten los 2.
+
+369
+00:35:22.070 --> 00:35:22.800
+Arroyo Arzubi Carlos A.: No.
+
+370
+00:35:23.650 --> 00:35:24.780
+FRANCO EMMANUEL SICARDO: Sí, o sí es 1.
+
+371
+00:35:25.010 --> 00:35:26.449
+Arroyo Arzubi Carlos A.: ¿y por qué Puyol.
+
+372
+00:35:27.490 --> 00:35:38.799
+Arroyo Arzubi Carlos A.: Es decir, que yo tengo yo estoy obligado con los semáforos. Estamos jugando con esto, pero hay que jugarlo bien a que se haga esto y nada más que esto, no otra cosa.
+
+373
+00:35:39.280 --> 00:35:42.180
+Arroyo Arzubi Carlos A.: Si vos ejecutas B y C, ya no es esto.
+
+374
+00:35:43.740 --> 00:35:44.649
+Arroyo Arzubi Carlos A.: Se entendió.
+
+375
+00:35:44.650 --> 00:35:47.499
+FRANCO EMMANUEL SICARDO: Claro, sería como un ord exclusivo. Una cosa así.
+
+376
+00:35:48.300 --> 00:35:52.180
+Arroyo Arzubi Carlos A.: Sí, mi honor es así.
+
+377
+00:35:52.840 --> 00:35:58.350
+LUCAS BONAFFINI: Lógicamente a ver vos podés tener siendo ahora.
+
+378
+00:35:58.740 --> 00:36:10.569
+LUCAS BONAFFINI: Hago lo que te interesa, es que 1 1 sea verdadero para que la condición se cumpla. Pueden ser que los 2 sean verdaderos, independientemente de que sea sea 1. Va a seguir siendo verdadero, pero claro.
+
+379
+00:36:10.570 --> 00:36:12.589
+Arroyo Arzubi Carlos A.: No estoy hablando del verdadero Acá.
+
+380
+00:36:12.980 --> 00:36:13.640
+ARON FRAGA: Claro, no.
+
+381
+00:36:13.640 --> 00:36:14.030
+LUCAS BONAFFINI: No es un.
+
+382
+00:36:14.030 --> 00:36:16.770
+ARON FRAGA: Lo que yo le había preguntado, o sea, es que 1 solamente.
+
+383
+00:36:16.770 --> 00:36:18.019
+Arroyo Arzubi Carlos A.: No solamente puede.
+
+384
+00:36:18.020 --> 00:36:21.119
+ARON FRAGA: Pasar. Uno solamente puede pasar. Pasa 1 pasa el otro.
+
+385
+00:36:21.610 --> 00:36:26.750
+Arroyo Arzubi Carlos A.: Acá el aro. Lo estoy usando para que se ejecuten procesos. No estamos hablando de verdadero falso.
+
+386
+00:36:29.490 --> 00:36:30.830
+Arroyo Arzubi Carlos A.: Está claro, eso.
+
+387
+00:36:31.070 --> 00:36:35.000
+ARON FRAGA: Sí, a mí me pasó lo mismo porque también lo lo identifiqué así, pero no está perfecto.
+
+388
+00:36:35.000 --> 00:36:36.510
+Arroyo Arzubi Carlos A.: No, no tiene nada que.
+
+389
+00:36:36.510 --> 00:36:37.730
+ARON FRAGA: Pasa una o pasa al otro.
+
+390
+00:36:37.730 --> 00:36:39.110
+FRANCO EMMANUEL SICARDO: Como digitales.
+
+391
+00:36:39.670 --> 00:36:41.200
+LUCAS BONAFFINI: Exclusivo.
+
+392
+00:36:41.200 --> 00:36:53.040
+Arroyo Arzubi Carlos A.: Claro, no son variables, buriana ni resultados. No nada. Son procesos, entonces que yo le digo los ordeno para que se ejecuten de esta manera, porque porque me Ph: para el ejercicio, nada más.
+
+393
+00:36:53.710 --> 00:36:58.329
+Arroyo Arzubi Carlos A.: Pero bueno, entonces el oro quiere decir que yo voy a ejecutar A,
+
+394
+00:36:58.930 --> 00:37:02.030
+Arroyo Arzubi Carlos A.: después B o C, 1 solo.
+
+395
+00:37:03.250 --> 00:37:11.710
+Arroyo Arzubi Carlos A.: y luego D, para que se ejecute D, cuál es la condición previa que se haya ejecutado B o C con 1 solo ya se ejecuta
+
+396
+00:37:12.820 --> 00:37:17.199
+Arroyo Arzubi Carlos A.: después de D. Quiero que se ejecuten los 2 E, y F,
+
+397
+00:37:17.780 --> 00:37:21.380
+Arroyo Arzubi Carlos A.: pero yo no, no, Pre: No me importa si se ejecuta
+
+398
+00:37:21.520 --> 00:37:25.389
+Arroyo Arzubi Carlos A.: de E y F o D, F, I, E
+
+399
+00:37:26.060 --> 00:37:37.480
+Arroyo Arzubi Carlos A.: Digo porque algunos después me ponen con el an. Me ponen como si fuera secuencial de E y F, Y me dicen, bueno, si se iban a ejecutar todos, entonces es lo mismo.
+
+400
+00:37:38.080 --> 00:37:39.350
+Arroyo Arzubi Carlos A.: Me explico.
+
+401
+00:37:39.490 --> 00:37:41.189
+ARON FRAGA: Pero, en ese caso, ¿quién pasa?
+
+402
+00:37:41.790 --> 00:37:42.320
+ARON FRAGA: No.
+
+403
+00:37:42.320 --> 00:37:42.710
+Arroyo Arzubi Carlos A.: O con.
+
+404
+00:37:42.710 --> 00:37:46.269
+ARON FRAGA: Los 2 no pueden pasar. Puede pasar 1 solo. ¿por qué no solo.
+
+405
+00:37:47.100 --> 00:37:49.159
+Arroyo Arzubi Carlos A.: ¿por qué no? Si es una.
+
+406
+00:37:50.000 --> 00:37:53.299
+ARON FRAGA: O sea, en la seguidilla viene 1 y el otro.
+
+407
+00:37:54.060 --> 00:37:59.489
+Arroyo Arzubi Carlos A.: Bueno, si yo tengo 2 procesadores, puedo ejecutar 1 en un procesador y otro en otro, no tengo ningún problema.
+
+408
+00:37:59.760 --> 00:38:05.400
+ARON FRAGA: Pero en la lista, digamos en la lista que en el excel viene 1 y el otro, porque se van a escuchar los 2.
+
+409
+00:38:05.400 --> 00:38:05.830
+Arroyo Arzubi Carlos A.: Bueno.
+
+410
+00:38:05.830 --> 00:38:06.950
+ARON FRAGA: Caver, O'donna.
+
+411
+00:38:07.220 --> 00:38:10.089
+Arroyo Arzubi Carlos A.: Voy a elegir 1. Cualquiera. El primero que se me ocurra.
+
+412
+00:38:10.770 --> 00:38:13.360
+ARON FRAGA: Pero pasa 1 entonces eso por.
+
+413
+00:38:13.360 --> 00:38:15.490
+Arroyo Arzubi Carlos A.: Que no pasan los 2.
+
+414
+00:38:16.350 --> 00:38:17.110
+ARON FRAGA: Perfecto. Está bien.
+
+415
+00:38:17.110 --> 00:38:17.979
+LUCAS BONAFFINI: Es lo que se.
+
+416
+00:38:17.980 --> 00:38:18.430
+ARON FRAGA: Por el.
+
+417
+00:38:18.430 --> 00:38:19.250
+LUCAS BONAFFINI: Puedes parar.
+
+418
+00:38:20.030 --> 00:38:20.580
+Arroyo Arzubi Carlos A.: Van a hablar.
+
+419
+00:38:20.580 --> 00:38:23.690
+LUCAS BONAFFINI: Paralelizar, digamos, van a estar los 2 procesos.
+
+420
+00:38:23.690 --> 00:38:27.100
+Arroyo Arzubi Carlos A.: Se van a pasar los 2 en cualquier orden. Lo que pasa que.
+
+421
+00:38:27.100 --> 00:38:28.360
+FRANCO EMMANUEL SICARDO: Gracias a todos.
+
+422
+00:38:28.780 --> 00:38:29.310
+Arroyo Arzubi Carlos A.: Cómo.
+
+423
+00:38:29.310 --> 00:38:29.960
+LUCAS BONAFFINI: Mhm.
+
+424
+00:38:29.960 --> 00:38:31.790
+FRANCO EMMANUEL SICARDO: En los Italia pasan todos.
+
+425
+00:38:32.360 --> 00:38:33.280
+Arroyo Arzubi Carlos A.: Lo qué.
+
+426
+00:38:33.690 --> 00:38:35.559
+FRANCO EMMANUEL SICARDO: Menos Italia, pasan todo.
+
+427
+00:38:35.560 --> 00:38:44.139
+Arroyo Arzubi Carlos A.: ¡Sí! Perdón. Estaba en otro tema, sí, pobre, Italia, con problemas. Bueno.
+
+428
+00:38:44.570 --> 00:38:49.920
+Arroyo Arzubi Carlos A.: entonces a este le vamos a poner un semáforo, porque ya sabemos que un semáforo hay que ponerle.
+
+429
+00:38:50.400 --> 00:39:00.990
+Arroyo Arzubi Carlos A.: Y cuando es una en vez de un org, le pongo un semáforo a cada 1. A este le pongo ele bueno, y a este le pongo ese por ejemplo
+
+430
+00:39:01.520 --> 00:39:02.260
+Arroyo Arzubi Carlos A.: ya.
+
+431
+00:39:02.830 --> 00:39:09.820
+Arroyo Arzubi Carlos A.: Y ahora voy a poner acá los procesos a B: Bueno, ya voy al Excel.
+
+432
+00:39:10.440 --> 00:39:18.410
+Arroyo Arzubi Carlos A.: Bueno, vamos al exilio, que es más cómodo para usarlo, pero quería plantear esto, para que vea
+
+433
+00:39:19.580 --> 00:39:22.480
+Arroyo Arzubi Carlos A.: que cómo se hace nada más.
+
+434
+00:39:22.640 --> 00:39:24.150
+Arroyo Arzubi Carlos A.: Vamos al Excel.
+
+435
+00:39:24.800 --> 00:39:27.259
+Arroyo Arzubi Carlos A.: Tengan presente lo que vimos ahí.
+
+436
+00:39:30.040 --> 00:39:38.439
+Arroyo Arzubi Carlos A.: Bueno, acá, está, no vamos a borrar este que me olvidé de borrar listo. Acá Está el ejercicio
+
+437
+00:39:38.720 --> 00:39:43.300
+Arroyo Arzubi Carlos A.: con honor. Y con unan. Yo le puse hoy, pero bueno, ponen a escribir.
+
+438
+00:39:43.300 --> 00:39:44.660
+JOAQUÍN MULEIRO BELTRAN: Compartiendo.
+
+439
+00:39:46.580 --> 00:39:49.449
+Arroyo Arzubi Carlos A.: Bien, con razón. Me divertía yo solo.
+
+440
+00:39:56.210 --> 00:40:04.649
+Arroyo Arzubi Carlos A.: Ahora, sí acá. Está el ejercicio. Recuerden el grafo que hicimos como para que nos ayude.
+
+441
+00:40:05.140 --> 00:40:20.910
+Arroyo Arzubi Carlos A.: Entonces, primero se va a ejecutar a Entonces, acá ¿qué voy a poner un a ver dónde estoy escribiendo?
+
+442
+00:40:25.770 --> 00:40:34.210
+Arroyo Arzubi Carlos A.: Mhm: muy A: no ejecuto A: Recuerden el gráfico.
+
+443
+00:40:34.350 --> 00:40:42.709
+Arroyo Arzubi Carlos A.: el grafo. Cuando termino de ejecutar a voy a poner un signal B, C,
+
+444
+00:40:44.280 --> 00:40:56.560
+Arroyo Arzubi Carlos A.: ¿Y acá qué le voy a poner un güey Beige y acá? Vamos a poner un güey beché.
+
+445
+00:40:56.680 --> 00:41:00.610
+ARON FRAGA: En este caso no unifica los procesos como el B y el segundo.
+
+446
+00:41:01.150 --> 00:41:02.379
+Arroyo Arzubi Carlos A.: Muy bien, culto.
+
+447
+00:41:02.380 --> 00:41:07.299
+ARON FRAGA: Porque en el ejercicio anterior, en el Lord unificaba el Pc, junto lo ponía junto.
+
+448
+00:41:07.540 --> 00:41:08.540
+Arroyo Arzubi Carlos A.: A dónde.
+
+449
+00:41:08.540 --> 00:41:09.359
+ARON FRAGA: En ese.
+
+450
+00:41:09.770 --> 00:41:10.990
+Arroyo Arzubi Carlos A.: A dónde.
+
+451
+00:41:11.970 --> 00:41:14.929
+ARON FRAGA: No está bien en los procesos. Están separados. Perdón.
+
+452
+00:41:15.250 --> 00:41:16.830
+Arroyo Arzubi Carlos A.: Cómo voy a poner el proceso juntos.
+
+453
+00:41:16.830 --> 00:41:18.130
+ARON FRAGA: No, no, está bien, también.
+
+454
+00:41:18.130 --> 00:41:19.760
+Arroyo Arzubi Carlos A.: Son niñas de código.
+
+455
+00:41:19.760 --> 00:41:20.669
+ARON FRAGA: Que ahora son de los.
+
+456
+00:41:20.670 --> 00:41:21.330
+Arroyo Arzubi Carlos A.: Que es.
+
+457
+00:41:22.460 --> 00:41:23.710
+Arroyo Arzubi Carlos A.: Entonces
+
+458
+00:41:23.840 --> 00:41:32.389
+Arroyo Arzubi Carlos A.: voy imaginando cómo funciona esto. Ejecuto A: luego ejecuto, B, 12 C, y luego tengo que abrir en D. Entonces este va a tener
+
+459
+00:41:32.790 --> 00:41:49.470
+Arroyo Arzubi Carlos A.: un wave de Y acá vamos a poner signal de acá. Vamos a poner pero de.
+
+460
+00:41:50.480 --> 00:41:58.920
+Arroyo Arzubi Carlos A.: bueno, entonces parece que ejecuto Esto me abre alguno de los 2, ejecutó alguno de los 2, cualquiera me abre. De.
+
+461
+00:41:59.230 --> 00:42:02.419
+Arroyo Arzubi Carlos A.: Y luego de D, voy a querer que
+
+462
+00:42:03.080 --> 00:42:08.290
+Arroyo Arzubi Carlos A.: se abran los 2 y F, entonces
+
+463
+00:42:08.890 --> 00:42:20.850
+Arroyo Arzubi Carlos A.: vamos a poner un semáforo a F a ver y un semáforo a efe
+
+464
+00:42:21.570 --> 00:42:28.140
+Arroyo Arzubi Carlos A.: en consecuencia, ahora de que tiene que hacer abrir 2 semáforos y lee
+
+465
+00:42:31.300 --> 00:42:31.910
+Arroyo Arzubi Carlos A.: y.
+
+466
+00:42:31.910 --> 00:42:33.840
+TOBÍAS WIRTH: En el e puso un signo de euro.
+
+467
+00:42:36.450 --> 00:42:39.680
+Arroyo Arzubi Carlos A.: Esto es premonitorio.
+
+468
+00:42:40.840 --> 00:42:46.010
+Arroyo Arzubi Carlos A.: Me acaba de llegar ayer una multa de Italia. ¿vos Podés creer. La tuve que pagar en euros
+
+469
+00:42:46.360 --> 00:42:53.560
+Arroyo Arzubi Carlos A.: me estaba olvidando En este momento. Me hiciste acordar por qué puse esto. Una multa de Italia dice.
+
+470
+00:42:53.560 --> 00:42:53.940
+TOBÍAS WIRTH: Es una.
+
+471
+00:42:53.940 --> 00:42:55.360
+Arroyo Arzubi Carlos A.: En el año pasado
+
+472
+00:42:59.650 --> 00:43:05.480
+Arroyo Arzubi Carlos A.: en Nápoles, pero Ra lo agarra. Solo bueno, me quiero morir.
+
+473
+00:43:05.480 --> 00:43:07.189
+JOAQUÍN MULEIRO BELTRAN: Toda completa el excel.
+
+474
+00:43:07.640 --> 00:43:10.820
+Arroyo Arzubi Carlos A.: Me llegó, No.
+
+475
+00:43:10.820 --> 00:43:12.750
+LUCAS BONAFFINI: Viendo Nápoles en el Excel.
+
+476
+00:43:12.750 --> 00:43:17.130
+Arroyo Arzubi Carlos A.: Casi muero de espalda. ¿para qué fui a Napoli? Bueno, acá también mira.
+
+477
+00:43:18.920 --> 00:43:21.649
+Arroyo Arzubi Carlos A.: nos vamos a poner los paréntesis directamente?
+
+478
+00:43:21.890 --> 00:43:26.680
+Arroyo Arzubi Carlos A.: Bueno, sígnale y acá también signal.
+
+479
+00:43:26.790 --> 00:43:29.430
+Arroyo Arzubi Carlos A.: Efe Es decir, que
+
+480
+00:43:32.840 --> 00:43:35.709
+Arroyo Arzubi Carlos A.: yo, cuando termino de ejecutar D, acá
+
+481
+00:43:36.010 --> 00:43:38.850
+Arroyo Arzubi Carlos A.: voy a abrir los 2 semáforos, el de y F
+
+482
+00:43:40.390 --> 00:43:57.119
+Arroyo Arzubi Carlos A.: cual se va a ejecutar. Bueno, si tenemos un solo procesador, se va a ejecutar 1 el primero que encuentre que cumple la condición puede ser o puede ser F puede ser cualquiera de los 2. Si tenemos 2 procesadores, se pueden llegar a ejecutar simultáneamente. Supongamos que se contra con e
+
+483
+00:43:57.270 --> 00:44:01.710
+Arroyo Arzubi Carlos A.: ejecuta y acá que pone signald qué.
+
+484
+00:44:03.660 --> 00:44:07.530
+Arroyo Arzubi Carlos A.: Bien signo A.
+
+485
+00:44:08.180 --> 00:44:16.109
+Arroyo Arzubi Carlos A.: Y ahora ahora voy a tener abierto. Fíjense el semáforo. Hay en ese con lo cual
+
+486
+00:44:16.380 --> 00:44:20.670
+Arroyo Arzubi Carlos A.: corro el riesgo de que en vez de ejecutarme, efe me venga, a ejecutará.
+
+487
+00:44:22.490 --> 00:44:30.140
+Arroyo Arzubi Carlos A.: Digo, para que vean lo que puede ocurrir, ¿Cómo resolvemos este problema como ahora.
+
+488
+00:44:30.140 --> 00:44:30.750
+ARON FRAGA: Ello.
+
+489
+00:44:31.040 --> 00:44:31.490
+Arroyo Arzubi Carlos A.: Cómo.
+
+490
+00:44:31.490 --> 00:44:32.020
+FRANCO EMMANUEL SICARDO: De la.
+
+491
+00:44:32.020 --> 00:44:37.030
+ARON FRAGA: Bueno con un estado intermedio, un con un Estado intermedio.
+
+492
+00:44:37.030 --> 00:44:37.990
+Arroyo Arzubi Carlos A.: Estado intermedio.
+
+493
+00:44:37.990 --> 00:44:40.059
+ARON FRAGA: Un proceso por 2.
+
+494
+00:44:40.060 --> 00:44:42.260
+Arroyo Arzubi Carlos A.: Un proceso intermedio invento, un proceso.
+
+495
+00:44:42.260 --> 00:44:46.580
+ARON FRAGA: Al que usted le llamó X anteriormente para hacer shock.
+
+496
+00:44:47.190 --> 00:44:49.659
+Arroyo Arzubi Carlos A.: Pero X no es un, no, es un proceso.
+
+497
+00:44:49.970 --> 00:44:51.460
+ARON FRAGA: ¿y qué era entonces? Porque lo puso en.
+
+498
+00:44:51.460 --> 00:44:54.410
+Arroyo Arzubi Carlos A.: Estamos en el horno,
+
+499
+00:44:54.410 --> 00:44:58.060
+ARON FRAGA: No, no, No creo Profe, pero me.
+
+500
+00:44:58.060 --> 00:45:02.659
+Arroyo Arzubi Carlos A.: Por la duda me tirará cualquier cosa. Son semáforos.
+
+501
+00:45:03.330 --> 00:45:03.770
+ARON FRAGA: Okay.
+
+502
+00:45:03.770 --> 00:45:08.240
+Arroyo Arzubi Carlos A.: Son procesos. Yo puedo agregar un semáforo. De hecho, tengo que agregar un semáforo.
+
+503
+00:45:08.700 --> 00:45:12.960
+Arroyo Arzubi Carlos A.: Entonces, ¿qué voy a hacer? Le voy a agregar acá un semáforo.
+
+504
+00:45:12.960 --> 00:45:15.120
+FRANCO EMMANUEL SICARDO: Claro, un Way de X, ponerle.
+
+505
+00:45:15.120 --> 00:45:22.110
+Arroyo Arzubi Carlos A.: Y entonces, a efe que le voy a poner signal X.
+
+506
+00:45:22.110 --> 00:45:23.010
+LUCAS BONAFFINI: Equis.
+
+507
+00:45:23.010 --> 00:45:28.420
+Arroyo Arzubi Carlos A.: Entonces, cuando yo abro estos 2, voy a poder ejecutar estos 2 procesos.
+
+508
+00:45:28.580 --> 00:45:38.099
+Arroyo Arzubi Carlos A.: Pero hasta que no termine los 2 procesos. No voy a poder ejecutar el A porque necesita y X 1 le abre a y otro le abre el X.
+
+509
+00:45:39.370 --> 00:45:46.679
+ARON FRAGA: Y en el caso de que quiera elegir el F, él es lo mismo, digamos, porque puede pasar el singal el signal
+
+510
+00:45:46.820 --> 00:45:53.080
+ARON FRAGA: X en y el signo la A en este, porque sería indistinto, digamos.
+
+511
+00:45:53.080 --> 00:45:54.560
+Arroyo Arzubi Carlos A.: Exactamente lo mismo.
+
+512
+00:45:55.010 --> 00:45:55.620
+ARON FRAGA: Bien.
+
+513
+00:45:56.210 --> 00:45:56.550
+FRANCO EMMANUEL SICARDO: A ver.
+
+514
+00:45:56.550 --> 00:45:57.269
+Arroyo Arzubi Carlos A.: Me enteré yo mismo.
+
+515
+00:45:57.270 --> 00:46:05.059
+FRANCO EMMANUEL SICARDO: Ella te habilita de ella, te habilita el semáforo e y el eje, o sea, no podés pasar hasta que no tengas cumplido los 2, digamos.
+
+516
+00:46:05.060 --> 00:46:10.439
+Arroyo Arzubi Carlos A.: Exactamente por qué no podés pasar? A porque antes lo van a abrir entre los 2.
+
+517
+00:46:11.200 --> 00:46:14.769
+Arroyo Arzubi Carlos A.: Es decir, que si no se ejecutan, los 2 no te van a abrir los semáforos.
+
+518
+00:46:15.300 --> 00:46:29.100
+Arroyo Arzubi Carlos A.: Bueno, vamos a poner los semáforos acá, de es de es Efe y X.
+
+519
+00:46:29.910 --> 00:46:37.910
+Arroyo Arzubi Carlos A.: Entonces en el It tenemos acá en el Linity, vamos a tener que tener el A y el X
+
+520
+00:46:38.010 --> 00:46:40.039
+Arroyo Arzubi Carlos A.: porque para que arranque por acá.
+
+521
+00:46:40.240 --> 00:46:47.659
+Arroyo Arzubi Carlos A.: Entonces le vamos a poner 1 al X, le ponemos 1 y a los otros van todos con 0.
+
+522
+00:46:48.300 --> 00:46:50.290
+Arroyo Arzubi Carlos A.: Entonces así empieza.
+
+523
+00:46:51.130 --> 00:46:54.330
+Arroyo Arzubi Carlos A.: ¿qué semáforo tengo? Recuerden que es lo que hay que hacer.
+
+524
+00:46:54.870 --> 00:46:58.069
+Arroyo Arzubi Carlos A.: Solamente puedo ejecutar el orden. Este
+
+525
+00:46:58.300 --> 00:47:06.999
+Arroyo Arzubi Carlos A.: hay X, puedo ejecutar a B, No puedo, No puedo, No puedo. No puedo. No puedo. Bien, entonces en el tiempo
+
+526
+00:47:08.160 --> 00:47:09.610
+Arroyo Arzubi Carlos A.: te es 1.
+
+527
+00:47:10.200 --> 00:47:18.369
+Arroyo Arzubi Carlos A.: Vamos a ejecutar el proceso a que va a cerrar el semáforo y el X,
+
+528
+00:47:18.600 --> 00:47:23.449
+Arroyo Arzubi Carlos A.: Y en el tiempo. T, sub 2. Una vez que ejecutó todas sus líneas de código
+
+529
+00:47:23.930 --> 00:47:30.650
+Arroyo Arzubi Carlos A.: antes de irse, me hace un signo al B C, es decir, que abre este semáforo.
+
+530
+00:47:33.480 --> 00:47:37.990
+Arroyo Arzubi Carlos A.: Entonces, ahora lo mismo tengo el el semáforo, ese.
+
+531
+00:47:38.100 --> 00:47:44.380
+Arroyo Arzubi Carlos A.: No puedo puedo. Puedo. No puedo. No puedo. No puedo. Bueno, va a agarrar alguno de los 2, cualquiera
+
+532
+00:47:44.860 --> 00:47:49.600
+Arroyo Arzubi Carlos A.: el que les guste nosotros. ¿qué hacemos y acá, ponemos B,
+
+533
+00:47:50.330 --> 00:47:55.050
+Arroyo Arzubi Carlos A.: o sea, porque la verdad que no sabemos. Pero cualquiera.
+
+534
+00:47:55.120 --> 00:47:56.300
+FRANCO EMMANUEL SICARDO: Sistema, digamos.
+
+535
+00:47:56.300 --> 00:47:57.720
+Arroyo Arzubi Carlos A.: El primero que encuentra.
+
+536
+00:47:57.880 --> 00:48:01.790
+Arroyo Arzubi Carlos A.: porque el primero que encuentra que lo puede ejecutar lo ejecuta. ¿por qué va a esperar.
+
+537
+00:48:02.780 --> 00:48:09.080
+Arroyo Arzubi Carlos A.: es decir, que en el orden en que estén en su lista de de listos, digamos, lo va a poner.
+
+538
+00:48:09.950 --> 00:48:14.470
+Arroyo Arzubi Carlos A.: Entonces, ¿qué hace este cierra el semáforo B C.
+
+539
+00:48:15.160 --> 00:48:19.800
+Arroyo Arzubi Carlos A.: Cualquiera de los 2 hacen exactamente lo mismo. Hacen exactamente lo mismo.
+
+540
+00:48:22.910 --> 00:48:26.810
+Arroyo Arzubi Carlos A.: Y cuando está acá en T 4.
+
+541
+00:48:30.440 --> 00:48:33.300
+Arroyo Arzubi Carlos A.: No cambié los posts de 0, puse igual.
+
+542
+00:48:33.820 --> 00:48:38.039
+Arroyo Arzubi Carlos A.: Bueno, después le va a quedar bien en el coso. Acá. Dice, tercero, tengo 1. Acá. Empecé por.
+
+543
+00:48:38.810 --> 00:48:40.170
+Arroyo Arzubi Carlos A.: Bueno, listo.
+
+544
+00:48:40.580 --> 00:48:41.889
+Arroyo Arzubi Carlos A.: T 4.
+
+545
+00:48:42.190 --> 00:48:43.850
+Arroyo Arzubi Carlos A.: ¿qué hace T, 4?
+
+546
+00:48:44.090 --> 00:48:55.470
+Arroyo Arzubi Carlos A.: El semáforo abre el semáforo de es decir, que este los 0, 0, Uno: 0, 0 y 0.
+
+547
+00:48:55.950 --> 00:49:02.839
+Arroyo Arzubi Carlos A.: El T, 4. Entonces ahora tiene el semáforo de este. Es el único que tiene.
+
+548
+00:49:03.470 --> 00:49:09.010
+Arroyo Arzubi Carlos A.: Mhm: Entonces vamos a hacer 5 acá abajo porque lo había puesto mal en el
+
+549
+00:49:15.000 --> 00:49:23.420
+Arroyo Arzubi Carlos A.: en el apunte. Lo tienen bien, porque este lo borré para poder hacerlo borra el semáforo de 0 0.
+
+550
+00:49:23.740 --> 00:49:30.810
+ARON FRAGA: Cuando viene el semáforo de es el que borra, o sea, borra todos los pit anterior, digamos, por así decirlo.
+
+551
+00:49:30.810 --> 00:49:31.380
+Arroyo Arzubi Carlos A.: No.
+
+552
+00:49:31.380 --> 00:49:32.250
+ARON FRAGA: Le.
+
+553
+00:49:33.020 --> 00:49:34.249
+Arroyo Arzubi Carlos A.: Borra el de.
+
+554
+00:49:34.540 --> 00:49:37.110
+ARON FRAGA: Borras. Ok, Solamente el D el que se elimina.
+
+555
+00:49:37.680 --> 00:49:39.450
+Arroyo Arzubi Carlos A.: Lo cierra, digamos.
+
+556
+00:49:39.700 --> 00:49:40.760
+ARON FRAGA: Bueno, lo cierra.
+
+557
+00:49:41.170 --> 00:49:43.269
+Arroyo Arzubi Carlos A.: Los demás quedan como están, no los tocó.
+
+558
+00:49:43.890 --> 00:49:53.219
+Arroyo Arzubi Carlos A.: Si le hubiera tocado, hubiera puesto algo acá lo que pasa, que venían en 0 los otros Ahora, entonces
+
+559
+00:49:53.410 --> 00:49:54.819
+Arroyo Arzubi Carlos A.: entre 6.
+
+560
+00:49:55.770 --> 00:50:01.439
+Arroyo Arzubi Carlos A.: ¿qué hace el proceso de va a abrir el semáforo y el.
+
+561
+00:50:01.440 --> 00:50:02.309
+ARON FRAGA: E. I, L, F.
+
+562
+00:50:02.840 --> 00:50:08.219
+Arroyo Arzubi Carlos A.: Entonces, si le ponemos un 1, porque la la Convención que hemos usado
+
+563
+00:50:11.980 --> 00:50:16.719
+Arroyo Arzubi Carlos A.: yo ahora tengo E y F, con lo cual.
+
+564
+00:50:16.720 --> 00:50:20.380
+Tomas Gomez Dean: ¿y por qué entre 4 no no había nada.
+
+565
+00:50:20.380 --> 00:50:22.530
+Arroyo Arzubi Carlos A.: Porque me equivoqué en los números que usé. Acá
+
+566
+00:50:22.720 --> 00:50:27.669
+Arroyo Arzubi Carlos A.: acá Empecé por C. Uno. Tenía que haber empezado por T, 1. Y puse el tercero
+
+567
+00:50:28.130 --> 00:50:31.819
+Arroyo Arzubi Carlos A.: pusiste 0, y acá. Pusiste 1, pero en el apunte está bien.
+
+568
+00:50:33.090 --> 00:50:36.670
+Arroyo Arzubi Carlos A.: Entonces ahora dice, bueno, tengo, e y ese
+
+569
+00:50:37.020 --> 00:50:44.709
+Arroyo Arzubi Carlos A.: no puedo. No puedo. No puedo. Y esto pudo. Cualquiera de los 2. Bueno, el que quieran, pongan el orden en que quieran.
+
+570
+00:50:44.950 --> 00:50:47.120
+Arroyo Arzubi Carlos A.: Entonces, ponen T. Siete.
+
+571
+00:50:47.750 --> 00:50:49.649
+Arroyo Arzubi Carlos A.: Ponen acá
+
+572
+00:50:50.240 --> 00:50:57.610
+Arroyo Arzubi Carlos A.: que que cierra, lee el e fíjense que cierra le y el F que hace nada, lo deja como está.
+
+573
+00:50:58.170 --> 00:50:59.439
+Arroyo Arzubi Carlos A.: No lo toca
+
+574
+00:51:02.790 --> 00:51:04.179
+Arroyo Arzubi Carlos A.: el té. Ocho.
+
+575
+00:51:06.550 --> 00:51:09.269
+Arroyo Arzubi Carlos A.: El proceso es qué hace?
+
+576
+00:51:09.740 --> 00:51:11.569
+Arroyo Arzubi Carlos A.: Va a un ser un signo allá.
+
+577
+00:51:11.870 --> 00:51:14.369
+Arroyo Arzubi Carlos A.: Va a abrirla con un 1
+
+578
+00:51:15.000 --> 00:51:18.189
+Arroyo Arzubi Carlos A.: y lo demás lo deja como está. No lo toca.
+
+579
+00:51:19.760 --> 00:51:23.210
+Arroyo Arzubi Carlos A.: Entonces ahora tiene el A y el F
+
+580
+00:51:24.580 --> 00:51:27.649
+Arroyo Arzubi Carlos A.: acá lo puedo ejecutar, no porque me falta el X
+
+581
+00:51:28.240 --> 00:51:35.500
+Arroyo Arzubi Carlos A.: y el único que puede ejecutar es el F, Entonces en T, 9 que vamos a poner F
+
+582
+00:51:36.660 --> 00:51:41.680
+Arroyo Arzubi Carlos A.: que va a cerrar el F, o sea, este que está, acá. Lo va a poner en 0.
+
+583
+00:51:46.260 --> 00:51:47.819
+Arroyo Arzubi Carlos A.: El ano, lo toca.
+
+584
+00:51:48.530 --> 00:51:49.430
+Arroyo Arzubi Carlos A.: ¿
+
+585
+00:51:51.220 --> 00:51:55.950
+Arroyo Arzubi Carlos A.: Y luego en Teddy es
+
+586
+00:52:00.140 --> 00:52:06.750
+Arroyo Arzubi Carlos A.: en F que va a ser signal X, el A lo deja como está. No lo tocó
+
+587
+00:52:07.980 --> 00:52:13.959
+Arroyo Arzubi Carlos A.: Esto queda todo como está, Y el X lo pone en 1.
+
+588
+00:52:15.590 --> 00:52:22.209
+Arroyo Arzubi Carlos A.: Ahora tengo a y X. Bueno, el único que puedo ejecutar ahora es el A,
+
+589
+00:52:22.770 --> 00:52:31.019
+Arroyo Arzubi Carlos A.: es decir, que estoy haciendo el loop, este que habíamos pedido. Pero además de hacer el loop, vemos que está haciendo lo que nosotros queríamos.
+
+590
+00:52:31.440 --> 00:52:32.680
+Arroyo Arzubi Carlos A.: se entendió.
+
+591
+00:52:32.890 --> 00:52:36.489
+ARON FRAGA: A mí me queda la duda: perdón. Si pregunto una estupidez. Yo pregunto ¿por.
+
+592
+00:52:36.490 --> 00:52:37.990
+Arroyo Arzubi Carlos A.: No, no, no importa.
+
+593
+00:52:38.410 --> 00:52:46.809
+ARON FRAGA: A mí me me hace ruido cuando algunos algunos procesos quedan abiertos, como por ejemplo, cuando pasas directamente del.
+
+594
+00:52:46.810 --> 00:52:48.280
+Arroyo Arzubi Carlos A.: Eso queda abierto.
+
+595
+00:52:48.280 --> 00:52:49.829
+ARON FRAGA: El semáforo. Perdón.
+
+596
+00:52:49.830 --> 00:52:51.390
+Arroyo Arzubi Carlos A.: No es que no es lo mismo.
+
+597
+00:52:52.530 --> 00:52:56.050
+Arroyo Arzubi Carlos A.: Dos mundos distintos. Si vos hablas de procesos, estamos hablando. Otra cosa.
+
+598
+00:52:56.180 --> 00:52:58.050
+Arroyo Arzubi Carlos A.: Es una variable.
+
+599
+00:52:58.050 --> 00:53:04.480
+ARON FRAGA: Es una variable exacto, no en el Tx, 7 En el proceso, es el primero, y hoy.
+
+600
+00:53:04.480 --> 00:53:05.840
+Arroyo Arzubi Carlos A.: Acá. Sí.
+
+601
+00:53:05.840 --> 00:53:08.289
+ARON FRAGA: En el en la línea están los.
+
+602
+00:53:08.290 --> 00:53:09.640
+Arroyo Arzubi Carlos A.: Acá.
+
+603
+00:53:09.640 --> 00:53:10.540
+ARON FRAGA: En esa línea.
+
+604
+00:53:10.840 --> 00:53:11.590
+Arroyo Arzubi Carlos A.: Sí.
+
+605
+00:53:12.080 --> 00:53:12.780
+Arroyo Arzubi Carlos A.: ¿por qué?
+
+606
+00:53:12.780 --> 00:53:18.060
+ARON FRAGA: Ese es porque ese ese ese proceso queda con el semáforo abierto.
+
+607
+00:53:18.790 --> 00:53:20.179
+Arroyo Arzubi Carlos A.: Que se.
+
+608
+00:53:20.180 --> 00:53:20.810
+ARON FRAGA: En el siglo.
+
+609
+00:53:20.810 --> 00:53:21.200
+Arroyo Arzubi Carlos A.: Es lo que.
+
+610
+00:53:21.890 --> 00:53:31.020
+ARON FRAGA: Por eso no lo tocó, lo dejó perdón. Lo dejó como estaba. Pero cuando viene el D a los anteriores, si lo cambio los cambio en cómo me tengo como que te.
+
+611
+00:53:31.020 --> 00:53:35.709
+Arroyo Arzubi Carlos A.: No, no, no, no el de solamente cierra el semáforo de.
+
+612
+00:53:37.150 --> 00:53:38.449
+ARON FRAGA: Pero el D estaba abierto.
+
+613
+00:53:38.810 --> 00:53:42.559
+Arroyo Arzubi Carlos A.: Sí en el si no no puede entrar acá.
+
+614
+00:53:44.850 --> 00:53:50.889
+Arroyo Arzubi Carlos A.: Sí, Sí, el proceso va a abrir o cerrar en base a lo que yo le ponga acá
+
+615
+00:53:51.380 --> 00:53:54.310
+Arroyo Arzubi Carlos A.: los semáforos. ¿cómo van a estar como están Acá
+
+616
+00:53:54.650 --> 00:54:00.940
+Arroyo Arzubi Carlos A.: si no los toca el proceso, quedan como estaban el que estaba abierto. Queda abierto y el que estaba cerrado queda cerrado.
+
+617
+00:54:01.620 --> 00:54:02.330
+Arroyo Arzubi Carlos A.: Qué edad.
+
+618
+00:54:02.330 --> 00:54:03.070
+ARON FRAGA: Okay.
+
+619
+00:54:03.070 --> 00:54:04.800
+Arroyo Arzubi Carlos A.: Los valores en el sistema.
+
+620
+00:54:05.320 --> 00:54:08.480
+Arroyo Arzubi Carlos A.: El proceso lo cambia o lo deja como está.
+
+621
+00:54:09.290 --> 00:54:10.540
+Arroyo Arzubi Carlos A.: Se entiende.
+
+622
+00:54:10.700 --> 00:54:11.390
+ARON FRAGA: Sí.
+
+623
+00:54:11.390 --> 00:54:18.230
+Arroyo Arzubi Carlos A.: No es que todos los semáforos tienen que pasar por el proceso. No, no pasan por el proceso
+
+624
+00:54:18.660 --> 00:54:25.440
+Arroyo Arzubi Carlos A.: porque el proceso es solamente tiene cuenta el semáforo e lo demás no le importa si están.
+
+625
+00:54:25.440 --> 00:54:26.329
+ARON FRAGA: El líder de los.
+
+626
+00:54:26.330 --> 00:54:26.860
+Arroyo Arzubi Carlos A.: Para no.
+
+627
+00:54:26.860 --> 00:54:31.930
+ARON FRAGA: Cuando se da la casualidad de que está abierto ahí, si lo cierra, para poder entrar.
+
+628
+00:54:32.900 --> 00:54:34.689
+Arroyo Arzubi Carlos A.: No, no se da la casualidad.
+
+629
+00:54:35.190 --> 00:54:35.810
+ARON FRAGA: Bueno.
+
+630
+00:54:35.810 --> 00:54:36.230
+Arroyo Arzubi Carlos A.: De los.
+
+631
+00:54:36.230 --> 00:54:36.910
+ARON FRAGA: Más.
+
+632
+00:54:37.110 --> 00:54:40.279
+Arroyo Arzubi Carlos A.: No es porque yo quiero que se ejecute.
+
+633
+00:54:40.800 --> 00:54:41.360
+ARON FRAGA: Claro.
+
+634
+00:54:41.780 --> 00:54:42.769
+Arroyo Arzubi Carlos A.: Pero a vos te digo.
+
+635
+00:54:42.770 --> 00:54:53.900
+Tomas Gomez Dean: Con la instrucción Waitz. La instrucción Wake es la que cierra el semáforo. Se cierra el semáforo e.
+
+636
+00:54:54.280 --> 00:54:54.630
+Arroyo Arzubi Carlos A.: Sí.
+
+637
+00:54:54.630 --> 00:54:56.430
+Tomas Gomez Dean: Entonces creo que eso sí confunde.
+
+638
+00:54:56.630 --> 00:55:08.689
+Arroyo Arzubi Carlos A.: Ah, bueno, el güey es porque está esperando una vez que el semáforo está habilitado y yo pasé ese semáforo para desarrollar todas las instrucciones que estén acá abajo.
+
+639
+00:55:09.210 --> 00:55:13.430
+Arroyo Arzubi Carlos A.: Entonces el semáforo se cierra con el.
+
+640
+00:55:13.430 --> 00:55:14.050
+ARON FRAGA: En la.
+
+641
+00:55:14.050 --> 00:55:16.499
+Arroyo Arzubi Carlos A.: Lo cierro con el signal.
+
+642
+00:55:16.760 --> 00:55:18.420
+Arroyo Arzubi Carlos A.: Lo pongo en.
+
+643
+00:55:18.420 --> 00:55:19.540
+ARON FRAGA: Ahorrar al
+
+644
+00:55:19.650 --> 00:55:26.269
+ARON FRAGA: al D, digamos porque es el de que va a cerrar. No puedes cerrar los otros, los otros, digamos los otros, semáforo.
+
+645
+00:55:26.270 --> 00:55:28.740
+Arroyo Arzubi Carlos A.: Como poder puede, pero no lo está haciendo.
+
+646
+00:55:30.320 --> 00:55:35.820
+Arroyo Arzubi Carlos A.: Si yo quiero que el de cierre más semáforos le pongo más vuelta acá.
+
+647
+00:55:35.820 --> 00:55:39.419
+ARON FRAGA: No está bien, pero en este caso tiene sólo Güey. De eso sí lo entiendo. Está perfecto. Perfecto.
+
+648
+00:55:40.050 --> 00:55:43.480
+Arroyo Arzubi Carlos A.: Es decir, yo le pongo los Güey y los signos que yo quiera.
+
+649
+00:55:43.770 --> 00:55:48.080
+ARON FRAGA: Porque en el estado inicial arranca, Por ejemplo, arranca 1.
+
+650
+00:55:48.080 --> 00:55:48.950
+Arroyo Arzubi Carlos A.: Hay que me.
+
+651
+00:55:48.950 --> 00:55:49.519
+ARON FRAGA: Uno No.
+
+652
+00:55:50.050 --> 00:55:50.470
+Arroyo Arzubi Carlos A.: Cómo.
+
+653
+00:55:50.470 --> 00:55:54.180
+ARON FRAGA: En la parte inicial. En el estado inicial, El primero.
+
+654
+00:55:54.180 --> 00:55:54.630
+Arroyo Arzubi Carlos A.: Sí.
+
+655
+00:55:55.220 --> 00:55:59.570
+ARON FRAGA: Arranca el Init arranca en 1 en A y en 1.
+
+656
+00:55:59.570 --> 00:55:59.930
+Arroyo Arzubi Carlos A.: Sí, Sí.
+
+657
+00:55:59.930 --> 00:56:01.389
+ARON FRAGA: X cuando tiene algo.
+
+658
+00:56:01.390 --> 00:56:02.670
+Arroyo Arzubi Carlos A.: Sí, Sí.
+
+659
+00:56:02.850 --> 00:56:08.280
+ARON FRAGA: Cuando viene a al tener el Whey en A y en X Si cierra esos pasos.
+
+660
+00:56:08.600 --> 00:56:09.330
+Arroyo Arzubi Carlos A.: Sí.
+
+661
+00:56:09.490 --> 00:56:12.299
+ARON FRAGA: Ahí está perfecto. Ahí es cuando se cierra todo. Para eso, la palabra.
+
+662
+00:56:12.300 --> 00:56:13.789
+Arroyo Arzubi Carlos A.: No todo, no.
+
+663
+00:56:14.030 --> 00:56:15.980
+ARON FRAGA: No todo no lo que les corresponde a él. Perdón.
+
+664
+00:56:15.980 --> 00:56:22.050
+Arroyo Arzubi Carlos A.: Cierra lo que está cerrando. Acá Si yo acá hubiera puesto ini otros procesos.
+
+665
+00:56:22.050 --> 00:56:22.910
+ARON FRAGA: Esos que.
+
+666
+00:56:22.910 --> 00:56:31.430
+Arroyo Arzubi Carlos A.: Perdón. Ya me hiciste confundir a mí cuando yo me pongo acá en el linier. Otros semáforos que pueden estar abiertos no tiene nada que ver.
+
+667
+00:56:31.430 --> 00:56:33.219
+ARON FRAGA: No tiene nada que ver perfecto.
+
+668
+00:56:33.220 --> 00:56:35.420
+Arroyo Arzubi Carlos A.: Los otros los deja como están. No los toca.
+
+669
+00:56:35.420 --> 00:56:36.200
+ARON FRAGA: Perfecto.
+
+670
+00:56:36.700 --> 00:56:42.589
+Arroyo Arzubi Carlos A.: Porque podría haber que inés tenga más procesos. Había más vale con los procesos. Claro, ya.
+
+671
+00:56:42.590 --> 00:56:43.200
+ARON FRAGA: Sí.
+
+672
+00:56:43.370 --> 00:56:46.819
+Arroyo Arzubi Carlos A.: Lo poco del cerebro. Me quedaste. Es bueno visto la.
+
+673
+00:56:46.820 --> 00:56:48.790
+ARON FRAGA: Perdón, me ha quedado esa duda.
+
+674
+00:56:49.550 --> 00:56:53.870
+Arroyo Arzubi Carlos A.: Bueno, ¿qué suerte que la evacuaste que hicimos esto? Porque si no, no sé cómo va a ser el parcialito, Ahora
+
+675
+00:56:54.780 --> 00:56:56.309
+Arroyo Arzubi Carlos A.: salimos de acá. Ya.
+
+676
+00:56:57.760 --> 00:56:58.639
+ARON FRAGA: Por mí. Sí.
+
+677
+00:56:58.640 --> 00:57:01.520
+Arroyo Arzubi Carlos A.: Bien. Bueno, si ahora nos permite, nos vamos todos.
+
+678
+00:57:04.800 --> 00:57:09.859
+Arroyo Arzubi Carlos A.: Vamos a ver ahora donde tenía la unidad.
+
+679
+00:57:12.940 --> 00:57:13.820
+Arroyo Arzubi Carlos A.: Bueno.
+
+680
+00:57:14.020 --> 00:57:19.409
+Arroyo Arzubi Carlos A.: no porque No quiero atrasarme más de la cuenta porque tienen el parcialito, sino van a terminar muy tarde.
+
+681
+00:57:25.770 --> 00:57:31.440
+Arroyo Arzubi Carlos A.: Esto no Bueno, vamos a ver ahora la unidad.
+
+682
+00:57:32.190 --> 00:57:40.280
+Arroyo Arzubi Carlos A.: Cinco, que es una unidad muy simple que tiene una parte práctica también muy simple, y la
+
+683
+00:57:41.630 --> 00:57:48.640
+Arroyo Arzubi Carlos A.: donde está a ver la clase que viene. Tenemos memoria central.
+
+684
+00:57:49.140 --> 00:57:55.519
+Arroyo Arzubi Carlos A.: Bueno, si no llegamos a terminar la unidad 5 la podemos terminar tranquilamente. La clase que viene, pero Bueno.
+
+685
+00:57:55.870 --> 00:57:57.839
+Arroyo Arzubi Carlos A.: por ahí podemos. Porque no es larga.
+
+686
+00:57:58.420 --> 00:58:03.729
+Arroyo Arzubi Carlos A.: Abrazo mortal. ¿qué es el abrazo mortal o di glock.
+
+687
+00:58:04.510 --> 00:58:05.610
+Arroyo Arzubi Carlos A.: Eso.
+
+688
+00:58:05.610 --> 00:58:06.390
+FRANCO EMMANUEL SICARDO: Kárate.
+
+689
+00:58:07.220 --> 00:58:12.560
+Arroyo Arzubi Carlos A.: Es una. Y si más o menos, porque ¿qué es?
+
+690
+00:58:13.380 --> 00:58:22.160
+Arroyo Arzubi Carlos A.: Recuerden que yo lo apliqué. La primer clase cuando Hicimos un paneo de todas las unidades, y creo que les hice el mismo ejemplo que le voy a dar ahora.
+
+691
+00:58:22.370 --> 00:58:28.839
+Arroyo Arzubi Carlos A.: Supongamos que mi mano derecha es un proceso y que necesita 2 recursos. El lápiz y la goma.
+
+692
+00:58:29.110 --> 00:58:33.910
+Arroyo Arzubi Carlos A.: Y este otro proceso, mi mano izquierda también necesita el lápiz y la goma.
+
+693
+00:58:34.550 --> 00:58:38.659
+Arroyo Arzubi Carlos A.: Entonces el ejemplo más simple es este que le voy a dar
+
+694
+00:58:38.890 --> 00:58:45.570
+Arroyo Arzubi Carlos A.: después. No puede ser tan complejo como 1 quiera, pero la mano derecha tiene el lápiz y está esperando la goma
+
+695
+00:58:46.010 --> 00:58:53.270
+Arroyo Arzubi Carlos A.: y no larga, el lápiz, la el proceso, el otro proceso. La mano izquierda tiene la goma.
+
+696
+00:58:53.670 --> 00:58:56.530
+Arroyo Arzubi Carlos A.: no la larga, y está esperando un lápiz.
+
+697
+00:58:56.790 --> 00:59:01.129
+Arroyo Arzubi Carlos A.: Como no hay más lápiz, y no hay más gomas es lo único que tengo.
+
+698
+00:59:03.400 --> 00:59:10.380
+Arroyo Arzubi Carlos A.: No lo muevo. Porque ahí veo que se ve ah, porque tengo la pantalla atrás con nube para que no vean la pared, no porque no tengo nada tampoco.
+
+699
+00:59:11.040 --> 00:59:16.220
+Arroyo Arzubi Carlos A.: Bueno Es decir que si este proceso está esperando la goma
+
+700
+00:59:17.390 --> 00:59:19.339
+Arroyo Arzubi Carlos A.: y Este está esperando el lápiz.
+
+701
+00:59:19.580 --> 00:59:23.430
+Arroyo Arzubi Carlos A.: pero este no es larga, el lápiz y este no larga, la goma. Eso es un bloqueo.
+
+702
+00:59:24.480 --> 00:59:31.149
+Arroyo Arzubi Carlos A.: Es decir, estos procesos están bloqueados. No puede ninguno ejecutarse.
+
+703
+00:59:31.560 --> 00:59:39.170
+Arroyo Arzubi Carlos A.: Hay un ejemplo que se da en general en todos los libros. Figuras porque te plantean como algo simpático.
+
+704
+00:59:39.320 --> 00:59:43.169
+Arroyo Arzubi Carlos A.: Lo habrán escuchado. Y si no cuando lean cualquier libro, seguro que aparece
+
+705
+00:59:44.020 --> 00:59:47.150
+Arroyo Arzubi Carlos A.: que habla de la escena de los filósofos
+
+706
+00:59:48.460 --> 00:59:53.189
+Arroyo Arzubi Carlos A.: porque es filósofo porque escena. No importa. Bueno, imaginen una mesa redonda
+
+707
+00:59:53.370 --> 00:59:56.949
+Arroyo Arzubi Carlos A.: donde están los filósofos sentados, la cantidad que quiera.
+
+708
+00:59:57.690 --> 01:00:04.000
+Arroyo Arzubi Carlos A.: Y este van a comer fideo, Entonces le van a ver. Le ponen un plato de fideo a cada 1,
+
+709
+01:00:04.340 --> 01:00:11.040
+Arroyo Arzubi Carlos A.: pero ponen entre cada plato, un tenedor, un tenedor
+
+710
+01:00:12.080 --> 01:00:15.670
+Arroyo Arzubi Carlos A.: como que hay un tenedor para cada 1, pero
+
+711
+01:00:16.090 --> 01:00:18.530
+Arroyo Arzubi Carlos A.: le dicen la condición para comer.
+
+712
+01:00:19.430 --> 01:00:24.699
+Arroyo Arzubi Carlos A.: Es que para comer estos fideos hay que tener 2 tenedores.
+
+713
+01:00:26.090 --> 01:00:30.900
+Arroyo Arzubi Carlos A.: Bueno, entonces este listo a comer
+
+714
+01:00:31.120 --> 01:00:37.020
+Arroyo Arzubi Carlos A.: y los filósofos. Bueno, cada 1 agarra un tenedor y
+
+715
+01:00:38.960 --> 01:00:43.800
+Arroyo Arzubi Carlos A.: pero le falta otro si cada 1 agarró un tenedor, no puede comer.
+
+716
+01:00:44.300 --> 01:00:49.909
+Arroyo Arzubi Carlos A.: Y entonces era filósofo esperando en otro tenedor.
+
+717
+01:00:50.360 --> 01:00:57.579
+Arroyo Arzubi Carlos A.: No largan el que tiene, porque si me falta 1, pero ya este loro largo, todos tienen el mismo pensamiento. En consecuencia.
+
+718
+01:00:58.260 --> 01:01:06.779
+Arroyo Arzubi Carlos A.: estos filósofos mueren de hambre. ¿qué les parece? La historia est es dramática. Realmente es una historia dramática.
+
+719
+01:01:06.950 --> 01:01:16.760
+Arroyo Arzubi Carlos A.: pero que muestra lo que es un ejemplo de abrazo mortal donde nadie larga el recurso y, en consecuencia.
+
+720
+01:01:17.070 --> 01:01:19.619
+Arroyo Arzubi Carlos A.: al que le falta no lo puede ejecutar.
+
+721
+01:01:20.930 --> 01:01:36.809
+Arroyo Arzubi Carlos A.: Bueno, y con respecto a nosotros hablamos la clase pasada hablábamos de la sincronización de los procesos.
+
+722
+01:01:37.660 --> 01:01:45.420
+Arroyo Arzubi Carlos A.: Y acá es como que tenemos que hablar un poco de la sincronización de los recursos justamente para evitar
+
+723
+01:01:45.630 --> 01:01:49.309
+Arroyo Arzubi Carlos A.: que se produzca este tema. Este tipo de problema
+
+724
+01:01:50.070 --> 01:01:59.410
+Arroyo Arzubi Carlos A.: de conflicto o de abrazo mortal que bloquea al equipo, no puede seguir ejecutando entonces
+
+725
+01:02:00.370 --> 01:02:04.130
+Arroyo Arzubi Carlos A.: a nivel de términos que se utilizan
+
+726
+01:02:05.060 --> 01:02:12.110
+Arroyo Arzubi Carlos A.: en la bibliografía, que no son muy lindos. Pero yo lo uso porque así, cuando leen, entienden.
+
+727
+01:02:12.220 --> 01:02:20.730
+Arroyo Arzubi Carlos A.: habla de tipo de recurso. Por ejemplo, un tipo de recurso puede ser una impresora.
+
+728
+01:02:21.360 --> 01:02:26.490
+Arroyo Arzubi Carlos A.: un plotter, lo que sea una impresora de tal tipo, una impresora láser, por ejemplo.
+
+729
+01:02:27.210 --> 01:02:33.959
+Arroyo Arzubi Carlos A.: y cuando y habla de clases, utiliza el término clases
+
+730
+01:02:34.110 --> 01:02:36.589
+Arroyo Arzubi Carlos A.: para hablar de la cantidad que tengo
+
+731
+01:02:36.710 --> 01:02:45.390
+Arroyo Arzubi Carlos A.: de ese tipo de impresoras, es decir, por ejemplo, impresora láser y blanco y negro.
+
+732
+01:02:46.610 --> 01:02:54.790
+Arroyo Arzubi Carlos A.: clases. Tengo 3, por ejemplo, bueno, son formas de llamarlo. Lo digo esto porque lo pueden encontrar en cualquier biografía.
+
+733
+01:02:54.930 --> 01:02:58.400
+Arroyo Arzubi Carlos A.: Es bastante común utilizar esto.
+
+734
+01:03:00.030 --> 01:03:11.680
+Arroyo Arzubi Carlos A.: Entonces lo primero que vamos a ver ahora sería ¿De qué manera podemos representar nuestro sistema de cómputo.
+
+735
+01:03:12.340 --> 01:03:14.740
+Arroyo Arzubi Carlos A.: que es nuestro sistema de cómputo.
+
+736
+01:03:14.910 --> 01:03:20.599
+Arroyo Arzubi Carlos A.: Bueno, nuestro sistema de cómputo tiene que ver con todos los procesos
+
+737
+01:03:20.970 --> 01:03:25.390
+Arroyo Arzubi Carlos A.: y todos los recursos que mi sistema de cómputo tiene.
+
+738
+01:03:26.630 --> 01:03:27.970
+Arroyo Arzubi Carlos A.: Pero además.
+
+739
+01:03:29.030 --> 01:03:38.020
+Arroyo Arzubi Carlos A.: tengo que saber en mi sistema de cómputo, con esos procesos que tengo no estaba hablando del programa. Estamos hablando de proceso, cosa que ya conocemos.
+
+740
+01:03:38.840 --> 01:03:42.120
+Arroyo Arzubi Carlos A.: qué recursos tiene y qué recursos necesita.
+
+741
+01:03:43.060 --> 01:03:46.550
+Arroyo Arzubi Carlos A.: porque el sistema operativo va a tener que administrar eso.
+
+742
+01:03:46.920 --> 01:03:52.289
+Arroyo Arzubi Carlos A.: Es decir, que yo debo poder representar de alguna manera
+
+743
+01:03:52.850 --> 01:04:07.609
+Arroyo Arzubi Carlos A.: el estado en que se encuentra mi sistema, una forma de hacerlo, eso a través de unas expresiones.
+
+744
+01:04:08.760 --> 01:04:13.389
+Arroyo Arzubi Carlos A.: a ver dónde tenía el y
+
+745
+01:04:16.960 --> 01:04:17.830
+Arroyo Arzubi Carlos A.: acá
+
+746
+01:04:21.040 --> 01:04:27.190
+Arroyo Arzubi Carlos A.: Okay Bueno, una forma de representar.
+
+747
+01:04:27.340 --> 01:04:36.410
+Arroyo Arzubi Carlos A.: Lo que tenemos en el sistema es estas 2 expresiones y que estoy presentando una
+
+748
+01:04:36.590 --> 01:04:39.810
+Arroyo Arzubi Carlos A.: tiene que ver con la configuración del sistema
+
+749
+01:04:40.670 --> 01:04:46.449
+Arroyo Arzubi Carlos A.: donde entre llaves, ¿qué me está poniendo peso? Uno? P. U 2?
+
+750
+01:04:47.290 --> 01:04:51.189
+Arroyo Arzubi Carlos A.: Me está poniendo todos los procesos que yo tengo en mi sistema
+
+751
+01:04:52.110 --> 01:04:55.630
+Arroyo Arzubi Carlos A.: en este momento. Obviamente, es como que 1
+
+752
+01:04:55.760 --> 01:04:59.449
+Arroyo Arzubi Carlos A.: saco una foto de la situación que tiene ahora.
+
+753
+01:04:59.700 --> 01:05:11.610
+Arroyo Arzubi Carlos A.: Tengo todos estos procesos y después tenemos a la derecha, acá vemos que dice recurso. Uno, tengo 2,
+
+754
+01:05:12.150 --> 01:05:14.720
+Arroyo Arzubi Carlos A.: impresora. Tengo 2
+
+755
+01:05:15.170 --> 01:05:22.810
+Arroyo Arzubi Carlos A.: recurso, 2 discos. Tengo 3, bueno, y así, con todos los recursos del sistema, es decir, que
+
+756
+01:05:23.200 --> 01:05:29.039
+Arroyo Arzubi Carlos A.: con esta primera expresión yo tengo la configuración
+
+757
+01:05:29.970 --> 01:05:42.650
+Arroyo Arzubi Carlos A.: de los procesos y los recursos que tengo ahora. Esta información es incompleta, porque yo necesito saber qué recursos
+
+758
+01:05:42.870 --> 01:05:44.820
+Arroyo Arzubi Carlos A.: han sido asignados
+
+759
+01:05:45.040 --> 01:05:54.150
+Arroyo Arzubi Carlos A.: o qué recursos o qué recursos requieren los procesos, entonces me veo obligado a desarrollar otra expresión
+
+760
+01:05:54.550 --> 01:05:57.440
+Arroyo Arzubi Carlos A.: que dice estado de asignación de recursos.
+
+761
+01:05:58.310 --> 01:06:06.589
+Arroyo Arzubi Carlos A.: en el cual yo voy a decir. Fíjense acá a la izquierda. Tengo el recurso a la izquierda y el proceso distinto de acá
+
+762
+01:06:06.820 --> 01:06:11.040
+Arroyo Arzubi Carlos A.: en esta primer parte que estoy poniendo que el recurso 1.
+
+763
+01:06:11.770 --> 01:06:15.020
+Arroyo Arzubi Carlos A.: Tengo asignado 1 al proceso. P: sub 1
+
+764
+01:06:15.540 --> 01:06:20.309
+Arroyo Arzubi Carlos A.: del recurso, Dos: Tengo asignado 1 al recurso P. Sub 3.
+
+765
+01:06:21.010 --> 01:06:27.689
+Arroyo Arzubi Carlos A.: Si en vez de 1 tuviera más. Le pongo recurso 2 y entre llaves, le pongo la cantidad.
+
+766
+01:06:28.110 --> 01:06:35.449
+Arroyo Arzubi Carlos A.: es decir, que acá a la izquierda estoy diciendo qué recursos están asignados a los procesos.
+
+767
+01:06:38.230 --> 01:06:45.140
+Arroyo Arzubi Carlos A.: Y acá? A la derecha que tengo los recursos que los procesos todavía necesitan.
+
+768
+01:06:46.200 --> 01:06:54.689
+Arroyo Arzubi Carlos A.: Es decir, acá. Tengo. Bueno, no tengo acá. El proceso. P: Sub 2. P: Sub 1. Pero bueno, acá. Dice que el proceso P: sub 2
+
+769
+01:06:54.840 --> 01:06:58.300
+Arroyo Arzubi Carlos A.: necesita el recurso. R. Uno.
+
+770
+01:07:00.340 --> 01:07:16.710
+Arroyo Arzubi Carlos A.: es decir, a la izquierda. Digo los recursos que están asignados, y a la derecha, poniendo invertido primero el proceso y después el recurso. Cuáles son los recursos que le faltan, con lo cual ahora sí. Con estas 2 expresiones tengo información
+
+771
+01:07:17.800 --> 01:07:21.340
+Arroyo Arzubi Carlos A.: de todo el sistema.
+
+772
+01:07:22.760 --> 01:07:30.679
+Arroyo Arzubi Carlos A.: Bien, y a ver, voy a dejar de compartir. Quiero ver si tenía. Acá
+
+773
+01:07:35.410 --> 01:07:36.660
+Arroyo Arzubi Carlos A.: sí, tengo acá
+
+774
+01:07:42.710 --> 01:07:45.780
+Arroyo Arzubi Carlos A.: un momentito, voy a borrar esto?
+
+775
+01:07:50.040 --> 01:07:53.670
+Arroyo Arzubi Carlos A.: Bien, porque lo voy a necesitar en un ratito
+
+776
+01:07:56.850 --> 01:08:04.060
+Arroyo Arzubi Carlos A.: bueno y otra forma de representar.
+
+777
+01:08:04.460 --> 01:08:13.700
+Arroyo Arzubi Carlos A.: Y mi sistema de cómputo, que es muy, muy, muy interesante, muy, muy gráfico.
+
+778
+01:08:13.800 --> 01:08:17.290
+Arroyo Arzubi Carlos A.: Es a través de los grafos de asignación de recursos.
+
+779
+01:08:17.670 --> 01:08:20.289
+Arroyo Arzubi Carlos A.: el grafo de asignación de recursos.
+
+780
+01:08:25.840 --> 01:08:29.119
+Arroyo Arzubi Carlos A.: Bueno, voy al apunte directamente porque allí hago más rápido.
+
+781
+01:08:38.080 --> 01:08:49.510
+Arroyo Arzubi Carlos A.: Bueno, acá tengo, y que se el proceso se representa por un círculo, un recurso.
+
+782
+01:08:49.700 --> 01:08:52.210
+Arroyo Arzubi Carlos A.: Se representa por un cuadrado.
+
+783
+01:08:53.500 --> 01:08:59.970
+Arroyo Arzubi Carlos A.: Y dentro del cuadrado, cada clase se representa con un punto negro.
+
+784
+01:09:02.569 --> 01:09:10.819
+Arroyo Arzubi Carlos A.: Luego fíjense que tenemos el proceso y acá tenemos el recurso
+
+785
+01:09:11.760 --> 01:09:16.970
+Arroyo Arzubi Carlos A.: y tiene una flecha que va del proceso al recurso.
+
+786
+01:09:17.710 --> 01:09:27.300
+Arroyo Arzubi Carlos A.: Si la flecha va del proceso al recurso, quiere decir que el proceso
+
+787
+01:09:27.460 --> 01:09:36.980
+Arroyo Arzubi Carlos A.: pi en este caso necesita un recurso. R. J, Es decir, indica requerimiento
+
+788
+01:09:37.850 --> 01:09:41.240
+Arroyo Arzubi Carlos A.: Cuando la flecha la ponemos al revés
+
+789
+01:09:41.729 --> 01:09:55.100
+Arroyo Arzubi Carlos A.: del recurso va al proceso. Estamos diciendo que el proceso p Subí tiene asignado una clase del recurso. Rj.
+
+790
+01:09:55.630 --> 01:10:03.450
+Arroyo Arzubi Carlos A.: Es decir, nosotros con estos dibujitos nada más.
+
+791
+01:10:03.630 --> 01:10:07.919
+Arroyo Arzubi Carlos A.: Podemos representar todo el sistema de cómputo.
+
+792
+01:10:08.750 --> 01:10:22.610
+Arroyo Arzubi Carlos A.: Dibujo todos los círculos. Pongo todos los procesos. Dibujo todos los cuadrados. Pongo todos los recursos marco, las clases que tiene cada 1 de los recursos y después, con las flechas
+
+793
+01:10:23.180 --> 01:10:35.070
+Arroyo Arzubi Carlos A.: que vayan del proceso al recurso o del recurso al proceso. Estoy diciendo si está asignado ese recurso o ese recurso está requerido.
+
+794
+01:10:35.410 --> 01:10:36.740
+Arroyo Arzubi Carlos A.: Esta forma.
+
+795
+01:10:36.740 --> 01:10:38.240
+FRANCO EMMANUEL SICARDO: Que no lo tienen.
+
+796
+01:10:38.820 --> 01:10:48.979
+Arroyo Arzubi Carlos A.: Claro si no lo tiene, pero lo necesita para poder ejecutarse, es decir, es un recurso que ese proceso necesita para poder
+
+797
+01:10:49.320 --> 01:11:01.190
+Arroyo Arzubi Carlos A.: ejecutarse otra forma de asignación de de modelización.
+
+798
+01:11:03.860 --> 01:11:05.809
+Arroyo Arzubi Carlos A.: A ver si tengo acá. En algún lado.
+
+799
+01:11:06.870 --> 01:11:08.289
+Arroyo Arzubi Carlos A.: No, no lo tengo.
+
+800
+01:11:10.040 --> 01:11:14.140
+Arroyo Arzubi Carlos A.: Bueno, no importa. Lo comento otra forma.
+
+801
+01:11:24.850 --> 01:11:25.690
+Arroyo Arzubi Carlos A.: Bueno.
+
+802
+01:11:26.120 --> 01:11:40.029
+Arroyo Arzubi Carlos A.: entonces una es el grafo de asignación de recursos que lo que acabo de mostrar ya vamos a volver, porque hay algo que voy a mostrar utilizando grafos, que es muy explícito. La otra es a través de lo que se llama el modelo matricial.
+
+803
+01:11:40.250 --> 01:11:41.910
+Arroyo Arzubi Carlos A.: con el cual también
+
+804
+01:11:42.230 --> 01:11:47.289
+Arroyo Arzubi Carlos A.: vamos a verlo después en detalle y vamos a hacer un ejercicio sobre el modelo matricial.
+
+805
+01:11:47.700 --> 01:11:51.039
+Arroyo Arzubi Carlos A.: el modelo matricial. ¿qué es lo que tiene?
+
+806
+01:11:51.910 --> 01:11:57.730
+Arroyo Arzubi Carlos A.: Primero, Tiene una matriz de máximo requerido? Bueno, vamos a ver
+
+807
+01:12:05.090 --> 01:12:08.160
+Arroyo Arzubi Carlos A.: después. Lo vemos mejor, pero hago un dibujo, aunque sea medio.
+
+808
+01:12:10.270 --> 01:12:21.050
+Arroyo Arzubi Carlos A.: ¿qué es una matriz de máximo requerido? Es una matriz donde voy a tener acá en la parte superior.
+
+809
+01:12:21.380 --> 01:12:24.710
+Arroyo Arzubi Carlos A.: Voy a tener los recursos. Acá Voy a tener los recursos
+
+810
+01:12:24.950 --> 01:12:27.120
+Arroyo Arzubi Carlos A.: y acá voy a tener los procesos.
+
+811
+01:12:27.330 --> 01:12:33.310
+Arroyo Arzubi Carlos A.: Acá Tengo el proceso a y acá tendré el recurso. Uno, el recurso 2.
+
+812
+01:12:33.620 --> 01:12:46.329
+Arroyo Arzubi Carlos A.: Y entonces acá voy a poner. ¿cuánto necesito? Necesito 2 de este 0 de este. Bueno, después vamos a hacer el ejercicio. Esta matriz es máximo requerido. Acá Tengo
+
+813
+01:12:48.660 --> 01:12:55.290
+Arroyo Arzubi Carlos A.: los procesos, todos los procesos y acá tengo los recursos, y acá en la fila.
+
+814
+01:12:55.390 --> 01:13:02.690
+Arroyo Arzubi Carlos A.: Tengo los recursos que el proceso A necesita matriz máximo requerido.
+
+815
+01:13:03.320 --> 01:13:09.480
+Arroyo Arzubi Carlos A.: Luego necesito otra matriz ¿Qué es la matriz de asignado
+
+816
+01:13:10.370 --> 01:13:15.640
+Arroyo Arzubi Carlos A.: qué es una matriz igual que la otra con todo lo mismo, igual que el otro.
+
+817
+01:13:16.370 --> 01:13:21.329
+Arroyo Arzubi Carlos A.: Pero ¿qué es lo que va a tener acá del proceso A.
+
+818
+01:13:22.030 --> 01:13:23.910
+Arroyo Arzubi Carlos A.: Y estos son los recursos.
+
+819
+01:13:24.610 --> 01:13:32.590
+Arroyo Arzubi Carlos A.: pero va a decir cuáles están asignados. Por ejemplo, puedo decir que el proceso A Tiene asignado 1 del recurso, 1
+
+820
+01:13:33.190 --> 01:13:35.130
+Arroyo Arzubi Carlos A.: y que decía que acá yo puse
+
+821
+01:13:36.350 --> 01:13:40.070
+Arroyo Arzubi Carlos A.: que el máximo requerido es 2,
+
+822
+01:13:40.650 --> 01:13:44.930
+Arroyo Arzubi Carlos A.: y digo que el proceso A tiene asignado 1.
+
+823
+01:13:45.680 --> 01:13:54.310
+Arroyo Arzubi Carlos A.: Es decir, que si yo quiero saber qué es lo que le está faltando. Bueno, le está faltando 1 del recurso. Uno.
+
+824
+01:13:54.530 --> 01:13:57.229
+Arroyo Arzubi Carlos A.: es decir, que con estas 2 matrices.
+
+825
+01:13:57.580 --> 01:14:00.649
+Arroyo Arzubi Carlos A.: Yo tengo casi toda la información
+
+826
+01:14:01.260 --> 01:14:06.680
+Arroyo Arzubi Carlos A.: con 2 matrices matriz de máximo requerido y matriz de asignado.
+
+827
+01:14:06.810 --> 01:14:16.570
+Arroyo Arzubi Carlos A.: Debo además contar con un vector para que la información sea completa con un vector,
+
+828
+01:14:19.740 --> 01:14:22.359
+Arroyo Arzubi Carlos A.: con 1 de estos 2 vectores.
+
+829
+01:14:24.590 --> 01:14:29.750
+Arroyo Arzubi Carlos A.: Uno, estos estos vectores son de recursos recursos.
+
+830
+01:14:30.380 --> 01:14:33.209
+Arroyo Arzubi Carlos A.: Con 1 que tenga de los 2 es suficiente.
+
+831
+01:14:34.850 --> 01:14:37.640
+Arroyo Arzubi Carlos A.: Uno puede ser de existencia.
+
+832
+01:14:38.040 --> 01:14:45.990
+Arroyo Arzubi Carlos A.: existencias totales de recursos. Entonces, acá donde va a ir el recurso 1. Pondré que tengo 5. Acá. Tengo 4,
+
+833
+01:14:46.180 --> 01:14:47.750
+Arroyo Arzubi Carlos A.: acá. Tengo 3.
+
+834
+01:14:48.370 --> 01:14:54.400
+Arroyo Arzubi Carlos A.: Es decir que en este vector voy a tener para cada recurso cuál es el total de existencias
+
+835
+01:14:54.670 --> 01:14:59.079
+Arroyo Arzubi Carlos A.: no si están asignados o están libres o no.
+
+836
+01:14:59.600 --> 01:15:05.390
+Arroyo Arzubi Carlos A.: La otra opción es tener un vector de disponibles.
+
+837
+01:15:05.970 --> 01:15:13.459
+Arroyo Arzubi Carlos A.: Entonces yo voy a poner que acá de pronto el recurso 1 tengo disponible 2 de manera tal que
+
+838
+01:15:14.260 --> 01:15:29.309
+Arroyo Arzubi Carlos A.: yo, con esta no con esta matriz, Con esta matriz y con este vector tengo toda la información.
+
+839
+01:15:29.840 --> 01:15:36.149
+Arroyo Arzubi Carlos A.: o también puede ser con toda esta matriz, con esta matriz
+
+840
+01:15:36.570 --> 01:15:41.160
+Arroyo Arzubi Carlos A.: y con este vector también tengo toda la información.
+
+841
+01:15:41.730 --> 01:15:45.380
+Arroyo Arzubi Carlos A.: Eso es lo mínimo que necesito.
+
+842
+01:15:45.820 --> 01:15:47.920
+FRANCO EMMANUEL SICARDO: La segunda matriz, cómo se llamaba.
+
+843
+01:15:48.470 --> 01:15:53.620
+Arroyo Arzubi Carlos A.: Matriz de asignados adquirir de recursos asignados.
+
+844
+01:15:54.630 --> 01:15:58.629
+Arroyo Arzubi Carlos A.: Es decir, que por qué es lo mismo este o este?
+
+845
+01:15:58.900 --> 01:16:03.919
+Arroyo Arzubi Carlos A.: Porque si yo tengo la existencia total de recursos
+
+846
+01:16:04.560 --> 01:16:07.140
+Arroyo Arzubi Carlos A.: a la existencia total de recursos.
+
+847
+01:16:07.330 --> 01:16:13.350
+Arroyo Arzubi Carlos A.: le restó el total de asignado y me va a dar los disponibles
+
+848
+01:16:15.440 --> 01:16:18.779
+Arroyo Arzubi Carlos A.: o si yo tengo los disponibles.
+
+849
+01:16:19.790 --> 01:16:27.420
+Arroyo Arzubi Carlos A.: le sumo el total de los asignados y voy a tener la existencia total del proceso, Es decir que
+
+850
+01:16:27.740 --> 01:16:29.559
+Arroyo Arzubi Carlos A.: por eso digo que
+
+851
+01:16:30.210 --> 01:16:40.960
+Arroyo Arzubi Carlos A.: cualquier información que me den de estos 2 vectores con que me den alguno de los 2 ya es suficiente para tener la representación matricial.
+
+852
+01:16:44.430 --> 01:16:54.630
+FRANCO EMMANUEL SICARDO: Claro profe en la primer mata son los recursos que necesita para poder funcionar el proceso, o son los máximos.
+
+853
+01:16:55.240 --> 01:16:55.900
+Arroyo Arzubi Carlos A.: No.
+
+854
+01:16:56.320 --> 01:16:57.600
+Arroyo Arzubi Carlos A.: Esto es
+
+855
+01:17:02.370 --> 01:17:18.720
+Arroyo Arzubi Carlos A.: sí, esta matriz es de máximo requerido por los pero sí sos se entiende.
+
+856
+01:17:20.010 --> 01:17:23.779
+Arroyo Arzubi Carlos A.: Es lo que necesita cada proceso para poder ejecutarse.
+
+857
+01:17:25.150 --> 01:17:30.250
+Arroyo Arzubi Carlos A.: El proceso A dice. Yo necesito 2 de esto. Uno de esto, Uno de esto es todo lo que necesito.
+
+858
+01:17:30.560 --> 01:17:43.719
+Arroyo Arzubi Carlos A.: Esta otra es una matriz de asignación de recursos.
+
+859
+01:17:46.210 --> 01:17:50.070
+Arroyo Arzubi Carlos A.: que son los recursos que han sido ya asignados a los procesos.
+
+860
+01:17:51.510 --> 01:17:52.760
+Arroyo Arzubi Carlos A.: Se entiende.
+
+861
+01:17:53.290 --> 01:18:01.360
+FRANCO EMMANUEL SICARDO: O sea, en este caso, mirando las 2 matrices, a no se podría ejecutar porque necesita 2 del recurso: 1 y solamente le asignaron
+
+862
+01:18:01.520 --> 01:18:02.950
+FRANCO EMMANUEL SICARDO: 1 el recurso, 1.
+
+863
+01:18:03.300 --> 01:18:09.380
+Arroyo Arzubi Carlos A.: Claro para que se pueda ejecutar, voy a tener que asignarle un recurso más de 1.
+
+864
+01:18:09.720 --> 01:18:13.970
+Arroyo Arzubi Carlos A.: Y si acá. Fíjense, yo estoy trabajando con la disponible que tengo acá. Dos.
+
+865
+01:18:14.160 --> 01:18:18.110
+Arroyo Arzubi Carlos A.: Bueno, podría decir, este, lo puedo ejecutar. ¿me entiende.
+
+866
+01:18:19.850 --> 01:18:20.600
+FRANCO EMMANUEL SICARDO: Sí, Sí.
+
+867
+01:18:21.520 --> 01:18:28.190
+Arroyo Arzubi Carlos A.: Bueno, entonces vamos a ver ahora
+
+868
+01:18:29.590 --> 01:18:34.750
+Arroyo Arzubi Carlos A.: cuáles son las condiciones necesarias y suficientes
+
+869
+01:18:38.430 --> 01:18:44.610
+Arroyo Arzubi Carlos A.: para que se cumpla, se produzca el abrazo mortal.
+
+870
+01:18:44.820 --> 01:18:49.239
+Arroyo Arzubi Carlos A.: Es decir, vamos a dar 4 condiciones.
+
+871
+01:18:49.720 --> 01:18:50.600
+Arroyo Arzubi Carlos A.: ¿
+
+872
+01:18:51.180 --> 01:18:56.069
+Arroyo Arzubi Carlos A.: Que si se cumplen, corremos el riesgo de un abrazo mortal.
+
+873
+01:18:57.090 --> 01:19:06.979
+Arroyo Arzubi Carlos A.: Bien, la l leo el título de las 4 condiciones, y luego hablamos de cada una una exclusión mutua.
+
+874
+01:19:07.220 --> 01:19:08.780
+Arroyo Arzubi Carlos A.: de lo cual ya hablamos.
+
+875
+01:19:09.860 --> 01:19:12.959
+Arroyo Arzubi Carlos A.: Segunda condición: espero y retención.
+
+876
+01:19:14.590 --> 01:19:22.659
+Arroyo Arzubi Carlos A.: Tercera condición, sin desalojo y cuarta condición: espera circular.
+
+877
+01:19:23.580 --> 01:19:30.130
+Arroyo Arzubi Carlos A.: Bueno, ¿qué es cada 1 de estos exclusión mutua término que ya no usamos para la sección crítica.
+
+878
+01:19:30.650 --> 01:19:36.820
+Arroyo Arzubi Carlos A.: La exclusión mutua es que si un proceso tiene asignado un recurso.
+
+879
+01:19:37.610 --> 01:19:42.300
+Arroyo Arzubi Carlos A.: ningún otro proceso puede utilizar ese recurso.
+
+880
+01:19:42.890 --> 01:19:44.500
+Arroyo Arzubi Carlos A.: Eso es la exclusión mutua.
+
+881
+01:19:46.110 --> 01:19:49.509
+Arroyo Arzubi Carlos A.: Segundo, espera y retención.
+
+882
+01:19:49.800 --> 01:19:58.550
+Arroyo Arzubi Carlos A.: Quiere decir que si un proceso se le asigna un recurso, ese proceso no lo suelta
+
+883
+01:19:58.930 --> 01:20:03.040
+Arroyo Arzubi Carlos A.: esperando que vengan los recursos que le faltan.
+
+884
+01:20:03.560 --> 01:20:19.919
+Arroyo Arzubi Carlos A.: Por eso se llama espere retención retengo el recurso, además de tener la exclusión mutua que acabamos de ver, que es que nadie lo puede usar, es decir, que espere y retención implica eso. Tengo asignado un recurso y
+
+885
+01:20:20.130 --> 01:20:22.279
+Arroyo Arzubi Carlos A.: no lo largo.
+
+886
+01:20:23.840 --> 01:20:36.700
+Arroyo Arzubi Carlos A.: Tercera opción que mencioné sin desalojo, sin desalojo, es un término que ya lo hemos usado. Cuando desalojábamos los procesos, y acá estamos hablando sin desalojo relacionado al recurso.
+
+887
+01:20:36.830 --> 01:20:39.890
+Arroyo Arzubi Carlos A.: Quiere decir que el sistema operativo.
+
+888
+01:20:40.170 --> 01:20:43.099
+Arroyo Arzubi Carlos A.: una vez que me asignó el recurso, el lápiz.
+
+889
+01:20:43.340 --> 01:20:45.750
+Arroyo Arzubi Carlos A.: el sistema operativo. No me lo puede sacar.
+
+890
+01:20:46.610 --> 01:20:48.730
+Arroyo Arzubi Carlos A.: Eso quiere decir sin desalojo.
+
+891
+01:20:49.580 --> 01:20:53.859
+Arroyo Arzubi Carlos A.: Yo lo tengo, y estoy esperando otro recurso
+
+892
+01:20:54.010 --> 01:20:59.249
+Arroyo Arzubi Carlos A.: por ello. Ejecuté cosas, Pero ahora estoy esperando otro recurso para poder seguir.
+
+893
+01:20:59.870 --> 01:21:02.679
+Arroyo Arzubi Carlos A.: Se entiende Entonces, no lo largo.
+
+894
+01:21:03.260 --> 01:21:05.920
+Arroyo Arzubi Carlos A.: Eso es sin desalojo.
+
+895
+01:21:07.440 --> 01:21:15.870
+Arroyo Arzubi Carlos A.: Y finalmente la espera circular que la espira circular para
+
+896
+01:21:16.690 --> 01:21:20.900
+Arroyo Arzubi Carlos A.: graficarla. Lo vamos a hacer con la pantalla con la sí.
+
+897
+01:21:22.560 --> 01:21:24.130
+Tomas Gomez Dean: Espera circular.
+
+898
+01:21:24.700 --> 01:21:26.460
+Arroyo Arzubi Carlos A.: Espera circular.
+
+899
+01:21:27.820 --> 01:21:28.900
+Arroyo Arzubi Carlos A.: Vamos a.
+
+900
+01:21:33.150 --> 01:21:37.620
+JOAQUÍN MULEIRO BELTRAN: Profe una pregunta, lo de espera y retención.
+
+901
+01:21:37.930 --> 01:21:40.370
+JOAQUÍN MULEIRO BELTRAN: Obviamente.
+
+902
+01:21:40.700 --> 01:21:53.659
+JOAQUÍN MULEIRO BELTRAN: digamos tiene sentido. Pero para confirmar otro proceso, no puede usar ese recurso, siempre y cuando el proceso que lo lo retiene, bueno, lo está reteniendo, o sea, hasta que ese se ejecute no lo puede usar.
+
+903
+01:21:54.770 --> 01:21:56.349
+Arroyo Arzubi Carlos A.: Hasta que 1 lo libere.
+
+904
+01:21:57.030 --> 01:21:59.489
+JOAQUÍN MULEIRO BELTRAN: Claro, lo retiene hasta ejecutarse o se puede.
+
+905
+01:21:59.490 --> 01:22:13.480
+Arroyo Arzubi Carlos A.: Está esperando. No está esperando con el recurso para poder ejecutar. Si yo tengo esto, me falta esto, pero claro, pero cuando esté libre y el sistema operativo me dé el otro recurso. Yo me ejecuto. Perfecto. Sí,
+
+906
+01:22:13.670 --> 01:22:20.819
+Arroyo Arzubi Carlos A.: Entonces vamos a ver Ahora, acá. Nosotros tenemos. Vamos a hablar de la espera circular.
+
+907
+01:22:21.350 --> 01:22:25.130
+Arroyo Arzubi Carlos A.: Acá Tenemos el recurso R 1.
+
+908
+01:22:25.820 --> 01:22:35.290
+Arroyo Arzubi Carlos A.: Y supongamos que tenemos una clase, acá tenemos el recurso R. Dos.
+
+909
+01:22:40.010 --> 01:22:47.180
+Arroyo Arzubi Carlos A.: y tenemos una clase, acá ponemos el proceso A.
+
+910
+01:22:48.640 --> 01:22:54.960
+Arroyo Arzubi Carlos A.: Pero si eso va y acá tenemos el proceso B,
+
+911
+01:23:00.290 --> 01:23:10.499
+Arroyo Arzubi Carlos A.: supongamos que el proceso ha no, que el recurso. Uno está asignado al proceso A, que el proceso A
+
+912
+01:23:10.660 --> 01:23:25.750
+Arroyo Arzubi Carlos A.: requiere un recurso tipo 2, que el proceso B necesita un recurso R. Uno.
+
+913
+01:23:26.750 --> 01:23:32.829
+Arroyo Arzubi Carlos A.: y que el recurso de 2. Este está asignado al proceso B,
+
+914
+01:23:37.090 --> 01:23:41.650
+Arroyo Arzubi Carlos A.: es decir, que esto es lo que yo planteaba cuando tenía en mi mano
+
+915
+01:23:41.750 --> 01:23:46.419
+Arroyo Arzubi Carlos A.: el lápiz esperaba la goma y la otra tenía la goma y esperaba el lápiz.
+
+916
+01:23:46.830 --> 01:23:54.180
+Arroyo Arzubi Carlos A.: Fíjese el proceso A, repito, tiene asignado un recurso de reuno.
+
+917
+01:23:55.000 --> 01:23:59.329
+Arroyo Arzubi Carlos A.: pero para poder ejecutar, se necesita 1 de re 1 y 1 de re 2.
+
+918
+01:23:59.470 --> 01:24:03.260
+Arroyo Arzubi Carlos A.: Entonces acá pone que requiere 1 de alrededor
+
+919
+01:24:04.980 --> 01:24:11.980
+Arroyo Arzubi Carlos A.: por el otro lado. El proceso P: sub B tiene asignado un recurso R, 2,
+
+920
+01:24:12.390 --> 01:24:15.369
+Arroyo Arzubi Carlos A.: pero necesita recurso. R: Uno.
+
+921
+01:24:16.260 --> 01:24:31.330
+Arroyo Arzubi Carlos A.: esto es la esfera circular que yo la hago con 2 procesos y 2 recursos, pero que obviamente podría ser más amplio esta esfera circular. ¿por qué se dice espera circular? Fíjense que las flechas van todas para el mismo lado.
+
+922
+01:24:31.750 --> 01:24:40.089
+Arroyo Arzubi Carlos A.: Se produce esta espera circular. Por eso se llama espera circular.
+
+923
+01:24:41.020 --> 01:24:46.380
+Arroyo Arzubi Carlos A.: Es decir, que nosotros planteamos 3 condiciones, y esta es la cuarta
+
+924
+01:24:46.580 --> 01:24:53.479
+Arroyo Arzubi Carlos A.: cuando se produce esta espera circular. Entonces, señores, estamos con un abrazo mortal.
+
+925
+01:24:54.110 --> 01:24:56.309
+Arroyo Arzubi Carlos A.: Se entendió lo que es el abrazo mortal.
+
+926
+01:24:58.040 --> 01:25:09.160
+Arroyo Arzubi Carlos A.: Bien, ahora que yo tenga una espera circular, Podría ocurrir
+
+927
+01:25:10.240 --> 01:25:14.340
+Arroyo Arzubi Carlos A.: que es condición necesaria para que se produzca el abrazo mortal.
+
+928
+01:25:14.510 --> 01:25:20.650
+Arroyo Arzubi Carlos A.: pero podría ocurrir que yo tuviera una esfera circular transitoria.
+
+929
+01:25:21.800 --> 01:25:23.060
+Arroyo Arzubi Carlos A.: ¿cómo sería?
+
+930
+01:25:23.430 --> 01:25:30.000
+Arroyo Arzubi Carlos A.: Bueno, está claro que acá tenemos una espera circular. Bien.
+
+931
+01:25:30.210 --> 01:25:35.210
+Arroyo Arzubi Carlos A.: pero supongamos que acá tengamos un proceso, P.
+
+932
+01:25:36.530 --> 01:25:42.769
+Arroyo Arzubi Carlos A.: Su se que tiene recurso, 1 hubiera 2,
+
+933
+01:25:42.910 --> 01:25:45.990
+Arroyo Arzubi Carlos A.: y que este recurso estuviera asignado
+
+934
+01:25:46.800 --> 01:25:53.199
+Arroyo Arzubi Carlos A.: al proceso Psu C. Y este tuviera otras conexiones de otros recursos, no importa lo que quiera.
+
+935
+01:25:54.050 --> 01:26:00.090
+Arroyo Arzubi Carlos A.: Es decir, que tiene un montón de cosas en un determinado momento. Yo
+
+936
+01:26:00.240 --> 01:26:03.950
+Arroyo Arzubi Carlos A.: saco la foto y qué tengo. Y acá tengo una esfera circular.
+
+937
+01:26:05.780 --> 01:26:13.010
+Arroyo Arzubi Carlos A.: con lo cual yo estoy en un abrazo mortal. Acá Pero ¿qué podría ocurrir
+
+938
+01:26:13.490 --> 01:26:19.770
+Arroyo Arzubi Carlos A.: que este otro recurso que estaba usando el proceso se lo libere
+
+939
+01:26:20.530 --> 01:26:34.039
+Arroyo Arzubi Carlos A.: porque ese proceso se ejecutó. Entonces, libera si este proceso libera este recurso que estaba usando. Acá
+
+940
+01:26:35.000 --> 01:26:41.569
+Arroyo Arzubi Carlos A.: Entonces este recurso que está acá y que es requerido por P. Sub V se lo asignó a Psuv.
+
+941
+01:26:42.650 --> 01:26:44.599
+Arroyo Arzubi Carlos A.: que a su vez se ejecuta
+
+942
+01:26:45.090 --> 01:26:59.300
+Arroyo Arzubi Carlos A.: y me libera, todo, con lo cual peso a que necesitaba este R. Dos lo puede tomar y se puede ejecutar. Es decir, nos encontramos con que en un determinado momento se puede dar
+
+943
+01:26:59.570 --> 01:27:08.320
+Arroyo Arzubi Carlos A.: una espera circular transitoria por esta situación que acabo de plantear bien.
+
+944
+01:27:13.110 --> 01:27:17.300
+Arroyo Arzubi Carlos A.: Bueno, soluciones al abrazo mortal.
+
+945
+01:27:17.980 --> 01:27:25.100
+Arroyo Arzubi Carlos A.: Cuáles son las soluciones al abrazo mortal si nosotros mencionamos que había 4 condiciones
+
+946
+01:27:25.330 --> 01:27:28.229
+Arroyo Arzubi Carlos A.: que se pueden cumplir que se tienen que cumplir.
+
+947
+01:27:28.580 --> 01:27:37.090
+Arroyo Arzubi Carlos A.: Bastaría con eliminar alguna de las 4 que acabamos de hablar para que no
+
+948
+01:27:37.470 --> 01:27:41.709
+Arroyo Arzubi Carlos A.: no se produzca el abrazo mortal, lo que pasa, que
+
+949
+01:27:42.020 --> 01:27:49.370
+Arroyo Arzubi Carlos A.: no son simples de eliminar. Por ejemplo, vamos a exclusión mutua.
+
+950
+01:27:50.140 --> 01:27:55.809
+Arroyo Arzubi Carlos A.: la exclusión mutua. Recuerden que dijimos que si un proceso tiene tomado un recurso.
+
+951
+01:27:56.210 --> 01:27:58.820
+Arroyo Arzubi Carlos A.: ese recurso no lo puede usar nadie más.
+
+952
+01:28:00.400 --> 01:28:02.629
+Arroyo Arzubi Carlos A.: Si yo saco esa condición
+
+953
+01:28:03.050 --> 01:28:13.089
+Arroyo Arzubi Carlos A.: que sería que este recurso lo usa esta mano izquierda. Y también está, si estamos hablando de recursos compartidos
+
+954
+01:28:13.930 --> 01:28:30.739
+Arroyo Arzubi Carlos A.: con todos los problemas que habría que podrías llevar si estamos todos usando el recurso compartido, cualquier dispositivo usándolo indiscriminadamente. Dos procesos: los conflictos que generaría no serían pocos.
+
+955
+01:28:31.120 --> 01:28:45.009
+Arroyo Arzubi Carlos A.: con lo cual, si 1 al final aplica este este criterio de eliminar la exclusión mutua, y es probable que termine haciendo mono programación o algo parecido.
+
+956
+01:28:45.890 --> 01:28:52.309
+Arroyo Arzubi Carlos A.: con lo cual es complicado, pero conceptualmente 1 puede decir.
+
+957
+01:28:52.430 --> 01:28:59.020
+Arroyo Arzubi Carlos A.: Yo saco la exclusión mutua y listo. Bueno, habrá que ver cómo resuelvo otros problemas.
+
+958
+01:29:01.710 --> 01:29:06.909
+Arroyo Arzubi Carlos A.: Espero y retención espere una atención.
+
+959
+01:29:07.800 --> 01:29:09.239
+Arroyo Arzubi Carlos A.: ¿quién levantó la mano.
+
+960
+01:29:10.300 --> 01:29:18.760
+MATEO CAMILLETTI: No, porque tengo 2 preguntas. Primero, vamos a tener que analizar y verificar datos como actividades.
+
+961
+01:29:21.190 --> 01:29:22.629
+Arroyo Arzubi Carlos A.: Y a qué viene esa pregunta
+
+962
+01:29:22.760 --> 01:29:26.090
+Arroyo Arzubi Carlos A.: En medio de esta explicación tan interesante que estoy dando yo.
+
+963
+01:29:26.720 --> 01:29:37.410
+MATEO CAMILLETTI: Mateo y la otra era porque si vos me decís que los detienen de forma infinita entre comillas a los recursos, pero hemos visto en módulos anteriores. Creo que los que
+
+964
+01:29:37.610 --> 01:29:45.629
+MATEO CAMILLETTI: el procesador tenía un tiempo límite en el que le ponía los recursos para si entraban en bucle o algo de eso con que se libere 1? ¿no sería también otra solución.
+
+965
+01:29:46.870 --> 01:29:53.269
+Arroyo Arzubi Carlos A.: Bueno, no. T, No sé si entiendo bien, nosotros no no habíamos hablado de recursos, salvo en la primer clase
+
+966
+01:29:53.810 --> 01:29:55.290
+Arroyo Arzubi Carlos A.: y.
+
+967
+01:29:55.670 --> 01:29:56.119
+MATEO CAMILLETTI: No, pero está.
+
+968
+01:29:56.120 --> 01:29:56.890
+Arroyo Arzubi Carlos A.: Pero.
+
+969
+01:29:56.890 --> 01:30:07.399
+MATEO CAMILLETTI: Te lo liberas el proceso. Si liberas el proceso porque estuvo mucho tiempo cargándose y no hizo nada.
+
+970
+01:30:07.680 --> 01:30:11.630
+MATEO CAMILLETTI: Este, Al mismo tiempo liberas la relación entre los recursos y el proceso.
+
+971
+01:30:11.990 --> 01:30:14.789
+Arroyo Arzubi Carlos A.: Vos decís que saque el proceso, le saco los recursos.
+
+972
+01:30:16.050 --> 01:30:22.540
+MATEO CAMILLETTI: Sí no tenía un tiempo límite de los procesos que pueden estar en ejecutándose, un tiempo de ejecución.
+
+973
+01:30:23.740 --> 01:30:28.280
+Arroyo Arzubi Carlos A.: No, pues yo no hablé de tiempo límite de ejecución de un proceso.
+
+974
+01:30:29.450 --> 01:30:32.360
+Arroyo Arzubi Carlos A.: El proceso se puede ejecutar todo lo que necesite.
+
+975
+01:30:34.310 --> 01:30:40.020
+Arroyo Arzubi Carlos A.: No hay problema. Bueno, sigo y después, si te queda la duda, espero y retención
+
+976
+01:30:40.560 --> 01:30:50.660
+Arroyo Arzubi Carlos A.: el espejo de tensión. Yo estoy diciendo que tenía el lápiz y el proceso se queda esperando el recurso que le falta. Entonces yo podría decir: bueno, elimino
+
+977
+01:30:50.810 --> 01:30:52.330
+Arroyo Arzubi Carlos A.: esa situación.
+
+978
+01:30:52.510 --> 01:30:56.490
+Arroyo Arzubi Carlos A.: Si yo eliminó esa situación. Lo que estoy diciendo es que yo
+
+979
+01:30:56.550 --> 01:31:14.399
+Arroyo Arzubi Carlos A.: le voy a dar al proceso los recursos que necesita cuando tenga todos los recursos disponibles para ese proceso. No, es decir, si el proceso mano derecha necesitaba la goma y el lápiz, Yo no le voy a dar el lápiz y después le voy a dar la goma no
+
+980
+01:31:14.580 --> 01:31:20.729
+Arroyo Arzubi Carlos A.: cuando tenga todo. Le doy las 2 cosas que se ejecute y cuando termine que me lo devuelvan.
+
+981
+01:31:20.830 --> 01:31:26.870
+Arroyo Arzubi Carlos A.: es una opción potable, Sí, muy potable, mucho más que sacar la exclusión mutua.
+
+982
+01:31:27.200 --> 01:31:29.829
+Arroyo Arzubi Carlos A.: Pero el inconveniente que tiene
+
+983
+01:31:30.270 --> 01:31:41.629
+Arroyo Arzubi Carlos A.: es que los 2 recursos que yo le voy a dar a la mano derecha. Este proceso los va a tener retenido todo el tiempo en que se esté ejecutando ese proceso
+
+984
+01:31:42.310 --> 01:31:45.710
+Arroyo Arzubi Carlos A.: y qué puede ocurrir en general, que lo que ocurre
+
+985
+01:31:45.870 --> 01:31:48.710
+Arroyo Arzubi Carlos A.: que no usa los 2 recursos todo el tiempo.
+
+986
+01:31:49.390 --> 01:31:56.000
+Arroyo Arzubi Carlos A.: Entonces de pronto puede usar un rato lápiz y después un rato la goma o lo que sea, es decir
+
+987
+01:31:56.280 --> 01:32:03.479
+Arroyo Arzubi Carlos A.: que el si yo lo hago así administrativamente es más simple.
+
+988
+01:32:03.950 --> 01:32:11.439
+Arroyo Arzubi Carlos A.: pero evito que esos recursos cuando el proceso no lo está usando, no lo puedan usar otros procesos.
+
+989
+01:32:11.640 --> 01:32:13.200
+Arroyo Arzubi Carlos A.: Se entiende lo que digo.
+
+990
+01:32:13.650 --> 01:32:14.820
+Arroyo Arzubi Carlos A.: Es decir.
+
+991
+01:32:15.070 --> 01:32:25.370
+Arroyo Arzubi Carlos A.: si yo hago una asignación, te doy todo. Y entonces, ahora, ejecútate. Es cómodo. Es simple, obviamente porque recurso me va a pedir. No me va a pedir nada.
+
+992
+01:32:26.310 --> 01:32:34.130
+Arroyo Arzubi Carlos A.: Si antes de empezar, yo te di todo, tomá todo el lápiz, la goma, el vaso tomá todo listo. Ahora, ejecutaste cuando termine avisame.
+
+993
+01:32:34.420 --> 01:32:36.959
+Arroyo Arzubi Carlos A.: No tengo problema de sincronizar recursos.
+
+994
+01:32:37.380 --> 01:32:46.340
+Arroyo Arzubi Carlos A.: pero ese proceso me tiene retenido todos los recursos todo el tiempo, cuando en realidad los usa menos tiempo.
+
+995
+01:32:46.690 --> 01:32:52.410
+Arroyo Arzubi Carlos A.: Pero sería una solución aceptable, digamos, si quiere.
+
+996
+01:32:52.770 --> 01:32:56.990
+FRANCO EMMANUEL SICARDO: Y profe. No puede ser que haya como una especie de quantum, pero de recursos.
+
+997
+01:32:57.620 --> 01:33:04.890
+Arroyo Arzubi Carlos A.: Bueno, vos después inventar el sistema que quieras. Yo ahora planteo cuales son las condiciones y después se aceptan propuestas para evitar el
+
+998
+01:33:05.190 --> 01:33:07.219
+Arroyo Arzubi Carlos A.: el el abrazo mortal.
+
+999
+01:33:07.760 --> 01:33:11.070
+Arroyo Arzubi Carlos A.: Sin digo, porque si no vamos a tender mucho sin desalojo.
+
+1000
+01:33:11.070 --> 01:33:12.310
+MATEO CAMILLETTI: Que estaba diciendo. No.
+
+1001
+01:33:12.570 --> 01:33:13.420
+Arroyo Arzubi Carlos A.: Cómo.
+
+1002
+01:33:13.770 --> 01:33:16.010
+MATEO CAMILLETTI: Eso mismo, lo que viste hoy. Estaba intentando decir.
+
+1003
+01:33:16.560 --> 01:33:22.559
+Arroyo Arzubi Carlos A.: Pero escuchame, vamos a hacer la cosa. Si yo te doy un recurso, Pasó un tiempo y lo devolví,
+
+1004
+01:33:22.990 --> 01:33:24.779
+Arroyo Arzubi Carlos A.: lo terminé de usar o no.
+
+1005
+01:33:25.730 --> 01:33:30.800
+Arroyo Arzubi Carlos A.: Y si no lo terminé de usar, cómo lo saco, cómo se lo saco, ¿Cómo queda la tarea?
+
+1006
+01:33:31.230 --> 01:33:34.080
+Arroyo Arzubi Carlos A.: No lo puedo sacar a lo bestia por cuestión de tiempo.
+
+1007
+01:33:34.840 --> 01:33:37.800
+Arroyo Arzubi Carlos A.: Se entendió. Bueno, después vamos de vuelta, pero si no me atraso
+
+1008
+01:33:38.530 --> 01:33:46.170
+Arroyo Arzubi Carlos A.: sin desalojo, vos estás escribiendo el examen con la binomia, yo te la saqué y te faltó terminar el examen. Y qué me decís
+
+1009
+01:33:46.720 --> 01:33:48.319
+Arroyo Arzubi Carlos A.: jorobaste, Te digo.
+
+1010
+01:33:50.010 --> 01:33:54.449
+FRANCO EMMANUEL SICARDO: Cuando se trae la compu y vos le pegas, es porque le está liberando el recurso a la fuerza.
+
+1011
+01:33:55.120 --> 01:33:56.930
+Arroyo Arzubi Carlos A.: Cuando vos haces control andén.
+
+1012
+01:33:57.560 --> 01:34:01.930
+FRANCO EMMANUEL SICARDO: No le pegaste a la compu que se traba, la tele, estaba librando el recurso.
+
+1013
+01:34:02.130 --> 01:34:04.819
+Arroyo Arzubi Carlos A.: Bueno, puede ser por lo menos liberar los nervios.
+
+1014
+01:34:06.170 --> 01:34:12.800
+Arroyo Arzubi Carlos A.: Bueno, sigo después, volvemos si quiere, pero déjeme avanzar. Termino. Después hacemos las discusiones filosóficas de todo esto
+
+1015
+01:34:13.210 --> 01:34:14.840
+Arroyo Arzubi Carlos A.: sin desalojo.
+
+1016
+01:34:16.180 --> 01:34:22.640
+Arroyo Arzubi Carlos A.: sin desalojo, es que el sistema no le puede sacar el lápiz, que es lo que quería hacer. Mateo
+
+1017
+01:34:22.770 --> 01:34:37.990
+Arroyo Arzubi Carlos A.: se acabó el quantum. Te saco con desalojo, te saco el recurso y jodete por haber tardado más de la cuenta. Hay que ser duro en la vida si no, los tiempos no aprenden. Bueno, no, no se puede hacer eso. Sería catastrófico. Pero Bueno.
+
+1018
+01:34:38.120 --> 01:34:44.539
+Arroyo Arzubi Carlos A.: sin desalojo no se puede. Bueno. Entonces las 3 condiciones, estas, que son las primeras.
+
+1019
+01:34:45.040 --> 01:34:54.630
+Arroyo Arzubi Carlos A.: es complicado porque me afecta o es muy complicado implementarla o me afecta en mejor aprovechamiento de los recursos.
+
+1020
+01:34:55.020 --> 01:35:00.110
+Arroyo Arzubi Carlos A.: entonces la opción que más utilizan es actuar
+
+1021
+01:35:00.250 --> 01:35:05.930
+Arroyo Arzubi Carlos A.: sobre la esfera circular, evitar que se produzca la espera circular.
+
+1022
+01:35:06.640 --> 01:35:09.669
+Arroyo Arzubi Carlos A.: Bueno, para evitar que se
+
+1023
+01:35:10.320 --> 01:35:15.970
+Arroyo Arzubi Carlos A.: bueno, me tengo que apurar, porque lo puse a las 9: el examen para que se produzca la espera circular.
+
+1024
+01:35:16.600 --> 01:35:21.290
+Arroyo Arzubi Carlos A.: Lo que se hace es aplicar lo que se llama un método de Estado seguro.
+
+1025
+01:35:22.500 --> 01:35:28.710
+Arroyo Arzubi Carlos A.: El método de Estado seguro consiste en que el sistema B,
+
+1026
+01:35:28.830 --> 01:35:38.880
+Arroyo Arzubi Carlos A.: cuáles son los recursos que cada 1 de los procesos le está faltando y hace una modelización
+
+1027
+01:35:39.440 --> 01:35:40.970
+Arroyo Arzubi Carlos A.: de un orden.
+
+1028
+01:35:41.880 --> 01:35:43.549
+Arroyo Arzubi Carlos A.: Si en ese orden
+
+1029
+01:35:44.000 --> 01:36:01.020
+Arroyo Arzubi Carlos A.: se bloquea, cambia el orden y busca un orden seguro, un orden en que los procesos se puedan ejecutar sin que se procese sin que se genere el bloqueo. Siempre se tiene que poder ejecutar.
+
+1030
+01:36:01.190 --> 01:36:06.719
+Arroyo Arzubi Carlos A.: Si yo voy a encontrar un orden seguro, porque si no se puede ejecutar, es porque el proceso que tengo
+
+1031
+01:36:07.130 --> 01:36:18.420
+Arroyo Arzubi Carlos A.: necesita recursos que el sistema no tiene nunca, entonces vamos a a ver acá
+
+1032
+01:36:18.570 --> 01:36:23.359
+Arroyo Arzubi Carlos A.: como sería en un ejemplo muy cortito después con esto. Si vamos a hacer ejercicio.
+
+1033
+01:36:25.680 --> 01:36:31.449
+Arroyo Arzubi Carlos A.: Fíjense con este ejemplo muy cortito, y voy a ir terminando.
+
+1034
+01:36:31.680 --> 01:36:35.080
+Arroyo Arzubi Carlos A.: Yo acá. Tengo 3 procesos.
+
+1035
+01:36:36.950 --> 01:36:42.060
+Arroyo Arzubi Carlos A.: no. Cero, 1 y 2, Acá tengo
+
+1036
+01:36:42.320 --> 01:36:46.819
+Arroyo Arzubi Carlos A.: necesidades máximas, aborré demasiado, borré todo lo que tenía 10,
+
+1037
+01:36:47.810 --> 01:36:54.630
+Arroyo Arzubi Carlos A.: el proceso, peso, Uno, 4, y el proceso. Peso. Dos, 9. Supongamos que
+
+1038
+01:36:55.030 --> 01:37:00.920
+Arroyo Arzubi Carlos A.: hablamos de un solo recurso para hacer un ejemplo muy Bobo. Después lo vamos a hacer obviamente más complejo.
+
+1039
+01:37:01.080 --> 01:37:11.810
+Arroyo Arzubi Carlos A.: Necesita 10 de un tipo de recurso. Otro 4, otro 9. ¿y cuántos tiene asignado 5, 2 y 2?
+
+1040
+01:37:12.360 --> 01:37:15.700
+Arroyo Arzubi Carlos A.: Bueno, entonces yo digo, bueno, voy a a ver
+
+1041
+01:37:15.810 --> 01:37:18.690
+Arroyo Arzubi Carlos A.: y acá? Tengo cuántos recursos tengo 12,
+
+1042
+01:37:19.460 --> 01:37:31.080
+Arroyo Arzubi Carlos A.: entonces yo digo, bueno, voy a ver si en este orden en el orden en que están se pueden ejecutar, Puedo ejecutar peso, 0, peso, 1 P. U 2 en este orden y no hay problema. Bueno.
+
+1043
+01:37:32.000 --> 01:37:34.760
+Arroyo Arzubi Carlos A.: primero, yo
+
+1044
+01:37:34.980 --> 01:37:47.970
+Arroyo Arzubi Carlos A.: tengo total de recursos 12. Tengo que saber cuántos tengo disponibles. Acá? Tengo asignado 5, 2 y 2, 9. Cuántos tengo disponibles 3.
+
+1045
+01:37:49.920 --> 01:37:58.039
+Arroyo Arzubi Carlos A.: El proceso Ps: un 0 tiene 10, tiene asignado 5, necesita 5.
+
+1046
+01:37:58.640 --> 01:38:00.220
+Arroyo Arzubi Carlos A.: Y yo tengo 3.
+
+1047
+01:38:00.980 --> 01:38:04.139
+Arroyo Arzubi Carlos A.: Es decir, que ya en este orden no lo puedo ejecutar
+
+1048
+01:38:04.910 --> 01:38:10.830
+Arroyo Arzubi Carlos A.: Acá voy de cabeza a bloqueo, entonces
+
+1049
+01:38:11.320 --> 01:38:20.510
+Arroyo Arzubi Carlos A.: el método del orden seguro de Estado seguro dice: voy a poner estos 3 procesos en orden
+
+1050
+01:38:21.840 --> 01:38:26.380
+Arroyo Arzubi Carlos A.: en orden seguro. Entonces, ¿qué hace.
+
+1051
+01:38:27.020 --> 01:38:36.300
+Arroyo Arzubi Carlos A.: Tengo 3. Supongamos, vamos a poner acá que tenemos 3 disponibles 3 o poner al medio. Esto.
+
+1052
+01:38:38.200 --> 01:38:41.380
+Arroyo Arzubi Carlos A.: Bueno, no importa es que bueno, 3,
+
+1053
+01:38:41.660 --> 01:38:48.740
+Arroyo Arzubi Carlos A.: porque la diferencia de 12, menos 9 peso, 0, lo puedo ejecutar, ¿no?
+
+1054
+01:38:49.650 --> 01:38:57.450
+Arroyo Arzubi Carlos A.: Peso. Uno lo puedo ejecutar, sí, porque necesita
+
+1055
+01:38:57.970 --> 01:39:03.140
+Arroyo Arzubi Carlos A.: 2, y yo tengo 3. Entonces, ¿qué voy a hacer? Voy a poner acá?
+
+1056
+01:39:03.890 --> 01:39:05.360
+Arroyo Arzubi Carlos A.: Peso 1.
+
+1057
+01:39:07.530 --> 01:39:16.300
+Arroyo Arzubi Carlos A.: Y ahora cuántos voy a tener. Si yo ejecuto peso. Uno primero. Esto es una una simulación.
+
+1058
+01:39:17.510 --> 01:39:19.740
+Arroyo Arzubi Carlos A.: peso. Uno se va a ejecutar
+
+1059
+01:39:20.610 --> 01:39:25.959
+Arroyo Arzubi Carlos A.: y me va a devolver lo que tenía asignado antes, con lo cual una vez que se ejecuta, P sub 1,
+
+1060
+01:39:26.200 --> 01:39:32.820
+Arroyo Arzubi Carlos A.: yo tenía 3. Si ejecuta peso 1. Ahora voy a tener 5 del recurso.
+
+1061
+01:39:32.950 --> 01:39:38.110
+Arroyo Arzubi Carlos A.: peso, 1. Ahora tengo 5, sigo para abajo.
+
+1062
+01:39:38.710 --> 01:39:41.660
+Arroyo Arzubi Carlos A.: P: sub 2, porque el algoritmo siempre va para abajo.
+
+1063
+01:39:42.650 --> 01:39:48.200
+Arroyo Arzubi Carlos A.: P: S. U 2, necesita 9 de máximo
+
+1064
+01:39:48.310 --> 01:39:54.970
+Arroyo Arzubi Carlos A.: tiene 2, Le faltan 7. Yo tengo 5, tampoco lo puedo ejecutar.
+
+1065
+01:39:55.230 --> 01:39:57.440
+Arroyo Arzubi Carlos A.: Llegué hasta abajo, voy para arriba.
+
+1066
+01:39:58.070 --> 01:40:07.520
+Arroyo Arzubi Carlos A.: Peso 0. ¿cuánto necesita 5. Yo tengo 5. Entonces voy a poner peso us 0, ejecuto, P: sub 0,
+
+1067
+01:40:07.800 --> 01:40:12.329
+Arroyo Arzubi Carlos A.: y me va a devolver los 5 que tenía, con lo cual voy a tener 10.
+
+1068
+01:40:14.370 --> 01:40:29.219
+Arroyo Arzubi Carlos A.: Ahora voy a P: sub 2 peso, Dos: necesita 7, y yo tengo 10, es decir, que voy a poner acá ejecutar p sub 2. Y cuando termine psudo 2, obviamente me voy a quedar con el total de los recursos.
+
+1069
+01:40:29.840 --> 01:40:38.360
+Arroyo Arzubi Carlos A.: Es decir, yo, estos 3 procesos en el orden que estaban, no se podían ejecutar.
+
+1070
+01:40:38.620 --> 01:40:44.000
+Arroyo Arzubi Carlos A.: Iba en un abrazo mortal a bloqueo. Sí, Bueno.
+
+1071
+01:40:44.140 --> 01:40:47.329
+Arroyo Arzubi Carlos A.: en cambio, si yo los ejecuto en este orden.
+
+1072
+01:40:47.440 --> 01:40:54.220
+Arroyo Arzubi Carlos A.: los puedo ejecutar sin ningún problema. Bueno, este es el método de Estado seguro.
+
+1073
+01:40:57.720 --> 01:41:02.260
+Arroyo Arzubi Carlos A.: Después tenemos bloqueo y recuperación.
+
+1074
+01:41:02.580 --> 01:41:05.189
+Arroyo Arzubi Carlos A.: El método de bloqueo y recuperación.
+
+1075
+01:41:05.540 --> 01:41:10.110
+Arroyo Arzubi Carlos A.: Lo que hace es que cuando se encuentra
+
+1076
+01:41:10.500 --> 01:41:16.080
+Arroyo Arzubi Carlos A.: con un proceso que no se puede ejecutar, lo saca
+
+1077
+01:41:16.200 --> 01:41:19.760
+Arroyo Arzubi Carlos A.: del sistema y lo hace ingresar. Nuevamente.
+
+1078
+01:41:19.920 --> 01:41:25.509
+Arroyo Arzubi Carlos A.: Obviamente, esto no es lo ideal, pero bueno, es un método. ¿cómo sería en este caso.
+
+1079
+01:41:25.510 --> 01:41:27.530
+Tomas Gomez Dean: Como.
+
+1080
+01:41:27.830 --> 01:41:31.650
+Arroyo Arzubi Carlos A.: Cuando se encuentra acá yo tengo 3 3
+
+1081
+01:41:31.870 --> 01:41:38.070
+Arroyo Arzubi Carlos A.: recursos disponibles. Peso 0 necesita 5, no lo tiene lo saco
+
+1082
+01:41:38.670 --> 01:41:43.869
+Arroyo Arzubi Carlos A.: peso usero lo saco. Esto se me devuelve los 5. Ahora tengo 8.
+
+1083
+01:41:44.970 --> 01:41:49.490
+Arroyo Arzubi Carlos A.: Entonces ahora puedo ejecutar peso, 1 y peso 2,
+
+1084
+01:41:49.880 --> 01:41:53.749
+Arroyo Arzubi Carlos A.: y pese un 0 que lo saqué, lo saqué del sistema vuelve a entrar.
+
+1085
+01:41:54.340 --> 01:42:02.049
+Arroyo Arzubi Carlos A.: con lo cual es una solución. No es la mejor, porque lo saque al proceso para que se ejecute nuevamente, pero es una solución.
+
+1086
+01:42:04.950 --> 01:42:09.710
+Arroyo Arzubi Carlos A.: Y finalmente, la última opción que hay.
+
+1087
+01:42:10.220 --> 01:42:14.179
+Arroyo Arzubi Carlos A.: Y acá voy cortando que es una opción
+
+1088
+01:42:14.790 --> 01:42:18.050
+Arroyo Arzubi Carlos A.: que es una opción. ¿por qué es una opción? Porque
+
+1089
+01:42:18.730 --> 01:42:22.590
+Arroyo Arzubi Carlos A.: es una opción, es ignorar el abrazo mortal.
+
+1090
+01:42:23.190 --> 01:42:27.820
+Arroyo Arzubi Carlos A.: Mhm: La implementación de estos métodos
+
+1091
+01:42:28.240 --> 01:42:36.740
+Arroyo Arzubi Carlos A.: son bastante costosos. En consecuencia, si los sistemas operativos trabajan sobre equipos menores.
+
+1092
+01:42:37.310 --> 01:42:50.809
+Arroyo Arzubi Carlos A.: no se justifica el esfuerzo, entonces los equipos, grandes si lo tienen, mientras que el equipo que tienen ustedes, el teléfono, la computadora, tienen algunos algoritmos para tratar de evitar
+
+1093
+01:42:51.200 --> 01:42:57.540
+Arroyo Arzubi Carlos A.: más que tratar de evitar. Bueno bien dicho, tratan de evitar que se produzca el abrazo mortal, pero no me lo aseguran
+
+1094
+01:42:57.790 --> 01:43:09.390
+Arroyo Arzubi Carlos A.: correcto, es decir, el que escribe, el sistema operativo va escribiendo distintas acciones para tratar de evitarlo, pero no me lo firman.
+
+1095
+01:43:10.060 --> 01:43:15.230
+Arroyo Arzubi Carlos A.: Eso ocurre con los equipos menores, porque, repito, es muy costoso
+
+1096
+01:43:15.300 --> 01:43:30.590
+Arroyo Arzubi Carlos A.: asegurar que no se produzca el abrazo mortal, con lo cual algunas de las oportunidades en que los equipos personales se bloquean y hacemos el famoso control del para reiniciarlo.
+
+1097
+01:43:30.700 --> 01:43:36.549
+Arroyo Arzubi Carlos A.: Algunas de ellas son, por un bloqueo de este tipo y otras son por otros temas. Obviamente.
+
+1098
+01:43:36.990 --> 01:43:48.500
+Arroyo Arzubi Carlos A.: donde la decisión de dejar que se produzcan hace que el sistema sea más ágil, más rápido, porque, el
+
+1099
+01:43:49.030 --> 01:43:59.330
+Arroyo Arzubi Carlos A.: digamos, el el daño es absolutamente menor al lado de que se lo que sería tener un sistema operativo demasiado pesado que le llevara
+
+1100
+01:43:59.570 --> 01:44:02.540
+Arroyo Arzubi Carlos A.: mucho tiempo tomar las decisiones.
+
+1101
+01:44:03.210 --> 01:44:07.599
+Arroyo Arzubi Carlos A.: Bueno, voy a pasar lista mientras paso lista.
+
+1102
+01:44:08.590 --> 01:44:11.839
+Arroyo Arzubi Carlos A.: piensan qué dudas tienen de lo que vimos hasta ahora
+
+1103
+01:44:12.060 --> 01:44:21.319
+Arroyo Arzubi Carlos A.: de esta unidad. De todos modos, Cuando volvamos la clase que viene, vamos a repasar un poco la teoría y vamos a hacer un ejercicio práctico
+
+1104
+01:44:22.120 --> 01:44:29.090
+Arroyo Arzubi Carlos A.: de métodos del orden seguro. Obviamente, trabajando con más procesos y más recursos.
+
+1105
+01:44:29.490 --> 01:44:32.070
+Arroyo Arzubi Carlos A.: Bueno, Álvarez Lupu.
+
+1106
+01:44:32.540 --> 01:44:33.550
+GUSTAVO ALONSO ÁLVAREZ LUPU: Ascendente.
+
+1107
+01:44:35.770 --> 01:44:37.080
+Arroyo Arzubi Carlos A.: Bye, Manuel
+
+1108
+01:44:42.110 --> 01:44:43.770
+Arroyo Arzubi Carlos A.: Barro Valenti.
+
+1109
+01:44:45.010 --> 01:44:45.680
+MÁXIMO BARROS VALENTI: No.
+
+1110
+01:44:48.450 --> 01:44:50.120
+Arroyo Arzubi Carlos A.: Basilico. Matías.
+
+1111
+01:44:50.270 --> 01:44:51.500
+MATIAS BASILICO: Presente, profe.
+
+1112
+01:44:53.670 --> 01:44:55.680
+Arroyo Arzubi Carlos A.: Bertini agustina? Sí.
+
+1113
+01:44:56.050 --> 01:44:56.890
+AGOSTINA BERTINI: Sí.
+
+1114
+01:44:56.890 --> 01:44:58.449
+Arroyo Arzubi Carlos A.: Buenas: Phoni, Lucas.
+
+1115
+01:44:59.090 --> 01:45:00.900
+LUCAS BONAFFINI: Sí, presente.
+
+1116
+01:45:02.160 --> 01:45:02.970
+LUCAS BONAFFINI: Mhm.
+
+1117
+01:45:03.910 --> 01:45:05.650
+Arroyo Arzubi Carlos A.: Camilleti también.
+
+1118
+01:45:05.650 --> 01:45:06.320
+MATEO CAMILLETTI: Claro.
+
+1119
+01:45:07.410 --> 01:45:09.130
+MANUEL BAEZ: Profesor Toy, presente.
+
+1120
+01:45:09.540 --> 01:45:10.240
+Arroyo Arzubi Carlos A.: Cómo.
+
+1121
+01:45:10.840 --> 01:45:11.980
+MANUEL BAEZ: Vale, se está presente.
+
+1122
+01:45:12.130 --> 01:45:14.210
+Arroyo Arzubi Carlos A.: No te escuché.
+
+1123
+01:45:15.860 --> 01:45:17.290
+MANUEL BAEZ: Si no, no de Crossoft, broma.
+
+1124
+01:45:19.500 --> 01:45:21.000
+Arroyo Arzubi Carlos A.: Kanki Sánchez.
+
+1125
+01:45:21.250 --> 01:45:22.790
+MARIA CANQUIS SANCHEZ: Presente, profe.
+
+1126
+01:45:24.590 --> 01:45:25.830
+Arroyo Arzubi Carlos A.: Casco, Lucas.
+
+1127
+01:45:26.020 --> 01:45:27.049
+Lucas LUCAS CASCO: Presente, profe.
+
+1128
+01:45:28.920 --> 01:45:30.300
+Arroyo Arzubi Carlos A.: Castaño Álvarez.
+
+1129
+01:45:35.830 --> 01:45:37.070
+Arroyo Arzubi Carlos A.: Córdoba.
+
+1130
+01:45:37.710 --> 01:45:38.820
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Pretender.
+
+1131
+01:45:41.700 --> 01:45:42.620
+Arroyo Arzubi Carlos A.: De ahora.
+
+1132
+01:45:43.130 --> 01:45:43.920
+FRANCISCO DAURAT: Es el de.
+
+1133
+01:45:46.760 --> 01:45:47.430
+Arroyo Arzubi Carlos A.: Dos.
+
+1134
+01:45:48.950 --> 01:45:50.560
+TOMÁS DODDS SCHAEFER: Es el de profesor.
+
+1135
+01:45:52.450 --> 01:45:53.990
+Arroyo Arzubi Carlos A.: Echeverri, Gaspar.
+
+1136
+01:45:55.510 --> 01:45:56.460
+GASPAR ETCHEVERRY: Presente.
+
+1137
+01:45:59.300 --> 01:46:00.950
+Arroyo Arzubi Carlos A.: Fraga Haró.
+
+1138
+01:46:00.950 --> 01:46:01.520
+ARON FRAGA: Se entre.
+
+1139
+01:46:01.520 --> 01:46:04.639
+Arroyo Arzubi Carlos A.: Sí, sí. Fraga doble el presente. Le vamos a poner hoy.
+
+1140
+01:46:07.250 --> 01:46:09.170
+Arroyo Arzubi Carlos A.: García escalera.
+
+1141
+01:46:09.730 --> 01:46:10.740
+JHARID GARCIA ESCALERA: Presentes.
+
+1142
+01:46:13.060 --> 01:46:15.120
+Arroyo Arzubi Carlos A.: Gómez Din Dean.
+
+1143
+01:46:15.310 --> 01:46:16.230
+Tomas Gomez Dean: Presente.
+
+1144
+01:46:20.580 --> 01:46:22.129
+Arroyo Arzubi Carlos A.: Hambra jacobo.
+
+1145
+01:46:29.460 --> 01:46:31.240
+Arroyo Arzubi Carlos A.: ledesma castillo.
+
+1146
+01:46:32.680 --> 01:46:33.470
+ALEJANDRO LEDESMA CASTILLO: Presente.
+
+1147
+01:46:36.520 --> 01:46:37.740
+Arroyo Arzubi Carlos A.: Peregrino.
+
+1148
+01:46:38.200 --> 01:46:39.140
+NATALIO STEFANO MALAGRINO: Presente.
+
+1149
+01:46:41.680 --> 01:46:42.830
+Arroyo Arzubi Carlos A.: Buleiro.
+
+1150
+01:46:43.020 --> 01:46:43.960
+JOAQUÍN MULEIRO BELTRAN: Pero es donde.
+
+1151
+01:46:46.370 --> 01:46:47.580
+Arroyo Arzubi Carlos A.: Orlandini.
+
+1152
+01:46:47.890 --> 01:46:49.010
+Emanuel CARLOS ORLANDINI: Presente, profe.
+
+1153
+01:46:51.890 --> 01:46:52.820
+Arroyo Arzubi Carlos A.: Osmick.
+
+1154
+01:46:53.470 --> 01:46:54.450
+MARIA ELISA ORTIZ OSMIK: Presente.
+
+1155
+01:46:57.210 --> 01:46:58.190
+Arroyo Arzubi Carlos A.: Veranic.
+
+1156
+01:47:07.000 --> 01:47:08.250
+Arroyo Arzubi Carlos A.: Pereira.
+
+1157
+01:47:09.140 --> 01:47:10.420
+ANDRÉS PEREIRA MALDONADO: Presente, profe.
+
+1158
+01:47:11.090 --> 01:47:12.639
+Arroyo Arzubi Carlos A.: Bueno, viniste la pasada.
+
+1159
+01:47:13.950 --> 01:47:18.200
+ANDRÉS PEREIRA MALDONADO: Estuve la mitad. Y de ahí me tuve que ir. Le escribí, pero por el chat.
+
+1160
+01:47:18.980 --> 01:47:23.520
+Arroyo Arzubi Carlos A.: No, no, Piamonteci.
+
+1161
+01:47:24.400 --> 01:47:25.970
+DANTE PIEMONTESI: Sí profe presente.
+
+1162
+01:47:30.440 --> 01:47:31.630
+Arroyo Arzubi Carlos A.: Pizurno.
+
+1163
+01:47:31.970 --> 01:47:34.309
+ALEXANDER EMANUEL PIZZURNO DUARTE: Presente profe se me escucha.
+
+1164
+01:47:34.570 --> 01:47:34.890
+Arroyo Arzubi Carlos A.: Sí.
+
+1165
+01:47:35.390 --> 01:47:36.120
+ALEXANDER EMANUEL PIZZURNO DUARTE: Fútbol.
+
+1166
+01:47:36.430 --> 01:47:37.900
+Arroyo Arzubi Carlos A.: Sales mateo.
+
+1167
+01:47:41.160 --> 01:47:46.050
+Arroyo Arzubi Carlos A.: sales chicardo.
+
+1168
+01:47:46.820 --> 01:47:47.770
+FRANCO EMMANUEL SICARDO: Presente.
+
+1169
+01:47:51.860 --> 01:47:53.480
+Arroyo Arzubi Carlos A.: Soler Federico.
+
+1170
+01:47:53.720 --> 01:47:54.860
+FEDERICO SOLER: Presente.
+
+1171
+01:47:58.940 --> 01:48:00.650
+Arroyo Arzubi Carlos A.: Tauscher. Tomás
+
+1172
+01:48:04.570 --> 01:48:09.960
+Arroyo Arzubi Carlos A.: Así que no viene más un María José.
+
+1173
+01:48:11.330 --> 01:48:12.359
+JOSE UMERE: Excelente. Profe.
+
+1174
+01:48:13.520 --> 01:48:15.720
+Arroyo Arzubi Carlos A.: Vos tenés ausente, la doltima clase.
+
+1175
+01:48:17.310 --> 01:48:18.070
+JOSE UMERE: A la Vapule.
+
+1176
+01:48:18.400 --> 01:48:19.879
+Arroyo Arzubi Carlos A.: Valle Figueroa.
+
+1177
+01:48:27.320 --> 01:48:28.680
+Arroyo Arzubi Carlos A.: Teodoro.
+
+1178
+01:48:28.920 --> 01:48:29.950
+TEODORO WELYCZKO: Presente.
+
+1179
+01:48:33.120 --> 01:48:35.440
+Arroyo Arzubi Carlos A.: Pues también tenía ausente la clase pasada.
+
+1180
+01:48:37.970 --> 01:48:38.930
+Arroyo Arzubi Carlos A.: Muy Es.
+
+1181
+01:48:40.560 --> 01:48:41.660
+TOBÍAS WIRTH: Presente, profe.
+
+1182
+01:48:43.920 --> 01:48:45.270
+Arroyo Arzubi Carlos A.: Y divino.
+
+1183
+01:48:45.670 --> 01:48:46.930
+Joaquin Dininno: A cada presente.
+
+1184
+01:48:47.200 --> 01:48:48.500
+Arroyo Arzubi Carlos A.: Alguien lo nombre.
+
+1185
+01:48:49.620 --> 01:48:52.850
+MARIA CANQUIS SANCHEZ: Profe una pregunta. A mí se me escuchó el presente.
+
+1186
+01:48:53.310 --> 01:48:54.100
+Arroyo Arzubi Carlos A.: Cómo.
+
+1187
+01:48:54.680 --> 01:48:56.480
+MARIA CANQUIS SANCHEZ: Se escuchó mi presente.
+
+1188
+01:48:59.080 --> 01:49:00.410
+Arroyo Arzubi Carlos A.: Caqui Sánchez.
+
+1189
+01:49:00.770 --> 01:49:02.360
+MARIA CANQUIS SANCHEZ: Sí. Ajá!
+
+1190
+01:49:03.710 --> 01:49:05.730
+Arroyo Arzubi Carlos A.: Ajá! Sí, señora.
+
+1191
+01:49:05.730 --> 01:49:06.160
+MARIA CANQUIS SANCHEZ: Mhm.
+
+1192
+01:49:06.160 --> 01:49:07.529
+Arroyo Arzubi Carlos A.: Tiene presente.
+
+1193
+01:49:08.870 --> 01:49:16.380
+Arroyo Arzubi Carlos A.: Bueno, alguna pregunta de lo que vimos de teoría de todos modos?
+
+1194
+01:49:17.510 --> 01:49:28.769
+Arroyo Arzubi Carlos A.: Bueno, la clase que viene, hacemos el repaso. Y vamos a ver un ejercicio práctico de método del orden seguro. Y después empezamos con la unidad 6
+
+1195
+01:49:28.890 --> 01:49:31.220
+Arroyo Arzubi Carlos A.: y al final de la clase.
+
+1196
+01:49:32.010 --> 01:49:37.439
+Arroyo Arzubi Carlos A.: Evacuaré algunas dudas que tengan porque dentro de 15 días tienen el parcial.
+
+1197
+01:49:37.730 --> 01:49:43.799
+Arroyo Arzubi Carlos A.: y es decir, que evacuaremos las dudas que Haya sobre el parcialito que hicieron hoy
+
+1198
+01:49:44.110 --> 01:49:47.279
+Arroyo Arzubi Carlos A.: y sobre las dudas que tengan un ratito.
+
+1199
+01:49:47.490 --> 01:49:53.159
+Arroyo Arzubi Carlos A.: Evacuamos para que en el parcial le vaya lo mejor posible.
+
+1200
+01:49:53.770 --> 01:49:54.200
+JOAQUÍN MULEIRO BELTRAN: Profe.
+
+1201
+01:49:54.200 --> 01:49:55.500
+Arroyo Arzubi Carlos A.: Y.
+
+1202
+01:49:55.730 --> 01:49:59.300
+JOAQUÍN MULEIRO BELTRAN: En el parcial, dijo que entraba hasta el módulo Seis: no.
+
+1203
+01:50:00.800 --> 01:50:03.200
+Arroyo Arzubi Carlos A.: El parcial. Cinco.
+
+1204
+01:50:03.410 --> 01:50:04.850
+JOAQUÍN MULEIRO BELTRAN: del lunes 5. Okay.
+
+1205
+01:50:05.820 --> 01:50:06.730
+JOAQUÍN MULEIRO BELTRAN: Gracias.
+
+1206
+01:50:07.770 --> 01:50:11.490
+Arroyo Arzubi Carlos A.: Bueno, ahora yo puse el parcialito
+
+1207
+01:50:11.820 --> 01:50:22.940
+Arroyo Arzubi Carlos A.: para las veintiuna horas. Tiene 75 min para hacerlo y aprovechen para hacerlo a conciencia si no.
+
+1208
+01:50:22.940 --> 01:50:24.270
+FRANCO EMMANUEL SICARDO: Algo profe o.
+
+1209
+01:50:24.270 --> 01:50:30.050
+Arroyo Arzubi Carlos A.: No, no, no hay que poner ninguna cámara. Háganlo a conciencia y
+
+1210
+01:50:30.520 --> 01:50:36.060
+Arroyo Arzubi Carlos A.: que le sirva realmente. Si bien hay una evaluación, obviamente porque
+
+1211
+01:50:37.030 --> 01:50:41.210
+Arroyo Arzubi Carlos A.: es un ejercicio, Son ejercicios para para evaluar
+
+1212
+01:50:42.010 --> 01:50:46.340
+Arroyo Arzubi Carlos A.: que no tienen demasiado peso, pero que pesan algo obviamente
+
+1213
+01:50:46.640 --> 01:50:53.479
+Arroyo Arzubi Carlos A.: todo pesa porque al final, las notas siempre tienen un grado de subjetividad. Así que todo todo pesa, pero
+
+1214
+01:50:54.090 --> 01:51:04.650
+Arroyo Arzubi Carlos A.: que sirva fundamentalmente para que ustedes evalúen cómo van llevando a la práctica, Porque en el parcial.
+
+1215
+01:51:05.190 --> 01:51:10.270
+Arroyo Arzubi Carlos A.: si bien no van a desarrollar el ejercicio completo como lo van a hacer ahora
+
+1216
+01:51:10.840 --> 01:51:13.380
+Arroyo Arzubi Carlos A.: van a tener que desarrollar algún paso.
+
+1217
+01:51:14.290 --> 01:51:18.229
+Arroyo Arzubi Carlos A.: es decir, que es lo mismo haber que saber el algoritmo y saber cómo funciona.
+
+1218
+01:51:19.630 --> 01:51:25.309
+Arroyo Arzubi Carlos A.: Así que, bueno, si faltan 5 min.
+
+1219
+01:51:26.080 --> 01:51:30.829
+Arroyo Arzubi Carlos A.: si no hay nada urgente, yo lo dejaría libre para que
+
+1220
+01:51:31.330 --> 01:51:34.870
+Arroyo Arzubi Carlos A.: se acomoden y puedan hacer el parchadito les parece bien.
+
+1221
+01:51:35.190 --> 01:51:36.020
+MÁXIMO BARROS VALENTI: Profe.
+
+1222
+01:51:36.180 --> 01:51:37.270
+LUCAS BONAFFINI: Vale, Sí.
+
+1223
+01:51:37.820 --> 01:51:44.270
+MÁXIMO BARROS VALENTI: Estaba haciendo 1 de los ejercicios hace unos días de los que estaban de antes.
+
+1224
+01:51:44.570 --> 01:51:47.769
+MÁXIMO BARROS VALENTI: Y en el ejercicio de Round Robin.
+
+1225
+01:51:48.350 --> 01:51:54.800
+MÁXIMO BARROS VALENTI: Creo que hay una. No sé si está mal o porque o hay algo que no sé por qué está hecho. De cierta manera.
+
+1226
+01:51:56.600 --> 01:52:01.589
+MÁXIMO BARROS VALENTI: la corrección lo vi y no me había quedado igual. Y no entiendo por qué.
+
+1227
+01:52:03.690 --> 01:52:10.120
+Arroyo Arzubi Carlos A.: No sé. Tendría que verlo porque no sé. Puede ser que yo me haya equivocado en lo que puse. Dicen.
+
+1228
+01:52:10.120 --> 01:52:12.190
+MÁXIMO BARROS VALENTI: Eso te quería preguntar.
+
+1229
+01:52:12.790 --> 01:52:14.330
+Arroyo Arzubi Carlos A.: Mostrámelo si podés?
+
+1230
+01:52:14.480 --> 01:52:14.970
+Arroyo Arzubi Carlos A.: Sí.
+
+1231
+01:52:14.970 --> 01:52:16.679
+MÁXIMO BARROS VALENTI: Te puedo compartir. Pantalla.
+
+1232
+01:52:16.680 --> 01:52:18.880
+Arroyo Arzubi Carlos A.: Sí. Supongo que sí a ver cómo era este.
+
+1233
+01:52:18.880 --> 01:52:20.580
+MÁXIMO BARROS VALENTI: No está deshabilitado.
+
+1234
+01:52:35.350 --> 01:52:36.420
+Arroyo Arzubi Carlos A.: Ahí ya. Viniste.
+
+1235
+01:52:39.660 --> 01:52:40.380
+MÁXIMO BARROS VALENTI: Que.
+
+1236
+01:52:41.920 --> 01:52:44.010
+MÁXIMO BARROS VALENTI: Bueno.
+
+1237
+01:52:47.690 --> 01:52:49.720
+MÁXIMO BARROS VALENTI: se ve.
+
+1238
+01:52:49.920 --> 01:52:50.580
+Arroyo Arzubi Carlos A.: Sí.
+
+1239
+01:52:51.290 --> 01:52:54.690
+MÁXIMO BARROS VALENTI: Acá en el en el 100.
+
+1240
+01:52:54.910 --> 01:52:55.660
+Arroyo Arzubi Carlos A.: Sí.
+
+1241
+01:52:56.690 --> 01:53:00.159
+MÁXIMO BARROS VALENTI: ¿por qué vuelve a ajustar el proceso A, no el B,
+
+1242
+01:53:06.400 --> 01:53:12.220
+MÁXIMO BARROS VALENTI: Porque, como es Roun Roun tendría que volverse a ejecutar el B o no?
+
+1243
+01:53:13.010 --> 01:53:13.760
+MÁXIMO BARROS VALENTI: Sí.
+
+1244
+01:53:13.760 --> 01:53:20.300
+Arroyo Arzubi Carlos A.: Acá acá yo, a ver este tema. Yo les comenté
+
+1245
+01:53:20.750 --> 01:53:25.590
+Arroyo Arzubi Carlos A.: que como trabajamos con poquitos procesos, 2 o 3 procesos.
+
+1246
+01:53:25.980 --> 01:53:33.430
+Arroyo Arzubi Carlos A.: La idea. ¿cuál es que el road roaming va tomando al que encuentra la cola de listo?
+
+1247
+01:53:34.020 --> 01:53:35.200
+Arroyo Arzubi Carlos A.: Primero?
+
+1248
+01:53:35.800 --> 01:53:44.459
+Arroyo Arzubi Carlos A.: Tah: Entonces esto podría dar 2 interpretaciones a ver Acá se interrumpe.
+
+1249
+01:53:44.810 --> 01:53:50.139
+Arroyo Arzubi Carlos A.: En realidad, hay 2 interrupciones, una, porque el proceso B
+
+1250
+01:53:50.620 --> 01:53:53.709
+Arroyo Arzubi Carlos A.: quiere ir a la cola de listo
+
+1251
+01:53:53.820 --> 01:53:58.390
+Arroyo Arzubi Carlos A.: y otra porque se le cuajó el quantum al proceso A
+
+1252
+01:53:59.400 --> 01:54:07.379
+Arroyo Arzubi Carlos A.: entonces 1 podría pensar, por eso es un tema menor. Este yo lo tomo bien cualquiera de los 2 que hayas tomado. Vos ¿Te aclaro.
+
+1253
+01:54:07.630 --> 01:54:08.810
+MÁXIMO BARROS VALENTI: ¿por qué?
+
+1254
+01:54:08.810 --> 01:54:17.209
+Arroyo Arzubi Carlos A.: Porque 1 podría decir. Bueno, si yo interrumpí, estaba el proceso a usando el procesador y lo interrumpo.
+
+1255
+01:54:17.410 --> 01:54:19.730
+Arroyo Arzubi Carlos A.: ¿a dónde va a la cola de listo.
+
+1256
+01:54:20.760 --> 01:54:22.010
+Arroyo Arzubi Carlos A.: Entonces.
+
+1257
+01:54:22.600 --> 01:54:40.219
+Arroyo Arzubi Carlos A.: luego, ¿qué hago? Atiendo la otra interrupción que el proceso B. Lo pongo en la cuerda de lista. Entonces parecería que si seguimos esa secuencia, primero voy a poner el A y después voy a poner el B cuando busque va a buscar el de la cabeza va a poner al A.
+
+1258
+01:54:40.580 --> 01:54:48.699
+Arroyo Arzubi Carlos A.: Pero como yo no, no me no me preocupa este tema porque a veces se dan discusiones. Y bueno, me explico.
+
+1259
+01:54:48.960 --> 01:54:49.580
+Arroyo Arzubi Carlos A.: sí.
+
+1260
+01:54:49.580 --> 01:54:50.180
+MÁXIMO BARROS VALENTI: Claro.
+
+1261
+01:54:50.330 --> 01:54:53.080
+Arroyo Arzubi Carlos A.: Es decir, que cualquiera de los 2 lo tomo por bueno.
+
+1262
+01:54:53.720 --> 01:54:54.100
+MÁXIMO BARROS VALENTI: Claro.
+
+1263
+01:54:54.100 --> 01:55:07.240
+Arroyo Arzubi Carlos A.: Claro, yo no plantea con 2. Uno dice: no, lo más justo es que el otro que viene ahora que es de sí puede ser bueno. Está bien. Lo doy por bueno, porque en definitiva, depende ese detalle de cómo lo programe. En ese punto
+
+1264
+01:55:07.390 --> 01:55:14.750
+Arroyo Arzubi Carlos A.: el programador, cuando en realidad no vamos a tener 2 procesos, vamos a tener 20 procesos. Me explico.
+
+1265
+01:55:15.510 --> 01:55:16.110
+MÁXIMO BARROS VALENTI: Mhm.
+
+1266
+01:55:16.670 --> 01:55:26.070
+Arroyo Arzubi Carlos A.: Entonces esa diferencia circunstancial de primero o segundo, deja de ser relevante.
+
+1267
+01:55:26.980 --> 01:55:32.270
+Arroyo Arzubi Carlos A.: Si es relevante, si tengo 20, y en vez de poner lo primero, lo pongo 20 se entiende.
+
+1268
+01:55:32.270 --> 01:55:32.960
+MÁXIMO BARROS VALENTI: Okay.
+
+1269
+01:55:33.250 --> 01:55:43.930
+Arroyo Arzubi Carlos A.: De lo que digo son situaciones de coyuntura que yo la voy a tomar. Bien, cualquiera de las 2, porque no, no. Hacia el fondo de la cuestión.
+
+1270
+01:55:44.490 --> 01:55:49.109
+MÁXIMO BARROS VALENTI: Bueno, bueno, era era eso. No más.
+
+1271
+01:55:49.690 --> 01:55:50.680
+Arroyo Arzubi Carlos A.: Listo!
+
+1272
+01:55:50.960 --> 01:55:51.600
+MÁXIMO BARROS VALENTI: Listo!
+
+1273
+01:55:51.890 --> 01:55:54.730
+Arroyo Arzubi Carlos A.: Vamos a hacer el examen?
+
+1274
+01:55:55.270 --> 01:55:58.150
+Arroyo Arzubi Carlos A.: Bueno, suerte.
+
+1275
+01:55:58.150 --> 01:55:59.059
+ARON FRAGA: Esta semana.
+
+1276
+01:55:59.060 --> 01:56:00.030
+MATIAS BASILICO: Pero es.
+
+1277
+01:56:00.030 --> 01:56:00.840
+FRANCISCO DAURAT: Muchas gracias.
+
+1278
+01:56:00.840 --> 01:56:01.460
+Arroyo Arzubi Carlos A.: Bueno.
+
+1279
+01:56:01.460 --> 01:56:02.200
+GASPAR ETCHEVERRY: Profe.
+
+1280
+01:56:02.200 --> 01:56:04.179
+Arroyo Arzubi Carlos A.: Felices. Pasa que.
+
+1281
+01:56:04.210 --> 01:56:04.910
+MATEO CAMILLETTI: El mundo.
+
+1282
+01:56:05.040 --> 01:56:06.200
+TOMÁS DODDS SCHAEFER: Igualmente.
+
+1283
+01:56:06.200 --> 01:56:07.150
+ARON FRAGA: Igualmente.
+
+1284
+01:56:07.150 --> 01:56:08.010
+LUCAS BONAFFINI: No.
+
+1285
+01:56:08.010 --> 01:56:08.720
+JOAQUÍN MULEIRO BELTRAN: Se para con.
+
+1286
+01:56:09.100 --> 01:56:09.840
+Arroyo Arzubi Carlos A.: De grabar.
+
+1287
+01:56:09.840 --> 01:56:10.360
+ALEXANDER EMANUEL PIZZURNO DUARTE: Lo que.
+
+

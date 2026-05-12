@@ -1,0 +1,4959 @@
+WEBVTT
+
+1
+00:00:02.230 --> 00:00:03.270
+Arroyo Arzubi Carlos A.: No.
+
+2
+00:00:09.850 --> 00:00:13.610
+Arroyo Arzubi Carlos A.: Mhm: La clase de hoy.
+
+3
+00:00:14.240 --> 00:00:20.060
+Arroyo Arzubi Carlos A.: Vamos a terminar de ver la unidad 1 y
+
+4
+00:00:26.450 --> 00:00:29.150
+Arroyo Arzubi Carlos A.: y vamos a ver la unidad, 2,
+
+5
+00:00:32.650 --> 00:00:41.379
+Arroyo Arzubi Carlos A.: que es administración de procesos, la parte de planificación de procesos y los algoritmos lo vamos a ver.
+
+6
+00:00:41.750 --> 00:00:43.360
+Arroyo Arzubi Carlos A.: La clase que viene.
+
+7
+00:00:46.420 --> 00:00:48.050
+Arroyo Arzubi Carlos A.: Bien. Bueno.
+
+8
+00:00:48.350 --> 00:01:07.009
+Arroyo Arzubi Carlos A.: como dije la clase pasada, no voy a hacer una revisión con ustedes, sino que la voy a hacer yo rápidamente, obviamente solamente de lo que tiene que ver con la unidad 1 porque la clase pasada hablamos de muchos temas en general y así podemos seguir con la 1.
+
+9
+00:01:07.380 --> 00:01:14.450
+Arroyo Arzubi Carlos A.: Bueno, la clase pasada hablamos de definimos lo que era un sistema operativo, ¿
+
+10
+00:01:14.620 --> 00:01:19.359
+Arroyo Arzubi Carlos A.: O intentamos definirlo de alguna manera determinando.
+
+11
+00:01:19.520 --> 00:01:26.860
+Arroyo Arzubi Carlos A.: tiene un conjunto de programas que maneja y administra las aplicaciones, buscando ser una interfaz
+
+12
+00:01:26.990 --> 00:01:38.409
+Arroyo Arzubi Carlos A.: amigable para las aplicaciones entre el hardware y el software o algo parecido. Pero, bueno, eso pueden encontrar seguramente
+
+13
+00:01:38.640 --> 00:01:46.399
+Arroyo Arzubi Carlos A.: en el mejores definiciones, pero sí planteamos que es un tema que me interesa recalcar.
+
+14
+00:01:46.550 --> 00:01:55.449
+Arroyo Arzubi Carlos A.: Nosotros dijimos que los procesos, cuando para ejecutarse tienen que estar en la memoria principal
+
+15
+00:01:56.360 --> 00:02:06.039
+Arroyo Arzubi Carlos A.: y obviamente, siempre con el modelo de un solo procesador, no porque no podamos verlo con los otros, sino porque es más claro para la explicación.
+
+16
+00:02:06.630 --> 00:02:10.050
+Arroyo Arzubi Carlos A.: Dijimos que para que se ejecute el proceso. El proceso
+
+17
+00:02:10.220 --> 00:02:12.169
+Arroyo Arzubi Carlos A.: debía ocupar la C, P. U
+
+18
+00:02:12.540 --> 00:02:23.130
+Arroyo Arzubi Carlos A.: Y entonces planteamos la situación particular del sistema operativo, que siendo un software igual que una aplicación, igual que un
+
+19
+00:02:23.390 --> 00:02:27.010
+Arroyo Arzubi Carlos A.: programa, digamos, escrito con líneas de código. El software.
+
+20
+00:02:27.260 --> 00:02:37.810
+Arroyo Arzubi Carlos A.: la particularidad que tenía el sistema operativo es que él quedaba como dormido, porque al entregar el uso del Hpu.
+
+21
+00:02:38.270 --> 00:02:41.090
+Arroyo Arzubi Carlos A.: este él no tenía donde ejecutarse.
+
+22
+00:02:41.380 --> 00:02:48.230
+Arroyo Arzubi Carlos A.: con lo cual le agregaba a este elemento sistema operativo
+
+23
+00:02:48.410 --> 00:02:51.239
+Arroyo Arzubi Carlos A.: para el control y la gestión de todo que
+
+24
+00:02:51.880 --> 00:02:56.569
+Arroyo Arzubi Carlos A.: él debía entregar el procesador y tomar todos los recaudos
+
+25
+00:02:56.860 --> 00:03:10.169
+Arroyo Arzubi Carlos A.: para que, ante determinados eventos que se produzcan recuperar el uso de la Cpu, Esto dijimos que es una particularidad interesante, distinto a cualquier otra situación
+
+26
+00:03:10.280 --> 00:03:15.260
+Arroyo Arzubi Carlos A.: de control o gestión de la industria más convencional, que es la que más se conoce.
+
+27
+00:03:16.490 --> 00:03:20.390
+Arroyo Arzubi Carlos A.: Bueno, hablamos de los objetivos de los sistemas operativos.
+
+28
+00:03:20.650 --> 00:03:25.549
+Arroyo Arzubi Carlos A.: Mencionamos comodidad, eficiencia, capacidad de evolución.
+
+29
+00:03:26.150 --> 00:03:29.339
+Arroyo Arzubi Carlos A.: Bueno, no vamos a repetirlo porque no vale la pena
+
+30
+00:03:30.330 --> 00:03:35.700
+Arroyo Arzubi Carlos A.: y hablamos de las funciones de un sistema operativo ahí. Las funciones
+
+31
+00:03:35.940 --> 00:03:39.169
+Arroyo Arzubi Carlos A.: a veces son más precisas que una misma definición.
+
+32
+00:03:39.430 --> 00:03:44.570
+Arroyo Arzubi Carlos A.: porque 1 en la definición trata de que con eso que quede definido.
+
+33
+00:03:44.740 --> 00:03:53.789
+Arroyo Arzubi Carlos A.: Pero si queda alguna duda, cuando 1 determina las funciones, se acaban las dudas de lo que 1 está definiendo, esto sirve para cualquier otro
+
+34
+00:03:54.150 --> 00:03:58.280
+Arroyo Arzubi Carlos A.: situación o elemento que tengan que definir en algún momento.
+
+35
+00:03:58.540 --> 00:04:03.919
+Arroyo Arzubi Carlos A.: Bueno, la definición sola muchas veces no alcanza
+
+36
+00:04:04.540 --> 00:04:12.770
+Arroyo Arzubi Carlos A.: y hay que dar la función. Esto es parecido y ya me estoy yendo un poquito, pero no me va a ir mucho cuando 1 determina
+
+37
+00:04:12.920 --> 00:04:19.729
+Arroyo Arzubi Carlos A.: el objetivo de un software, pero les paso avisos para que le vaya entrando a la cabeza.
+
+38
+00:04:20.769 --> 00:04:21.730
+Arroyo Arzubi Carlos A.: Uno
+
+39
+00:04:22.029 --> 00:04:31.100
+Arroyo Arzubi Carlos A.: va a determinar un objetivo para hacer un software. Por ejemplo, hacer un un software de gestión de un frigorífico
+
+40
+00:04:31.310 --> 00:04:34.489
+Arroyo Arzubi Carlos A.: o hacer un software de gestión de la Universidad de Palermo, por ejemplo.
+
+41
+00:04:35.170 --> 00:04:40.789
+Arroyo Arzubi Carlos A.: con lo cual el objetivo está claro, pero no es preciso
+
+42
+00:04:42.250 --> 00:04:44.350
+Arroyo Arzubi Carlos A.: entonces cuando se habla de software.
+
+43
+00:04:44.660 --> 00:04:47.320
+Arroyo Arzubi Carlos A.: a ver si yo digo que voy a hacer un auto.
+
+44
+00:04:47.960 --> 00:04:51.160
+Arroyo Arzubi Carlos A.: un automóvil. Todo el mundo sabe lo que es un automóvil.
+
+45
+00:04:51.340 --> 00:04:53.560
+Arroyo Arzubi Carlos A.: Nadie tiene duda de lo que voy a hacer.
+
+46
+00:04:53.990 --> 00:04:57.679
+Arroyo Arzubi Carlos A.: Si yo digo que voy a hacer un lavarropas, nadie tiene duda de lo que voy a hacer
+
+47
+00:04:58.650 --> 00:05:06.290
+Arroyo Arzubi Carlos A.: cuando yo digo que voy a hacer un sistema de gestión de la Universidad de Palermo, y ahí
+
+48
+00:05:06.540 --> 00:05:08.859
+Arroyo Arzubi Carlos A.: cada 1 puede pensar lo que quiera.
+
+49
+00:05:09.630 --> 00:05:16.970
+Arroyo Arzubi Carlos A.: Está claro cuando 1 define el objetivo de un sistema es una cosa, pero no alcanza.
+
+50
+00:05:17.880 --> 00:05:21.620
+Arroyo Arzubi Carlos A.: Hay que definir los límites del sistema.
+
+51
+00:05:22.350 --> 00:05:28.470
+Arroyo Arzubi Carlos A.: ¿cómo se definen? Bueno, ya lo van a estudiar o no en algún momento en otra materia y que se yo.
+
+52
+00:05:28.960 --> 00:05:34.389
+Arroyo Arzubi Carlos A.: Pero si queremos buscar una forma fácil, rápida y contundente.
+
+53
+00:05:34.900 --> 00:05:39.739
+Arroyo Arzubi Carlos A.: de determinando cuáles son las funciones de ese software.
+
+54
+00:05:41.920 --> 00:05:46.650
+Arroyo Arzubi Carlos A.: ¿qué estoy diciendo si yo digo que voy a hacer un sistema de gestión de la Universidad de Palermo.
+
+55
+00:05:47.840 --> 00:05:54.570
+Arroyo Arzubi Carlos A.: Bueno, puede ser tan amplio tan chiquito como cada 1 lo quiera, pero yo digo que voy a poner la función
+
+56
+00:05:54.840 --> 00:06:00.910
+Arroyo Arzubi Carlos A.: de administración de los profesores, la función de administración de alumnos, la función de administración de las currículas.
+
+57
+00:06:01.500 --> 00:06:06.710
+Arroyo Arzubi Carlos A.: Bueno, ya estoy dando una idea y un límite de lo que estoy poniendo en el sistema.
+
+58
+00:06:08.160 --> 00:06:15.369
+Arroyo Arzubi Carlos A.: No estoy poniendo otras funciones que no sean esas, no puse la función de pronto de liquidación de sueldo o cosas por el estilo.
+
+59
+00:06:15.820 --> 00:06:19.519
+Arroyo Arzubi Carlos A.: Es decir, que cuando hablamos de software.
+
+60
+00:06:19.770 --> 00:06:26.789
+Arroyo Arzubi Carlos A.: aparte de definir el objetivo de lo que se va a hacer, hay que determinar los límites de ese proyecto
+
+61
+00:06:27.480 --> 00:06:30.589
+Arroyo Arzubi Carlos A.: y una manera de definirlo es
+
+62
+00:06:30.730 --> 00:06:39.130
+Arroyo Arzubi Carlos A.: especificando cuáles son las funciones que va a hacer. En consecuencia, las que no menciono son las que no va a hacer bueno, listo.
+
+63
+00:06:40.390 --> 00:06:44.830
+Arroyo Arzubi Carlos A.: Funciona del sistema operativo: gestión de recursos.
+
+64
+00:06:45.540 --> 00:06:48.370
+Arroyo Arzubi Carlos A.: ejecución de los servicios para los programas.
+
+65
+00:06:52.720 --> 00:07:03.920
+Arroyo Arzubi Carlos A.: ejecución de los mandatos de usuario, abstracción y aislamiento. Esto ya lo hablamos la la clase pasada.
+
+66
+00:07:04.040 --> 00:07:09.030
+Arroyo Arzubi Carlos A.: Pero, bueno, si la definición no fue lo suficientemente clara
+
+67
+00:07:09.270 --> 00:07:12.280
+Arroyo Arzubi Carlos A.: al mencionar yo las funciones concretas.
+
+68
+00:07:12.380 --> 00:07:14.570
+Arroyo Arzubi Carlos A.: ya la cosa de que quería quedar claro.
+
+69
+00:07:16.230 --> 00:07:22.250
+FRANCO EMMANUEL SICARDO: Perdón profe, o sea, sería. Estas funciones son lo que limitan a lo que hace el sistema operativo.
+
+70
+00:07:22.400 --> 00:07:27.630
+Arroyo Arzubi Carlos A.: Son las que especifican qué es lo que vas que hace el sistema operativo tal
+
+71
+00:07:28.720 --> 00:07:31.100
+Arroyo Arzubi Carlos A.: son las que especifican, qué es lo que hace.
+
+72
+00:07:32.060 --> 00:07:38.940
+Arroyo Arzubi Carlos A.: Mhm: Bien, en el caso de un software, cuando yo lo voy a desarrollar.
+
+73
+00:07:39.050 --> 00:07:41.620
+Arroyo Arzubi Carlos A.: yo tengo que definir qué es lo que voy a
+
+74
+00:07:41.800 --> 00:07:48.610
+Arroyo Arzubi Carlos A.: ayer, porque en base a lo que yo defina los límites, voy a hacer el relevamiento, el diseño y todo lo demás.
+
+75
+00:07:49.200 --> 00:07:52.190
+Arroyo Arzubi Carlos A.: Acá hicimos una definición.
+
+76
+00:07:52.520 --> 00:08:01.340
+Arroyo Arzubi Carlos A.: pero como la definición para hoy no completa mucho hablar de estas funciones no permite imaginar mejor las cosas que hace el sistema operativo.
+
+77
+00:08:04.770 --> 00:08:07.899
+Arroyo Arzubi Carlos A.: evolución de los sistemas operativos.
+
+78
+00:08:08.150 --> 00:08:12.220
+Arroyo Arzubi Carlos A.: Bueno, nosotros, la clase pasada, estamos hablando por
+
+79
+00:08:12.730 --> 00:08:14.960
+Arroyo Arzubi Carlos A.: que estaban los procesos en serie
+
+80
+00:08:15.810 --> 00:08:23.379
+Arroyo Arzubi Carlos A.: que dijimos que era cuando no había un sistema operativo entonces en el centro de cómputo
+
+81
+00:08:23.580 --> 00:08:33.080
+Arroyo Arzubi Carlos A.: se asignaba el centro de cómputo con determinada cantidad de horas. A cada área de la empresa, venía el responsable del área de la empresa con las tarjetas
+
+82
+00:08:33.409 --> 00:08:38.750
+Arroyo Arzubi Carlos A.: y ejecutaba ese programa sin ningún tipo de ayuda del sistema operativo.
+
+83
+00:08:38.909 --> 00:08:43.629
+Arroyo Arzubi Carlos A.: con lo cual él tenía que hacer manualmente todas las actividades.
+
+84
+00:08:44.220 --> 00:08:48.030
+Arroyo Arzubi Carlos A.: poner la cinta, poner papel en la impresora. Bueno, todo eso.
+
+85
+00:08:49.640 --> 00:08:55.429
+Arroyo Arzubi Carlos A.: Y vimos que en ese periodo la memoria Ram era extremadamente chica.
+
+86
+00:08:56.310 --> 00:09:03.310
+Arroyo Arzubi Carlos A.: El hardware era muy y el muy inestable.
+
+87
+00:09:03.660 --> 00:09:09.739
+Arroyo Arzubi Carlos A.: a pesar de, además de ser lento, comparado con hoy.
+
+88
+00:09:09.870 --> 00:09:18.329
+Arroyo Arzubi Carlos A.: En ese momento se lo consideraba rápido, obviamente, pero muy inestable, porque las válvulas fallaban, se descomponían. Pero bueno, así y todo
+
+89
+00:09:18.660 --> 00:09:19.879
+Arroyo Arzubi Carlos A.: se lo usaba.
+
+90
+00:09:20.200 --> 00:09:23.410
+Arroyo Arzubi Carlos A.: Luego vinieron los sistemas por los de mono programado.
+
+91
+00:09:24.000 --> 00:09:30.919
+Arroyo Arzubi Carlos A.: Esto fue un avance importante. Recuerden que dijimos la clase pasada que esto se debió
+
+92
+00:09:31.200 --> 00:09:34.730
+Arroyo Arzubi Carlos A.: fundamentalmente a la aparición de los discos.
+
+93
+00:09:35.330 --> 00:09:39.550
+Arroyo Arzubi Carlos A.: que son los que permitieron el acceso directo a la memoria.
+
+94
+00:09:40.670 --> 00:09:50.200
+Arroyo Arzubi Carlos A.: Y y, además de permitir el acceso directo a la memoria, estos discos tenían mayor capacidad
+
+95
+00:09:50.380 --> 00:09:53.559
+Arroyo Arzubi Carlos A.: y mayor velocidad de acceso también.
+
+96
+00:09:54.070 --> 00:09:59.110
+Arroyo Arzubi Carlos A.: En consecuencia, vimos la clase pasada
+
+97
+00:09:59.450 --> 00:10:04.809
+Arroyo Arzubi Carlos A.: que ahora la H. P. U podía hacer Spurning.
+
+98
+00:10:04.910 --> 00:10:08.319
+Arroyo Arzubi Carlos A.: es decir, un ejemplo, si tenía que imprimir
+
+99
+00:10:09.020 --> 00:10:18.099
+Arroyo Arzubi Carlos A.: en el en el periodo anterior, imprimía línea por línea, y el procesador iba esperando que se imprimiera cada línea
+
+100
+00:10:18.400 --> 00:10:25.770
+Arroyo Arzubi Carlos A.: que se mandaba a imprimir acá teniendo un disco con el cual se puede hacer Spury.
+
+101
+00:10:26.060 --> 00:10:30.180
+Arroyo Arzubi Carlos A.: con lo cual se puede a ver diciéndolo de otra manera.
+
+102
+00:10:30.430 --> 00:10:34.899
+Arroyo Arzubi Carlos A.: tener un Buffer, tener un espacio de memoria donde guardar cosas
+
+103
+00:10:35.250 --> 00:10:40.520
+Arroyo Arzubi Carlos A.: la C, P. U puede mandar lo que tiene que imprimir a ese lugar de memoria
+
+104
+00:10:41.520 --> 00:10:43.579
+Arroyo Arzubi Carlos A.: y hacer otra cosa.
+
+105
+00:10:44.220 --> 00:10:54.089
+Arroyo Arzubi Carlos A.: Y de ese lugar de memoria va saliendo a la velocidad de la impresora. Lo que tengan que imprimir. Bueno, es un ejemplo
+
+106
+00:10:54.860 --> 00:10:59.510
+Arroyo Arzubi Carlos A.: y la
+
+107
+00:11:04.610 --> 00:11:22.309
+Arroyo Arzubi Carlos A.: no, no, pero no, no hable de mono programado. No, no dije mono programado, me salte el mono programado, eso que estoy, acá el machete en el mono programado. No teníamos disco, no teníamos nada. Nadie me dijo nada, dijeron, ¡vamos, bárbaro. Este mono programación aparecía la
+
+108
+00:11:22.370 --> 00:11:28.270
+Arroyo Arzubi Carlos A.: un sistema operativo pequeño que se llamaba Monitor, que hacía algunas actividades.
+
+109
+00:11:28.520 --> 00:11:32.349
+Arroyo Arzubi Carlos A.: Hicimos un gráfico de coordenadas. Ahí donde mostramos
+
+110
+00:11:32.500 --> 00:11:42.630
+Arroyo Arzubi Carlos A.: que el uso de la Cpu, que es la pieza clave o la pieza más importante de mi sistema de cómputo era utilizado poco
+
+111
+00:11:42.820 --> 00:11:49.969
+Arroyo Arzubi Carlos A.: porque la mayor parte del tiempo estaba atendiendo la entrada o salida a decir, buscando los datos del famoso González
+
+112
+00:11:50.460 --> 00:11:51.270
+Arroyo Arzubi Carlos A.: Mhm.
+
+113
+00:11:51.450 --> 00:11:56.300
+Arroyo Arzubi Carlos A.: Hicimos el gráfico donde vimos que había un solo proceso.
+
+114
+00:11:56.980 --> 00:12:04.670
+Arroyo Arzubi Carlos A.: Ahora sí, vamos por lotes multiprogramados. Lo que dije del disco. Y todo eso va para este momento. Obviamente.
+
+115
+00:12:05.110 --> 00:12:15.730
+Arroyo Arzubi Carlos A.: entonces el sistema operativo siguió creciendo, siguió incorporando funciones
+
+116
+00:12:15.870 --> 00:12:22.570
+Arroyo Arzubi Carlos A.: de manera tal que ahora lo que hacía el sistema operativo era que podía cargar varios programas
+
+117
+00:12:22.750 --> 00:12:24.590
+Arroyo Arzubi Carlos A.: en la memoria principal.
+
+118
+00:12:26.010 --> 00:12:31.069
+Arroyo Arzubi Carlos A.: Recuerde que es condición para poder ejecutarse que tenga en la memoria principal.
+
+119
+00:12:31.490 --> 00:12:35.330
+Arroyo Arzubi Carlos A.: y entonces ejecutaba 1. Y cuando este
+
+120
+00:12:35.720 --> 00:12:47.379
+Arroyo Arzubi Carlos A.: programa necesitaba una entrada o salida, lo sacaba de uso de la Cpu guarda toda la información
+
+121
+00:12:48.120 --> 00:12:52.470
+Arroyo Arzubi Carlos A.: que necesita para volver a restablecerlo a posteriori.
+
+122
+00:12:52.610 --> 00:13:07.910
+Arroyo Arzubi Carlos A.: Esto dije como las películas. Cuando dicen, corten, hay que guardar la imagen de cómo quedó cada cosa. Entonces cuando dice, bueno, ya terminamos de comer, vamos a seguir. Cada 1 tiene que estar con la mano para arriba, con los anteojos puestos, todo igual, porque si no.
+
+123
+00:13:07.910 --> 00:13:16.910
+Arroyo Arzubi Carlos A.: no sigue la película en este caso, es lo mismo, es decir, que el sistema operativo tiene que guardar todos los valores y punteros
+
+124
+00:13:17.060 --> 00:13:24.820
+Arroyo Arzubi Carlos A.: que tenga ese proceso en los valores que esté para ponerlos de esa manera.
+
+125
+00:13:24.940 --> 00:13:36.430
+Arroyo Arzubi Carlos A.: Y con la aparición del disco que ya hablé entonces, ahora pone ejecutar un proceso. Ese proceso pide una entrada salida, el sistema operativo lo saca
+
+126
+00:13:36.660 --> 00:13:43.450
+Arroyo Arzubi Carlos A.: de la H. P, u guarda la información de el punto en que llegó
+
+127
+00:13:45.470 --> 00:13:48.900
+Arroyo Arzubi Carlos A.: para hacer eso Después de ese proceso.
+
+128
+00:13:49.150 --> 00:13:51.840
+Arroyo Arzubi Carlos A.: El sistema operativo ocupa la C, P. U,
+
+129
+00:13:52.020 --> 00:13:59.800
+Arroyo Arzubi Carlos A.: en lo que llamamos el Oberhead. Recuerden, esto era el tiempo en que el sistema operativo hacía todas las tareas
+
+130
+00:14:00.020 --> 00:14:02.640
+Arroyo Arzubi Carlos A.: acomoda todo lo que tenga que acomodar
+
+131
+00:14:02.850 --> 00:14:06.899
+Arroyo Arzubi Carlos A.: y busca otro proceso que esté en condiciones de ejecutarse.
+
+132
+00:14:07.060 --> 00:14:13.520
+Arroyo Arzubi Carlos A.: porque el que saqué yo recién está esperando que traigan los datos de González. Consecuencia, no se puede ejecutar
+
+133
+00:14:13.710 --> 00:14:19.250
+Arroyo Arzubi Carlos A.: entonces busca a otro que sí esté en condiciones lo pone a ejecutar
+
+134
+00:14:19.770 --> 00:14:28.470
+Arroyo Arzubi Carlos A.: Y bueno, y así va haciendo con los distintos procesos, de manera que cuando 1 tiene multiprogramación.
+
+135
+00:14:28.890 --> 00:14:33.099
+Arroyo Arzubi Carlos A.: es porque tiene varios procesos en la memoria principal
+
+136
+00:14:33.410 --> 00:14:40.670
+Arroyo Arzubi Carlos A.: que se van alternando en el uso del procesado, como se estarán imaginando.
+
+137
+00:14:40.860 --> 00:14:43.610
+Arroyo Arzubi Carlos A.: Es interesante que yo pueda tener
+
+138
+00:14:43.760 --> 00:14:47.280
+Arroyo Arzubi Carlos A.: unos cuantos procesos cargados en la memoria principal.
+
+139
+00:14:47.380 --> 00:15:04.059
+Arroyo Arzubi Carlos A.: ¿por qué? Porque si tengo más procesos cargados en la memoria principal, puedo ir alternando entre más procesos y el grado, lo que se llama el grado de multiprogramación, es decir, cuántos procesos están alternando en el uso del procesador es mayor
+
+140
+00:15:05.160 --> 00:15:19.840
+Arroyo Arzubi Carlos A.: si yo tengo pocos porque mi memoria, Ram es chica. Tengo 2 procesos. Van a alternar entre esos 2. Si yo tengo una memoria más grande, y tengo 5 procesos, van a ir alternando entre esos 5.
+
+141
+00:15:20.790 --> 00:15:28.940
+Arroyo Arzubi Carlos A.: Es decir, que estamos viendo que la importancia del tamaño de la memoria principal tiene que ver con esto que estamos hablando.
+
+142
+00:15:31.910 --> 00:15:43.150
+Arroyo Arzubi Carlos A.: Y, bueno, el objetivo de estos sistemas por lotes multiprogramados
+
+143
+00:15:43.430 --> 00:15:46.140
+Arroyo Arzubi Carlos A.: es maximizar el uso de la C P. U
+
+144
+00:15:47.990 --> 00:15:51.819
+Arroyo Arzubi Carlos A.: cosa que no sé si lo dije la clase pasada o no.
+
+145
+00:15:52.680 --> 00:15:57.500
+Arroyo Arzubi Carlos A.: Hasta aquí los programas con los que estoy hablando.
+
+146
+00:15:57.820 --> 00:16:02.629
+Arroyo Arzubi Carlos A.: Se los conoce como programas Badge, que es un programa Bach.
+
+147
+00:16:03.030 --> 00:16:06.189
+Arroyo Arzubi Carlos A.: Es un programa que se lanza a su ejecución
+
+148
+00:16:07.230 --> 00:16:11.529
+Arroyo Arzubi Carlos A.: y que se ejecuta solo sin la participación del usuario.
+
+149
+00:16:12.410 --> 00:16:14.189
+Arroyo Arzubi Carlos A.: Eso es un programa Bai.
+
+150
+00:16:14.330 --> 00:16:20.159
+Arroyo Arzubi Carlos A.: Por ejemplo, si hablamos de de imprimir los recibos de sueldos.
+
+151
+00:16:20.310 --> 00:16:25.379
+Arroyo Arzubi Carlos A.: Yo, el lanzo, ese programa
+
+152
+00:16:25.480 --> 00:16:37.110
+Arroyo Arzubi Carlos A.: y el programa solo se ejecuta agarra al primero, escribe los datos de un empleado imprime el recibo lo de otro, y yo no intervengo más hasta que termina el programa
+
+153
+00:16:37.500 --> 00:16:42.129
+Arroyo Arzubi Carlos A.: o si yo, de pronto quiero hacer un cálculo determinado.
+
+154
+00:16:42.480 --> 00:16:46.380
+Arroyo Arzubi Carlos A.: Entonces yo le doy los datos al programa lo mando a ejecutar
+
+155
+00:16:47.270 --> 00:16:55.889
+Arroyo Arzubi Carlos A.: y el programa después de un determinado tiempo de ejecución en la cual yo no participo, me da el resultado. Eso es un programa válido
+
+156
+00:16:56.260 --> 00:17:00.500
+Arroyo Arzubi Carlos A.: de los cuales inicialmente eran todos programas V A. S.
+
+157
+00:17:01.160 --> 00:17:08.149
+Arroyo Arzubi Carlos A.: Bueno, con el tiempo aparecieron lo que se llaman programas interactivos.
+
+158
+00:17:08.930 --> 00:17:12.469
+Arroyo Arzubi Carlos A.: Los programas interactivos son aquellos programas
+
+159
+00:17:12.819 --> 00:17:23.039
+Arroyo Arzubi Carlos A.: que, para poder ejecutarse, necesitan de la participación del usuario, es decir, que el programa se va ejecutando.
+
+160
+00:17:23.230 --> 00:17:27.380
+Arroyo Arzubi Carlos A.: pero le va preguntando cosas al usuario
+
+161
+00:17:28.130 --> 00:17:31.699
+Arroyo Arzubi Carlos A.: que son las que le permiten ir siguiendo su ejecución
+
+162
+00:17:32.520 --> 00:17:37.299
+Arroyo Arzubi Carlos A.: hoy en día. Bueno, muchas de las aplicaciones que usamos por Internet
+
+163
+00:17:37.890 --> 00:17:46.369
+Arroyo Arzubi Carlos A.: son interactivas porque nos piden un dato. Nos piden otro, nos dicen qué quiere hacer, que no quiere hacer. Eso es interactuar con el programa.
+
+164
+00:17:48.030 --> 00:17:50.000
+Arroyo Arzubi Carlos A.: Hoy en día existen los 2,
+
+165
+00:17:50.210 --> 00:17:55.910
+Arroyo Arzubi Carlos A.: los pro los programas vash y los programas interactivos. No es que son todos interactivos.
+
+166
+00:17:56.030 --> 00:18:00.240
+Arroyo Arzubi Carlos A.: Por ahí que 1 esté más acostumbrado a los interactivos no tiene nada que ver.
+
+167
+00:18:03.220 --> 00:18:10.850
+Arroyo Arzubi Carlos A.: Los programas Bach siguen teniendo tanta vigencia como la tenían antes, pero son 2 tipos de programas distinto.
+
+168
+00:18:13.050 --> 00:18:14.300
+Arroyo Arzubi Carlos A.: Creo que ya habíamos.
+
+169
+00:18:14.300 --> 00:18:21.500
+FRANCO EMMANUEL SICARDO: Profe. Si el tema de la ejecución en los interactivos se puede ejecutar solo, o lo tiene que ejecutar el usuario.
+
+170
+00:18:24.120 --> 00:18:32.039
+Arroyo Arzubi Carlos A.: No el interactivo el que lo va a poner a el que le va a dar el uso del procesador siempre va a ser el sistema operativo.
+
+171
+00:18:32.550 --> 00:18:35.839
+Arroyo Arzubi Carlos A.: Ya lo que pasa es que cuando se está ejecutando.
+
+172
+00:18:36.100 --> 00:18:42.919
+Arroyo Arzubi Carlos A.: me va a preguntar algo? A mí me va a salir un cartelito por pantalla que me diga qué quiere hacer esto o esto otro.
+
+173
+00:18:43.290 --> 00:18:47.230
+Arroyo Arzubi Carlos A.: Y yo le contesto, pero ese programa no deja de estar en ejecución.
+
+174
+00:18:47.620 --> 00:18:48.690
+Arroyo Arzubi Carlos A.: ¿me entiendes?
+
+175
+00:18:49.340 --> 00:18:52.640
+Arroyo Arzubi Carlos A.: Bien, entonces
+
+176
+00:18:54.240 --> 00:19:06.539
+Arroyo Arzubi Carlos A.: ahora vamos a ver otra etapa. Otro tipo de sistema operativo. Recuerden lo que dije de multiprogramado. El objetivo es maximizar el uso del procesador.
+
+177
+00:19:07.530 --> 00:19:25.189
+Arroyo Arzubi Carlos A.: es decir, que, bueno, eso sistemas de tiempo compartido o multiusuario cuando aparecen los programas interactivos.
+
+178
+00:19:26.570 --> 00:19:28.609
+Arroyo Arzubi Carlos A.: es decir, que los usuarios van
+
+179
+00:19:28.720 --> 00:19:31.929
+Arroyo Arzubi Carlos A.: interactuando con los programas que se están ejecutando
+
+180
+00:19:32.740 --> 00:19:37.300
+Arroyo Arzubi Carlos A.: ya. El objetivo del sistema operativo cambió.
+
+181
+00:19:37.490 --> 00:19:40.429
+Arroyo Arzubi Carlos A.: Ya no es maximizar el uso de la C, P. U,
+
+182
+00:19:41.920 --> 00:19:49.590
+Arroyo Arzubi Carlos A.: Porque ahora yo tengo usuarios, varios usuarios que están ejecutando sus programas
+
+183
+00:19:49.810 --> 00:19:56.190
+Arroyo Arzubi Carlos A.: y en cuyo caso entonces el objetivo ahora es atender a los usuarios
+
+184
+00:19:56.750 --> 00:20:03.430
+Arroyo Arzubi Carlos A.: de la manera más equitativa posible, es decir, que
+
+185
+00:20:04.010 --> 00:20:09.770
+Arroyo Arzubi Carlos A.: lo que al cambiar el objetivo y no ser el objetivo maximizar
+
+186
+00:20:10.010 --> 00:20:15.459
+Arroyo Arzubi Carlos A.: la el uso de la C, P. U va a cambiar la forma en que lo voy a administrar.
+
+187
+00:20:15.980 --> 00:20:19.270
+Arroyo Arzubi Carlos A.: Fíjense que cuando hablamos de multiprogramación.
+
+188
+00:20:19.480 --> 00:20:24.189
+Arroyo Arzubi Carlos A.: yo ponía ejecut yo el sistema operativo pone a ejecutar un proceso
+
+189
+00:20:25.310 --> 00:20:28.249
+Arroyo Arzubi Carlos A.: y el sistema operativo no lo interrumpe. El proceso
+
+190
+00:20:29.110 --> 00:20:33.870
+Arroyo Arzubi Carlos A.: es el proceso que cuando tiene una necesidad.
+
+191
+00:20:34.300 --> 00:20:37.539
+Arroyo Arzubi Carlos A.: él le hace una llamada al sistema operativo.
+
+192
+00:20:37.900 --> 00:20:47.680
+Arroyo Arzubi Carlos A.: Mhm ahora con los sistemas, por lote sistema de tiempo compartido o multiusuario.
+
+193
+00:20:47.990 --> 00:20:52.160
+Arroyo Arzubi Carlos A.: Como el objetivo es otro. Lo que se hace. Es otra cosa
+
+194
+00:20:52.990 --> 00:20:59.669
+Arroyo Arzubi Carlos A.: se hace es darle a cada 1 de los usuarios un quantum de tiempo.
+
+195
+00:21:00.400 --> 00:21:01.250
+Arroyo Arzubi Carlos A.: ¿
+
+196
+00:21:01.490 --> 00:21:06.340
+Arroyo Arzubi Carlos A.: Ese quantum de tiempo es igual para cada 1.
+
+197
+00:21:07.120 --> 00:21:07.780
+Arroyo Arzubi Carlos A.: Mhm.
+
+198
+00:21:07.940 --> 00:21:11.649
+Arroyo Arzubi Carlos A.: En consecuencia, lo que hace es el ciclo
+
+199
+00:21:11.790 --> 00:21:16.200
+Arroyo Arzubi Carlos A.: de mi reloj lo divide en la cantidad de
+
+200
+00:21:17.440 --> 00:21:20.859
+Arroyo Arzubi Carlos A.: de usuarios que yo tenga, y eso me determina
+
+201
+00:21:22.010 --> 00:21:30.559
+Arroyo Arzubi Carlos A.: un Q, un quantum de tiempo. Entonces el sistema, lo que usted hace es asignar de manera rotativa
+
+202
+00:21:30.750 --> 00:21:33.760
+Arroyo Arzubi Carlos A.: a los usuarios, ese quantum de tiempo.
+
+203
+00:21:34.390 --> 00:21:49.859
+Arroyo Arzubi Carlos A.: Supongamos que fueran 20 ms. Le doy 20 ms a 1 al otro, al otro, al otro de manera rotativa. Fíjense que de esta manera yo estoy tratando a todos los usuarios de la misma manera.
+
+204
+00:21:50.360 --> 00:21:59.739
+Arroyo Arzubi Carlos A.: Obviamente, lo que se pretende con este tipo de sistema es que no quede un usuario esperando
+
+205
+00:21:59.960 --> 00:22:02.349
+Arroyo Arzubi Carlos A.: más de la cuenta.
+
+206
+00:22:03.060 --> 00:22:03.930
+Arroyo Arzubi Carlos A.: ¿
+
+207
+00:22:04.040 --> 00:22:14.040
+Arroyo Arzubi Carlos A.: De todos modos, piensen que la C. P. U trabaja extremadamente rápido y, en consecuencia, los usuarios
+
+208
+00:22:14.220 --> 00:22:19.390
+Arroyo Arzubi Carlos A.: pueden percibir como que están todos trabajando simultáneamente.
+
+209
+00:22:19.610 --> 00:22:23.670
+Arroyo Arzubi Carlos A.: Sin embargo, van a estar trabajando de manera alternada
+
+210
+00:22:24.210 --> 00:22:27.919
+Arroyo Arzubi Carlos A.: solamente que la velocidad de la Cpu
+
+211
+00:22:28.160 --> 00:22:33.439
+Arroyo Arzubi Carlos A.: y la velocidad de la percepción de nuestros sentidos es muy distinta.
+
+212
+00:22:34.510 --> 00:22:42.460
+Arroyo Arzubi Carlos A.: Y cuando hablo de el tiempo q a ver
+
+213
+00:22:47.430 --> 00:22:49.340
+Arroyo Arzubi Carlos A.: a ver cómo va con la pizarra hoy.
+
+214
+00:23:10.530 --> 00:23:15.980
+Arroyo Arzubi Carlos A.: Qué estoy diciendo? El ciclo? Ah, no, este en la visto
+
+215
+00:23:16.370 --> 00:23:20.929
+Arroyo Arzubi Carlos A.: yo cuando digo, supongamos que el ciclo de tiempo sea una cosa así.
+
+216
+00:23:21.820 --> 00:23:28.739
+Arroyo Arzubi Carlos A.: Saquen los cursores de acá natalio. No lo muevas porque ya no sé ni cómo se saca.
+
+217
+00:23:29.050 --> 00:23:41.400
+Arroyo Arzubi Carlos A.: Entonces, si yo tengo, supongamos una cantidad determinada. Yo divido este ciclo de tiempo con estos, Q,
+
+218
+00:23:41.620 --> 00:23:44.449
+Arroyo Arzubi Carlos A.: esto es el cubo. Este es el cubo.
+
+219
+00:23:47.670 --> 00:23:50.459
+Arroyo Arzubi Carlos A.: Y estos q son todos iguales.
+
+220
+00:23:51.600 --> 00:23:59.250
+Arroyo Arzubi Carlos A.: Entonces voy entregando de manera rotativa a cada 1 de los usuarios ese ciclo de tiempo.
+
+221
+00:24:00.410 --> 00:24:08.589
+Arroyo Arzubi Carlos A.: Ahora hago este dibujo para que hagamos la siguiente, la siguiente reflexión.
+
+222
+00:24:13.310 --> 00:24:15.089
+Arroyo Arzubi Carlos A.: qué, Por eso este cuadro? Ahora.
+
+223
+00:24:19.260 --> 00:24:20.390
+Arroyo Arzubi Carlos A.: Bueno, no sé
+
+224
+00:24:37.110 --> 00:24:38.990
+Arroyo Arzubi Carlos A.: si yo tuviera
+
+225
+00:24:39.160 --> 00:24:48.180
+Arroyo Arzubi Carlos A.: cuando 1 analiza determinadas situaciones en informática. Bueno, informática, en ingeniería, conviene analizar qué pasa en los extremos
+
+226
+00:24:49.510 --> 00:24:54.120
+Arroyo Arzubi Carlos A.: como para conceptualmente entender cómo funciona.
+
+227
+00:24:54.800 --> 00:25:02.280
+Arroyo Arzubi Carlos A.: Entonces, fíjense, nosotros tenemos Acá un Q determinado que entrará qué sé yo. Ocho usuarios. Póngale, no importa.
+
+228
+00:25:03.110 --> 00:25:08.140
+Arroyo Arzubi Carlos A.: podría ser que yo achicar a el Q.
+
+229
+00:25:08.620 --> 00:25:12.059
+Arroyo Arzubi Carlos A.: Entonces el Kuma quedaría allí. No
+
+230
+00:25:16.480 --> 00:25:22.279
+Arroyo Arzubi Carlos A.: fíjense que yo acá no he dibujado el tiempo de Oberhearth. Pero acá voy a tener
+
+231
+00:25:22.600 --> 00:25:25.919
+Arroyo Arzubi Carlos A.: entre 1 y otro un tiempo de Oberheath.
+
+232
+00:25:30.320 --> 00:25:36.629
+Arroyo Arzubi Carlos A.: Bueno, si yo achico este q
+
+233
+00:25:40.430 --> 00:25:43.030
+Arroyo Arzubi Carlos A.: este q lo hago muy chico.
+
+234
+00:25:43.130 --> 00:25:48.039
+Arroyo Arzubi Carlos A.: Esto resulta que se me va a ir completando
+
+235
+00:25:49.100 --> 00:25:55.650
+Arroyo Arzubi Carlos A.: y voy a llegar un momento tendiendo allí al infinito. Digamos
+
+236
+00:25:55.930 --> 00:25:58.320
+Arroyo Arzubi Carlos A.: en que voy a hacer solamente oberhead.
+
+237
+00:25:58.830 --> 00:26:01.090
+Arroyo Arzubi Carlos A.: es decir, si yo achico el q
+
+238
+00:26:01.730 --> 00:26:13.139
+Arroyo Arzubi Carlos A.: achiqu el q cada vez voy a tener más overhead y así que va a llegar un momento que voy a poner y sacar el programa sin que llegue a ejecutarse Esto, obviamente llevándolo a un extremo conceptual.
+
+239
+00:26:13.700 --> 00:26:15.970
+Arroyo Arzubi Carlos A.: pero que puede ser real. Obviamente.
+
+240
+00:26:16.660 --> 00:26:19.060
+Arroyo Arzubi Carlos A.: entonces, esto que me está diciendo
+
+241
+00:26:19.250 --> 00:26:21.109
+Arroyo Arzubi Carlos A.: que el cuco que yo tenga
+
+242
+00:26:21.620 --> 00:26:28.060
+Arroyo Arzubi Carlos A.: no puede ser tan chiquito como yo quisiera, o sino que tiene un límite.
+
+243
+00:26:28.580 --> 00:26:30.940
+Arroyo Arzubi Carlos A.: Entonces, cuando yo diseño
+
+244
+00:26:31.200 --> 00:26:42.709
+Arroyo Arzubi Carlos A.: un sistema y defino sus capacidades, yo debo tener en cuenta cuántos usuarios va a poder soportar mi sistema.
+
+245
+00:26:43.370 --> 00:26:44.300
+Arroyo Arzubi Carlos A.: ¿
+
+246
+00:26:44.660 --> 00:26:51.759
+Arroyo Arzubi Carlos A.: Es decir, que ustedes ven en la práctica que entran de pronto en aplicaciones
+
+247
+00:26:52.490 --> 00:26:55.030
+Arroyo Arzubi Carlos A.: y que quieren entrar y no pueden
+
+248
+00:26:55.690 --> 00:27:08.619
+Arroyo Arzubi Carlos A.: y le dice: no, no, No puede entrar entre dentro de 2 min, vuelve a entrar más tarde. Bueno, es porque ya llegó a ese límite que 1 debe ponerle para que no se la pase, haciendo. Oberhead
+
+249
+00:27:09.530 --> 00:27:15.959
+Arroyo Arzubi Carlos A.: Mhm, La otra, el otro tema conceptual que 1 podría imaginar
+
+250
+00:27:17.150 --> 00:27:20.539
+Arroyo Arzubi Carlos A.: es que los q míos sean muy grandes.
+
+251
+00:27:20.860 --> 00:27:25.600
+Arroyo Arzubi Carlos A.: Por ejemplo, sean como este, este, o sea muy grande
+
+252
+00:27:26.340 --> 00:27:31.840
+Arroyo Arzubi Carlos A.: si el cubo fuera muy grande que yo, eso no lo puedo manejar, porque si tengo pocos usuarios, lo voy a tener.
+
+253
+00:27:32.460 --> 00:27:37.990
+Arroyo Arzubi Carlos A.: pero sí puedo imaginar que al ser tan grande.
+
+254
+00:27:39.140 --> 00:27:53.390
+Arroyo Arzubi Carlos A.: se va a comportar como más común que como un multiusuario como un multiprogramado. ¿por qué? Porque seguramente, antes que se cumpla el tiempo de este q.
+
+255
+00:27:53.870 --> 00:27:56.489
+Arroyo Arzubi Carlos A.: el proceso va a pedir una interrupción
+
+256
+00:27:56.610 --> 00:27:58.949
+Arroyo Arzubi Carlos A.: porque va a pedir una entrada salida.
+
+257
+00:28:00.080 --> 00:28:15.619
+Arroyo Arzubi Carlos A.: pero esto es conceptual para que comprendan cómo funciona. Si yo tengo pocos usuarios, yo no voy a inventar usuario. Sí, voy a tener que tener en cuenta el extremo donde el cubo es demasiado chico, porque si el cubo es demasiado chico, va a pasar
+
+258
+00:28:15.860 --> 00:28:19.599
+Arroyo Arzubi Carlos A.: que voy a hacer más tiempo en Oberger que en ejecución.
+
+259
+00:28:22.910 --> 00:28:28.150
+Arroyo Arzubi Carlos A.: Bueno, no tengo que seguir tiempo compartir.
+
+260
+00:28:39.250 --> 00:28:46.140
+Arroyo Arzubi Carlos A.: Nosotros, la clase pasada planteamos los ejes, Recuerde.
+
+261
+00:28:48.120 --> 00:28:53.539
+Arroyo Arzubi Carlos A.: Y dijimos que acá teníamos el eje del tiempo.
+
+262
+00:28:54.130 --> 00:28:59.940
+Arroyo Arzubi Carlos A.: Entonces ahora vamos a tener varios procesos.
+
+263
+00:29:00.180 --> 00:29:03.459
+Arroyo Arzubi Carlos A.: Acá. Vamos a tener, qué sé yo, el proceso.
+
+264
+00:29:03.620 --> 00:29:09.469
+Arroyo Arzubi Carlos A.: Acabamos de tener el proceso. Dos, Acabamos de tener proceso 3.
+
+265
+00:29:11.240 --> 00:29:13.460
+Arroyo Arzubi Carlos A.: Y ahora voy a dividir el tiempo.
+
+266
+00:29:13.580 --> 00:29:14.819
+Arroyo Arzubi Carlos A.: Eres Moscú.
+
+267
+00:29:15.210 --> 00:29:17.340
+Arroyo Arzubi Carlos A.: Entonces yo voy a tener. Acá.
+
+268
+00:29:18.080 --> 00:29:22.970
+Arroyo Arzubi Carlos A.: Suponga que me salgan todos iguales. Esto.
+
+269
+00:29:32.560 --> 00:29:36.769
+Arroyo Arzubi Carlos A.: Entonces acá voy a ejecutar este proceso pechuguro
+
+270
+00:29:37.450 --> 00:29:41.059
+Arroyo Arzubi Carlos A.: pasado. El Q. Este es esto. Es cada 1 de estos
+
+271
+00:29:41.260 --> 00:29:45.819
+Arroyo Arzubi Carlos A.: rodaja de tiempo. Barekú. Acá. Voy a ejecutar el proceso
+
+272
+00:29:46.130 --> 00:29:50.670
+Arroyo Arzubi Carlos A.: P: sub 2. Acá Voy a ejecutar el proceso. P: sub 3.
+
+273
+00:29:52.130 --> 00:30:00.580
+Arroyo Arzubi Carlos A.: Acá Voy a ejecutar nuevamente el proceso. P: sub 1. Después este tendrá una entrada salida, como vimos la clase pasada, Bueno.
+
+274
+00:30:00.700 --> 00:30:07.720
+Arroyo Arzubi Carlos A.: pero en definitiva, yo quería. Quiero que vean que ahora, el
+
+275
+00:30:08.430 --> 00:30:15.290
+Arroyo Arzubi Carlos A.: al dar rodajas de tiempo, este va a ser el resultado de ejecución de los procesos.
+
+276
+00:30:16.350 --> 00:30:31.930
+Arroyo Arzubi Carlos A.: con lo cual, como también vimos la clase pasada. Si yo tengo 3 procesos, voy a aprovechar más el procesador. Acá Tendré tiempo de entrada y salida. Después aprovecharé nuevamente el procesador. Recuerden que yo acá
+
+277
+00:30:32.400 --> 00:30:36.480
+Arroyo Arzubi Carlos A.: no, no he dibujado.
+
+278
+00:30:37.290 --> 00:30:43.259
+Arroyo Arzubi Carlos A.: ¿ El tiempo de Oberger que iría acá, parece que.
+
+279
+00:30:43.260 --> 00:30:44.529
+ARON FRAGA: Una consulta. Si se puede.
+
+280
+00:30:44.530 --> 00:30:45.660
+Arroyo Arzubi Carlos A.: Riguroso.
+
+281
+00:30:45.840 --> 00:30:53.170
+Arroyo Arzubi Carlos A.: Yo tengo que poner entre un cambio y otro cambio los over. Eso está claro, ¿no?
+
+282
+00:30:54.620 --> 00:30:57.679
+Arroyo Arzubi Carlos A.: Sí, Sí, Pregunta.
+
+283
+00:30:58.410 --> 00:31:05.359
+ARON FRAGA: El tiempo de llama a la administración del proceso, no al tiempo que yo tardo en administrar ese proceso en memoria.
+
+284
+00:31:05.720 --> 00:31:07.440
+Arroyo Arzubi Carlos A.: Sí es el tiempo.
+
+285
+00:31:07.610 --> 00:31:17.140
+Arroyo Arzubi Carlos A.: Nosotros dijimos que el sistema operativo no se ejecuta mientras se ejecuta un proceso. Cuando un proceso pide.
+
+286
+00:31:17.730 --> 00:31:23.429
+Arroyo Arzubi Carlos A.: como es acá una llamada al sistema. Pide algo. El que ocupa la Cpu.
+
+287
+00:31:23.540 --> 00:31:25.239
+Arroyo Arzubi Carlos A.: Es el sistema operativo.
+
+288
+00:31:25.500 --> 00:31:26.340
+ARON FRAGA: Qué va bien.
+
+289
+00:31:26.340 --> 00:31:32.619
+Arroyo Arzubi Carlos A.: El tiempo de Oberhead es el tiempo en que el sistema operativo se ejecuta a él.
+
+290
+00:31:33.550 --> 00:31:49.180
+Arroyo Arzubi Carlos A.: ejecuta instrucciones del sistema operativo, con lo cual lo hace para lo que Vos dijiste, para administrar las cosas, para acomodar todo, para mover esto, para pedir que vengan los datos González, es decir, todo lo que tiene que hacer lo hace ahí
+
+291
+00:31:49.740 --> 00:31:57.900
+Arroyo Arzubi Carlos A.: porque cuando ponga el otro proceso a ejecutar, él se queda apagado.
+
+292
+00:31:58.430 --> 00:32:02.909
+ARON FRAGA: No puede administrar nada de lo que el proceso no pueda administrar nada sin el sistema.
+
+293
+00:32:02.910 --> 00:32:06.299
+Arroyo Arzubi Carlos A.: Él trabaja solamente en esto. En estos momentos.
+
+294
+00:32:06.740 --> 00:32:08.739
+Arroyo Arzubi Carlos A.: que son los tiempos de Oberhearth.
+
+295
+00:32:09.540 --> 00:32:15.890
+Arroyo Arzubi Carlos A.: son los tiempos que en la alternancia del uso de la Cpu le toca al sistema operativo.
+
+296
+00:32:16.420 --> 00:32:17.160
+ARON FRAGA: Perfecto.
+
+297
+00:32:17.290 --> 00:32:19.100
+Arroyo Arzubi Carlos A.: Y ese tiempo de overhead
+
+298
+00:32:19.590 --> 00:32:30.390
+Arroyo Arzubi Carlos A.: no es parejo, no esquival. Estos. Este Este tiempo es igual a este o es igual a este. No tardan lo que tardan, porque hablamos entonces.
+
+299
+00:32:30.390 --> 00:32:34.749
+ARON FRAGA: Overgente si eso tiene, tiene aún alguna administración. No sé.
+
+300
+00:32:34.750 --> 00:32:35.330
+Arroyo Arzubi Carlos A.: Una que.
+
+301
+00:32:35.330 --> 00:32:42.999
+ARON FRAGA: Ponerle si tiene a un proceso interno que le lleve a a completar el quantum, o sea, por demás, no.
+
+302
+00:32:43.000 --> 00:32:45.710
+Arroyo Arzubi Carlos A.: No, el cuento no tiene nada que ver para el sistema operativo.
+
+303
+00:32:45.960 --> 00:32:51.010
+Arroyo Arzubi Carlos A.: Pero supongamos que tengo, no para el sistema operativo está fuera del quantu.
+
+304
+00:32:51.700 --> 00:33:01.829
+Arroyo Arzubi Carlos A.: Yo soy el sistema operativo. Le voy a dar 20 ms a cada proceso. Le doy a un proceso 20 ms. Terminó listo. ¿me hago cargo yo. ¿cuánto tiempo.
+
+305
+00:33:01.940 --> 00:33:03.770
+Arroyo Arzubi Carlos A.: ¿Qué me hicieron con la pantalla?
+
+306
+00:33:06.100 --> 00:33:09.059
+Arroyo Arzubi Carlos A.: Bueno, así no vamos a andar muchacho.
+
+307
+00:33:18.390 --> 00:33:22.320
+Arroyo Arzubi Carlos A.: Ya lo vengo avisando la clase pasada si no.
+
+308
+00:33:22.740 --> 00:33:31.690
+Arroyo Arzubi Carlos A.: si no encuentro cómo sacarlos. No uso la pantalla y se acabó Este, ¿Cuál era la pregunta.
+
+309
+00:33:32.560 --> 00:33:37.560
+ARON FRAGA: El tiempo del Oberhead si no puede colapsar con el de Quantum.
+
+310
+00:33:37.900 --> 00:33:43.599
+Arroyo Arzubi Carlos A.: No, no tiene nada que ver. Yo le voy a dar 20 ms. Entonces le doy 20 ms. El proceso a
+
+311
+00:33:43.990 --> 00:33:52.720
+Arroyo Arzubi Carlos A.: terminado esos 20 ms, yo sistema operativo ocupo la Cpu, y hago lo que quiero durante el tiempo que quiera.
+
+312
+00:33:52.960 --> 00:33:58.219
+Arroyo Arzubi Carlos A.: Cuando termino de hacer todas mis tareas, agarro el proceso B, y le doy 20 000.
+
+313
+00:33:58.220 --> 00:34:00.119
+ARON FRAGA: Ah, Bien. Perfecto.
+
+314
+00:34:00.420 --> 00:34:08.479
+Arroyo Arzubi Carlos A.: Vuelvo a tomar el control. Hago todo lo que tenga que hacer y le doy a otro 20. Yo no entro en ese juego de los 29 de la claro.
+
+315
+00:34:08.480 --> 00:34:09.550
+ARON FRAGA: Sentido claro.
+
+316
+00:34:09.820 --> 00:34:10.880
+Arroyo Arzubi Carlos A.: Se entiende.
+
+317
+00:34:11.400 --> 00:34:26.980
+FRANCO EMMANUEL SICARDO: Ahí te entendí, Profe, pero la la duda que tengo con lo que explicaste recién de q era por usuario, o sea, a donde entran los usuarios en este caso, porque, o sea, el diagrama más abordable que vimos el de multiproceso, o sea, tiene varios.
+
+318
+00:34:26.989 --> 00:34:28.829
+Arroyo Arzubi Carlos A.: Diagrama es el mismo: el de.
+
+319
+00:34:28.830 --> 00:34:31.320
+FRANCO EMMANUEL SICARDO: ¿dónde está usuario? Uno usuario, 2, 3.
+
+320
+00:34:31.320 --> 00:34:34.710
+Arroyo Arzubi Carlos A.: Acá proceso. Uno, proceso, 2, proceso, 3.
+
+321
+00:34:34.710 --> 00:34:40.849
+FRANCO EMMANUEL SICARDO: Los procesos son los usuarios. ¿no? Yo pensé, era como, bueno, un usuario franco, un usuario.
+
+322
+00:34:40.850 --> 00:34:59.190
+Arroyo Arzubi Carlos A.: No el usuario o el proceso no importa. Son son requerimientos. Vos podés tener 3 procesos que los manda. Vos y el otro manda Uno son 3 usuarios distintos. Me entendés, porque cada proceso, cada todos los programas que se quieren lanzar, cual ser interactivo, requieren respuesta.
+
+323
+00:35:00.180 --> 00:35:04.760
+FRANCO EMMANUEL SICARDO: O sea, el límite en la cantidad, proceso, entonces que puedo mandar, no importa quién lo manda.
+
+324
+00:35:05.770 --> 00:35:08.020
+Arroyo Arzubi Carlos A.: Claro, pero son interactuar.
+
+325
+00:35:08.940 --> 00:35:16.499
+Arroyo Arzubi Carlos A.: Se entiende lo que digo porque el sistema, si vos mandas 2 o vos mandas, 1 y Juan manda otro. Pero el sistema es lo mismo.
+
+326
+00:35:18.120 --> 00:35:18.640
+Arroyo Arzubi Carlos A.: Se entiende.
+
+327
+00:35:18.640 --> 00:35:24.789
+FRANCO EMMANUEL SICARDO: No me había mareado con eso de multiusuario. Pensé que lo excusa sin nada en la cantidad de usuarios que tenía no listo listo.
+
+328
+00:35:24.790 --> 00:35:31.959
+Arroyo Arzubi Carlos A.: Bueno al usuario proceso, es decir, son requerimientos al sistema que piden que se ejecute un proceso.
+
+329
+00:35:33.560 --> 00:35:41.200
+MATEO CAMILLETTI: Una pregunta, ponerle que Juan es que quiere ejecutar algo que tome 3 tiempos de Quantum.
+
+330
+00:35:41.530 --> 00:35:48.550
+MATEO CAMILLETTI: el sistema lo pausa y después lo continu lo reanuda o puede acapararlo todo.
+
+331
+00:35:49.250 --> 00:35:56.089
+MATEO CAMILLETTI: No, nadie puede acaparar nada porque el quantus lo determina el sistema. Si yo le doy 20 ms a cada 1.
+
+332
+00:35:56.480 --> 00:35:59.660
+Arroyo Arzubi Carlos A.: A vos a Juan. Le doy 20 ms.
+
+333
+00:35:59.900 --> 00:36:03.500
+Arroyo Arzubi Carlos A.: pero a Juan, con esa aplicación. Con ese programa Me explico.
+
+334
+00:36:03.790 --> 00:36:07.489
+MATEO CAMILLETTI: Sí, pero yo pregunto si Juan tiene que tomar 60 ms que va.
+
+335
+00:36:07.490 --> 00:36:09.280
+Arroyo Arzubi Carlos A.: No, no le va a dar 60.
+
+336
+00:36:09.610 --> 00:36:12.260
+MATEO CAMILLETTI: No, no, Pero por eso el proceso me iba a ser que pasa con eso.
+
+337
+00:36:12.840 --> 00:36:14.380
+Arroyo Arzubi Carlos A.: El proceso. ¿qué.
+
+338
+00:36:14.380 --> 00:36:17.029
+MATEO CAMILLETTI: A medio a medio hacer, porque se quedó sin tiempo.
+
+339
+00:36:17.320 --> 00:36:21.289
+Arroyo Arzubi Carlos A.: Bueno, acá fijate acá yo te puse el proceso, peso 1
+
+340
+00:36:21.400 --> 00:36:23.709
+Arroyo Arzubi Carlos A.: que se ejecutó un quantum de tiempo.
+
+341
+00:36:23.950 --> 00:36:25.990
+ARON FRAGA: En la otra entrada.
+
+342
+00:36:26.250 --> 00:36:30.390
+Arroyo Arzubi Carlos A.: Cuando le toca, le toca el turno de vuelta, acá lo vuelve a poner.
+
+343
+00:36:30.920 --> 00:36:31.580
+ARON FRAGA: Claro.
+
+344
+00:36:31.580 --> 00:36:38.509
+Arroyo Arzubi Carlos A.: Lo que pasa es que esos 60 ms que él necesita le va a dar 20 20 y 20.
+
+345
+00:36:39.480 --> 00:36:51.270
+Arroyo Arzubi Carlos A.: También puede ocurrir que necesite 50, entonces le va a dar 20, le va a dar 20, y en el último le va a dar 20, pero el proceso a los 10 le va a decir: Ya terminé
+
+346
+00:36:52.420 --> 00:37:02.140
+Arroyo Arzubi Carlos A.: entonces. El sistema no espera 10 ms para que acabe el tiempo directamente, listo. Gracias. Y le da a otro los 20 ms entiendes.
+
+347
+00:37:02.140 --> 00:37:03.489
+MATEO CAMILLETTI: Perfecto. Muchas gracias.
+
+348
+00:37:03.490 --> 00:37:13.299
+Arroyo Arzubi Carlos A.: Es una manera de administrar el tiempo para que nadie quede esperando más de la cuenta. Esa es la idea.
+
+349
+00:37:14.630 --> 00:37:15.830
+Arroyo Arzubi Carlos A.: Y
+
+350
+00:37:17.830 --> 00:37:23.740
+Arroyo Arzubi Carlos A.: bien, vamos a sacar esto que no me gusta la pizarra. Han hecho que no me guste la pizarra verdad.
+
+351
+00:37:25.910 --> 00:37:31.659
+Arroyo Arzubi Carlos A.: Sistemas de multiprocesamiento o procesamiento en paralelo.
+
+352
+00:37:32.910 --> 00:37:43.419
+Arroyo Arzubi Carlos A.: Bueno, los sistemas de múltiplo. Fíjense que yo no estoy diciendo: multiprogramación, Estoy diciendo: multiprocesamiento.
+
+353
+00:37:43.840 --> 00:37:48.509
+Arroyo Arzubi Carlos A.: cuando se habla de multiprocesamiento o procesamiento en paralelo.
+
+354
+00:37:50.390 --> 00:37:57.630
+Arroyo Arzubi Carlos A.: Estamos hablando de que tenemos más de una Cpu en este caso.
+
+355
+00:37:57.970 --> 00:38:02.850
+Arroyo Arzubi Carlos A.: Si tenemos más de una Cpu, 2, 3, 4 las que sea.
+
+356
+00:38:03.110 --> 00:38:06.279
+Arroyo Arzubi Carlos A.: Ahora sí voy a poder tener
+
+357
+00:38:06.420 --> 00:38:12.850
+Arroyo Arzubi Carlos A.: varios procesos, varios programas. Habremos de programas. Después, vamos a ver bien qué proceso, varios programas
+
+358
+00:38:13.220 --> 00:38:18.219
+Arroyo Arzubi Carlos A.: que se está ejecutando simultáneamente. ¿por qué? Porque si tengo 2 procesadores.
+
+359
+00:38:18.500 --> 00:38:27.600
+Arroyo Arzubi Carlos A.: esos 2 procesadores pueden estar ejecutando cada 1, un programa, acá. Sí, tengo procesamiento simultáneo.
+
+360
+00:38:28.450 --> 00:38:29.110
+Arroyo Arzubi Carlos A.: Mhm.
+
+361
+00:38:30.020 --> 00:38:43.869
+Arroyo Arzubi Carlos A.: Y cuando estos sistemas de procesamiento en paralelo, multiprocesamiento pueden ser fuertemente acoplados o débilmente. Acoplado
+
+362
+00:38:44.440 --> 00:38:47.329
+Arroyo Arzubi Carlos A.: ¿Qué significa fuertemente acoplado
+
+363
+00:38:47.850 --> 00:38:56.380
+Arroyo Arzubi Carlos A.: fuertemente acoplado, significa que estamos hablando de que en un mismo sistema de cómputo, es decir, en la computadora que ustedes tienen a
+
+364
+00:39:00.010 --> 00:39:04.100
+Arroyo Arzubi Carlos A.: en este momento. Ustedes tienen más de un procesador
+
+365
+00:39:05.360 --> 00:39:09.450
+Arroyo Arzubi Carlos A.: y es fuertemente acoplado. ¿por qué? Porque esos procesadores
+
+366
+00:39:10.300 --> 00:39:19.650
+Arroyo Arzubi Carlos A.: utilizan el mismo reloj que la computadora. La misma memoria principal es: mis bodas usan todo lo mismo.
+
+367
+00:39:20.390 --> 00:39:27.999
+Arroyo Arzubi Carlos A.: Mhm. Es como que están fuertemente bueno como su nombre lo indica acoplado, hermanado o lo que sea.
+
+368
+00:39:29.190 --> 00:39:40.630
+Arroyo Arzubi Carlos A.: En este caso, los procesadores pueden ser simétricos o asimétricos simétricos, es cuando
+
+369
+00:39:40.790 --> 00:39:43.889
+Arroyo Arzubi Carlos A.: cualquier procesador, puede cumplir cualquier función.
+
+370
+00:39:44.080 --> 00:39:47.940
+Arroyo Arzubi Carlos A.: es decir, el sistema operativo. Y si yo tengo 4 procesadores.
+
+371
+00:39:48.550 --> 00:39:52.910
+Arroyo Arzubi Carlos A.: los utilizo indistintamente para cualquier tarea que yo quiera darle.
+
+372
+00:39:53.340 --> 00:39:57.050
+Arroyo Arzubi Carlos A.: eso es simétricos, Así que son iguales
+
+373
+00:39:58.000 --> 00:40:06.589
+Arroyo Arzubi Carlos A.: asimétricos. Es cuando en un sistema de cómputo alguno o más de 1 de los procesadores
+
+374
+00:40:07.210 --> 00:40:10.469
+Arroyo Arzubi Carlos A.: se dedican a una actividad específica.
+
+375
+00:40:10.650 --> 00:40:30.489
+Arroyo Arzubi Carlos A.: Yo, de pronto, Pues sí, bueno, voy a tener un procesador que se va a encargar de administrar la memoria o ejecutar los procesos o administrar los procesos o lo que sea, es decir, que son asimétricos. Cuando le doy a algún proceso a a un procesador tareas específicas.
+
+376
+00:40:32.020 --> 00:40:39.560
+Arroyo Arzubi Carlos A.: Cuando estamos en un sistema de fuertemente acoplado, la comunicación.
+
+377
+00:40:40.490 --> 00:40:43.469
+Arroyo Arzubi Carlos A.: si tiene que darse entre los procesos
+
+378
+00:40:43.880 --> 00:40:46.870
+Arroyo Arzubi Carlos A.: que se están ejecutando procesadores distintos.
+
+379
+00:40:47.630 --> 00:40:54.589
+Arroyo Arzubi Carlos A.: Se hace a través de la memoria principal. ¿por qué? Porque la memoria principal es común
+
+380
+00:40:54.960 --> 00:40:59.589
+Arroyo Arzubi Carlos A.: a todos. Entonces, obviamente, si un proceso tiene que comunicarse con otro.
+
+381
+00:41:00.120 --> 00:41:04.579
+Arroyo Arzubi Carlos A.: deja la información en una memoria, en un buzón donde sea, y el otro lo toma.
+
+382
+00:41:04.800 --> 00:41:18.230
+Arroyo Arzubi Carlos A.: No hay problema, como existen los débilmente. Lo fuertemente acoplado existe el procesamiento multiprocesamiento débilmente acoplado es débilmente acoplado.
+
+383
+00:41:19.280 --> 00:41:26.540
+Arroyo Arzubi Carlos A.: Quiero decir que se refiere a lo que se conoce como sistema distribuidos.
+
+384
+00:41:27.130 --> 00:41:34.860
+Arroyo Arzubi Carlos A.: Un sistema distribuido es un sistema formado por computadoras completas.
+
+385
+00:41:35.040 --> 00:41:43.490
+Arroyo Arzubi Carlos A.: pero que están distribuidas geográficamente en distintos lugares, obviamente interconectadas de alguna manera
+
+386
+00:41:43.650 --> 00:41:48.280
+Arroyo Arzubi Carlos A.: por algún tipo de red o no, red pero interconectadas
+
+387
+00:41:48.570 --> 00:41:58.149
+Arroyo Arzubi Carlos A.: porque tienen algún objetivo común de una empresa de pronto que tiene determinada cantidad de de computadoras distribuidas geográficamente.
+
+388
+00:41:58.810 --> 00:42:07.280
+Arroyo Arzubi Carlos A.: Si no, Si ya hablamos de las computadoras de ustedes que cada 1 tiene en su casa. No tiene ningún sentido. No es un sistema distribuido porque no hay ningún objetivo común.
+
+389
+00:42:07.420 --> 00:42:20.030
+Arroyo Arzubi Carlos A.: mientras que en el caso de de una empresa, un negocio, en vez de tener todo en una computadora, tiene varias computadoras y están ubicadas geográficamente en distintos lugares.
+
+390
+00:42:20.720 --> 00:42:25.690
+Arroyo Arzubi Carlos A.: Esto se lo llama débilmente acoplado, Ya
+
+391
+00:42:26.050 --> 00:42:29.539
+Arroyo Arzubi Carlos A.: como las computadoras. Estas no comparten nada.
+
+392
+00:42:30.630 --> 00:42:41.379
+Arroyo Arzubi Carlos A.: La comunicación entre los procesos se realiza a través de llamadas a procesos remotos, cosa que términos que ustedes ya seguramente habrán escuchado alguna vez.
+
+393
+00:42:41.910 --> 00:42:43.370
+Arroyo Arzubi Carlos A.: es decir, que
+
+394
+00:42:43.500 --> 00:42:54.470
+Arroyo Arzubi Carlos A.: la comunicación ahora es mucho más compleja, obviamente, porque hay que sincronizar los relojes, hay que establecer los protocolos para la transmisión. Bueno
+
+395
+00:42:55.230 --> 00:43:03.880
+Arroyo Arzubi Carlos A.: y, en consecuencia, cuando aparecen estos sistemas. Lo primero que aparecen
+
+396
+00:43:04.170 --> 00:43:07.780
+Arroyo Arzubi Carlos A.: son lo que se llaman software de red.
+
+397
+00:43:08.340 --> 00:43:11.330
+Arroyo Arzubi Carlos A.: es decir, que teníamos una red
+
+398
+00:43:11.460 --> 00:43:14.120
+Arroyo Arzubi Carlos A.: a un sistema distribuido. Es lo mismo
+
+399
+00:43:14.880 --> 00:43:20.529
+Arroyo Arzubi Carlos A.: donde tenemos los distintos nodos, los distintos equipos ubicados en distintos lugares.
+
+400
+00:43:20.910 --> 00:43:29.450
+Arroyo Arzubi Carlos A.: Cada 1 podía tener su propio sistema operativo y había que tener un software de red
+
+401
+00:43:29.550 --> 00:43:36.660
+Arroyo Arzubi Carlos A.: compatible con los sistemas operativos de cada 1 de los equipos, que era el que se encarga de las comunicaciones.
+
+402
+00:43:36.820 --> 00:43:47.429
+Arroyo Arzubi Carlos A.: Bueno, esto obviamente sigue existiendo el día de hoy. Se utiliza sin ningún problema, pero además, han surgido
+
+403
+00:43:47.650 --> 00:43:51.539
+Arroyo Arzubi Carlos A.: lo que se llaman sistemas operativos distribuidos.
+
+404
+00:43:52.230 --> 00:43:59.070
+Arroyo Arzubi Carlos A.: Los sistemas operativos distribuidos son sistemas operativos que hacen todo.
+
+405
+00:43:59.300 --> 00:44:05.579
+Arroyo Arzubi Carlos A.: no solamente administran cada 1 de los equipos, sino que se encargan de la comunicación
+
+406
+00:44:05.980 --> 00:44:07.780
+Arroyo Arzubi Carlos A.: entre cada 1 de ellos.
+
+407
+00:44:08.300 --> 00:44:16.930
+Arroyo Arzubi Carlos A.: Cuando se adopta un sistema operativo distribuido, cada equipo
+
+408
+00:44:17.040 --> 00:44:20.620
+Arroyo Arzubi Carlos A.: tiene un núcleo de ese sistema operativo cargado
+
+409
+00:44:21.190 --> 00:44:26.670
+Arroyo Arzubi Carlos A.: en su equipo, es decir, que todos tienen ahora el mismo sistema operativo
+
+410
+00:44:26.830 --> 00:44:30.599
+Arroyo Arzubi Carlos A.: y el mismo sistema operativo que se encarga de las comunicaciones.
+
+411
+00:44:30.890 --> 00:44:41.970
+Arroyo Arzubi Carlos A.: Obviamente, como el sistema operativo. Desde que empezamos con el monitor hasta los primeros. Llegamos ahora a sistemas operativos cada vez más
+
+412
+00:44:42.110 --> 00:44:52.130
+Arroyo Arzubi Carlos A.: robustos y que realizan muchas más funciones. Este realiza todas las funciones que hasta hoy se manejan Ahora.
+
+413
+00:44:53.120 --> 00:44:55.340
+Arroyo Arzubi Carlos A.: ¿cuál sería la ventaja
+
+414
+00:44:55.580 --> 00:45:06.270
+Arroyo Arzubi Carlos A.: de tener un sistema operativo distribuido a tener un software de red y los equipos, cada 1 con su sistema operativo. Bueno, a
+
+415
+00:45:06.960 --> 00:45:16.720
+Arroyo Arzubi Carlos A.: la ventaja a nivel del usuario. Sería una cuestión más que nada de facilidad de de comodidad.
+
+416
+00:45:17.140 --> 00:45:27.660
+Arroyo Arzubi Carlos A.: porque si yo tengo un sistema operativo distribuido, los recursos de ese sistema distribuido los recursos que cada 1 de los integrantes
+
+417
+00:45:27.800 --> 00:45:31.270
+Arroyo Arzubi Carlos A.: pone a disposición en la red
+
+418
+00:45:31.720 --> 00:45:40.620
+Arroyo Arzubi Carlos A.: el un usuario, un usuario, 1 en un nodo, un usuario de este sistema, esos recursos
+
+419
+00:45:40.770 --> 00:45:46.600
+Arroyo Arzubi Carlos A.: que están puestos a disposición, Él los ve como si los tuviera en su escritorio.
+
+420
+00:45:46.850 --> 00:45:59.399
+Arroyo Arzubi Carlos A.: es decir, donde aparecen en el escritorio. ¿qué sé yo. La base de datos personal que la tiene la computadora que está en Córdoba, por ejemplo, yo no tengo que saber que está en Córdoba ni nada. Yo veo
+
+421
+00:45:59.400 --> 00:46:07.800
+Arroyo Arzubi Carlos A.: el icono de la base de datos en mi escritorio, es decir, que le facilitó aún más a los usuarios
+
+422
+00:46:08.150 --> 00:46:10.600
+Arroyo Arzubi Carlos A.: ese esa comunicación.
+
+423
+00:46:12.370 --> 00:46:18.800
+Arroyo Arzubi Carlos A.: Bueno, hasta aquí,
+
+424
+00:46:19.210 --> 00:46:26.260
+Arroyo Arzubi Carlos A.: Los sistemas operativos, estos, yo hablé de interrupciones. Ya voy a hablar un poco más cuando avance un poquito más con esto.
+
+425
+00:46:26.960 --> 00:46:31.970
+Arroyo Arzubi Carlos A.: cuando hacen una llamada al sistema operativo y
+
+426
+00:46:32.440 --> 00:46:34.689
+Arroyo Arzubi Carlos A.: genera lo que se llama una interrupción.
+
+427
+00:46:35.420 --> 00:46:38.020
+Arroyo Arzubi Carlos A.: Bueno, hablo de la interrupción así total.
+
+428
+00:46:38.600 --> 00:46:41.240
+Arroyo Arzubi Carlos A.: La interrupción es una señal eléctrica
+
+429
+00:46:41.920 --> 00:46:44.699
+Arroyo Arzubi Carlos A.: que indica que se ha producido un evento.
+
+430
+00:46:45.660 --> 00:46:50.820
+Arroyo Arzubi Carlos A.: el sistema operativo va a interpretar de acuerdo a la intensidad
+
+431
+00:46:50.940 --> 00:46:53.809
+Arroyo Arzubi Carlos A.: de la señal eléctrica, esta que se produce.
+
+432
+00:46:54.090 --> 00:47:00.720
+Arroyo Arzubi Carlos A.: ¿cuál es el tipo de evento que se ha producido producido el evento.
+
+433
+00:47:01.050 --> 00:47:05.090
+Arroyo Arzubi Carlos A.: Un evento puede ser ya pedir los datos de González digo para que
+
+434
+00:47:05.370 --> 00:47:13.629
+Arroyo Arzubi Carlos A.: no se imaginen otra cosa, pues sí que haya habido un error en la comunicación que bueno que sea cualquier interrupción, producto de software, no
+
+435
+00:47:13.810 --> 00:47:17.109
+Arroyo Arzubi Carlos A.: o de de hardware.
+
+436
+00:47:18.220 --> 00:47:25.899
+Arroyo Arzubi Carlos A.: Y bueno, cuando el sistema operativo atiende una interrupción de esta.
+
+437
+00:47:26.200 --> 00:47:37.859
+Arroyo Arzubi Carlos A.: lo que hace es ejecutar línea de código, y, es decir, ejecutar una rutina, estas rutinas
+
+438
+00:47:37.970 --> 00:47:42.470
+Arroyo Arzubi Carlos A.: que ejecuta de acuerdo al tipo de evento que sea, que es lo que tiene que hacer.
+
+439
+00:47:43.010 --> 00:47:49.470
+Arroyo Arzubi Carlos A.: Se las llama operaciones atómicas, que es una operación atómica.
+
+440
+00:47:50.010 --> 00:47:57.129
+Arroyo Arzubi Carlos A.: Es una operación, es una cantidad de líneas de código que no se interrumpen.
+
+441
+00:47:57.550 --> 00:48:02.399
+Arroyo Arzubi Carlos A.: es decir, que el sistema operativo, cuando ejecuta
+
+442
+00:48:02.990 --> 00:48:06.799
+Arroyo Arzubi Carlos A.: una rutina, esa rutina no se interrumpe.
+
+443
+00:48:07.390 --> 00:48:24.310
+Arroyo Arzubi Carlos A.: se ejecuta hasta que se termina y después se sigue con otra actividad. Fíjese que nosotros, los procesos, los podíamos interrumpir. Por ejemplo, cuando se le acaba el quantum de tiempo, acá el sistema operativo, las rutinas que son propias de él, no las interrumpe.
+
+444
+00:48:24.470 --> 00:48:33.770
+Arroyo Arzubi Carlos A.: Estos los sistemas operativos, digamos, convencionales, por decirlo de alguna manera que son la gran mayoría.
+
+445
+00:48:40.150 --> 00:48:44.110
+Arroyo Arzubi Carlos A.: Vamos a hablar ahora también de otro tipo de sistema operativo.
+
+446
+00:48:44.800 --> 00:48:52.029
+Arroyo Arzubi Carlos A.: Por eso que no es tan convencional como estos otros tan común como estos otros, que son los sistemas de tiempo real.
+
+447
+00:48:54.100 --> 00:48:59.130
+Arroyo Arzubi Carlos A.: Los sistemas de tiempo real son sistemas operativos.
+
+448
+00:48:59.720 --> 00:49:11.249
+Arroyo Arzubi Carlos A.: Te administran tiempo real que van a tener lenguajes de programación que programen en tiempo real.
+
+449
+00:49:11.550 --> 00:49:16.850
+Arroyo Arzubi Carlos A.: con lo cual resulta ser más caro porque se usan menos.
+
+450
+00:49:17.640 --> 00:49:19.630
+Arroyo Arzubi Carlos A.: Hay menos gente que los maneje.
+
+451
+00:49:19.760 --> 00:49:20.770
+Arroyo Arzubi Carlos A.: Pero, bueno.
+
+452
+00:49:21.130 --> 00:49:29.220
+Arroyo Arzubi Carlos A.: son sí, lo que mencioné, lo del lenguaje de programación, porque todo tiene que ser compatible para que pueda tener un sistema de tiempo real.
+
+453
+00:49:30.910 --> 00:49:38.890
+Arroyo Arzubi Carlos A.: Pero bueno que es un sistema de tiempo real, porque lo interesante es saber que qué es y
+
+454
+00:49:39.130 --> 00:49:51.970
+Arroyo Arzubi Carlos A.: bueno. Los sistemas operativos de tiempo real surgen como una necesidad de determinados procesos que son extremadamente exigentes
+
+455
+00:49:52.110 --> 00:50:04.310
+Arroyo Arzubi Carlos A.: en su tiempo de respuesta, es decir, cuando tenemos aplicaciones que que son muy críticas, entonces nos vemos obligados
+
+456
+00:50:04.680 --> 00:50:11.169
+Arroyo Arzubi Carlos A.: a recurrir a este tema de sistemas operativos para justamente poder estar
+
+457
+00:50:11.370 --> 00:50:13.819
+Arroyo Arzubi Carlos A.: a tono con el requerimiento que tenemos.
+
+458
+00:50:15.470 --> 00:50:19.580
+Arroyo Arzubi Carlos A.: Por ejemplo, si yo tengo que hacer un un software
+
+459
+00:50:19.700 --> 00:50:28.200
+Arroyo Arzubi Carlos A.: para un avión supersónico donde en tiempo de respuesta, cada milisegundo es dramático.
+
+460
+00:50:28.320 --> 00:50:35.620
+Arroyo Arzubi Carlos A.: Bueno, entonces tendré que recurrir a sistemas de estas características.
+
+461
+00:50:36.330 --> 00:50:44.880
+Arroyo Arzubi Carlos A.: Yo siempre doy un ejemplo. Lo voy a volver a dar a pesar de que no entiendo mucho del tema, pero me parece que bastante gráfico.
+
+462
+00:50:45.340 --> 00:50:52.279
+Arroyo Arzubi Carlos A.: Es decir, yo suelo dar ejemplos bastante bobo, como ustedes han visto o o se van a ir dando cuenta, pero que
+
+463
+00:50:52.410 --> 00:50:54.130
+Arroyo Arzubi Carlos A.: creo que son claros.
+
+464
+00:50:54.660 --> 00:50:59.610
+Arroyo Arzubi Carlos A.: Supongamos que nosotros tenemos que hacer un software
+
+465
+00:50:59.920 --> 00:51:04.850
+Arroyo Arzubi Carlos A.: para controlar la seguridad de una central nuclear
+
+466
+00:51:06.600 --> 00:51:08.990
+Arroyo Arzubi Carlos A.: si tenemos que hacer un programa
+
+467
+00:51:09.830 --> 00:51:13.690
+Arroyo Arzubi Carlos A.: que tendrá sensores las distintas partes de la planta
+
+468
+00:51:14.310 --> 00:51:16.369
+Arroyo Arzubi Carlos A.: para ver que en la planta
+
+469
+00:51:16.570 --> 00:51:19.930
+Arroyo Arzubi Carlos A.: todo funciona adecuadamente y si algo
+
+470
+00:51:20.120 --> 00:51:27.970
+Arroyo Arzubi Carlos A.: está funcionando mal las medidas que haya que tomar se tomen rápidamente, porque estamos hablando
+
+471
+00:51:28.140 --> 00:51:43.359
+Arroyo Arzubi Carlos A.: de algo que es muy peligroso: una planta de energía nucal nuclear. Ustedes saben que eso sí lo sabemos todos, son muy peligrosas porque cualquier inconveniente que puedan tener la radiación. Bueno, nada, eso ya lo sabe.
+
+472
+00:51:43.520 --> 00:51:49.029
+Arroyo Arzubi Carlos A.: Entonces supongamos que yo tengo mi sistema hecho
+
+473
+00:51:49.700 --> 00:51:57.520
+Arroyo Arzubi Carlos A.: en con un software, con con un sistema operativo convencional, entonces de pronto acá invento
+
+474
+00:51:57.930 --> 00:52:02.170
+Arroyo Arzubi Carlos A.: se produce el derrame de agua pesada. Supongamos
+
+475
+00:52:02.690 --> 00:52:08.970
+Arroyo Arzubi Carlos A.: entonces 1 de los sensores que controla eso detecta el derrame de agua pesada.
+
+476
+00:52:09.240 --> 00:52:11.270
+Arroyo Arzubi Carlos A.: Entonces el sistema operativo
+
+477
+00:52:11.410 --> 00:52:22.239
+Arroyo Arzubi Carlos A.: le llega la interrupción, el evento que pérdida de agua pesada. Entonces, el sistema que pone a ejecutar pone a ejecutar
+
+478
+00:52:22.830 --> 00:52:35.360
+Arroyo Arzubi Carlos A.: la la rutina que tenga que atender el tema este del agua pesada, para que deje de cerrar la la compuerta que se yo lo que tenga que hacer.
+
+479
+00:52:36.320 --> 00:52:38.749
+Arroyo Arzubi Carlos A.: Bueno, ahí no hay ningún problema.
+
+480
+00:52:39.460 --> 00:52:44.739
+Arroyo Arzubi Carlos A.: Ahora, ¿qué pasaría si cuando me está,
+
+481
+00:52:45.120 --> 00:52:55.580
+Arroyo Arzubi Carlos A.: me está ejecutando la rutina de atender. El evento del agua pesada me salta otro sensor que está
+
+482
+00:52:55.830 --> 00:53:00.279
+Arroyo Arzubi Carlos A.: testeando la temperatura del reactor, por ejemplo.
+
+483
+00:53:01.070 --> 00:53:09.289
+Arroyo Arzubi Carlos A.: y me da la alarma de que el reactor, su temperatura aumentó nada. No importa va mucho
+
+484
+00:53:10.600 --> 00:53:13.200
+Arroyo Arzubi Carlos A.: si tenemos un sistema convencional.
+
+485
+00:53:14.110 --> 00:53:18.829
+Arroyo Arzubi Carlos A.: El sistema convencional va a esperar a ejecutar la rutina del agua pesada.
+
+486
+00:53:19.500 --> 00:53:23.160
+Arroyo Arzubi Carlos A.: Y una vez que termine con eso, va a tender a
+
+487
+00:53:23.270 --> 00:53:27.499
+Arroyo Arzubi Carlos A.: la rutina para bajar la temperatura del reactor
+
+488
+00:53:29.050 --> 00:53:39.209
+Arroyo Arzubi Carlos A.: cuando nosotros hablamos de sistemas de tiempo real, Estos sistemas de tiempo real permiten interrumpir las interrupciones.
+
+489
+00:53:39.450 --> 00:53:41.049
+Arroyo Arzubi Carlos A.: es decir, permiten
+
+490
+00:53:41.470 --> 00:53:51.220
+Arroyo Arzubi Carlos A.: ser mucho más exigentes en cuanto a las prioridades, es decir, que si hay un proceso que se está ejecutando y hay otro que tiene prioridad.
+
+491
+00:53:51.790 --> 00:53:54.230
+Arroyo Arzubi Carlos A.: entonces le da
+
+492
+00:53:54.690 --> 00:54:04.390
+Arroyo Arzubi Carlos A.: prioridad al más importante. Esto lo hace a través de un manejo de interrupciones que le permite. Son herramientas que tiene
+
+493
+00:54:04.770 --> 00:54:09.799
+Arroyo Arzubi Carlos A.: el que programa la aplicación para poder manejar esto.
+
+494
+00:54:10.060 --> 00:54:14.819
+Arroyo Arzubi Carlos A.: Es decir, que creo que con esto, de alguna manera se comprende
+
+495
+00:54:14.960 --> 00:54:32.750
+Arroyo Arzubi Carlos A.: el tema de tiempo real, tiempo real. No es cualquier cosa que nos mandan a nosotros que me dice usted acá lo atendemos en tiempo real. No me entienden en línea, y yo espero 2, 3, s, 4, s. Diez segundos. Eso no es tiempo real, pero como las palabras se usan de manera ligera.
+
+496
+00:54:33.050 --> 00:54:43.890
+Arroyo Arzubi Carlos A.: En informática se usa mucho. Ahora, por ejemplo, todo tiene inteligencia artificial. Parece que todo lo que está escrito es todo con inteligencia mía. No hay. No hay más código, ya todo inteligencia artificial. Bueno, está bien.
+
+497
+00:54:44.340 --> 00:54:46.019
+Arroyo Arzubi Carlos A.: aquí se venden las cosas.
+
+498
+00:54:46.630 --> 00:54:53.629
+Arroyo Arzubi Carlos A.: No es que no la tenga. Pero por ahí tienen 2 por 100 y después me la venden con inteligencia artificial. Y el 98 por 100 no lo tiene.
+
+499
+00:54:54.500 --> 00:54:56.110
+ARON FRAGA: El personaje.
+
+500
+00:54:57.190 --> 00:55:00.840
+ARON FRAGA: Son los famosos sistemas operativos. No sé si se llama los temas de los R. Dos.
+
+501
+00:55:01.230 --> 00:55:03.130
+ARON FRAGA: R. T, O. S, Creo que se llama.
+
+502
+00:55:03.710 --> 00:55:05.450
+Arroyo Arzubi Carlos A.: Y puede ser, No estoy seguro.
+
+503
+00:55:06.140 --> 00:55:06.750
+ARON FRAGA: Okay.
+
+504
+00:55:07.090 --> 00:55:16.640
+Arroyo Arzubi Carlos A.: No lo sé. Yo conozco el otro, que no es ese, pero no importa. El sistema operativo de tiempo real tiene esta condición. Pero además.
+
+505
+00:55:16.900 --> 00:55:25.430
+Arroyo Arzubi Carlos A.: cuando 1 escribe un sistema operativo, Fíjense que lo escribe una persona, ¿ Lo escriben humanos como nosotros.
+
+506
+00:55:25.810 --> 00:55:32.489
+Arroyo Arzubi Carlos A.: Bueno, ponerle como eres, entonces el que lo escribe tiene que tener además 2 objetivos
+
+507
+00:55:33.740 --> 00:55:41.650
+Arroyo Arzubi Carlos A.: que no necesariamente también lo puede tener para un sistema operativo común, pero que en este caso se hace prioritario.
+
+508
+00:55:42.560 --> 00:55:49.769
+Arroyo Arzubi Carlos A.: Esos objetivos son 2 tolerancia a fallos y degradación parcial.
+
+509
+00:55:51.330 --> 00:55:53.839
+Arroyo Arzubi Carlos A.: ¿qué es tolerancia a fallo.
+
+510
+00:55:54.110 --> 00:56:01.029
+Arroyo Arzubi Carlos A.: tolerancia, fallo. Quiere decir que se producen fallas en mi sistema de compu de cómputo.
+
+511
+00:56:01.180 --> 00:56:07.440
+Arroyo Arzubi Carlos A.: el mismo sistema operativo, la resuelva Mhm
+
+512
+00:56:07.630 --> 00:56:14.689
+Arroyo Arzubi Carlos A.: obviamente Esto tiene que estar escrito cuando el que escribe el sistema operativo tendrá que escribir.
+
+513
+00:56:14.910 --> 00:56:17.550
+Arroyo Arzubi Carlos A.: ¿qué sé, yo, se me afectó una.
+
+514
+00:56:17.750 --> 00:56:31.719
+Arroyo Arzubi Carlos A.: ¿Qué se llevó un canal de comunicaciones. Cambio. El otro canal de comunicaciones. Sin jorobar a nadie se me afectó una parte de la memoria que no funciona. Lo llevó a una parte de memoria que funciona.
+
+515
+00:56:31.890 --> 00:56:34.720
+Arroyo Arzubi Carlos A.: es decir, tolerancia a fallos. ¿es eso
+
+516
+00:56:35.710 --> 00:56:39.570
+Arroyo Arzubi Carlos A.: no que tenga que venir, alguien instalarlo de vuelta o lo que sea.
+
+517
+00:56:40.470 --> 00:56:51.060
+Arroyo Arzubi Carlos A.: y la degradación parcial tiene que ver que si de pronto yo estoy perdiendo
+
+518
+00:56:51.670 --> 00:56:56.900
+Arroyo Arzubi Carlos A.: partes de de mi sistema por algún motivo, por ejemplo, memoria, Pónganle
+
+519
+00:56:57.900 --> 00:56:59.689
+Arroyo Arzubi Carlos A.: y a mí no me alcanza
+
+520
+00:56:59.900 --> 00:57:02.030
+Arroyo Arzubi Carlos A.: lo que me queda de memoria
+
+521
+00:57:02.840 --> 00:57:06.820
+Arroyo Arzubi Carlos A.: para tener todo el sistema operativo.
+
+522
+00:57:07.430 --> 00:57:18.420
+Arroyo Arzubi Carlos A.: El sistema debe determinar qué partes mantiene funcionando y qué partes sacrifica, ¿
+
+523
+00:57:18.800 --> 00:57:22.199
+Arroyo Arzubi Carlos A.: Es decir, que la degradación parcial implica
+
+524
+00:57:23.180 --> 00:57:28.090
+Arroyo Arzubi Carlos A.: preservar las funciones básicas más importantes.
+
+525
+00:57:29.030 --> 00:57:33.409
+Arroyo Arzubi Carlos A.: Yo, muchas veces doy un ejemplo que es medio dramático, pero sí sí se mira.
+
+526
+00:57:33.510 --> 00:57:41.970
+Arroyo Arzubi Carlos A.: Tengo que entregar una parte de mi cuerpo. No voy a entregar la cabeza. Le entrego un pie entrego un brazo. No voy a entregar la cabeza. Bueno, Esto es
+
+527
+00:57:42.090 --> 00:57:51.240
+Arroyo Arzubi Carlos A.: explicado a la bestia, como dicen los españoles, la degradación parcial, yo, pero el sistema lo tiene que tener a
+
+528
+00:57:51.360 --> 00:57:53.000
+Arroyo Arzubi Carlos A.: programado, ya.
+
+529
+00:57:53.610 --> 00:58:01.570
+Arroyo Arzubi Carlos A.: es decir, que el que programa un sistema de tiempo real tiene que tener en cuenta estas condiciones, que yo he visto
+
+530
+00:58:03.870 --> 00:58:04.720
+Arroyo Arzubi Carlos A.: bueno.
+
+531
+00:58:06.120 --> 00:58:08.530
+FRANCO EMMANUEL SICARDO: Me quedó una única duda con esto.
+
+532
+00:58:08.530 --> 00:58:09.200
+Arroyo Arzubi Carlos A.: Bueno.
+
+533
+00:58:09.350 --> 00:58:19.520
+FRANCO EMMANUEL SICARDO: Se ejecuta exactamente igual que un 1 multiproceso, simplemente que cambia esto de que tiene prioridades de proceso.
+
+534
+00:58:21.010 --> 00:58:30.349
+Arroyo Arzubi Carlos A.: Es cualquier sistema de estos, puede estar con multiprocesamiento o multiprogramación o mono programación.
+
+535
+00:58:30.670 --> 00:58:31.830
+Arroyo Arzubi Carlos A.: Me explico.
+
+536
+00:58:32.130 --> 00:58:42.040
+Arroyo Arzubi Carlos A.: es decir, depende del sistema que yo tenga que yo voy a utilizar 2 procesadores, 1 o lo que sea. Si yo tengo
+
+537
+00:58:42.240 --> 00:58:47.169
+Arroyo Arzubi Carlos A.: una aplicación que es muy crítica, parecería lo más razonable
+
+538
+00:58:47.420 --> 00:58:49.820
+Arroyo Arzubi Carlos A.: tener ese solo programa de ejecución.
+
+539
+00:58:51.240 --> 00:58:52.280
+Arroyo Arzubi Carlos A.: ¿correcto?
+
+540
+00:58:53.340 --> 00:59:10.229
+Arroyo Arzubi Carlos A.: Y bueno, porque ahí no tengo que hacer multiprogramación de mi sistema con de con otro. Pero bueno, no es que sea condición que tenga que cumplirla, dependerá del sistema que yo tenga del hardware que yo tenga de la arquitectura que yo tenga. No sé si contesta la pregunta.
+
+541
+00:59:11.790 --> 00:59:12.269
+FRANCO EMMANUEL SICARDO: Sí, Sí.
+
+542
+00:59:12.270 --> 00:59:17.039
+Arroyo Arzubi Carlos A.: Sí componente de un sistema operativo.
+
+543
+00:59:18.480 --> 00:59:22.759
+Arroyo Arzubi Carlos A.: Seguimos con otro tema componente de un sistema operativo.
+
+544
+00:59:27.600 --> 00:59:39.490
+Arroyo Arzubi Carlos A.: Bueno, creo que algo ya dijimos, el sistema operativo tiene básicamente 3 capas: el núcleo, los servicios y
+
+545
+00:59:39.700 --> 00:59:42.029
+Arroyo Arzubi Carlos A.: los mandatos de usuario.
+
+546
+00:59:42.290 --> 00:59:44.400
+Arroyo Arzubi Carlos A.: Podemos imaginar algo así.
+
+547
+00:59:44.730 --> 00:59:53.870
+Arroyo Arzubi Carlos A.: Y los servicios que que que tenemos, por mencionar. Algunos lo tienen La biografía. Lo menciono para por mencionar
+
+548
+00:59:54.040 --> 01:00:00.540
+Arroyo Arzubi Carlos A.: gestión de procesos, gestión y administración. Recuerden que es lo mismo. Gestión de memoria.
+
+549
+01:00:00.790 --> 01:00:06.710
+Arroyo Arzubi Carlos A.: gestión de operaciones de entrada, salida, gestión de almacenamiento secundario
+
+550
+01:00:07.640 --> 01:00:12.060
+Arroyo Arzubi Carlos A.: y funciona de soporte. Bueno, todo esto es un poco violeta.
+
+551
+01:00:13.840 --> 01:00:16.739
+Arroyo Arzubi Carlos A.: Vamos ahora a otro tema que es más interesante.
+
+552
+01:00:17.920 --> 01:00:21.619
+Arroyo Arzubi Carlos A.: Tengo que apurar arquitectura de los sistemas operativos.
+
+553
+01:00:22.490 --> 01:00:23.440
+Arroyo Arzubi Carlos A.: Esto
+
+554
+01:00:27.760 --> 01:00:30.320
+Arroyo Arzubi Carlos A.: la arquitectura de los sistemas operativos.
+
+555
+01:00:30.730 --> 01:00:37.510
+Arroyo Arzubi Carlos A.: Ustedes, cuando vean software, también van a tener que definir la arquitectura del software que ustedes van a desarrollar.
+
+556
+01:00:37.950 --> 01:00:47.840
+Arroyo Arzubi Carlos A.: Y esto sistema operativo es software, entonces también tiene distintas arquitecturas, una arquitectura. Se llama monoholística.
+
+557
+01:00:49.240 --> 01:00:54.570
+Arroyo Arzubi Carlos A.: Aquellos sistemas operativos que adoptan la arquitectura monolítica
+
+558
+01:00:55.150 --> 01:01:01.410
+Arroyo Arzubi Carlos A.: Podemos decir que no tienen una estructura clara y definida
+
+559
+01:01:01.850 --> 01:01:12.009
+Arroyo Arzubi Carlos A.: dentro de ese gran programa. Es como imaginar un gran programa donde están todas las funciones ahí adentro
+
+560
+01:01:12.440 --> 01:01:21.250
+Arroyo Arzubi Carlos A.: y se ejecutan en modo núcleo, es decir, que no hace ninguna llamada a ningún proceso
+
+561
+01:01:21.570 --> 01:01:31.459
+Arroyo Arzubi Carlos A.: que esté por fuera, como si fuera un usuario. Cuando el sistema operativo llama a un usuario a un proceso que esté afuera, está todo en un gran paquete.
+
+562
+01:01:32.160 --> 01:01:33.020
+Arroyo Arzubi Carlos A.: ¿
+
+563
+01:01:33.210 --> 01:01:36.700
+Arroyo Arzubi Carlos A.: Y ahí desarrolla todas las funciones.
+
+564
+01:01:36.920 --> 01:01:43.420
+Arroyo Arzubi Carlos A.: Estos sistemas monolíticos son muy rápidos
+
+565
+01:01:43.620 --> 01:01:47.099
+Arroyo Arzubi Carlos A.: porque está todo cargado al modo núcleo, digamos.
+
+566
+01:01:47.370 --> 01:02:00.989
+Arroyo Arzubi Carlos A.: y entonces no se pierde tiempo llamando. Y pero tienen el el inconveniente a nivel de de software
+
+567
+01:02:02.110 --> 01:02:04.500
+Arroyo Arzubi Carlos A.: que el mantenimiento es más complicado.
+
+568
+01:02:05.520 --> 01:02:12.080
+Arroyo Arzubi Carlos A.: Pero, ¿por qué yo creo que les dije, y si no lo digo ahora, cuando 1 desarrolla un software.
+
+569
+01:02:12.430 --> 01:02:15.350
+Arroyo Arzubi Carlos A.: la principal preocupación que tiene que tener
+
+570
+01:02:15.560 --> 01:02:18.550
+Arroyo Arzubi Carlos A.: es que mañana lo va a tener que modificar.
+
+571
+01:02:19.740 --> 01:02:23.809
+Arroyo Arzubi Carlos A.: Entonces, cuando 1 tiene que modificar un software.
+
+572
+01:02:24.610 --> 01:02:33.319
+Arroyo Arzubi Carlos A.: va a depender del diseño de un buen diseño que haya hecho de una buena arquitectura que haya hecho
+
+573
+01:02:34.250 --> 01:02:39.460
+Arroyo Arzubi Carlos A.: que esa modificación sea más simple o más compleja.
+
+574
+01:02:40.130 --> 01:02:53.920
+Arroyo Arzubi Carlos A.: Cuando nosotros tenemos todo un software monolítico en este gran programa, cuando tenemos que cambiar a ver.
+
+575
+01:02:54.850 --> 01:02:58.590
+Arroyo Arzubi Carlos A.: ustedes tienen que imaginar que
+
+576
+01:02:59.460 --> 01:03:04.450
+Arroyo Arzubi Carlos A.: lo que pasa es que la palabra programa se utiliza a veces de distintas maneras.
+
+577
+01:03:06.580 --> 01:03:12.920
+Arroyo Arzubi Carlos A.: A mí no me gusta usarla así. La uso porque la biografía también la uso así, pero para mí el programa es un programa.
+
+578
+01:03:14.120 --> 01:03:17.360
+Arroyo Arzubi Carlos A.: una cantidad de secuencias en línea de código.
+
+579
+01:03:17.600 --> 01:03:27.080
+Arroyo Arzubi Carlos A.: Eso es un programa, una aplicación o un sistema operativo está formado por muchos programas.
+
+580
+01:03:28.270 --> 01:03:33.190
+Arroyo Arzubi Carlos A.: Muchos usan la palabra programa y programa, y la verdad que son cosas distintas.
+
+581
+01:03:33.750 --> 01:03:38.770
+Arroyo Arzubi Carlos A.: Mhm: Porque cuando yo tengo un sistema operativo.
+
+582
+01:03:39.210 --> 01:03:45.030
+Arroyo Arzubi Carlos A.: Ese sistema operativo tendrá 500 programas. Por ejemplo, si yo tengo
+
+583
+01:03:45.150 --> 01:03:47.869
+Arroyo Arzubi Carlos A.: entendiendo por programa lo que acabo de decir, no.
+
+584
+01:03:48.040 --> 01:03:52.819
+Arroyo Arzubi Carlos A.: La cantidad de líneas de código escritas por 1, escribe toda esta secuencia. Y todo eso es un programa.
+
+585
+01:03:53.560 --> 01:03:56.269
+Arroyo Arzubi Carlos A.: Si ustedes hacen una mano. Una aplicación cualquiera
+
+586
+01:03:57.190 --> 01:04:04.730
+Arroyo Arzubi Carlos A.: administración de de la Universidad de Palermo. Cualquiera cualquier aplicación por menor que sea, son un montón de programas.
+
+587
+01:04:06.360 --> 01:04:15.030
+Arroyo Arzubi Carlos A.: y esos programas se van llamando 1 al otro y se va ejecutando entonces esos programas, si están
+
+588
+01:04:15.480 --> 01:04:22.029
+Arroyo Arzubi Carlos A.: no con una arquitectura definida, sino una, como en este caso monolítica.
+
+589
+01:04:23.130 --> 01:04:32.779
+Arroyo Arzubi Carlos A.: ¿qué ocurre yo? Por ejemplo, voy a cambiar un programa, no cambio, un programa del sistema operativo.
+
+590
+01:04:34.490 --> 01:04:42.490
+Arroyo Arzubi Carlos A.: Y al cambiar ese programa para que haga algo mejor, o porque encontramos un error, o porque hay que cambiarlo, por lo que sea.
+
+591
+01:04:44.270 --> 01:04:47.189
+Arroyo Arzubi Carlos A.: Puede ser que yo lo arregle bien a ese programa
+
+592
+01:04:48.460 --> 01:04:51.590
+Arroyo Arzubi Carlos A.: y que deje el error en otro programa.
+
+593
+01:04:52.890 --> 01:04:54.010
+Arroyo Arzubi Carlos A.: Me explico
+
+594
+01:04:54.950 --> 01:05:01.749
+Arroyo Arzubi Carlos A.: eso porque está todo muy mezclado. No sé cómo explicarlo cuando vea el diseño del sistema. Lo deberían ver
+
+595
+01:05:02.270 --> 01:05:06.470
+Arroyo Arzubi Carlos A.: Cuando vean ustedes algo, han visto y han visto mínimo
+
+596
+01:05:06.860 --> 01:05:11.339
+Arroyo Arzubi Carlos A.: máxima cohesión y mínimo acoplamiento. Lo has visto.
+
+597
+01:05:11.590 --> 01:05:20.640
+Arroyo Arzubi Carlos A.: Creo que al alguna cosa han visto, pero bueno. Bueno. Entonces, cuando 1 desarrolla un sistema, un software.
+
+598
+01:05:21.450 --> 01:05:28.380
+Arroyo Arzubi Carlos A.: Pretende que ese sistema estoy extendiéndome un poco más de lo que sería el tema. Pero bueno
+
+599
+01:05:28.570 --> 01:05:33.330
+Arroyo Arzubi Carlos A.: que ese sistema va a estar formado por módulos
+
+600
+01:05:33.440 --> 01:05:35.760
+Arroyo Arzubi Carlos A.: esos módulos. Cada módulo es un programa.
+
+601
+01:05:37.130 --> 01:05:39.989
+Arroyo Arzubi Carlos A.: entonces 1 quiere que esos módulos
+
+602
+01:05:40.680 --> 01:05:47.520
+Arroyo Arzubi Carlos A.: tengan máxima cohesión y mínimo, acoplamiento máxima cohesión que significa que cumplan una sola función.
+
+603
+01:05:48.050 --> 01:06:03.609
+Arroyo Arzubi Carlos A.: Es decir, si yo estoy hablando de un sistema de palermo, digo, bueno, tengo un programa que eje que calcula el promedio y calcula las becas? No, No, no, no. El módulo, un módulo para calcular el promedio. Otro módulo para calcular las becas.
+
+604
+01:06:03.840 --> 01:06:06.820
+Arroyo Arzubi Carlos A.: Es decir, que hablar de máxima
+
+605
+01:06:07.100 --> 01:06:11.489
+Arroyo Arzubi Carlos A.: cohesión es que desarrolle una sola función.
+
+606
+01:06:12.040 --> 01:06:14.920
+Arroyo Arzubi Carlos A.: Entonces yo, si tengo que corregir algo.
+
+607
+01:06:15.890 --> 01:06:21.620
+Arroyo Arzubi Carlos A.: porque si tengo que corregir que está haciendo mal el cálculo de los promedios, voy a agarrar solamente ese módulo.
+
+608
+01:06:22.350 --> 01:06:23.999
+Arroyo Arzubi Carlos A.: Eso es máxima cohesión
+
+609
+01:06:25.900 --> 01:06:32.810
+Arroyo Arzubi Carlos A.: y mínimo acoplamiento, porque se utiliza el concepto de la palabra mínimo acoplamiento, porque no se puede evitar
+
+610
+01:06:32.960 --> 01:06:35.080
+Arroyo Arzubi Carlos A.: el acoplamiento 100 por 100.
+
+611
+01:06:35.920 --> 01:06:41.290
+Arroyo Arzubi Carlos A.: ¿qué significa a ver si no mejoró hazlo poco.
+
+612
+01:06:45.660 --> 01:06:48.630
+Arroyo Arzubi Carlos A.: Vamos a ver molesta por
+
+613
+01:06:55.010 --> 01:07:02.110
+Arroyo Arzubi Carlos A.: yo. Tengo acá. Un programa, ya acá la línea de código
+
+614
+01:07:04.570 --> 01:07:15.870
+Arroyo Arzubi Carlos A.: máxima cohesión es que entra un dato y sale el dato y se acabó una sola función. Ya empiezan a dar vuelta, pero digo, ¿por qué mueven? Los no pueden dejarlo quieto?
+
+615
+01:07:18.230 --> 01:07:20.560
+Arroyo Arzubi Carlos A.: Bueno y
+
+616
+01:07:20.900 --> 01:07:28.700
+Arroyo Arzubi Carlos A.: mínimo. Acoplamiento. Quiere decir que yo ejecuto Acá líneas de código. Y Acá yo voy a tener de pronto otros procesos.
+
+617
+01:07:33.500 --> 01:07:37.149
+Arroyo Arzubi Carlos A.: Ejecuto, línea de código. Vamos a cambiar el color para que se vea mejor.
+
+618
+01:07:38.160 --> 01:07:42.519
+Arroyo Arzubi Carlos A.: ejecute. Va ejecutando este proceso. Llego Acá y este
+
+619
+01:07:42.700 --> 01:07:46.859
+Arroyo Arzubi Carlos A.: necesita de este proceso y éste le devuelve.
+
+620
+01:07:47.060 --> 01:07:56.270
+Arroyo Arzubi Carlos A.: Sigo ejecutando. Y este ejecuto llama a este otro proceso y este le devuelve, y este sigue hasta que termina
+
+621
+01:07:56.720 --> 01:08:01.920
+Arroyo Arzubi Carlos A.: bueno, esto es el acoplamiento.
+
+622
+01:08:03.270 --> 01:08:07.579
+Arroyo Arzubi Carlos A.: es decir, que es un objetivo que se busca que tenga lo mínimo de esto, porque
+
+623
+01:08:07.700 --> 01:08:11.280
+Arroyo Arzubi Carlos A.: porque yo puede ser que yo cambie algo en este proceso
+
+624
+01:08:11.470 --> 01:08:13.880
+Arroyo Arzubi Carlos A.: y este proceso me haya quedado bien.
+
+625
+01:08:14.600 --> 01:08:16.700
+Arroyo Arzubi Carlos A.: Pero en el cambio que yo hago
+
+626
+01:08:17.649 --> 01:08:27.479
+Arroyo Arzubi Carlos A.: acá le genere a este, en alguna variable o algo algún cambio que cuando otro proceso ejecute
+
+627
+01:08:27.840 --> 01:08:31.850
+Arroyo Arzubi Carlos A.: esta este módulo, el resultado sea malo.
+
+628
+01:08:32.760 --> 01:08:36.439
+Arroyo Arzubi Carlos A.: Mhm, es decir, eso es el
+
+629
+01:08:36.779 --> 01:08:44.499
+Arroyo Arzubi Carlos A.: tema del acoplamiento. Bueno, dejemos esto. Ah, no, yo lo que había visto acá bueno ahí. Bien.
+
+630
+01:08:45.200 --> 01:08:50.769
+Arroyo Arzubi Carlos A.: es decir, que a los efectos del mantenimiento y todo eso
+
+631
+01:08:50.880 --> 01:09:04.470
+Arroyo Arzubi Carlos A.: es un tema que molesta, a pesar de que muchos sistemas operativos son monolíticos. Repito, por que todos quieren sacar la máxima eficiencia. Otra Otra arquitectura se llama por capas
+
+632
+01:09:05.350 --> 01:09:15.279
+Arroyo Arzubi Carlos A.: el monolítico, podríamos decir que es fuertemente acoplado porque tiene los módulos muy acoplados entre sí.
+
+633
+01:09:15.790 --> 01:09:19.779
+Arroyo Arzubi Carlos A.: Y cuando hablamos por capas, este
+
+634
+01:09:27.930 --> 01:09:30.760
+Arroyo Arzubi Carlos A.: bueno, a ver, yo creí que lo podía mantener. Bueno.
+
+635
+01:09:31.410 --> 01:09:34.619
+Arroyo Arzubi Carlos A.: cuando hablamos por capas, estamos hablando de lo siguiente.
+
+636
+01:09:34.899 --> 01:09:41.979
+Arroyo Arzubi Carlos A.: Yo voy a tener acá el hardware y el sol y y las comunicaciones. Y después voy a tener
+
+637
+01:09:42.290 --> 01:09:51.980
+Arroyo Arzubi Carlos A.: capas del sistema operativo. Cada capa del sistema operativo va a cumplir determinada función.
+
+638
+01:09:53.399 --> 01:09:57.499
+Arroyo Arzubi Carlos A.: Todas se ejecutan en modo núcleo. Esto es el hardware.
+
+639
+01:09:57.640 --> 01:09:58.490
+Arroyo Arzubi Carlos A.: ¿
+
+640
+01:09:58.620 --> 01:10:01.680
+Arroyo Arzubi Carlos A.: Esto es el hardware. Quiere decir que
+
+641
+01:10:03.820 --> 01:10:06.279
+Arroyo Arzubi Carlos A.: todo esto es el sistema operativo.
+
+642
+01:10:07.560 --> 01:10:26.670
+Arroyo Arzubi Carlos A.: pero ahora el sistema operativo, su arquitectura está formado por capas. Entonces cada capa una se encarga de la planificación de la Cpu, otra de la gestión de la memoria. Otra control de los periféricos, otra. Lo que sea no importa. El tema es el concepto, la
+
+643
+01:10:26.830 --> 01:10:33.650
+Arroyo Arzubi Carlos A.: cuando se recurre a una arquitectura por capas.
+
+644
+01:10:33.930 --> 01:10:41.840
+Arroyo Arzubi Carlos A.: la ventaja que tiene es que estas capas se comunican entre sí a través de determinados puntos
+
+645
+01:10:42.500 --> 01:10:49.269
+Arroyo Arzubi Carlos A.: o compuertas, con lo cual hay una determinada información que entra y una determinada información que sale
+
+646
+01:10:49.440 --> 01:10:53.740
+Arroyo Arzubi Carlos A.: y solamente se produce el intercambio en esos lugares.
+
+647
+01:10:55.080 --> 01:10:57.709
+Arroyo Arzubi Carlos A.: Además, cada capa se construye
+
+648
+01:10:58.430 --> 01:11:04.810
+Arroyo Arzubi Carlos A.: luego de estar construida la capa inferior, es decir, que las capas se van construyendo hacia arriba
+
+649
+01:11:05.790 --> 01:11:14.769
+Arroyo Arzubi Carlos A.: de manera tal que si hay algún problema en una capa que yo estoy desarrollando el problema, lo voy a tener acá no acá abajo.
+
+650
+01:11:17.380 --> 01:11:30.539
+Arroyo Arzubi Carlos A.: Entonces si yo tengo una arquitectura por capas, y yo puedo modificar una capa.
+
+651
+01:11:30.860 --> 01:11:40.229
+Arroyo Arzubi Carlos A.: la puedo modificar porque porque dio error o la puedo modificar, porque quiero mejorar su funcionamiento, la programo de vuelta.
+
+652
+01:11:40.920 --> 01:11:48.779
+Arroyo Arzubi Carlos A.: la saco y cambio solamente esa capa Si el sistema anda mal.
+
+653
+01:11:49.100 --> 01:11:53.180
+Arroyo Arzubi Carlos A.: El problema. ¿dónde va a estar en la capa que acabo de modificar.
+
+654
+01:11:53.410 --> 01:11:57.559
+Arroyo Arzubi Carlos A.: Yo sé exactamente que el problema está en la capa, se entiende lo que digo.
+
+655
+01:11:57.960 --> 01:12:08.389
+Arroyo Arzubi Carlos A.: porque si el sistema anda todo bien y yo saco una capa, la arreglo. Le agrego cosa, la pongo y no anda. No me tengo que poner a buscar otro lado. El problema está en la capa, esto que parece una pavada
+
+656
+01:12:08.910 --> 01:12:15.359
+Arroyo Arzubi Carlos A.: ayuda muchísimo a lo que es el mantenimiento de un software, en este caso del sistema operativo.
+
+657
+01:12:15.560 --> 01:12:21.209
+Arroyo Arzubi Carlos A.: Y además, funciona todo el modo núcleo. Así que también es rápido.
+
+658
+01:12:22.500 --> 01:12:38.099
+Arroyo Arzubi Carlos A.: Otra arquitectura, microkerner la arquitectura microkerner. Otra forma de arquitectura, en este caso, y a nivel núcleo
+
+659
+01:12:38.390 --> 01:12:48.049
+Arroyo Arzubi Carlos A.: se ejecutan las operaciones básicas del sistema, es decir, el manejo de las interrupciones, el cargar, un proceso para ejecutar o no.
+
+660
+01:12:48.190 --> 01:12:53.290
+Arroyo Arzubi Carlos A.: y el resto de las funciones se ejecuta en modo usuario.
+
+661
+01:12:53.860 --> 01:12:59.380
+Arroyo Arzubi Carlos A.: ¿qué quiere decir que el sistema operativo que ocupa muy poco lugar
+
+662
+01:12:59.540 --> 01:13:06.750
+Arroyo Arzubi Carlos A.: cuando necesita determinada función, el módulo de entrada, salida o el módulo de lo que sea.
+
+663
+01:13:06.940 --> 01:13:10.879
+Arroyo Arzubi Carlos A.: No lo tiene ahí adentro con él, sino que lo llama
+
+664
+01:13:11.530 --> 01:13:14.320
+Arroyo Arzubi Carlos A.: como quien llama a una aplicación cualquiera.
+
+665
+01:13:15.190 --> 01:13:21.180
+Arroyo Arzubi Carlos A.: Me explico, es si llama al programa que administra eso y lo carga y lo pone como si fuera
+
+666
+01:13:21.440 --> 01:13:26.550
+Arroyo Arzubi Carlos A.: una una aplicación. Esto es lo que se llama
+
+667
+01:13:26.720 --> 01:13:39.260
+Arroyo Arzubi Carlos A.: servidores, es decir, que mantenga un núcleo mínimo y la el resto de las funciones del sistema operativo se administran como cualquier otro programa de un usuario cualquiera.
+
+668
+01:13:40.380 --> 01:13:44.889
+Arroyo Arzubi Carlos A.: cualquiera tendrá una prioridad, pero básicamente el funcionamiento es el mismo.
+
+669
+01:13:48.060 --> 01:13:53.849
+Arroyo Arzubi Carlos A.: Tenemos luego otra arquitectura que se llama sistemas operativos modulares.
+
+670
+01:13:54.820 --> 01:13:55.690
+Arroyo Arzubi Carlos A.: ¿
+
+671
+01:13:56.220 --> 01:14:01.580
+Arroyo Arzubi Carlos A.: Esto consiste en el uso de módulos cargables al núcleo.
+
+672
+01:14:02.420 --> 01:14:03.330
+Arroyo Arzubi Carlos A.: ¿
+
+673
+01:14:03.600 --> 01:14:15.939
+Arroyo Arzubi Carlos A.: Los sistemas operativos modulares y son más flexibles que el sistema por capas.
+
+674
+01:14:17.030 --> 01:14:32.909
+Arroyo Arzubi Carlos A.: porque las capas tienen un orden de llamado, mientras que los módulos, un módulo puede llamar a cualquier otro módulo, es decir, los módulos pueden ser llamados indistintamente sin tener que seguir el orden de las capas.
+
+675
+01:14:35.430 --> 01:14:36.340
+Arroyo Arzubi Carlos A.: Qué más
+
+676
+01:14:39.040 --> 01:14:47.539
+Arroyo Arzubi Carlos A.: estos se usan. Se están usando mucho. En realidad se usan lo que vienen ahora: sistemas operativos híbridos no
+
+677
+01:14:47.780 --> 01:14:50.369
+Arroyo Arzubi Carlos A.: que son los sistemas operativos híbridos
+
+678
+01:14:50.770 --> 01:14:56.560
+Arroyo Arzubi Carlos A.: y los que combinan dentro de su arquitectura de pronto, 2 o más.
+
+679
+01:14:57.110 --> 01:15:05.420
+Arroyo Arzubi Carlos A.: Entonces vamos a tener sistemas operativos que son en una parte monolíticos
+
+680
+01:15:05.680 --> 01:15:21.820
+Arroyo Arzubi Carlos A.: y en otra parte modulares. Bueno, todas las combinaciones son válidas, porque acá lo que interesa es que la cosa funcione y no hacer una obra de arte para que alguien la mire. En consecuencia, aquel que se le ocurre escribir un sistema operativo
+
+681
+01:15:22.210 --> 01:15:25.309
+Arroyo Arzubi Carlos A.: aplica su criterio. No hay mejor criterio.
+
+682
+01:15:25.530 --> 01:15:40.679
+Arroyo Arzubi Carlos A.: su imaginación, lo que sea y lo arma como quiere, pero básicamente de los sistemas operativos que se conocen. Estas son las formas básicas que se conocen y, obviamente, la posibilidad del híbrido que permite
+
+683
+01:15:41.480 --> 01:15:43.470
+Arroyo Arzubi Carlos A.: cualquier otra alternativa.
+
+684
+01:15:44.940 --> 01:15:50.180
+Arroyo Arzubi Carlos A.: También existen, bueno, ya saben ustedes las máquinas virtuales?
+
+685
+01:15:50.370 --> 01:15:51.280
+Arroyo Arzubi Carlos A.: ¿
+
+686
+01:15:51.410 --> 01:16:01.869
+Arroyo Arzubi Carlos A.: Las máquinas virtuales, que son sistemas operativos que permiten administrar un sistema de cómputo a generando clones del sistema
+
+687
+01:16:02.210 --> 01:16:09.549
+Arroyo Arzubi Carlos A.: clones, de manera que un usuario lo ve de una manera y otro usuario lo ve de otra
+
+688
+01:16:09.890 --> 01:16:27.220
+Arroyo Arzubi Carlos A.: en el sentido de que un usuario puede tener un sistema operativo y otro usuario puede tener otro sistema operativo. Esto es lo que se conoce como máquinas virtuales donde el mismo equipo. Das 2 visiones distintas.
+
+689
+01:16:28.150 --> 01:16:35.380
+Arroyo Arzubi Carlos A.: como si fuera una clonación, pero que cada 1 lo usa de manera distinta con otros sinceros.
+
+690
+01:16:36.140 --> 01:16:38.710
+Arroyo Arzubi Carlos A.: Bueno, estas son las arquitecturas.
+
+691
+01:16:38.930 --> 01:16:43.230
+Arroyo Arzubi Carlos A.: Lo dejamos ahí como se dan cuenta. Son conocimiento
+
+692
+01:16:43.580 --> 01:16:52.380
+Arroyo Arzubi Carlos A.: general conceptual cuando vean software, van a ver arquitecturas, y en algunas encontrarán similitudes en otras no. Pero ya lo van a ver.
+
+693
+01:16:53.530 --> 01:16:56.510
+Arroyo Arzubi Carlos A.: Vamos a ver ahora para terminar con esta unidad.
+
+694
+01:16:59.330 --> 01:17:10.209
+Arroyo Arzubi Carlos A.: interrupciones que ya lo dije, que es una interrupción, Es una señal eléctrica producida por harvaro por software que está
+
+695
+01:17:10.690 --> 01:17:19.870
+Arroyo Arzubi Carlos A.: avisando, que se ha producido un evento, un evento y el sistema operativo.
+
+696
+01:17:20.160 --> 01:17:28.950
+Arroyo Arzubi Carlos A.: o todos los sistemas operativos tienen lo que se llama un vector de interrupciones en ese vector de interrupciones.
+
+697
+01:17:30.800 --> 01:17:41.740
+Arroyo Arzubi Carlos A.: Lo que va a tener en cada posición del vector es la dirección donde se encuentra
+
+698
+01:17:42.260 --> 01:17:47.519
+Arroyo Arzubi Carlos A.: la rutina que atiende ese tipo de interrupciones, es decir.
+
+699
+01:17:47.980 --> 01:17:52.729
+Arroyo Arzubi Carlos A.: en la primer posición del vector. Voy a tener, supongamos, para la interrupción 1
+
+700
+01:17:53.440 --> 01:18:00.709
+Arroyo Arzubi Carlos A.: que voy a guardar ahí en ese lugar del vector en la primera posición, la dirección
+
+701
+01:18:01.340 --> 01:18:07.240
+Arroyo Arzubi Carlos A.: de la memoria. ¿dónde está la primera instrucción de la rutina.
+
+702
+01:18:08.420 --> 01:18:10.479
+Arroyo Arzubi Carlos A.: es decir, que atiende el problema: 1
+
+703
+01:18:11.040 --> 01:18:13.290
+Arroyo Arzubi Carlos A.: en la posición 2 que va a tener
+
+704
+01:18:13.730 --> 01:18:20.080
+Arroyo Arzubi Carlos A.: la dirección de memoria, donde está la primera instrucción de la rutina, 2,
+
+705
+01:18:20.500 --> 01:18:28.869
+Arroyo Arzubi Carlos A.: y así administra las distintas rutinas a través de ese vector de interrupciones. Con eso vector suficiente.
+
+706
+01:18:29.250 --> 01:18:41.029
+Arroyo Arzubi Carlos A.: Ahora, las interrupciones pueden ser, bueno, ya dije que podían por software o por hardware, pero pueden ser además
+
+707
+01:18:41.800 --> 01:18:45.090
+Arroyo Arzubi Carlos A.: enmascarables o no enmascarables.
+
+708
+01:18:45.670 --> 01:18:47.560
+Arroyo Arzubi Carlos A.: ¿qué significa esto?
+
+709
+01:18:48.280 --> 01:18:58.129
+Arroyo Arzubi Carlos A.: Una interrupción es enmascarable cuando el sistema operativo no está obligada obligado a atenderla.
+
+710
+01:18:58.940 --> 01:19:01.639
+Arroyo Arzubi Carlos A.: es decir, el sistema operativo.
+
+711
+01:19:01.780 --> 01:19:08.460
+Arroyo Arzubi Carlos A.: Recuerden, nosotros tenemos un proceso que se está ejecutando el sistema operativo está dormido
+
+712
+01:19:08.770 --> 01:19:19.860
+Arroyo Arzubi Carlos A.: y se produce un evento de una comunicación. Supongamos que llega al sistema esa comunicación, si no es urgente
+
+713
+01:19:20.040 --> 01:19:21.829
+Arroyo Arzubi Carlos A.: o lo que sea que se envíe.
+
+714
+01:19:22.640 --> 01:19:25.510
+Arroyo Arzubi Carlos A.: El sistema operativo puede no atenderla.
+
+715
+01:19:26.560 --> 01:19:29.810
+Arroyo Arzubi Carlos A.: sigue ejecutando el proceso que se está ejecutando
+
+716
+01:19:30.650 --> 01:19:39.039
+Arroyo Arzubi Carlos A.: y cuando se produce el overhead, es decir, el momento en que el sistema operativo atiende todo atiende esa interrupción.
+
+717
+01:19:40.000 --> 01:19:46.429
+Arroyo Arzubi Carlos A.: Esas son las enmascarables las que el sistema operativo puede esperar a Los vergel para atenderla.
+
+718
+01:19:48.820 --> 01:19:52.360
+Arroyo Arzubi Carlos A.: Si dije que están las enmascarable, están las no enmascarables.
+
+719
+01:19:52.650 --> 01:19:57.390
+Arroyo Arzubi Carlos A.: La norma cara abre es aquella que, obviamente, como su nombre lo indica.
+
+720
+01:19:57.830 --> 01:20:00.220
+Arroyo Arzubi Carlos A.: no puede no atenderla el sistema.
+
+721
+01:20:01.740 --> 01:20:05.440
+Arroyo Arzubi Carlos A.: Supongamos un proceso, se está ejecutando
+
+722
+01:20:06.340 --> 01:20:09.189
+Arroyo Arzubi Carlos A.: y el proceso necesita los datos de González.
+
+723
+01:20:10.140 --> 01:20:14.999
+Arroyo Arzubi Carlos A.: Entonces, ¿qué hace una llamada al sistema operativo
+
+724
+01:20:15.170 --> 01:20:18.170
+Arroyo Arzubi Carlos A.: diciéndole que necesita el dato de González?
+
+725
+01:20:18.500 --> 01:20:21.910
+Arroyo Arzubi Carlos A.: Esas llamadas. Ese tipo de interrupción
+
+726
+01:20:22.860 --> 01:20:33.180
+Arroyo Arzubi Carlos A.: es no enmascarable. La tiene que atender, porque la tiene que atender, porque ese proceso no puede seguir ejecutando, porque necesita los datos González.
+
+727
+01:20:33.720 --> 01:20:39.310
+Arroyo Arzubi Carlos A.: en cuyo caso, si no lo atiende, se queda en la Cpu esperando y todos nos quedamos esperando.
+
+728
+01:20:40.220 --> 01:20:46.730
+Arroyo Arzubi Carlos A.: Se entiende lo que digo, es decir, que hay interrupciones que el sistema operativo está obligado a atenderlas.
+
+729
+01:20:47.650 --> 01:20:48.550
+Arroyo Arzubi Carlos A.: ¿
+
+730
+01:20:48.750 --> 01:20:53.640
+Arroyo Arzubi Carlos A.: Por situaciones como la que mencioné y otras que puede esperar
+
+731
+01:20:54.370 --> 01:21:02.860
+Arroyo Arzubi Carlos A.: otra situación que puede ser que esté obligado a operarlo. Supongamos que yo tengo maneje el sistema bio maneje
+
+732
+01:21:03.270 --> 01:21:08.609
+Arroyo Arzubi Carlos A.: algún tipo de prioridades con respecto a la ejecución de los procesos.
+
+733
+01:21:09.190 --> 01:21:12.539
+Arroyo Arzubi Carlos A.: y resulta que al sistema llega un proceso
+
+734
+01:21:13.370 --> 01:21:16.219
+Arroyo Arzubi Carlos A.: que tiene mayor prioridad que el que se está ejecutando.
+
+735
+01:21:17.870 --> 01:21:26.520
+Arroyo Arzubi Carlos A.: ¿correcto? Bueno, ya lo vamos a ver cuando veamos los algoritmos. Hay algunos algoritmos que son muy exigentes con la prioridad.
+
+736
+01:21:26.910 --> 01:21:33.100
+Arroyo Arzubi Carlos A.: Y entonces sacan al proceso que se está ejecutando y ponen el que viene con más prioridad.
+
+737
+01:21:33.680 --> 01:21:39.060
+Arroyo Arzubi Carlos A.: Esos son ya lo vamos a ver la clase que viene en los distintos algoritmos, pero.
+
+738
+01:21:41.870 --> 01:21:47.179
+Arroyo Arzubi Carlos A.: en definitiva, la interrupción puede ser enmascarable y no enmascarable.
+
+739
+01:21:49.010 --> 01:21:52.600
+FRANCO EMMANUEL SICARDO: Una pregunta. Profe ¿La dispara el programa, la interrupción.
+
+740
+01:21:53.310 --> 01:21:55.529
+Arroyo Arzubi Carlos A.: La interrupción la dispara, cualquiera.
+
+741
+01:21:56.140 --> 01:22:03.470
+Arroyo Arzubi Carlos A.: cualquier cosa, dispara una interrupción, una falla en el disco. Cualquier cosa, mover el mouse
+
+742
+01:22:03.800 --> 01:22:16.010
+Arroyo Arzubi Carlos A.: son todos eventos que se producen y el sistema operativo va viendo si son enmascarables o hay que atenderlos. Obviamente, también hay interrupciones que manda el proceso que se está ejecutando
+
+743
+01:22:16.590 --> 01:22:20.090
+Arroyo Arzubi Carlos A.: se entendió bien.
+
+744
+01:22:20.540 --> 01:22:28.440
+Arroyo Arzubi Carlos A.: Bueno, hasta aquí Llegamos con la unidad. Uno ya le hemos dedicado mucho tiempo. Seguramente he estado haciendo
+
+745
+01:22:28.740 --> 01:22:32.029
+Arroyo Arzubi Carlos A.: más aclaraciones de las que corresponden a la materia.
+
+746
+01:22:32.370 --> 01:22:33.310
+Arroyo Arzubi Carlos A.: Pero, bueno.
+
+747
+01:22:40.290 --> 01:22:42.280
+Arroyo Arzubi Carlos A.: vamos a empezar a ver ahora.
+
+748
+01:22:42.900 --> 01:22:47.190
+Arroyo Arzubi Carlos A.: Perdón con lo que me queda de vos me va bajando
+
+749
+01:22:48.270 --> 01:22:51.740
+Arroyo Arzubi Carlos A.: administración de procesos, que es la unidad doble.
+
+750
+01:22:53.090 --> 01:23:01.769
+Arroyo Arzubi Carlos A.: Entonces, en principio, hay que definir lo que es un proceso.
+
+751
+01:23:02.200 --> 01:23:04.259
+Arroyo Arzubi Carlos A.: cosa que no es muy fácil.
+
+752
+01:23:04.740 --> 01:23:09.699
+Arroyo Arzubi Carlos A.: Nosotros hablábamos, yo hablaba indistintamente de programa a proceso.
+
+753
+01:23:10.830 --> 01:23:17.810
+Arroyo Arzubi Carlos A.: Y lo primero que dijimos cuando empezamos la materia, hablaba de programas. Ahora vamos a definir qué es un proceso.
+
+754
+01:23:19.300 --> 01:23:25.060
+Arroyo Arzubi Carlos A.: Algunas definiciones Dice que un un proceso es un programa
+
+755
+01:23:25.730 --> 01:23:31.409
+Arroyo Arzubi Carlos A.: en ejecución o en condiciones de ejecutarse o algo por el estilo.
+
+756
+01:23:33.220 --> 01:23:37.610
+Arroyo Arzubi Carlos A.: La realidad es que los programas
+
+757
+01:23:37.770 --> 01:23:41.850
+Arroyo Arzubi Carlos A.: se encuentran en la memoria secundaria, eso ya lo sabemos
+
+758
+01:23:42.020 --> 01:23:44.550
+Arroyo Arzubi Carlos A.: porque la memoria principal es volatil.
+
+759
+01:23:44.690 --> 01:23:51.890
+Arroyo Arzubi Carlos A.: así que todos los programas que tenemos van a estar en la memoria secundaria cuando nosotros
+
+760
+01:23:52.150 --> 01:23:55.160
+Arroyo Arzubi Carlos A.: queremos que se ejecute un programa.
+
+761
+01:23:55.470 --> 01:23:57.889
+Arroyo Arzubi Carlos A.: le damos la orden para que se ejecute
+
+762
+01:23:58.500 --> 01:24:00.629
+Arroyo Arzubi Carlos A.: y el sistema operativo. ¿qué hace
+
+763
+01:24:01.660 --> 01:24:05.230
+Arroyo Arzubi Carlos A.: ahí genera lo que se llama un proceso
+
+764
+01:24:06.370 --> 01:24:14.760
+Arroyo Arzubi Carlos A.: que es generar un proceso. Nace el proceso, es decir, los procesos nacen y mueren. El programa está siempre en el disco
+
+765
+01:24:15.430 --> 01:24:21.039
+Arroyo Arzubi Carlos A.: por la memoria secundaria. Pero los procesos se crean cuando se crea. Entonces.
+
+766
+01:24:21.180 --> 01:24:25.970
+Arroyo Arzubi Carlos A.: cuando alguien quiere ejecutar ese programa, ¿cómo se crea?
+
+767
+01:24:26.300 --> 01:24:31.840
+Arroyo Arzubi Carlos A.: Bueno, el sistema operativo toma ese programa
+
+768
+01:24:32.500 --> 01:24:42.300
+Arroyo Arzubi Carlos A.: entendiendo por programa una secuencia de niñas de código, no un montón de programas, aplicaciones. Tal bien, entonces
+
+769
+01:24:42.620 --> 01:24:48.049
+Arroyo Arzubi Carlos A.: ese proceso, ese programa se convierte en proceso
+
+770
+01:24:48.550 --> 01:24:55.870
+Arroyo Arzubi Carlos A.: Cuando el sistema operativo le agrega a ese programa, digamos
+
+771
+01:24:56.570 --> 01:24:59.699
+Arroyo Arzubi Carlos A.: lo que se llama bloque control de proceso.
+
+772
+01:25:01.030 --> 01:25:08.550
+Arroyo Arzubi Carlos A.: El bloque control de proceso, obviamente, es un espacio donde
+
+773
+01:25:09.400 --> 01:25:19.389
+Arroyo Arzubi Carlos A.: el sistema operativo va a guardar toda la información que necesite para poder administrar ese proceso.
+
+774
+01:25:20.770 --> 01:25:22.339
+Arroyo Arzubi Carlos A.: ¿qué es lo que estoy diciendo?
+
+775
+01:25:22.970 --> 01:25:31.159
+Arroyo Arzubi Carlos A.: Acá Uno puede preguntar: qué información tiene el bloque de control de proceso. Bueno, nosotros podemos nombrar algunas
+
+776
+01:25:31.810 --> 01:25:39.390
+Arroyo Arzubi Carlos A.: nombre del proceso. Tamaño del proceso. Dueño del proceso. ¿qué prioridad tiene el proceso?
+
+777
+01:25:39.560 --> 01:25:47.249
+Arroyo Arzubi Carlos A.: ¿qué memoria ocupa que que archivos necesita. Bueno.
+
+778
+01:25:47.510 --> 01:25:49.290
+Arroyo Arzubi Carlos A.: todo lo que se les ocurra.
+
+779
+01:25:51.860 --> 01:26:05.009
+Arroyo Arzubi Carlos A.: Digo torres. No se lo todo lo que se les ocurra, porque obviamente, el que escribe el sistema operativo. De acuerdo a cómo imagine administrarlo. Proceso le va a poner más o menos información
+
+780
+01:26:06.460 --> 01:26:09.060
+Arroyo Arzubi Carlos A.: en este bloque, control de proceso.
+
+781
+01:26:09.220 --> 01:26:17.620
+Arroyo Arzubi Carlos A.: También se coloca información de uso que hace ese proceso durante su ejecución.
+
+782
+01:26:18.650 --> 01:26:27.670
+Arroyo Arzubi Carlos A.: ¿para qué? Bueno, para tener datos estadísticos de pronto si 1 quiere ver la performance del sistema o
+
+783
+01:26:28.100 --> 01:26:32.980
+Arroyo Arzubi Carlos A.: si 1 da servicios a otros usuarios.
+
+784
+01:26:33.140 --> 01:26:42.110
+Arroyo Arzubi Carlos A.: Bueno, le cobra por la cantidad de tiempo de procesamiento, el o
+
+785
+01:26:42.290 --> 01:26:47.120
+Arroyo Arzubi Carlos A.: la cantidad de transacciones que haga, o
+
+786
+01:26:47.290 --> 01:26:53.860
+Arroyo Arzubi Carlos A.: por la memoria que es que usa o por lo que sea, es decir, todo
+
+787
+01:26:54.270 --> 01:27:01.900
+Arroyo Arzubi Carlos A.: lo que un sistema operativo considere necesario en función del objetivo que tiene el que escribe el sistema operativo
+
+788
+01:27:03.830 --> 01:27:05.110
+Arroyo Arzubi Carlos A.: y.
+
+789
+01:27:12.900 --> 01:27:19.749
+Arroyo Arzubi Carlos A.: además del de de los procesos entonces definidos. De esta manera
+
+790
+01:27:20.180 --> 01:27:25.850
+Arroyo Arzubi Carlos A.: vamos a definir qué son los hilos unido.
+
+791
+01:27:25.960 --> 01:27:29.539
+Arroyo Arzubi Carlos A.: Es la menor unidad de ejecución.
+
+792
+01:27:30.850 --> 01:27:37.489
+Arroyo Arzubi Carlos A.: Qué estoy diciendo. Un proceso puede estar formado por varios hilos.
+
+793
+01:27:39.390 --> 01:27:42.620
+Arroyo Arzubi Carlos A.: Tengo un grafito acá que lo voy a mostrar. Entonces.
+
+794
+01:27:50.580 --> 01:28:02.220
+Arroyo Arzubi Carlos A.: bueno, fíjense acá. A la izquierda Acá tenemos un proceso, dónde está mostrado conceptualmente, digamos.
+
+795
+01:28:03.030 --> 01:28:08.339
+Arroyo Arzubi Carlos A.: Acá están las líneas de código. Y acá tenemos el bloque control de proceso.
+
+796
+01:28:08.860 --> 01:28:11.960
+Arroyo Arzubi Carlos A.: Este sería el proceso que ahora acabamos de hablar.
+
+797
+01:28:13.160 --> 01:28:27.270
+Arroyo Arzubi Carlos A.: Ahora, cuando nosotros tenemos sistemas que utilizan hilos, es porque dentro de un proceso, vamos a tener
+
+798
+01:28:28.090 --> 01:28:31.500
+Arroyo Arzubi Carlos A.: 2 o más signos en este dibujo. Hay 3 signos.
+
+799
+01:28:34.450 --> 01:28:37.099
+Arroyo Arzubi Carlos A.: Esta es la menor unidad de ejecución.
+
+800
+01:28:37.820 --> 01:28:38.790
+Arroyo Arzubi Carlos A.: Y
+
+801
+01:28:39.690 --> 01:28:48.210
+Arroyo Arzubi Carlos A.: Acá estaba el bloque control de proceso, y acá cada 1 tiene lo que se llama el bloque control de hilo.
+
+802
+01:28:49.360 --> 01:28:53.270
+Arroyo Arzubi Carlos A.: Cada 1 tiene su bloque control de hilo.
+
+803
+01:28:54.490 --> 01:28:57.819
+Arroyo Arzubi Carlos A.: ¿qué información hay en el bloque de control leído?
+
+804
+01:28:57.910 --> 01:29:15.009
+Arroyo Arzubi Carlos A.: Bueno, ahí la información es mucho menor y muy específica relacionado con los registros registro de la próxima instrucción contador de programa pila. ¿por qué? Porque cada hilo es distinto.
+
+805
+01:29:15.120 --> 01:29:19.180
+Arroyo Arzubi Carlos A.: entonces cada 1 va a tener su contador de programa distinto.
+
+806
+01:29:22.540 --> 01:29:36.439
+Arroyo Arzubi Carlos A.: mientras que los hilos comparten código, datos y recursos, Es decir, los hilos entre sí comparten información.
+
+807
+01:29:39.250 --> 01:29:47.110
+Arroyo Arzubi Carlos A.: Si nosotros tenemos acá. Un bloque. Volvamos al bloque acá. Tenemos un solo bloque. Si yo tengo un bloque acá y acá tuviera otro bloque
+
+808
+01:29:47.710 --> 01:29:50.469
+Arroyo Arzubi Carlos A.: entre bloques no comparten nada.
+
+809
+01:29:50.700 --> 01:29:59.389
+Arroyo Arzubi Carlos A.: Yo tuviera otro bloque. Acá Este bloque y este no comparten nada, o en este caso particular, este de acá y este de acá no comparten nada.
+
+810
+01:30:01.920 --> 01:30:06.389
+Arroyo Arzubi Carlos A.: Cuando hablamos de hilo, hablamos de hilo dentro de un proceso.
+
+811
+01:30:06.990 --> 01:30:12.570
+Arroyo Arzubi Carlos A.: y eso sí, lo repito porque esto es importante. Comparten código, datos y recursos.
+
+812
+01:30:13.820 --> 01:30:26.730
+Arroyo Arzubi Carlos A.: ¿esto qué permite que si yo tengo un proceso que que tiene hilos.
+
+813
+01:30:30.060 --> 01:30:35.190
+Arroyo Arzubi Carlos A.: el intercambio entre un hilo y otro hilo.
+
+814
+01:30:35.750 --> 01:30:37.520
+Arroyo Arzubi Carlos A.: Es más económico.
+
+815
+01:30:37.820 --> 01:30:42.610
+Arroyo Arzubi Carlos A.: ¿por qué? Porque dijimos que comparte código, datos y recursos.
+
+816
+01:30:43.100 --> 01:30:44.630
+Arroyo Arzubi Carlos A.: Cuando yo tengo
+
+817
+01:30:45.350 --> 01:30:51.070
+Arroyo Arzubi Carlos A.: un proceso que no tiene hilo. Y tengo que poner otro. Tengo que sacar todo y cargar todo lo de otro.
+
+818
+01:30:51.480 --> 01:30:57.620
+Arroyo Arzubi Carlos A.: Acá Solamente tengo que cargar los registros
+
+819
+01:30:57.890 --> 01:31:00.919
+Arroyo Arzubi Carlos A.: y la línea de código. Esta que voy a ejecutar.
+
+820
+01:31:01.920 --> 01:31:09.779
+Arroyo Arzubi Carlos A.: es decir, que la ventaja de tener hilos es que el intercambio entre los hilos es más económico.
+
+821
+01:31:10.660 --> 01:31:11.510
+Arroyo Arzubi Carlos A.: Ahora.
+
+822
+01:31:12.640 --> 01:31:20.530
+Arroyo Arzubi Carlos A.: ¿por qué yo puedo tener en este proceso 3 hilos? Porque por ahí alguno va a decir por ¿Qué puedo tener 3 hilos
+
+823
+01:31:20.960 --> 01:31:21.920
+Arroyo Arzubi Carlos A.: claro?
+
+824
+01:31:22.110 --> 01:31:29.300
+Arroyo Arzubi Carlos A.: Porque estos 3, estos son líneas de código, línea de código vía de código. Este proceso
+
+825
+01:31:29.630 --> 01:31:38.280
+Arroyo Arzubi Carlos A.: me dice a mí que yo puedo ejecutar estos hilos en cualquier orden e inclusive simultáneamente.
+
+826
+01:31:39.930 --> 01:31:43.559
+Arroyo Arzubi Carlos A.: quiere decir que si yo tengo un procesador
+
+827
+01:31:43.730 --> 01:31:47.620
+Arroyo Arzubi Carlos A.: que también maneja los hilos. Yo voy a a tener
+
+828
+01:31:47.870 --> 01:31:50.990
+Arroyo Arzubi Carlos A.: un avance acelerado de este proceso.
+
+829
+01:31:52.750 --> 01:31:59.279
+Arroyo Arzubi Carlos A.: Si yo tengo el caso como el de la izquierda, quiere decir que yo tengo que ejecutar las líneas de código en este orden.
+
+830
+01:32:00.870 --> 01:32:15.620
+Arroyo Arzubi Carlos A.: Si yo voy a tener hilos, es porque el proceso Este me permite que yo divida de mis líneas de código en estos, en este caso, 3 3 grupos que las puedo ejecutar en cualquier momento
+
+831
+01:32:16.470 --> 01:32:19.919
+Arroyo Arzubi Carlos A.: o haciendo multiprogramación entre las 3,
+
+832
+01:32:20.480 --> 01:32:25.750
+Arroyo Arzubi Carlos A.: con lo cual yo voy a avanzar más rápido la ejecución de este proceso.
+
+833
+01:32:26.080 --> 01:32:35.109
+Arroyo Arzubi Carlos A.: pero tengo que tener la condición de que pueda ejecutarlos en cualquier momento. Si yo tengo que seguir una ejecución secuencial, esto no lo puedo hacer.
+
+834
+01:32:36.510 --> 01:32:51.700
+Arroyo Arzubi Carlos A.: pero si puedo hacerlo, lo hago, estos siglos se pueden implementar a nivel de usuario o a nivel
+
+835
+01:32:51.890 --> 01:32:53.500
+Arroyo Arzubi Carlos A.: del sistema operativo.
+
+836
+01:32:54.050 --> 01:32:55.640
+Arroyo Arzubi Carlos A.: ¿qué es lo que quiero decir
+
+837
+01:32:56.050 --> 01:33:01.580
+Arroyo Arzubi Carlos A.: si yo digo que los hilos se pueden implementar a nivel de usuario.
+
+838
+01:33:02.080 --> 01:33:07.400
+Arroyo Arzubi Carlos A.: es que el programador el que escribe el programa.
+
+839
+01:33:07.570 --> 01:33:13.920
+Arroyo Arzubi Carlos A.: él va a escribir los hilos y él va a llamar un hilo y al otro a medida que lo necesite.
+
+840
+01:33:16.220 --> 01:33:33.560
+Arroyo Arzubi Carlos A.: Cuando digo que es el sistema operativo el que lo hace es porque yo tengo un lenguaje que maneja y lo y un sistema operativo que maneja ahí. Lo hay un procesador. Entonces el usuario solamente lo va a decidir, pero el que lo va a administrar es el sistema operativo.
+
+841
+01:33:35.950 --> 01:33:40.320
+Arroyo Arzubi Carlos A.: Ahora bien, si lo hace el usuario.
+
+842
+01:33:42.050 --> 01:33:49.360
+Arroyo Arzubi Carlos A.: el cambio de un hilo a otro es extremadamente rápido, porque no hace una llamada al sistema operativo
+
+843
+01:33:49.600 --> 01:33:51.650
+Arroyo Arzubi Carlos A.: para que haga el cambio.
+
+844
+01:33:51.950 --> 01:34:00.990
+Arroyo Arzubi Carlos A.: Llamamos al sistema operativo para que me ponga este hito. No lo hace el mismo usuario, entonces no hay interrupción de nada y se ejecuta más rápido.
+
+845
+01:34:01.390 --> 01:34:06.330
+Arroyo Arzubi Carlos A.: Pero pero tiene que hacer el laburoil
+
+846
+01:34:06.600 --> 01:34:09.180
+Arroyo Arzubi Carlos A.: cuando lo administra el sistema operativo.
+
+847
+01:34:09.850 --> 01:34:14.389
+Arroyo Arzubi Carlos A.: él lo hace más simple para la para el para el usuario.
+
+848
+01:34:14.840 --> 01:34:17.110
+Arroyo Arzubi Carlos A.: Y él va a administrar los hilos.
+
+849
+01:34:18.750 --> 01:34:24.310
+Arroyo Arzubi Carlos A.: Ahora. Entonces, si cambio de hilos más rápido se lo hace el usuario.
+
+850
+01:34:25.540 --> 01:34:29.089
+Arroyo Arzubi Carlos A.: Pero si estamos en un sistema multiusuario
+
+851
+01:34:29.990 --> 01:34:33.499
+Arroyo Arzubi Carlos A.: donde el sistema operativo me va a dar un quantum de tiempo.
+
+852
+01:34:34.410 --> 01:34:41.949
+Arroyo Arzubi Carlos A.: Fíjense que si yo soy el usuario que administro los hilos, a mí me va a dar un quantum de tiempo.
+
+853
+01:34:42.900 --> 01:34:44.839
+Arroyo Arzubi Carlos A.: esos 20 ms.
+
+854
+01:34:45.230 --> 01:34:50.680
+Arroyo Arzubi Carlos A.: Y yo, en esos 20 ms tengo que ir a hacer los cambios con los hilos y todo lo demás.
+
+855
+01:34:52.310 --> 01:34:56.309
+Arroyo Arzubi Carlos A.: Si, en cambio es el sistema operativo el que administra los hilos.
+
+856
+01:34:57.760 --> 01:35:00.990
+Arroyo Arzubi Carlos A.: A cada hilo le va a dar 20 ms.
+
+857
+01:35:03.460 --> 01:35:08.910
+Arroyo Arzubi Carlos A.: Bueno, como todas las cosas que vamos viendo, Todos tienen su pro y sus contras.
+
+858
+01:35:09.080 --> 01:35:15.959
+Arroyo Arzubi Carlos A.: Entonces 1 podría decir, bueno, si tengo pocos hilos
+
+859
+01:35:16.110 --> 01:35:18.609
+Arroyo Arzubi Carlos A.: por ahí me conviene que lo haga el usuario.
+
+860
+01:35:19.700 --> 01:35:23.979
+Arroyo Arzubi Carlos A.: Si tengo muchos hilos, seguramente me conviene más
+
+861
+01:35:24.170 --> 01:35:30.099
+Arroyo Arzubi Carlos A.: que lo administre el sistema operativo para que le dé un quantum de tiempo a cada uso.
+
+862
+01:35:30.510 --> 01:35:33.160
+Arroyo Arzubi Carlos A.: Pero bueno, esto lo hacen los lenguajes.
+
+863
+01:35:34.040 --> 01:35:38.340
+Arroyo Arzubi Carlos A.: Y ustedes lo que hacen solamente es
+
+864
+01:35:38.430 --> 01:35:55.700
+Arroyo Arzubi Carlos A.: usarlo todo. Esto son conceptos que es interesante que lo sepas, pero ustedes, cuando toman el lenguaje, agarran más, lo maneja a nivel usuario, lo maneja a nivel perdón a nivel del sistema operativo se mamá. El otro lo maneja a nivel usuario. No me importa. Lo que digo es
+
+865
+01:35:55.770 --> 01:36:06.519
+Arroyo Arzubi Carlos A.: que sepan que esto ocurre cuando ustedes lean de lo que están usando, que el sistema operativo están utilizando, qué lenguajes están utilizando. Sepan que esto en el fondo puede ocurrir.
+
+866
+01:36:06.900 --> 01:36:09.680
+Arroyo Arzubi Carlos A.: Por eso es interesante los temas conceptuales
+
+867
+01:36:10.210 --> 01:36:18.019
+Arroyo Arzubi Carlos A.: que que es conveniente que lo sepan, pero muchos no saben nada y usan los lenguajes y usan todo sin ningún problema. Y son felices.
+
+868
+01:36:19.590 --> 01:36:24.039
+Arroyo Arzubi Carlos A.: Yo ahora es más, no voy a hablar de procesos y de hilos.
+
+869
+01:36:24.810 --> 01:36:33.140
+Arroyo Arzubi Carlos A.: porque no, no para para ser más simple, las explicaciones. Pero, ¿por qué no cambia nada? En definitiva, yo ahora voy a
+
+870
+01:36:33.850 --> 01:36:35.510
+Arroyo Arzubi Carlos A.: hablar de procesos.
+
+871
+01:36:36.110 --> 01:36:45.240
+Arroyo Arzubi Carlos A.: Dicho esto, lo que dijimos ya de los siglos que ya sabemos que son los siglos y para qué sirven? Y bueno, Bueno, ahora vamos a hablar todo el proceso.
+
+872
+01:36:46.900 --> 01:36:53.590
+Arroyo Arzubi Carlos A.: Entonces nosotros dijimos que el proceso nace.
+
+873
+01:36:55.110 --> 01:36:56.190
+Arroyo Arzubi Carlos A.: Sí.
+
+874
+01:36:59.750 --> 01:37:00.949
+MATEO CAMILLETTI: El propio 11.
+
+875
+01:37:00.950 --> 01:37:01.430
+Arroyo Arzubi Carlos A.: Cuando un.
+
+876
+01:37:01.430 --> 01:37:02.430
+MATEO CAMILLETTI: Una pregunta.
+
+877
+01:37:02.890 --> 01:37:03.530
+Arroyo Arzubi Carlos A.: Sí.
+
+878
+01:37:03.530 --> 01:37:12.220
+MATEO CAMILLETTI: Dijiste que en un sistema multiusuario es entre comillas, es mejor designarle los hilos a este mismo, porque le da un cuanto más de tiempo
+
+879
+01:37:12.440 --> 01:37:18.110
+MATEO CAMILLETTI: y los toma como un usuario aparte, o cómo andar haciendo ese tema, ese punto en concreto.
+
+880
+01:37:19.370 --> 01:37:24.939
+Arroyo Arzubi Carlos A.: Bueno, no sé si te escuché bien, pero yo digo que los hilos, la implementación de los hilos
+
+881
+01:37:25.290 --> 01:37:27.929
+Arroyo Arzubi Carlos A.: para utilizarlos en un sistema de cómputo
+
+882
+01:37:28.620 --> 01:37:34.429
+Arroyo Arzubi Carlos A.: se puede hacer a nivel de usuario. El sistema no maneja nada, y lo hacemos por las tuyas.
+
+883
+01:37:34.920 --> 01:37:45.480
+Arroyo Arzubi Carlos A.: digamos que vas haciendo? Vas. Pero vos si lo haces, vos vos sos El que tenés que poner a ejecutar un hilo y después el otro, y después el otro en tu mismo programa, lo vas mandando a ejecutar.
+
+884
+01:37:45.610 --> 01:37:50.300
+Arroyo Arzubi Carlos A.: con lo cual esas partes se van a el intercambio entre una parte y otra va a ser muy rápida.
+
+885
+01:37:51.060 --> 01:37:54.360
+Arroyo Arzubi Carlos A.: Ahora, si yo se lo doy al sistema operativo.
+
+886
+01:37:54.480 --> 01:38:08.359
+Arroyo Arzubi Carlos A.: el sistema operativo va a manejar a cada hilo como si fuera un proceso. Entonces le va a dar más tiempo acá porque va a dar a los 3 hilos una cantidad de tiempo, pero no sé si lo como me preguntaste, la verdad.
+
+887
+01:38:11.620 --> 01:38:19.330
+MATEO CAMILLETTI: Yo preguntaba, no, porque existe que en un sistema multiusuario le daba un cuántum de tiempo a cada 1.
+
+888
+01:38:19.370 --> 01:38:22.169
+Arroyo Arzubi Carlos A.: Que vos le Des no es como un usuario aparte.
+
+889
+01:38:24.280 --> 01:38:33.479
+Arroyo Arzubi Carlos A.: No, Claro, cuando el sistema, el sistema multiusuario utiliza los procesos y le va dando a cada proceso
+
+890
+01:38:33.700 --> 01:38:36.490
+Arroyo Arzubi Carlos A.: como si, como si fueran independientes 1 de otro.
+
+891
+01:38:37.530 --> 01:38:54.430
+Arroyo Arzubi Carlos A.: es decir, que el cuánto de tiempo se lo va dando a cada proceso. Entonces, si yo le digo al sistema operativo, yo le digo: el sistema operativo administra hilo y se encuentra con que tiene 3 siglos para él. Son como si fueran 3 procesos. Lo que pasa, que el intercambio entre un hilo y otro va a ser más rápido
+
+892
+01:38:54.570 --> 01:39:06.320
+Arroyo Arzubi Carlos A.: porque tiene menos cosas que transmitirles, porque código, datos y recursos los tiene compartidos, es decir, pasar de un hilo al otro. Es más económico, pero lo mismo le va a dar a cada 1 en cuanto de tiempo.
+
+893
+01:39:07.570 --> 01:39:13.349
+MATEO CAMILLETTI: Perfecto. Gracias. Había entendido que la adicción era más arriba, por así decirlo, no tanto a nivel de proceso.
+
+894
+01:39:14.020 --> 01:39:17.969
+Arroyo Arzubi Carlos A.: Bueno, ahora, entonces vamos a hablar de proceso.
+
+895
+01:39:18.870 --> 01:39:21.700
+Arroyo Arzubi Carlos A.: Estos procesos tienen un ciclo de vida.
+
+896
+01:39:22.170 --> 01:39:25.340
+Arroyo Arzubi Carlos A.: el ciclo de vida. ¿qué quiere decir que nacen y mueren.
+
+897
+01:39:25.960 --> 01:39:31.740
+Arroyo Arzubi Carlos A.: Entonces el proceso nace. Ya lo dije cuando alguien quiere que se ejecute un
+
+898
+01:39:31.960 --> 01:39:41.440
+Arroyo Arzubi Carlos A.: programa, no ¿cierto? Entonces voy a ir a la pizarra si me dejan a ver.
+
+899
+01:39:49.630 --> 01:39:52.700
+Arroyo Arzubi Carlos A.: Bueno, ahí está. Tobías que parece que no me quiere dejar.
+
+900
+01:39:56.650 --> 01:40:06.750
+Arroyo Arzubi Carlos A.: Bueno, vamos a suponer nosotros que esto sea la memoria principal
+
+901
+01:40:09.120 --> 01:40:12.559
+Arroyo Arzubi Carlos A.: y el resto. Lo que está fuera es la memoria secundaria.
+
+902
+01:40:13.030 --> 01:40:15.280
+Arroyo Arzubi Carlos A.: el disco o lo que sea.
+
+903
+01:40:15.750 --> 01:40:20.239
+Arroyo Arzubi Carlos A.: Entonces acá. Vamos a tener los programas no
+
+904
+01:40:20.410 --> 01:40:24.140
+Arroyo Arzubi Carlos A.: cargados en la memoria secundaria. ¿cómo están ahí?
+
+905
+01:40:26.090 --> 01:40:38.660
+Arroyo Arzubi Carlos A.: Cuando yo quiero ejecutar, supongamos el proceso peso, 1 voy a generar el proceso agregándole a peso 1
+
+906
+01:40:40.010 --> 01:40:42.189
+Arroyo Arzubi Carlos A.: el bloque control de proceso.
+
+907
+01:40:42.630 --> 01:40:47.120
+Arroyo Arzubi Carlos A.: Este es el bloque de control de proceso de P: Uno.
+
+908
+01:40:47.890 --> 01:40:52.620
+Arroyo Arzubi Carlos A.: Y dónde lo voy a poner acá?
+
+909
+01:40:53.540 --> 01:41:03.239
+Arroyo Arzubi Carlos A.: ¿vamos a poner más grande esto en lo que se llama nuevo en la cola de nuevo.
+
+910
+01:41:03.450 --> 01:41:06.189
+Arroyo Arzubi Carlos A.: Es decir, que yo voy a cargar.
+
+911
+01:41:08.470 --> 01:41:15.000
+Arroyo Arzubi Carlos A.: Fíjense, estoy hablando del disco. Todavía no estoy en la memoria principal, el disco o lo que sea. Acá
+
+912
+01:41:15.130 --> 01:41:23.070
+Arroyo Arzubi Carlos A.: Voy a tener los distintos procesos creados. Fíjense, acá tenía el programa. Esto es programa.
+
+913
+01:41:26.400 --> 01:41:33.160
+Arroyo Arzubi Carlos A.: Estos programas lo convierto en proceso, y lo pongo acá en la cola.
+
+914
+01:41:33.280 --> 01:41:37.520
+Arroyo Arzubi Carlos A.: Entonces la cola voy a tener varios procesos
+
+915
+01:41:37.900 --> 01:41:43.990
+Arroyo Arzubi Carlos A.: que están en la cola de nuevo, yo pregunto.
+
+916
+01:41:44.480 --> 01:41:52.390
+Arroyo Arzubi Carlos A.: Andrés pereira Contestame, por favor, vos ves tu tu mouse en el dibujo.
+
+917
+01:41:52.670 --> 01:41:54.140
+ANDRÉS PEREIRA MALDONADO: No, no lo veo.
+
+918
+01:41:55.200 --> 01:41:57.910
+Arroyo Arzubi Carlos A.: Bueno, porque yo lo veo, lo demás. ¿lo ven o no?
+
+919
+01:41:58.990 --> 01:41:59.940
+MATEO CAMILLETTI: No profe.
+
+920
+01:42:00.310 --> 01:42:01.670
+Arroyo Arzubi Carlos A.: Al único que veo, soy yo. Los.
+
+921
+01:42:01.670 --> 01:42:02.580
+JACOBO BRIAN HAMBRA: De no se.
+
+922
+01:42:03.900 --> 01:42:05.440
+Arroyo Arzubi Carlos A.: Lo demás lo vieron o no lo ven?
+
+923
+01:42:06.080 --> 01:42:06.890
+JACOBO BRIAN HAMBRA: Se nada más.
+
+924
+01:42:06.890 --> 01:42:07.420
+FRANCISCO DAURAT: No, no.
+
+925
+01:42:07.420 --> 01:42:07.740
+JACOBO BRIAN HAMBRA: Que no.
+
+926
+01:42:07.740 --> 01:42:08.660
+HECTOR SEBASTIAN PERANIC LANDABURU: No se.
+
+927
+01:42:08.660 --> 01:42:09.150
+ARON FRAGA: No se.
+
+928
+01:42:09.150 --> 01:42:11.050
+JACOBO BRIAN HAMBRA: Profecía.
+
+929
+01:42:11.260 --> 01:42:12.660
+Arroyo Arzubi Carlos A.: Y yo, ¿Por qué lo veo?
+
+930
+01:42:13.920 --> 01:42:14.649
+Arroyo Arzubi Carlos A.: Que yo me
+
+931
+01:42:20.910 --> 01:42:39.779
+Arroyo Arzubi Carlos A.: bueno, no lo muevan, porque a mí yo lo veo y me aparece el nombre completo de cada 1 de ustedes moviéndose por toda la pantalla, porque no sé cómo borrarlo Ahí apreté algo. No sé si servirá o no, pero lo que me aparece a mí es en el medio del dibujo, una tira así, con el nombre completo nombre apellido, dirección domicilio, todo
+
+932
+01:42:40.010 --> 01:42:45.680
+Arroyo Arzubi Carlos A.: dónde buscarlo y me aparece dando vueltas y ocupándome todo en distintos colores.
+
+933
+01:42:46.050 --> 01:42:48.090
+Arroyo Arzubi Carlos A.: Yo creí que ustedes también lo veían?
+
+934
+01:42:48.270 --> 01:42:53.170
+Arroyo Arzubi Carlos A.: Bueno, entonces, claro, estoy escribiendo y me se me mueven.
+
+935
+01:42:54.350 --> 01:42:59.930
+Arroyo Arzubi Carlos A.: Bueno, entonces programa proceso cola de nuevo.
+
+936
+01:43:00.700 --> 01:43:06.650
+Arroyo Arzubi Carlos A.: este un estado, el primer estado de un proceso. Se llama nuevo.
+
+937
+01:43:07.630 --> 01:43:11.399
+Arroyo Arzubi Carlos A.: Luego tenemos ya en la memoria principal.
+
+938
+01:43:11.400 --> 01:43:13.219
+FRANCO EMMANUEL SICARDO: Perdón, ¿Cómo se llama Profe? No.
+
+939
+01:43:13.220 --> 01:43:19.450
+Arroyo Arzubi Carlos A.: Nuevo nuevo Estado nuevo, vamos a poner más grande.
+
+940
+01:43:22.380 --> 01:43:26.640
+Arroyo Arzubi Carlos A.: Acá Vamos a poner otro Estado listo.
+
+941
+01:43:27.590 --> 01:43:34.660
+Arroyo Arzubi Carlos A.: Resulta que en determinado momento este
+
+942
+01:43:34.870 --> 01:43:41.120
+Arroyo Arzubi Carlos A.: estos procesos, que están en la cola de nuevo, van a pasar a la memoria principal
+
+943
+01:43:42.050 --> 01:43:47.100
+Arroyo Arzubi Carlos A.: a una cola que se llama listo, visto porque estos procesos
+
+944
+01:43:47.240 --> 01:43:50.060
+Arroyo Arzubi Carlos A.: están en condiciones de poder ejecutarse.
+
+945
+01:43:50.520 --> 01:43:58.720
+Arroyo Arzubi Carlos A.: Por eso van a nuevo porque ya se quieren ejecutar. Van a listos porque están en condiciones de ejecutarse.
+
+946
+01:43:59.540 --> 01:44:04.440
+Arroyo Arzubi Carlos A.: Hay otro Estado que se llama ejecución.
+
+947
+01:44:06.500 --> 01:44:10.910
+Arroyo Arzubi Carlos A.: que yo voy a poner 1 solo para poner un solo procesador.
+
+948
+01:44:11.170 --> 01:44:15.370
+Arroyo Arzubi Carlos A.: porque así queda más fácil, pero podría haber varios.
+
+949
+01:44:16.600 --> 01:44:22.310
+Arroyo Arzubi Carlos A.: Si hay varios procesadores, acá vamos a tener un solo proceso
+
+950
+01:44:23.280 --> 01:44:29.860
+Arroyo Arzubi Carlos A.: porque tenemos un solo procesado ejecución, Entonces, nuevo, listo
+
+951
+01:44:31.140 --> 01:44:35.820
+Arroyo Arzubi Carlos A.: de nuevo, va a pasar a listo de esta
+
+952
+01:44:35.950 --> 01:44:38.859
+Arroyo Arzubi Carlos A.: lista de procesos que tengo. Acá.
+
+953
+01:44:39.800 --> 01:44:45.230
+Arroyo Arzubi Carlos A.: El sistema operativo va a tener que elegir 1
+
+954
+01:44:45.620 --> 01:44:51.130
+Arroyo Arzubi Carlos A.: para mandarlo a ejecución. Es decir, 1 de estos, va a tener que venir acá.
+
+955
+01:44:54.410 --> 01:45:03.250
+Arroyo Arzubi Carlos A.: Bueno, fíjense que yo acá ya planteé 2 decisiones que tiene que tomar el el sistema.
+
+956
+01:45:05.280 --> 01:45:09.580
+Arroyo Arzubi Carlos A.: Una es cuando tengo que elegir un proceso de acá
+
+957
+01:45:10.200 --> 01:45:12.099
+Arroyo Arzubi Carlos A.: para ir a la cola de listo.
+
+958
+01:45:12.600 --> 01:45:15.290
+Arroyo Arzubi Carlos A.: Ya tengo que elegir tomar decisiones.
+
+959
+01:45:16.250 --> 01:45:21.650
+Arroyo Arzubi Carlos A.: Ahora tengo que elegir de estos tomar una decisión sobre qué
+
+960
+01:45:22.130 --> 01:45:25.710
+Arroyo Arzubi Carlos A.: proceso va a ir ejecución. Otra decisión.
+
+961
+01:45:27.780 --> 01:45:32.539
+Arroyo Arzubi Carlos A.: esto va a llevar a que veamos los algoritmos que vamos a ver la clase que viene.
+
+962
+01:45:33.550 --> 01:45:39.340
+Arroyo Arzubi Carlos A.: pero el sistema operativo como todo sistema determinístico
+
+963
+01:45:40.360 --> 01:45:44.700
+Arroyo Arzubi Carlos A.: no es que agarra a cualquiera va a agarrar con algún criterio
+
+964
+01:45:44.850 --> 01:45:51.719
+Arroyo Arzubi Carlos A.: y va a tomar la decisión con algún criterio. ¿cuál criterio el que haya definido el que escribe el sistema operativo?
+
+965
+01:45:52.500 --> 01:46:02.930
+Arroyo Arzubi Carlos A.: Bien, una vez que está en ejecución, ¿qué puede ocurrir? Bueno que el proceso en ejecución vaya ha terminado.
+
+966
+01:46:06.280 --> 01:46:09.080
+Arroyo Arzubi Carlos A.: Si va a terminado, ¿
+
+967
+01:46:12.350 --> 01:46:13.909
+Arroyo Arzubi Carlos A.: Viene ha terminado
+
+968
+01:46:14.320 --> 01:46:24.990
+Arroyo Arzubi Carlos A.: aquí en terminado, que es lo que va a hacer el sistema va a sacar de aquí toda la información estadística de uso de consumo de qué sé yo para usarlo en lo que quiera.
+
+969
+01:46:25.470 --> 01:46:30.639
+Arroyo Arzubi Carlos A.: Y una vez que sacó toda esa información, ya muere
+
+970
+01:46:31.330 --> 01:46:37.159
+Arroyo Arzubi Carlos A.: el proceso, es decir, que nació acá y murió acá este que estaba acá
+
+971
+01:46:37.610 --> 01:46:40.870
+Arroyo Arzubi Carlos A.: sigue estando ahí, tan tranquilo como estaba ya.
+
+972
+01:46:41.180 --> 01:46:46.779
+Arroyo Arzubi Carlos A.: Digo porque alguno piensa que se va moviendo en una copia y acá. Desaparece.
+
+973
+01:46:47.370 --> 01:46:48.900
+Arroyo Arzubi Carlos A.: Sí.
+
+974
+01:46:50.090 --> 01:46:52.620
+Arroyo Arzubi Carlos A.: Bueno, otro estado.
+
+975
+01:46:54.080 --> 01:46:57.530
+Arroyo Arzubi Carlos A.: Mhm se llama bloqueado.
+
+976
+01:47:01.780 --> 01:47:07.269
+Arroyo Arzubi Carlos A.: ¿qué es nosotros? Tenemos que un proceso que está en ejecución.
+
+977
+01:47:07.620 --> 01:47:11.600
+Arroyo Arzubi Carlos A.: una opción, la que vimos recién es que el proceso se termine.
+
+978
+01:47:12.320 --> 01:47:13.689
+Arroyo Arzubi Carlos A.: Otra opción.
+
+979
+01:47:14.310 --> 01:47:18.340
+Arroyo Arzubi Carlos A.: Otra cosa que puede ocurrir es que
+
+980
+01:47:18.960 --> 01:47:22.970
+Arroyo Arzubi Carlos A.: este proceso que se estaba ejecutando necesite los datos de González.
+
+981
+01:47:24.330 --> 01:47:28.219
+Arroyo Arzubi Carlos A.: Entonces, ¿qué hace una llamada al sistema operativo?
+
+982
+01:47:28.570 --> 01:47:32.910
+Arroyo Arzubi Carlos A.: Es una interrupción no enmascarable.
+
+983
+01:47:33.300 --> 01:47:36.750
+Arroyo Arzubi Carlos A.: Y entonces el sistema operativo lo saca de la Cpu.
+
+984
+01:47:37.480 --> 01:47:40.189
+Arroyo Arzubi Carlos A.: pero no lo puede poner en la cola de listo
+
+985
+01:47:40.720 --> 01:47:52.739
+Arroyo Arzubi Carlos A.: por la cola de listo. Están los procesos que están en condiciones de ejecutarse. Y este no está en condiciones de ejecutarse, porque está esperando los datos de González. Entonces de ejecución, va a bloqueado.
+
+986
+01:47:53.270 --> 01:48:01.329
+Arroyo Arzubi Carlos A.: acá viene y se queda esperando hasta que vengan los datos de González.
+
+987
+01:48:02.360 --> 01:48:09.440
+Arroyo Arzubi Carlos A.: el sistema operativo. ¿qué hace toma otro proceso de la cola de listo y lo pone a ejecutar.
+
+988
+01:48:12.040 --> 01:48:17.920
+Arroyo Arzubi Carlos A.: Bueno, y así va trabajando cuando los datos de González
+
+989
+01:48:18.860 --> 01:48:22.150
+Arroyo Arzubi Carlos A.: ya fueron llevados a la memoria principal.
+
+990
+01:48:23.140 --> 01:48:28.910
+Arroyo Arzubi Carlos A.: ¿qué es lo que hace el sistema? Este proceso que estaba bloqueado, vuelve a la cola de listo.
+
+991
+01:48:31.890 --> 01:48:36.930
+Arroyo Arzubi Carlos A.: ¿por qué? Porque ya están los datos de González Mhm.
+
+992
+01:48:38.860 --> 01:48:41.820
+Arroyo Arzubi Carlos A.: Pregunto: qué sí.
+
+993
+01:48:42.120 --> 01:48:46.090
+HECTOR SEBASTIAN PERANIC LANDABURU: Y vuelve con alguna prioridad, o sea.
+
+994
+01:48:46.320 --> 01:48:52.770
+Arroyo Arzubi Carlos A.: No, Eso va a depender de los algoritmos que vamos a ver. La clase que viene depende.
+
+995
+01:48:52.770 --> 01:48:53.600
+HECTOR SEBASTIAN PERANIC LANDABURU: Utilizar un.
+
+996
+01:48:53.740 --> 01:49:00.090
+Arroyo Arzubi Carlos A.: Sí, sí, pero va a tener algún claro. Va a tener algún criterio, porque el sistema tiene que tomar alguna decisión
+
+997
+01:49:00.520 --> 01:49:07.560
+Arroyo Arzubi Carlos A.: puede ser la más fácil fijo. Bueno, fifo a una cola. Va al fondo, insisto, pero hay varios algoritmos que son los que vamos a ver.
+
+998
+01:49:08.600 --> 01:49:09.539
+HECTOR SEBASTIAN PERANIC LANDABURU: Perfecto. Gracias.
+
+999
+01:49:10.960 --> 01:49:16.869
+Arroyo Arzubi Carlos A.: De ejecución, entonces bien ha terminado. Ha bloqueado.
+
+1000
+01:49:17.020 --> 01:49:21.379
+Arroyo Arzubi Carlos A.: puede tener otra flecha ejecución a otro lugar. Pregunto.
+
+1001
+01:49:25.540 --> 01:49:26.510
+JACOBO BRIAN HAMBRA: Cancelado o algo.
+
+1002
+01:49:26.510 --> 01:49:28.249
+TOMAS GOMEZ DEAN: Sino que esté durmiendo.
+
+1003
+01:49:29.200 --> 01:49:32.480
+Arroyo Arzubi Carlos A.: No. ¿qué se quedó dormido, ejecutado ¿Como se va a quedar dormido.
+
+1004
+01:49:32.800 --> 01:49:33.340
+TOMAS GOMEZ DEAN: ¿por qué eso.
+
+1005
+01:49:33.340 --> 01:49:33.770
+Arroyo Arzubi Carlos A.: Que no.
+
+1006
+01:49:33.770 --> 01:49:34.709
+TOMAS GOMEZ DEAN: Esperando algo.
+
+1007
+01:49:35.360 --> 01:49:39.940
+Arroyo Arzubi Carlos A.: No si estás bloqueados, si está esperando. Está bloqueado.
+
+1008
+01:49:41.000 --> 01:49:42.770
+Arroyo Arzubi Carlos A.: Es fácil. No es.
+
+1009
+01:49:44.320 --> 01:49:47.120
+HECTOR SEBASTIAN PERANIC LANDABURU: Con algún error suspendido, digamos, o algo así.
+
+1010
+01:49:47.120 --> 01:49:55.220
+Arroyo Arzubi Carlos A.: Que suspendido. ¿dónde está suspendido? Ahora, alguno estuvo leyendo algo de ahí. Entonces lo hicieron suspendido. Me lo están diciendo, pero no estoy hablando otra vez.
+
+1011
+01:49:55.220 --> 01:49:56.690
+Máximo Barros: Listo. ¿puedo ir.
+
+1012
+01:49:56.890 --> 01:49:57.769
+ALEJANDRO LEDESMA CASTILLO: Muy de lista.
+
+1013
+01:49:58.170 --> 01:49:59.270
+Máximo Barros: Listo!
+
+1014
+01:49:59.270 --> 01:50:00.130
+Arroyo Arzubi Carlos A.: Porque.
+
+1015
+01:50:00.600 --> 01:50:02.239
+Máximo Barros: Si se termina el quantum.
+
+1016
+01:50:02.240 --> 01:50:04.469
+Arroyo Arzubi Carlos A.: Bien vieron que era fácil.
+
+1017
+01:50:06.130 --> 01:50:09.999
+Arroyo Arzubi Carlos A.: Es decir que un proceso que está en ejecución
+
+1018
+01:50:10.790 --> 01:50:24.829
+Arroyo Arzubi Carlos A.: tiene estas 3 salidas o termina o va bloqueado por por algún motivo, o vuelve a listo porque se le acabó el quantum o porque el algoritmo de prioridades que se están utilizando
+
+1019
+01:50:25.160 --> 01:50:33.169
+Arroyo Arzubi Carlos A.: a dice que llegó otro proceso a la cola de listo que tiene prioridad, pero ya lo vamos a ver cuando veamos los algoritmos.
+
+1020
+01:50:34.160 --> 01:50:37.190
+Arroyo Arzubi Carlos A.: Bueno, existe también
+
+1021
+01:50:38.500 --> 01:50:46.419
+Arroyo Arzubi Carlos A.: otra posibilidad que no esto. Lo que esto, este esquema, todos los sistemas operativos tienen esto, todos
+
+1022
+01:50:47.150 --> 01:50:53.179
+Arroyo Arzubi Carlos A.: y algunos tienen muchos hoy en día, los principales. Pero bueno, no es condición
+
+1023
+01:50:53.290 --> 01:50:55.840
+Arroyo Arzubi Carlos A.: que no tenga, sino que es una posibilidad más.
+
+1024
+01:50:56.510 --> 01:51:04.780
+Arroyo Arzubi Carlos A.: es que 1 pueda sacar procesos bloqueados, sacarlos de la memoria principal
+
+1025
+01:51:07.440 --> 01:51:09.890
+Arroyo Arzubi Carlos A.: y mandarlos a la memoria secundaria.
+
+1026
+01:51:11.020 --> 01:51:20.590
+Arroyo Arzubi Carlos A.: ¿qué puede ocurrir a ver? Fíjense, puede ocurrir que yo tenga una situación como ésta.
+
+1027
+01:51:21.640 --> 01:51:30.839
+Arroyo Arzubi Carlos A.: Por supuesto que yo pongo. Pocos imaginen más. Pero no importa si yo estuviera esta situación, tengo un proceso.
+
+1028
+01:51:31.020 --> 01:51:32.880
+Arroyo Arzubi Carlos A.: una cola de listo. Solo
+
+1029
+01:51:33.870 --> 01:51:40.609
+Arroyo Arzubi Carlos A.: pongamos otro en ejecución y 3 bloqueados: el grado de multiprogramación que lo voy a hacer con este. Y este
+
+1030
+01:51:42.020 --> 01:51:44.670
+Arroyo Arzubi Carlos A.: el grado de multiprogramación es muy bajo.
+
+1031
+01:51:45.080 --> 01:51:52.879
+Arroyo Arzubi Carlos A.: Me explico porque yo quiero tener varios procesos en memoria principal.
+
+1032
+01:51:53.900 --> 01:51:58.409
+Arroyo Arzubi Carlos A.: pero además, que estén en condiciones de ejecutarse porque si están bloqueados esperando. No me sirve
+
+1033
+01:51:59.380 --> 01:52:05.220
+Arroyo Arzubi Carlos A.: la multiprogramación la va a hacer solamente con los que están en condiciones de ejecutarse. ¿se entiende esto? ¿no?
+
+1034
+01:52:05.880 --> 01:52:16.599
+Arroyo Arzubi Carlos A.: Bueno, entonces, si ocurre una situación como esto, algunos tienen la posibilidad de procesos bloqueados, sacarlos.
+
+1035
+01:52:18.310 --> 01:52:19.190
+Arroyo Arzubi Carlos A.: ¿
+
+1036
+01:52:19.320 --> 01:52:26.899
+Arroyo Arzubi Carlos A.: Hacer lo que se llama swap intercambio. Donde saco procesos bloqueados y pongo procesos
+
+1037
+01:52:27.550 --> 01:52:30.840
+Arroyo Arzubi Carlos A.: que estén listos de nuevo a listo.
+
+1038
+01:52:31.060 --> 01:52:33.549
+Arroyo Arzubi Carlos A.: Entonces te pasa acá a
+
+1039
+01:52:36.810 --> 01:52:44.310
+Arroyo Arzubi Carlos A.: lo que se llama más o menos suspendido bloqueado.
+
+1040
+01:52:47.530 --> 01:52:49.970
+Arroyo Arzubi Carlos A.: Entonces yo libero acá
+
+1041
+01:52:54.750 --> 01:53:02.630
+Arroyo Arzubi Carlos A.: Primero esto tengo más lugar y puedo cargar más procesos.
+
+1042
+01:53:03.580 --> 01:53:06.070
+Arroyo Arzubi Carlos A.: Este que está suspendido o bloqueado.
+
+1043
+01:53:06.340 --> 01:53:22.640
+Arroyo Arzubi Carlos A.: Una vez que lleguen los datos de González, va a pasar, suspenden suspendido, listo, que que.
+
+1044
+01:53:22.640 --> 01:53:24.380
+FRANCO EMMANUEL SICARDO: Entra en la memoria virtual.
+
+1045
+01:53:25.420 --> 01:53:27.350
+Arroyo Arzubi Carlos A.: No, no, no. Olvídate memoria virtual.
+
+1046
+01:53:27.790 --> 01:53:31.889
+Arroyo Arzubi Carlos A.: Ya lo vamos a ver este. Estamos hablando de la memoria secundaria.
+
+1047
+01:53:32.830 --> 01:53:40.999
+Arroyo Arzubi Carlos A.: Entonces este que estaba acá suspendido, bloqueado cuando los datos González ya están pasa al suspendido, listo
+
+1048
+01:53:42.910 --> 01:53:46.180
+Arroyo Arzubi Carlos A.: cuando está acá, va a pasar a listo
+
+1049
+01:53:47.530 --> 01:53:51.309
+Arroyo Arzubi Carlos A.: en cuanto tenga la posibilidad de entrar, que haya lugar
+
+1050
+01:53:51.720 --> 01:53:59.220
+Arroyo Arzubi Carlos A.: con prioridad sobre el que viene nuevo, porque este ya está ejecutándose, es decir, que
+
+1051
+01:53:59.580 --> 01:54:09.079
+Arroyo Arzubi Carlos A.: está esto que tenemos? Acá No todos los sistemas operativos tienen que tenerlo, pero pueden tenerlo.
+
+1052
+01:54:09.250 --> 01:54:11.060
+Arroyo Arzubi Carlos A.: Lo demás lo tienen. Todo.
+
+1053
+01:54:11.410 --> 01:54:21.640
+Arroyo Arzubi Carlos A.: Es decir, esto me va mostrando los movimientos que va teniendo un proceso de un Estado a otro.
+
+1054
+01:54:22.730 --> 01:54:35.440
+Arroyo Arzubi Carlos A.: Ahora bien, para administrar, digamos, para tomar decisiones sobre esta lista que tengo acá esta lista que tengo acá.
+
+1055
+01:54:35.850 --> 01:54:38.300
+Arroyo Arzubi Carlos A.: Y la lista que tengo acá también
+
+1056
+01:54:39.220 --> 01:54:45.720
+Arroyo Arzubi Carlos A.: los sistemas de compluten lo que se llama planificadores.
+
+1057
+01:54:47.650 --> 01:54:49.869
+Arroyo Arzubi Carlos A.: Hay 3 planificadores.
+
+1058
+01:54:50.580 --> 01:54:54.250
+Arroyo Arzubi Carlos A.: Uno se llama planificador de largo plazo.
+
+1059
+01:54:56.460 --> 01:54:59.900
+Arroyo Arzubi Carlos A.: El planificador de largo plazo es el que
+
+1060
+01:55:00.460 --> 01:55:09.380
+Arroyo Arzubi Carlos A.: toma la decisión de qué proceso de la cola de nuevo va a ir a listo, sí,
+
+1061
+01:55:10.790 --> 01:55:14.690
+Arroyo Arzubi Carlos A.: planificador de largo plazo, Se dice, se llama de largo plazo.
+
+1062
+01:55:14.810 --> 01:55:19.110
+Arroyo Arzubi Carlos A.: porque actúa con menos frecuencia que los otros.
+
+1063
+01:55:19.290 --> 01:55:20.180
+Arroyo Arzubi Carlos A.: Nada más.
+
+1064
+01:55:21.050 --> 01:55:31.080
+Arroyo Arzubi Carlos A.: Mhm, planificador de corto plazo es el que determina qué proceso de la cola de listo
+
+1065
+01:55:31.700 --> 01:55:37.529
+Arroyo Arzubi Carlos A.: va ahí la ejecución planificador de corto plazo. Este es el más exigente.
+
+1066
+01:55:38.080 --> 01:55:49.590
+Arroyo Arzubi Carlos A.: porque está actuando permanentemente cargando y sacando procesos del procesador, es decir, que este es el más exigente. Este es el más tranquilo
+
+1067
+01:55:50.700 --> 01:55:55.889
+Arroyo Arzubi Carlos A.: y después existe un planificador de mediano plazo
+
+1068
+01:55:56.410 --> 01:56:02.380
+Arroyo Arzubi Carlos A.: que se llama al que administra este swap intercambio,
+
+1069
+01:56:02.640 --> 01:56:07.840
+Arroyo Arzubi Carlos A.: con el objetivo de mantener un adecuado grado de multiprogramación.
+
+1070
+01:56:09.350 --> 01:56:17.479
+Arroyo Arzubi Carlos A.: Entonces repito, tenemos 3 planificadores: el planificador de largo plazo
+
+1071
+01:56:17.640 --> 01:56:25.940
+Arroyo Arzubi Carlos A.: va a determinar qué proceso de la cola de nuevo va a cargar en la cola de listo.
+
+1072
+01:56:26.970 --> 01:56:33.359
+Arroyo Arzubi Carlos A.: teniendo en cuenta, además del algoritmo que le haya impuesto
+
+1073
+01:56:33.890 --> 01:56:43.470
+Arroyo Arzubi Carlos A.: el que escribe el sistema operativo, pero también va a participar en el grado de multiprogramación, es decir, que va a tener que tener en cuenta
+
+1074
+01:56:43.650 --> 01:56:48.300
+Arroyo Arzubi Carlos A.: cuántos procesos hay acá para ver qué carga
+
+1075
+01:56:48.900 --> 01:56:51.259
+Arroyo Arzubi Carlos A.: si cargo 1 grande o 2 chicos.
+
+1076
+01:56:51.570 --> 01:56:57.960
+Arroyo Arzubi Carlos A.: es decir, que interviene también el planificador de largo plazo en
+
+1077
+01:56:58.130 --> 01:57:02.340
+Arroyo Arzubi Carlos A.: mantener un adecuado grado de multiprogramación.
+
+1078
+01:57:05.160 --> 01:57:09.709
+Arroyo Arzubi Carlos A.: El planificador de corto plazo va a aplicar el algoritmo
+
+1079
+01:57:10.910 --> 01:57:16.190
+Arroyo Arzubi Carlos A.: que sea determinado por el que diseña el sistema operativo
+
+1080
+01:57:16.340 --> 01:57:23.950
+Arroyo Arzubi Carlos A.: y va a tener que a través de un Despacher, coloca y saca procesos de estado de ejecución.
+
+1081
+01:57:25.490 --> 01:57:32.430
+Arroyo Arzubi Carlos A.: Y el planificador de mediano plazo va a tener como objetivo.
+
+1082
+01:57:33.090 --> 01:57:37.750
+Arroyo Arzubi Carlos A.: que es ver que el grado de multiprogramación sea
+
+1083
+01:57:38.080 --> 01:57:42.359
+Arroyo Arzubi Carlos A.: razonable. Adecuado? Bueno, qué sé yo, como quieran
+
+1084
+01:57:42.740 --> 01:57:53.620
+Arroyo Arzubi Carlos A.: haciendo esto, que acabamos de ver, que es sacando procesos de la memoria principal a ver que me queda.
+
+1085
+01:58:00.660 --> 01:58:07.260
+Arroyo Arzubi Carlos A.: Bueno, la clase que viene vamos a ver los algoritmos que pueden utilizar estos procesos
+
+1086
+01:58:09.870 --> 01:58:13.009
+Arroyo Arzubi Carlos A.: estructuras de control de un sistema operativo.
+
+1087
+01:58:14.080 --> 01:58:24.850
+Arroyo Arzubi Carlos A.: Todo sistema operativo va a tener que tener determinadas tablas de manera obligatoria, que son obvias.
+
+1088
+01:58:26.400 --> 01:58:33.989
+Arroyo Arzubi Carlos A.: Qué son tablas de proceso, tablas de memoria, tablas de archivo
+
+1089
+01:58:34.340 --> 01:58:38.120
+Arroyo Arzubi Carlos A.: y tabla de entrada o salida. Bueno, hecho.
+
+1090
+01:58:41.940 --> 01:58:47.620
+Arroyo Arzubi Carlos A.: es obvio que lo planifica que cualquier sistema operativo va a tener esto.
+
+1091
+01:58:48.980 --> 01:58:56.040
+Arroyo Arzubi Carlos A.: Y además va a tener un montón de cosas. Ustedes tienen que ponerse en la cabeza. Pónganse que ustedes se ponen a escribir un sistema operativo.
+
+1092
+01:58:56.460 --> 01:59:14.719
+Arroyo Arzubi Carlos A.: entonces ustedes se van a imaginar una cantidad de cosas que van necesitando a medida que vayan viendo los problemas y los van a meter en el bloque de control de proceso, o van a armar una pila o van a armar esto. ¿van a armar lo otro, es decir, que cada sistema operativo, el detalle de lo que tiene adentro
+
+1093
+01:59:15.040 --> 01:59:16.989
+Arroyo Arzubi Carlos A.: y va a depender de quién lo escribió?
+
+1094
+01:59:36.030 --> 01:59:36.830
+Arroyo Arzubi Carlos A.: Bueno.
+
+1095
+01:59:41.880 --> 01:59:45.669
+Arroyo Arzubi Carlos A.: bueno, comunicación entre proceso no lo vamos a ver la clase que viene
+
+1096
+01:59:46.150 --> 01:59:50.120
+Arroyo Arzubi Carlos A.: y vamos a ver los criterios de planificación y los algoritmos.
+
+1097
+01:59:50.630 --> 01:59:53.690
+Arroyo Arzubi Carlos A.: porque yo me estoy quedando sin voz.
+
+1098
+01:59:57.050 --> 02:00:00.410
+Arroyo Arzubi Carlos A.: sin vos, sin yo, sin tú
+
+1099
+02:00:01.290 --> 02:00:07.549
+Arroyo Arzubi Carlos A.: ves, porque no puedo dar 3 h, 4 h de 4 h de clase.
+
+1100
+02:00:07.720 --> 02:00:11.249
+Arroyo Arzubi Carlos A.: salvo que lo deje descansando, porque voy a tomar un café y vuelvas, pero
+
+1101
+02:00:11.880 --> 02:00:15.060
+Arroyo Arzubi Carlos A.: me parece que perdemos mucho tiempo, voy a pasar lista
+
+1102
+02:00:15.750 --> 02:00:19.040
+Arroyo Arzubi Carlos A.: y después que termine de pasar lista.
+
+1103
+02:00:20.030 --> 02:00:24.599
+Arroyo Arzubi Carlos A.: Me plantean las dudas que tengan sobre lo que vimos hoy
+
+1104
+02:00:26.110 --> 02:00:29.309
+Arroyo Arzubi Carlos A.: y después que plantee las dudas sobre lo que vimos hoy.
+
+1105
+02:00:29.540 --> 02:00:32.680
+Arroyo Arzubi Carlos A.: Le queda un rato de tiempo para ir al apunte
+
+1106
+02:00:33.230 --> 02:00:35.719
+Arroyo Arzubi Carlos A.: este hasta las 11 menos cuarto
+
+1107
+02:00:35.940 --> 02:00:45.330
+Arroyo Arzubi Carlos A.: y empezar a leer, o lo que sea, porque el tiempo está álvarez, lupus.
+
+1108
+02:00:45.850 --> 02:00:46.810
+GUSTAVO ALONSO ÁLVAREZ LUPU: Decente.
+
+1109
+02:00:47.210 --> 02:00:50.170
+Arroyo Arzubi Carlos A.: Sí, Sí, no.
+
+1110
+02:00:50.320 --> 02:00:51.320
+Arroyo Arzubi Carlos A.: Bye.
+
+1111
+02:00:51.620 --> 02:00:52.790
+MANUEL BAEZ: Presente.
+
+1112
+02:00:55.180 --> 02:00:57.380
+Arroyo Arzubi Carlos A.: Barros Valenti.
+
+1113
+02:00:57.690 --> 02:00:58.840
+Máximo Barros: Es donde.
+
+1114
+02:01:02.750 --> 02:01:04.299
+Arroyo Arzubi Carlos A.: Basílico. Matías.
+
+1115
+02:01:04.690 --> 02:01:05.880
+MATIAS BASILICO: Presente.
+
+1116
+02:01:08.530 --> 02:01:12.339
+Arroyo Arzubi Carlos A.: De paso, le voy viendo la cara bertín y Agostina.
+
+1117
+02:01:12.510 --> 02:01:13.850
+AGOSTINA BERTINI: Presente, profe.
+
+1118
+02:01:14.490 --> 02:01:19.390
+Arroyo Arzubi Carlos A.: Sí, bonafil. Y Lucas.
+
+1119
+02:01:19.740 --> 02:01:22.600
+LUCAS BONAFFINI: Presente a. Ca.
+
+1120
+02:01:23.890 --> 02:01:24.780
+Arroyo Arzubi Carlos A.: Ahí está.
+
+1121
+02:01:26.640 --> 02:01:29.710
+Arroyo Arzubi Carlos A.: Sí, porque me pasa. El otro día me encontré en el colectivo.
+
+1122
+02:01:29.830 --> 02:01:37.760
+Arroyo Arzubi Carlos A.: Venía de la facultad con otro que me dice cómo le va profesor. ¿qué tal David virtual que querés?
+
+1123
+02:01:38.080 --> 02:01:47.080
+Arroyo Arzubi Carlos A.: No? Pues sí, Seguro que tenía la cámara, y más o menos me dice, claro, menos que menos camellete.
+
+1124
+02:01:47.840 --> 02:01:48.930
+MATEO CAMILLETTI: Profundo. Creo que.
+
+1125
+02:01:53.050 --> 02:01:54.480
+Arroyo Arzubi Carlos A.: Yankey Sánchez.
+
+1126
+02:01:54.930 --> 02:01:58.420
+MARIA CANQUIS SANCHEZ: Presente Profe se escuchaba.
+
+1127
+02:01:58.850 --> 02:01:59.520
+Arroyo Arzubi Carlos A.: Sí.
+
+1128
+02:02:00.400 --> 02:02:01.100
+MARIA CANQUIS SANCHEZ: Bueno.
+
+1129
+02:02:02.940 --> 02:02:04.120
+Arroyo Arzubi Carlos A.: Casco, Lucas.
+
+1130
+02:02:04.430 --> 02:02:05.580
+Lucas LUCAS CASCO: Presente, profe.
+
+1131
+02:02:07.240 --> 02:02:11.920
+Arroyo Arzubi Carlos A.: Bien castaño Álvarez.
+
+1132
+02:02:12.430 --> 02:02:13.340
+MATIAS SEBASTIAN CASTAÑO ALVAREZ: Presente.
+
+1133
+02:02:15.630 --> 02:02:16.510
+Arroyo Arzubi Carlos A.: Álvarez.
+
+1134
+02:02:16.910 --> 02:02:18.250
+MATIAS SEBASTIAN CASTAÑO ALVAREZ: Presente presente.
+
+1135
+02:02:18.770 --> 02:02:21.760
+Arroyo Arzubi Carlos A.: Que me cuesta verlo porque tengo la pantalla, un montón.
+
+1136
+02:02:21.920 --> 02:02:27.079
+Arroyo Arzubi Carlos A.: pero se prende un poquito por eso. Tardo Córdoba. Carlos amar.
+
+1137
+02:02:27.080 --> 02:02:28.090
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Presente.
+
+1138
+02:02:29.130 --> 02:02:29.710
+Arroyo Arzubi Carlos A.: Ya
+
+1139
+02:02:32.320 --> 02:02:41.260
+Arroyo Arzubi Carlos A.: sabe que para los ahora me acordé. Lo digo por las dudas, porque ahora, con el respondo, hay que usar 2 cámaras, ya lo saben, todo eso.
+
+1140
+02:02:43.000 --> 02:02:45.950
+Arroyo Arzubi Carlos A.: Bueno, pónganse claro.
+
+1141
+02:02:46.460 --> 02:02:50.989
+Arroyo Arzubi Carlos A.: Cuando vayan las evaluaciones por el otro día lo en la reunión de profesores nos dijeron.
+
+1142
+02:02:51.720 --> 02:02:54.620
+Arroyo Arzubi Carlos A.: este van a tener que poner 2 cámaras.
+
+1143
+02:02:55.180 --> 02:03:00.240
+Arroyo Arzubi Carlos A.: una obviamente la que no mira a ustedes y otra de costado. Así que puede ser el celular.
+
+1144
+02:03:01.550 --> 02:03:06.240
+Arroyo Arzubi Carlos A.: puesto apoyado donde se ve todo.
+
+1145
+02:03:06.990 --> 02:03:15.679
+Arroyo Arzubi Carlos A.: Están siendo acorralados perseguidos, están siendo buscados. Todos sí, tienes razón.
+
+1146
+02:03:15.680 --> 02:03:17.130
+HECTOR SEBASTIAN PERANIC LANDABURU: Me con.
+
+1147
+02:03:17.130 --> 02:03:17.750
+Arroyo Arzubi Carlos A.: A una.
+
+1148
+02:03:17.750 --> 02:03:18.490
+HECTOR SEBASTIAN PERANIC LANDABURU: No, no.
+
+1149
+02:03:18.490 --> 02:03:18.910
+Arroyo Arzubi Carlos A.: Cómo.
+
+1150
+02:03:18.910 --> 02:03:25.230
+HECTOR SEBASTIAN PERANIC LANDABURU: No lo leí. No sé si no sé si no me llegó el mail o se me pasó. El No lo leí, pero sí me notificaron, digamos, me me dijeron.
+
+1151
+02:03:28.310 --> 02:03:32.220
+Arroyo Arzubi Carlos A.: Tiene que hacer alguna al alguna práctica
+
+1152
+02:03:32.890 --> 02:03:40.169
+Arroyo Arzubi Carlos A.: para configurar y todo eso. Yo lo leí así muy por arriba. Parece bastante simple, pero bueno, todo es simple. Hasta que.
+
+1153
+02:03:40.170 --> 02:03:41.209
+HECTOR SEBASTIAN PERANIC LANDABURU: Que buscarlo así.
+
+1154
+02:03:41.210 --> 02:03:42.340
+Arroyo Arzubi Carlos A.: Hay que probarlo.
+
+1155
+02:03:42.920 --> 02:03:43.510
+HECTOR SEBASTIAN PERANIC LANDABURU: Vale.
+
+1156
+02:03:44.650 --> 02:03:45.570
+Arroyo Arzubi Carlos A.: Ahora.
+
+1157
+02:03:46.520 --> 02:03:47.340
+FRANCISCO DAURAT: Presente.
+
+1158
+02:03:50.330 --> 02:03:51.110
+Arroyo Arzubi Carlos A.: Dos.
+
+1159
+02:03:52.350 --> 02:03:53.680
+TOMÁS DODDS SCHAEFER: Presente, profe.
+
+1160
+02:03:53.930 --> 02:03:54.550
+Arroyo Arzubi Carlos A.: Sí.
+
+1161
+02:03:55.990 --> 02:03:57.260
+Arroyo Arzubi Carlos A.: Echeverri.
+
+1162
+02:03:57.610 --> 02:03:58.560
+GASPAR ETCHEVERRY: Hay gente.
+
+1163
+02:04:02.070 --> 02:04:02.990
+Arroyo Arzubi Carlos A.: Praga.
+
+1164
+02:04:02.990 --> 02:04:04.050
+ARON FRAGA: Decente profe.
+
+1165
+02:04:04.320 --> 02:04:07.740
+Arroyo Arzubi Carlos A.: Sí, García escalera.
+
+1166
+02:04:08.630 --> 02:04:09.780
+JHARID GARCIA ESCALERA: Es en qué.
+
+1167
+02:04:11.200 --> 02:04:15.510
+Arroyo Arzubi Carlos A.: De calidad Gómez de A. Dean.
+
+1168
+02:04:16.230 --> 02:04:17.730
+TOMAS GOMEZ DEAN: Presente.
+
+1169
+02:04:21.890 --> 02:04:23.360
+Arroyo Arzubi Carlos A.: Ámbar a Jacobo.
+
+1170
+02:04:24.070 --> 02:04:25.000
+JACOBO BRIAN HAMBRA: Es de.
+
+1171
+02:04:27.210 --> 02:04:28.680
+Arroyo Arzubi Carlos A.: Ledesma, castillo.
+
+1172
+02:04:29.130 --> 02:04:29.980
+ALEJANDRO LEDESMA CASTILLO: Presente.
+
+1173
+02:04:33.930 --> 02:04:35.290
+Arroyo Arzubi Carlos A.: Malagrino.
+
+1174
+02:04:35.800 --> 02:04:36.780
+NATALIO STEFANO MALAGRINO: Presente.
+
+1175
+02:04:37.590 --> 02:04:39.419
+Arroyo Arzubi Carlos A.: Estaba maravillado allá
+
+1176
+02:04:43.380 --> 02:04:49.910
+Arroyo Arzubi Carlos A.: si la cará la la la cámara apagada, porque parece que fuera la segunda vez que te veo nomás, ¿no?
+
+1177
+02:04:50.040 --> 02:04:51.220
+Arroyo Arzubi Carlos A.: O me equivoco.
+
+1178
+02:04:51.220 --> 02:04:51.910
+NATALIO STEFANO MALAGRINO: Cómo.
+
+1179
+02:04:53.040 --> 02:04:54.989
+Arroyo Arzubi Carlos A.: Tenés mucho, la cámara apagada o no.
+
+1180
+02:04:55.310 --> 02:04:55.880
+NATALIO STEFANO MALAGRINO: No.
+
+1181
+02:04:56.100 --> 02:04:58.140
+Arroyo Arzubi Carlos A.: Entonces, no te vi.
+
+1182
+02:04:59.830 --> 02:05:00.990
+Arroyo Arzubi Carlos A.: Buleiro.
+
+1183
+02:05:02.100 --> 02:05:03.000
+JOAQUÍN MULEIRO BELTRAN: Pero es dónde? Broth.
+
+1184
+02:05:07.400 --> 02:05:08.680
+Arroyo Arzubi Carlos A.: Por Landini.
+
+1185
+02:05:10.310 --> 02:05:11.360
+Emanuel CARLOS ORLANDINI: Precisamente profe.
+
+1186
+02:05:12.760 --> 02:05:19.010
+Arroyo Arzubi Carlos A.: Sí está fijo. Ahí ortiz ochmik.
+
+1187
+02:05:19.330 --> 02:05:20.559
+MARIA ELISA ORTIZ OSMIK: Presente, profe.
+
+1188
+02:05:24.580 --> 02:05:26.059
+Arroyo Arzubi Carlos A.: Veranic, Landaburu.
+
+1189
+02:05:26.620 --> 02:05:29.740
+HECTOR SEBASTIAN PERANIC LANDABURU: Decente profe presente, se me escucha.
+
+1190
+02:05:30.770 --> 02:05:31.390
+Arroyo Arzubi Carlos A.: Sí.
+
+1191
+02:05:32.140 --> 02:05:32.630
+HECTOR SEBASTIAN PERANIC LANDABURU: Mhm.
+
+1192
+02:05:32.630 --> 02:05:33.640
+Arroyo Arzubi Carlos A.: Sí. Sí.
+
+1193
+02:05:34.760 --> 02:05:36.469
+Arroyo Arzubi Carlos A.: Pereira, Maldonado.
+
+1194
+02:05:36.470 --> 02:05:37.850
+ANDRÉS PEREIRA MALDONADO: Presente, profe.
+
+1195
+02:05:38.970 --> 02:05:39.630
+Arroyo Arzubi Carlos A.: Ahí está.
+
+1196
+02:05:42.160 --> 02:05:43.689
+Arroyo Arzubi Carlos A.: Pies. Montesci.
+
+1197
+02:05:44.440 --> 02:05:45.740
+DANTE PIEMONTESI: Decente profe.
+
+1198
+02:05:47.720 --> 02:05:51.420
+Arroyo Arzubi Carlos A.: De montes pisurno.
+
+1199
+02:05:52.050 --> 02:05:55.110
+ALEXANDER EMANUEL PIZZURNO DUARTE: Presente. Profe. No sé si se escucha mi micrófono.
+
+1200
+02:05:55.110 --> 02:05:56.470
+Arroyo Arzubi Carlos A.: Sí, se escucha Bien.
+
+1201
+02:05:56.470 --> 02:05:57.120
+ALEXANDER EMANUEL PIZZURNO DUARTE: Tú, bueno.
+
+1202
+02:05:58.980 --> 02:06:01.070
+Arroyo Arzubi Carlos A.: Sales mateo.
+
+1203
+02:06:01.460 --> 02:06:02.440
+Mateo MATEO SALES: Presente pro.
+
+1204
+02:06:03.590 --> 02:06:08.740
+Arroyo Arzubi Carlos A.: Bien Siccardo, Franco.
+
+1205
+02:06:09.240 --> 02:06:10.660
+FRANCO EMMANUEL SICARDO: En ejecución.
+
+1206
+02:06:11.950 --> 02:06:15.279
+Arroyo Arzubi Carlos A.: De de de también soler.
+
+1207
+02:06:16.150 --> 02:06:17.650
+FEDERICO SOLER: Presidente, profesor.
+
+1208
+02:06:18.310 --> 02:06:19.050
+Arroyo Arzubi Carlos A.: Sí.
+
+1209
+02:06:21.720 --> 02:06:22.880
+Arroyo Arzubi Carlos A.: Tauser.
+
+1210
+02:06:23.810 --> 02:06:24.790
+Tomas Tauscher: Decente.
+
+1211
+02:06:28.250 --> 02:06:29.760
+Arroyo Arzubi Carlos A.: Humedes, José.
+
+1212
+02:06:30.140 --> 02:06:31.220
+Jose Umere: Presente, profe.
+
+1213
+02:06:31.840 --> 02:06:33.560
+Arroyo Arzubi Carlos A.: Esumere o ume.
+
+1214
+02:06:33.560 --> 02:06:34.430
+Jose Umere: Humere.
+
+1215
+02:06:34.960 --> 02:06:36.919
+Arroyo Arzubi Carlos A.: Hombre: Veo que estás trabajando.
+
+1216
+02:06:36.920 --> 02:06:37.670
+Jose Umere: Sí.
+
+1217
+02:06:37.670 --> 02:06:43.609
+Arroyo Arzubi Carlos A.: Y bueno, ¿qué va a ser así? La vida valle Figueroa.
+
+1218
+02:06:43.850 --> 02:06:44.660
+MARCOS VALLE FIGUEROA: Presente.
+
+1219
+02:06:49.190 --> 02:06:52.130
+Arroyo Arzubi Carlos A.: Teodoro. No está Teodoro.
+
+1220
+02:06:52.130 --> 02:06:53.140
+TEODORO WELYCZKO: Queda presente.
+
+1221
+02:06:53.850 --> 02:06:54.930
+Arroyo Arzubi Carlos A.: Marca bateoro.
+
+1222
+02:06:55.390 --> 02:06:56.100
+TEODORO WELYCZKO: Claro.
+
+1223
+02:06:58.210 --> 02:07:01.930
+Arroyo Arzubi Carlos A.: Teodoro. Ahí está bien. Teodoro por razones obvias.
+
+1224
+02:07:02.160 --> 02:07:04.820
+Arroyo Arzubi Carlos A.: Yo muy.
+
+1225
+02:07:06.470 --> 02:07:07.490
+TOBÍAS WIRTH: ¡venga! Profe.
+
+1226
+02:07:11.350 --> 02:07:12.580
+Arroyo Arzubi Carlos A.: Divino.
+
+1227
+02:07:14.020 --> 02:07:15.100
+JOAQUIN DININNO: Acá presente.
+
+1228
+02:07:16.480 --> 02:07:17.779
+Arroyo Arzubi Carlos A.: A alguien. No nombré,
+
+1229
+02:07:21.950 --> 02:07:30.749
+Arroyo Arzubi Carlos A.: pues, no alguna pregunta de lo que vimos hoy, que quieran, que repasemos y le haya surgido ahora
+
+1230
+02:07:38.680 --> 02:07:39.790
+Arroyo Arzubi Carlos A.: no hay dudas.
+
+1231
+02:07:41.130 --> 02:07:51.500
+Arroyo Arzubi Carlos A.: Bueno, entonces yo voy a dejar de grabar. Ustedes ya saben que tienen tiempo para leer los apuntes.
+
+1232
+02:07:54.170 --> 02:08:01.459
+Arroyo Arzubi Carlos A.: Este y nada nos vemos la clase que viene. Entonces la clase. Ah, la clase que viene
+
+1233
+02:08:02.360 --> 02:08:06.680
+Arroyo Arzubi Carlos A.: ya. Voy a hacer preguntas orales de
+
+1234
+02:08:08.030 --> 02:08:20.189
+Arroyo Arzubi Carlos A.: de todo lo que vimos en la unidad: 1 y ya está hasta lo que vimos hoy. De las 2 clases, algunas preguntas, 2 o 3 preguntas que le hago a cada 1 como para
+
+1235
+02:08:20.300 --> 02:08:27.629
+Arroyo Arzubi Carlos A.: repasar, digamos, lo lo lo más importante de tomar el hilo.
+
+1236
+02:08:27.860 --> 02:08:37.270
+Arroyo Arzubi Carlos A.: Y entonces seguimos con los planificadores, los criterios, los algoritmos, y vamos a hacer algunos ejercicios sobre un excel
+
+1237
+02:08:37.780 --> 02:08:41.400
+Arroyo Arzubi Carlos A.: que voy a poner acá en la pantalla.
+
+1238
+02:08:42.490 --> 02:08:45.650
+Arroyo Arzubi Carlos A.: Y ahí con esto terminaríamos la unidad. Tres.
+
+1239
+02:08:45.960 --> 02:08:51.010
+Arroyo Arzubi Carlos A.: Bueno, entonces, si les parece bien, voy a dejar de grabar y nos vemos la.
+
+

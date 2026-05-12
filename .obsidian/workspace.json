@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Coass.md",
+                "file": "Etc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coass"
+              "title": "Etc"
             }
           }
         ],
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Coass.md",
+                "file": "Etc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coass"
+              "title": "Outgoing links from Etc"
             }
           },
           {
@@ -214,13 +214,33 @@
   },
   "active": "fc3c21d91bf1d7d6",
   "lastOpenFiles": [
+    "Material/testing_qa/TP/TPParte6_EstrategiaTesting_Grupo8-1.pdf",
+    "Material/testing_qa/TP/TPParte5Grupo8.pdf",
+    "Material/testing_qa/TP/TPParte4_PlanCM_Grupo8.docx-1.pdf",
+    "Material/testing_qa/TP/TPParte3Grupo8.pdf",
+    "Material/testing_qa/TP/TPParte2Grupo8-1.pdf",
+    "Material/testing_qa/TP/TPParte1SeleccionProdQA-1.pdf",
+    "Material/testing_qa/Parciales/2Parcial.pdf",
+    "Material/testing_qa/Parciales/1Parcial.pdf",
+    "Material/testing_qa/preguntas.pdf",
+    "Material/testing_qa/TP",
+    "Material/testing_qa/Parciales",
+    "Material/devops/parciales/Parcial 2/Pregunta 8-9-10.jpeg",
+    "Material/devops/parciales/Parcial 2/Pregunta 7-8-9.jpeg",
+    "Material/devops/parciales/Parcial 2/Pregunta 4-5-6.jpeg",
+    "Material/devops/parciales/Parcial 2/Pregunta 1-2-3.jpeg",
+    "Material/devops/parciales/Parcial 1/Pregunta 9-10.jpeg",
+    "Material/devops/parciales/Parcial 1/Pregunta 8-9.jpeg",
+    "Material/devops/parciales/Parcial 1/Pregunta 6-7.jpeg",
+    "Material/devops/parciales/Parcial 1/Pregunta 3-4-5.jpeg",
+    "Material/devops/parciales/Parcial 1/Pregunta 1-2.jpeg",
+    "Material/auditoria_de_sistemas/parciales/Primer-Parcial/WhatsApp Image 2026-05-11 at 2.54.55 PM.jpeg",
+    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 7 - Estrategias de Testing.md",
     "Etc.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Coass.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 1 - Fundamentos e Introduccion..md",
     "Cuarto Año/Planeamiento estrategico/Banco de preguntas.md",
-    "Cuarto Año/Planeamiento estrategico",
-    "Cuarto Año",
     "Tercer Año/Segundo Cuatrimestre/Informatica Forense.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 6 - Diseños de casos de tests.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Parciales.md",
@@ -237,28 +257,8 @@
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 6 - Auditoría informática y deontología.md",
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 4 - Acta de constitución. Plan para la dirección de proyectos.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 5 -Auditoría Informática.md",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260402170340.png",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 4 - Concepto de Auditoria.md",
     "Larovich.md",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 2 - Principios y dominios de la dirección de proyectos.md",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 1 - Introduccion a la direccion de proyectos.md",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260325161119.png",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 3 - Dominio del desempeño del enfoque de desarrollo y del ciclo de vida.md",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260323154145.png",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Fotos",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Fotos/Pasted image 20260323154054.png",
-    "Tercer Año/Primer Cuatrimestre/Seg Web",
-    "Tercer Año/Primer Cuatrimestre/DevOps",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA",
-    "Tercer Año/Primer Cuatrimestre/Sistemas operativos",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251104175502.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251017110948.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143607.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143632.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030143648.png",
-    "Segundo Año/Segundo cuatrimestre/Matematica Discreta/Fotos/Pasted image 20251030181752.png"
+    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 2 - Principios y dominios de la dirección de proyectos.md"
   ]
 }
