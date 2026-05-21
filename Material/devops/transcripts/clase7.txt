@@ -1,0 +1,2595 @@
+WEBVTT
+
+1
+00:00:11.530 --> 00:00:13.789
+FACUNDO EMANUEL MODARELLI: Pueda integrar con la Api de Clausfler.
+
+2
+00:00:14.950 --> 00:00:20.579
+FACUNDO EMANUEL MODARELLI: Quizás pueda integrarlo con Clausfler para que dé de alta efectivamente un danés en algún lado.
+
+3
+00:00:20.850 --> 00:00:27.429
+FACUNDO EMANUEL MODARELLI: Pero la idea del Api era una una un centralizador de un gestor de Dns. No.
+
+4
+00:00:27.820 --> 00:00:28.310
+Lucas Bonanni: Claro.
+
+5
+00:00:28.310 --> 00:00:47.200
+FACUNDO EMANUEL MODARELLI: Este este app. Y cuando vos le cargues con el create zone con el post, o sea, esos posts, y es nada más, ¿no? Con el post le hagas create Zone. Te te cree una zona y que después eso dispare una tarea, un atasco, un script o otra Api que vaya y la configure en todas estas cifras.
+
+6
+00:00:47.650 --> 00:00:58.459
+FACUNDO EMANUEL MODARELLI: Eso es como idea general, no de de de de qué es lo que haría la A. P I para el trabajo práctico. Es como que hice este. Esta esta apide en ese nada más, pero en sí no hace nada. Es como termina siendo como un
+
+7
+00:00:59.070 --> 00:01:05.589
+FACUNDO EMANUEL MODARELLI: y como un crude Adent, digamos que no tiene base de datos que lo lo corre en memoria no.
+
+8
+00:01:08.990 --> 00:01:10.270
+Lucas Bonanni: Okay.
+
+9
+00:01:10.940 --> 00:01:13.070
+FACUNDO EMANUEL MODARELLI: N: No sé si si
+
+10
+00:01:13.390 --> 00:01:20.300
+FACUNDO EMANUEL MODARELLI: de paso aprovecho y consulto si por ahí, si cumple expectativas o si habría que agregarle algo más. La parte de monitoreo todavía no la hice.
+
+11
+00:01:22.980 --> 00:01:29.670
+Lucas Bonanni: Sí. Lo que tienes que fijarte es lo que decía de usar el hook en el hith houb action.
+
+12
+00:01:31.090 --> 00:01:50.809
+Lucas Bonanni: porque no. Lo que no sirve como deploy con lo que no cuenta. Es como deploy solamente linkar el repositorio de hit Hub, porque eso no no sirve como como deploy, porque no, no es un un deploy. En realidad, lo que estás linkeando es una cuenta, sí.
+
+13
+00:01:51.190 --> 00:01:57.560
+FACUNDO EMANUEL MODARELLI: Ah, no, no. Lo que hice fue creer en Docker. Hub, en seguir todos los pasitos, ¿no? O sea, yo creé en
+
+14
+00:01:57.780 --> 00:02:01.490
+FACUNDO EMANUEL MODARELLI: en en Dockerhab subí como que, como que
+
+15
+00:02:01.980 --> 00:02:06.250
+FACUNDO EMANUEL MODARELLI: en gid abbations en el pipe line que configuré
+
+16
+00:02:06.480 --> 00:02:10.979
+FACUNDO EMANUEL MODARELLI: termina como estando linkado y es como que la infra está ahí. No
+
+17
+00:02:11.240 --> 00:02:17.730
+FACUNDO EMANUEL MODARELLI: hice el Bill del Docker, lo lo puse mhm, o sea.
+
+18
+00:02:17.730 --> 00:02:18.370
+Lucas Bonanni: Y hay.
+
+19
+00:02:18.370 --> 00:02:19.320
+FACUNDO EMANUEL MODARELLI: Día está.
+
+20
+00:02:19.970 --> 00:02:25.690
+Lucas Bonanni: Sí, pero ojo igual no es. No es lo mismo. Puedes construir la imagen de de Docker.
+
+21
+00:02:26.060 --> 00:02:28.440
+Lucas Bonanni: pero después la tenés que pusear a render.
+
+22
+00:02:33.540 --> 00:02:33.960
+FACUNDO EMANUEL MODARELLI: A que.
+
+23
+00:02:33.960 --> 00:02:53.030
+Lucas Bonanni: El deployd no es que si no, no, no tiene sentido porque vos puedes construir la imagen pulsear la imagen a Dotterhab. Pero la idea es que después también la imagen Vos desde el he action, le digas a render que imagen tiene que
+
+24
+00:02:53.510 --> 00:02:55.819
+Lucas Bonanni: que que publicar, no.
+
+25
+00:02:58.320 --> 00:03:06.700
+FACUNDO EMANUEL MODARELLI: Claro, claro, claro, claro si me tengo que porque esto lo fui haciendo de a poco y
+
+26
+00:03:07.100 --> 00:03:12.170
+FACUNDO EMANUEL MODARELLI: y hace ya una semana o 2 que no lo veo. Pero lo que hace el Gith Hab Action hasta ahora es como que
+
+27
+00:03:12.300 --> 00:03:17.400
+FACUNDO EMANUEL MODARELLI: hace el el el tiene. El repo, instala la dependencia, se ejecuta el pi test
+
+28
+00:03:17.600 --> 00:03:23.320
+FACUNDO EMANUEL MODARELLI: para que haga como el testing de de las dependencias. Hace el Bill de la imagen y lo puse a Dockerhab.
+
+29
+00:03:24.270 --> 00:03:29.460
+FACUNDO EMANUEL MODARELLI: Eso es lo que hace como el el el Git Jabactions en la.
+
+30
+00:03:30.090 --> 00:03:36.579
+Lucas Bonanni: Sí, ahí. Bueno, entonces te falta el último paso, que es que se llama el hook de render. Por lo menos.
+
+31
+00:03:37.830 --> 00:03:42.660
+FACUNDO EMANUEL MODARELLI: Claro, yo no me acuerdo. Como conecté, render a creo que lo conecté directo a
+
+32
+00:03:43.150 --> 00:03:47.099
+FACUNDO EMANUEL MODARELLI: a a Docker, creo que no está incluido en el Pive. Line.
+
+33
+00:03:48.530 --> 00:03:55.700
+Lucas Bonanni: Claro. Por eso eso no, no, no sería con, no lo contaría como el de play, porque lo que estás haciendo es limpiar las cuentas.
+
+34
+00:03:56.760 --> 00:04:02.669
+FACUNDO EMANUEL MODARELLI: Tendría que estar en el claro quedó. Me parece, me parece que es de Render
+
+35
+00:04:02.880 --> 00:04:05.600
+FACUNDO EMANUEL MODARELLI: Linquié la cuenta y levantó.
+
+36
+00:04:06.590 --> 00:04:08.980
+Lucas Bonanni: Claro, eso es lo que por eso es la aclaración.
+
+37
+00:04:09.090 --> 00:04:25.750
+Lucas Bonanni: No es lo mismo y y va para todos, no, o sea, la idea es que no es que limpiar las cuentas, porque eso no es un deployd. Eso es limpiar las cuentas. Lo que la idea es que existaction dispare deployd y sea el que le diga render che tenes que usar esta imagen de Docker
+
+38
+00:04:25.980 --> 00:04:29.570
+Lucas Bonanni: Deploy Food que les mencionaba.
+
+39
+00:04:32.040 --> 00:04:45.160
+FACUNDO EMANUEL MODARELLI: Claro, claro, bueno, buen dato. Entonces porque, claro, yo tenía como casi todo hecho, y me faltaba esta parte de que porque lo termina desplegando. Pero en en actualiza el el Docker, digamos no después. Es un render como que lo toma.
+
+40
+00:04:46.170 --> 00:04:46.650
+Lucas Bonanni: Sí, claro.
+
+41
+00:04:46.650 --> 00:04:46.990
+FACUNDO EMANUEL MODARELLI: Sí.
+
+42
+00:04:46.990 --> 00:04:55.260
+Lucas Bonanni: Porque toman Leites porque vos le pusiste Seguramente tag el tablets, pero no no estés haciendo un deployd.
+
+43
+00:04:58.730 --> 00:05:05.620
+FACUNDO EMANUEL MODARELLI: Entonces quis claro, yo limpié el Github con render, claro, ahí está. Ahora me acordé, sacame, lo guié,
+
+44
+00:05:11.410 --> 00:05:13.359
+FACUNDO EMANUEL MODARELLI: pero lo limpié a nivel de cuentas.
+
+45
+00:05:14.540 --> 00:05:19.430
+Lucas Bonanni: Claro por eso, pero no tiene que ser con el deploy en fibraction.
+
+46
+00:05:19.430 --> 00:05:29.920
+FACUNDO EMANUEL MODARELLI: Con Guijarro Okay Okay. Bueno, para la próxima clase, me traigo eso hecho capaz que si si lo puedo mostrar y y me dan la opinión. Sería genial para ver si voy bien o si.
+
+47
+00:05:30.460 --> 00:05:33.519
+Lucas Bonanni: Sí, las próximas son las presentaciones. Así que.
+
+48
+00:05:33.660 --> 00:05:34.400
+FACUNDO EMANUEL MODARELLI: Okay.
+
+49
+00:05:37.350 --> 00:05:45.030
+Lucas Bonanni: Se posiblemente después organice, organicemos por el slack, a ver si organizamos algún orden o
+
+50
+00:05:45.150 --> 00:05:51.990
+Lucas Bonanni: y los bolsillos. Sí, los voy a tener que separar de alguna manera para que me queden la misma cantidad en ambos lados.
+
+51
+00:05:52.620 --> 00:05:54.449
+Lucas Bonanni: Sí, en en ambas fechas
+
+52
+00:05:59.240 --> 00:06:04.199
+Lucas Bonanni: no van a poder el primer día ni todos van a poder el último.
+
+53
+00:06:04.500 --> 00:06:08.560
+Lucas Bonanni: Sí, o sí, voy a tener que más o menos distribuir mitad y mitad.
+
+54
+00:06:15.230 --> 00:06:15.900
+FACUNDO EMANUEL MODARELLI: Bien.
+
+55
+00:06:16.550 --> 00:06:24.209
+FRANCISCO DAURAT: Entonces Profe no me quedó claro. La próxima clases es la pre entrega y se defiende o solo es la pre entrega y recién estabas hablando del final.
+
+56
+00:06:25.990 --> 00:06:28.729
+Lucas Bonanni: Este es la pre entrega y se defienda
+
+57
+00:06:29.120 --> 00:06:33.630
+Lucas Bonanni: final, es las modificaciones o las mejoras.
+
+58
+00:06:34.190 --> 00:06:35.759
+FRANCISCO DAURAT: Okay Okay! Perfecto.
+
+59
+00:06:37.450 --> 00:06:40.509
+Lucas Bonanni: Sí, porque no, no les imagínese que una fecha de final
+
+60
+00:06:40.830 --> 00:06:59.800
+Lucas Bonanni: no les puedo tomar a todos, entonces no puedo hacer justificar a todos todos ver todo de vuelta es un montón de tiempo. Entonces lo que hacemos es adelantar un poco. Por eso, como les expliqué al principio de clase, primero es la evo. La nota de cursada es por los 2 parciales
+
+61
+00:06:59.940 --> 00:07:01.740
+Lucas Bonanni: y
+
+62
+00:07:02.190 --> 00:07:11.619
+Lucas Bonanni: después, ya más o menos yo les voy adelantando, como es un trabajo práctico. La idea es que ustedes tengan tiempo. También es una facilidad para ustedes, para que
+
+63
+00:07:11.650 --> 00:07:24.420
+Lucas Bonanni: llegan al final y ya sepan más o menos cómo encararlo si ya lo tienen encarado, ya se preocupan porque, ya saben, Bueno, si ya les fue bien, bueno, ustedes mejorarán lo que tienen que mejorar y
+
+64
+00:07:24.560 --> 00:07:31.070
+Lucas Bonanni: y ya está. Pero ya saben, como van preparados, sí
+
+65
+00:07:31.070 --> 00:07:46.640
+Lucas Bonanni: y nada. El día al final es es sencillamente rápido. Repasamos a ver que si se hicieron las correcciones que se que hacían falta o que se marcaron y y listo. Y si había algo para hacer. Y si no ya estaba la nota y listo.
+
+66
+00:07:53.150 --> 00:08:01.480
+FACUNDO EMANUEL MODARELLI: buenísimo. Entonces yo me llevo. Esta sería una algo que me llevo para corregir, por ejemplo, no de que Github le pegue también haga el diploy que.
+
+67
+00:08:02.100 --> 00:08:02.780
+Lucas Bonanni: Sí.
+
+68
+00:08:02.780 --> 00:08:05.420
+FACUNDO EMANUEL MODARELLI: Las razones y me falta esa parte.
+
+69
+00:08:05.930 --> 00:08:15.440
+Lucas Bonanni: Claro, asegúrate de eso, asegúrate de vos Estás construyendo cómo estás construyendo el tagle, o la versión de la del docker.
+
+70
+00:08:19.730 --> 00:08:26.010
+FACUNDO EMANUEL MODARELLI: En cómo la estoy construyendo con el pipeline de.
+
+71
+00:08:26.810 --> 00:08:37.819
+Lucas Bonanni: Claro. Pero ¿cómo le estás diciendo que targe de versiones? ¿cómo sabes cuál es una la versión de tu imagen si es nueva, vieja, ¿cómo sabes cómo las identificas.
+
+72
+00:08:40.860 --> 00:08:44.619
+FACUNDO EMANUEL MODARELLI: Claro, no lo estoy taleando. Sí, es verdad. Eso es otro punto.
+
+73
+00:08:45.540 --> 00:08:49.000
+FACUNDO EMANUEL MODARELLI: Es como que yo desplegué una sola versión.
+
+74
+00:08:50.710 --> 00:08:58.670
+Lucas Bonanni: Claro es eso. Tienes que Bueno, eso es otra cosa. Tiene que ver de desplegar las diferentes versiones y
+
+75
+00:08:58.770 --> 00:09:00.290
+Lucas Bonanni: y poner las tags.
+
+76
+00:09:04.990 --> 00:09:08.350
+FACUNDO EMANUEL MODARELLI: Claro. La tengo como lates leites. Tú sabes, como que la única que hay.
+
+77
+00:09:08.970 --> 00:09:15.509
+Lucas Bonanni: Claro, no, no tiene que tener una una versión, porque eso vos es lo que después le vas a terminando, pasando al hook.
+
+78
+00:09:15.510 --> 00:09:16.220
+FACUNDO EMANUEL MODARELLI: Claro.
+
+79
+00:09:17.700 --> 00:09:21.740
+FACUNDO EMANUEL MODARELLI: Bien, entonces necesito mejorar el versionado
+
+80
+00:09:25.320 --> 00:09:35.619
+FACUNDO EMANUEL MODARELLI: de mi docter y la cuestión del diployment para que efectivamente despliegue en en Randall
+
+81
+00:09:36.620 --> 00:09:38.860
+FACUNDO EMANUEL MODARELLI: y no lo haga por alguien queo de la cuenta.
+
+82
+00:09:39.280 --> 00:09:40.569
+Lucas Bonanni: Mhm: Exacto
+
+83
+00:09:51.940 --> 00:09:57.160
+Lucas Bonanni: Bien, alguna duda más de del trabajo práctico. ¿alguien
+
+84
+00:09:57.320 --> 00:10:00.290
+Lucas Bonanni: tuvo algún problema? Se bloqueó con algo.
+
+85
+00:10:00.290 --> 00:10:05.880
+BENJAMIN BAIGORRIA FUNES: Sí, Yo Profe. Te quería preguntar: ¿cuál sería el alcance de de la A. P. I,
+
+86
+00:10:06.250 --> 00:10:13.420
+BENJAMIN BAIGORRIA FUNES: Porque yo, por ejemplo, tengo varias consultas, algunas consultas, por ejemplo, hechas a a otra, A, P. I para que me baje
+
+87
+00:10:13.630 --> 00:10:17.530
+BENJAMIN BAIGORRIA FUNES: cartas del magic the Gatherine, pero
+
+88
+00:10:18.740 --> 00:10:22.560
+BENJAMIN BAIGORRIA FUNES: no sé si hay que hacer un cruz básico o o el alcance.
+
+89
+00:10:22.560 --> 00:10:27.429
+Lucas Bonanni: No, no, no, no di un un alcance específico. Lo que tienen que hacer es
+
+90
+00:10:27.490 --> 00:10:42.569
+Lucas Bonanni: un a P I básico que funcione, que muestre que se pueda mostrar algo después en la parte de monitoreo, como le decía, tal vez un envol que tenga que genere algún tipo de error, algún tipo de problema como para después mostrar
+
+91
+00:10:42.980 --> 00:10:53.190
+Lucas Bonanni: al algún algún gráfico dentro de de la parte de monitoreo, pero no, no tiene un alcance así. De bueno, tiene que tener estas funcionalidades.
+
+92
+00:10:55.130 --> 00:10:56.120
+BENJAMIN BAIGORRIA FUNES: Okay Okay.
+
+93
+00:10:56.770 --> 00:11:08.200
+Lucas Bonanni: Entonces lo que les decía es bueno. Aprovechen si pueden hacer alguna integración, porque cuando hagan la parte de monitoreo y según el proveedor, van a tener la posibilidad de configurar trazas. Por ejemplo.
+
+94
+00:11:08.200 --> 00:11:11.650
+BENJAMIN BAIGORRIA FUNES: No hace, por ejemplo, falta usar un base de datos. Nada de eso.
+
+95
+00:11:12.500 --> 00:11:15.069
+Lucas Bonanni: No, Eso es si ustedes quieren, no más.
+
+96
+00:11:15.070 --> 00:11:15.710
+BENJAMIN BAIGORRIA FUNES: Okay.
+
+97
+00:11:17.580 --> 00:11:18.390
+Lucas Bonanni: Se los recomiendo.
+
+98
+00:11:18.390 --> 00:11:24.100
+FACUNDO EMANUEL MODARELLI: Si, por ejemplo, la hace en memoria no no puse base, Es como que cuando se apaga y se prende, lapi pierde el dato.
+
+99
+00:11:24.580 --> 00:11:26.240
+Lucas Bonanni: Sí está bien, No, no hay problema.
+
+100
+00:11:26.730 --> 00:11:35.189
+Lucas Bonanni: como digo, lo importante, o sea, yo, si les digo que el a ver, no les digo que haga en una base de datos.
+
+101
+00:11:35.490 --> 00:11:40.559
+Lucas Bonanni: Creo que se pueden render de cualquier forma, pero
+
+102
+00:11:43.010 --> 00:11:48.409
+Lucas Bonanni: lo importante es que ustedes después, como digo, agreguen cualquier
+
+103
+00:11:49.210 --> 00:12:06.049
+Lucas Bonanni: integración o si quieren una base de datos con que sea corriendo local como para ver esto lo de la parte de monitoreo y a ver que les muestra no, por ejemplo, si está bueno, porque cuando vean la parte de atrás ustedes cuando si la configuran en la parte de monitoreo.
+
+104
+00:12:06.850 --> 00:12:19.110
+Lucas Bonanni: ustedes pueden ver ahí dentro de la traza a ver cuánto se se demora la cueria, la base de datos, y eso está bueno ver
+
+105
+00:12:19.250 --> 00:12:25.859
+Lucas Bonanni: con que ustedes miren o vean con ese detalle, no dentro de de la parte de monitoreo
+
+106
+00:12:28.130 --> 00:12:29.959
+Lucas Bonanni: está lindo para jugar, digamos.
+
+107
+00:12:31.350 --> 00:12:35.409
+Lucas Bonanni: Y ya que la están armando practiquen y lo vean.
+
+108
+00:12:36.150 --> 00:12:40.830
+JEREMY BACHER: Y perdón, Lucas, pues puedo comentar algo.
+
+109
+00:12:41.230 --> 00:12:42.260
+Lucas Bonanni: Sí, eso me.
+
+110
+00:12:42.500 --> 00:12:59.559
+JEREMY BACHER: En mi caso, no sé si si si tiene sentido, pero digo en mi caso, yo lo que hice antes de hacer el build Push de la imagen para si alguno le sirve. Yo hice un step que lo que hace es
+
+111
+00:13:00.650 --> 00:13:10.659
+JEREMY BACHER: uso un action de de metadata que lo que que como funciona por dentro es te obtiene el último. La última versión generada. Y cuando hace el Push
+
+112
+00:13:10.770 --> 00:13:20.249
+JEREMY BACHER: te da como el la versión general más 1. Entonces mantiene el tipo de Sember y cada vez que va a pulsar, ya lo pushea con el nuevo T a G.
+
+113
+00:13:20.600 --> 00:13:30.040
+JEREMY BACHER: Nada capaz sirve para para no siempre caer en latest mismo. También se puede igual mantener latest como el último Push.
+
+114
+00:13:30.710 --> 00:13:31.470
+Lucas Bonanni: Claro.
+
+115
+00:13:31.620 --> 00:13:44.430
+Lucas Bonanni: sí, esos también. Eso también está. Bueno, creo que vos lo habías subido al no lo habías subido al Docker Hub puede ser, Creo que el el container registry de hith Hub.
+
+116
+00:13:44.650 --> 00:13:51.480
+JEREMY BACHER: Sí, exacto. Yo no uso do Crashouse. Yo usé el el el registry de Githouse directamente. Sí, sí.
+
+117
+00:13:52.160 --> 00:13:57.779
+Lucas Bonanni: Okay? Sí, sí, sí. Ahí lo que lo que te faltaba era la parte de de Play a render.
+
+118
+00:13:57.780 --> 00:14:03.759
+JEREMY BACHER: Exacto. Y lo último que estaba también subiendo era lo de New Rally, que es lo que habías compartido. La última clase.
+
+119
+00:14:04.580 --> 00:14:17.939
+Lucas Bonanni: Perfecto. Sí, yo más o menos ahí lo lo había estado viendo después. No se me pasó volverte a escribir por esto, pero sí, en general estaba estaba todo bien. Acá. Bueno, veo que estuviste lo del New Relly.
+
+120
+00:14:18.570 --> 00:14:25.400
+Lucas Bonanni: y a ver, déjame que mire la parte de Docker Compost: Bueno, hiciste 2 2 stage.
+
+121
+00:14:26.310 --> 00:14:27.280
+JEREMY BACHER: Sí,
+
+122
+00:14:28.200 --> 00:14:38.469
+JEREMY BACHER: acá comparto Lucas, si me permitís esto que acabo de mencionar, que es el action de Githouse para hacerlo desember directamente en el
+
+123
+00:14:39.120 --> 00:14:42.030
+JEREMY BACHER: dentro del Work Flow Dale: Sí.
+
+124
+00:14:42.710 --> 00:14:49.409
+Lucas Bonanni: Sí, Sí, sí, eso eso está Bueno, es. Está bueno que si lo hacen con sember mejor.
+
+125
+00:14:49.620 --> 00:14:53.789
+Lucas Bonanni: no porque les permite todavía hacerlo
+
+126
+00:14:54.000 --> 00:15:07.650
+Lucas Bonanni: más profesional, incluso cuando en el node service, yo lo tendría que implementar. También tendría que hacer un hit action con ese porque si se fijan en el node service.
+
+127
+00:15:11.140 --> 00:15:13.929
+Lucas Bonanni: en el que en el R E, por ejemplo.
+
+128
+00:15:17.320 --> 00:15:21.039
+Lucas Bonanni: yo lo que hago es utilizar el Hith Hub, ya
+
+129
+00:15:22.870 --> 00:15:27.949
+Lucas Bonanni: o sea, el el sha que se genera del pul request o del comida o del cambio.
+
+130
+00:15:28.450 --> 00:15:31.289
+Lucas Bonanni: Claro, voy a compartir ahí un toque.
+
+131
+00:15:39.730 --> 00:15:41.049
+Lucas Bonanni: Ahí se ve. ¿no?
+
+132
+00:15:45.740 --> 00:15:47.160
+LAUTARO STIVALA: Sí, Sí.
+
+133
+00:15:47.700 --> 00:15:54.749
+Lucas Bonanni: Perfecto. Bien, ahí lo que yo estoy haciendo en este a ver, déjeme ver. Voy a
+
+134
+00:15:55.040 --> 00:16:08.839
+Lucas Bonanni: acá. Lo que estoy haciendo es pasarle el Shah? Sí, como como tal. Si al bueno, acá el el Docker hab, Si la publicación en Docker House
+
+135
+00:16:09.680 --> 00:16:15.789
+Lucas Bonanni: entonces le pasó ese ya. Y ese es el ya que va a identificar que yo se creo que se lo mostré.
+
+136
+00:16:18.020 --> 00:16:19.390
+Lucas Bonanni: Sí, está bien
+
+137
+00:16:23.010 --> 00:16:28.960
+Lucas Bonanni: la diferencia con Ensember es que queda más prolijo. Queda mucho mejor.
+
+138
+00:16:32.490 --> 00:16:34.630
+Lucas Bonanni: Vamos a ver la diferencia.
+
+139
+00:16:39.560 --> 00:16:42.400
+Lucas Bonanni: ¿Saben lo de ti, no me ha pedido el
+
+140
+00:16:47.150 --> 00:16:52.730
+Lucas Bonanni: acá está. Bueno a ver. Este es el ya que está. Acá
+
+141
+00:16:55.130 --> 00:16:56.849
+Lucas Bonanni: ¿Qué es esto? Es un código largo.
+
+142
+00:16:57.030 --> 00:17:02.880
+Lucas Bonanni: Es ember, es esto 3 3 numeritos. Entonces está, bueno que usen Este
+
+143
+00:17:03.410 --> 00:17:06.260
+Lucas Bonanni: Este es de la City. Sabbacchion: sí.
+
+144
+00:17:12.510 --> 00:17:16.459
+Lucas Bonanni: sí. Era este el que compartiste
+
+145
+00:17:17.900 --> 00:17:20.760
+Lucas Bonanni: que tiene a ver dónde está
+
+146
+00:17:25.510 --> 00:17:31.650
+Lucas Bonanni: William Push: Las Este es el básico. Vos. Habías mandado, otra.
+
+147
+00:17:32.600 --> 00:17:37.440
+Lucas Bonanni: Haga este. Creo que eras le pones, ember acá
+
+148
+00:17:39.140 --> 00:17:45.000
+Lucas Bonanni: y sube todos los Tags y los laves. Entonces, acá. Por ejemplo, sube todos estos
+
+149
+00:17:45.170 --> 00:17:49.540
+Lucas Bonanni: sember y te genera 1, 2, 3, 1, 2 y leites.
+
+150
+00:17:59.530 --> 00:18:06.749
+JEREMY BACHER: En ese lucas que habías pasado de de ejemplo. Ese el de Node. Vos usás También meta este.
+
+151
+00:18:06.750 --> 00:18:07.470
+Lucas Bonanni: Sí.
+
+152
+00:18:07.470 --> 00:18:11.189
+JEREMY BACHER: Solo andas. El el ya.
+
+153
+00:18:11.640 --> 00:18:12.600
+Lucas Bonanni: Exactamente.
+
+154
+00:18:12.600 --> 00:18:15.860
+JEREMY BACHER: Pero pero ya ya usas este para creo.
+
+155
+00:18:15.860 --> 00:18:16.370
+Lucas Bonanni: Sí, Sí.
+
+156
+00:18:16.370 --> 00:18:17.440
+JEREMY BACHER: Me parece.
+
+157
+00:18:17.890 --> 00:18:24.160
+Lucas Bonanni: El meta. El meta es medio requerido. Es como que no lo puedes pasar. Me parece
+
+158
+00:18:24.410 --> 00:18:27.520
+Lucas Bonanni: lo que pasa que bueno, lo usas diferentes. Estas
+
+159
+00:18:27.920 --> 00:18:35.570
+Lucas Bonanni: Estas son las las implementaciones, digamos, correctas, no ya con con el sember gestionando el sember, ¿no?
+
+160
+00:18:45.040 --> 00:18:51.640
+Lucas Bonanni: Así que sí sí sí sí se basan en esto mejor si quieren los paso del slack, y
+
+161
+00:19:10.330 --> 00:19:12.749
+Lucas Bonanni: ahí está alguna duda más.
+
+162
+00:19:14.360 --> 00:19:15.870
+LAUTARO STIVALA: Yo tengo una consulta.
+
+163
+00:19:16.280 --> 00:19:16.950
+Lucas Bonanni: Sí.
+
+164
+00:19:17.340 --> 00:19:24.080
+LAUTARO STIVALA: Te quería apuntar el tema del diploy renders y tipo es completamente necesario o
+
+165
+00:19:26.110 --> 00:19:37.850
+LAUTARO STIVALA: no tipo. Si lo puedo, simplemente costear local y conectarlo con con el monitoreo localmente, ya para.
+
+166
+00:19:37.850 --> 00:19:46.730
+Lucas Bonanni: Es opcional, pero tienes que fijarte de cumplir por lo menos el el resto de los puntos para para
+
+167
+00:19:47.260 --> 00:19:54.279
+Lucas Bonanni: para cumplir con el trabajo práctico, No, cada cada cada punto es opcional, pero no te va, no te suma puntos.
+
+168
+00:19:54.490 --> 00:19:56.070
+LAUTARO STIVALA: Okay! Perfecto. Está bien.
+
+169
+00:19:56.330 --> 00:20:03.760
+Lucas Bonanni: Pero fíjate que los que estaban marcados en rojo eran los mínimos para probar con eso. Es un 4.
+
+170
+00:20:04.000 --> 00:20:05.909
+LAUTARO STIVALA: Claro, sí. Okay.
+
+171
+00:20:05.910 --> 00:20:16.889
+Lucas Bonanni: Entonces el resto, o sea, también para que ustedes, si no, si no llegan o algo, sépanlo. Pero bueno, la idea es que que lo hagan.
+
+172
+00:20:17.040 --> 00:20:20.679
+Lucas Bonanni: porque igual Eso es para experiencia de ustedes.
+
+173
+00:20:20.680 --> 00:20:23.399
+LAUTARO STIVALA: Pero quería consultar por las dudas antes.
+
+174
+00:20:24.160 --> 00:20:34.250
+Lucas Bonanni: Así que nada, sí. Sí. Como digo, si qui si quieren verlo de alguna manera. Todos los puntos son opcionales, Pero, bueno, no suman puntos.
+
+175
+00:20:34.380 --> 00:20:37.430
+Lucas Bonanni: así que sí.
+
+176
+00:20:37.550 --> 00:20:45.309
+Lucas Bonanni: Por eso yo les comparto, para que ustedes sepan y y y y sepan, bueno, cómo de alguna manera lo voy a calificar. No.
+
+177
+00:20:47.660 --> 00:20:49.029
+JUAN GUZZARDI: Es que yo no tengo nada.
+
+178
+00:20:49.500 --> 00:20:50.120
+Lucas Bonanni: Sí.
+
+179
+00:20:50.390 --> 00:20:53.929
+JUAN GUZZARDI: Yo. Lo que hice fue hacer el
+
+180
+00:20:54.250 --> 00:21:01.209
+JUAN GUZZARDI: el guixo actions y que se buildee directamente en rendor.
+
+181
+00:21:01.360 --> 00:21:02.080
+JUAN GUZZARDI: Hay que hacerlo.
+
+182
+00:21:02.080 --> 00:21:02.480
+Lucas Bonanni: Que sí.
+
+183
+00:21:02.480 --> 00:21:03.050
+JUAN GUZZARDI: Sí.
+
+184
+00:21:03.510 --> 00:21:05.509
+Lucas Bonanni: Cómo que se vende en en render.
+
+185
+00:21:07.120 --> 00:21:12.080
+JUAN GUZZARDI: Claro, se sube a sube, todo, o sea, hace todo.
+
+186
+00:21:12.080 --> 00:21:14.639
+Lucas Bonanni: No. Por eso eso es el Linked de la cuenta. Entonces no es.
+
+187
+00:21:14.640 --> 00:21:15.080
+JUAN GUZZARDI: Claro.
+
+188
+00:21:15.080 --> 00:21:15.680
+Lucas Bonanni: En
+
+189
+00:21:15.880 --> 00:21:30.439
+Lucas Bonanni: es lo que le decía antes, No, el el Linked de la cuenta No, no va. No se toma como de como un deployd. Lo que tiene que hacerlo es por medio de hith action que haga el puls por medio del del hook de la render.
+
+190
+00:21:31.360 --> 00:21:35.580
+JUAN GUZZARDI: Bien, entonces hay que hay que
+
+191
+00:21:35.710 --> 00:21:40.869
+JUAN GUZZARDI: que se tiene que buildear y se tiene que subir automáticamente a Docker. Hab
+
+192
+00:21:41.000 --> 00:21:46.489
+JUAN GUZZARDI: de ahí se conecta con doble hacks, y eso lo ushea, o sea, la imagen.
+
+193
+00:21:47.010 --> 00:21:50.329
+Lucas Bonanni: En realidad es la polea. Hace el pool de la imagen
+
+194
+00:21:50.660 --> 00:21:57.749
+Lucas Bonanni: por y vos le pasas por el who que versión de la imagen tiene que usar lo que decíamos. Por esto, el tema del
+
+195
+00:21:58.000 --> 00:22:11.269
+Lucas Bonanni: de encender o del ya no tienes 2 formas de de hacerlo, que es como el que, como el ropo de acá que es con usando el ya que le pasas el ya y le decís. Bueno, toma esta. Va a ser tu tu versión.
+
+196
+00:22:11.270 --> 00:22:18.590
+Lucas Bonanni: O puedes utilizar el el hith hub action que me pasó el compañero que usa el samba.
+
+197
+00:22:18.680 --> 00:22:26.720
+Lucas Bonanni: Entonces después, cuando le pases a Render por medio del Hub, le vas a tener que pasar ensemer
+
+198
+00:22:27.040 --> 00:22:31.109
+Lucas Bonanni: de ¿Cuál es la versión que vos querés de pulsar.
+
+199
+00:22:33.260 --> 00:22:35.739
+JUAN GUZZARDI: Bien, vale buenísimo.
+
+200
+00:22:36.160 --> 00:22:44.240
+JUAN GUZZARDI: Sí, Sí. Yo y y las secrets se meten ahí en Gid Ho Action directamente. Yo lo había metido en.
+
+201
+00:22:44.840 --> 00:22:53.690
+Lucas Bonanni: Sí, sí se me bueno las que tengan que ver con Hit Javation. Si tienen secret secrets que son del de la aplicación van a tener que ir en Randol.
+
+202
+00:22:54.920 --> 00:22:56.550
+JUAN GUZZARDI: Dale, buenísimo.
+
+203
+00:23:01.780 --> 00:23:02.940
+Lucas Bonanni: Nada más
+
+204
+00:23:12.200 --> 00:23:17.540
+Lucas Bonanni: bueno si no ya arrancamos con la presentación.
+
+205
+00:23:17.540 --> 00:23:18.430
+JUAN GUZZARDI: Perdón.
+
+206
+00:23:18.430 --> 00:23:18.780
+Lucas Bonanni: Sí.
+
+207
+00:23:18.780 --> 00:23:31.060
+JUAN GUZZARDI: Para para apoyar los cambios de Jeep debería el tipo de la aplicación entera debería buildear y que eso directamente vaya a Docker. Hub.
+
+208
+00:23:31.410 --> 00:23:36.529
+JUAN GUZZARDI: Y después hago un push del Repo para que vaya y tome el último ponele.
+
+209
+00:23:36.530 --> 00:23:39.580
+Lucas Bonanni: No push del repo. No tiene que llamar al hook
+
+210
+00:23:39.900 --> 00:23:42.220
+Lucas Bonanni: de render y pasarlo a la versión.
+
+211
+00:23:42.940 --> 00:23:44.809
+JUAN GUZZARDI: Okay, la de de
+
+212
+00:23:49.350 --> 00:23:50.410
+JUAN GUZZARDI: gracias, blog.
+
+213
+00:23:50.910 --> 00:23:51.700
+Lucas Bonanni: De nada.
+
+214
+00:23:54.310 --> 00:23:59.649
+Lucas Bonanni: Bien, Bueno, vamos a empezar con con la presentación. Este es el último tema que nos queda.
+
+215
+00:24:00.850 --> 00:24:04.349
+Lucas Bonanni: Es la parte de de Terraphone.
+
+216
+00:24:05.070 --> 00:24:21.089
+Lucas Bonanni: No sé si ya trabajaron con Terraford como con infraestructura. Como código, no solamente Terraford hay otras herramientas no es discate de Amazon. Pero bueno, digamos que terra forma es como que te permite trabajar
+
+217
+00:24:21.510 --> 00:24:29.590
+Lucas Bonanni: con múltiples nubes. También pueden trabajar, complementar tierras con con ansible.
+
+218
+00:24:32.800 --> 00:24:48.329
+GIOVANNI MARTELLI MIGELSON: Nunca nunca trabajé. Y conceptualmente hay algo que no entiendo bien de arquitectura como código. Es como que no, no comprendo a qué se refiere exactamente, aunque era en el parcial, y lo estudié, pero no conceptualmente no lo entiendo.
+
+219
+00:24:50.090 --> 00:24:50.900
+Lucas Bonanni: Okay.
+
+220
+00:24:51.190 --> 00:24:54.529
+FACUNDO EMANUEL MODARELLI: Yo hacía algo de Terraford. Uso para mi trabajo.
+
+221
+00:24:55.380 --> 00:25:00.470
+Lucas Bonanni: Bien para que lo los bueno para que lo usás, ¿no? Pero bueno, ¿cómo lo usás.
+
+222
+00:25:02.450 --> 00:25:07.119
+FACUNDO EMANUEL MODARELLI: Y tengo proyectos en Guitlam, donde laburo usan Gitlam
+
+223
+00:25:07.230 --> 00:25:15.790
+FACUNDO EMANUEL MODARELLI: y con Terraford. Manejamos todo lo que bueno se maneja todo con Terraford, pero especialmente particularmente mi área hemos
+
+224
+00:25:16.380 --> 00:25:18.719
+FACUNDO EMANUEL MODARELLI: y yo me dedico a la conectividad.
+
+225
+00:25:19.240 --> 00:25:21.979
+FACUNDO EMANUEL MODARELLI: Entonces administramos todas las
+
+226
+00:25:22.400 --> 00:25:29.600
+FACUNDO EMANUEL MODARELLI: los elementos de infraestructuras inherentes a la conectividad con terrafos, es decir, Bpcs VPN de Aire, connects que.
+
+227
+00:25:29.600 --> 00:25:30.130
+Lucas Bonanni: Claro.
+
+228
+00:25:30.680 --> 00:25:36.169
+FACUNDO EMANUEL MODARELLI: Bueno, voy a presentar en Points, en Amazon, Google, Huawei, y es ayudo.
+
+229
+00:25:37.140 --> 00:25:37.910
+Lucas Bonanni: Pero lo mío.
+
+230
+00:25:37.910 --> 00:25:44.749
+FACUNDO EMANUEL MODARELLI: Conectividad. Pura. Vengo más del lado de Networking Mutado a cloud, digamos a conectividad, cloud.
+
+231
+00:25:45.080 --> 00:25:47.520
+FACUNDO EMANUEL MODARELLI: y la manejamos por codillo.
+
+232
+00:25:50.700 --> 00:25:55.190
+Lucas Bonanni: Mira Bien, interesante, ¿sí? Porque en verdad, ¿
+
+233
+00:25:56.820 --> 00:26:03.760
+Lucas Bonanni: Mientras que esté la infraestructura clave, y básicamente, lo que hace Terraford es y
+
+234
+00:26:03.900 --> 00:26:07.920
+Lucas Bonanni: llamar a las apis, no y construir lo que vos le pedís y lo que vos definís.
+
+235
+00:26:08.740 --> 00:26:09.100
+FACUNDO EMANUEL MODARELLI: De la.
+
+236
+00:26:09.100 --> 00:26:11.489
+Lucas Bonanni: Ahora vamos a ver un poquito en detalle. ¿no?
+
+237
+00:26:16.510 --> 00:26:21.380
+Lucas Bonanni: Bien. Y di. Y te hago una pregunta ahí. ¿vos tenés?
+
+238
+00:26:22.720 --> 00:26:31.930
+Lucas Bonanni: ¿tienes un solo ambiente, tenés algún lugar para hacer pruebas y cambios antes de pasarlo.
+
+239
+00:26:32.420 --> 00:26:37.890
+FACUNDO EMANUEL MODARELLI: Sí sí probamos. Tenemos algunas organizaciones de de nube de desarrollo
+
+240
+00:26:38.080 --> 00:26:47.549
+FACUNDO EMANUEL MODARELLI: y ese no en todas las nubes. No tenemos la posibilidad, pero en las que podemos, probamos los deploys en el Brunch de der, digamos.
+
+241
+00:26:47.650 --> 00:26:50.940
+FACUNDO EMANUEL MODARELLI: y ese Branch der termina impactando
+
+242
+00:26:51.250 --> 00:27:00.720
+FACUNDO EMANUEL MODARELLI: en una cuenta de una organización de Amazon distinta, que es la de desarrollo. Digamos que no las podemos probar porque hay elementos que los tenemos en producción que no los tenemos en dedo.
+
+243
+00:27:00.920 --> 00:27:03.260
+FACUNDO EMANUEL MODARELLI: por ejemplo, los de aire con a que tienen su costo.
+
+244
+00:27:03.540 --> 00:27:10.460
+FACUNDO EMANUEL MODARELLI: Hay cosas que no las podamos probar que tenemos que digamos, experimentar en producción en
+
+245
+00:27:10.870 --> 00:27:13.250
+FACUNDO EMANUEL MODARELLI: pero sí digamos lo que se puede ser prueba.
+
+246
+00:27:14.330 --> 00:27:20.760
+Lucas Bonanni: Sí, Sí, sí, porque a veces no se puede replicar toda la infraestructura y tener un espejo completo, pero sí
+
+247
+00:27:21.310 --> 00:27:29.040
+Lucas Bonanni: está bien. Perfecto. Bueno, eso es la idea. Vamos a ver si ahí lo lo vamos a mirar un poquito.
+
+248
+00:27:29.270 --> 00:27:30.600
+Lucas Bonanni: un detalle.
+
+249
+00:27:32.460 --> 00:27:33.130
+FACUNDO EMANUEL MODARELLI: Bueno.
+
+250
+00:27:34.720 --> 00:27:41.900
+Lucas Bonanni: Bien. Bueno, en principio, terraphone sí es una herramienta desarrollada por Hashikor. Sí
+
+251
+00:27:42.030 --> 00:27:54.669
+Lucas Bonanni: que nos permite, como decíamos, manejar la infraestructura como código. Si entonces nos permite definir a provisionar y gestionar las infraestructuras con
+
+252
+00:27:54.670 --> 00:28:09.580
+Lucas Bonanni: completas y complejas de forma declarativa, sigue usando un el lenguaje de terraphone sí que N, y nos permite manejar diferentes plataformas y múltiples proveedores de Google.
+
+253
+00:28:11.400 --> 00:28:13.870
+Lucas Bonanni: Bien, cómo trabaja.
+
+254
+00:28:14.120 --> 00:28:21.639
+Lucas Bonanni: Básicamente, lo que tenemos es nuestro Código de Terraford. Sí,
+
+255
+00:28:21.820 --> 00:28:29.259
+Lucas Bonanni: Y tenemos lo que es un terrafon provider el provider. Lo que nos va a dar es: se va a comunicar o va al
+
+256
+00:28:29.680 --> 00:28:37.770
+Lucas Bonanni: tener las definiciones de cómo de justamente configurar la infraestructura
+
+257
+00:28:38.210 --> 00:28:45.629
+Lucas Bonanni: y se va a comunicar por el medio de una A. P, I, A: Bueno, a la nube, sí
+
+258
+00:28:45.900 --> 00:28:47.350
+Lucas Bonanni: al servicio del clavo.
+
+259
+00:28:51.300 --> 00:28:53.870
+Lucas Bonanni: Entonces, ¿qué
+
+260
+00:28:55.480 --> 00:29:10.909
+Lucas Bonanni: tenemos una serie de pasos para cumplir. Sí, entonces primero tenemos que escribir qué es lo que queremos o definir dentro de los archivos de terraphone los recursos que queremos
+
+261
+00:29:11.040 --> 00:29:18.500
+Lucas Bonanni: provisionar si dentro de nuestro servicio de cloud o servicio que sea así, entonces
+
+262
+00:29:18.500 --> 00:29:37.230
+Lucas Bonanni: creamos una configuración, sí para para hacer la deployd de puede ser un servidor, un ex. S, D O. S. Puede ser una B, P. C, Si Security Groups, Sí, un glow balanceer diferentes cosas. Nosotros con escribimos toda esa configuración.
+
+263
+00:29:37.230 --> 00:29:45.900
+Lucas Bonanni: Después podemos ejecutar un plan, que eso es lo que nos va a permitir, es ver
+
+264
+00:29:46.920 --> 00:29:52.139
+Lucas Bonanni: cómo cómo se va a ejecutar o qué o los cambios que vamos a
+
+265
+00:29:52.390 --> 00:30:02.500
+Lucas Bonanni: a realizar. Y una vez que visualizamos el plan, podemos recién ahí hacer el tercer paso y decir, bueno, lo podemos aplicar. No son
+
+266
+00:30:02.630 --> 00:30:11.950
+Lucas Bonanni: pasos estrictos que tenemos que cumplir. Pero bueno, es lo recomendado poder mirar por porque el plan en realidad nos permite a nosotros
+
+267
+00:30:12.700 --> 00:30:21.710
+Lucas Bonanni: verificar si esa configuración realmente lo podemos. Va. Se va a aplicar de la manera que nosotros queremos. ¿no?
+
+268
+00:30:25.260 --> 00:30:39.939
+Lucas Bonanni: Entonces acá tenemos un poquito de lo que sería la arquitectura un poquito más en detalle de lo que como funciona Terrapón, entonces nosotros tenemos nuestra configuración como código.
+
+269
+00:30:40.400 --> 00:30:48.520
+Lucas Bonanni: Tenemos lo que sería la aplicación de Terraford, el la aplicación, el el backend perdón
+
+270
+00:30:48.660 --> 00:30:51.440
+Lucas Bonanni: de de terraphone, que todo está local.
+
+271
+00:30:51.600 --> 00:31:09.580
+Lucas Bonanni: Por otro lado, tenemos el provider. Sí, el provider, que es es el que hace la comunicación con con la App y de nuestra nube. Sí que pueden ser cualquiera, como decía nuestro compañero que tiene múltiples cloud.
+
+272
+00:31:09.660 --> 00:31:18.150
+Lucas Bonanni: sí podemos aprovisionar esa infraestructura en las diferentes clau que que queremos, entonces
+
+273
+00:31:19.280 --> 00:31:31.039
+Lucas Bonanni: tenemos el core. Sí que sería el motor de terraphone. La aplicación en sí misma. Si el Backend, donde se almacenan los archivos de Estado, sí,
+
+274
+00:31:31.400 --> 00:31:43.389
+Lucas Bonanni: el Estado sí que tiene la la infraestructura, que es un archivo Jason que define todo cómo está de la estructura. Una vez aplicada los cambios
+
+275
+00:31:43.820 --> 00:31:58.919
+Lucas Bonanni: y los plugins para interactuar con o los providers sí que son los plugins para interactuar con las diferentes nubes o las diferentes herramientas pueden ser nubes, o 1 podría inclusive aprovisionar
+
+276
+00:31:58.920 --> 00:32:03.989
+Lucas Bonanni: máquinas virtuales siempre que exista el plugin y que exista la a P. I No
+
+277
+00:32:08.310 --> 00:32:18.890
+Lucas Bonanni: bien, y lo que nos permite tenerlo al definir nosotros la infraestructura como código, definirla sí en un repositorio es que nosotros podemos
+
+278
+00:32:19.400 --> 00:32:23.969
+Lucas Bonanni: hacer un seguimiento de todos los cambios de nuestra infraestructura.
+
+279
+00:32:24.040 --> 00:32:35.019
+Lucas Bonanni: y podemos saber si nosotros tenemos definido todo como código, todo de una manera ordenada, no solamente como configuraciones, porque de otra manera
+
+280
+00:32:35.020 --> 00:32:53.190
+Lucas Bonanni: tendríamos que ir a la consola de Amazon a la Web de Asurf e Ir, Y por cada una de las secciones a agregar un usuario agregar esto, hacer las asociaciones y que, además, el problema que tiene es que
+
+281
+00:32:54.620 --> 00:33:00.960
+Lucas Bonanni: o la ventaja que tiene toda razón es que 1 puede crear módulos y compartirlos. Entonces 1 puede compartir
+
+282
+00:33:01.150 --> 00:33:11.959
+Lucas Bonanni: módulos preconfigurados para que dentro de la misma organización ya se utilicen y se puedan configurar ciertas cosas de una manera un poquito más
+
+283
+00:33:12.400 --> 00:33:21.190
+Lucas Bonanni: no automática. Pero como una especie de template para cumplir ciertas requisitos dentro de la organización.
+
+284
+00:33:23.960 --> 00:33:28.930
+Lucas Bonanni: Entonces nosotros podemos, de esa manera
+
+285
+00:33:29.200 --> 00:33:39.840
+Lucas Bonanni: estandarizar la configuración si por medio de estos módulos donde nosotros lo podemos justamente compartir a través de la organización y
+
+286
+00:33:39.840 --> 00:33:56.510
+Lucas Bonanni: que los podemos publicar a un terraphone registry, así como, básicamente, como la mayoría de las empresas grandes que tienen sus propios registrs para diferentes cosas, no que tienen sus registros para los paquetes. M. P. M, para.
+
+287
+00:33:56.680 --> 00:34:01.539
+Lucas Bonanni: tal vez incluso para imágenes de Docker, porque obviamente no hay forma.
+
+288
+00:34:01.650 --> 00:34:04.430
+Lucas Bonanni: No lo van a publicar en Dock Hub
+
+289
+00:34:04.610 --> 00:34:13.860
+Lucas Bonanni: sus imágenes internas de sus aplicaciones. ¿sí? Entonces lo mismo podemos hacer con los módulos de terrazón.
+
+290
+00:34:15.929 --> 00:34:18.870
+Lucas Bonanni: Entonces ahora vamos a ver un poquito
+
+291
+00:34:19.900 --> 00:34:39.680
+Lucas Bonanni: más en detalle cada cada componente. Entonces el Provider es, como decíamos, es un tipo de plugin que se inter se encarga de interactuar con el servicio de Cloud, servicio saas y cualquier otro tipo de Api, Sí,
+
+292
+00:34:39.830 --> 00:34:44.090
+Lucas Bonanni: lo que nos permite. Es decir, bueno, nos da
+
+293
+00:34:46.530 --> 00:34:58.799
+Lucas Bonanni: el P, digamos, el el plugin nos dice, bueno, qué es lo que podemos configurar? Finalmente, no, ¿Qué recursos? ¿cómo lo configuramos, qué atributos le ponemos y qué es lo que definimos? ¿no?
+
+294
+00:34:59.260 --> 00:35:14.070
+Lucas Bonanni: Y bueno, en el registro hay un obviamente hay un registr y público donde, así como en Docker, Hub, 1 se busca una imagen de May. S. Q. L, Hay un registr y público donde 1 puede buscar
+
+295
+00:35:14.070 --> 00:35:23.620
+Lucas Bonanni: los los diferentes plugins para diferentes nubes, para definir diferentes cosas. Y 1 los puede ir agregando
+
+296
+00:35:26.100 --> 00:35:32.059
+Lucas Bonanni: después tipos de recursos, porque dentro del lenguaje de de lo que sería
+
+297
+00:35:32.070 --> 00:35:49.489
+Lucas Bonanni: Terraford, nosotros podemos definir recursos. Sí que básicamente son son una especie de objetos u objetos que nosotros podemos definir, que pueden ser redes virtuales, servidores base de datos, Dns y etcétera. Recursos que se les imagina.
+
+298
+00:35:51.860 --> 00:36:03.690
+Lucas Bonanni: acá por ejemplo, tenemos u un un ejemplo, sí de una instancia, Sí, de de Amazon, una de 2 micro, ¿sí?
+
+299
+00:36:09.410 --> 00:36:18.920
+Lucas Bonanni: Y bueno, este es el código del servicio que no que está,
+
+300
+00:36:19.090 --> 00:36:22.020
+Lucas Bonanni: que no, no tiene mucho sentido. La verdad
+
+301
+00:36:22.400 --> 00:36:24.130
+Lucas Bonanni: está perfecto. Lo tengo que guardar
+
+302
+00:36:26.110 --> 00:36:34.840
+Lucas Bonanni: después. Otra cosa que podemos nosotros definir. Aparte de podemos definir variables, sí,
+
+303
+00:36:35.150 --> 00:36:44.180
+Lucas Bonanni: no recursos, pero Esta es una variable. Sí, donde podemos, por ejemplo, una variable de tipo string donde definimos
+
+304
+00:36:44.280 --> 00:37:02.019
+Lucas Bonanni: la instancia que vamos a utilizar y después también podemos definir Salidas outputs. ¿sí? Y estas salidas, lo que nos permiten es mostrar ciertas variables o ciertas cosas, cierta información que nosotros queremos
+
+305
+00:37:02.090 --> 00:37:09.100
+Lucas Bonanni: exportar sobre los recursos que nosotros creamos, sí, y de lo que nosotros definimos.
+
+306
+00:37:11.770 --> 00:37:25.050
+Lucas Bonanni: Bueno y una vez más, tenemos la parte de módulos que nos permiten esto, agrupar y encapsular recursos, configuraciones para ser reutilizado. Sí, también podemos definir lo que son
+
+307
+00:37:25.190 --> 00:37:33.770
+Lucas Bonanni: de alguna manera parámetros. Entonces podemos sobrescribir o pasar valores que nosotros queremos para esos módulos.
+
+308
+00:37:33.770 --> 00:37:45.550
+Lucas Bonanni: Entonces básicamente, podemos, cuando compartimos un módulo, va a dejar que nosotros tenemos ciertas variables a las que podemos definir y poner y asignar nombres a esos recursos
+
+309
+00:37:45.690 --> 00:37:57.399
+Lucas Bonanni: y ya ejecutar, porque por ahí definir ciertos recursos se ma se definen de la misma manera. Por ejemplo, yo cuando trabajaba en una de las empresas, cuando definíamos
+
+310
+00:37:57.530 --> 00:38:04.780
+Lucas Bonanni: los módulos de de Terraford. Siempre teníamos que tener nuestro B, P. C, nuestro
+
+311
+00:38:05.070 --> 00:38:24.619
+Lucas Bonanni: nuestro usuario de nuestro equipo. ¿sí? Y Y y todas esas definiciones que eran comunes al equipo. Entonces todo eso estaba en un en un módulo que lo que lo definíamos y lo y declarábamos todas esas variables y lo teníamos que tener. Y si cualquier recurso nuevo que necesitábamos crear.
+
+312
+00:38:24.700 --> 00:38:31.540
+Lucas Bonanni: podíamos, digamos, asignar esos usuarios y de alguna manera, reutilizar esas variables?
+
+313
+00:38:33.740 --> 00:38:41.380
+Lucas Bonanni: Bueno, y acá lo que le mencionaba antes, no los módulos comunitarios, ¿sí? Y los y los módulos oficiales de uso público.
+
+314
+00:38:44.440 --> 00:38:52.130
+Lucas Bonanni: Bueno, acá un poquito más en detalle de lo que les mencionaba. Lo del state management. El es que es el
+
+315
+00:38:53.140 --> 00:39:00.580
+Lucas Bonanni: el manejo del estado de nuestros recursos o de nuestra infraestructura por medio de un archivo. Json: Si.
+
+316
+00:39:00.720 --> 00:39:03.270
+Lucas Bonanni: entonces este
+
+317
+00:39:05.170 --> 00:39:15.349
+Lucas Bonanni: y para qué sirve o para qué le sirve, digamos, mantener en un estado a a Terraford es para saber. Bueno, yo tengo un estado actual.
+
+318
+00:39:15.510 --> 00:39:31.809
+Lucas Bonanni: y cuando 1 ejecuta un plan en realidad es el plan que digamos es al Estado que 1 lo quiere llevar esa infraestructura. Entonces lo que le permite con esto es que con el Json puede saber qué modificaciones
+
+319
+00:39:31.970 --> 00:39:41.609
+Lucas Bonanni: tiene que hacer para justamente alcanzar el Estado deseado. Sí, y mo te muestra justamente en el plan. ¿qué es lo que va a cambiar? ¿qué es lo que va a hacer.
+
+320
+00:39:43.600 --> 00:39:50.450
+Lucas Bonanni: Y esto puede ser almacenado localmente o en backend remoto. Sí, ese estado
+
+321
+00:39:52.850 --> 00:39:57.970
+Lucas Bonanni: después también nos permiten manejar diferentes
+
+322
+00:39:58.140 --> 00:40:04.689
+Lucas Bonanni: workspaces o environments. Sí, para gestionar múltiples instancias
+
+323
+00:40:04.700 --> 00:40:15.519
+Lucas Bonanni: de una configuración. De de Terraphone. Esto nos permite de alguna manera tener diferentes entornos de desarrollo
+
+324
+00:40:15.520 --> 00:40:25.659
+Lucas Bonanni: como de prueba y de producción, y cada 1 con sus propias configuraciones y su propio Estado. Sí, porque, como comentaba el compañero.
+
+325
+00:40:25.730 --> 00:40:30.130
+Lucas Bonanni: no siempre podemos tener la misma infraestructura en todos, pero bueno, podemos.
+
+326
+00:40:30.250 --> 00:40:41.529
+Lucas Bonanni: tal vez en, digamos, en el enviroment de desarrollo o de pruebas, hacer algunas pruebas mínimas con lo que tenemos.
+
+327
+00:40:42.810 --> 00:40:44.669
+Lucas Bonanni: y eso va a tener un Estado
+
+328
+00:40:45.090 --> 00:40:55.210
+Lucas Bonanni: entonces, pero siempre nos permite a nosotros hacer por lo menos tratar de achicar el error con las cosas que sí podamos probar
+
+329
+00:40:55.820 --> 00:41:04.450
+Lucas Bonanni: entonces. Y también nos ayuda esto, de mantener separados y evitar conflictos y gestionar los recursos de manera aislada.
+
+330
+00:41:07.560 --> 00:41:10.429
+Lucas Bonanni: entonces para que se pueden utilizar los Workpace
+
+331
+00:41:10.650 --> 00:41:21.109
+Lucas Bonanni: para mantener entornos separados de desarrollo, testing y producción, versiones de infraestructura, mantener versiones de en paralelo
+
+332
+00:41:22.230 --> 00:41:28.520
+Lucas Bonanni: para separar entre múltiples clientes y múltiples múltiples proyectos.
+
+333
+00:41:29.070 --> 00:41:36.580
+Lucas Bonanni: pruebas para hacer pruebas de carga sin afectar la parte de producción, entonces de alguna manera separarlos de esa manera.
+
+334
+00:41:39.520 --> 00:41:47.360
+Lucas Bonanni: Y después tenemos la parte un poquito de seguridad y con playas, ¿sí? Donde acá
+
+335
+00:41:47.670 --> 00:41:54.549
+Lucas Bonanni: a por podemos definir políticas de seguridad. Sí, con playas como código.
+
+336
+00:41:54.660 --> 00:42:12.569
+Lucas Bonanni: y esto también integrándose con con otras herramientas que provee Hashi Core como Sentinel para evaluar que esas políticas realmente se están cumpliendo? Sí, y esto es lo que facilita. Es la automatización de la seguridad y el cumplimiento de las normativas.
+
+337
+00:42:18.480 --> 00:42:35.920
+Lucas Bonanni: Bueno, es la verdad. Es que bueno, terrafón se usa para, como decíamos, para la creación de de diferentes tipos de infraestructuras desde algo muy básico, si hasta cosas muy complejas como multicloud, sistemas híbridos.
+
+338
+00:42:36.110 --> 00:42:44.799
+Lucas Bonanni: Y bueno, siempre está en constante expansión, Todo todas las herramientas y todos los recursos relacionados a terrazón.
+
+339
+00:42:46.780 --> 00:42:56.389
+Lucas Bonanni: Entonces acá tenemos, digamos, el trabajo de flujo, el flujo de trabajo típico. Si de Terraphone, donde primero
+
+340
+00:42:57.040 --> 00:43:01.209
+Lucas Bonanni: hay, creamos un repositorio o algo, y
+
+341
+00:43:01.900 --> 00:43:04.770
+Lucas Bonanni: y declaramos a Terraford inic Si
+
+342
+00:43:05.090 --> 00:43:11.399
+Lucas Bonanni: entonces después podemos, también escribimos la nuestra infraestructura. Sí,
+
+343
+00:43:11.620 --> 00:43:22.859
+Lucas Bonanni: podemos agregar inclusive los módulos antes de ejecutar el terrafor plan, si deberíamos, sí, porque vamos a tener que agregar el provider.
+
+344
+00:43:23.260 --> 00:43:34.970
+Lucas Bonanni: Y después, una vez que tenemos eso. Y verificamos que el plan de ejecución y los cambios que se van a hacer y cómo se van a aplicar, hacemos el terrafón Apply
+
+345
+00:43:35.630 --> 00:43:42.450
+Lucas Bonanni: después. Por último, si en algún momento no es lo usual.
+
+346
+00:43:42.670 --> 00:43:52.269
+Lucas Bonanni: pero se puede hacer un terraphone, Destroit y destruir todo, o sea, borrar toda la infraestructura que creamos, no
+
+347
+00:43:52.810 --> 00:43:55.380
+Lucas Bonanni: y dejarlo nuevamente en 0,
+
+348
+00:43:58.750 --> 00:44:11.279
+Lucas Bonanni: Entonces los beneficios de de Terraford sí, tener la infraestructura como código. Si que esto nos permite que sea versionable, reutilizable, documentada.
+
+349
+00:44:11.900 --> 00:44:16.640
+Lucas Bonanni: poder obtener multicloud porque básicamente nos permite
+
+350
+00:44:17.120 --> 00:44:22.580
+Lucas Bonanni: tener la misma configuración en múltiples nubes o transportar esa configuración y tener
+
+351
+00:44:23.810 --> 00:44:36.239
+Lucas Bonanni: algo así como un espejo en cada nube, entonces nos permite gestionar mucho más fácil en diferentes nubes nos permite tener un estado declarativo de
+
+352
+00:44:36.350 --> 00:44:44.060
+Lucas Bonanni: cuál es el estado que quiero que esté mi nube sí y no los pasos.
+
+353
+00:44:44.930 --> 00:44:53.240
+Lucas Bonanni: Podemos previsualizar un plan de ejecución donde vamos a ver en detalle qué son los cambios que se van a realizar
+
+354
+00:44:53.350 --> 00:44:57.599
+Lucas Bonanni: dentro del estado de de nuestra infraestructura.
+
+355
+00:44:58.430 --> 00:45:04.699
+Lucas Bonanni: Podemos tener un un gráfico de recursos y una gestión automática de dependencias.
+
+356
+00:45:05.280 --> 00:45:18.990
+Lucas Bonanni: También podemos modularizar el Código si compartir los módulo, hacer configurables, hacer evaluar inclusive hasta, podemos, digamos, de alguna manera.
+
+357
+00:45:20.400 --> 00:45:22.040
+Lucas Bonanni: tratar de
+
+358
+00:45:23.130 --> 00:45:32.600
+Lucas Bonanni: predecir cuál va a ser el incremento de costos a partir de del plan que queremos implementar. No podemos hacer ahí como
+
+359
+00:45:32.980 --> 00:45:43.799
+Lucas Bonanni: una estimación, de alguna manera, si eso va, cuánto se va a incrementar el costo o cuando o, por el contrario, cuánto vamos a a reducirlo? No
+
+360
+00:45:48.010 --> 00:45:52.340
+Lucas Bonanni: bien. Y con esto es todo.
+
+361
+00:45:52.560 --> 00:45:56.700
+Lucas Bonanni: vamos a. Les vamos a mostrar un pequeño ejemplo.
+
+362
+00:45:59.330 --> 00:46:07.260
+Lucas Bonanni: Bueno, vamos a mirar. Vamos a empezar por, Les voy a mostrar y registry.
+
+363
+00:46:10.310 --> 00:46:11.820
+Lucas Bonanni: ese era, Sí,
+
+364
+00:46:17.800 --> 00:46:35.800
+Lucas Bonanni: este es el registro muy parecido a lo que es Waterhouse, donde, bueno, ya nos aparecen las primeras nubes más utilizadas donde está Amazon, Cool Cloud y azul. Sí. Incluso ahora con Alibaba, tenemos para definir cubernetes
+
+365
+00:46:38.110 --> 00:46:42.010
+Lucas Bonanni: acá nos da inclusive ya el diagrama de
+
+366
+00:46:42.120 --> 00:46:47.550
+Lucas Bonanni: de la infraestructura, sí de de la arquitectura.
+
+367
+00:46:49.960 --> 00:46:57.280
+Lucas Bonanni: Y bueno, y para empezar a utilizarlo localmente. Lo que nosotros tenemos que hacer es: vamos a
+
+368
+00:47:03.870 --> 00:47:05.100
+Lucas Bonanni: Mhm.
+
+369
+00:47:10.950 --> 00:47:16.910
+Lucas Bonanni: Por esto no me acuerdo aún.
+
+370
+00:47:51.280 --> 00:47:57.429
+Lucas Bonanni: Yo tenía por acá un pequeño ejemplo. No me acuerdo si era en el mismo de de box o era en otro.
+
+371
+00:47:59.970 --> 00:48:01.909
+Lucas Bonanni: Y si no lo creamos
+
+372
+00:48:23.840 --> 00:48:27.150
+Lucas Bonanni: claro, sabía que me gustaría borrar ese en
+
+373
+00:48:34.760 --> 00:48:40.350
+Lucas Bonanni: bien acá Tenemos la carpetita de Terrafon.
+
+374
+00:48:44.010 --> 00:48:51.760
+Lucas Bonanni: Esto. Bien, es un es 1 de los archivos. Bueno, primeros
+
+375
+00:48:52.020 --> 00:49:02.450
+Lucas Bonanni: hay que pensar que estos generalmente se organiza. Lo podemos organizar en diferentes carpetas. Como cualquier código que tenemos disponible dentro de
+
+376
+00:49:02.610 --> 00:49:06.789
+Lucas Bonanni: de un repositorio. Y generalmente te vamos a tener
+
+377
+00:49:07.040 --> 00:49:13.139
+Lucas Bonanni: o se organiza en un main D. F, En algo así. Muy sencillo. Digamos después tenemos
+
+378
+00:49:13.300 --> 00:49:20.030
+Lucas Bonanni: maneras más complejas de organizar un proyecto de terraforme.
+
+379
+00:49:20.150 --> 00:49:29.689
+Lucas Bonanni: sí, pero en principio tenemos realmente se organiza en mail en providers, podemos tener una carpeta que sea módulos
+
+380
+00:49:29.970 --> 00:49:37.500
+Lucas Bonanni: donde ahí vamos a definir y tener nuestros propios módulos y también variables. Sí,
+
+381
+00:49:39.570 --> 00:49:44.029
+Lucas Bonanni: de esa manera. Nosotros definimos diferentes cosas en diferentes archivos.
+
+382
+00:49:46.340 --> 00:49:53.770
+Lucas Bonanni: En este caso. Yo creo que había definido acá
+
+383
+00:49:55.590 --> 00:50:02.390
+Lucas Bonanni: un recurso. Tengo el provider. Si ven, acá, tengo el provider de render, ¿sí?
+
+384
+00:50:03.800 --> 00:50:08.489
+Lucas Bonanni: Y acá, nos permite decir, bueno, puedo definir
+
+385
+00:50:08.670 --> 00:50:12.529
+Lucas Bonanni: un dentro del provider. Tengo que definir
+
+386
+00:50:13.170 --> 00:50:22.099
+Lucas Bonanni: una a P. I Key. Le tengo que pasar el api Key y el Awner I D, que básicamente eso lo tenemos. Lo sacamos dentro de nuestra cuenta
+
+387
+00:50:23.020 --> 00:50:35.710
+Lucas Bonanni: y que, a su vez, yo esta esta api key, la tengo definida en la tengo definida. Acá.
+
+388
+00:50:37.350 --> 00:50:39.900
+Lucas Bonanni: Que lo que se hace es
+
+389
+00:50:40.360 --> 00:50:46.249
+Lucas Bonanni: se carga en una variable de tu entorno. Sí.
+
+390
+00:50:46.480 --> 00:50:48.339
+Lucas Bonanni: ¿cómo te febar?
+
+391
+00:50:48.530 --> 00:50:55.789
+Lucas Bonanni: Sí. Esto le es un un prefijo que se le agrega a la variable de entorno. Entonces.
+
+392
+00:50:56.000 --> 00:51:02.260
+Lucas Bonanni: Terrafón sabe que tiene esa variable de entorno y que de ahí tiene que tomar estos datos.
+
+393
+00:51:03.920 --> 00:51:09.049
+Lucas Bonanni: Entonces acá estamos el Awner I D. Y la Api Key, por ejemplo, para el Random.
+
+394
+00:51:18.380 --> 00:51:24.850
+Lucas Bonanni: Entonces después, acá. Bueno, tenemos esto a ver si está el sigue estando el de render.
+
+395
+00:51:28.680 --> 00:51:29.660
+Lucas Bonanni: Me encanta.
+
+396
+00:51:31.160 --> 00:51:35.210
+Lucas Bonanni: Entonces acá tenemos el el de ronda
+
+397
+00:51:35.860 --> 00:51:43.340
+Lucas Bonanni: a ver qué nos dice la última versión del noviembre del 2 025 del año pasado.
+
+398
+00:51:44.240 --> 00:51:48.229
+Lucas Bonanni: y acá en la misma registry
+
+399
+00:51:49.010 --> 00:51:51.940
+Lucas Bonanni: Bueno, nos dice, bueno, acá. Está el apiquí
+
+400
+00:51:52.440 --> 00:51:55.569
+Lucas Bonanni: en la unir I D, que son las cosas que necesito.
+
+401
+00:51:55.750 --> 00:52:03.489
+Lucas Bonanni: Y acá también nos dice, bueno, qué recursos. Podemos definir dentro de esto. Creo que esto ya quedó medio de de precado.
+
+402
+00:52:07.310 --> 00:52:10.160
+Lucas Bonanni: porque si vamos a la a render
+
+403
+00:52:35.300 --> 00:52:37.960
+Lucas Bonanni: observabilidad.
+
+404
+00:52:50.870 --> 00:52:55.810
+Lucas Bonanni: creo que lo habían sacado la última vez.
+
+405
+00:53:12.180 --> 00:53:14.820
+Lucas Bonanni: Claro, a ver prender terra formal.
+
+406
+00:53:16.100 --> 00:53:20.959
+Lucas Bonanni: Tuve incorporar. Renders Resorts estudió, sí, pero te deja.
+
+407
+00:53:21.160 --> 00:53:22.090
+Lucas Bonanni: para eso ahora.
+
+408
+00:53:25.850 --> 00:53:33.670
+Lucas Bonanni: Pero bueno, siempre recomiendan utilizar los los blueprint de ellos. Pero bueno, se puede.
+
+409
+00:53:34.070 --> 00:53:37.950
+Lucas Bonanni: Vamos a ver si todavía el ejemplo funciona.
+
+410
+00:53:39.210 --> 00:53:42.040
+Lucas Bonanni: Entonces, bueno, una vez que tengo el provider
+
+411
+00:53:47.130 --> 00:53:59.849
+Lucas Bonanni: acá, lo que puedo hacer es definir, digamos, acá en el main.
+
+412
+00:54:00.150 --> 00:54:04.550
+Lucas Bonanni: en el main defino, el recurso que quiero hacer. El deploy, ¿sí?
+
+413
+00:54:04.960 --> 00:54:08.820
+Lucas Bonanni: Y en este caso es una
+
+414
+00:54:08.940 --> 00:54:20.699
+Lucas Bonanni: un servicio privado. Sí, básicamente es un nada. Es esto. Creo que estoy deployando básicamente la imagen
+
+415
+00:54:21.130 --> 00:54:28.330
+Lucas Bonanni: de de Docker que yo tengo, y creo una instancia sí de
+
+416
+00:54:28.890 --> 00:54:32.430
+Lucas Bonanni: con el plan Free. Creo que esto habían depredador.
+
+417
+00:54:32.710 --> 00:54:34.259
+Lucas Bonanni: Esto era a ver
+
+418
+00:54:34.900 --> 00:54:41.139
+Lucas Bonanni: porque yo, si iba acá al módulo. Creo que ya habían sacado que no se podía definir los proyectos se fallaba.
+
+419
+00:54:44.170 --> 00:54:54.350
+Lucas Bonanni: Nata Sur 6 suizos web service acá plan Starter.
+
+420
+00:54:54.790 --> 00:55:02.670
+Lucas Bonanni: Y creo que ya el el Free no se podía malgastar
+
+421
+00:55:03.250 --> 00:55:12.659
+Lucas Bonanni: que el plan ya no podía ser free si no que tenía que ser Starter Standard, y pro podemos intentar con Starter a ver si es lo mismo.
+
+422
+00:55:34.730 --> 00:55:37.349
+Lucas Bonanni: Entonces acá lo que venimos es.
+
+423
+00:55:37.650 --> 00:55:40.060
+Lucas Bonanni: vamos a darle éxito a este que no me dejaba
+
+424
+00:55:59.730 --> 00:56:03.080
+Lucas Bonanni: las ejecuto. mira, me pide la a P, I,
+
+425
+00:56:04.700 --> 00:56:06.959
+Lucas Bonanni: no a ver si le puedo
+
+426
+00:56:13.280 --> 00:56:15.070
+Lucas Bonanni: ahora hay una prender.
+
+427
+00:57:11.980 --> 00:57:15.200
+Lucas Bonanni: Bien, entonces eso no puede venir Acá
+
+428
+00:57:15.310 --> 00:57:18.769
+Lucas Bonanni: dónde era a ver. Vamos a ver.
+
+429
+00:57:19.370 --> 00:57:23.910
+Lucas Bonanni: Creo que era el usuario Tom settings
+
+430
+00:57:30.430 --> 00:57:31.940
+Lucas Bonanni: ¿Qué pasa a pi clic?
+
+431
+00:57:32.650 --> 00:57:40.420
+Lucas Bonanni: Cada 1 puede cenar a ver si no me permite, tengo que hacer alguna. Sí,
+
+432
+00:57:52.520 --> 00:57:54.349
+Lucas Bonanni: a ver si me permite ahora.
+
+433
+00:58:00.380 --> 00:58:07.639
+Lucas Bonanni: Y el Lawner. I, D, Yo tenía razón.
+
+434
+00:58:14.530 --> 00:58:16.499
+Lucas Bonanni: Sí es este Big No
+
+435
+00:58:22.370 --> 00:58:25.750
+Lucas Bonanni: que yo descubrí que es este de acá
+
+436
+00:58:27.470 --> 00:58:31.960
+Lucas Bonanni: en la u R. L, Porque si lo buscas, no lo encuentras en ninguna parte.
+
+437
+00:58:32.910 --> 00:58:39.430
+Lucas Bonanni: a ver si me lo tomo bien ahí no se ve.
+
+438
+00:58:45.390 --> 00:58:49.810
+Lucas Bonanni: Pero acá nos está diciendo qué es lo que se va a hacer. No se va a crear
+
+439
+00:58:50.880 --> 00:58:54.019
+Lucas Bonanni: un nuevo recurso que va a ser un
+
+440
+00:58:54.660 --> 00:59:06.829
+Lucas Bonanni: recurso de render sí y que va a descargar si la imagen entonces acá nos está mostrando el plan. Como no hay nada creado, en realidad nos muestra que todo todo esto se va a crear.
+
+441
+00:59:08.950 --> 00:59:11.420
+Lucas Bonanni: Si yo le doy un terrapón.
+
+442
+00:59:12.200 --> 00:59:16.980
+Lucas Bonanni: Ahora, le doy un terraphone Apply.
+
+443
+00:59:20.020 --> 00:59:22.439
+Lucas Bonanni: Vamos a pedir otra vez lapiquín
+
+444
+00:59:25.180 --> 00:59:31.539
+Lucas Bonanni: esto. ¿por qué? ¿por qué? ¿por qué? ¿por qué? Porque yo debería haber corrido?
+
+445
+00:59:32.870 --> 00:59:38.379
+Lucas Bonanni: Eso? Debería haber corrido la la variable de punto alto?
+
+446
+00:59:40.320 --> 00:59:43.439
+Lucas Bonanni: Por eso el script, ese lo que hacía era es
+
+447
+00:59:48.820 --> 00:59:49.510
+Lucas Bonanni: Mhm.
+
+448
+00:59:54.050 --> 01:00:04.859
+Lucas Bonanni: Entonces, acá una vez que le di el Upply, me va a pe pedir por confirmación, me dice, bueno, realmente quieres aplicar estos cambios? Se lo pongo, que si
+
+449
+01:00:09.430 --> 01:00:15.019
+Lucas Bonanni: Y bueno, acá es donde falla, porque no existe el plan, o me dice que agregué
+
+450
+01:00:15.280 --> 01:00:21.839
+Lucas Bonanni: la tarjeta para hacer el porque no, no está. No te lo dejan para el Starter. Ya era
+
+451
+01:00:22.050 --> 01:00:27.549
+Lucas Bonanni: ya era pavo. Pero ese era ese era el problema.
+
+452
+01:00:28.690 --> 01:00:34.950
+Lucas Bonanni: pero de cualquier forma lo hubiera generado. Lo que te hace este género. Un servidor acá es una lástima, Pero
+
+453
+01:00:36.640 --> 01:00:40.320
+Lucas Bonanni: pero si no lo que podemos hacer es crear 1 nuevo.
+
+454
+01:00:50.960 --> 01:00:56.790
+Lucas Bonanni: toda la razón que también de razón local. Stock
+
+455
+01:01:06.640 --> 01:01:09.470
+Lucas Bonanni: claro, No, ese era solamente el teléfono.
+
+456
+01:01:12.510 --> 01:01:18.700
+Lucas Bonanni: Son Sample, la del papel C o u
+
+457
+01:01:31.590 --> 01:01:38.310
+Lucas Bonanni: Bueno, acá. No no tenemos nada, pero podemos hacerlo correr un terraphone Init.
+
+458
+01:01:41.110 --> 01:01:48.419
+Lucas Bonanni: Y esto es lo que va a hacer, es que va a inicializar el el directorio como un directorio
+
+459
+01:01:48.730 --> 01:01:53.360
+Lucas Bonanni: vacío, pero antes tenemos que regarlo un provider.
+
+460
+01:01:54.610 --> 01:01:59.110
+Lucas Bonanni: Entonces lo que hacemos es vamos a agregar acá.
+
+461
+01:02:00.060 --> 01:02:07.019
+Lucas Bonanni: Wifi cerrazón, no perdón, luego iden
+
+462
+01:02:10.530 --> 01:02:16.899
+Lucas Bonanni: y vamos a agarrar algún provider. Vamos a agarrar yo lo que hago cuando no no puedo crear.
+
+463
+01:02:17.730 --> 01:02:19.310
+Lucas Bonanni: Creo que está el de Docker.
+
+464
+01:02:44.090 --> 01:02:45.210
+Lucas Bonanni: Sí, creo que es cierto.
+
+465
+01:02:46.320 --> 01:02:52.320
+Lucas Bonanni: Entonces lo que podemos hacer, Nos copiamos acá el código para usar este provider.
+
+466
+01:02:58.620 --> 01:03:07.890
+Lucas Bonanni: Creo que vamos acá y acá nos va a dar opciones de configuración
+
+467
+01:03:17.120 --> 01:03:19.910
+Lucas Bonanni: que acá. Esto yo lo tengo que setear.
+
+468
+01:03:33.400 --> 01:03:36.179
+Lucas Bonanni: lo tengo que chequear, y le tengo que cambiar el Stream.
+
+469
+01:03:40.240 --> 01:03:42.010
+Lucas Bonanni: Lo que estoy usando con lima.
+
+470
+01:04:06.890 --> 01:04:11.040
+Lucas Bonanni: si no me falla, no conecta con colima.
+
+471
+01:04:12.700 --> 01:04:17.849
+Lucas Bonanni: y después, bueno, acá es donde 1 puede declarar diferentes recursos.
+
+472
+01:04:35.200 --> 01:04:45.349
+Lucas Bonanni: Entonces, ahora, si, bueno, ahora sí puedo ejecutar el el terraphone Init.
+
+473
+01:04:47.010 --> 01:04:49.809
+Lucas Bonanni: Y ahora me va a descargar ese provider.
+
+474
+01:04:55.530 --> 01:05:05.320
+Lucas Bonanni: Y me va a generar ahí estos archivos. Bueno, acá en en terraforce, obviamente creó toda la parte. El provider. Sí,
+
+475
+01:05:05.830 --> 01:05:10.630
+Lucas Bonanni: descargo, un rítmic también del provider
+
+476
+01:05:12.310 --> 01:05:22.020
+Lucas Bonanni: y generó un terraphone block que es como así como para manejar los providers o los o los plugins. Sí, donde bueno, tienen los hash para verificar que
+
+477
+01:05:22.160 --> 01:05:25.959
+Lucas Bonanni: ese provider es el la versión del probado.
+
+478
+01:05:26.470 --> 01:05:27.650
+Lucas Bonanni: Básicamente
+
+479
+01:05:28.010 --> 01:05:42.090
+Lucas Bonanni: entonces ahora nosotros podemos mantenerlo ordenado y hacer un main. Tf: Y ahí es donde nosotros declaramos los recursos que realmente vamos a utilizar esto. Bueno, supongamos que ahora es algo sencillo. Pero si fuera una nube.
+
+480
+01:05:42.380 --> 01:05:48.400
+Lucas Bonanni: acá declararíamos acá, o en diferentes módulos, declararíamos los recursos que queremos utilizar.
+
+481
+01:05:49.980 --> 01:05:56.790
+Lucas Bonanni: Entonces, si nosotros Ahora, corro terraphone plan
+
+482
+01:05:57.030 --> 01:06:00.789
+Lucas Bonanni: nos va a mostrar como nos mostró con render.
+
+483
+01:06:01.890 --> 01:06:10.460
+Lucas Bonanni: Va a crear todo lo que necesite. ¿sí? Entonces acá podemos ver
+
+484
+01:06:11.400 --> 01:06:18.890
+Lucas Bonanni: lo que es necesario. De hecho, hay otra cosa que podemos definir.
+
+485
+01:06:19.410 --> 01:06:28.500
+Lucas Bonanni: Acá. Bien, está bien en este. Lo voy a cambiar. Le voy a poner samper por ahora
+
+486
+01:06:36.330 --> 01:06:40.180
+Lucas Bonanni: bien, y ahí nos va a mostrar. Y lo que va a hacer es que si yo le doy una play
+
+487
+01:06:44.600 --> 01:06:45.800
+Lucas Bonanni: cuando oyes
+
+488
+01:06:57.460 --> 01:07:02.540
+Lucas Bonanni: Ahora, no tengo ningún contenedor corriendo. Sí, hice un doter. P. S Y no tengo nada.
+
+489
+01:07:03.120 --> 01:07:10.070
+Lucas Bonanni: Vamos a ver Ahora, cuando termine, dijo que la playa está
+
+490
+01:07:10.600 --> 01:07:18.570
+Lucas Bonanni: completado. Por lo tanto, no tengo. No creo que. R. P. S. Debería haber creado
+
+491
+01:07:27.040 --> 01:07:31.229
+Lucas Bonanni: el container Acá definir la imagen.
+
+492
+01:07:32.170 --> 01:07:37.750
+Lucas Bonanni: No hay un recurso y programado que no lo ejecutó
+
+493
+01:07:38.350 --> 01:07:40.230
+Lucas Bonanni: a ver si faltaba algo más.
+
+494
+01:08:33.569 --> 01:08:40.829
+Lucas Bonanni: Los que nos definen todos los atributos que tiene. Digamos, ese recurso que nosotros podemos definir.
+
+495
+01:08:43.149 --> 01:08:45.469
+Lucas Bonanni: pero no debería ser necesario.
+
+496
+01:09:34.930 --> 01:09:40.230
+Lucas Bonanni: porque la imagen la descargo, bueno, ¿Por qué no la creo?
+
+497
+01:10:34.260 --> 01:10:37.709
+Lucas Bonanni: Las imágenes, los volúmenes?
+
+498
+01:10:52.020 --> 01:10:52.760
+Lucas Bonanni: Claro.
+
+499
+01:11:01.190 --> 01:11:05.209
+Lucas Bonanni: así, si nos damos cuenta de que es lo que les falta, pero
+
+500
+01:11:47.940 --> 01:11:51.070
+Lucas Bonanni: no era este, que era muy sencillo
+
+501
+01:12:16.250 --> 01:12:17.790
+Lucas Bonanni: número. De manera
+
+502
+01:12:36.150 --> 01:12:48.419
+Lucas Bonanni: vamos a ver un tutorial a ver si existen, no a ver de todas formas móviles abstracto.
+
+503
+01:12:56.740 --> 01:12:58.700
+Lucas Bonanni: Este es el caballo que tenemos.
+
+504
+01:13:04.320 --> 01:13:05.290
+Lucas Bonanni: sí
+
+505
+01:13:08.330 --> 01:13:10.509
+Lucas Bonanni: de lo mismo. Algo intentar con esto.
+
+506
+01:13:15.910 --> 01:13:24.039
+Lucas Bonanni: Si 1 funciona con 1 capaz que la imagen necesita declarar algo más.
+
+507
+01:13:36.360 --> 01:13:43.470
+Lucas Bonanni: La podemos hacer un terraphone destroy iba a destruir.
+
+508
+01:13:44.010 --> 01:13:46.009
+Lucas Bonanni: Me imagino que las imágenes también
+
+509
+01:13:49.800 --> 01:13:51.009
+Lucas Bonanni: a ver si usted
+
+510
+01:13:54.150 --> 01:13:56.309
+Lucas Bonanni: con perrofón clan Otra vez
+
+511
+01:13:57.150 --> 01:14:01.739
+Lucas Bonanni: voy a decir que es lo que va a crear nuevamente. Ahora debería crear la imagen
+
+512
+01:14:05.470 --> 01:14:08.760
+Lucas Bonanni: Enginex. Vamos a ver si ahora lo creo
+
+513
+01:14:41.000 --> 01:14:44.540
+Lucas Bonanni: que se establecían. Estaba trabajando un rato más.
+
+514
+01:14:49.230 --> 01:14:53.640
+Lucas Bonanni: Bien. Ahora sí, de debía de ser la imagen de ubuntu.
+
+515
+01:14:54.210 --> 01:15:00.189
+Lucas Bonanni: Entonces ahora sí, tenemos el Enginex corriendo, y lo básicamente lo creamos
+
+516
+01:15:01.180 --> 01:15:09.780
+Lucas Bonanni: desde ahí. Entonces. Ahora, si yo voy esto está en qué puerto. Ocho. 1 000 el Host. Ocho 1 000
+
+517
+01:15:10.270 --> 01:15:15.870
+Lucas Bonanni: Ahí tenemos Tailandginx corriendo. Es otra forma de de aclararlo. Si 1 quiere
+
+518
+01:15:16.100 --> 01:15:25.659
+Lucas Bonanni: sí declarar todas las características. Obviamente, esto no reemplaza un docker file. Pero
+
+519
+01:15:26.320 --> 01:15:35.350
+Lucas Bonanni: es interesante saber que 1 lo puede hacer. De esta manera también se se declara la la infraestructura, no en proyectos más complejos.
+
+520
+01:15:36.520 --> 01:15:46.330
+Lucas Bonanni: Entonces, ahora, si yo hago el bueno, acá, hay algo interesante. ¿qué pasa si yo le cambio este nombre.
+
+521
+01:15:47.940 --> 01:15:50.940
+Lucas Bonanni: Hay que tener en cuenta que
+
+522
+01:15:51.790 --> 01:15:56.360
+Lucas Bonanni: nos va a mostrar ahora, cuando vamos a Terraform Plant
+
+523
+01:16:01.690 --> 01:16:03.400
+Lucas Bonanni: algo interesante.
+
+524
+01:16:03.850 --> 01:16:13.849
+Lucas Bonanni: ¿por qué a ver si esto sigue siendo válido, Acá nos aparece
+
+525
+01:16:14.130 --> 01:16:16.120
+Lucas Bonanni: todos los cambios que va a aplicar.
+
+526
+01:16:16.900 --> 01:16:20.580
+Lucas Bonanni: Entonces nos va a decir bueno, cosas que se agregan
+
+527
+01:16:21.150 --> 01:16:24.210
+Lucas Bonanni: cosas que que va a sacar
+
+528
+01:16:26.720 --> 01:16:31.610
+Lucas Bonanni: y cosas que va a cambiar. Y acá nos da algo muy importante en este caso.
+
+529
+01:16:32.240 --> 01:16:37.020
+Lucas Bonanni: como nosotros que cambiamos el nombre.
+
+530
+01:16:37.810 --> 01:16:47.190
+Lucas Bonanni: Pero para cambiar el nombre en Docker no podemos como renombrar un archivo y ya está, y la instancia siga corriendo, sino que lo que hace es.
+
+531
+01:16:47.590 --> 01:16:51.629
+Lucas Bonanni: tiene que es forzosamente matar la instancia
+
+532
+01:16:52.030 --> 01:16:55.509
+Lucas Bonanni: y volverla a crear. O sea, que no todas
+
+533
+01:16:56.570 --> 01:17:06.729
+Lucas Bonanni: los recursos, ¿sí? Y esto es por ahí lo complejo de de tratar de visualizar, no todos los complejos, todos los recursos
+
+534
+01:17:07.430 --> 01:17:14.460
+Lucas Bonanni: se actualizan. Hay algunos que se ti. Se tienen que eliminar y volver a crear para actualizarse
+
+535
+01:17:14.600 --> 01:17:18.979
+Lucas Bonanni: o por lo menos ciertos atributos. Sí, eso va a depender también del proveedor.
+
+536
+01:17:19.360 --> 01:17:23.980
+Lucas Bonanni: cómo el de proveedor defina que eso se puede cambiar o no.
+
+537
+01:17:24.460 --> 01:17:30.269
+Lucas Bonanni: Entonces, en este caso lo que va a pasar es que si yo ahora un terraford Apply
+
+538
+01:17:30.810 --> 01:17:37.020
+Lucas Bonanni: va a terminar ap destruyendo la imagen de Docker, que está y creando una nueva
+
+539
+01:17:37.190 --> 01:17:39.040
+Lucas Bonanni: con un con el nuevo nombre
+
+540
+01:17:40.280 --> 01:17:47.470
+Lucas Bonanni: y E, y esto es lo que 1 a veces también tiene que tener en cuenta y
+
+541
+01:17:47.800 --> 01:17:55.980
+Lucas Bonanni: qué es lo que va a terminar pasando? Y cómo eso va a impactar en nuestra infraestructura? No, porque no siempre todos los cambios
+
+542
+01:17:56.110 --> 01:18:02.910
+Lucas Bonanni: son, digamos, eso como una una actualización.
+
+543
+01:18:06.520 --> 01:18:09.670
+Lucas Bonanni: Y bueno, y si obviamente ahora le doy destroy
+
+544
+01:18:12.510 --> 01:18:15.670
+Lucas Bonanni: va a eliminar todo. No tienes razón.
+
+545
+01:18:32.290 --> 01:18:37.220
+Lucas Bonanni: Esto es como un pequeño. La verdad es que yo quería ser el
+
+546
+01:18:37.950 --> 01:18:48.510
+Lucas Bonanni: el otro ejemplo, el otro laboratorio con local Stark, pero bueno, justo en marzo hicieron el proyecto privado y
+
+547
+01:18:49.330 --> 01:18:52.769
+Lucas Bonanni: y no lo puedo hacer. No lo puedo. No lo puedo utilizar más
+
+548
+01:18:53.030 --> 01:18:58.559
+Lucas Bonanni: porque la idea era después, compartírselo, y que ustedes pudieran jugar con con lo que al estadio.
+
+549
+01:18:58.830 --> 01:19:01.209
+Lucas Bonanni: ¿qué es lo yo? Lo que quería hacer?
+
+550
+01:19:02.320 --> 01:19:09.579
+Lucas Bonanni: Si ahora lo podemos ver. Voy a cerrar este y vamos a abrir el local Start para que vean lo que yo había armado en
+
+551
+01:19:11.130 --> 01:19:13.830
+Lucas Bonanni: y Afganistán
+
+552
+01:19:17.050 --> 01:19:24.099
+Lucas Bonanni: ya había armado. Estaba armando Esto, que era un E. K. S, un ejemplo de E. K, S
+
+553
+01:19:24.430 --> 01:19:26.720
+Lucas Bonanni: Con toda la infraestructura.
+
+554
+01:19:28.110 --> 01:19:34.730
+Lucas Bonanni: Y lo que quería que después compartírselos y que que lo tuvieran. Era esto donde era
+
+555
+01:19:35.180 --> 01:19:54.610
+Lucas Bonanni: un terraford con toda la infraestructura. Bueno, en este caso había hecho algo bastante sencillo, un un eks de Amazon sí. Obviamente, todo esto corría dentro del local esta de forma local, atravesando Docker, porque lo que 1 configuraba en el proyecto era
+
+556
+01:19:55.180 --> 01:20:02.959
+Lucas Bonanni: bueno. Este es el Este era el Docker fire sencillo. Estaba Estaba todavía haciendo las pruebas.
+
+557
+01:20:03.960 --> 01:20:16.580
+Lucas Bonanni: Y bueno, la idea era combinar local Star Terraford, y hacer un Y Uy y gobernetes
+
+558
+01:20:16.760 --> 01:20:26.959
+Lucas Bonanni: para que hacer un mini Deployd de laboratorio en nuestras máquinas. Pero bueno, quedó ahí.
+
+559
+01:20:27.310 --> 01:20:28.990
+Lucas Bonanni: Tal no pudo ser.
+
+560
+01:20:29.810 --> 01:20:40.969
+Lucas Bonanni: Pero estaba bueno como para ver la infraestructura. Esto lo lo hubiera tenido que ordenar un poquito mejor para que parezca un proyecto real, y no todos los archivos así tirados.
+
+561
+01:20:41.180 --> 01:20:47.499
+Lucas Bonanni: Pero, bueno, sí, esto era lo que lo que quería hacer. Por eso acá tenía los deployment.
+
+562
+01:20:47.840 --> 01:20:55.600
+Lucas Bonanni: los archivos de Ployment para definir el L. K. S. Hacer con con mini q y hacer el deploy. Pero, bueno.
+
+563
+01:20:56.860 --> 01:20:58.470
+Lucas Bonanni: no puedo ser.
+
+564
+01:21:01.880 --> 01:21:08.329
+Lucas Bonanni: Y bueno con eso. Nada. Eso es lo que tenía para mostrarles de terraforme. Eso era la la presentación.
+
+565
+01:21:08.990 --> 01:21:11.239
+Lucas Bonanni: Sí que tienen alguna duda.
+
+566
+01:21:21.390 --> 01:21:23.190
+FACUNDO EMANUEL MODARELLI: De mi lado. Profe muy buenas.
+
+567
+01:21:23.190 --> 01:21:24.610
+FACUNDO SAFE: No.
+
+568
+01:21:27.990 --> 01:21:33.760
+Lucas Bonanni: Bueno, Excelente. Bueno, ahora yo, bueno, les confirmo, acá están
+
+569
+01:21:34.400 --> 01:21:50.110
+Lucas Bonanni: las fechas de final, Sí, este ojo que es un miércoles por las dudas, porque sé que el viernes es feriado. Así que por las dudas para que tengan en cuenta y después el resto Sí, creo que son Todavía no
+
+570
+01:21:51.090 --> 01:21:56.500
+Lucas Bonanni: no sé qué, pero, bueno, igual son estas las fechas. Ya me las pasaba en
+
+571
+01:21:59.830 --> 01:22:01.340
+Lucas Bonanni: para que lo tengan en cuenta.
+
+572
+01:22:02.110 --> 01:22:04.450
+Lucas Bonanni: Y ahora le subo en tapetela.
+
+573
+01:22:06.720 --> 01:22:09.000
+FACUNDO SAFE: Bárbaro profe buen fin de semana.
+
+574
+01:22:09.880 --> 01:22:11.800
+Lucas Bonanni: Igualmente buen fin de sí.
+
+575
+01:22:12.190 --> 01:22:19.590
+MANUEL KRIVOY: Mhm: He para dejarlo bien en claro. Así que estuve hablando al principio de la clase. Pero bueno.
+
+576
+01:22:19.740 --> 01:22:21.830
+MANUEL KRIVOY: entonces las presentaciones.
+
+577
+01:22:22.400 --> 01:22:26.339
+MANUEL KRIVOY: Y lo que vamos a hacer es mostrar
+
+578
+01:22:26.470 --> 01:22:36.599
+MANUEL KRIVOY: lo que tengamos hecho, obviamente con los criterios mínimos para aprobar según las consignas, y después ahí vos nos va a decir mejoras que vamos a tener que hacer y presentarlas al final.
+
+579
+01:22:37.170 --> 01:22:41.199
+Lucas Bonanni: Sí, Sí, No, no, No necesariamente ahí mismo, Sí, por decir
+
+580
+01:22:41.350 --> 01:22:59.519
+Lucas Bonanni: lo que van a hacer es lo lo van a entregar. Se les voy a dejar un lugar para para entregar eso. Digamos, tienen que entregar el el documento, el link al red o no. Y ahí yo lo voy a revisar. Y le voy a dar el feedback después a sincrónico el día de la presentación, van a dar la presentación.
+
+581
+01:23:00.820 --> 01:23:01.540
+MANUEL KRIVOY: Okay.
+
+582
+01:23:02.530 --> 01:23:03.290
+Lucas Bonanni: Y.
+
+583
+01:23:03.290 --> 01:23:03.860
+MANUEL KRIVOY: De la.
+
+584
+01:23:03.860 --> 01:23:05.980
+Lucas Bonanni: Desde el transcurso, les voy dando el feedback.
+
+585
+01:23:08.210 --> 01:23:14.959
+MANUEL KRIVOY: A mí. Yo mandé mi avance por Slack. Yo igual hoy, con lo que charlaron al principio, me di cuenta que
+
+586
+01:23:15.390 --> 01:23:26.789
+MANUEL KRIVOY: me falta, por ejemplo, el el yo estoy usando el render el hook para hacer el diploy, pero estoy usando el letes. Recién vi para usar el Shah de del comité.
+
+587
+01:23:27.010 --> 01:23:32.959
+MANUEL KRIVOY: Y por ahí eso se capaz, se me complica. Es muy, muy necesario. Vos Ves que que sea sin usar el leites
+
+588
+01:23:33.460 --> 01:23:35.059
+MANUEL KRIVOY: para que me haga el.
+
+589
+01:23:37.060 --> 01:23:44.780
+Lucas Bonanni: Sí, porque no tiene sentido. No tiene mucho sentido del deploy y igual.
+
+590
+01:23:44.780 --> 01:23:46.890
+MANUEL KRIVOY: Está ahí. El Worldflow.
+
+591
+01:23:47.520 --> 01:23:56.609
+Lucas Bonanni: Sí, sí abriéndolo. Por eso te digo, la idea es que lo hagan con un versionado, porque por ley test es como que no tiene
+
+592
+01:23:56.890 --> 01:24:01.129
+Lucas Bonanni: lo que te hace, es descargar siempre laters.
+
+593
+01:24:01.130 --> 01:24:01.920
+MANUEL KRIVOY: Claro.
+
+594
+01:24:04.310 --> 01:24:08.799
+Lucas Bonanni: Pero bueno, si no llegas, y lo haces.
+
+595
+01:24:08.800 --> 01:24:17.400
+MANUEL KRIVOY: Me me faltaría eso. Y lo del monitoreo también. No lo hice todavía. Pero, bueno, voy a intentar hacer esas 2 cosas para la semana que viene. Entonces.
+
+596
+01:24:17.930 --> 01:24:21.820
+Lucas Bonanni: Dale. Dale. Dale. Dale: Sí, Sí, Sí, fíjate que. Bueno, ahí.
+
+597
+01:24:21.820 --> 01:24:22.490
+MANUEL KRIVOY: Y a la.
+
+598
+01:24:22.490 --> 01:24:25.070
+Lucas Bonanni: Pero no sé si lo viste, que compartió ya con más.
+
+599
+01:24:25.070 --> 01:24:26.439
+MANUEL KRIVOY: Y si.
+
+600
+01:24:26.440 --> 01:24:27.660
+Lucas Bonanni: Y todos, ¿Qué.
+
+601
+01:24:27.820 --> 01:24:30.980
+MANUEL KRIVOY: Me voy a a irme a guardar el link
+
+602
+01:24:31.440 --> 01:24:32.910
+MANUEL KRIVOY: y le voy a echar un ojo.
+
+603
+01:24:33.260 --> 01:24:35.880
+MANUEL KRIVOY: pero bueno, esas 2 cosas me quedan ahí.
+
+604
+01:24:36.080 --> 01:24:37.879
+MANUEL KRIVOY: Gracias. Profe Buen fin. Da.
+
+605
+01:24:38.280 --> 01:24:39.640
+Lucas Bonanni: Igualmente buen fin de.
+
+606
+01:24:39.640 --> 01:24:40.530
+FRANCISCO NOCEDA: Sé, yo tengo una.
+
+607
+01:24:40.530 --> 01:24:40.910
+CRISTIAN QUEIROLO DOMINGUEZ: En el.
+
+608
+01:24:40.910 --> 01:24:41.600
+FRANCISCO NOCEDA: Con tirón.
+
+609
+01:24:41.840 --> 01:24:42.530
+Lucas Bonanni: Sí.
+
+610
+01:24:42.760 --> 01:24:51.980
+FRANCISCO NOCEDA: Una cosa que no termino entender por las dudas viste que en la consigna del Pp hay un par de funcionalidades extras que entiendo que no son las bases del proyecto.
+
+611
+01:24:52.160 --> 01:24:58.629
+FRANCISCO NOCEDA: Y abajo dice: el objetivo es poder tener al menos 2 versiones del proyecto, una básica y una avanzada.
+
+612
+01:24:58.940 --> 01:25:09.019
+FRANCISCO NOCEDA: eso de 2 versiones. Como o sea, nosotros tenemos que hacer lo básico. Y después, si nos extendemos, lo hacemos en otra otra rama u otro ripo, o es todo. Dentro de lo mismo.
+
+613
+01:25:10.370 --> 01:25:12.440
+Lucas Bonanni: Depende vos. Lo estás haciendo individual.
+
+614
+01:25:12.630 --> 01:25:13.910
+FRANCISCO NOCEDA: No, no estamos en grupo.
+
+615
+01:25:14.820 --> 01:25:18.280
+Lucas Bonanni: Bueno, tal vez ahí en la avanzada.
+
+616
+01:25:18.560 --> 01:25:27.669
+Lucas Bonanni: Y lo que depende de si es tu reto o no. Si no es tu reto. Haces un Ford
+
+617
+01:25:28.360 --> 01:25:31.839
+Lucas Bonanni: y vos agregaste eso a avanzado.
+
+618
+01:25:32.280 --> 01:25:42.870
+Lucas Bonanni: Y si esto repo bueno, lo agregas en el tuyo y bueno a tus compañeros para, más que nada para la presentación final, Pueden hacer un
+
+619
+01:25:43.100 --> 01:25:46.050
+Lucas Bonanni: se hacen el Ford y traen con las modificaciones y.
+
+620
+01:25:46.050 --> 01:25:52.039
+FRANCISCO NOCEDA: Claro, no, Pero yo esto, pues, como o sea, para entrega base, o sea, hacerlo con mi compañero, ahora de sumarle un par de cosas.
+
+621
+01:25:52.190 --> 01:25:56.199
+FRANCISCO NOCEDA: Estamos viendo que podíamos sumar de esas de esas funcionalidades.
+
+622
+01:25:56.640 --> 01:25:58.790
+Lucas Bonanni: Bueno, háganlo en el mismo rombo. Sí.
+
+623
+01:25:58.790 --> 01:26:01.580
+FRANCISCO NOCEDA: Directamente lo mismo, reposo. O sea, no diferenciamos nada directamente de todo.
+
+624
+01:26:01.580 --> 01:26:03.129
+Lucas Bonanni: No, no, no, no diferencia nada.
+
+625
+01:26:03.130 --> 01:26:04.619
+FRANCISCO NOCEDA: Ah, listo! José. Excelente profesor.
+
+626
+01:26:04.620 --> 01:26:08.790
+Lucas Bonanni: Es una versión avanzada porque es bueno. Como la versión avanzada del perfecto.
+
+627
+01:26:09.340 --> 01:26:14.340
+FRANCISCO NOCEDA: Claro, O sea igual, se pueden sumar un par de cosas a mano o hace falta, si sumamos sumamos todos.
+
+628
+01:26:16.630 --> 01:26:19.049
+Lucas Bonanni: Vamos. No entiendo.
+
+629
+01:26:19.050 --> 01:26:24.679
+FRANCISCO NOCEDA: Varias funcionalidades. Podemos elegir algunas para sumar y algunas no, por ejemplo, porque por un tema de tiempo más que nada.
+
+630
+01:26:24.680 --> 01:26:26.320
+Lucas Bonanni: Sí, sí, no, no hay problema.
+
+631
+01:26:26.320 --> 01:26:27.330
+FRANCISCO NOCEDA: Listo, buenísimo.
+
+632
+01:26:28.170 --> 01:26:30.920
+FRANCISCO NOCEDA: Bueno. Listo, eso Eso es ahora. 1 000: Gracias.
+
+633
+01:26:31.210 --> 01:26:32.580
+Lucas Bonanni: Dale. De nada.
+
+634
+01:26:32.730 --> 01:26:33.959
+FRANCISCO NOCEDA: Nos vemos? Profe Chao.
+
+635
+01:26:33.960 --> 01:26:35.739
+Lucas Bonanni: Nos vemos buen finde.
+
+636
+01:26:37.570 --> 01:26:45.720
+JEREMY BACHER: Bueno, Lucas, cualquier cosa, Espero ahí el mensaje a través de Slack. Si te parece yéremio.
+
+637
+01:26:46.580 --> 01:26:52.240
+Lucas Bonanni: Dale a ver, déjame chequear, seremi, seremi
+
+638
+01:26:54.820 --> 01:27:03.160
+Lucas Bonanni: dale listo. Sí, yo lo lo miro igual por lo que vi. Era lo de lo del render de Hook
+
+639
+01:27:03.570 --> 01:27:10.419
+Lucas Bonanni: que que te faltaba. Y después, en general lo lo vi bastante bien.
+
+640
+01:27:11.310 --> 01:27:22.760
+Lucas Bonanni: Así que si estás viendo de sumar Red New Relly, está bien. Vos cómo di cómo dije? No gusta cuando hable lo de la lo de la presentación. Fíjate de ver. Bueno.
+
+641
+01:27:22.960 --> 01:27:42.129
+Lucas Bonanni: qué buenas prácticas utilizaste para tu framework en en base a cómo construías la el Docker file el el docker con Post, no el el flujo. ¿por qué lo definiste? Cuáles iban a ser los true feedback loops dentro de del flujo, no para cuando creabas y desarrollabas la aplicación.
+
+642
+01:27:42.170 --> 01:27:50.699
+Lucas Bonanni: Y bueno, esto lo de monitoreo. Y lo de Y lo que acabamos de hablar de de play random.
+
+643
+01:27:53.010 --> 01:28:03.959
+JEREMY BACHER: Excelente. Excelente. Bueno, gracias por la aclaración. Y bueno, entonces cualquier cosa le le voy pasando las actualizaciones ahí por Slack, entonces Lucas.
+
+644
+01:28:04.300 --> 01:28:08.459
+Lucas Bonanni: Dale Dale, cualquier cosa. Me Me pregunta que yo voy a estar por acá.
+
+645
+01:28:08.460 --> 01:28:11.659
+JEREMY BACHER: Es: bueno. Muchas gracias. Buen fin de semana.
+
+646
+01:28:11.850 --> 01:28:13.850
+Lucas Bonanni: Igualmente chao, chao.
+
+647
+01:28:19.760 --> 01:28:21.130
+FACUNDO EMANUEL MODARELLI: Echado por el fuego en finde.
+
+648
+01:28:21.750 --> 01:28:22.940
+Lucas Bonanni: Buen fin de.
+
+

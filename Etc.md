@@ -22,11 +22,10 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 
 4. 05/06 DevOps (Segundo) 
 
-5. 10/06 Adm de proyectos (Segundo)
+5. 10/06 Testing y QA (Segundo)
 
-6. 10/06 Testing y QA (Segundo)
+6. 11/06 Seg web (Segundo)
 
-7. 11/06 Seg web (Segundo)
+7. 11/06 (parcial) Auditoria de sistemas
 
-8. 11/06 (parcial) Auditoria de sistemas
-
+8. 12/06 Adm de proyectos (Segundo) ---> En teoria lo paso del 10/06

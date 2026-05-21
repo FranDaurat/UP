@@ -1,0 +1,4343 @@
+WEBVTT
+
+1
+00:23:40.490 --> 00:23:42.159
+Lucas Bonanni: Buenas. ¿cómo están.
+
+2
+00:23:48.970 --> 00:23:49.890
+AGUSTIN ELMER: profer.
+
+3
+00:23:50.100 --> 00:23:51.180
+AGUSTIN ELMER: ¿estoy en vos.
+
+4
+00:23:52.010 --> 00:23:53.640
+Lucas Bonanni: Bien, todo bien por acá.
+
+5
+00:23:54.710 --> 00:23:55.090
+TEODORO WELYCZKO: Bueno, bueno.
+
+6
+00:23:55.090 --> 00:23:55.810
+AGUSTIN ELMER: Camarero.
+
+7
+00:23:56.650 --> 00:23:57.610
+Lucas Bonanni: Buenas.
+
+8
+00:24:06.010 --> 00:24:07.689
+Lucas Bonanni: ¿cómo vienen con el T? P.
+
+9
+00:24:13.200 --> 00:24:15.109
+AGUSTIN ELMER: Bien que me.
+
+10
+00:24:18.940 --> 00:24:20.230
+Lucas Bonanni: ¿hasta dónde llegaron?
+
+11
+00:24:21.460 --> 00:24:22.670
+Lucas Bonanni: ¿cómo vienen?
+
+12
+00:24:29.400 --> 00:24:31.740
+Lucas Bonanni: Sí.
+
+13
+00:24:32.090 --> 00:24:37.649
+TEODORO WELYCZKO: Yo. Si te soy sincero, todavía no me pude poner el D. P: recién salgo de todo en las zonas parciales y todo.
+
+14
+00:24:37.990 --> 00:24:40.420
+Lucas Bonanni: Mhm, No.
+
+15
+00:24:40.420 --> 00:24:42.109
+TEODORO WELYCZKO: No más o menos lo que había que hacer, igual.
+
+16
+00:24:44.960 --> 00:24:46.989
+Lucas Bonanni: Y alguna duda con lo que hay que hacer.
+
+17
+00:24:50.940 --> 00:24:54.419
+TEODORO WELYCZKO: En mi caso, por lo que vi, No, no, no tengo dudas.
+
+18
+00:24:57.020 --> 00:25:00.370
+JOANA ZARATE: Perdón. Hola. Estamos hablando del trabajo práctico.
+
+19
+00:25:00.950 --> 00:25:02.200
+Lucas Bonanni: Sí, sí. ¿qué tal.
+
+20
+00:25:02.630 --> 00:25:05.889
+JOANA ZARATE: Hola, yo sí, tengo una duda.
+
+21
+00:25:05.890 --> 00:25:06.270
+Lucas Bonanni: A ver.
+
+22
+00:25:06.270 --> 00:25:09.370
+JOANA ZARATE: Final porque vi que dice que tenés que
+
+23
+00:25:11.130 --> 00:25:13.660
+JOANA ZARATE: hacer una rama, un Ford, algo así.
+
+24
+00:25:15.940 --> 00:25:20.520
+Lucas Bonanni: No, no. El final va a ser yo. Lo que voy a hacer es
+
+25
+00:25:21.810 --> 00:25:37.720
+Lucas Bonanni: ustedes ahora, cuando den las presentaciones sí les voy a dar una devolución de a ver qué es lo que pueden mejorar. Si hay algo para mejorar o lo que tienen que completar porque tal vez no lleguen con todo.
+
+26
+00:25:39.420 --> 00:25:47.989
+Lucas Bonanni: Con eso. Van a tener una nota de de cursada. Sí, junto con los junto con los parciales
+
+27
+00:25:48.100 --> 00:26:07.040
+Lucas Bonanni: y después, una vez que que tenemos eso, lo que les voy a decir. Bueno, lo que tienen que completar es lo que le falta para el final. Sí, o lo que yo le doy para corregir, o lo que le falte. Y con eso nada vemos. Revisamos eso de la fecha de final. Re Revisamos eso lo que le faltó y lo que les di a corregir y listo.
+
+28
+00:26:09.590 --> 00:26:11.349
+Lucas Bonanni: y les doy la nota final.
+
+29
+00:26:12.660 --> 00:26:14.750
+JOANA ZARATE: Bien, bien, bien, Ahí va. Ahí va.
+
+30
+00:26:15.110 --> 00:26:20.840
+Lucas Bonanni: Ahí lo que puedes si están trabajando en grupo. La ahí es donde, entre el tema del Ford
+
+31
+00:26:20.970 --> 00:26:37.220
+Lucas Bonanni: que bueno, por ahí. Si vos tenés modificaciones y para no pisarte lo que puedes hacer es un fork, si lo tienes, si no es tuyo, o no. Y lo tiene tu compañero, porque generalmente lo genera 1 y el otro. Bueno, trabaja sobre el mismo.
+
+32
+00:26:37.220 --> 00:26:43.990
+Lucas Bonanni: Se pueden de última hacer un Ford o trabajas, seguir trabajando, no que también es es otra posibilidad.
+
+33
+00:26:46.810 --> 00:26:50.270
+JOANA ZARATE: Sí, genial. En mi Grupo. Por ahí estamos como trabajando
+
+34
+00:26:50.530 --> 00:27:00.059
+JOANA ZARATE: cada 1 con su versión, porque no no estamos muy familiarizados con el tema de Githoub. Entonces teníamos esa duda de cómo eso. ¿cómo funcionaba eso? El Fork.
+
+35
+00:27:01.510 --> 00:27:02.400
+Lucas Bonanni: Okay.
+
+36
+00:27:02.740 --> 00:27:15.090
+Lucas Bonanni: Bueno, no cualquier cosa. Consulten si tienen alguna duda antes de de avanzar mucho porque después se va a complicar para cuando quieran unir todo. No sé cómo se están organizando ahí con con ese tema.
+
+37
+00:27:16.510 --> 00:27:20.079
+JOANA ZARATE: Es como podemos, porque estamos medio complicados de tiempo. Los 3.
+
+38
+00:27:23.850 --> 00:27:27.149
+Lucas Bonanni: Pero ¿qué tienen? ¿cómo hicieron para más o menos organizarse.
+
+39
+00:27:29.120 --> 00:27:34.889
+JOANA ZARATE: Empezamos medio a sincrónicos a través de Whatsapp y Slack.
+
+40
+00:27:35.200 --> 00:27:35.560
+Lucas Bonanni: Mhm.
+
+41
+00:27:35.560 --> 00:27:40.190
+JOANA ZARATE: Y más o menos fuimos trabajando ahí. Estamos trabajando en un
+
+42
+00:27:40.340 --> 00:27:50.029
+JOANA ZARATE: documento colaborativo en donde el que avanza pone las cosas. Y si otro avanza, soluciona otra cosa, lo pone lo copia y pega ahí en ese documento colaborativo
+
+43
+00:27:50.610 --> 00:28:00.430
+JOANA ZARATE: y nada. T: Todo no cómo funciona la a p. I. ¿cómo funciona Docker, cómo funciona esas cosas? Las vamos poniendo en ese documento y como que nos vamos al.
+
+44
+00:28:00.430 --> 00:28:00.800
+Lucas Bonanni: Sentimental.
+
+45
+00:28:00.800 --> 00:28:01.760
+JOANA ZARATE: A cada 1. De ahí.
+
+46
+00:28:02.840 --> 00:28:07.489
+Lucas Bonanni: Bien perfecto. Y con el tema del repositorio están trabajando todos sobre la misma rama.
+
+47
+00:28:08.210 --> 00:28:11.209
+JOANA ZARATE: No, no, no, no como por ahí.
+
+48
+00:28:11.900 --> 00:28:16.210
+JOANA ZARATE: Trabajamos medio de esas sincrónicos.
+
+49
+00:28:16.600 --> 00:28:23.329
+JOANA ZARATE: Cada 1 terminó haciendo como su versión y subiéndola a su a su cuenta de Github.
+
+50
+00:28:27.880 --> 00:28:38.770
+Lucas Bonanni: Okay, o sea, que más o menos están trabajando individual, porque la idea es.
+
+51
+00:28:38.770 --> 00:28:39.629
+JOANA ZARATE: Individual. A Me.
+
+52
+00:28:39.630 --> 00:28:43.650
+Lucas Bonanni: No, claro, individual, acompañado más que
+
+53
+00:28:50.910 --> 00:28:52.010
+Lucas Bonanni: Okay.
+
+54
+00:28:54.340 --> 00:29:06.940
+Lucas Bonanni: Sí. Por eso no me quedaba claro cómo habían hecho, pero digo, bueno, si hacían cada 1 su propia rama y van a tener después complicaciones para merecerlo. Pero si cada 1 te está haciendo su cada 1 su cosa.
+
+55
+00:29:07.050 --> 00:29:18.499
+Lucas Bonanni: No sé qué tanto les les va a servir, porque, bueno, la idea de de laburar en equipo era que, bueno, justamente tengan la oportunidad de laburar en el mismo
+
+56
+00:29:19.110 --> 00:29:25.370
+Lucas Bonanni: en el mismo repositorio. No si quieres. Les les hago
+
+57
+00:29:25.830 --> 00:29:30.259
+Lucas Bonanni: una introducción sencilla: en realidad, lo que hay que hacer
+
+58
+00:29:32.120 --> 00:29:37.859
+Lucas Bonanni: es cada 1 cuando trabajan todos en un en un mismo repositorio.
+
+59
+00:29:38.430 --> 00:29:47.559
+Lucas Bonanni: Digamos, alguien quiere, por ejemplo, agregar la imagen de docker sí. Obviamente, todos se clonan en principio el mismo repositorio. No empezamos desde ahí
+
+60
+00:29:48.040 --> 00:30:00.139
+Lucas Bonanni: una vez que todos tienen el mismo repositorio tienen la rama principal, que generalmente es Main o Master empiezan a trabajar de ahí. Bueno, se baja. Siempre están todos sincronizados con la última versión.
+
+61
+00:30:02.460 --> 00:30:07.539
+Lucas Bonanni: A partir de ahí, alguien dice, bueno, yo voy a agregar la al
+
+62
+00:30:07.580 --> 00:30:26.789
+Lucas Bonanni: o por ahí. Vamos a empezar desde el principio vamos voy a agregar el archivo inicial de la Api. ¿no? Entonces voy a agregar, por ejemplo, si es Python, el mail punto Pi con con una Api muy básica, no con solamente el Room. Entonces ahí lo que hace es crear un Brunch, Sí,
+
+63
+00:30:27.050 --> 00:30:29.190
+Lucas Bonanni: para él que diga, bueno.
+
+64
+00:30:29.410 --> 00:30:44.430
+Lucas Bonanni: amp a P I simple. No sé que se le llama el Branch, entonces agrega lo que tiene que agregar el archivito crea la carpeta, source, agrega el archivo lo sube a su rama.
+
+65
+00:30:44.710 --> 00:31:00.659
+Lucas Bonanni: Si tiene que agregar algo más como el tomel o o los recuarements t X, T, Los lo los archivos que tienen las o lo que sería el packagel, no para que se entienda lo que tienen las librerías también lo agrega.
+
+66
+00:31:00.950 --> 00:31:05.370
+Lucas Bonanni: Y después, bueno, una vez que terminé, lo me fui a
+
+67
+00:31:05.580 --> 00:31:17.079
+Lucas Bonanni: por ahí. Otro después quiere a partir de eso quiere hacer después. A partir de ahí, cada 1 puede empezar a trabajar sobre main, punto Pi
+
+68
+00:31:17.180 --> 00:31:34.380
+Lucas Bonanni: o otro, o agregar otro archivo, o, por ejemplo, 1 había agregadocker y el otro trabaja agrega alguna ruta más dentro de cada 1 va teniendo su rama. Entonces el otro el que quiere agregar la imagen de Docker que se crea su propia rama, que diga
+
+69
+00:31:34.730 --> 00:31:44.450
+Lucas Bonanni: Docker file ¿no? Y crea el archivo de Docker file en su rama. Y así, después, bueno, van merchando todos a Maine
+
+70
+00:31:44.810 --> 00:31:49.200
+Lucas Bonanni: a través de de Publiquest y y se va haciendo.
+
+71
+00:31:51.520 --> 00:31:56.369
+JOANA ZARATE: Claro, O sea.
+
+72
+00:31:56.570 --> 00:32:03.959
+JOANA ZARATE: como que cada 1 lo hizo en su local, y después lo subió. Y en realidad vendría a ser al revés. O sea, como que empezamos el proyecto dentro de H. Ithouse.
+
+73
+00:32:04.740 --> 00:32:05.809
+JOANA ZARATE: Una cosa así.
+
+74
+00:32:06.170 --> 00:32:11.819
+Lucas Bonanni: Claro ustedes a ver. Vamos a hacer. Les comparto un momento en pantalla, y lo
+
+75
+00:32:15.510 --> 00:32:19.590
+Lucas Bonanni: así Soy un segundo que se me
+
+76
+00:32:20.530 --> 00:32:25.350
+Lucas Bonanni: conecta El segundo monitor. Ahí está a ver
+
+77
+00:32:34.570 --> 00:32:37.270
+Lucas Bonanni: a ver cómo puedo hacer, pues voy a
+
+78
+00:32:44.670 --> 00:32:48.690
+Lucas Bonanni: era Github. Y voy a clonar.
+
+79
+00:32:50.080 --> 00:32:52.259
+Lucas Bonanni: Vamos a empezar por el principio.
+
+80
+00:32:52.470 --> 00:32:54.810
+Lucas Bonanni: Se ve ahí en pantalla. No es todo.
+
+81
+00:32:56.120 --> 00:32:57.880
+JOANA ZARATE: Sí, Sí, vemos Firefox.
+
+82
+00:32:58.670 --> 00:32:59.560
+Lucas Bonanni: Perfecto.
+
+83
+00:33:02.360 --> 00:33:09.580
+Lucas Bonanni: Así. Shithound: yo entro a mis repositorios.
+
+84
+00:33:10.670 --> 00:33:17.190
+Lucas Bonanni: Acá Bueno, ese es el el link que les compartí. Creo que está en en Blackboard.
+
+85
+00:33:17.460 --> 00:33:22.929
+Lucas Bonanni: Y lo que hacen Es: bueno, supongamos que este es 1 de 0, empieza 1 desde 0.
+
+86
+00:33:23.800 --> 00:33:32.460
+Lucas Bonanni: Entonces Primero vengo a la terminal, hago a ver donde estoy Yo estoy acá. Vamos a se de
+
+87
+00:33:32.730 --> 00:33:35.630
+Lucas Bonanni: voy al directorio donde quiero clonarlo
+
+88
+00:33:42.090 --> 00:33:49.050
+Lucas Bonanni: y me lo clona. ¿sí? Entonces después voy al no Service, acá.
+
+89
+00:33:49.230 --> 00:33:51.739
+Lucas Bonanni: Empiezo. Voy a tener repositorio.
+
+90
+00:33:57.120 --> 00:34:10.420
+Lucas Bonanni: Y acá bueno, acá puedo tener, bueno, voy a tener los archivos y todo eso. Entonces lo que puedo hacer es, bueno. Ahora como yo quiero trabajar. Acá Vengo a la terminal que está abajo.
+
+91
+00:34:11.170 --> 00:34:20.639
+Lucas Bonanni: Y hago, creo, otro otro Brunch con check out menos B, Creamos un un Brunch nuevo. Entonces, bueno.
+
+92
+00:34:20.830 --> 00:34:25.920
+Lucas Bonanni: voy a agregar, no sé algo.
+
+93
+00:34:31.159 --> 00:34:36.630
+Lucas Bonanni: Sí, Ahí ven que cambio. Si ven el pront acá, cambio donde yo estaba en Maine.
+
+94
+00:34:36.790 --> 00:34:41.290
+Lucas Bonanni: ya automáticamente me cambió al nuevo Brunch, que es Brunch de prueba.
+
+95
+00:34:42.590 --> 00:34:46.060
+Lucas Bonanni: Y yo acá, puedo entonces ahora agregar
+
+96
+00:34:49.170 --> 00:34:51.110
+Lucas Bonanni: mi archivo.
+
+97
+00:34:58.390 --> 00:35:01.070
+Lucas Bonanni: Entonces vamos a poner
+
+98
+00:35:09.690 --> 00:35:17.389
+Lucas Bonanni: ahí. Lo abro, agrego los cambios que quiero agregar y listo, guardo
+
+99
+00:35:22.160 --> 00:35:28.900
+Lucas Bonanni: y acá con hit status a ver. Debería haber quedado guardado. porque por ahí está ignorado.
+
+100
+00:35:30.510 --> 00:35:31.859
+Lucas Bonanni: Sabes, sitting note
+
+101
+00:35:54.490 --> 00:35:58.550
+Lucas Bonanni: y vamos a. Entonces vamos. Ahora vamos a renombrar el archivo
+
+102
+00:35:59.770 --> 00:36:02.309
+Lucas Bonanni: deme un segundito chao, chao.
+
+103
+00:36:45.850 --> 00:36:52.700
+Lucas Bonanni: listo. Estoy de vuelta, perdón, Entonces me parece que lo está excluyendo porque
+
+104
+00:36:52.970 --> 00:36:56.050
+Lucas Bonanni: luego tenerlo en el hit. Ignor sí
+
+105
+00:37:11.390 --> 00:37:16.669
+Lucas Bonanni: para nombrarlo. Y vamos a poner el punto Json: Total: no importa.
+
+106
+00:37:16.820 --> 00:37:17.600
+Lucas Bonanni: Vale.
+
+107
+00:37:24.570 --> 00:37:28.170
+Lucas Bonanni: Mhm Mhm.
+
+108
+00:37:33.510 --> 00:37:35.269
+Lucas Bonanni: Qué raro que no me lo
+
+109
+00:37:41.630 --> 00:37:42.400
+Lucas Bonanni: Mhm.
+
+110
+00:37:49.980 --> 00:37:51.830
+Lucas Bonanni: Así me lo muestra.
+
+111
+00:37:53.560 --> 00:37:55.040
+Lucas Bonanni: Y ahora, Carlos
+
+112
+00:38:20.180 --> 00:38:23.470
+Lucas Bonanni: Claro, porque que te la estoy en otro lado.
+
+113
+00:38:24.840 --> 00:38:26.800
+Lucas Bonanni: Yo no me estaba dando cuenta.
+
+114
+00:38:32.960 --> 00:38:37.130
+Lucas Bonanni: Estaba en otro directorio.
+
+115
+00:38:40.540 --> 00:38:44.980
+Lucas Bonanni: Ahora, sí, ahora sí, vamos a ver.
+
+116
+00:38:47.800 --> 00:38:50.980
+Lucas Bonanni: Bueno, hasta ahora hasta ahora me siguen, o sea.
+
+117
+00:38:56.280 --> 00:39:04.290
+JOANA ZARATE: Si hizo alguna opción, yo no vi porque sigo mirando las hadas, adán prueba T, X, T y
+
+118
+00:39:04.440 --> 00:39:06.830
+JOANA ZARATE: public resorcha yendo, no sé qué.
+
+119
+00:39:08.440 --> 00:39:12.000
+Lucas Bonanni: Public
+
+120
+00:39:12.000 --> 00:39:13.759
+JOANA ZARATE: Capaz que se me friso a mí. No sé.
+
+121
+00:39:14.120 --> 00:39:14.849
+JUAN GUZZARDI: No, no está frío.
+
+122
+00:39:14.850 --> 00:39:18.450
+LUCAS RAMOS: Es cierto. Si cometías te o hiciste algo. Profe: No, no sé yo.
+
+123
+00:39:18.450 --> 00:39:23.220
+Lucas Bonanni: No, no, no con mi tía todavía, pero acá está el archivo T X, T.
+
+124
+00:39:23.220 --> 00:39:29.920
+JUAN GUZZARDI: No, no sé si está muy bueno. Algo está todo frisado, capaz.
+
+125
+00:39:30.180 --> 00:39:33.470
+Lucas Bonanni: A ver. Voy a dejar de compartir y voy a volver a compartir.
+
+126
+00:40:00.750 --> 00:40:02.950
+Lucas Bonanni: Ahí veo en el navegador de vuelta no.
+
+127
+00:40:02.950 --> 00:40:06.300
+JUAN GUZZARDI: Sí, Sí, Ahí se ve de vuelta. No, no se veía antes.
+
+128
+00:40:06.660 --> 00:40:11.660
+Lucas Bonanni: No? Bueno, sí, sí, sí, pero digamos. Pasamos de la terminal lo que estaba frisado al navegador.
+
+129
+00:40:11.660 --> 00:40:12.350
+JUAN GUZZARDI: Sí.
+
+130
+00:40:12.890 --> 00:40:23.100
+Lucas Bonanni: Ok. Bien, ahora voy a ir al 2, 3.
+
+131
+00:40:44.870 --> 00:40:46.060
+Lucas Bonanni: Ahí está.
+
+132
+00:40:46.180 --> 00:40:54.640
+Lucas Bonanni: Ahí tenemos nuevamente el editor. Si el prueba Txt:
+
+133
+00:40:55.110 --> 00:41:01.840
+Lucas Bonanni: Bueno, yo lo acá. Lo agregué acá. Este lápiz que está molestando ahí va.
+
+134
+00:41:02.150 --> 00:41:09.890
+Lucas Bonanni: Entonces yo ahora estoy en el en el Brunch main sí, porque había creado el Brunch. Pero era otro repositorio.
+
+135
+00:41:10.030 --> 00:41:26.339
+Lucas Bonanni: ¿sí? Como como ven ahí a un hit estatus. Me dice que yo modifique que agregué un archivo. Sí que todavía es un archivo nuevo. Por eso me aparece con los signos de interrogación. Estoy en el Brunch Main. O sea que estoy en el en la rama principal.
+
+136
+00:41:26.540 --> 00:41:36.790
+Lucas Bonanni: Y ahora lo que le decía a un un creo, un brunch de prueba mi propio Branch, de lo que voy a agregar. Voy a agregar un archivo de prueba, así que me voy a ese Brunch.
+
+137
+00:41:37.270 --> 00:41:42.479
+Lucas Bonanni: Y con el check out menos B creo ese Brunch, con el que cual voy a trabajar.
+
+138
+00:41:43.720 --> 00:41:49.810
+Lucas Bonanni: Entonces, ahora agrego mis cambios. Hago un hit ad y agrego, puedo agregarlo
+
+139
+00:41:49.920 --> 00:41:55.949
+Lucas Bonanni: solamente haciendo un hit ad y los archivos que yo quiero en este caso. Prueba Txt.
+
+140
+00:41:56.790 --> 00:42:00.320
+Lucas Bonanni: Y eso me lo va a dejar en stacing.
+
+141
+00:42:01.300 --> 00:42:14.120
+Lucas Bonanni: Por eso ahora, mez antes me aparecía con los signos de interrogación. Y ahora me dice, Bueno, ya lo agregué al índice de cambios. Sí que tengo locales, así que
+
+142
+00:42:15.610 --> 00:42:22.580
+Lucas Bonanni: nada ya está Ya los tengo, digamos, registrado dentro del repositorio. Entonces, ahora lo que falta es que yo haga
+
+143
+00:42:22.790 --> 00:42:29.420
+Lucas Bonanni: un Hit Comic y pongo un mensaje de lo que estoy haciendo.
+
+144
+00:42:35.040 --> 00:42:36.359
+Lucas Bonanni: y hago el cómic.
+
+145
+00:42:39.070 --> 00:42:49.029
+Lucas Bonanni: Ahora, si ya que tengo ya quedó esto, si ahora un hit estatus, ya no tengo ningún cambio. ¿por qué? Porque ya lo comité. Entonces ya
+
+146
+00:42:49.780 --> 00:42:54.700
+Lucas Bonanni: digamos, ya está subido dentro del historial de cambios. Ahora hago un hitbush.
+
+147
+00:42:55.660 --> 00:42:58.389
+Lucas Bonanni: y lo voy a subir a Hith Hob.
+
+148
+00:42:58.620 --> 00:43:01.550
+Lucas Bonanni: cuando me pide el Password. No sé por qué,
+
+149
+00:43:13.660 --> 00:43:15.649
+Lucas Bonanni: no sé por qué.
+
+150
+00:43:18.160 --> 00:43:18.890
+Lucas Bonanni: Mhm.
+
+151
+00:43:28.150 --> 00:43:33.979
+Lucas Bonanni: Hasta bien bien, ahí lo subió. Y si voy acá. Voy a tener el Brunch
+
+152
+00:43:34.930 --> 00:43:38.959
+Lucas Bonanni: de prueba. Tengo que actualizar para que me refresque el navegador.
+
+153
+00:43:39.660 --> 00:43:44.329
+Lucas Bonanni: Me traigan los branchos y ahora está branchas de prueba
+
+154
+00:43:45.630 --> 00:43:50.570
+Lucas Bonanni: en este Brunch. Bueno, si voy acá en realidad primero no tengo que ir al Brunch.
+
+155
+00:43:50.690 --> 00:43:56.230
+Lucas Bonanni: Debería haber, No me ha aparecido, pero debería tener la posibilidad de crear un publiquest.
+
+156
+00:43:57.400 --> 00:43:59.549
+Lucas Bonanni: generalmente te aparece la opción.
+
+157
+00:43:59.660 --> 00:44:03.180
+Lucas Bonanni: Mira. Ahora sí, me lo lo detecto, vale
+
+158
+00:44:04.230 --> 00:44:08.779
+Lucas Bonanni: de todo acá le digo que bueno, brancho de prueba.
+
+159
+00:44:09.350 --> 00:44:11.910
+Lucas Bonanni: y ahí está. Estos son los cambios. ¿no?
+
+160
+00:44:14.330 --> 00:44:19.000
+Lucas Bonanni: Entonces, una vez que tengo esto, ya puedo crear el Pur Request
+
+161
+00:44:21.330 --> 00:44:29.970
+Lucas Bonanni: con pelín churchis porque no lo creo yo. Purequest: Mhm
+
+162
+00:44:41.470 --> 00:44:52.289
+Lucas Bonanni: porque no estoy logueado claro con qué me lo está averiando en la pestaña. Esa a ver
+
+163
+00:45:12.390 --> 00:45:18.920
+Lucas Bonanni: es lo mismo. Bueno, ahora, cuando esté logueado con mi usuario.
+
+164
+00:45:24.450 --> 00:45:28.990
+Lucas Bonanni: Ahora sí voy a poder porque no me dejaba. Por eso no estaba logueado.
+
+165
+00:45:31.750 --> 00:45:35.659
+Lucas Bonanni: Ahora sí, venga. Ahora aparece el botón que yo les comentaba
+
+166
+00:45:37.520 --> 00:45:41.219
+Lucas Bonanni: acá con esto, creo el publiquest para hacer Merbs.
+
+167
+00:45:41.940 --> 00:45:48.709
+Lucas Bonanni: Acá. Le pongo una descripción, se agrega archivo de prueba
+
+168
+00:45:52.160 --> 00:45:53.670
+Lucas Bonanni: y crear por Requast
+
+169
+00:45:54.740 --> 00:46:06.429
+Lucas Bonanni: en el caso de que seamos varios. Acá. Alguien puede entrar validar qué ¿Qué es lo que yo agregué? Van a poder validar que bueno, acá pueden ver la diferencia de lo que agregué
+
+170
+00:46:06.900 --> 00:46:21.060
+Lucas Bonanni: y nada una vez que está lo que hace es bueno. Acá están todos los los checks que vemos no que nos dice, bueno, a ver si vídeos y construyo la imagen de donkeres. Está. Ok, Bueno.
+
+171
+00:46:21.300 --> 00:46:22.730
+Lucas Bonanni: ¿
+
+172
+00:46:24.100 --> 00:46:26.449
+Lucas Bonanni: Haces los check corres los test.
+
+173
+00:46:26.750 --> 00:46:33.099
+Lucas Bonanni: Y bueno, y acá una vez que está lo que hago es un un squashyam, Marge: sí, o si quieren hacer un
+
+174
+00:46:33.960 --> 00:46:46.240
+Lucas Bonanni: un cleanmerge comic por ahora es: no le presten demasiada atención. Lo importante es que lo merecen Sí, Con cualquiera de estas 2 opciones.
+
+175
+00:46:47.150 --> 00:46:50.709
+Lucas Bonanni: lo la diferencia entre 1 y otro es que
+
+176
+00:46:50.890 --> 00:46:53.469
+Lucas Bonanni: 1 te compacta todo el historial
+
+177
+00:46:53.870 --> 00:47:03.679
+Lucas Bonanni: en un solo comic. Si 1 tiene muchos cómics en este Brunch, los compacta en 1 solo, para que después, cuando vos merchas en el en Main te quede un solo comic
+
+178
+00:47:03.790 --> 00:47:10.329
+Lucas Bonanni: y no te quede todo, pero no por ahora, no hay mucha diferencia de estar empezando. No hay problema.
+
+179
+00:47:10.540 --> 00:47:17.149
+Lucas Bonanni: Entonces hay, hacen el Mers, confirman el Mars.
+
+180
+00:47:20.370 --> 00:47:21.450
+Lucas Bonanni: Y listo.
+
+181
+00:47:21.620 --> 00:47:24.970
+Lucas Bonanni: Sí, Ahí yo subí mis cambios a la rama Mail.
+
+182
+00:47:26.260 --> 00:47:28.719
+Lucas Bonanni: Vuelvo al código.
+
+183
+00:47:30.040 --> 00:47:37.170
+Lucas Bonanni: Toda era un hit, vuelvo a la Rama Main: Sí, porque estoy en la en la rama de prueba.
+
+184
+00:47:38.500 --> 00:47:51.149
+Lucas Bonanni: y ahora hago un hit pool, porque me tengo que bajar el merge que se hizo de Hit Hub. Eso no pasó en mi máquina paso del hith Hub. Entonces me tengo que descargar los cambios y actualizar mi local.
+
+185
+00:47:52.690 --> 00:47:55.919
+Lucas Bonanni: Y ahora sí tengo el archivo de prueba que agregué.
+
+186
+00:47:58.660 --> 00:48:06.979
+Lucas Bonanni: Y así cada 1 puede trabajar en una rama en lo que es una rama en un aficher. Por eso nosotros teníamos acá
+
+187
+00:48:07.740 --> 00:48:09.140
+Lucas Bonanni: Mhm.
+
+188
+00:48:09.490 --> 00:48:12.179
+Lucas Bonanni: Cuando vimos en la parte de los Slide.
+
+189
+00:48:17.130 --> 00:48:22.590
+JUAN GUZZARDI: Ahí se armó a mí un quilombo. Si tocan en el mismo archivo 2 personas, no el Marsh. El año que viene
+
+190
+00:48:23.140 --> 00:48:24.439
+JUAN GUZZARDI: entra en conflicto, no.
+
+191
+00:48:24.440 --> 00:48:27.550
+Lucas Bonanni: Depende si le si te sí
+
+192
+00:48:28.040 --> 00:48:34.110
+Lucas Bonanni: y las mismas líneas no, o sea, si trabajan en, en.
+
+193
+00:48:35.090 --> 00:48:37.239
+Lucas Bonanni: digamos, en parte se para deriv
+
+194
+00:48:39.390 --> 00:48:55.969
+Lucas Bonanni: acá. Está. Este era el flujo. No se crea el Brunch. Estamos acá Hice Master Brunch, porque bueno, es como se nos solía nombrar. Antes de Main, ese el digamos, el estándar anterior. Y acá es donde creé el nuevo Brunch. Yo lo el llamé Brunch de prueba
+
+195
+00:48:57.410 --> 00:49:00.710
+Lucas Bonanni: y comités los todos los cambios que vas haciendo.
+
+196
+00:49:01.110 --> 00:49:02.830
+Lucas Bonanni: Y después quiero hacer, publicó a este
+
+197
+00:49:03.540 --> 00:49:10.830
+Lucas Bonanni: acá obtenes el feedback, no como habíamos visto y se me llegan los cambios a Master o main.
+
+198
+00:49:11.130 --> 00:49:25.990
+Lucas Bonanni: Entonces sí, si ahí todos tocan el mismo archivo, se puede hacer. Ahí es donde viene la la parte de por ahí, organizarse y decir, bueno, cada 1 saber bien qué es lo que va a orga trabajar y agregar lo que va a trabajar.
+
+199
+00:49:26.150 --> 00:49:36.719
+Lucas Bonanni: Y, bueno, tratar de no tocar todos en lo posible, no tratar de no tocar todos el mismo archivo o, de lo posible, tratar de
+
+200
+00:49:36.830 --> 00:49:42.170
+Lucas Bonanni: tocar partes diferentes para que después no haya conflictos. No porque lo peor
+
+201
+00:49:42.340 --> 00:49:49.180
+Lucas Bonanni: de todo es que si vos traba, si todos trabajan en diferentes líneas y todos tocan cosas diferentes.
+
+202
+00:49:49.470 --> 00:50:05.260
+Lucas Bonanni: no va a haber. No va a ser tan complicado. Además, la cuestión es cuando 1 tocó, por ejemplo, 1 modificó un parámetro y modificó, por ejemplo, lo Lo más común es con el tema de los imports. No cuando 1 importa librerías al principio del archivo
+
+203
+00:50:05.710 --> 00:50:11.189
+Lucas Bonanni: y ahí viste. Hay que algunos. Eliminó una. El otro agregó otra
+
+204
+00:50:11.980 --> 00:50:24.580
+Lucas Bonanni: y ahí medio que se arma un quilombo porque estaba estaba solo en las líneas de arriba, pero igual es fácil. Lo que hace es el el último que marchea, digamos lo van resolviendo.
+
+205
+00:50:25.200 --> 00:50:40.020
+Lucas Bonanni: Mercé a primero 1 si ese no va a tener problemas. Sí, porque va a ser el primero que va a marchar después. El que viene atrás va a tener el primer set de cambios. Ese va a arreglar si tiene conflictos, va a arreglar lo que le aparece como conflicto
+
+206
+00:50:40.540 --> 00:50:53.830
+Lucas Bonanni: y si, por ejemplo, si son los import y le aparece, importa todo en principio para hacerlo sencillo, total. Ustedes no. Por ahora no están trabajando, así que no les van a decir ¿sí?
+
+207
+00:50:53.940 --> 00:51:02.179
+Lucas Bonanni: Y si les dicen algo, será en el trabajo de dirá, bueno, no. Ahora, después acá esto, pero bueno, en principio. Lo importante es.
+
+208
+00:51:02.250 --> 00:51:18.139
+Lucas Bonanni: Dejen todos los imports para que todo funcione. Si Tod y y todos los que estaban después, se puede hacer la limpieza en otro cómic. Así que lo importante es que cuando resuelvan el el conflicto, primero lo hagan funcionar
+
+209
+00:51:18.300 --> 00:51:33.110
+Lucas Bonanni: y después hacen la limpieza en otro cómic. Bueno, generalmente vieron que el editor les marca. Bueno, esta esta librería sobran estas. Estos imports sobran no no se están utilizando. Bueno, ahí las limpian.
+
+210
+00:51:33.130 --> 00:51:39.260
+Lucas Bonanni: Pero una vez que se aseguraron ustedes que ya quedó corriendo, digamos que quedó funcionando
+
+211
+00:51:39.510 --> 00:51:45.299
+Lucas Bonanni: entonces. El segundo lo resuelve y merchea, y después resuelve el conflicto. El tercero.
+
+212
+00:51:45.460 --> 00:51:53.360
+Lucas Bonanni: y ahí resuelve lo mismo. No, si fueran los imports o lo que sea. Y lo deja funcionando, Sí,
+
+213
+00:51:53.690 --> 00:51:54.700
+Lucas Bonanni: decimei.
+
+214
+00:51:55.000 --> 00:51:57.420
+JOANA ZARATE: En entonces.
+
+215
+00:51:57.800 --> 00:52:08.029
+JOANA ZARATE: Profe, Nosotros vamos hasta el punto de que el compost y toda la historia, esa, o sea, hicimos todo el paquete en local, y lo subimos.
+
+216
+00:52:08.220 --> 00:52:13.139
+JOANA ZARATE: continuamos desde ahí o es mejor empezarlo otra vez.
+
+217
+00:52:14.860 --> 00:52:26.940
+Lucas Bonanni: Si quieren, continúen desde ahí. Vean a ver qué qué es lo que van a agregar y se pueden organizar por ahí ya tienen una buena base y no, ne No es necesario que
+
+218
+00:52:27.170 --> 00:52:42.499
+Lucas Bonanni: no es necesario que primero que empiecen desde 0 y, Además, ya después puede ser que no, no tengan conflictos ustedes. Bueno, porque por ahí es un proyecto demasiado simple, pero un proyecto más complejo. En realidad, por ahí lo ya lo empezás con una base, ya empezás con
+
+219
+00:52:42.730 --> 00:52:51.339
+Lucas Bonanni: con con un template donde ya tienes el docker con post, el el docker file. No, ya tienes una serie de archivos, así que
+
+220
+00:52:51.570 --> 00:52:53.719
+Lucas Bonanni: sería lo mismo que ustedes empiecen
+
+221
+00:52:53.930 --> 00:53:01.279
+Lucas Bonanni: por ahí, Así que no hay problema si empiezan desde desde lo con lo que tienen, y ahí siguen con trabajando en conjunto.
+
+222
+00:53:03.150 --> 00:53:03.920
+JOANA ZARATE: Okay.
+
+223
+00:53:04.730 --> 00:53:07.270
+Lucas Bonanni: Así que cualquier cosa me avisan, prueben.
+
+224
+00:53:07.430 --> 00:53:13.989
+Lucas Bonanni: prueben a ver cómo les sale cualquier cosa. Me avisan, Me avisan por Slack. Y lo vemos. No hay problema.
+
+225
+00:53:14.380 --> 00:53:20.600
+Lucas Bonanni: Y última cualquier cosa. Nos conectamos un ratito si si es necesario resolver algo. Y lo vemos, no hay problema.
+
+226
+00:53:21.010 --> 00:53:22.710
+Lucas Bonanni: Esa es la idea. La.
+
+227
+00:53:22.710 --> 00:53:23.400
+JOANA ZARATE: Gracias.
+
+228
+00:53:23.830 --> 00:53:29.519
+Lucas Bonanni: Que prueben y que puedan aprender. Así que y que me avisen y nos conectamos y nos cualquier cosa, nos juntamos.
+
+229
+00:53:32.830 --> 00:53:35.859
+Lucas Bonanni: Y eso con cualquier cosa del T. P, No, solamente eso.
+
+230
+00:53:42.460 --> 00:53:50.780
+Lucas Bonanni: Bien, a ver cuántos somos yo, o sea, somos 18, mire, no está, ¿no?
+
+231
+00:53:52.680 --> 00:53:55.779
+Lucas Bonanni: Luego me escribió por Slack.
+
+232
+00:54:02.220 --> 00:54:11.289
+Lucas Bonanni: pero me compartió ropa privado. Bueno, alguna duda más algo que quieran ver
+
+233
+00:54:16.690 --> 00:54:20.770
+Lucas Bonanni: algo que quieran repasar. Si no empiezo con
+
+234
+00:54:21.130 --> 00:54:28.939
+Lucas Bonanni: con la presentación de de hoy hoy, vamos a ver la parte de monitoreo, la silla.
+
+235
+00:54:29.740 --> 00:54:35.439
+Lucas Bonanni: Tienen todo para empezar, porque acá yo lo había siempre. En realidad.
+
+236
+00:54:35.690 --> 00:54:45.200
+Lucas Bonanni: la parte de monitoreo es el último módulo, Pero como quiero que ya lo tengan adelantado, así ya tienen 2 semanas antes de la presentación.
+
+237
+00:54:45.390 --> 00:54:51.190
+Lucas Bonanni: Entonces ya lo puedan ir integrando los que ya lo pueden ir integrando la parte de monitoreo
+
+238
+00:54:51.300 --> 00:54:55.960
+Lucas Bonanni: y nada ya les queda después. Vemos lo de terraforma y todo eso.
+
+239
+00:54:56.870 --> 00:55:01.980
+MORA OTEGUI: Perdón. Las presentaciones al final van a ser el 22 y el 29.
+
+240
+00:55:03.880 --> 00:55:04.800
+Lucas Bonanni: Sí.
+
+241
+00:55:05.180 --> 00:55:05.950
+MORA OTEGUI: Perfecto.
+
+242
+00:55:06.360 --> 00:55:07.230
+Lucas Bonanni: Sí, Sí, Sí,
+
+243
+00:55:08.580 --> 00:55:19.089
+Lucas Bonanni: sí. Ahora, no, no calculé exactamente a ver si el tema de de los Grupos en principio Sí, sí nos dividimos y tenemos tiempo, todos, porque después siempre se estira
+
+244
+00:55:19.420 --> 00:55:21.359
+Lucas Bonanni: y una clase a veces no alcanza.
+
+245
+00:55:21.920 --> 00:55:29.210
+FACUNDO SAFE: Perdón. Profe, Pero entonces la fecha de entrega del T P como tal en en cuál queda.
+
+246
+00:55:29.520 --> 00:55:33.959
+Lucas Bonanni: En Veint, siempre antes del 22.
+
+247
+00:55:34.290 --> 00:55:36.500
+FACUNDO SAFE: O sea, hasta el 22 tenemos para entrar al D. P.
+
+248
+00:55:37.900 --> 00:55:39.959
+Lucas Bonanni: Sí. Seguramente antes.
+
+249
+00:55:41.580 --> 00:55:41.950
+FACUNDO SAFE: Está bien.
+
+250
+00:55:41.950 --> 00:55:43.529
+Lucas Bonanni: El día anterior.
+
+251
+00:55:44.040 --> 00:55:44.690
+FACUNDO SAFE: Okay.
+
+252
+00:55:44.690 --> 00:55:45.820
+Lucas Bonanni: Gracias.
+
+253
+00:55:46.390 --> 00:55:47.120
+FACUNDO SAFE: Sí, Sí.
+
+254
+00:55:51.970 --> 00:55:54.549
+Lucas Bonanni: Bien alguna duda más.
+
+255
+00:56:03.310 --> 00:56:04.100
+MORA OTEGUI: No, no.
+
+256
+00:56:05.300 --> 00:56:09.420
+Lucas Bonanni: Perfecto, bien deme un segundito a ver.
+
+257
+00:56:10.180 --> 00:56:12.720
+Lucas Bonanni: Ya empezamos, sino con lo del monitoreo.
+
+258
+00:56:14.050 --> 00:56:16.150
+Lucas Bonanni: Como venimos con la velocidad
+
+259
+00:56:52.240 --> 00:56:56.320
+Lucas Bonanni: pua zafa para darle la presentación. Pero
+
+260
+00:56:58.120 --> 00:57:04.419
+Lucas Bonanni: bien, hoy vamos a ver lo que es monitoreo y observabilidad.
+
+261
+00:57:05.750 --> 00:57:07.590
+Lucas Bonanni: Ahí están viendo el slide, no.
+
+262
+00:57:11.480 --> 00:57:12.150
+JUAN GUZZARDI: Sí.
+
+263
+00:57:12.670 --> 00:57:13.420
+Lucas Bonanni: Perfecto.
+
+264
+00:57:15.250 --> 00:57:22.099
+Lucas Bonanni: Bien. Bueno, ¿qué es la parte de monitoreo? No es monitoreo, es.
+
+265
+00:57:23.090 --> 00:57:32.610
+Lucas Bonanni: ¿Hay alguien ya lo lo lo hace en el trabajo. Ya tienen la experiencia de hacer la parte de monitoreo. Y saben, la diferencia entre monitoreo y observabilidad.
+
+266
+00:57:55.930 --> 00:57:57.719
+VALENTINO CORTESE: No ni idea, la verdad. Profe.
+
+267
+00:57:58.680 --> 00:58:02.580
+Lucas Bonanni: Okay tienen tienen grafana. Y eso para ver
+
+268
+00:58:03.430 --> 00:58:07.160
+Lucas Bonanni: para el sistema. Y todo eso.
+
+269
+00:58:08.420 --> 00:58:14.730
+MANUEL KRIVOY: Donde yo trabajo para los blogs, Usamos Clow Watch desde Amazon.
+
+270
+00:58:15.070 --> 00:58:16.710
+Lucas Bonanni: Okay directamente.
+
+271
+00:58:20.980 --> 00:58:22.020
+Lucas Bonanni: Está bien.
+
+272
+00:58:25.830 --> 00:58:43.229
+Lucas Bonanni: Bueno, les cuento. La parte de monitoreo sí es bueno como dices ahí en el Slide. Es más que nada la práctica de ver qué es lo que está pasando dentro de nuestro sistema, a ver cómo está nuestra aplicación, cómo está la salud, no tener el el tema de
+
+273
+00:58:43.390 --> 00:58:49.500
+Lucas Bonanni: datos simétricas y recolectar toda esa información acerca de nuestro sistema
+
+274
+00:58:49.800 --> 00:58:58.409
+Lucas Bonanni: para tratar de ver nuestra san la salud, tener inside, tratar de
+
+275
+00:58:59.000 --> 00:59:12.950
+Lucas Bonanni: de ser proactivos, identificar cuellos, cuellos de botella así dentro de de nuestra aplicación y T y tratar de mejorar el rendimiento. Si entonces la parte de monitoreo es eso
+
+276
+00:59:15.960 --> 00:59:23.410
+Lucas Bonanni: después para para que esto nos sirva, sí, nosotros tenemos que establecer algunos objetivos.
+
+277
+00:59:23.600 --> 00:59:34.519
+Lucas Bonanni: entonces tenemos que s. Si nosotros solamente miramos y medimos, pero no sabemos con qué fin
+
+278
+00:59:34.650 --> 00:59:42.759
+Lucas Bonanni: recolectamos toda esa información, o por ahí tenemos un fin muy básico, no que es el de detectar errores.
+
+279
+00:59:43.330 --> 00:59:50.549
+Lucas Bonanni: pero eso digamos, es como bastante básico, y tal vez hasta te
+
+280
+00:59:50.700 --> 01:00:09.559
+Lucas Bonanni: de alguna manera est 1 puede estar solamente reactivo, no porque solamente a accionas cuando aparece un error. Pero la gracia es que 1 tenga objetivos, ¿sí? Para saber. Bueno, qué cosas nos importan, ¿Qué cosas hay que mejorar.
+
+281
+01:00:11.480 --> 01:00:15.170
+Lucas Bonanni: Entonces acá tenemos
+
+282
+01:00:15.600 --> 01:00:21.980
+Lucas Bonanni: los el S. L, A: Sí, el S. L, I, Sí, y el S. L. O: bueno.
+
+283
+01:00:22.860 --> 01:00:26.690
+Lucas Bonanni: no sé si alguna vez he escucharon hablar de de estas siglas.
+
+284
+01:00:30.630 --> 01:00:34.749
+JOANA ZARATE: E. S L A solamente es tiempo de resolución.
+
+285
+01:00:35.710 --> 01:00:42.460
+Lucas Bonanni: No, Eso es service. Level Agriment S. L. A que a veces
+
+286
+01:00:42.680 --> 01:00:49.329
+Lucas Bonanni: sí puede ser que yo trabajé en un Call Center también hace mucho.
+
+287
+01:00:49.340 --> 01:01:04.980
+Lucas Bonanni: cuando empezaba, y sí, también tiene un S L. A que Bue básicamente se termina traduciendo en eso, no en el tiempo que 1 termina en resolver algo o en hacer algo, pero
+
+288
+01:01:05.160 --> 01:01:16.019
+Lucas Bonanni: en este caso sí tiene que ver con el contrato, re en realidad con el contrato legal, con el cliente. En el caso de cuando trabajaba en el concerter, era que nosotros teníamos que.
+
+289
+01:01:16.040 --> 01:01:30.749
+Lucas Bonanni: si bien nuestro tiempo de resolución impactaba. Pero lo que importaba era la cantidad o el flujo de llamados, digamos que respondíamos, no entonces siempre teníamos que tener una tasa de de respuesta de esos llamados
+
+290
+01:01:30.910 --> 01:01:41.500
+Lucas Bonanni: de no sé 98 por 100, supongo, no. Entonces, y hay que mantenerlo, porque, además, eso es un promedio del día.
+
+291
+01:01:41.570 --> 01:01:51.390
+Lucas Bonanni: Teniendo en cuenta las horas pico, no a veces es por el mediodía a la tarde. Generalmente creo que era por cerca, no del mediodía.
+
+292
+01:01:51.520 --> 01:02:02.979
+Lucas Bonanni: hasta las 2, aparte entre las 2 y las 4, se calmaba y después a las de 5 a 6, era pan el nuevo pico.
+
+293
+01:02:03.920 --> 01:02:08.120
+Lucas Bonanni: Entonces el Service level agriment ¿Es eso nosotros.
+
+294
+01:02:08.140 --> 01:02:24.549
+Lucas Bonanni: o o la empresa que tenía el el contrato con Telefónica. Sí que era la empresa para la que yo trabajaba. Tenía un un contrato sí legal para decir que le garantizaba un cierto nivel de respuesta de las llamadas.
+
+295
+01:02:24.940 --> 01:02:42.000
+Lucas Bonanni: Nosotros, en este caso, como Amazon, tiene un un service level agriment de el 99 coma 9 9 por 100 de disponibilidad. Sí de sus servicios. Ese es el Ese es en lo que ellos, cuando nosotros
+
+296
+01:02:42.170 --> 01:02:51.309
+Lucas Bonanni: contratamos un servicio. Eso es lo que ellos nos proveen. Si lo que ellos acuerdan con nosotros, que ellos son responsables de proveerlo. Si
+
+297
+01:02:52.550 --> 01:03:02.699
+Lucas Bonanni: eso es el service level lagrima que sí que finalmente, después, como como así después, eso se traduce, bueno en el tiempo de resolución, No, Porque
+
+298
+01:03:03.180 --> 01:03:07.380
+Lucas Bonanni: también cuando hay un incidente dentro de Amazon.
+
+299
+01:03:07.780 --> 01:03:23.880
+Lucas Bonanni: S. S. L. A se afecta por el incidente porque vos. Estás en un tiempo de Down Time durante ese momento, o bueno o no, est, no está disponible o tienes una degradación de servicio
+
+300
+01:03:24.020 --> 01:03:30.219
+Lucas Bonanni: que, o sea que tu servicio no está funcionando al 100 por 100 sí y que está lento, que no funciona
+
+301
+01:03:30.430 --> 01:03:35.379
+Lucas Bonanni: en completamente. Entonces bueno, al final, si vos lo resolvés, más rápido.
+
+302
+01:03:35.690 --> 01:03:53.170
+Lucas Bonanni: ese ese es ese. L A obviamente el promedio va a subir porque están es menos horas en ese estado, ¿no? Mientras te pases más horas sin cumplir ese ese legado con el Con el servicio caído, estás incumpliendo.
+
+303
+01:03:54.430 --> 01:03:57.340
+Lucas Bonanni: entonces tu promedio empieza a bajar.
+
+304
+01:03:57.920 --> 01:04:02.180
+Lucas Bonanni: Bueno, por eso están los los estatus. Que si 1 ve.
+
+305
+01:04:05.630 --> 01:04:07.179
+Lucas Bonanni: me gusta, pero
+
+306
+01:04:10.760 --> 01:04:18.940
+Lucas Bonanni: 1 tiene el Dashboard: Vamos a estar. By. History, Este no lo tiene.
+
+307
+01:04:19.280 --> 01:04:22.520
+Lucas Bonanni: pero hay otros. Creo que el de Hith Hob.
+
+308
+01:04:35.360 --> 01:04:42.200
+Lucas Bonanni: Ahí está a ver. Ves, acá aparece. Bueno, ¿qué tiempo estuvo Uptime
+
+309
+01:04:42.800 --> 01:04:55.590
+Lucas Bonanni: acá También en este caso, estos servicios estuvieron menos del 9 coma. Nueve. Si fuera el estatus de de Amazon estarían por debajo. Nos estarían incumpliendo, ¿no?
+
+310
+01:04:56.030 --> 01:04:57.730
+Lucas Bonanni: Y
+
+311
+01:05:00.840 --> 01:05:06.820
+Lucas Bonanni: entonces para esto nos sirve para esto, nos sirven las métricas, y bueno, después está
+
+312
+01:05:07.700 --> 01:05:15.219
+Lucas Bonanni: el S. L, O: sí, ¿Cuál es? Bueno que esto es parte de lo que nosotros
+
+313
+01:05:15.850 --> 01:05:18.159
+Lucas Bonanni: acordamos. Sí a a.
+
+314
+01:05:18.450 --> 01:05:28.360
+Lucas Bonanni: digamos, este, es nuestro objetivo de servicio, entonces es lo que nosotros nos comprometemos por esto. Están muy correlacionados ambos, no porque
+
+315
+01:05:28.360 --> 01:05:40.889
+Lucas Bonanni: el service leve lagrimer es lo que nosotros ponemos en nuestro contrato, el S. L, ¿O es el objetivo que nosotros lo ponemos también dentro. Los 2 juntos, van en en el contrato
+
+316
+01:05:41.270 --> 01:05:43.340
+Lucas Bonanni: y después
+
+317
+01:05:43.790 --> 01:05:54.899
+Lucas Bonanni: des tenemos el S L. I, que es el que métrica. Vamos a medir ese cumplimiento. ¿no? Entonces están muy relacionados. Es básicamente
+
+318
+01:05:56.270 --> 01:06:05.899
+Lucas Bonanni: porque por ahí parece confuso. Porque digo, son 3 cosas. Y y hablamos solamente de este porcentaje, ¿no? Pero en realidad las 3 cosas hablan de lo mismo.
+
+319
+01:06:06.260 --> 01:06:12.889
+Lucas Bonanni: si no 1 desde diferentes aspectos, No, este el digo bueno, como lo voy a medir
+
+320
+01:06:13.050 --> 01:06:15.239
+Lucas Bonanni: esto. ¿qué es lo que voy a medir?
+
+321
+01:06:15.540 --> 01:06:19.129
+Lucas Bonanni: Y esto es, ¿con qué me comprometo a cumplir? Sí,
+
+322
+01:06:21.900 --> 01:06:31.710
+Lucas Bonanni: Entonces, una vez que tenemos estos objetivos es cuando nosotros sabemos. Bueno, qué es lo que tenemos que monitorear, qué es lo que podemos hacer a partir de eso.
+
+323
+01:06:31.900 --> 01:06:45.380
+Lucas Bonanni: Y generalmente no son solamente estos. No no es generalmente tenemos algunos más como para poder saber. Bueno, esto no cantidad de riqueza exito exitoso sobre total, no
+
+324
+01:06:45.820 --> 01:06:49.119
+Lucas Bonanni: otro tipo de métricas que se establecen de manera interna.
+
+325
+01:06:52.430 --> 01:07:00.440
+Lucas Bonanni: Entonces acá. Tenemos, bueno, el S. L. I es una métrica cuantitativa, así que mide el comportamiento real del servicio.
+
+326
+01:07:01.750 --> 01:07:07.820
+Lucas Bonanni: el objeto de con el objetivo de confiabilidad que puede cumplir el S. L I:
+
+327
+01:07:08.010 --> 01:07:12.360
+Lucas Bonanni: Sí. Entonces acá. Lo que hace es bueno, agregarle en qué periodo.
+
+328
+01:07:13.550 --> 01:07:18.639
+Lucas Bonanni: Y el S. L. A el acuerdo contractual. Sí
+
+329
+01:07:18.860 --> 01:07:21.949
+Lucas Bonanni: que Bueno, define exactamente cómo se va a cumplir?
+
+330
+01:07:29.660 --> 01:07:37.889
+Lucas Bonanni: Bueno, después acá tenemos otro tema, que es la parte de el error. Budget sí que es.
+
+331
+01:07:38.240 --> 01:07:50.920
+Lucas Bonanni: ¿qué disponibilidad Nosotros tenemos para tener errores? Sí, Entonces, si nosotros, cada vez que hacemos, supongamos.
+
+332
+01:07:53.150 --> 01:08:01.180
+Lucas Bonanni: nosotros venimos haciendo cambios, y por alguna razón, en los últimos 3
+
+333
+01:08:01.510 --> 01:08:10.959
+Lucas Bonanni: tuvimos alguna degradación del servicio, algunos errores, y eso hizo que nosotros tengamos.
+
+334
+01:08:11.740 --> 01:08:20.699
+Lucas Bonanni: nos hayamos estado 5 min con errores, Tres minutos con errores y vaya sumando y sumando al llegar
+
+335
+01:08:20.920 --> 01:08:28.679
+Lucas Bonanni: a esta cantidad de minutos por mes, Si lo que termina pasando es que nosotros, ya en una
+
+336
+01:08:29.120 --> 01:08:35.699
+Lucas Bonanni: en una empresa que de políticas estrictas no nos van a dejar de playar más la producción, si
+
+337
+01:08:37.399 --> 01:08:56.239
+Lucas Bonanni: entonces por eso. Pero para eso igual, la idea es que se tienen varios ambientes antes de llegar a eso. Entonces se supone que en los ambientes anteriores. Uno debería probar o en el mismo ambiente, pero teniendo diferenciado de tráfico, ¿no?
+
+338
+01:08:57.200 --> 01:09:06.980
+Lucas Bonanni: Entonces 1 debería llegar a poder probar exactamente qué es lo que está pasando con el servicio antes de que esté completamente productivo.
+
+339
+01:09:16.790 --> 01:09:23.510
+Lucas Bonanni: Bien, ahora vamos a ver los 3 pilares de de
+
+340
+01:09:24.200 --> 01:09:29.109
+Lucas Bonanni: de la observabilidad. Si entonces tenemos estos 3 pilares. Primero.
+
+341
+01:09:29.300 --> 01:09:35.579
+Lucas Bonanni: tenemos, por un lado las métricas. Si esto creo que está cortado a ver si te puedo
+
+342
+01:09:42.229 --> 01:09:44.390
+Lucas Bonanni: a ver si lo puedo modificar.
+
+343
+01:09:57.390 --> 01:09:58.810
+Lucas Bonanni: también podría haber.
+
+344
+01:09:58.940 --> 01:09:59.690
+Lucas Bonanni: Mhm.
+
+345
+01:10:07.470 --> 01:10:08.979
+Lucas Bonanni: Vale así dentro. Pues
+
+346
+01:10:09.320 --> 01:10:19.630
+Lucas Bonanni: antes ha pasado de chiquito. Bueno, entonces, por un lado, son las métricas, los logs y las trazas. Se lo puedo poner de otra forma. Esto.
+
+347
+01:10:40.200 --> 01:10:40.860
+Lucas Bonanni: Guay.
+
+348
+01:10:46.230 --> 01:10:49.040
+Lucas Bonanni: no me digas, bueno, ahí sí.
+
+349
+01:10:49.380 --> 01:10:55.710
+Lucas Bonanni: Entonces tenemos l las métricas que básicamente son
+
+350
+01:10:56.240 --> 01:11:10.060
+Lucas Bonanni: los datos numéricos, ¿sí? Para saber. Bueno, cómo está nuestro sistema. Si podemos tener saber, bueno, qué cantidad de memoria tiene nuestro servicio, cantidad de request.
+
+351
+01:11:11.470 --> 01:11:13.679
+Lucas Bonanni: digamos cua qué tan
+
+352
+01:11:13.800 --> 01:11:28.010
+Lucas Bonanni: cómo están, ¿Cuál es la velocidad de esos de esos request Sí, sí estamos te cumpliendo con cuántos milisegundos y tarda nuestro request en responder sí o nuestro servicio en responder
+
+353
+01:11:28.090 --> 01:11:46.890
+Lucas Bonanni: todo ese tipo de métricas. Después tenemos la parte de Logs. Sí que nos permiten saber qué eventos sucedieron dentro de nuestro sistema, registrar todos los sucesos o los más importantes poder hacer un the buying, saber a ver qué es lo que está pasando, si
+
+354
+01:11:47.930 --> 01:11:59.950
+Lucas Bonanni: y después tenemos las trazas. Sí que. Bueno. Básicamente hacemos el seguimiento de los request. Esto puede ser, ya sea dentro de nuestro microservicio o
+
+355
+01:11:59.950 --> 01:12:08.639
+Lucas Bonanni: a partir de varios microservicios, porque esto también nos sirve para saber. Bueno, nosotros tenemos un un
+
+356
+01:12:09.010 --> 01:12:10.519
+Lucas Bonanni: un servicio muy
+
+357
+01:12:14.840 --> 01:12:33.999
+Lucas Bonanni: si suponga tener un lapi de stock, la api de carrito de ventas, la A. P. I de de check out, No todos todos esos, la la api de pagos, entonces todas esas tienen que ir coordinando la llamada y muchas veces puede llegar a pasar de que, bueno.
+
+358
+01:12:34.110 --> 01:12:48.400
+Lucas Bonanni: alguna de esas fallas y o alguna relacionada. Porque además, en el medio tenemos el frontend en el Frontend, llaman a lo que sería un una a P. I Gateway. ¿no? Entonces
+
+359
+01:12:48.500 --> 01:12:54.320
+Lucas Bonanni: hay, como varias capas, de alguna manera donde se puede reproducir el error.
+
+360
+01:12:54.900 --> 01:13:01.699
+Lucas Bonanni: Entonces a ver, vamos a buscar un un un diagrama de microservicios.
+
+361
+01:13:09.050 --> 01:13:13.220
+Lucas Bonanni: Ohh, Vamos a hacer. Existe el Mhm
+
+362
+01:13:19.820 --> 01:13:20.560
+Lucas Bonanni: Mhm.
+
+363
+01:13:28.960 --> 01:13:29.810
+Lucas Bonanni: Ahí va
+
+364
+01:13:30.740 --> 01:13:43.040
+Lucas Bonanni: algo así. ¿no? Tu supongamos, bueno, acá. Tiene un evenbas, un Driver Api, una base de datos. Bueno, por ejemplo, no digamos que acá tenemos
+
+365
+01:13:43.370 --> 01:13:50.890
+Lucas Bonanni: lápiz de precio. Sí que además se comunica con la Driver, el el del que
+
+366
+01:13:51.990 --> 01:14:10.029
+Lucas Bonanni: digamos la Ap que ma, digamos, maneja, los controlan los choferes, los que la a p. I, que controla los destinos o las rutas, sí de de los viajes, sí donde tienen las las locaciones. Sí,
+
+367
+01:14:10.530 --> 01:14:18.730
+Lucas Bonanni: lo el servicio de macheo, que es el que hace el macheo entre los conductores y los usuarios que están esperando. Por
+
+368
+01:14:19.030 --> 01:14:22.960
+Lucas Bonanni: Por Por eso, entonces, bueno, nosotros tenemos diferentes
+
+369
+01:14:23.100 --> 01:14:31.069
+Lucas Bonanni: capas. Acá es donde yo les mencionaba el tema de low balanceer, donde esto seguramente deben ser los usuarios.
+
+370
+01:14:31.610 --> 01:14:41.769
+Lucas Bonanni: Estos son los usuarios, los conductores que se comunican con la Api de Drivers y tienen diferentes instancias. Y acá también tenemos los usuarios
+
+371
+01:14:42.300 --> 01:14:48.130
+Lucas Bonanni: a ver, yo digo bien, sí, los usuarios que se comuniquen con el Api de Riders.
+
+372
+01:14:48.380 --> 01:15:04.230
+Lucas Bonanni: Entonces, bueno, como ven, podría fallar acá el request en el low balanceer o podría fallar, acá o podría fallar en el evento Bast. Si tenemos diferentes lugares donde podría fallar.
+
+373
+01:15:05.220 --> 01:15:11.230
+Lucas Bonanni: Entonces la idea es que nosotros tengamos de las trazas, nos puedan decir
+
+374
+01:15:12.070 --> 01:15:17.900
+Lucas Bonanni: dónde falló y en qué lugar. Por ejemplo, si nosotros estamos encargados de
+
+375
+01:15:18.110 --> 01:15:24.869
+Lucas Bonanni: tenemos, Eleven, Bass o y el Driver Api, poder saber que si falló acá
+
+376
+01:15:25.080 --> 01:15:27.240
+Lucas Bonanni: o si falló en el even Bass.
+
+377
+01:15:27.350 --> 01:15:32.679
+Lucas Bonanni: si si nosotros somos otro equipo, y tenemos el Ray de Api
+
+378
+01:15:32.940 --> 01:15:43.950
+Lucas Bonanni: y el Low Balance era nuestro cargo. Tenemos que saber, bueno, si falló en el Low Balanceer, o falló acá o no falló. Acá falló el pedido que se le hizo
+
+379
+01:15:44.800 --> 01:16:01.399
+Lucas Bonanni: a Stripe o a a Macbox, ese ese tipo de servicio, un servicio externo y fallo. Estamos teniendo fallas. Acá entonces tenemos que saber detectar y de vaguear a ver por qué es y saber si ese fallo es por algún cambio que introducimos
+
+380
+01:16:01.400 --> 01:16:11.789
+Lucas Bonanni: o es algún fallo, porque el servicio de Macbox está caído y tenemos que hacer algo o avisar, o
+
+381
+01:16:11.980 --> 01:16:13.920
+Lucas Bonanni: o algo por el estilo, ¿sí?
+
+382
+01:16:15.930 --> 01:16:19.520
+Lucas Bonanni: Entonces para eso nos sirven las trazas. Nosotros podemos ver.
+
+383
+01:16:20.360 --> 01:16:23.659
+Lucas Bonanni: digamos, de alguna manera qué es lo que está pasando?
+
+384
+01:16:24.120 --> 01:16:40.180
+Lucas Bonanni: Que esto es por eso lo que yo le decía: cuando hagan los el esto, los trabajos prácticos. Fíjense si pueden llamar a una A P I de estas gratuitas para, por lo menos cuando hagan la parte de monitoreo poder observar el tema de las trazas
+
+385
+01:16:40.470 --> 01:16:46.910
+Lucas Bonanni: o agregarle por lo menos una base de datos local y ver como les muestra las trazas en la parte de monitoreo.
+
+386
+01:16:50.110 --> 01:17:00.100
+Lucas Bonanni: Bien, Entonces acá podemos ver esto. El tema de la latencia, sí dependencias de nuestros servicios o dependencia misma de de los servicios.
+
+387
+01:17:01.090 --> 01:17:08.850
+Lucas Bonanni: encontrar los cuel los cuellos de botella. Si entonces podemos hacer diferentes tipos de s de seguimiento con esto.
+
+388
+01:17:09.280 --> 01:17:17.750
+Lucas Bonanni: y Estos son los 3 pilares básicos para para la parte del monitoreo, observabilidad. Bien.
+
+389
+01:17:18.540 --> 01:17:26.659
+Lucas Bonanni: acá vamos a hablar un poquito ¿De qué son las métricas. ¿para qué sirven? No lo son. Básicamente son datos numéricos
+
+390
+01:17:26.710 --> 01:17:43.259
+Lucas Bonanni: que nos ayudan a ver cómo evoluciona nuestro servicio en el tiempo. No entonces son métricas que generalmente son fáciles de de procesar, que son fácil, baratas de de almacenar.
+
+391
+01:17:43.380 --> 01:17:49.790
+Lucas Bonanni: Entonces podemos ver y detectar esto y degradaciones de de rendimiento, que es cuando
+
+392
+01:17:50.450 --> 01:17:56.090
+Lucas Bonanni: cuando nuestra A. P I empieza a funcionar muy lento.
+
+393
+01:18:01.090 --> 01:18:06.760
+Lucas Bonanni: Pasé un rato porque estaba pasando los bomberos en
+
+394
+01:18:09.240 --> 01:18:28.050
+Lucas Bonanni: bien. Entonces podemos detectar degradaciones de servicio de rendimiento cuando nuestra Api está funcionando muy lento o tenemos un servicio externo que está fallando y nosotros estamos respondiendo a las pero a la vez no estamos terminando de procesar por alguna razón. Por ejemplo, no estamos
+
+395
+01:18:28.050 --> 01:18:31.859
+Lucas Bonanni: terminando de procesar los pagos o cosas similares.
+
+396
+01:18:32.220 --> 01:18:40.320
+Lucas Bonanni: Podemos usar las métricas para configurar alertas accionables. Entonces, si vemos que hay mucha latencia
+
+397
+01:18:40.320 --> 01:18:55.219
+Lucas Bonanni: en nuestros request que se están demorando mucho o que están respondiendo muy lento, podemos generar una alerta, una alerta. Así que nos avise que bueno que está y se está incrementando esa latencia y que tenemos que
+
+398
+01:18:55.470 --> 01:19:00.080
+Lucas Bonanni: empezar a observar a ver, porque es que puede ser porque
+
+399
+01:19:00.820 --> 01:19:07.859
+Lucas Bonanni: tenemos, aumentó la carga de de cantidad de request y no estamos dando abasto con la cantidad de
+
+400
+01:19:07.930 --> 01:19:25.350
+Lucas Bonanni: de peticiones que nos están haciendo a nuestro servicio, y entonces no tenemos la capacidad de procesarlas, y estamos, obviamente eso aumenta la latencia, sí, porque tienen que esperar a que se que se liberen y seguir respondiendo.
+
+401
+01:19:26.500 --> 01:19:36.100
+Lucas Bonanni: Entonces podemos generar métricas con respecto a eso y podemos visualizar a ver esa tendencia como
+
+402
+01:19:36.160 --> 01:19:46.670
+Lucas Bonanni: ¿Cómo? ¿cómo evoluciona, Por ejemplo, en las horas pico, Puede ser que tengamos problemas de latencia a medida que va pasando el tiempo, porque
+
+403
+01:19:46.940 --> 01:19:55.880
+Lucas Bonanni: si todo sale bien, nuestra base de usuarios debería ir creciendo cada vez más, y nuestros servicios cada vez deberían
+
+404
+01:19:56.450 --> 01:20:06.490
+Lucas Bonanni: ir subiendo, o sea, y deberían tener que ir escalando o ir preparándose para recibir ma mayor cantidad de usuarios, pero a veces
+
+405
+01:20:06.900 --> 01:20:20.449
+Lucas Bonanni: no lo escalamos lo suficientemente rápido y vemos que hay un poco de degradación de servicios. Se tarda en responder las los request, entonces, bueno, a veces tenemos que ir haciendo
+
+406
+01:20:20.450 --> 01:20:39.249
+Lucas Bonanni: ajustes. Pero estas alertas nos sirven para ir detectando. Cuándo esto va pasando. A veces puede ser que sea un día, a veces dependiendo del negocio. Puede ser que bueno, justo los fines de semana es un día y se degrada un poco de servicio, porque todos están en ese momento
+
+407
+01:20:39.390 --> 01:20:43.130
+Lucas Bonanni: haciendo ese tipo de petición o lo que sea. Entonces, bueno.
+
+408
+01:20:44.190 --> 01:21:00.310
+Lucas Bonanni: hay casos particulares que hace falta saber si, Bueno, si vale la pena que ya en un en una alerta, tener que accionar o hacer una medida o fue algo puntual, no hay que diferenciar también ese tipo de casos.
+
+409
+01:21:01.170 --> 01:21:10.180
+Lucas Bonanni: En entonces, bueno, las métricas nos sirven para eso, para saber. Bueno.
+
+410
+01:21:10.460 --> 01:21:20.500
+Lucas Bonanni: si nuestro sistema está midiendo con los S. L, o que nosotros nos nos pusimos o nos establecimos o la empresa estableció como objetivo. Sí,
+
+411
+01:21:24.420 --> 01:21:40.690
+Lucas Bonanni: después. Los logs. Sí, los logs son básicamente lo que nos sirve como para lo que decía el primero depurar los errores específicos, saber qué es lo que pasó? ¿dónde está fallando? Hacer?
+
+412
+01:21:41.070 --> 01:21:51.429
+Lucas Bonanni: Sirven para el tema de la de la auditoría. Sí entender cuál fue la secuencia de eventos que o generó un un error?
+
+413
+01:21:52.750 --> 01:22:08.880
+Lucas Bonanni: Sí o no sé, o hubo una incidente de seguridad. Sí, nos permiten hacer eso un análisis Foréntese un análisis post mortem de las cosas que pudo no haber sucedido, ¿sí? Y tratar de
+
+414
+01:22:08.880 --> 01:22:13.750
+Lucas Bonanni: Nos dan información para tratar de reparar el error. Sí,
+
+415
+01:22:15.860 --> 01:22:35.359
+Lucas Bonanni: Bueno, acá. Como dicen. Bueno, esto no es. No se usa, no se mide la latencia o S Froopput. Eso se usan las métricas que era lo anterior usando un histograma bueno para rastrear el flujo, se usan los tr isers que van a venir después.
+
+416
+01:22:35.820 --> 01:22:45.349
+Lucas Bonanni: Mhm: y bueno para monitorear el performance. Se usan los contadores o los
+
+417
+01:22:45.520 --> 01:22:52.929
+Lucas Bonanni: estos medidores que son, como, digamos, como los los medidores son, como igual. Tengo otros
+
+418
+01:22:53.220 --> 01:23:01.420
+Lucas Bonanni: que vemos cuáles son los medidores, que son como los medidores de velocidad que tienen una flechita que va y que es instantáneo, no que nos muestra
+
+419
+01:23:01.600 --> 01:23:16.969
+Lucas Bonanni: en el momento en el que estamos, por ejemplo, en el caso del auto, ¿A qué velocidad estamos? Nos muestra si vamos a 200 km/h, 90, etcétera. Nos dice en qué mo a qué velocidad nos estamos movie moviendo. En este caso podría ser.
+
+420
+01:23:16.980 --> 01:23:22.940
+Lucas Bonanni: Cuánta memoria estamos usando? Por ejemplo, nos dice en este momento cuánta memoria estábamos usando, ¿no?
+
+421
+01:23:26.500 --> 01:23:36.960
+Lucas Bonanni: Bueno, Y después por acá de este lado, tenemos el tema de las trazas, que era lo que yo les comentaba, que son los que nos permite ver esto, hacer un
+
+422
+01:23:37.160 --> 01:23:41.730
+Lucas Bonanni: una trazabilidad, Sí, de lo que está pasando con ese recuest.
+
+423
+01:23:42.070 --> 01:23:45.990
+Lucas Bonanni: Muchas veces depende de cómo esté configurado.
+
+424
+01:23:46.220 --> 01:23:52.040
+Lucas Bonanni: sí de cómo lo tienes configurado la empresa.
+
+425
+01:23:52.760 --> 01:24:12.189
+Lucas Bonanni: Ustedes van a tener un lo que es un T. I, s. I D, Sí que les va a permitir de decir entre varios servicios, a ver cómo cómo funciona ese request. Entonces nosotros vamos a poder filtrar por ese trace, id u otro I D que sea que identifique ese request
+
+426
+01:24:12.450 --> 01:24:15.240
+Lucas Bonanni: de punto a punto sería lo ideal
+
+427
+01:24:16.540 --> 01:24:18.980
+Lucas Bonanni: y de esa manera poder ver
+
+428
+01:24:19.200 --> 01:24:32.039
+Lucas Bonanni: esto, no cuánto tardó cada una de las llamadas, cuánto tardó en responder cada una y, por ejemplo, identificar huesos de botella. Entonces, acá por ejemplo, tenemos en este ejemplo
+
+429
+01:24:32.140 --> 01:24:48.649
+Lucas Bonanni: que el usuario bueno hizo un check out. Si pasó por el api gateway, sí que básicamente, que ese lápiz donde redirecciona las llamadas y y dice, bueno, ¿qué servicio tiene que que llamar? Obviamente, acá habría en realidad
+
+430
+01:24:49.150 --> 01:24:51.879
+Lucas Bonanni: seguramente una aplicación también.
+
+431
+01:24:53.490 --> 01:25:00.880
+Lucas Bonanni: Y entonces se primero se valida el token sí de de la del Request
+
+432
+01:25:03.440 --> 01:25:12.909
+Lucas Bonanni: para verificar que es una sesión válida después, Bueno, retorno al que está Ok, crear la orden. ¿sí? Y después, acá. Bueno.
+
+433
+01:25:12.980 --> 01:25:23.729
+Lucas Bonanni: al momento llega al servicio de órdenes, todo esto dentro ya dentro del mismo servicio de Orders. La base de datos.
+
+434
+01:25:24.200 --> 01:25:36.449
+Lucas Bonanni: de alguna manera está Ahí está, junto, digamos, acá estaría el o R m procesando y procesa el Insert y se manda al Insert a ejecutar el inserto a la base de datos.
+
+435
+01:25:36.580 --> 01:25:42.240
+Lucas Bonanni: Entonces acá. Se muestra que el Imser tardó 14 ms.
+
+436
+01:25:42.720 --> 01:25:58.770
+Lucas Bonanni: o inclusive más. En realidad, empezó a los 14 ms del request y terminó a los 47, o sea, que tardó más o menos 33 min milisegundos
+
+437
+01:25:58.840 --> 01:26:10.010
+Lucas Bonanni: en responder, lo cual es un montón para un solo insert. Y bueno, acá tenemos algún problema con la base de datos vais, a saber, algún tema de conexión, etcétera, etcétera. Bueno.
+
+438
+01:26:10.720 --> 01:26:18.340
+Lucas Bonanni: el ejemplo es para eso. Entonces acá. Lo que nos damos cuenta es que, bueno, este request no debería tardar
+
+439
+01:26:18.450 --> 01:26:25.109
+Lucas Bonanni: 33 ms. Entonces ahí es donde nos damos cuenta que hay que hacer algún ajuste? No.
+
+440
+01:26:26.240 --> 01:26:35.539
+Lucas Bonanni: obviamente, esto no es solamente por un request, tendríamos que ver que nosotros empezaríamos a notar
+
+441
+01:26:35.890 --> 01:26:52.509
+Lucas Bonanni: que otra métrica, que es la de la latencia, sí empezó a impactar, y empezó a incrementarse, y no sabemos por qué. Y lo vemos que nos ponemos a analizar los traces en ese caso y vemos que
+
+442
+01:26:52.710 --> 01:26:56.430
+Lucas Bonanni: no solamente 1, sino que hay varios request
+
+443
+01:26:56.710 --> 01:27:03.000
+Lucas Bonanni: que se están demorando en hacer un insert o por ahí. No solamente es el Insert por ahí, es
+
+444
+01:27:04.510 --> 01:27:22.889
+Lucas Bonanni: la lectura y escritura de la base de datos. ¿no? Entonces hay algo que está pasando por ahí? ¿hay ¿Hay algún proceso de la misma Api que está bloqueando la base de datos o la lectura y la escritura, o está bloqueando una tabla por mucho tiempo, y eso no está afectando en el performance.
+
+445
+01:27:23.040 --> 01:27:29.720
+Lucas Bonanni: Por eso hay que ver, y hay que y hay que analizar desde diferentes puntos a ver qué es lo que está pasando.
+
+446
+01:27:32.560 --> 01:27:36.550
+Lucas Bonanni: pero digamos, nos sirven para ver en este caso.
+
+447
+01:27:36.750 --> 01:27:50.279
+Lucas Bonanni: identificar. Bueno, ¿dónde está el cuello de botella y después seguir analizando Esto es solamente, una parte, digamos, de las evidencias que vamos a ir recolectando para saber a ver dónde está el error.
+
+448
+01:27:53.480 --> 01:28:02.040
+Lucas Bonanni: Entonces, bueno, acá. Tenemos como una pequeña guía de decisión de cuándo usar cada una. Entonces tenemos
+
+449
+01:28:02.310 --> 01:28:16.130
+Lucas Bonanni: la una pregunta que es: ¿qué qué querés responder? ¿no? Entonces lo que hacemos es bueno, queremos saber cuántos errores hubo en la última hora. Mi sistema cumple con el S L, o
+
+450
+01:28:16.430 --> 01:28:18.699
+Lucas Bonanni: tenemos que establecer una métrica.
+
+451
+01:28:20.250 --> 01:28:31.509
+Lucas Bonanni: ¿qué mensaje de error vi exactamente el usuario? O qué pasó antes de algún tipo de error? Bueno, usamos logs Sí,
+
+452
+01:28:31.860 --> 01:28:33.270
+Lucas Bonanni: ¿en
+
+453
+01:28:34.370 --> 01:28:47.880
+Lucas Bonanni: ¿en qué servicio genera la latencia o cuál es el microservicio que está fallando? Bueno, ahí ve miramos las trazas. Sí, esto nos sirve como guía para entender
+
+454
+01:28:48.080 --> 01:28:53.760
+Lucas Bonanni: que cuál, cuál usamos en cada en qué momento, según lo que queremos hacer.
+
+455
+01:28:58.580 --> 01:29:03.029
+Lucas Bonanni: Bien, acá. Tenemos lo que les decía algunas
+
+456
+01:29:03.390 --> 01:29:17.820
+Lucas Bonanni: gráficas visuales. Sí que podemos ver contadores simples. Sí, un estos medidores sí que básicamente nos dicen cuánta memoria tenemos y por el otro lado, los
+
+457
+01:29:17.940 --> 01:29:30.659
+Lucas Bonanni: los contadores sí que estos contadores nos van a decir? Bueno, cuántos usuarios hicieron, login o se registraron? ¿sí? Entonces vamos teniendo un número
+
+458
+01:29:31.590 --> 01:29:33.459
+Lucas Bonanni: y un pequeño dashboard.
+
+459
+01:29:36.770 --> 01:29:44.989
+Lucas Bonanni: Bien, acá. Hay 3 tipos de métricas no que son el histograma que nos sirven.
+
+460
+01:29:45.020 --> 01:30:04.510
+Lucas Bonanni: que agrupan diferentes mediciones nos sirven para ver los temas de las latencias, el tamaño de las respuestas, la duración de los shops y podemos ver los percentiles y que nos dan a ver cómo están nuestras respectos a ver cómo se distribuyen, no
+
+461
+01:30:06.340 --> 01:30:15.260
+Lucas Bonanni: después. Bueno, tenemos esto. Los medidores, que son básicamente los que nos dan los valores instantáneos, no los valores. En este momento.
+
+462
+01:30:15.450 --> 01:30:25.280
+Lucas Bonanni: como dice acá como un termómetro, ¿sí? Entonces dice, bueno, la C P. U actual, la cantidad de memoria usada, cantidad de conexiones.
+
+463
+01:30:25.380 --> 01:30:31.110
+Lucas Bonanni: Sí, entonces se ve el valor actual, pero no se puede ver un histórico.
+
+464
+01:30:31.240 --> 01:30:35.140
+Lucas Bonanni: ¿vale? Básicamente es la diferencia. En cambio.
+
+465
+01:30:36.110 --> 01:30:43.870
+Lucas Bonanni: y después el contador acumulativo que básicamente y sigue contando.
+
+466
+01:30:46.730 --> 01:30:58.339
+Lucas Bonanni: Y no puede Podemos contar la cantidad de de request, la cantidad de errores totales, la cantidad de byte transmitidos y y podemos escribirlos en
+
+467
+01:30:59.650 --> 01:31:02.240
+Lucas Bonanni: cada 1 de las métricas.
+
+468
+01:31:06.640 --> 01:31:10.670
+Lucas Bonanni: Acá Bueno, es un pequeño ejemplo que
+
+469
+01:31:10.880 --> 01:31:21.639
+Lucas Bonanni: de como agregar un contador. Si esto es con un ejemplo de Python, Básicamente esto está usando open tele
+
+470
+01:31:21.860 --> 01:31:24.950
+Lucas Bonanni: que ya lo lo vamos a a ver un poquito más
+
+471
+01:31:25.130 --> 01:31:30.859
+Lucas Bonanni: en adelante en los slide que es open tele.
+
+472
+01:31:31.580 --> 01:31:40.320
+Lucas Bonanni: Pero bueno, acá lo que hacemos es básicamente importar la librería. Tenemos instalada la librería de opentelemetry
+
+473
+01:31:40.810 --> 01:31:44.419
+Lucas Bonanni: de open tele usamos las métricas.
+
+474
+01:31:44.680 --> 01:31:50.619
+Lucas Bonanni: Generamos un básicamente un contador o un medidor, ¿sí?
+
+475
+01:31:50.950 --> 01:31:56.460
+Lucas Bonanni: Y acá le decimos con esta función, le decimos: queremos crear un contador
+
+476
+01:31:56.740 --> 01:32:04.350
+Lucas Bonanni: y le decimos que vamos a contar la cantidad de total de request, le ponemos el nombre, la descripción.
+
+477
+01:32:04.720 --> 01:32:15.430
+Lucas Bonanni: la unidad, sí, y acá nosotros tendríamos. Esto? No, no sería exactamente así? En realidad, esto va a ir dentro de
+
+478
+01:32:15.740 --> 01:32:29.849
+Lucas Bonanni: una clase. Sí que nos va a permitir tener todo en un centralizado, en un solo lugar para que haga, digamos, esta fuente, la cantidad de request, si
+
+479
+01:32:30.060 --> 01:32:33.379
+Lucas Bonanni: tanto como los que nos llegan, o como los que enviamos.
+
+480
+01:32:36.190 --> 01:32:49.370
+Lucas Bonanni: Y acá abajo, lo que tenemos es un ejemplo de la consulta para ver esos valores dentro de prometheus Prometheus es parte, digamos, de trafana, lo que nos sirve para consultar los datos.
+
+481
+01:32:54.180 --> 01:33:01.499
+Lucas Bonanni: Bueno, acá. Lo mismo tienen otro código de ejemplo de cómo crear un
+
+482
+01:33:01.730 --> 01:33:10.380
+Lucas Bonanni: esto, Un medidor ¿sí? Donde nos podemos ver lo mismo, no la cantidad de memoria. Esto es así. Lo hacemos de forma manual
+
+483
+01:33:11.390 --> 01:33:13.309
+Lucas Bonanni: con open tele también.
+
+484
+01:33:16.510 --> 01:33:27.779
+Lucas Bonanni: Entonces acá. Tenemos algunos ejemplos de uso. Todos estos. Bueno, son los mensajes que entran y salen y que tipo de gráfica podemos utilizar para cada 1.
+
+485
+01:33:29.760 --> 01:33:35.050
+Lucas Bonanni: Después acá tenemos cómo definir un histograma. ¿sí?
+
+486
+01:33:35.520 --> 01:33:40.210
+Lucas Bonanni: ¿cómo ¿Cómo hacemos el uso del histograma. Y cómo los definimos?
+
+487
+01:33:43.210 --> 01:33:47.780
+Lucas Bonanni: Acá? Como consultamos por el percentil 99,
+
+488
+01:33:52.330 --> 01:34:07.340
+Lucas Bonanni: y acá tenemos un poquito un un resumen, sí, de bueno si quiero saber cuántos recuestos recibí. Utilizo un contador. Si quiero saber a qué tasa fallan los request pongo un contador
+
+489
+01:34:07.460 --> 01:34:17.889
+Lucas Bonanni: más un Right: Sí, para saber. Bueno, en un periodo de tiempo, en este caso, por ejemplo, se establecen los 5 min
+
+490
+01:34:18.880 --> 01:34:22.200
+Lucas Bonanni: después, la C. P. U que usa el proceso?
+
+491
+01:34:22.660 --> 01:34:25.780
+Lucas Bonanni: Cuántos
+
+492
+01:34:28.870 --> 01:34:43.019
+Lucas Bonanni: sí? Cuántos recuesta hay en en una cola de Amazon? Sí que nos pueda decir? Bueno, eso. Básicamente, cuántos request tenemos ahí esperando para ser atendidos o o siendo procesados.
+
+493
+01:34:43.160 --> 01:34:49.839
+Lucas Bonanni: ¿cuál es la latencia, entonces? Tenemos para definir el histograma.
+
+494
+01:34:49.880 --> 01:35:04.790
+Lucas Bonanni: el tamaño que tienen las respuestas. Sí, también podemos utilizar un un histograma cuanti cantidad de usuarios activos, cuantos errores por minuto. Esto es igual que
+
+495
+01:35:05.270 --> 01:35:07.629
+Lucas Bonanni: básicamente este de acá arriba.
+
+496
+01:35:09.080 --> 01:35:18.339
+Lucas Bonanni: Nada más que bueno está definido cada 60 min, O sea, tenemos el lo el error total por un minuto
+
+497
+01:35:19.470 --> 01:35:21.160
+Lucas Bonanni: y acá que hablábamos la métrica.
+
+498
+01:35:23.590 --> 01:35:29.950
+Lucas Bonanni: Y después, a partir de eso tenemos los golden signal que fueron definidos por
+
+499
+01:35:30.200 --> 01:35:35.609
+Lucas Bonanni: Google. Sí, Entonces tenemos para, digamos, son
+
+500
+01:35:37.040 --> 01:35:41.400
+Lucas Bonanni: las señales básicas que tenemos que medir dentro de nuestro servicio, ¿sí?
+
+501
+01:35:41.650 --> 01:35:46.739
+Lucas Bonanni: Entonces B, empezamos por la latencia. Sí,
+
+502
+01:35:47.340 --> 01:35:49.420
+Lucas Bonanni: al fin y al cabo, un poco de zoom.
+
+503
+01:35:50.240 --> 01:36:04.359
+Lucas Bonanni: La latencia. Sí, después tenemos el tráfico, sí, o sea, la latencia, es cuánto tarda en responder el sistema. El tráfico es la demanda que recibe el sistema, o sea, cuántos
+
+504
+01:36:05.410 --> 01:36:09.160
+Lucas Bonanni: usuarios o cuantas llamadas estamos recibiendo? Sí
+
+505
+01:36:11.740 --> 01:36:16.319
+Lucas Bonanni: ¿Y después qué fracción de Request falla. Ese es
+
+506
+01:36:16.450 --> 01:36:20.219
+Lucas Bonanni: bueno. Por ejemplo, debería ser lo ideal
+
+507
+01:36:20.340 --> 01:36:25.099
+Lucas Bonanni: que fallen el menos menor a 0 coma 1 por 100
+
+508
+01:36:25.790 --> 01:36:41.870
+Lucas Bonanni: después que saturación. Tenemos que estar en lleno. ¿está el sistema. Entonces, bueno, ¿cuál es la capacidad de nuestro C, P, u o disco o sí que que podemos llegar a tener. Entonces ahí esto es lo que podemos.
+
+509
+01:36:42.250 --> 01:36:45.050
+Lucas Bonanni: digamos, son las golden signal.
+
+510
+01:36:51.580 --> 01:37:05.989
+Lucas Bonanni: Entonces, bueno, la latencia. No el tiempo que tarda en responder el sistema a las solicitudes que tenemos de los usuarios o de nuestros clientes, no que necesariamente puede ser otra a P. I dentro de la misma organización.
+
+511
+01:37:06.360 --> 01:37:19.309
+Lucas Bonanni: Entonces, acá bueno, nos recomienda algunas métricas que podemos usar. La la duración de los request con un tipo de gráfico de histograma, ¿sí? Y tenemos una cuerda de ejemplo.
+
+512
+01:37:23.200 --> 01:37:28.669
+Lucas Bonanni: Entonces acá lo que nos explica un poquito que los S. L o típicos. Sí,
+
+513
+01:37:28.790 --> 01:37:34.839
+Lucas Bonanni: un percentil, 50 menor a 100 ms que son los usuarios típicos.
+
+514
+01:37:34.980 --> 01:37:45.739
+Lucas Bonanni: un percentil 95 menor a 300 ms y un percentil.
+
+515
+01:37:46.100 --> 01:37:53.579
+Lucas Bonanni: 99 de 500 ms, que debe ser el peor caso, sí, o sea, los que tardan más
+
+516
+01:38:00.980 --> 01:38:07.919
+Lucas Bonanni: bien después del tráfico, sí que es la demanda que ejerce sobre nuestro sistema, o sea, cantidad de de llamadas que estamos
+
+517
+01:38:08.120 --> 01:38:12.700
+Lucas Bonanni: recibiendo, entonces la cantidad de requests por segundo
+
+518
+01:38:12.930 --> 01:38:24.670
+Lucas Bonanni: men o mensajes por segundo. Si estamos haciendo un servicio de streaming, si tenemos un servicio de streaming o o o mensajería. Si por colas
+
+519
+01:38:24.920 --> 01:38:30.879
+Lucas Bonanni: después vas datos que son las transacciones por segundo
+
+520
+01:38:31.260 --> 01:38:48.159
+Lucas Bonanni: y byte escritos y leídos por segundos en el caso que tengamos algún tipo de servicio de almacenamiento que estemos usando algún servicio de almacenamiento. Y si es un microservicio que se comunica por R, C, P. Llamadas Rcp por segundo. Sí,
+
+521
+01:38:48.190 --> 01:38:53.360
+Lucas Bonanni: acá después, bueno, nada siempre está el código para de referencia
+
+522
+01:39:01.710 --> 01:39:10.429
+Lucas Bonanni: Y después bueno, tenemos 3 categorías de errores. Si los errores explícitos sí que son fallos reconocidos por
+
+523
+01:39:10.590 --> 01:39:13.480
+Lucas Bonanni: por el protocolo o pues también
+
+524
+01:39:13.730 --> 01:39:18.159
+Lucas Bonanni: controlados, digamos, dentro de nuestra aplicación o no controlados.
+
+525
+01:39:18.400 --> 01:39:25.120
+Lucas Bonanni: ¿sí? Entonces tenemos, por ejemplo, los errores explícitos, que son excepciones no controladas.
+
+526
+01:39:25.460 --> 01:39:31.370
+Lucas Bonanni: También están los timeout de servidor, donde el servidor no re llega a responder a tiempo.
+
+527
+01:39:33.910 --> 01:39:43.189
+Lucas Bonanni: Después, los implícitos son aquellos que por ahí devuelve un 200, pero con un shake son
+
+528
+01:39:43.530 --> 01:39:48.040
+Lucas Bonanni: mal formado o no respeta el contrato, básicamente.
+
+529
+01:39:48.200 --> 01:39:54.269
+Lucas Bonanni: de que nosotros acordamos con nuestros clientes. Por ejemplo, yo desarrollé
+
+530
+01:39:54.490 --> 01:40:05.519
+Lucas Bonanni: que una pinterna le tengo que devolver el usuario descripción, y no sé algo más.
+
+531
+01:40:05.770 --> 01:40:12.360
+Lucas Bonanni: Y de repente, yo ese algo más lo cambio por otra cosa o lo saco. Y resulta que
+
+532
+01:40:13.110 --> 01:40:16.559
+Lucas Bonanni: ellos lo estaban esperando y estaban leyendo ese campo.
+
+533
+01:40:18.980 --> 01:40:36.360
+Lucas Bonanni: Y para eso yo se lo estoy devolviendo mal formado, porque ellos esperan esa respuesta y que no sé, aparezcan nombre y apellido, y ellos están usando por nombre apellido y documento, y yo, por alguna razón dije, no, el documento no lo necesito para que lo necesitan y lo saco.
+
+534
+01:40:36.980 --> 01:40:41.950
+Lucas Bonanni: Entonces le estoy devolviendo la llave la respuesta sin documento.
+
+535
+01:40:42.230 --> 01:40:44.750
+Lucas Bonanni: Entonces.
+
+536
+01:40:46.990 --> 01:41:01.649
+Lucas Bonanni: bueno, ahí estoy ma yo forzando un estoy haciendo un error implícito, sí, porque para para el que el que está consumiéndome mi a P. I va a decir, bueno, me está generando un error. Me devuelve un 200
+
+537
+01:41:02.480 --> 01:41:08.069
+Lucas Bonanni: pero es, pero está mal el Jason, si no es, no respeta el contrato porque yo
+
+538
+01:41:08.470 --> 01:41:14.509
+Lucas Bonanni: necesitaba ese D, N, I o una respuesta vacía, sí
+
+539
+01:41:16.320 --> 01:41:22.140
+Lucas Bonanni: o un código de negocio erróneo cuando devuelves un recueso en 200 sí.
+
+540
+01:41:22.400 --> 01:41:32.270
+Lucas Bonanni: Después. Bueno, por política, quiere decir que bueno que tardó más de lo que se esperaba en responder y
+
+541
+01:41:32.900 --> 01:41:39.229
+Lucas Bonanni: o una respuesta correcta fuera del error Badget. Pero bueno, son casos muy, muy particulares.
+
+542
+01:41:41.370 --> 01:41:48.059
+Lucas Bonanni: Bueno, esto es saturación, Básicamente es cuánto de los recursos estamos utilizando? ¿no?
+
+543
+01:41:48.300 --> 01:41:59.129
+Lucas Bonanni: Entonces, cuántos estamos utilizando C, P u cuánto estamos utilizando de memoria, conexión a las bases de datos, cantidades en el servidor.
+
+544
+01:41:59.400 --> 01:42:05.829
+Lucas Bonanni: cantidad de mensajes en en las colas y el espacio en disco.
+
+545
+01:42:11.930 --> 01:42:21.980
+Lucas Bonanni: Entonces ahora sí vamos a ver lo que les mencionaba, que es la parte de Open. Tele. No sé si ustedes llegaron a escucharlo en algún momento, lo de open telemetry.
+
+546
+01:42:25.330 --> 01:42:26.639
+MANUEL KRIVOY: No yo nada.
+
+547
+01:42:36.810 --> 01:42:47.090
+Lucas Bonanni: Bueno, básicamente lo que es es y es un estándar, sí para poder
+
+548
+01:42:47.500 --> 01:42:51.240
+Lucas Bonanni: estar desacoplados de los servicios de telemetría.
+
+549
+01:42:52.040 --> 01:42:59.090
+Lucas Bonanni: Entonces lo que nos permite es que tenemos una.
+
+550
+01:42:59.210 --> 01:43:07.840
+Lucas Bonanni: como dice ahí una instrumentación. S. D. K, agnóstica de servicios que nosotros queremos consumir, porque hasta antes de eso, nosotros teníamos que
+
+551
+01:43:08.100 --> 01:43:17.490
+Lucas Bonanni: consumir o recolectar datos y mandárselos adaptador. Y cuando teníamos que cambiar de proveedor. Y decir.
+
+552
+01:43:17.720 --> 01:43:26.090
+Lucas Bonanni: Bueno, si tene, usamos Amazon va a ser. Vamos a tener que usar el s. D. K. De Amazon. Si queremos usar
+
+553
+01:43:26.450 --> 01:43:29.620
+Lucas Bonanni: cómo es el otro servicio.
+
+554
+01:43:29.790 --> 01:43:35.129
+Lucas Bonanni: New Reil. Tenemos cambiar a S si tenemos que usar el grafana.
+
+555
+01:43:35.510 --> 01:43:41.119
+Lucas Bonanni: el de grafana, y así no. Bueno, no es tan así. Pero bueno.
+
+556
+01:43:41.330 --> 01:43:47.410
+Lucas Bonanni: digamos que para el ejemplo me sirve, Digamos que sea tan así, porque por ahí para grafana, no
+
+557
+01:43:47.790 --> 01:43:53.750
+Lucas Bonanni: por ahí se puede usar el mismo de datador por un tiempo, pero
+
+558
+01:43:54.590 --> 01:44:08.939
+Lucas Bonanni: la idea es que nosotros tengamos open telemetry La La idea es eso que sea una telemetría que vos la definas una sola vez, y no la tengas que cambiar cómo medís las cosas.
+
+559
+01:44:09.090 --> 01:44:21.480
+Lucas Bonanni: porque tuviste cambiar el s. D K: Entonces la idea es que vos puedas cambiar de proveedor y no tengas que cambiar eso en el código, sino lo que va a pasar es que 1 termina acoplándose
+
+560
+01:44:21.650 --> 01:44:28.619
+Lucas Bonanni: o haciendo un vendedor locking de del sistema, porque
+
+561
+01:44:29.510 --> 01:44:37.830
+Lucas Bonanni: no te puedes mudar a otro, porque el esfuerzo de cambiar de un sistema a otro es es mucho esfuerzo. Entonces
+
+562
+01:44:38.070 --> 01:44:50.740
+Lucas Bonanni: termina pasando de eso. Entonces la idea es que lo que haces solo dependiendo de donde querés publicar las métricas sí.
+
+563
+01:44:50.980 --> 01:44:58.250
+Lucas Bonanni: Lo único que cambias son cómo se exportan esas métricas y nada más. No debería ser muy.
+
+564
+01:44:58.570 --> 01:45:03.710
+Lucas Bonanni: muy difícil. En cambio, acá. No se llega a ver.
+
+565
+01:45:18.340 --> 01:45:19.889
+Lucas Bonanni: a ver, voy a hacerlo así.
+
+566
+01:45:27.130 --> 01:45:35.230
+Lucas Bonanni: Esto me pasa porque modifiqué los slide, la presentación otra vez.
+
+567
+01:45:39.250 --> 01:45:41.279
+Lucas Bonanni: y no tuve tiempo de arreglarlos.
+
+568
+01:45:43.140 --> 01:45:44.510
+Lucas Bonanni: Las cositas.
+
+569
+01:45:50.570 --> 01:46:03.900
+Lucas Bonanni: Entonces hoy tenemos open tele que nos permite básicamente resolver esto y no tener que andar reemplazando los sportters. Y podemos cambiar.
+
+570
+01:46:05.530 --> 01:46:08.279
+Lucas Bonanni: Acá Deberían aparecer no solamente datador.
+
+571
+01:46:08.410 --> 01:46:10.020
+Lucas Bonanni: Sí,
+
+572
+01:46:10.970 --> 01:46:20.790
+Lucas Bonanni: Si no, hoy tenemos esto con opendelemetri y cambiamos acá el sporter. Si queremos cambiar el día de mañana a cualquier otro proveedor.
+
+573
+01:46:26.510 --> 01:46:27.670
+Lucas Bonanni: entonces
+
+574
+01:46:28.460 --> 01:46:43.370
+Lucas Bonanni: básicamente es un framework open source. Sí que lo que trata es esto de que nosotros no tengamos un vendedor con nuestros proveedores de métricas. Está
+
+575
+01:46:43.840 --> 01:46:53.950
+Lucas Bonanni: digamos apoyado por el Cloud Native Computing Foundation: Sí, como así como Dogger y y gobernetes.
+
+576
+01:46:54.190 --> 01:47:13.579
+Lucas Bonanni: Para que bueno nosotros podamos ser independientes de dónde queremos publicar nuestras métricas y dónde queremos hacer nuestras cosas sin tener que hacer demasiados cambios. Esa es la idea básica, entonces, y tiene varios lenguajes soportados. La creo que la mayoría, el están soportados.
+
+577
+01:47:13.680 --> 01:47:19.780
+Lucas Bonanni: así que nosotros podemos aplicarlo en en diferentes aplicaciones.
+
+578
+01:47:21.440 --> 01:47:33.680
+Lucas Bonanni: Este es un poquito la arquitectura de Open Tele. Sí. Donde nosotros tenemos el el s. D. K, Si implementado dentro de nuestra aplicación
+
+579
+01:47:33.910 --> 01:47:39.360
+Lucas Bonanni: con autoinstrumentación, o sea, usamos la instrumentación por defecto
+
+580
+01:47:40.900 --> 01:47:54.979
+Lucas Bonanni: y se comunica a través de, vamos a tener que tener un colector, sí que va es que el que va juntando, digamos toda la información que nosotros vamos enviándola, ya sea por un
+
+581
+01:47:55.210 --> 01:48:04.259
+Lucas Bonanni: por llamadas, R, P, C, O, H, T, T. P: Si entonces dentro del colector lo que va a tener es un reciber.
+
+582
+01:48:04.370 --> 01:48:08.450
+Lucas Bonanni: sí que pueden ser cualquiera de estos 3
+
+583
+01:48:09.030 --> 01:48:19.800
+Lucas Bonanni: prometheus sí o sipting. No importa. Después va a tener un procesador que lo que va a hacer es procesar esos datos que le que le estamos haciendo
+
+584
+01:48:20.130 --> 01:48:26.700
+Lucas Bonanni: y básicamente después, el Sporter sí que
+
+585
+01:48:26.800 --> 01:48:29.730
+Lucas Bonanni: va a exportar esas métricas, ya sea
+
+586
+01:48:30.250 --> 01:48:43.170
+Lucas Bonanni: prometheus datador o cualquier otro servicio que nosotros querramos. Además, lo podemos exportar no solamente a 1 solo, sino una vez que tenemos el sporter, lo podemos exportar
+
+587
+01:48:43.290 --> 01:49:03.280
+Lucas Bonanni: a diferentes, entonces podemos hacer? Bueno, decir, bueno, para la parte comercial que usen, podemos segmentar, digamos y tener que tengan datador o New Rellyx. Sí, Y tengan sus Dash: Por ahí. Después para la parte del log podemos publicarlos también en otro lado y tenerlo aquí, elastic search
+
+588
+01:49:03.340 --> 01:49:13.590
+Lucas Bonanni: después para las trazas. Podemos usar tempo, por ejemplo, y para usar otro tipo de métrica, podemos usar Prometheus y grafana.
+
+589
+01:49:14.760 --> 01:49:20.019
+Lucas Bonanni: Esa es la la un poquito la idea, poder que nos dé esa flexibilidad.
+
+590
+01:49:24.070 --> 01:49:31.510
+Lucas Bonanni: Bien, entonces esta es una tabla comparativa, básicamente de
+
+591
+01:49:31.660 --> 01:49:42.570
+Lucas Bonanni: las ventajas que nos da open telemetry, Sí, Básicamente donde 1 puede cambiar el ba, el no el backend. En realidad cambia el
+
+592
+01:49:42.790 --> 01:49:53.230
+Lucas Bonanni: bueno, el aquel donde nosotros publicamos, las métrica. No, Eso es lo que cambia, pero nosotros no conviemos nuestro código en nuestra aplicación.
+
+593
+01:49:55.970 --> 01:50:02.670
+Lucas Bonanni: Bueno, la desventaja de un S. D K es que tiene su propia A. P. I si eso implementada.
+
+594
+01:50:02.940 --> 01:50:14.400
+Lucas Bonanni: según como a ellos les parece, según la empresa que les parece y por el otro lado es un estándar, sí, ya definido.
+
+595
+01:50:14.590 --> 01:50:27.109
+Lucas Bonanni: entonces cualquier backend es compatible no solamente del el del vendedor. Si y con solamente cambiar el sporter. Ya estamos listos para cambiar de
+
+596
+01:50:27.320 --> 01:50:37.479
+Lucas Bonanni: de de vendedor que nosotros querramos. Sí, Entonces, si es multiseñal, eso multiseñal quiere decir que lo puedo exportar a
+
+597
+01:50:37.600 --> 01:50:40.680
+Lucas Bonanni: o tener diferentes tipos de
+
+598
+01:50:41.100 --> 01:50:50.150
+Lucas Bonanni: de métricas. Y cómo lo puedo procesar. Eso va a depender de del vendedor. En este caso, nosotros podemos tener
+
+599
+01:50:50.250 --> 01:50:59.070
+Lucas Bonanni: todo esto junto básicamente, y algunos son, por ejemplo, parcialmente open source. Y en este caso es
+
+600
+01:50:59.740 --> 01:51:04.420
+Lucas Bonanni: completamente open source después.
+
+601
+01:51:05.090 --> 01:51:06.579
+Lucas Bonanni: Bueno. Y este, bueno.
+
+602
+01:51:06.980 --> 01:51:19.570
+Lucas Bonanni: la correlación quiere decir, bueno, ¿qué tan qué tan acomplados? Obviamente esto to todo dentro del mismo vendedor. Y esto es a partir de ahí, muchos vendedors podemos. No nos importa que es la la idea.
+
+603
+01:51:21.610 --> 01:51:29.190
+Lucas Bonanni: Bueno, acá tenemos un ejemplo básicamente de cómo sería
+
+604
+01:51:29.470 --> 01:51:40.039
+Lucas Bonanni: usar la el la librería de datado sí para hacer un 3 de datado. Cómo lo definimos y ¿Cómo lo definimos con Open Tele.
+
+605
+01:51:46.180 --> 01:51:54.159
+Lucas Bonanni: Después tenemos Cuáles son los backend compatibles en cuanto a métricas y
+
+606
+01:51:54.540 --> 01:52:01.339
+Lucas Bonanni: con opentelemetri si entonces bueno, tenemos métricas. Tenemos datado Guin New Rally
+
+607
+01:52:01.450 --> 01:52:08.669
+Lucas Bonanni: y Open Source. Tenemos otras más sí para utilizar para lo mismo, para las trazas.
+
+608
+01:52:09.510 --> 01:52:24.140
+Lucas Bonanni: Básicamente, esto es una lista que que le sirve saber de bueno, cuáles son las soluciones o los backend compatibles que con los cuales podemos procesar las métricas o los trazas o los blogs
+
+609
+01:52:24.370 --> 01:52:30.860
+Lucas Bonanni: que sean open source o que sean comerciales. Entonces, si nosotros implementamos open teletri
+
+610
+01:52:31.290 --> 01:52:40.299
+Lucas Bonanni: y tenemos donde necesitamos publicar en algo que sea opensource. Podemos elegir de acá. Lo que necesitemos
+
+611
+01:52:40.630 --> 01:52:46.280
+Lucas Bonanni: si queremos soluciones comerciales, venimos a esta columna y buscamos lo que necesitemos
+
+612
+01:52:47.100 --> 01:52:58.540
+Lucas Bonanni: para procesar acá. Van a ver que, por ejemplo, datado cubre métricas, Trazas, logs y todo en 1. Sí, New Rally también.
+
+613
+01:52:58.720 --> 01:53:00.860
+Lucas Bonanni: Y Hong Kong también.
+
+614
+01:53:08.910 --> 01:53:11.510
+Lucas Bonanni: Bueno, ahora vamos a ver un poquito. Vamos a
+
+615
+01:53:11.710 --> 01:53:14.409
+Lucas Bonanni: meternos un poquito más en detalle
+
+616
+01:53:14.510 --> 01:53:19.519
+Lucas Bonanni: de las métricas, como cómo elegirlas correctamente.
+
+617
+01:53:20.990 --> 01:53:25.010
+Lucas Bonanni: Entonces, bueno, acá volvemos un poquito a lo del principio, ¿no? Entonces
+
+618
+01:53:25.500 --> 01:53:31.839
+Lucas Bonanni: el S. L. O define qué garantizas al usuario Si yo te garantizo que vas a tener un
+
+619
+01:53:32.120 --> 01:53:35.459
+Lucas Bonanni: una latencia menor a 500 ms.
+
+620
+01:53:35.640 --> 01:53:46.470
+Lucas Bonanni: entonces vemos a ver el S. L. I. Vamos a ver qué métrica lo mide. Y entonces acá está cortado, pero sería la duración del request por segundos.
+
+621
+01:53:46.930 --> 01:53:54.479
+Lucas Bonanni: como lo qué tipo de métrica. Entonces vamos a utilizar un medidor, ¿sí? O un contador o un histograma.
+
+622
+01:53:55.270 --> 01:54:02.270
+Lucas Bonanni: y después definir las etiquetas ¿no? Y en las etiquetas cuando nosotros publicamos información.
+
+623
+01:54:02.320 --> 01:54:15.350
+Lucas Bonanni: ya sea con con lo que sea, vamos a tener etiquetas que nos van a decir el servicio el Entorno, la región de de la nube en la que está ejecutándose nuestra aplicación
+
+624
+01:54:15.490 --> 01:54:25.229
+Lucas Bonanni: y la versión de nuestra aplicación. Esto sería lo una de las etiquetas importantes para poder identificar cada una. ¿nos va a dar algún dato importante.
+
+625
+01:54:28.040 --> 01:54:39.030
+Lucas Bonanni: Entonces, cuáles son las características de una buena métrica que sea entendible, accionable, mejorable y multidimensional.
+
+626
+01:54:39.420 --> 01:54:44.299
+Lucas Bonanni: entendible, porque, bueno, se tiene que saber fácilmente
+
+627
+01:54:44.450 --> 01:54:50.700
+Lucas Bonanni: qué es lo que me está mostrando esa métrica accionable. Quiere decir que
+
+628
+01:54:50.860 --> 01:54:55.299
+Lucas Bonanni: cuando esa métrica me muestre algún cambio.
+
+629
+01:54:55.300 --> 01:55:11.600
+Lucas Bonanni: yo sé que es lo que tengo que hacer para corregirla y llevarla al Estado que yo quiero que está. ¿no? Entonces, si hay mucha latencia, bueno, tengo que tener al algún tiempo de rambo que me diga qué es lo que tengo que hacer y cómo lo tengo que mejorar?
+
+630
+01:55:13.410 --> 01:55:20.359
+Lucas Bonanni: Bueno, mejorable es esto optimizable en el tiempo? No que su padre se va.
+
+631
+01:55:20.770 --> 01:55:27.200
+Lucas Bonanni: sepamos con anticipación y podamos ser proactivos en
+
+632
+01:55:27.660 --> 01:55:32.820
+Lucas Bonanni: mejorar esa métrica y mejorarla y decir: bueno, a veces, como digo.
+
+633
+01:55:32.930 --> 01:55:51.669
+Lucas Bonanni: se va empeorando apenitas con el con el tiempo, porque, bueno, se supone que con el tiempo nuestros usuarios deberían ser una siempre de una cantidad mayor, deberíamos tener porque nos está yendo bien. Entonces nos visitan más usuarios. Entonces.
+
+634
+01:55:51.940 --> 01:56:04.119
+Lucas Bonanni: es esperable que en algún momento esa métrica vaya cambiando. Vaya evolucionando por mismos cambios por nuevos servicios que estamos dando. Entonces, bueno.
+
+635
+01:56:05.430 --> 01:56:12.270
+Lucas Bonanni: todo eso puede ser que que vaya cambiando, pero nosotros tenemos que poder mejorarla en el tiempo. Podría hacerle un seguimiento y mejorarla
+
+636
+01:56:12.880 --> 01:56:20.750
+Lucas Bonanni: y multidimensionales, porque tenemos con esas etiquetas que habíamos dicho antes que eran la versión, el el
+
+637
+01:56:21.540 --> 01:56:26.680
+Lucas Bonanni: ay se me fue la y
+
+638
+01:56:27.330 --> 01:56:38.610
+Lucas Bonanni: la aplicación el environment, el la otra que era la región de de como la región de Amazon. Sí, entonces nos permite filtrar y agrupar
+
+639
+01:56:38.800 --> 01:56:39.800
+Lucas Bonanni: los
+
+640
+01:56:40.070 --> 01:56:56.129
+Lucas Bonanni: las métricas, ¿sí? Y los blogs, y para poder identificar el problema. Entonces nosotros podemos identificar saber si es de producción, si es de testing, eso lo tenemos que saber en principio, porque si no, no vamos a poder armarlas correctas, las métricas correctas, no
+
+641
+01:56:56.130 --> 01:57:04.129
+Lucas Bonanni: después la versión de nuestra aplicación, la región, para saber si
+
+642
+01:57:04.610 --> 01:57:09.620
+Lucas Bonanni: en qué región eso está corriendo si tiene múltiples regiones, etcétera.
+
+643
+01:57:12.660 --> 01:57:17.739
+Lucas Bonanni: Y acá, tenemos un un pequeño ejemplo, sí de
+
+644
+01:57:20.260 --> 01:57:24.770
+Lucas Bonanni: de una métrica multidimensional donde nosotros
+
+645
+01:57:24.860 --> 01:57:43.120
+Lucas Bonanni: contamos la cantidad de errores totales, entonces tenemos que definir la métrica y del y estas son las etiquetas que nosotros establecemos básicamente en nuestro. Cuando nosotros configuramos en nuestro servicio, hay una parte donde nosotros definimos la métrica
+
+646
+01:57:43.190 --> 01:57:59.769
+Lucas Bonanni: que nosotros establecemos. Estas etiquetas, a veces no las establecemos. A veces ya vienen dentro de un template y nosotros ni nos enteramos. Ya vienen configuradas dentro de la empresa, pero estas estos se establecen
+
+647
+01:57:59.820 --> 01:58:11.969
+Lucas Bonanni: y muchas veces también se establecen, no así directamente, sino por variables de entorno, no porque en este caso, por ejemplo, cuando ponemos environment igual la producción
+
+648
+01:58:12.360 --> 01:58:13.450
+Lucas Bonanni: y
+
+649
+01:58:14.700 --> 01:58:24.429
+Lucas Bonanni: sirve porque estamos diciendo, bueno, acá para el ejemplo no sirve porque estamos diciendo, bueno, estas son las etiquetas. No sabemos qué es si sabemos
+
+650
+01:58:24.860 --> 01:58:29.650
+Lucas Bonanni: si queremos identificar qué servicio falla. Sabemos cuál es porque dice checkout.
+
+651
+01:58:30.010 --> 01:58:32.639
+Lucas Bonanni: Sabemos en qué ambiente porque dice producción.
+
+652
+01:58:32.760 --> 01:58:37.079
+Lucas Bonanni: Sabemos en qué región de Amazon, porque nos dice la región. Acá
+
+653
+01:58:38.100 --> 01:58:41.370
+Lucas Bonanni: Sabemos qué versión de nuestra aplicación
+
+654
+01:58:41.850 --> 01:58:46.889
+Lucas Bonanni: y el estatus de del Request. ¿qué tipo de error fueron?
+
+655
+01:58:48.310 --> 01:58:54.189
+Lucas Bonanni: Esto nos permite hacer filtrar, poder hacer métricas, poder construir Sí,
+
+656
+01:58:54.560 --> 01:59:08.669
+Lucas Bonanni: Entonces acá. Tenemos algunos valores de de ejemplo, sí de de de que podría llegar a tener los de los variables de entorno. Si que yo digo esto lo no se podría como un stream indirecto, sino que
+
+657
+01:59:08.860 --> 01:59:12.869
+Lucas Bonanni: 1 lo pondría con una variable entorno dentro del código.
+
+658
+01:59:16.390 --> 01:59:22.159
+Lucas Bonanni: Después, el servicio puede ser cualquier otro servicio que, pues lo importante es identificar
+
+659
+01:59:22.310 --> 01:59:27.860
+Lucas Bonanni: el qué servicio lo está ejecutando la región.
+
+660
+01:59:28.040 --> 01:59:32.840
+Lucas Bonanni: La versión, bueno, va a variar la versión y el estatus va a variar el estatus?
+
+661
+01:59:40.330 --> 01:59:45.739
+Lucas Bonanni: Bueno, y después tenemos otro concepto, que es el Te, el tema de las alertas
+
+662
+01:59:47.270 --> 01:59:49.420
+Lucas Bonanni: y la fatiga de alertas.
+
+663
+01:59:50.430 --> 01:59:57.920
+Lucas Bonanni: Entonces a ver acá este grafiti quito quedo cortado muy grande.
+
+664
+01:59:58.250 --> 01:59:59.540
+Lucas Bonanni: Ahora flequito
+
+665
+02:00:08.340 --> 02:00:09.449
+Lucas Bonanni: y a mí me encanta estar.
+
+666
+02:00:09.900 --> 02:00:14.580
+Lucas Bonanni: Entonces el problema de la fatiga de las alertas.
+
+667
+02:00:14.710 --> 02:00:27.439
+Lucas Bonanni: Cuando una alerta, digamos, nosotros configuramos una alerta. Y esta es la alerta. Se dispara muchas veces durante el día. Pero la alerta no requiere una acción inmediata. Solamente nos avisa que algo está pasando
+
+668
+02:00:28.020 --> 02:00:33.009
+Lucas Bonanni: de no sirve. Es una notificación
+
+669
+02:00:33.330 --> 02:00:42.949
+Lucas Bonanni: y que a veces debe eliminarse o moverse a un canal asícrónico que que 1 las pueda chequear cuando llega
+
+670
+02:00:43.610 --> 02:00:48.659
+Lucas Bonanni: y cuando lleguen horario de trabajo, básicamente sí,
+
+671
+02:00:49.490 --> 02:01:01.509
+Lucas Bonanni: y así evitar el agotamiento del equipo que está todo el tiempo llegando. Si es faltas falsas alertas, básicamente sí. Entonces, por ejemplo, si nosotros echamos una alerta y que cada vez
+
+672
+02:01:01.510 --> 02:01:09.800
+Lucas Bonanni: no llega, y cuando nosotros estamos en un cole y solamente nos dice que, por ejemplo, las más comunes son las de latencia. ¿no?
+
+673
+02:01:09.800 --> 02:01:14.879
+Lucas Bonanni: Entonces hay un servicio que aumentó un poquito la latencia
+
+674
+02:01:15.400 --> 02:01:31.280
+Lucas Bonanni: Y podemos accionar ya, porque un servicio porque un recuesto, un o tienes request en un momento determinado, o es algo que sabemos que por ahí es por la hora pico y se resuelve. Podemos accionar en este momento.
+
+675
+02:01:31.330 --> 02:01:41.270
+Lucas Bonanni: No, generalmente las latencias. No podemos accionar en este momento es algo que si lo tenemos que accionar, tenemos que ver en detalle a ver que es lo que pasó
+
+676
+02:01:41.630 --> 02:01:43.299
+Lucas Bonanni: tratar de entender.
+
+677
+02:01:43.500 --> 02:01:54.269
+Lucas Bonanni: Y recién ahí podemos accionar a ver qué qué es lo que pasó entonces. En ese caso, sería algo que nosotros vamos a ver. Pero bueno, el día siguiente vamos a ver
+
+678
+02:01:54.500 --> 02:01:56.620
+Lucas Bonanni: qué es lo que está pasando.
+
+679
+02:01:56.780 --> 02:02:01.390
+Lucas Bonanni: Sí, una alerta correcta. Sería cantidad de errores, ¿no?
+
+680
+02:02:03.090 --> 02:02:08.190
+Lucas Bonanni: Entonces, por ejemplo, 200 alertas sin prioridad o sin contexto.
+
+681
+02:02:08.560 --> 02:02:26.779
+Lucas Bonanni: Básicamente, 1 termina con el tiempo. Uno las termina ignorando. Eso es lo que dice. No, entonces se terminan silenciando. ¿sí? Y cuando después que esas alertas se terminan silenciando en algún momento se produce un error, crítico
+
+682
+02:02:26.980 --> 02:02:33.779
+Lucas Bonanni: nosotros nunca nos enteramos porque tenemos esas alertas silenciadas.
+
+683
+02:02:34.090 --> 02:02:40.280
+Lucas Bonanni: y al final perdemos la confianza en todo el sistema que tenemos de alerta de seguimiento.
+
+684
+02:02:41.190 --> 02:02:55.140
+Lucas Bonanni: y terminamos estando, o o el equipo invern out, o o sea, todos cansados porque tenemos un montón de alertas, o sea, no desconfiamos
+
+685
+02:02:55.140 --> 02:03:01.460
+Lucas Bonanni: o ya viste, el pasa a no deja que o nadie quiere atender las alertas viste porque no
+
+686
+02:03:01.660 --> 02:03:13.530
+Lucas Bonanni: no están mostrando realmente el error que está pasando. Entonces, bueno, se termi y terminamos en un incidente crítico. Bueno, eso es algo sistémico, Digamos que ya va pasando.
+
+687
+02:03:13.930 --> 02:03:18.710
+Lucas Bonanni: Entonces, Bueno, eso es el problema de la fatiga de alerta.
+
+688
+02:03:18.850 --> 02:03:30.819
+Lucas Bonanni: Entonces nosotros tenemos que ver y analizar realmente el equipo. Y generalmente con en cada Sprint ir mirando a ver qué alertas realmente son necesarias y cuáles no.
+
+689
+02:03:38.590 --> 02:03:47.369
+Lucas Bonanni: Y acá tenemos alguna de los 3 criterios que que debería cumplir. Acá Se me superpuso un poco.
+
+690
+02:03:52.460 --> 02:04:08.579
+Lucas Bonanni: Bueno, si una alerta es urgente, requiere atención. Ahora, eso es súper básico, si es accionable, Y hay algo que hacer. ¿necesita un road Book o una serie de pasos para para poder corregir esa métrica.
+
+691
+02:04:09.070 --> 02:04:20.169
+Lucas Bonanni: Y si impacta al usuario. El está afectado afectar a un S L o comprometido. Son esas cosas que nos tenemos que
+
+692
+02:04:21.040 --> 02:04:22.360
+Lucas Bonanni: qué preguntar.
+
+693
+02:04:24.140 --> 02:04:36.060
+Lucas Bonanni: Entonces, acá tenemos la diferencia entre una alerta y una notificación. Si tenemos las distinciones claves, entonces
+
+694
+02:04:36.060 --> 02:04:46.710
+Lucas Bonanni: tenemos el canal por el cual se notifica una alerta y el canal por el cual Se Not se da una notificación, ¿no?
+
+695
+02:04:47.420 --> 02:04:51.359
+Lucas Bonanni: Entonces una alerta. Tiene que siempre l
+
+696
+02:04:51.930 --> 02:05:03.330
+Lucas Bonanni: llegar por Patreon Dotti, algún de estos, de para manejar las aplicaciones para manejar el alcohol o una llamada mensaje de texto.
+
+697
+02:05:03.330 --> 02:05:13.799
+Lucas Bonanni: En cambio, cuando una alerta puede ser un slack, un email, si cosas que 1 no le va a prestar atención cuando está fuera de horario de trabajo. Si
+
+698
+02:05:13.850 --> 02:05:21.360
+Lucas Bonanni: básicamente, un ticket. Sí, un dashboard, cosas que lo vas a ver al día siguiente.
+
+699
+02:05:21.850 --> 02:05:27.129
+Lucas Bonanni: Este de este lado, digamos, de esta columna de las alertas son cosas que vos vas a ver
+
+700
+02:05:27.990 --> 02:05:30.990
+Lucas Bonanni: e intentar accionar inmediatamente.
+
+701
+02:05:32.380 --> 02:05:44.870
+Lucas Bonanni: Entonces, bueno, tiempo de resp de respuesta de inmediato, sí. Y este, bueno, la próxima dentro de las próximas horas, cuando vuelvas a entrar a trabajar ahí, lo lo revisarás
+
+702
+02:05:46.230 --> 02:05:59.700
+Lucas Bonanni: en esta sí dependiendo del microservicio. Es importante que que despierte a alguien o no. De eso va a depender también mucho del negocio. Pero supongamos que
+
+703
+02:05:59.810 --> 02:06:12.150
+Lucas Bonanni: nuestro servicio es crítico y tenemos usuarios en en otros usos horarios. Tal vez sí nos debería despertar
+
+704
+02:06:12.290 --> 02:06:13.800
+Lucas Bonanni: y atenderla.
+
+705
+02:06:15.870 --> 02:06:17.500
+Lucas Bonanni: Y
+
+706
+02:06:18.710 --> 02:06:30.470
+Lucas Bonanni: bueno, acá. Cuando el Errow Right supera el S. L o de producción. Eso es un ejemplo bas válido y el disco a 65 por 100
+
+707
+02:06:30.910 --> 02:06:34.609
+Lucas Bonanni: con una tendencia a 2 semanas de que
+
+708
+02:06:34.650 --> 02:06:51.399
+Lucas Bonanni: no va a llegar al 100 por 100 en en próximas horas, o sea, que va a tardar al menos 2 semanas en en completarse. No es para una alerta, si es para una notificación, porque nosotros lo vamos a poder accionar al día siguiente. No hace falta que nos despierte Ahora
+
+709
+02:06:51.520 --> 02:06:57.389
+Lucas Bonanni: sí que tengamos que actuar en cualquier momento o que dejemos de hacer las cosas que estamos haciendo para actuar.
+
+710
+02:06:59.490 --> 02:07:03.950
+Lucas Bonanni: Entonces la pregunta es si no es accionable, hay que eliminar
+
+711
+02:07:04.640 --> 02:07:07.569
+Lucas Bonanni: si una notificación no es accionable.
+
+712
+02:07:07.730 --> 02:07:10.679
+Lucas Bonanni: se puede revisar el otro Sprint, a ver qué
+
+713
+02:07:11.100 --> 02:07:16.680
+Lucas Bonanni: esta tiene que estar siempre, ¿Sí? Y una notificación es opcional.
+
+714
+02:07:17.900 --> 02:07:33.009
+Lucas Bonanni: Nos puede una notificación, nos sirve para nosotros. Deproyamos una nueva funcionalidad y queremos hacerlo por ahí un un seguimiento un poco más minucioso y queremos tener alguna notificación para saber a ver qué está pasando
+
+715
+02:07:34.090 --> 02:07:36.760
+Lucas Bonanni: y de poder tratar de ser proactivos.
+
+716
+02:07:42.880 --> 02:07:43.570
+Lucas Bonanni: Claro.
+
+717
+02:07:47.430 --> 02:07:55.779
+Lucas Bonanni: bueno, acá algún tipo de alertas de mejor a peor. Tenemos una alerta
+
+718
+02:07:56.540 --> 02:08:01.190
+Lucas Bonanni: estática con un C, P u mayor a 80 por 100,
+
+719
+02:08:01.630 --> 02:08:07.630
+Lucas Bonanni: una detección por anomalías. Y es mucho mejor, porque
+
+720
+02:08:08.300 --> 02:08:12.859
+Lucas Bonanni: la detección por anomalía, lo que intenta es predecir
+
+721
+02:08:13.620 --> 02:08:22.500
+Lucas Bonanni: o identificar que eso es algo fuera de lo común, ¿no? O sea que se está dando algo
+
+722
+02:08:23.120 --> 02:08:32.590
+Lucas Bonanni: que no, que no es. No es normal de alguna manera, y después
+
+723
+02:08:33.190 --> 02:08:41.110
+Lucas Bonanni: te debería seguir con error de error bandshat si para poder seguir con este nivel.
+
+724
+02:08:41.710 --> 02:08:45.950
+Lucas Bonanni: Acá También se me cortó el código. Vamos a dar a ver
+
+725
+02:08:46.630 --> 02:09:03.919
+Lucas Bonanni: acá el código. Esto básicamente es como se define una métrica y las anotaciones para cómo se hace la la expresión. Si dentro de de grafana
+
+726
+02:09:06.550 --> 02:09:10.639
+Lucas Bonanni: y para construir esta última alerta de acá
+
+727
+02:09:17.040 --> 02:09:25.029
+Lucas Bonanni: Y bueno. Y por último, creo que esto ya va a ser parte de lo último, que es la parte de logs y buenas prácticas
+
+728
+02:09:27.750 --> 02:09:41.010
+Lucas Bonanni: donde, bueno, acá vamos a tener la persona que va a estar en en on call. Y vamos a preguntarnos, bueno, cuantos errores. Htt: P: 500 tenemos o hubo en en la
+
+729
+02:09:41.230 --> 02:09:49.230
+Lucas Bonanni: última hora? ¿sí? Entonces vamos a tener una métrica que nos va a responder eso?
+
+730
+02:09:49.510 --> 02:10:04.090
+Lucas Bonanni: Mi servicio cumplió con el S. L o en este mes? Bueno, tenemos que tener la métrica más el S. L o calculado. Sí, el Stack trace exacto para saber, bueno.
+
+731
+02:10:04.330 --> 02:10:19.620
+Lucas Bonanni: que el usuario que estuvo afectado por algún error y poder buscar a partir de cuesta Id o el de Trace Id, ese tipo de la traza y hacer ver todos los blogs de lo que pasó
+
+732
+02:10:21.900 --> 02:10:23.949
+Lucas Bonanni: y después.
+
+733
+02:10:24.030 --> 02:10:42.490
+Lucas Bonanni: cuál debes re poder responder a cuál de los 12 microservicios se genera el cuello de botella. ¿sí? Y ahí poder hacer una traza, vigilarla, ver lo que él hace la traza, sí y tratar de identificarlo.
+
+734
+02:10:49.650 --> 02:10:59.680
+Lucas Bonanni: Entonces, cuáles son algunas de las buenas prácticas cuando 1 va a ser loguear algo dentro de nuestro servicio.
+
+735
+02:10:59.770 --> 02:11:12.389
+Lucas Bonanni: Nuestro servicio tiene que loguear objetos claros, que nos den información. Sí, también. Una buena práctica es usar los blog levels saben que son los log level.
+
+736
+02:11:17.510 --> 02:11:18.770
+JOANA ZARATE: No, no, ni idea.
+
+737
+02:11:19.760 --> 02:11:22.719
+CRISTIAN QUEIROLO DOMINGUEZ: Que es info Warning.
+
+738
+02:11:22.720 --> 02:11:30.989
+Lucas Bonanni: Exactamente eso. Esos mismos son esos mismos que tenemos acá. Tenemos
+
+739
+02:11:31.410 --> 02:11:38.299
+Lucas Bonanni: que tenemos de Bag. Info Warning. Error y fatales. Esta es la severidad.
+
+740
+02:11:38.810 --> 02:11:45.250
+Lucas Bonanni: digamos, va aumentando hacia abajo en este caso, ¿sí? Entonces.
+
+741
+02:11:45.870 --> 02:11:54.700
+Lucas Bonanni: bueno, como ustedes saben, en producción, nosotros deberíamos solamente informar de de los errores y los fatales.
+
+742
+02:11:55.190 --> 02:12:02.779
+Lucas Bonanni: Los warning no deberían estar sí, especialmente para no ensuciar los logs
+
+743
+02:12:02.980 --> 02:12:15.259
+Lucas Bonanni: después en otros ambientes de más bajos, sí de testing en testing, por ejemplo, deberían estar lo mismo que producción, y por ahí en
+
+744
+02:12:15.400 --> 02:12:19.600
+Lucas Bonanni: de Bach debería estar en la parte de en el ambiente de desarrollo. Sí,
+
+745
+02:12:19.910 --> 02:12:24.809
+Lucas Bonanni: para ver qué qué más hay o también podríamos tener?
+
+746
+02:12:26.130 --> 02:12:31.440
+Lucas Bonanni: En realidad no no deberíamos tener debates muy pocos de Bags en producción.
+
+747
+02:12:31.970 --> 02:12:37.050
+Lucas Bonanni: Primero, porque estamos llenando una capacidad de en.
+
+748
+02:12:38.940 --> 02:12:44.609
+Lucas Bonanni: digamos, de almacenamiento con un montón de logs de de Bag que no deberíamos tener? No.
+
+749
+02:12:46.540 --> 02:12:52.660
+Lucas Bonanni: Tal vez si los info que nos dan alguna información y bueno, dependiendo del proceso.
+
+750
+02:12:54.650 --> 02:13:00.269
+Lucas Bonanni: pero Bueno, esos son los blog level, que son los que tenemos que implementar cada vez que logueamos nuestras cosas.
+
+751
+02:13:00.720 --> 02:13:10.940
+Lucas Bonanni: Después. Usar logs estructurados generalmente los Jason: Sí, para poder que no sean
+
+752
+02:13:11.620 --> 02:13:18.120
+Lucas Bonanni: una cadena de texto, porque muchas veces lo que se hace es a ver. Vamos a dar. Acá.
+
+753
+02:13:26.660 --> 02:13:32.529
+Lucas Bonanni: Puedes usar Streaming Interpolation a ver si acá. Hay algo.
+
+754
+02:13:36.050 --> 02:13:37.640
+Lucas Bonanni: Les puedo mostrar algo.
+
+755
+02:13:38.110 --> 02:13:53.039
+Lucas Bonanni: Bueno, acá. Está esto. Es streaming. Interpolation. No yo lo veo información y pongo the username y el nombre del usuario es y le pongo user, sí, Y acá. Se hace esto.
+
+756
+02:13:53.260 --> 02:13:59.580
+Lucas Bonanni: entonces el mensaje del usuario termina haciendo esto y acá ponemos
+
+757
+02:14:00.110 --> 02:14:06.800
+Lucas Bonanni: el usuario. Pero la verdad es que tiene que ser un Json a ver si lo vemos. Acá
+
+758
+02:14:15.140 --> 02:14:23.329
+Lucas Bonanni: acá Tenemos el primer ejemplo, si interpolación de strings también.
+
+759
+02:14:32.660 --> 02:14:35.100
+Lucas Bonanni: Y
+
+760
+02:14:40.550 --> 02:14:44.229
+Lucas Bonanni: esto no me sirve de ejemplos a ver si había otro.
+
+761
+02:15:15.740 --> 02:15:21.799
+Lucas Bonanni: No, no es lo que Bueno, acá. Sí se ve un ejemplo de una entrada de Jason. Entonces, bueno, podemos ver
+
+762
+02:15:21.920 --> 02:15:29.699
+Lucas Bonanni: la severidad, el request, todos los datos, digamos, separados, no en un string.
+
+763
+02:15:31.320 --> 02:15:48.440
+Lucas Bonanni: Entonces nosotros nos permite, con esto armar muchas mejores métricas, muchas, detectar mucho más fácil los errores, procesarlos de de mejor manera. Entonces esto es lo que es un un realmente, un error, un log estructurado
+
+764
+02:15:53.570 --> 02:16:00.390
+Lucas Bonanni: después escribir entradas significativas. Con Con respecto al contexto, eso quiere decir
+
+765
+02:16:01.450 --> 02:16:11.550
+Lucas Bonanni: incluir información que realmente nos ayude, a saber cuál es el problema. Entonces que saber solamente que el usuario y que pasó
+
+766
+02:16:11.820 --> 02:16:23.420
+Lucas Bonanni: por ahí no nos dice, tenemos que responder el porque falló. Si si fallo con algún código de error en e especial, si hubo
+
+767
+02:16:24.210 --> 02:16:29.060
+Lucas Bonanni: cuál fue el mensaje de si nosotros estamos cacheando alguna excepción.
+
+768
+02:16:30.160 --> 02:16:42.230
+Lucas Bonanni: saber cuál fue el error del línear decepcion para saber no toda la traza, pero sí el mensaje de de línear de excepción, pues como para saber por dónde viene el problema.
+
+769
+02:16:44.639 --> 02:16:48.679
+Lucas Bonanni: usar los canónicos.
+
+770
+02:16:49.129 --> 02:17:01.340
+Lucas Bonanni: esto de hacer agregación de logs y centralizar los que estén todos en un solo lugar en un 1 los pueda buscar y encontrar en un mismo servicio, no
+
+771
+02:17:03.430 --> 02:17:20.159
+Lucas Bonanni: después tener políticas de retención. ¿cuánto tiempo voy a guardar esos blogs. Entonces, si voy a tener políticas de retención de un mes de 2 meses, un año, 6 porque, bueno, como sabemos, Y y le decía anteriormente.
+
+772
+02:17:21.280 --> 02:17:37.179
+Lucas Bonanni: 1, el almacenamiento de esos logs cuesta porque 1 los tiene que almacenar, y ese almacenamiento se tiene que pagar, Entonces, generalmente 1 pone políticas de retención para decir: bueno, yo voy a retener los blogs por tanto tiempo.
+
+773
+02:17:37.540 --> 02:17:44.490
+Lucas Bonanni: porque si pasa algo, Este es el tiempo que voy a tener para hacer un análisis.
+
+774
+02:17:45.730 --> 02:17:47.229
+Lucas Bonanni: Es lo que me sirve.
+
+775
+02:17:47.469 --> 02:17:52.520
+Lucas Bonanni: Después pueden haber ciertas regulaciones
+
+776
+02:17:55.090 --> 02:18:01.680
+Lucas Bonanni: que nos pidan a nosotros tener ¿cierto? Bueno, cierto, Reten retenciones de log mínimas, no
+
+777
+02:18:01.830 --> 02:18:06.840
+Lucas Bonanni: cumplir con ciertas cosas para auditoría, como también mencionamos antes.
+
+778
+02:18:08.459 --> 02:18:23.390
+Lucas Bonanni: Y bueno. Y esto de proteger los los blogs. No, no. Tenemos que no se pueden quedar expuestos. Los logs A tienen que ser internos y controlar quién accede a cada 1 de los lados.
+
+779
+02:18:25.879 --> 02:18:44.829
+Lucas Bonanni: Esto es importante. Lo que hay que evitar que los request no tengan correlación. Esto quiere decir cuando nosotros queremos filtrar y saber que pasó de punta a punta con un request. Tenemos que poder filtrar por request Id, que básicamente es un recuest generado
+
+780
+02:18:44.830 --> 02:19:04.740
+Lucas Bonanni: que se agrega en las cabeceras de cada 1 que recibe ese recuest y se va pasando como un pasamanos, básicamente en que que entre cada servicio, para nosotros, poder saber por dónde fue ese request y cuál fue el camino que hizo y detectar los problemas.
+
+781
+02:19:10.010 --> 02:19:22.470
+Lucas Bonanni: Bien, bueno, esto es importante. También. No loguear Datos sensibles, sí, como Password Token información personal, sí del usuario.
+
+782
+02:19:24.160 --> 02:19:26.050
+Lucas Bonanni: Esas son cosas que hay que evitar.
+
+783
+02:19:28.930 --> 02:19:34.120
+Lucas Bonanni: Bueno, acá. Tenemos un un ejemplo de algo que no es no estructurado.
+
+784
+02:19:36.080 --> 02:19:55.730
+Lucas Bonanni: sí que básicamente es un string versus un log estructurado correctamente. ¿sí? Donde tenemos nuevamente las etiquetas que habíamos mencionado antes: el servicio, el el error, el Low Level: Sí, en este caso un error. Tenemos un time stump de cuando pasó
+
+785
+02:20:00.710 --> 02:20:04.380
+Lucas Bonanni: después. Tenemos bueno, la región el Environment.
+
+786
+02:20:04.580 --> 02:20:09.449
+Lucas Bonanni: acá tenemos este. Lo que yo les mencionaba, el 3 Id que nos va a permitir saber.
+
+787
+02:20:09.750 --> 02:20:16.140
+Lucas Bonanni: ha hacer el seguimiento de todos los los recuests que se
+
+788
+02:20:16.500 --> 02:20:20.460
+Lucas Bonanni: que se hicieron para desarrollar llamada.
+
+789
+02:20:21.790 --> 02:20:25.679
+Lucas Bonanni: También tenemos el rico s. I D, el iuser I D,
+
+790
+02:20:25.850 --> 02:20:30.080
+Lucas Bonanni: Sí, de quien I S o, en este caso, la orden que estamos procesando.
+
+791
+02:20:30.520 --> 02:20:36.600
+Lucas Bonanni: el tipo de error. ¿cuál fue la el servicio
+
+792
+02:20:37.470 --> 02:20:42.840
+Lucas Bonanni: que nos estuvo llamando a nosotros. Si el App Stream, Service
+
+793
+02:20:43.150 --> 02:20:48.870
+Lucas Bonanni: y la U. R. L. Que accionó, digamos, toda esta cadena de llamadas
+
+794
+02:20:49.690 --> 02:21:05.669
+Lucas Bonanni: cuando es la duración de de milisegundos. Y finalmente, el mensaje final. Entonces todo esto nos sirve y nos da un contexto. Si además es como dice la acá es parceable. Es fácil de analizar.
+
+795
+02:21:06.100 --> 02:21:15.040
+Lucas Bonanni: Sale por por la máquina, sí, porque básicamente está en un Jason sabe encontrar todos estos atributos.
+
+796
+02:21:15.490 --> 02:21:32.179
+Lucas Bonanni: Es correlacionable con las con el por el tema de las trazas. ¿sí? Y se puede buscar sí porque podemos buscar por visual id por Order Id Request i D, podemos filtrar por Environment por la versión de nuestro
+
+797
+02:21:32.440 --> 02:21:38.970
+Lucas Bonanni: de nuestra a P I para el servicio. Si podemos filtrarlo, podemos buscarlo.
+
+798
+02:21:39.360 --> 02:21:41.010
+Lucas Bonanni: Inclusive podemos
+
+799
+02:21:41.130 --> 02:21:54.749
+Lucas Bonanni: por duración, es mayores a tantos milisegundos menores a tantos milisegundos y nos permite en cambio, este no no podemos filtrar nada, porque todo está en un string. Tenemos que como que
+
+800
+02:21:55.700 --> 02:21:57.639
+Lucas Bonanni: agarrar el Stream.
+
+801
+02:21:58.000 --> 02:22:09.539
+Lucas Bonanni: Tendríamos que irlos por espacios o po o por guiones. Y a partir de ahí, tratar de de extraer datos, y no, no sirve.
+
+802
+02:22:09.820 --> 02:22:10.830
+Lucas Bonanni: No sirve.
+
+803
+02:22:18.980 --> 02:22:29.249
+Lucas Bonanni: Bueno, acá están los logs levels que yo les habíamos visto antes. Y entonces bueno, acá tenemos una cómo usarlos cada 1. Entonces podemos ver
+
+804
+02:22:29.700 --> 02:22:45.609
+Lucas Bonanni: información de debad. Sí, estoy calculando el descuento para tal usuario con tal regla, después info para eventos normales, orden procesado exitosamente y ponemos el orden I D y ya está
+
+805
+02:22:45.680 --> 02:22:52.379
+Lucas Bonanni: los de warning. Bueno, reintentos que queramos hacer
+
+806
+02:22:52.520 --> 02:23:11.309
+Lucas Bonanni: el error del bueno. Básicamente informamos del error que se fallo al procesar una orden por time out o por el error que sea. Y si es un error fatal, algún error irrecuperable donde, como esto no se puede conectar a la base de datos en producción.
+
+807
+02:23:19.550 --> 02:23:26.960
+Lucas Bonanni: Bueno, y acá finalmente vamos a a unir los los últimos.
+
+808
+02:23:27.510 --> 02:23:37.830
+Lucas Bonanni: lo que veníamos viendo, sí de la parte de monitoreo y cómo mejorar esto, Entonces tenemos planificar los S L o y la capacidad. Si
+
+809
+02:23:39.390 --> 02:23:45.449
+Lucas Bonanni: una vez que tenemos. Hacemos la instrumentación? Sí con un pentelemetri
+
+810
+02:23:46.080 --> 02:23:51.670
+Lucas Bonanni: Creamos los bill y test que nos dan confiabilidad de lo que estamos haciendo.
+
+811
+02:23:51.920 --> 02:23:54.529
+Lucas Bonanni: Hacemos Los test de carga. Sí,
+
+812
+02:23:54.760 --> 02:23:59.479
+Lucas Bonanni: toda todas las pruebas que sean necesarias. Inclusive Kausing Genering.
+
+813
+02:24:00.580 --> 02:24:09.300
+Lucas Bonanni: podemos hacer release los tiempos de diferentes tipos de release fictor Flag: Canary deployd bluggering deployment.
+
+814
+02:24:12.970 --> 02:24:20.050
+Lucas Bonanni: Una vez hecho el deploy, podemos observar, controlar nuestro error. Badget. Sí,
+
+815
+02:24:20.750 --> 02:24:36.539
+Lucas Bonanni: después si necesitamos hay que operar con el on call y apoyándose en los road books para saber si hay algún error y y está, tenemos que salir a accionar en el oncol. Qué es lo que tenemos que hacer
+
+816
+02:24:36.860 --> 02:24:40.450
+Lucas Bonanni: y, finalmente, también hacer un monitoreo
+
+817
+02:24:41.030 --> 02:24:43.259
+Lucas Bonanni: con los L, C, Y es
+
+818
+02:24:43.440 --> 02:24:48.489
+Lucas Bonanni: L, s. E: perdón. L, I S, L, I
+
+819
+02:24:48.600 --> 02:25:03.610
+Lucas Bonanni: y alertas y y los post mortem. Si esto nos permite, son todas cosas que vamos a hacer Posteriormente, si vamos a posteriormente o en el día a día y nos van a permitir cerrar ese feedback, look
+
+820
+02:25:03.760 --> 02:25:11.529
+Lucas Bonanni: sí de cuánto nos vamos a traer todos esos feedback y vamos a seguir
+
+821
+02:25:11.750 --> 02:25:23.510
+Lucas Bonanni: nuevamente. Vamos a seguir planificando, mejorando esas métricas, los Sl hoy y haciendo todo este circuito. Así, para hacer la mejora continua. Entonces
+
+822
+02:25:23.860 --> 02:25:30.149
+Lucas Bonanni: est. Este es el último pasito de la observabilidad que cierra este
+
+823
+02:25:30.300 --> 02:25:40.679
+Lucas Bonanni: loop de del feedback que hablábamos inclusive en la primera clase, los feedback loops que tenemos cuando nosotros construimos
+
+824
+02:25:40.810 --> 02:25:43.620
+Lucas Bonanni: sistemas de punto a punto en devox
+
+825
+02:25:48.820 --> 02:25:56.210
+Lucas Bonanni: y acá tenemos algunos beneficios de de una observabilidad. Sí que ya
+
+826
+02:25:56.400 --> 02:26:14.079
+Lucas Bonanni: es madura. Sí que ya ha pasado tiempo que la hemos ido mejorando dentro de la empresa, entonces tenemos un M tr reducido. ¿sí? Porque lo logramos localizar el pro problema
+
+827
+02:26:14.150 --> 02:26:17.150
+Lucas Bonanni: En minutos, no En horas, sí
+
+828
+02:26:17.290 --> 02:26:25.810
+Lucas Bonanni: podemos accionar rápidamente. Podemos hacer deployd con confianza, porque el error budget nos dice cuándo es seguro.
+
+829
+02:26:26.240 --> 02:26:44.690
+Lucas Bonanni: Tenemos una cultura de blaines donde los datos reemplazan las suposiciones. Entonces estamos abiertos a, bueno, a identificar dónde están los problemas, tratar de accionarlos, tratar de de de de esas métricas y de esos errores que se dan.
+
+830
+02:26:46.380 --> 02:26:50.999
+Lucas Bonanni: podemos planificar si a tratar de ver cómo
+
+831
+02:26:51.350 --> 02:26:59.719
+Lucas Bonanni: se producen cuando se producen tendencias, ver cómo cómo hablan como como van evolucionando.
+
+832
+02:26:59.910 --> 02:27:12.310
+Lucas Bonanni: Y esto se traduce finalmente en lo que para el negocio son básicamente reducción de incidentes, tener acuerdos claros con los clientes y tener datos para
+
+833
+02:27:12.940 --> 02:27:16.750
+Lucas Bonanni: para poder llegar hasta esos acuerdos y esos cumplimientos.
+
+834
+02:27:17.300 --> 02:27:27.810
+Lucas Bonanni: Poder Hablar sí en colaboración entre desarrolladores y operaciones y negocios sobre
+
+835
+02:27:28.000 --> 02:27:43.719
+Lucas Bonanni: las mismas métricas y solo los mismos lenguajes, y entender qué es lo que está pasando y qué es lo que se está incumpliendo y lo que no, y que a partir de eso, hacer una mejora continua de todo lo que los incidentes y los errores que vamos teniendo.
+
+836
+02:27:49.390 --> 02:27:58.589
+Lucas Bonanni: Bueno, acá hay un grafiti quito que espero que después en el Pdf se vea mejor sin la imagen, que básicamente es como un
+
+837
+02:28:01.150 --> 02:28:08.430
+Lucas Bonanni: mapa mental de todos los conceptos que que acabamos de ver. Sí,
+
+838
+02:28:14.810 --> 02:28:22.379
+Lucas Bonanni: entonces acá. Tenemos todo lo que vimos, un resumen de
+
+839
+02:28:23.420 --> 02:28:31.120
+Lucas Bonanni: que es monitorear sin objetivo. Y por qué tenemos que definir los S. L. O y los S le I después
+
+840
+02:28:31.540 --> 02:28:38.480
+Lucas Bonanni: tipos de métricas, los logs sí para como las tenemos que utilizar
+
+841
+02:28:38.680 --> 02:28:42.690
+Lucas Bonanni: acerca del S de cada propietario versus open Tele
+
+842
+02:28:44.440 --> 02:28:51.639
+Lucas Bonanni: porque el el alert, pa la fatiga de las alertas o no. ¿y cómo evitarlo.
+
+843
+02:28:53.200 --> 02:29:05.820
+Lucas Bonanni: Y después el error Badget: Bueno, y después ya chocolate. Terminamos la la presentación de hoy. Creo que
+
+844
+02:29:05.970 --> 02:29:07.740
+Lucas Bonanni: déjenme chequear.
+
+845
+02:29:15.870 --> 02:29:20.699
+Lucas Bonanni: Creo que si algo le subo, este Slide, pero creo que no lo tiene a ver.
+
+846
+02:29:21.880 --> 02:29:23.510
+Lucas Bonanni: Este es el viejo.
+
+847
+02:29:27.270 --> 02:29:28.259
+Lucas Bonanni: pero no.
+
+848
+02:29:29.400 --> 02:29:37.460
+Lucas Bonanni: Y yo. Ahora, lo que me falta, y ya terminamos
+
+849
+02:29:41.320 --> 02:29:47.019
+Lucas Bonanni: es bueno ver un poquito como lo ustedes lo integran. Esto en el trabajo práctico.
+
+850
+02:29:51.350 --> 02:29:55.269
+Lucas Bonanni: te tienen acceso a al repositorio. Este no de de Box.
+
+851
+02:30:29.440 --> 02:30:30.499
+Lucas Bonanni: Están por ahí.
+
+852
+02:30:32.610 --> 02:30:33.870
+FACUNDO SAFE: Y profe.
+
+853
+02:30:34.110 --> 02:30:35.529
+JOANA ZARATE: Sí, sí, yo estoy buscándolo.
+
+854
+02:30:36.560 --> 02:30:37.300
+Lucas Bonanni: Que que.
+
+855
+02:30:38.180 --> 02:30:39.070
+CRISTIAN QUEIROLO DOMINGUEZ: Tengo acceso.
+
+856
+02:30:40.010 --> 02:30:46.190
+Lucas Bonanni: Bueno, porque acá lo que van a ver es ese ejemplo.
+
+857
+02:30:48.650 --> 02:30:52.299
+FACUNDO SAFE: Perdón profe. Este es el mismo que estaba de ejemplo para el T P, o es otro.
+
+858
+02:30:53.130 --> 02:30:54.349
+Lucas Bonanni: Sí. Este es el mismo que estaba.
+
+859
+02:30:54.350 --> 02:30:57.029
+FACUNDO SAFE: Ah, lo tanto, pensé que era otro.
+
+860
+02:30:57.780 --> 02:30:59.739
+Lucas Bonanni: Sí, sí a ver, tiene que estar acá.
+
+861
+02:31:00.920 --> 02:31:02.450
+FACUNDO SAFE: Sí. Sí. En el aula está.
+
+862
+02:31:04.470 --> 02:31:08.630
+Lucas Bonanni: Ciegas. Viste repo modelo. T, B.
+
+863
+02:31:08.920 --> 02:31:09.560
+FACUNDO SAFE: Gracias.
+
+864
+02:31:10.770 --> 02:31:16.940
+Lucas Bonanni: Acá lo que podemos ver es un poco como es la la integración, estos new relix.
+
+865
+02:31:17.860 --> 02:31:25.850
+Lucas Bonanni: Pero básicamente, no. No es tan difícil. Bueno, acá. Tiene el Docker Fire, pero el docker fire finalmente no lo terminé usando.
+
+866
+02:31:26.500 --> 02:31:29.159
+Lucas Bonanni: ¿por qué no me muestra el Js.
+
+867
+02:31:33.370 --> 02:31:34.310
+Lucas Bonanni: Ahí está.
+
+868
+02:31:34.680 --> 02:31:43.429
+Lucas Bonanni: Bueno, acá. Está el Icinski, que en realidad ya ese es inválido. Pero bueno, básicamente, en este que es un next
+
+869
+02:31:43.840 --> 02:31:49.870
+Lucas Bonanni: se exporta el de aquí, ¿no? Y después esto se se importan.
+
+870
+02:31:53.280 --> 02:31:56.889
+Lucas Bonanni: que tienen el módulo por el menú.
+
+871
+02:32:09.090 --> 02:32:24.850
+Lucas Bonanni: Sí, acá después, esto sí importa. Y Y lo que busca la librería, esta de New Relly es justamente este Js: Para para atraer esa información y la y lo lee igual. Por ejemplo, si van a utilizar.
+
+872
+02:32:25.640 --> 02:32:27.589
+Lucas Bonanni: se utilizan dotador
+
+873
+02:32:33.990 --> 02:32:35.230
+Lucas Bonanni: y
+
+874
+02:32:40.720 --> 02:32:49.010
+Lucas Bonanni: entonces se buscan la la librería de cómo a ver
+
+875
+02:32:53.020 --> 02:33:01.369
+Lucas Bonanni: cómo implementarlo y cómo integrarlo al servicio? No, no, Esto es otra cosa.
+
+876
+02:33:12.930 --> 02:33:15.720
+Lucas Bonanni: Acá. Van a integraciones? Me imagino
+
+877
+02:33:16.640 --> 02:33:27.260
+Lucas Bonanni: todas Y bueno, acá. Buscan el la integración. Esto no esto son integraciones desarrolladores.
+
+878
+02:33:31.530 --> 02:33:35.260
+Lucas Bonanni: Bueno, acá. Tienen las diferentes librerías que pueden utilizar.
+
+879
+02:33:35.830 --> 02:33:45.539
+Lucas Bonanni: Entonces está la data tracing Library para las trazas, el Datado para los logs.
+
+880
+02:33:46.250 --> 02:33:57.629
+Lucas Bonanni: Y también tienen acá justamente lo que hablábamos, cómo hacerlo para integrar con Open, tele cómo instrumentarlo.
+
+881
+02:34:03.180 --> 02:34:13.759
+Lucas Bonanni: y acá tienen dentro del Host, donde, por ejemplo, en este caso, van a tener que tener un datado Ation dentro de que va a ser como
+
+882
+02:34:14.190 --> 02:34:23.129
+Lucas Bonanni: un agente que va a correr dentro de la imagen de Docker, sí va a ser otro otro procesito.
+
+883
+02:34:24.530 --> 02:34:31.920
+Lucas Bonanni: Básicamente, entonces, Bueno, nosotros tenemos la librería dentro de nuestra aplicación. ¿sí?
+
+884
+02:34:32.190 --> 02:34:39.320
+Lucas Bonanni: Y puede ser la, como dice acá la la librería de atador o la de Open telemetri. Y básicamente.
+
+885
+02:34:39.530 --> 02:34:46.330
+Lucas Bonanni: las 2 usan el publican en el agente en el agente, y el agente, y
+
+886
+02:34:46.530 --> 02:34:57.799
+Lucas Bonanni: termina publicando en el datado y acá ustedes la documentación, tienen el paso a paso de cómo integrarlo. Según el lenguaje que que ustedes vayan utilizando.
+
+887
+02:34:58.210 --> 02:35:01.309
+Lucas Bonanni: Vamos a ver si hay alguno por acá. Para ver.
+
+888
+02:35:15.160 --> 02:35:20.550
+Lucas Bonanni: Bueno, acá. Te manda seguramente a la D o venderle ametría.
+
+889
+02:35:21.470 --> 02:35:28.259
+Lucas Bonanni: Entonces, bueno, acá. Tenemos si queremos implementar por Open Tele, tenemos no cada una de el lenguaje
+
+890
+02:35:29.310 --> 02:35:32.499
+Lucas Bonanni: que vamos a utilizar, el que tenemos en el proyecto
+
+891
+02:35:34.710 --> 02:35:42.689
+Lucas Bonanni: y nos va a apuntar a cada una de las librerías que nosotros tenemos para implementar cada una de las cosas.
+
+892
+02:35:44.290 --> 02:35:51.650
+Lucas Bonanni: Y acá nosotros tenemos el lenguaje. Vamos a ver a ver punto. Net.
+
+893
+02:35:57.570 --> 02:35:58.900
+Lucas Bonanni: instrumentación.
+
+894
+02:36:01.210 --> 02:36:06.479
+Lucas Bonanni: Acá. Nos dice todo exactamente qué es esto. Nos da una clase de ejemplo.
+
+895
+02:36:09.220 --> 02:36:12.070
+Lucas Bonanni: Nos dice cómo crear un controlador.
+
+896
+02:36:15.890 --> 02:36:19.640
+Lucas Bonanni: La application Builder que se yo a ver qué más.
+
+897
+02:36:20.600 --> 02:36:24.299
+Lucas Bonanni: Acá. Cómo inicializar el S. D, K. Entonces tenemos
+
+898
+02:36:24.550 --> 02:36:28.479
+Lucas Bonanni: y que inicializar el S. D. K, Acá Creo que te dice
+
+899
+02:36:28.860 --> 02:36:32.959
+Lucas Bonanni: en el en el program C, S, que es donde se configura todo.
+
+900
+02:36:35.540 --> 02:36:48.960
+Lucas Bonanni: Entonces creamos, Agregamos la librería de en este caso de Opentelemetry configuramos los recursos. Le ponemos el servisname el service version que está definido Acá arriba
+
+901
+02:36:49.890 --> 02:36:57.620
+Lucas Bonanni: para las trazas también. No les pasamos las etiquetas que corresponden, el Servisnay
+
+902
+02:36:59.100 --> 02:37:01.130
+Lucas Bonanni: y lo mismo para las métricas.
+
+903
+02:37:05.300 --> 02:37:10.129
+Lucas Bonanni: Acá lo que hacemos es, construimos un la parte de logs.
+
+904
+02:37:13.930 --> 02:37:19.089
+Lucas Bonanni: Y bueno, esto básicamente después acá es cuando esta partitura es la el estándar de
+
+905
+02:37:19.270 --> 02:37:26.250
+Lucas Bonanni: punto Net, donde ya hacemos. Agregamos los controles. Hacemos el Bill y
+
+906
+02:37:26.980 --> 02:37:30.099
+Lucas Bonanni: mapeamos los controles y ejecutamos la aplicación.
+
+907
+02:37:30.970 --> 02:37:33.760
+Lucas Bonanni: pero ustedes están en la Di y
+
+908
+02:37:34.830 --> 02:37:37.889
+Lucas Bonanni: digamos la documentación que ustedes tienen que seguir
+
+909
+02:37:38.190 --> 02:37:40.689
+Lucas Bonanni: para poder implementarlo en cada 1
+
+910
+02:37:41.900 --> 02:37:45.969
+Lucas Bonanni: después. Si ustedes van a New Relly
+
+911
+02:37:54.540 --> 02:37:59.130
+Lucas Bonanni: New Relick les va guiando.
+
+912
+02:38:08.960 --> 02:38:11.210
+Lucas Bonanni: Ustedes se crean la cuenta.
+
+913
+02:38:11.620 --> 02:38:13.749
+Lucas Bonanni: Vamos a empezar por esa parte.
+
+914
+02:38:32.350 --> 02:38:37.619
+Lucas Bonanni: Entonces acá. Lo que hacemos es, venimos acá a agregar integraciones y agentes.
+
+915
+02:38:41.100 --> 02:38:49.000
+Lucas Bonanni: Y bueno, acá nos va diciendo no, ¿Cuál es la aplicación que vamos a utilizar. ¿cómo será Php Java? Punto. Net
+
+916
+02:38:50.300 --> 02:38:58.489
+Lucas Bonanni: Python: Sí, entonces nosotros elegimos la que queremos y nos va a decir, bueno, ¿cómo lo vamos a utilizar
+
+917
+02:38:59.950 --> 02:39:06.140
+Lucas Bonanni: en Docker en host en una máquina en cubernetes.
+
+918
+02:39:06.410 --> 02:39:14.130
+Lucas Bonanni: Bueno, no. En este caso nos conviene ir a ver qué caso
+
+919
+02:39:16.770 --> 02:39:24.310
+Lucas Bonanni: ahí por la Landa, verdad que nos pone. Bueno, acá nos va a dar que creamos la aquí y la aquí, y después nos va a dar el código.
+
+920
+02:39:30.380 --> 02:39:34.360
+Lucas Bonanni: Sale el Framework Urell Clin.
+
+921
+02:39:38.980 --> 02:39:50.040
+Lucas Bonanni: Bueno, acá. Nos da diferentes opciones, y nosotros, en este caso, vamos a usar una landa en este caso, porque le vamos a poner, que es contenerizada, que es lo que se parece a lo nuestro no
+
+922
+02:39:53.910 --> 02:39:55.790
+Lucas Bonanni: landa layer.
+
+923
+02:40:00.660 --> 02:40:06.799
+Lucas Bonanni: Esto cambia un poquito porque estoy usando una ley. Ahora vamos a buscar otro ejemplo. Vamos a ir por.
+
+924
+02:40:07.630 --> 02:40:10.330
+Lucas Bonanni: me voy a ir por no, que es la que hizo la otra vez.
+
+925
+02:40:10.800 --> 02:40:17.180
+Lucas Bonanni: Le vamos a poner que sea el docker uy por ahí que Ñu
+
+926
+02:40:19.720 --> 02:40:22.670
+Lucas Bonanni: y acá nos va diciendo, él nos dice, bueno.
+
+927
+02:40:22.820 --> 02:40:29.140
+Lucas Bonanni: tienes que usar en el Package Json. Poner New Rally laters requea New Rellyc
+
+928
+02:40:29.390 --> 02:40:35.750
+Lucas Bonanni: definir un un environ en la variable de Environment No config file en true
+
+929
+02:40:36.280 --> 02:40:42.340
+Lucas Bonanni: y ponerle, bueno, como queremos loguear todo por variables de entorno.
+
+930
+02:40:43.160 --> 02:40:45.559
+Lucas Bonanni: Hacemos el Bill de la imagen
+
+931
+02:40:46.530 --> 02:40:50.699
+Lucas Bonanni: y acá por variable entorno. También le establecemos el
+
+932
+02:40:50.820 --> 02:40:55.950
+Lucas Bonanni: la aquí seguramente que si lo hacemos en Python, lo mismo va a ser lo mismo.
+
+933
+02:40:59.470 --> 02:41:06.170
+Lucas Bonanni: Tendría que haber elegido la de Docker, el web up hueva.
+
+934
+02:41:09.300 --> 02:41:18.180
+Lucas Bonanni: entonces acá también nos da New The Rally Docker. Fil también instalamos la librería.
+
+935
+02:41:18.450 --> 02:41:21.750
+Lucas Bonanni: Le agregamos en recuremens.
+
+936
+02:41:23.460 --> 02:41:30.350
+Lucas Bonanni: Bueno, acá, nos da para crear new reality ini. Todo esto depende un poquito de
+
+937
+02:41:30.660 --> 02:41:36.129
+Lucas Bonanni: de la librería del lenguaje no va a variar. Va como ven, va a variar.
+
+938
+02:41:36.990 --> 02:41:43.129
+Lucas Bonanni: Y acá. Greñó ahí. ¿qué cambio?
+
+939
+02:41:45.760 --> 02:41:47.280
+Lucas Bonanni: Bueno, se acabó
+
+940
+02:42:02.250 --> 02:42:06.230
+Lucas Bonanni: bien. Acá. Lo que creo es
+
+941
+02:42:08.190 --> 02:42:18.800
+Lucas Bonanni: claro. Para agregar en el New Reality Inning tengo que agregar estos datos. El nombre de la App no le pongan test Pónganle la como le quieran llamar a la App para identificarla
+
+942
+02:42:18.980 --> 02:42:24.990
+Lucas Bonanni: y un chase Api, por ejemplo.
+
+943
+02:42:27.090 --> 02:42:30.769
+Lucas Bonanni: y acá el Framework, que vamos a utilizar en este caso.
+
+944
+02:42:30.980 --> 02:42:36.109
+Lucas Bonanni: Py. C, P. I, Dyango. Bueno, lo que queremos usar para nuestro
+
+945
+02:42:36.780 --> 02:42:40.970
+Lucas Bonanni: y nos va a dar? Bueno, ¿cómo ¿Cómo lo implementamos? ¿no?
+
+946
+02:42:48.830 --> 02:43:08.410
+Lucas Bonanni: Bueno, acá porque hay un servidor que esto. Bueno, como como se van a procesar las llamadas dentro del toque el compost. Pero bueno, esto, si si van a usar Python: bueno, elijan el servidor que va a procesar las llamadas y es ubicon, Pero si van a usar note esto, olvídense o si van a utilizar otro lenguaje.
+
+947
+02:43:08.980 --> 02:43:15.790
+Lucas Bonanni: pero básicamente, ustedes, siguiendo la documentación, lo pueden hacer. La integración.
+
+948
+02:43:16.060 --> 02:43:19.290
+Lucas Bonanni: Señor Rali, como ves, le deshace el
+
+949
+02:43:20.000 --> 02:43:26.580
+Lucas Bonanni: el paso a paso les da un como si fuera
+
+950
+02:43:28.060 --> 02:43:33.339
+Lucas Bonanni: wizard, Sí, de paso a paso que 1 lo va siguiendo y lo pueden ir configurando
+
+951
+02:43:33.630 --> 02:43:39.610
+Lucas Bonanni: a 1. Quiere ver algún lenguaje en particular, quiere que hagamos el recorrido por un lenguaje en paz.
+
+952
+02:43:40.500 --> 02:43:41.940
+Lucas Bonanni: en particular.
+
+953
+02:43:45.770 --> 02:43:49.549
+LUCAS RAMOS: Si es por mí con con Java, que es lo que estoy trabajando.
+
+954
+02:43:50.800 --> 02:43:53.679
+Lucas Bonanni: Vale, vamos. Vamos a ver cómo sería con Java.
+
+955
+02:43:54.320 --> 02:44:01.740
+Lucas Bonanni: Bien, vos tenés la bas la integración a ver cómo te pide integración sensible Docker.
+
+956
+02:44:02.320 --> 02:44:04.559
+Lucas Bonanni: ¿qué estás usando Mayben o Greyder.
+
+957
+02:44:04.560 --> 02:44:11.290
+LUCAS RAMOS: Estoy usando medio. Estoy justamente lo inicialicé con spring y viene con comedor por defecto.
+
+958
+02:44:11.980 --> 02:44:13.660
+Lucas Bonanni: Claro. Vamos a ver
+
+959
+02:44:14.100 --> 02:44:21.790
+Lucas Bonanni: a ver si vamos por ahí, porque si no la alternativa a esto, como ven, va a ser, o vamos por Myben? O vamos por dockers
+
+960
+02:44:25.390 --> 02:44:28.860
+Lucas Bonanni: a ver qué ño y le damos premio.
+
+961
+02:44:29.220 --> 02:44:39.269
+Lucas Bonanni: No la vamos a copiar, porque Bueno, estas son las de mi cuenta. Esto tendría que hacerla. Después. Tela Sabaujor application Corre en Linux porque va a correr en contenedor, Me imagino.
+
+962
+02:44:40.420 --> 02:44:41.430
+LUCAS RAMOS: ¿correcto?
+
+963
+02:44:44.310 --> 02:44:54.430
+Lucas Bonanni: Entonces nos da esto que Bueno que tengamos que tener Java, instalado dentro del Docker, que supongo que sí, porque va a ser 1 de.
+
+964
+02:44:54.940 --> 02:44:58.440
+Lucas Bonanni: Y esto que hice, choice yo al Framework.
+
+965
+02:44:58.870 --> 02:45:01.539
+Lucas Bonanni: Habíamos dicho Springbook.
+
+966
+02:45:01.970 --> 02:45:03.020
+LUCAS RAMOS: Justamente.
+
+967
+02:45:05.630 --> 02:45:11.450
+Lucas Bonanni: Bueno, acá nos dice cómo agregar la dependencia de Java a mail
+
+968
+02:45:14.950 --> 02:45:16.699
+Lucas Bonanni: en en el P. O M
+
+969
+02:45:25.640 --> 02:45:32.130
+Lucas Bonanni: y en bien. Pomex samper.
+
+970
+02:45:32.630 --> 02:45:38.229
+Lucas Bonanni: También. Bueno, nos pide, nos ti, nos tira todo el pomo completo.
+
+971
+02:45:39.360 --> 02:45:46.909
+Lucas Bonanni: Está el nombre de lápiz que le vamos a poner ustedes pongan el lo que ustedes quieran, No, Yo le voy a poner puches.
+
+972
+02:45:47.950 --> 02:45:50.160
+Lucas Bonanni: Mhm a ti.
+
+973
+02:46:05.850 --> 02:46:13.009
+Lucas Bonanni: y después, bueno, tenemos que definir. Nos pide definir un New Rally Jammel.
+
+974
+02:46:13.360 --> 02:46:18.160
+Lucas Bonanni: donde tenemos, definimos la licen. Q. Me imagino que ahí va a leer todo.
+
+975
+02:46:19.190 --> 02:46:31.549
+Lucas Bonanni: Y Bueno, todas estas variables. No, esto es copiarlo o descargarlo y ponerlo ahí donde nos dice: no en este directorio. Y listo, No, no
+
+976
+02:46:32.700 --> 02:46:36.270
+Lucas Bonanni: después lo revisamos, por lo menos para la primera configuración.
+
+977
+02:46:39.910 --> 02:46:43.450
+Lucas Bonanni: Agregamos, dice agregarle el agente de Java.
+
+978
+02:46:44.080 --> 02:46:46.150
+Lucas Bonanni: Hay que ejecutar este comando
+
+979
+02:46:52.090 --> 02:46:56.070
+Lucas Bonanni: y una vez que tienes eso funcionando.
+
+980
+02:46:58.300 --> 02:47:03.279
+Lucas Bonanni: Te pide hacer esto para conectar esas métricas
+
+981
+02:47:04.480 --> 02:47:07.970
+Lucas Bonanni: que directamente le está pegando a un script de
+
+982
+02:47:12.200 --> 02:47:15.450
+Lucas Bonanni: en New Rally a ver si vamos
+
+983
+02:47:19.920 --> 02:47:22.570
+Lucas Bonanni: esto, no esto saltear
+
+984
+02:47:22.820 --> 02:47:41.640
+Lucas Bonanni: listo a ver. Bueno, ahí al final nos da siempre la opción de testear la conexión. Si nosotros ya tenemos la la api corriendo en docker, acá podemos testear la conexión. Y otra cosa que por experiencia pasa es que si a veces testean la conexión y no da vayan al dashboard
+
+985
+02:47:41.860 --> 02:47:49.290
+Lucas Bonanni: Y y fíjense ahí porque a veces el siempre les da como que no conecta como que no conecta. Y finalmente, está conectando.
+
+986
+02:47:51.470 --> 02:47:55.709
+Lucas Bonanni: Vamos a ir por dockers para ver la la diferencia, a ver cómo lo hace.
+
+987
+02:47:55.960 --> 02:48:00.880
+Lucas Bonanni: Sí, vamos a hacer queño?
+
+988
+02:48:03.990 --> 02:48:16.330
+Lucas Bonanni: ¿no? Windows: Bueno, más o menos lo mismo. Descargo usado, Sí, un Charge nos da igual.
+
+989
+02:48:19.030 --> 02:48:25.690
+Lucas Bonanni: Básicamente agrega esto al Docker, al a estas líneas, al Docker File.
+
+990
+02:48:33.820 --> 02:48:35.720
+Lucas Bonanni: y acá actualiza
+
+991
+02:48:36.000 --> 02:48:42.580
+Lucas Bonanni: al entreet Point de la Application. Pero Bueno, esto hay que ver cómo cómo definirse el Docker fil
+
+992
+02:48:46.240 --> 02:48:47.620
+Lucas Bonanni: el Jamel
+
+993
+02:49:02.430 --> 02:49:08.769
+Lucas Bonanni: Okay. Bueno, Rum de container a ver Skip: Bueno.
+
+994
+02:49:08.870 --> 02:49:12.940
+Lucas Bonanni: y ahí de testear la con la conexión Okay?
+
+995
+02:49:13.090 --> 02:49:20.230
+Lucas Bonanni: Bueno, hay que verlo por cada 1. Yo, con Do con Java, Todavía no lo hice. Yo lo hice con Node y con Python.
+
+996
+02:49:20.810 --> 02:49:25.219
+Lucas Bonanni: pero tendría que hacerlo con Java, a ver que a ver cómo es
+
+997
+02:49:25.470 --> 02:49:28.210
+Lucas Bonanni: igual cualquier cosa. Como siempre le digo.
+
+998
+02:49:28.330 --> 02:49:39.680
+Lucas Bonanni: me avisan por Slack, y lo vemos. Y inclusive si tengo tiempo, nos conectamos y lo revisamos, y no, si no conecta, prefiero eso y que no se trabe.
+
+999
+02:49:43.120 --> 02:49:44.130
+LUCAS RAMOS: Por ser.
+
+1000
+02:49:49.290 --> 02:49:55.770
+Lucas Bonanni: ¿tienes alguna duda más a ver? ¿quieren revisar.
+
+1001
+02:49:58.220 --> 02:49:59.450
+FACUNDO SAFE: No profe.
+
+1002
+02:50:00.700 --> 02:50:01.690
+CRISTIAN QUEIROLO DOMINGUEZ: No por acá.
+
+1003
+02:50:02.970 --> 02:50:03.710
+Lucas Bonanni: Bueno.
+
+1004
+02:50:03.710 --> 02:50:09.639
+JOANA ZARATE: Perdón Profe. Después de New Releak venía lo de render. Eso se hacía o era opcional.
+
+1005
+02:50:11.550 --> 02:50:18.099
+Lucas Bonanni: No, eso se se hace lo de render. Creo que lo vimos. Lo mostré yo.
+
+1006
+02:50:18.660 --> 02:50:20.149
+Lucas Bonanni: Si no lo muestro de vuelta
+
+1007
+02:50:25.760 --> 02:50:27.830
+Lucas Bonanni: la randar en
+
+1008
+02:50:29.480 --> 02:50:43.769
+Lucas Bonanni: lo de render no es opcional. El deploy a otro lado, o sea, siempre lo que no hagan, le va a restar puntos, ¿no? O sea, siempre todos suma un punto y lo que no dejan de hacer o lo que no lleguen va
+
+1009
+02:50:44.020 --> 02:50:47.269
+Lucas Bonanni: no va a restar, pero no llegan a ese punto, básicamente
+
+1010
+02:50:47.370 --> 02:50:54.810
+Lucas Bonanni: no lo llegan a completar. Entonces digamos es opcional, porque no.
+
+1011
+02:50:55.450 --> 02:50:57.610
+Lucas Bonanni: no es lo mínimo para probar? ¿no?
+
+1012
+02:50:58.470 --> 02:51:10.920
+Lucas Bonanni: Pero háganlo, Hagan lo que que que está bueno no es tan difícil, tampoco. Lo que sí tienen que tener en cuenta que para cuando hacen el deploy, lo que hacen es básica.
+
+1013
+02:51:11.260 --> 02:51:13.629
+Lucas Bonanni: ¿se van a render.
+
+1014
+02:51:14.970 --> 02:51:16.390
+Lucas Bonanni: Sí, yo creo que lo expliqué.
+
+1015
+02:51:16.680 --> 02:51:20.039
+Lucas Bonanni: Van a Renders, crean la cuenta o se loguean.
+
+1016
+02:51:25.130 --> 02:51:26.610
+Lucas Bonanni: Estaba tomando sueldo.
+
+1017
+02:51:30.300 --> 02:51:40.600
+Lucas Bonanni: acá para que me conecté con Hit Hob: Bueno, y yo tengo un código.
+
+1018
+02:51:41.120 --> 02:51:43.190
+Lucas Bonanni: ustedes se crean la cuenta.
+
+1019
+02:51:47.020 --> 02:51:49.249
+Lucas Bonanni: Déjame que busco. Acá
+
+1020
+02:52:14.950 --> 02:52:18.580
+Lucas Bonanni: Ahora tengo Chaus.
+
+1021
+02:52:22.270 --> 02:52:26.340
+Lucas Bonanni: Y lo que hacen es dar de alta un nuevo servicio
+
+1022
+02:52:27.660 --> 02:52:31.360
+Lucas Bonanni: acá le pone un web. Service.
+
+1023
+02:52:33.990 --> 02:52:40.030
+Lucas Bonanni: No usan. Ha T. Usan una imagen existente.
+
+1024
+02:52:41.230 --> 02:52:45.569
+Lucas Bonanni: No usan credenciales, acá le ponen registry que
+
+1025
+02:52:46.850 --> 02:53:02.769
+Lucas Bonanni: que ustedes tienen en el caso mío, sería Docker. Punto. Io Lovery userva los services de de box. Creo.
+
+1026
+02:53:03.640 --> 02:53:06.820
+Lucas Bonanni: No, como sabes.
+
+1027
+02:53:08.660 --> 02:53:11.749
+JOANA ZARATE: Creo que porque dice oper User.
+
+1028
+02:53:12.560 --> 02:53:13.520
+Lucas Bonanni: Adéu
+
+1029
+02:53:17.470 --> 02:53:20.150
+Lucas Bonanni: Developer. No lo veo.
+
+1030
+02:53:20.640 --> 02:53:24.640
+Lucas Bonanni: No era Docker, de verdad que
+
+1031
+02:53:32.490 --> 02:53:33.389
+Lucas Bonanni: o algo así?
+
+1032
+02:53:40.000 --> 02:53:42.809
+Lucas Bonanni: de ver lo peor de todo claro el caso.
+
+1033
+02:53:45.750 --> 02:53:46.610
+Lucas Bonanni: Siempre.
+
+1034
+02:54:05.840 --> 02:54:08.490
+Lucas Bonanni: si no vienen, acá, van a dejar
+
+1035
+02:54:09.840 --> 02:54:14.340
+Lucas Bonanni: cambié la página. Antes me aparecían mis imágenes.
+
+1036
+02:54:29.740 --> 02:54:31.340
+Lucas Bonanni: Y
+
+1037
+02:54:35.240 --> 02:54:42.960
+Lucas Bonanni: bueno, pues vale, está. Bueno, acá. Está user service.
+
+1038
+02:54:43.320 --> 02:54:52.070
+Lucas Bonanni: Bueno, soy que le puse ahí esos services. Entonces es es este en mi caso.
+
+1039
+02:54:57.100 --> 02:54:57.810
+Lucas Bonanni: Mhm.
+
+1040
+02:55:15.170 --> 02:55:17.559
+Lucas Bonanni: ay, creo que lo menotón. Gol
+
+1041
+02:55:27.270 --> 02:55:28.689
+Lucas Bonanni: ¿Cómo quieres tomar todo esto?
+
+1042
+02:55:34.860 --> 02:55:36.250
+Lucas Bonanni: Yo quería tener comando.
+
+1043
+02:55:39.220 --> 02:55:41.220
+Lucas Bonanni: Ahí está ahí. Se ve todo.
+
+1044
+02:55:45.400 --> 02:55:48.130
+Lucas Bonanni: Bueno, acá.
+
+1045
+02:55:48.300 --> 02:55:51.239
+Lucas Bonanni: El el free.
+
+1046
+02:55:58.970 --> 02:56:06.540
+Lucas Bonanni: No hace falta crear un proyecto. Acá. Pueden agregar las variables de entorno. Y después acá en
+
+1047
+02:56:06.960 --> 02:56:12.289
+Lucas Bonanni: acá van a tener, No, acá todavía no se los dan.
+
+1048
+02:56:13.850 --> 02:56:23.030
+Lucas Bonanni: Bueno, y acá básicamente le Dan Deplay Service la primera vez después, una vez que lo tienen creado, yo no lo voy a volver a crear, pero
+
+1049
+02:56:24.080 --> 02:56:26.970
+Lucas Bonanni: vamos al al ser el que tenía antes
+
+1050
+02:56:40.640 --> 02:56:47.750
+Lucas Bonanni: acá después. Lo que tienen que usar dentro de esto es settings
+
+1051
+02:56:51.260 --> 02:56:52.540
+Lucas Bonanni: deployd.
+
+1052
+02:56:52.740 --> 02:56:59.990
+Lucas Bonanni: y acá van a tener el deploy hook si este es el que tienen que utilizar poner como una variable de entorno
+
+1053
+02:57:00.500 --> 02:57:11.150
+Lucas Bonanni: para hacer la parte del deploy en el Githup Action. Entonces cuando van al repo acá
+
+1054
+02:57:12.440 --> 02:57:16.789
+Lucas Bonanni: y hacen el deploy a render que yo tengo el push.
+
+1055
+02:57:23.260 --> 02:57:29.829
+Lucas Bonanni: Creo que no tengo la parte de el eje en el ejemplo, no incluir la del deploy render. Pero
+
+1056
+02:57:30.810 --> 02:57:37.910
+Lucas Bonanni: si ustedes van a la docu, lo van a tener
+
+1057
+02:57:59.810 --> 02:58:10.970
+Lucas Bonanni: y en manual de plois, tiene que configurar el deplay manual.
+
+1058
+02:58:17.760 --> 02:58:23.910
+Lucas Bonanni: Bueno, ahí va a correr. Esto no es necesario porque en realidad lo que van a desplosar es la imagen
+
+1059
+02:58:27.870 --> 02:58:32.600
+Lucas Bonanni: y tiene que estar acá como configurar.
+
+1060
+02:58:36.930 --> 02:58:41.649
+Lucas Bonanni: acá está la parte del deploy hook, que era lo que les mencionaba
+
+1061
+02:58:44.240 --> 02:59:00.000
+Lucas Bonanni: para deployar una imagen de registro, que es lo que vamos a hacer nosotros, que lo que le vamos a dar es que acá le vamos a poner el deploy hook y le vamos a decir la imagen del servicio que vamos a deployar, porque nosotros le tenemos que pasar la etiqueta
+
+1062
+02:59:00.690 --> 02:59:07.090
+Lucas Bonanni: al momento que vamos a que estamos buildeando. ¿sí? Y esta es la etiqueta que se les pasa
+
+1063
+02:59:08.420 --> 02:59:17.230
+Lucas Bonanni: Enginex, por ejemplo. Acá. Les muestra el ejemplo Enginex, y la versión este porcentaje. Cuatro son los 2 puntos.
+
+1064
+02:59:17.370 --> 02:59:23.299
+Lucas Bonanni: Y acá le pasamos la versión de la etiqueta que nosotros estamos desarrollando. En mi caso, la etiqueta
+
+1065
+02:59:23.790 --> 02:59:29.090
+Lucas Bonanni: para que ustedes se den cuenta la etiqueta. Es esta, en mi caso, que es
+
+1066
+02:59:29.310 --> 02:59:34.349
+Lucas Bonanni: que, según en lo que genero en el I a Mail. Es esta la etiqueta?
+
+1067
+02:59:42.860 --> 02:59:48.470
+Lucas Bonanni: Entonces acá es donde le decía dentro del hit cap action, declaran la
+
+1068
+02:59:48.600 --> 02:59:50.980
+Lucas Bonanni: el ju como una u R. L,
+
+1069
+02:59:51.490 --> 02:59:56.349
+Lucas Bonanni: Y acá les dice cómo definir el hith action, que es lo que tiene que tener.
+
+1070
+02:59:56.860 --> 03:00:10.769
+Lucas Bonanni: Y cómo hacen el deploy u R, L, y hacen el culo a la Url. Acá Si tienen el play u R. L, acá recuerden de que tienen que agregar el signo de interrogación y lo que vimos arriba, que era lo de la imagen. No.
+
+1071
+03:00:11.360 --> 03:00:15.980
+Lucas Bonanni: Esto me tienen que agregar este este cachito al final ahí abajo.
+
+1072
+03:00:17.900 --> 03:00:26.869
+Lucas Bonanni: Acá Y con eso les va a quedar, le tienen que pasar la variable, ese del hash
+
+1073
+03:00:27.340 --> 03:00:30.689
+Lucas Bonanni: que tengo construida, acá
+
+1074
+03:00:32.930 --> 03:00:38.739
+Lucas Bonanni: pero bueno, cualquier cosa lo intentan de hacer. Y y lo realizamos. La clase que viene.
+
+1075
+03:00:43.300 --> 03:00:44.689
+JOANA ZARATE: Genial. Profe: Gracias.
+
+1076
+03:00:45.580 --> 03:00:52.109
+Lucas Bonanni: Así que, pero básicamente son esos pasos, por lo menos créense la cuenta de de render.
+
+1077
+03:00:52.630 --> 03:01:10.049
+Lucas Bonanni: Vayan configurando el Gith Java Action, que ya lo deberían más o menos por lo menos no el de Ployd. Pero los checks. Y todo esto lo deberían tener, vayan haciendo, publicando la imagen a Docker Hub, haciéndose el login con esta parte
+
+1078
+03:01:10.840 --> 03:01:13.229
+Lucas Bonanni: y después publicando la imagen
+
+1079
+03:01:13.750 --> 03:01:23.870
+Lucas Bonanni: y vayan configurando la parte de publicar, arrendar. Y lo Y lo vamos viendo cual cosa, Como siempre, me preguntan si me tiran el llamal por
+
+1080
+03:01:24.360 --> 03:01:29.649
+Lucas Bonanni: por ahí por slack o algo. Yo los reviso y le digo que le falta o dónde puede estar el problema.
+
+1081
+03:01:31.480 --> 03:01:34.390
+FACUNDO SAFE: Dale profe buena semana. Buen Finde. Vamos.
+
+1082
+03:01:35.240 --> 03:01:37.420
+Lucas Bonanni: Buen fin de.
+
+1083
+03:01:37.420 --> 03:01:38.690
+JOANA ZARATE: Gracias.
+
+1084
+03:01:38.690 --> 03:01:40.120
+JUAN GUZZARDI: En fin de profe chocho.
+
+1085
+03:01:40.850 --> 03:01:41.810
+Lucas Bonanni: Chao, chao.
+
+
