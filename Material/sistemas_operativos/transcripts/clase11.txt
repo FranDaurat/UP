@@ -1,0 +1,4047 @@
+WEBVTT
+
+1
+00:00:36.250 --> 00:00:37.080
+TOBÍAS WIRTH: La.
+
+2
+00:00:37.680 --> 00:00:39.170
+Arroyo Arzubi Carlos A.: Hola, Hola.
+
+3
+00:00:39.170 --> 00:00:40.349
+FRANCISCO DAURAT: Profe. ¿qué tal.
+
+4
+00:00:41.040 --> 00:00:41.900
+TOBÍAS WIRTH: Todo bien.
+
+5
+00:00:41.900 --> 00:00:43.110
+JHARID GARCIA ESCALERA: La profe o menos.
+
+6
+00:00:43.570 --> 00:00:44.350
+Arroyo Arzubi Carlos A.: Hola.
+
+7
+00:01:10.530 --> 00:01:12.400
+LUCAS BONAFFINI: Hola, buenas tardes. Profe.
+
+8
+00:01:12.400 --> 00:01:13.679
+Arroyo Arzubi Carlos A.: Hola, ¿Qué tal.
+
+9
+00:01:14.120 --> 00:01:15.170
+LUCAS BONAFFINI: Vamos a.
+
+10
+00:01:15.170 --> 00:01:16.560
+MATIAS BASILICO: Profe.
+
+11
+00:01:16.560 --> 00:01:17.740
+Arroyo Arzubi Carlos A.: Bien. Bien. Gracias.
+
+12
+00:01:17.740 --> 00:01:18.510
+JOAQUÍN MULEIRO BELTRAN: Buenas.
+
+13
+00:01:46.890 --> 00:01:57.960
+Arroyo Arzubi Carlos A.: Bueno, vamos a empezar porque tenemos una clase un poquito más corta porque tenemos el el parcialito y
+
+14
+00:01:59.510 --> 00:02:05.820
+Arroyo Arzubi Carlos A.: la clase de hoy este. Vamos a hacer, bueno, una revisión de la clase anterior, como hacemos siempre.
+
+15
+00:02:06.010 --> 00:02:11.390
+Arroyo Arzubi Carlos A.: Luego vamos a ver la unidad 9, que es administración de archivos.
+
+16
+00:02:12.160 --> 00:02:13.000
+Arroyo Arzubi Carlos A.: ¿
+
+17
+00:02:13.370 --> 00:02:17.670
+Arroyo Arzubi Carlos A.: Es una unidad sencilla. No presenta
+
+18
+00:02:18.450 --> 00:02:23.139
+Arroyo Arzubi Carlos A.: mayores problemas. Son temas que ustedes poco más poco menos
+
+19
+00:02:23.530 --> 00:02:31.790
+Arroyo Arzubi Carlos A.: han ido viendo a lo largo de de sus estudios en los distintos niveles, obviamente.
+
+20
+00:02:32.110 --> 00:02:35.270
+Arroyo Arzubi Carlos A.: Bueno, luego van a hacer el segundo parcialito.
+
+21
+00:02:36.410 --> 00:02:39.999
+Arroyo Arzubi Carlos A.: la clase que viene, es decir, entre una semana
+
+22
+00:02:40.720 --> 00:02:42.770
+Arroyo Arzubi Carlos A.: vamos a ver la unidad 10,
+
+23
+00:02:43.060 --> 00:02:46.590
+Arroyo Arzubi Carlos A.: que es introducción a los sistemas distribuidos.
+
+24
+00:02:47.750 --> 00:02:56.720
+Arroyo Arzubi Carlos A.: que es una introducción con lo cual es una unidad corta, donde hago hincapié en algunos temas
+
+25
+00:02:57.260 --> 00:03:06.240
+Arroyo Arzubi Carlos A.: conceptuales de de alto nivel, digamos, en un nivel de abstracción elevado, porque esta unidad la van a ver
+
+26
+00:03:06.540 --> 00:03:14.549
+Arroyo Arzubi Carlos A.: con mucho detalle en otras materias. Simplemente es es una introducción que yo he mantenido
+
+27
+00:03:14.760 --> 00:03:26.909
+Arroyo Arzubi Carlos A.: a lo largo del tiempo como consecuencia de que me han aconsejado algunos alumnos que les ha venido bien, entonces lo he mantenido y la clase que Entonces, dentro de una semana
+
+28
+00:03:27.240 --> 00:03:29.280
+Arroyo Arzubi Carlos A.: vamos a ver la unidad 10
+
+29
+00:03:29.860 --> 00:03:41.690
+Arroyo Arzubi Carlos A.: y vamos a hacer un repaso, o planteo de dudas cuestiones de todo tipo relacionados con
+
+30
+00:03:42.240 --> 00:03:48.230
+Arroyo Arzubi Carlos A.: el segundo parcial, que es dentro de 15 días y que, obviamente hay que tratar de no fallar ahí.
+
+31
+00:03:49.070 --> 00:03:51.030
+Arroyo Arzubi Carlos A.: El segundo parcial
+
+32
+00:03:51.420 --> 00:04:00.099
+Arroyo Arzubi Carlos A.: va a incluir las unidades de las 6 a la 10, inclusive, es decir, que lo que veamos hoy y lo que veamos, la clase que viene
+
+33
+00:04:00.210 --> 00:04:05.470
+Arroyo Arzubi Carlos A.: también van a entrar en el parcial, así que
+
+34
+00:04:06.110 --> 00:04:10.999
+Arroyo Arzubi Carlos A.: tengan presente la clase que viene aquellas dudas
+
+35
+00:04:11.140 --> 00:04:20.520
+Arroyo Arzubi Carlos A.: de los temas, especialmente apuntando a estas unidades de la C y a la 10 que les hayan quedado
+
+36
+00:04:20.670 --> 00:04:28.029
+Arroyo Arzubi Carlos A.: cuan en la preparación de ustedes. Bueno, va a ser un momento de evacuar dudas, plantear temas y lo que sea
+
+37
+00:04:29.270 --> 00:04:38.820
+Arroyo Arzubi Carlos A.: bueno hoy, pronto, a ver algún ejercicio más lo que sea Bueno, dicho esto, vamos a hacer el repaso
+
+38
+00:04:39.070 --> 00:04:45.300
+Arroyo Arzubi Carlos A.: de la clase pasada que vimos administración de dispositivos de entrada o salida.
+
+39
+00:04:45.800 --> 00:04:51.640
+Arroyo Arzubi Carlos A.: para lo cual ya teníamos comprometido a pie Montezi. Está por ahí.
+
+40
+00:04:52.110 --> 00:04:53.159
+Arroyo Arzubi Carlos A.: Ahí está.
+
+41
+00:04:53.960 --> 00:04:55.050
+DANTE PIEMONTESI: Sí.
+
+42
+00:04:55.670 --> 00:04:59.000
+Arroyo Arzubi Carlos A.: Sales mateo también.
+
+43
+00:05:02.090 --> 00:05:03.580
+Arroyo Arzubi Carlos A.: Chalet mateo.
+
+44
+00:05:24.670 --> 00:05:25.540
+Arroyo Arzubi Carlos A.: Bueno.
+
+45
+00:05:36.040 --> 00:05:40.380
+Arroyo Arzubi Carlos A.: también. Entonces va a acompañar a pie Montezi.
+
+46
+00:05:42.110 --> 00:05:44.550
+Arroyo Arzubi Carlos A.: Tenemos a orlandini.
+
+47
+00:05:45.630 --> 00:05:46.830
+Arroyo Arzubi Carlos A.: ¿dónde está
+
+48
+00:05:50.120 --> 00:05:56.250
+Arroyo Arzubi Carlos A.: orlandini? Acompañamos acá. Entonces ya repitiendo.
+
+49
+00:05:58.090 --> 00:06:00.910
+Arroyo Arzubi Carlos A.: Mhm y
+
+50
+00:06:07.540 --> 00:06:09.600
+Arroyo Arzubi Carlos A.: ledesma castillo
+
+51
+00:06:29.140 --> 00:06:33.890
+Arroyo Arzubi Carlos A.: ledesma, castillo. Está
+
+52
+00:07:06.250 --> 00:07:07.589
+Arroyo Arzubi Carlos A.: Gómez Dean.
+
+53
+00:07:07.950 --> 00:07:08.880
+Arroyo Arzubi Carlos A.: Está
+
+54
+00:07:38.190 --> 00:07:40.430
+Arroyo Arzubi Carlos A.: Camelletti, Mateo.
+
+55
+00:07:42.630 --> 00:07:44.760
+Mateo Camilletti: Si estuvo enfermo, no me puede poner al día.
+
+56
+00:07:45.100 --> 00:07:45.990
+Arroyo Arzubi Carlos A.: Cómo.
+
+57
+00:07:45.990 --> 00:07:48.669
+Mateo Camilletti: Estuve enfermo y no me pude poner al día con la última clase.
+
+58
+00:07:52.440 --> 00:07:55.949
+Arroyo Arzubi Carlos A.: Bueno, pero te anota oportunidad pasada.
+
+59
+00:07:56.480 --> 00:07:58.089
+Arroyo Arzubi Carlos A.: Te va a quedar una sola.
+
+60
+00:08:09.820 --> 00:08:11.810
+TOMAS GOMEZ DEAN: Profe. A mí me nombró.
+
+61
+00:08:12.430 --> 00:08:13.130
+Arroyo Arzubi Carlos A.: Bien.
+
+62
+00:08:13.310 --> 00:08:22.380
+TOMAS GOMEZ DEAN: Ey Gomez, yo yo, para esta clase no preparé. Pero para la próxima, si quiere, me ofrezco.
+
+63
+00:08:22.640 --> 00:08:27.540
+Arroyo Arzubi Carlos A.: No, no es cuestión de que te ofrezca este sí te nombre
+
+64
+00:08:28.570 --> 00:08:31.200
+Arroyo Arzubi Carlos A.: ya te había puesto ausente. Bueno.
+
+65
+00:08:32.179 --> 00:08:36.919
+Arroyo Arzubi Carlos A.: segunda oportunidad, si no rendís listo. Otra oportunidad perdida te quedará una.
+
+66
+00:08:37.309 --> 00:08:38.059
+TOMAS GOMEZ DEAN: Okay.
+
+67
+00:08:38.510 --> 00:08:40.360
+Arroyo Arzubi Carlos A.: Yo lo digo porque después.
+
+68
+00:08:43.950 --> 00:08:52.359
+Arroyo Arzubi Carlos A.: cuando por ahí aprueban lo otro y no aprueban el parcial, el el oral, y tuvieron varias oportunidades.
+
+69
+00:08:53.470 --> 00:08:55.539
+Arroyo Arzubi Carlos A.: ¿cuánto tengo 2?
+
+70
+00:09:00.540 --> 00:09:05.750
+Arroyo Arzubi Carlos A.: Por eso estoy dándole otra oportunidad a los que ya rindieron mal Basiliko matías.
+
+71
+00:09:07.380 --> 00:09:10.110
+MATIAS BASILICO: Entonces estoy en la misma. No.
+
+72
+00:09:10.680 --> 00:09:17.539
+Arroyo Arzubi Carlos A.: Bueno, ustedes dense cuenta lo que lo que se están perdiendo?
+
+73
+00:09:19.350 --> 00:09:20.770
+Arroyo Arzubi Carlos A.: Bueno, listo.
+
+74
+00:09:20.940 --> 00:09:22.510
+Arroyo Arzubi Carlos A.: Lo hacemos con
+
+75
+00:09:28.600 --> 00:09:31.690
+Arroyo Arzubi Carlos A.: os mi por sí yosmic.
+
+76
+00:09:31.950 --> 00:09:33.849
+MARIA ELISA ORTIZ OSMIK: Acá profe ahí prendo la cámara.
+
+77
+00:09:34.290 --> 00:09:36.710
+Arroyo Arzubi Carlos A.: Bueno, estamos en condiciones.
+
+78
+00:09:38.810 --> 00:09:44.439
+MARIA ELISA ORTIZ OSMIK: Y estudié, pero espero no quedarme en blanco en caso de que me vaya mal.
+
+79
+00:09:44.810 --> 00:09:47.329
+MARIA ELISA ORTIZ OSMIK: Una tercera.
+
+80
+00:09:48.180 --> 00:09:53.119
+Arroyo Arzubi Carlos A.: Por ello. La tercera, la vencida. Pero aprovecha esta por ahí alcanza.
+
+81
+00:09:53.990 --> 00:09:59.410
+Arroyo Arzubi Carlos A.: claro, porque si arrugan tanto así, no se puede en la vida. ¿
+
+82
+00:10:00.340 --> 00:10:03.050
+Arroyo Arzubi Carlos A.: Nada. No digo más nada.
+
+83
+00:10:03.330 --> 00:10:11.260
+Arroyo Arzubi Carlos A.: Pie Montezi empezó entonces a pie montezi ortiz Ossmith y orlandini.
+
+84
+00:10:11.600 --> 00:10:15.670
+Arroyo Arzubi Carlos A.: Bien, empezamos por pie Montezi.
+
+85
+00:10:16.640 --> 00:10:18.220
+Arroyo Arzubi Carlos A.: Nosotros vimos.
+
+86
+00:10:18.650 --> 00:10:19.980
+DANTE PIEMONTESI: Sí.
+
+87
+00:10:19.980 --> 00:10:22.930
+Arroyo Arzubi Carlos A.: De dispositivos de entrada salida.
+
+88
+00:10:23.590 --> 00:10:33.829
+Arroyo Arzubi Carlos A.: Podés darme una definición de qué es el módulo Este que hace para qué sirve una aplicación general
+
+89
+00:10:34.760 --> 00:10:41.100
+Arroyo Arzubi Carlos A.: de este módulo, la función, el objetivo, la finalidad adelante.
+
+90
+00:10:43.570 --> 00:10:56.749
+DANTE PIEMONTESI: Buenísimo. Bueno, el objetivo principal, desde lo que yo entendí no de este módulo, es explicar que la eficiencia que necesita el sistema para minimizar
+
+91
+00:10:56.980 --> 00:11:06.600
+DANTE PIEMONTESI: las distracciones que tiene el procesador, ya que hay distintas velocidades en el hardware, después permitir cierta generalidad
+
+92
+00:11:07.690 --> 00:11:14.410
+DANTE PIEMONTESI: para gestionar dispositivos periféricos de manera más o menos uni o sea, de manera uniforme.
+
+93
+00:11:14.980 --> 00:11:23.480
+DANTE PIEMONTESI: desde un en desde un enfoque jerarquía jerárquico y modular.
+
+94
+00:11:24.600 --> 00:11:29.710
+Arroyo Arzubi Carlos A.: ¿cuál es el objetivo entonces, según lo que vos decis lograr eficiencia? Ese es el objetivo.
+
+95
+00:11:30.610 --> 00:11:35.210
+DANTE PIEMONTESI: Según lo que yo había entendido, sí es generar una eficiencia.
+
+96
+00:11:36.030 --> 00:11:39.919
+Arroyo Arzubi Carlos A.: Bueno, María. ¿qué pensás? ¿vos.
+
+97
+00:11:39.920 --> 00:11:50.689
+MARIA ELISA ORTIZ OSMIK: En sí, ese módulo, el sistema operativo para entrada y salida, lo que busca es ser la interfaz entre los dispositivos
+
+98
+00:11:50.790 --> 00:12:00.729
+MARIA ELISA ORTIZ OSMIK: y el procesador. Los objetivos son la eficiencia y la generalidad. La eficiencia es que el procesador se intente usar
+
+99
+00:12:01.050 --> 00:12:07.229
+MARIA ELISA ORTIZ OSMIK: a tipo darle el mayor aprovechamiento al procesador.
+
+100
+00:12:07.760 --> 00:12:17.679
+MARIA ELISA ORTIZ OSMIK: Mientras haces el intercambio de datos y la generalidad es que, como hay tantos dispositivos que se manejan de forma diferente. Tiene que encontrarse una forma
+
+101
+00:12:17.780 --> 00:12:23.089
+MARIA ELISA ORTIZ OSMIK: para que logren ser atendidos de forma eficiente y equitativamente.
+
+102
+00:12:23.940 --> 00:12:38.280
+Arroyo Arzubi Carlos A.: En realidad más que generalidad la idea, el concepto es generalización de los periféricos, generalización de los periféricos emanuel ¿Qué era la generalización de los periféricos a ver explicado con tus palabras.
+
+103
+00:12:38.720 --> 00:12:55.640
+Emanuel CARLOS ORLANDINI: Sucedía que, como los periféricos, eran, había mucha variedad a la hora de la comunicación, también se generaba esta esta discontinuidad o variabilidad, heterogeneidad. Ahí está.
+
+104
+00:12:56.190 --> 00:13:00.469
+Emanuel CARLOS ORLANDINI: Entonces lo que hacía el este módulo
+
+105
+00:13:00.930 --> 00:13:07.829
+Emanuel CARLOS ORLANDINI: trataba de agrupar a los periféricos de igualdad condición
+
+106
+00:13:08.570 --> 00:13:12.539
+Emanuel CARLOS ORLANDINI: este para hacerlos un poquito más homogéneos
+
+107
+00:13:13.060 --> 00:13:17.129
+Emanuel CARLOS ORLANDINI: para lle para llevarlo, en vez de que sean tan heterogéneo llevarlo a un lugar demasiado.
+
+108
+00:13:17.130 --> 00:13:22.800
+Arroyo Arzubi Carlos A.: Es decir, la idea de este módulo. El principal objetivo.
+
+109
+00:13:23.160 --> 00:13:26.400
+Arroyo Arzubi Carlos A.: que es que admi administrar los dispositivos
+
+110
+00:13:26.910 --> 00:13:32.920
+Arroyo Arzubi Carlos A.: para convertirse en una interfaz que le facilite al núcleo del sistema operativo
+
+111
+00:13:33.250 --> 00:13:42.340
+Arroyo Arzubi Carlos A.: la complejidad que implica tener que tratar con dispositivos tan heterogéneos. Tan distintos.
+
+112
+00:13:42.760 --> 00:13:54.279
+Arroyo Arzubi Carlos A.: Entonces, qué hace el módulo dentro de su principal objetivo. Vuelvo a repetir: es administrar los distintos dispositivos.
+
+113
+00:13:54.820 --> 00:14:00.619
+Arroyo Arzubi Carlos A.: El que actúa interactúa con los distintos dispositivos es el módulo
+
+114
+00:14:01.680 --> 00:14:08.880
+Arroyo Arzubi Carlos A.: de entrada o salida que forma parte del sistema operativo, pero no es el núcleo.
+
+115
+00:14:09.260 --> 00:14:19.169
+Arroyo Arzubi Carlos A.: y para ello busca lograr eficiencia y generalización de los distintos dispositivos.
+
+116
+00:14:23.010 --> 00:14:31.379
+Arroyo Arzubi Carlos A.: Bueno, Pier Montesi contame cómo fue un poco la evolución de este módulo.
+
+117
+00:14:32.850 --> 00:14:38.309
+Arroyo Arzubi Carlos A.: porque cuando ya este módulo no existía cuando empieza la computación.
+
+118
+00:14:38.550 --> 00:14:39.649
+Arroyo Arzubi Carlos A.: Sí. Dale.
+
+119
+00:14:40.520 --> 00:14:48.339
+DANTE PIEMONTESI: Y la evolución de esto comenzó con un control directo de la C, P. U
+
+120
+00:14:49.790 --> 00:14:54.860
+DANTE PIEMONTESI: que controla físicamente por el hardware, El periférico no había intermediarios.
+
+121
+00:14:55.440 --> 00:14:59.910
+DANTE PIEMONTESI: Después sí, ya entraron los
+
+122
+00:15:05.380 --> 00:15:11.139
+DANTE PIEMONTESI: buses de entrada y salida que estaban programados sin interrupciones.
+
+123
+00:15:12.490 --> 00:15:19.759
+DANTE PIEMONTESI: Esto es lo que pasaba era que a veces podías entrar en una esfera activa que era muy ineficiente.
+
+124
+00:15:20.520 --> 00:15:24.799
+DANTE PIEMONTESI: Después, esto se solucionó, a veces no.
+
+125
+00:15:24.800 --> 00:15:28.189
+Arroyo Arzubi Carlos A.: A veces no siempre estaba en una.
+
+126
+00:15:29.840 --> 00:15:31.269
+DANTE PIEMONTESI: ¿cuál es la culpa.
+
+127
+00:15:31.770 --> 00:15:37.170
+Arroyo Arzubi Carlos A.: Cuántos procesos podía, cuántos procesos podías ejecutar cuando era así, sin interrupciones.
+
+128
+00:15:42.640 --> 00:15:43.750
+DANTE PIEMONTESI: Ohh: me va todo
+
+129
+00:15:44.130 --> 00:15:51.949
+DANTE PIEMONTESI: en el resumen que yo me había armado. No, no lo tenía, O sea, no, no lo había especificado. No lo había considerado tan redundante de lo que me había estudiado, No.
+
+130
+00:15:52.620 --> 00:15:53.280
+DANTE PIEMONTESI: no a con.
+
+131
+00:15:53.280 --> 00:15:53.819
+Arroyo Arzubi Carlos A.: A día.
+
+132
+00:15:53.820 --> 00:15:54.450
+DANTE PIEMONTESI: Como algo tan.
+
+133
+00:15:54.450 --> 00:16:02.090
+Arroyo Arzubi Carlos A.: María. Cuando trabajamos con entrada o salida programada sin interrupciones, cuántos procesos podemos ejecutar.
+
+134
+00:16:03.060 --> 00:16:07.530
+MARIA ELISA ORTIZ OSMIK: Puede ser solo. Uno dijo que era mediante.
+
+135
+00:16:07.760 --> 00:16:13.570
+Arroyo Arzubi Carlos A.: Exactamente solo solo 1 y
+
+136
+00:16:18.120 --> 00:16:29.189
+Arroyo Arzubi Carlos A.: a ver Dante ¿Quién podía hasta ese momento, modificar la memoria principal?
+
+137
+00:16:31.600 --> 00:16:35.890
+Arroyo Arzubi Carlos A.: ¿quién tenía el atributo de modificar la memoria principal.
+
+138
+00:16:37.460 --> 00:16:41.120
+DANTE PIEMONTESI: El D M A puede ser.
+
+139
+00:16:41.120 --> 00:16:43.529
+Arroyo Arzubi Carlos A.: En ese momento no existía el Dma.
+
+140
+00:16:51.690 --> 00:16:55.810
+DANTE PIEMONTESI: Entonces podría haber sido la la C, P, U, antes de la antes del D. M A.
+
+141
+00:16:56.110 --> 00:16:58.470
+Arroyo Arzubi Carlos A.: Vos me estás preguntando o me lo estás diciendo.
+
+142
+00:16:58.890 --> 00:17:00.559
+DANTE PIEMONTESI: No, no se lo estoy diciendo.
+
+143
+00:17:02.630 --> 00:17:10.389
+Arroyo Arzubi Carlos A.: Sí, el único que podía acceder a la memoria principal era la C. P. U
+
+144
+00:17:11.319 --> 00:17:16.190
+Arroyo Arzubi Carlos A.: Entonces ¿vos nombraste el Dma. ¿qué es el Dma en la.
+
+145
+00:17:16.190 --> 00:17:16.770
+DANTE PIEMONTESI: Y por.
+
+146
+00:17:16.770 --> 00:17:20.249
+Arroyo Arzubi Carlos A.: Los sistemas. Estos de estos módulos de entrada o salida.
+
+147
+00:17:20.770 --> 00:17:23.420
+DANTE PIEMONTESI: Sí, el D M A es un procesador ya
+
+148
+00:17:24.180 --> 00:17:30.149
+DANTE PIEMONTESI: especializado, que es el que está el que después empezó a ejecutar las transferencias completas
+
+149
+00:17:30.330 --> 00:17:34.399
+DANTE PIEMONTESI: haciéndose y imitando a la C P. U,
+
+150
+00:17:34.640 --> 00:17:38.339
+DANTE PIEMONTESI: sin que esta tenga que intervenir de baita bite.
+
+151
+00:17:39.460 --> 00:17:39.890
+Arroyo Arzubi Carlos A.: Qué? Guay!
+
+152
+00:17:41.320 --> 00:17:41.930
+DANTE PIEMONTESI: Sí se lo.
+
+153
+00:17:41.930 --> 00:17:42.640
+Arroyo Arzubi Carlos A.: Y que.
+
+154
+00:17:42.640 --> 00:17:47.719
+DANTE PIEMONTESI: Tenga que ser tan que ha gastado muchos recursos. Así lo había entendido yo.
+
+155
+00:17:49.940 --> 00:17:54.520
+Arroyo Arzubi Carlos A.: Modifica la memoria principal, la puede modificar el Dma. Entonces o no.
+
+156
+00:17:56.380 --> 00:17:57.100
+DANTE PIEMONTESI: Sí.
+
+157
+00:17:59.400 --> 00:18:00.110
+Arroyo Arzubi Carlos A.: Mhm.
+
+158
+00:18:03.760 --> 00:18:08.270
+Arroyo Arzubi Carlos A.: Bueno, con la aparición del Dma en su máximo
+
+159
+00:18:08.670 --> 00:18:18.020
+Arroyo Arzubi Carlos A.: momento de devolución, el Mma Dijimos que se convertía llegaba a ser un procesador dedicado que, en consecuencia.
+
+160
+00:18:18.570 --> 00:18:28.300
+Arroyo Arzubi Carlos A.: accedía a la memoria principal, como lo dice su propio nombre Dema, a acceso directo a memoria.
+
+161
+00:18:28.890 --> 00:18:32.969
+Arroyo Arzubi Carlos A.: con lo cual la Cpu se liberaba de toda actividad.
+
+162
+00:18:33.900 --> 00:18:35.860
+Arroyo Arzubi Carlos A.: Y cuando
+
+163
+00:18:36.580 --> 00:18:43.710
+Arroyo Arzubi Carlos A.: modificaba la memoria, Ram le informaba a la C P. U, que ya estaba modificado, lo que habían pedido.
+
+164
+00:18:44.760 --> 00:18:50.029
+Arroyo Arzubi Carlos A.: Cuál es el elemento común que comparten la Cpu y el Dma.
+
+165
+00:18:52.050 --> 00:18:54.009
+DANTE PIEMONTESI: El bus del sistema podría ser.
+
+166
+00:18:54.920 --> 00:18:59.120
+Arroyo Arzubi Carlos A.: No es vos tenés que contestar, no haciendo preguntas.
+
+167
+00:18:59.420 --> 00:19:03.760
+Arroyo Arzubi Carlos A.: tenés que contestar lo que vos podría ser.
+
+168
+00:19:12.120 --> 00:19:16.130
+Arroyo Arzubi Carlos A.: Bueno, luego vimos distintas formas de conectarse el D. M a
+
+169
+00:19:26.460 --> 00:19:29.720
+Arroyo Arzubi Carlos A.: la vamos a dejar. Porque es más difícil para preguntar
+
+170
+00:19:49.770 --> 00:19:56.880
+Arroyo Arzubi Carlos A.: qué eran los Drivers Dante que mencionamos los drivers, la clase pasada. Y hablamos de.
+
+171
+00:19:58.890 --> 00:20:01.870
+DANTE PIEMONTESI: Los Drivers. Los drivers son un software
+
+172
+00:20:02.570 --> 00:20:09.110
+DANTE PIEMONTESI: que realiza la interfaz estandarizada que esto lo que hace es ocultar las diferencias de hardware.
+
+173
+00:20:12.160 --> 00:20:13.950
+Arroyo Arzubi Carlos A.: Es decir, un ejemplo.
+
+174
+00:20:16.830 --> 00:20:20.150
+DANTE PIEMONTESI: Por ejemplo, cuando vos tenés que instalar los Drivers para una gráfica, ahora
+
+175
+00:20:21.750 --> 00:20:26.690
+DANTE PIEMONTESI: que ahora también está está habiendo problema con Windows y los drivers, que el otro día tuvo todo el problema.
+
+176
+00:20:26.990 --> 00:20:29.070
+DANTE PIEMONTESI: Este que metió en la polémica Windows.
+
+177
+00:20:32.690 --> 00:20:33.550
+Arroyo Arzubi Carlos A.: Bueno.
+
+178
+00:20:42.140 --> 00:20:45.790
+Arroyo Arzubi Carlos A.: Emanuel vimos planificadores de discos.
+
+179
+00:20:47.680 --> 00:20:49.889
+Arroyo Arzubi Carlos A.: Te Acordás alguno de los que vimos.
+
+180
+00:20:53.540 --> 00:20:59.080
+Emanuel CARLOS ORLANDINI: Planificadores. Los algoritmos pueden ser Fifo, York, tesita.
+
+181
+00:20:59.080 --> 00:21:02.670
+Arroyo Arzubi Carlos A.: Ritmos para nosotros. Dijimos que
+
+182
+00:21:03.290 --> 00:21:11.050
+Arroyo Arzubi Carlos A.: en el caso particular del disco, que es el que utilizamos, porque es más cómodo los tiempos
+
+183
+00:21:11.150 --> 00:21:13.880
+Arroyo Arzubi Carlos A.: de acceso a disco Recuerden, la fórmula
+
+184
+00:21:14.360 --> 00:21:19.690
+Arroyo Arzubi Carlos A.: estaba compuesto por 4 tiempos tiempo de búsqueda, tiempo de latencia.
+
+185
+00:21:19.850 --> 00:21:27.390
+Arroyo Arzubi Carlos A.: tiempo de transferencia y tiempo de gestión y vimos que el tiempo de búsqueda era el que más pesaba.
+
+186
+00:21:27.630 --> 00:21:33.479
+Arroyo Arzubi Carlos A.: con lo cual lo que vimos fue a posteriori fueron algunos algoritmos
+
+187
+00:21:34.390 --> 00:21:40.810
+Arroyo Arzubi Carlos A.: de búsqueda de movimiento de la cabeza lectora con distintos resultados.
+
+188
+00:21:41.560 --> 00:21:46.569
+Arroyo Arzubi Carlos A.: Y ahí entonces vimos 1, el primero, como dijiste que se llamaba emanuel.
+
+189
+00:21:47.270 --> 00:21:50.150
+Emanuel CARLOS ORLANDINI: Primero es el fifol, que aparece en prácticamente.
+
+190
+00:21:50.150 --> 00:21:50.549
+Arroyo Arzubi Carlos A.: Y todo.
+
+191
+00:21:50.550 --> 00:21:51.280
+Emanuel CARLOS ORLANDINI: Grados.
+
+192
+00:21:51.670 --> 00:21:56.760
+Emanuel CARLOS ORLANDINI: Después teníamos el S. S. T. F, que es el Short Ted Syk Times First.
+
+193
+00:21:57.510 --> 00:21:58.140
+Arroyo Arzubi Carlos A.: Como es.
+
+194
+00:21:58.140 --> 00:22:03.040
+Emanuel CARLOS ORLANDINI: A a el El S S T. F
+
+195
+00:22:03.660 --> 00:22:07.490
+Emanuel CARLOS ORLANDINI: como primera característica produce inanición. Es un algoritmo.
+
+196
+00:22:07.490 --> 00:22:10.509
+Arroyo Arzubi Carlos A.: Cómo funciona el algoritmo, qué es lo que quiere hacer.
+
+197
+00:22:12.050 --> 00:22:16.089
+Emanuel CARLOS ORLANDINI: Pero ¿qué es lo que tiene que ¿Qué es lo que quiere hacer.
+
+198
+00:22:16.090 --> 00:22:18.970
+Arroyo Arzubi Carlos A.: Y cómo cómo hace Co: ¿Qué es lo que hace ese algoritmo.
+
+199
+00:22:20.050 --> 00:22:21.650
+Emanuel CARLOS ORLANDINI: Mhm.
+
+200
+00:22:29.320 --> 00:22:32.630
+Arroyo Arzubi Carlos A.: Es decir, cada algoritmo aplica algo
+
+201
+00:22:32.780 --> 00:22:41.769
+Arroyo Arzubi Carlos A.: para conseguir algo. Obviamente, acá lo que quieren conseguir es un buen resultado en la búsqueda de las pistas. Entonces, este algoritmo, ¿Qué es lo que aplica?
+
+202
+00:22:42.340 --> 00:22:44.669
+Arroyo Arzubi Carlos A.: ¿qué criterio aplica para.
+
+203
+00:22:45.200 --> 00:22:49.890
+Emanuel CARLOS ORLANDINI: Todas las pistas que tiene que conocer todas las pistas que hay.
+
+204
+00:22:50.130 --> 00:22:53.809
+Arroyo Arzubi Carlos A.: Sí, y qué hace.
+
+205
+00:22:54.870 --> 00:23:00.429
+Emanuel CARLOS ORLANDINI: Y Co: compara. ¿cuál es la más. ¿cuál es la trae la que está o utiliza la que está más cercana.
+
+206
+00:23:01.780 --> 00:23:09.620
+Arroyo Arzubi Carlos A.: Es decir, que ese es el objetivo de ese de ese algoritmo que hace el objetivo. ¿cómo funciona ese algoritmo?
+
+207
+00:23:09.840 --> 00:23:19.500
+Arroyo Arzubi Carlos A.: Atendiendo la pista más cercana a donde se encuentra la cabeza lectora. Así de fácil es, pero hay que explicarlo, sino.
+
+208
+00:23:19.990 --> 00:23:25.390
+Arroyo Arzubi Carlos A.: digo, porque y este algoritmo.
+
+209
+00:23:26.010 --> 00:23:30.089
+Arroyo Arzubi Carlos A.: ¿qué parece? Es el mejor. Es el peor. ¿cómo pinta.
+
+210
+00:23:32.060 --> 00:23:33.610
+Emanuel CARLOS ORLANDINI: Y
+
+211
+00:23:34.480 --> 00:23:45.810
+Emanuel CARLOS ORLANDINI: a ver en cuanto a tiempos mejoraría lo que es el tiempo de lo que es el algoritmo Fifo. Pero al producir inanición quizás no sería el mejor. Habría que
+
+212
+00:23:46.040 --> 00:23:50.590
+Emanuel CARLOS ORLANDINI: tomar alguna y.
+
+213
+00:23:52.670 --> 00:23:57.889
+Arroyo Arzubi Carlos A.: Bueno. Este algoritmo que busca la pista más próxima
+
+214
+00:23:58.210 --> 00:24:02.260
+Arroyo Arzubi Carlos A.: es el mejor. En cuanto al resultado
+
+215
+00:24:02.520 --> 00:24:11.040
+Arroyo Arzubi Carlos A.: de la velocidad de atención a todo ese conjunto de pistas que se están buscando es el mejor.
+
+216
+00:24:11.210 --> 00:24:16.849
+Arroyo Arzubi Carlos A.: El problema que tiene que vos Lo mencionaste Manuel, es que puede producir inanición.
+
+217
+00:24:18.040 --> 00:24:21.700
+Arroyo Arzubi Carlos A.: Entonces, si 1 aplica ese algoritmo.
+
+218
+00:24:22.030 --> 00:24:33.809
+Arroyo Arzubi Carlos A.: va a tener que tomar los recaudos para evitar que se produzcan, que es lo que hacemos habitualmente cuando tenemos que, en definitiva, es un algoritmo por prioridad.
+
+219
+00:24:34.990 --> 00:24:40.509
+Arroyo Arzubi Carlos A.: Es un algoritmo de oscuridad. ¿y qué hacemos entonces, qué es lo que se hace manual habitualmente para
+
+220
+00:24:40.850 --> 00:24:43.839
+Arroyo Arzubi Carlos A.: evitar los problemas de inanición.
+
+221
+00:24:46.660 --> 00:24:53.760
+Emanuel CARLOS ORLANDINI: Envejecimiento envejecimiento. Utilizamos el envejecimiento para poder ir.
+
+222
+00:24:53.760 --> 00:25:03.120
+Arroyo Arzubi Carlos A.: Bueno, utilizamos el concepto de ese envejecimiento, Después se implementa el envejecimiento como 1 quiera.
+
+223
+00:25:03.470 --> 00:25:12.390
+Arroyo Arzubi Carlos A.: pero el concepto es envejecimiento que significa que, a medida que pasa el tiempo voy a tener que incrementar la prioridad
+
+224
+00:25:12.600 --> 00:25:15.529
+Arroyo Arzubi Carlos A.: de esta pista, porque si no, no lo voy a atender.
+
+225
+00:25:19.880 --> 00:25:28.529
+Arroyo Arzubi Carlos A.: Y el bueno, María vimos el algoritmo. Scan: ¿Cómo era.
+
+226
+00:25:28.770 --> 00:25:33.250
+MARIA ELISA ORTIZ OSMIK: Sí, también se le dice el algoritmo del ascensor. No.
+
+227
+00:25:33.250 --> 00:25:34.130
+Arroyo Arzubi Carlos A.: Sí, Sí.
+
+228
+00:25:34.130 --> 00:25:35.480
+MARIA ELISA ORTIZ OSMIK: Cuando
+
+229
+00:25:39.940 --> 00:25:45.109
+MARIA ELISA ORTIZ OSMIK: Okay va de una soldh, perdón.
+
+230
+00:25:45.210 --> 00:25:48.920
+MARIA ELISA ORTIZ OSMIK: el brazo del disco se mueve atendiendo todas las
+
+231
+00:25:50.370 --> 00:25:52.800
+MARIA ELISA ORTIZ OSMIK: todas las partes que tienen que ir atendiendo.
+
+232
+00:25:53.260 --> 00:25:58.350
+MARIA ELISA ORTIZ OSMIK: Y cuando llega al final, después de atender todas las solicitudes a
+
+233
+00:25:59.440 --> 00:26:04.310
+MARIA ELISA ORTIZ OSMIK: cambia de dirección y sigue y sigue atendiendo, pero al revés.
+
+234
+00:26:05.710 --> 00:26:07.830
+Arroyo Arzubi Carlos A.: Es decir, ¿qué hace la cabeza lectora.
+
+235
+00:26:08.140 --> 00:26:09.910
+MARIA ELISA ORTIZ OSMIK: Va de un lado a otro.
+
+236
+00:26:09.910 --> 00:26:10.250
+Arroyo Arzubi Carlos A.: A ver.
+
+237
+00:26:10.250 --> 00:26:10.920
+MARIA ELISA ORTIZ OSMIK: En en la.
+
+238
+00:26:10.920 --> 00:26:28.849
+Arroyo Arzubi Carlos A.: Extremo al otro del disco son simples. No se mezclen. La cabeza para explicar. Es una cabeza lectora que va recorriendo el disco de una punta de un extremo al otro y va atendiendo todas las pistas que son requeridas, que se las va encontrando en el camino.
+
+239
+00:26:29.470 --> 00:26:36.590
+Arroyo Arzubi Carlos A.: Y este algoritmo hay que especificar bien que va de extremo a extremo bien.
+
+240
+00:26:36.840 --> 00:26:41.119
+Arroyo Arzubi Carlos A.: Y después estaba el algoritmo Ces Kahn, María que era.
+
+241
+00:26:41.830 --> 00:26:47.480
+MARIA ELISA ORTIZ OSMIK: Hace lo mismo, pero a la vuelta no atiende ninguna ningún proceso
+
+242
+00:26:47.920 --> 00:26:50.889
+MARIA ELISA ORTIZ OSMIK: al otro. Pero a la vuelta no atiende ninguno.
+
+243
+00:26:53.160 --> 00:26:57.039
+Arroyo Arzubi Carlos A.: Emanuel, el algoritmo Look, te acordás. ¿cuál era.
+
+244
+00:26:59.570 --> 00:27:04.109
+Emanuel CARLOS ORLANDINI: Si simula el Scan, o sea, va barriendo de manera
+
+245
+00:27:04.500 --> 00:27:12.909
+Emanuel CARLOS ORLANDINI: ascendente y descendente, pero sin llegar al límite, o sea, llega hasta donde están las pistas ubicadas. Las pistas que tenemos.
+
+246
+00:27:13.260 --> 00:27:13.640
+Arroyo Arzubi Carlos A.: Y de.
+
+247
+00:27:13.640 --> 00:27:14.430
+Emanuel CARLOS ORLANDINI: En el escán.
+
+248
+00:27:14.430 --> 00:27:14.780
+Arroyo Arzubi Carlos A.: Que y.
+
+249
+00:27:14.780 --> 00:27:16.419
+Emanuel CARLOS ORLANDINI: Va un paso más allá.
+
+250
+00:27:16.420 --> 00:27:20.080
+Arroyo Arzubi Carlos A.: No llega al extremo, salvo que haya una necesidad.
+
+251
+00:27:20.340 --> 00:27:22.390
+Arroyo Arzubi Carlos A.: Y en se Look, ¿qué es.
+
+252
+00:27:23.480 --> 00:27:33.349
+Emanuel CARLOS ORLANDINI: El sello es similar al cescan va barriendo en una dirección, pero cuando vuelve, no no le presta atención a ningún tipo de.
+
+253
+00:27:37.290 --> 00:27:45.420
+Arroyo Arzubi Carlos A.: Bueno, Dante: Vimos también hablamos de los sistemas R A, I, D, que son los sistemas R A, I, D, explicame qué son.
+
+254
+00:27:49.370 --> 00:27:50.699
+DANTE PIEMONTESI: Sí Profe.
+
+255
+00:27:51.230 --> 00:27:51.900
+Arroyo Arzubi Carlos A.: Sí.
+
+256
+00:27:52.170 --> 00:27:54.430
+DANTE PIEMONTESI: Los sistemas R a I.
+
+257
+00:27:54.900 --> 00:27:57.039
+Arroyo Arzubi Carlos A.: Qué quiere decir, ¿Qué son? ¿qué hacen?
+
+258
+00:27:59.640 --> 00:28:00.930
+DANTE PIEMONTESI: Me acuerdo, que era.
+
+259
+00:28:02.110 --> 00:28:02.630
+Arroyo Arzubi Carlos A.: De no.
+
+260
+00:28:02.630 --> 00:28:03.420
+DANTE PIEMONTESI: No lo tengo muy.
+
+261
+00:28:03.420 --> 00:28:08.620
+Arroyo Arzubi Carlos A.: Ahora que me acuerdo, vos decime la respuesta que me acordás. No sé qué sé yo.
+
+262
+00:28:10.750 --> 00:28:20.109
+DANTE PIEMONTESI: Que hace los los sistemas R a I. Lo que hacen es reemplazar las las unidades individuales
+
+263
+00:28:21.380 --> 00:28:26.280
+DANTE PIEMONTESI: que tienen mucha capacidad de almacenamiento por muchas con menos capacidad.
+
+264
+00:28:26.510 --> 00:28:34.640
+DANTE PIEMONTESI: Esto lo que tiene es que nos permite distribuir de manera un poco más organizada, o sea un poco más estructurado
+
+265
+00:28:35.740 --> 00:28:42.280
+DANTE PIEMONTESI: y permitirnos poder acceder a varias unidades de manera paralela.
+
+266
+00:28:44.720 --> 00:28:47.250
+Arroyo Arzubi Carlos A.: Entonces, ¿cuál sería el objetivo del sistema Raid.
+
+267
+00:28:49.000 --> 00:28:55.069
+DANTE PIEMONTESI: Permitir que hayan varios discos independientes que nos permitan acceder a datos paralelos.
+
+268
+00:28:59.520 --> 00:29:01.449
+Arroyo Arzubi Carlos A.: Entonces, ¿cuál es el objetivo?
+
+269
+00:29:01.860 --> 00:29:04.140
+Arroyo Arzubi Carlos A.: Si puedes acceder a datos paralelos.
+
+270
+00:29:06.620 --> 00:29:08.590
+DANTE PIEMONTESI: Hacer más eficientes los procesos.
+
+271
+00:29:08.590 --> 00:29:18.000
+Arroyo Arzubi Carlos A.: Bueno, no los procesos? ¿no? Pero si yo digo que utilizo los sistemas R a I D para poder tener acceso a varios discos. Simultáneamente.
+
+272
+00:29:18.490 --> 00:29:21.460
+Arroyo Arzubi Carlos A.: estoy logrando una mayor eficiencia
+
+273
+00:29:21.580 --> 00:29:37.289
+Arroyo Arzubi Carlos A.: en en mi almacenamiento. Si si yo tengo un solo disco, puedo acceder a un solo disco. Si yo tengo varios discos y puedo acceder a varios discos. Está claro lo que estoy teniendo una ventaja en la performance de mi sistema de almacenamiento
+
+274
+00:29:37.620 --> 00:29:38.779
+Arroyo Arzubi Carlos A.: se entiende.
+
+275
+00:29:39.450 --> 00:29:40.290
+DANTE PIEMONTESI: Sí, Sí, Sí.
+
+276
+00:29:40.610 --> 00:29:53.830
+Arroyo Arzubi Carlos A.: Claro, porque si no, este y qué otra característica tiene, además de de permitir más, incrementar las capacidades de acceso a distintos discos. ¿qué otra?
+
+277
+00:29:54.120 --> 00:29:56.590
+Arroyo Arzubi Carlos A.: ¿qué otro objetivo tienen los sistemas? R A, I, D.
+
+278
+00:29:57.300 --> 00:30:01.729
+DANTE PIEMONTESI: Esto. Lo que también tienen es un sistema de redundancia.
+
+279
+00:30:01.900 --> 00:30:07.060
+DANTE PIEMONTESI: Por si llegase a fallar de manera catastrófica algunas de las unidades que haya reducido.
+
+280
+00:30:07.060 --> 00:30:09.110
+Arroyo Arzubi Carlos A.: Bueno, no hace falta catastrófica.
+
+281
+00:30:10.710 --> 00:30:11.480
+DANTE PIEMONTESI: Sí, pero hay.
+
+282
+00:30:11.480 --> 00:30:11.950
+Arroyo Arzubi Carlos A.: Claro.
+
+283
+00:30:11.950 --> 00:30:14.599
+DANTE PIEMONTESI: Para que suene, para que suene más lindo, para que suene más.
+
+284
+00:30:14.600 --> 00:30:20.069
+Arroyo Arzubi Carlos A.: Suene más lindo, acá. Tiene que ser lo más normal. Estamos haciendo una obra de teatro, acá catastrofe.
+
+285
+00:30:20.070 --> 00:30:20.710
+DANTE PIEMONTESI: Y el.
+
+286
+00:30:20.710 --> 00:30:31.260
+Arroyo Arzubi Carlos A.: Vaya algo se pueda recuperar. Es decir, que los sistemas, claro. Pero ¿cómo hablan ustedes? No todos? Alguno, Es decir, que en los sistemas R a E
+
+287
+00:30:31.890 --> 00:30:35.500
+Arroyo Arzubi Carlos A.: tienen como objetivo dar algún grado de seguridad
+
+288
+00:30:35.730 --> 00:30:42.139
+Arroyo Arzubi Carlos A.: a la información que está guardada, pero de seguridad con respecto a pérdida de información
+
+289
+00:30:42.740 --> 00:30:54.259
+Arroyo Arzubi Carlos A.: con respecto a que se rompa un disco, se rompa, se estropee un sector o lo que sea. Estamos hablando solamente de ese tipo de seguridad.
+
+290
+00:30:54.300 --> 00:31:06.780
+Arroyo Arzubi Carlos A.: Digo porque no tiene que ver con la seguridad de infiltración de todo ese tipo de cosas que vamos a ver en las últimas 2 unidades, sino que se rompa el hardware, digamos.
+
+291
+00:31:06.840 --> 00:31:10.950
+Arroyo Arzubi Carlos A.: se rompe el hardware y pierdo los datos.
+
+292
+00:31:14.470 --> 00:31:16.290
+Arroyo Arzubi Carlos A.: Y
+
+293
+00:31:20.620 --> 00:31:23.499
+Arroyo Arzubi Carlos A.: nosotros hablamos de distintos sistemas R a I D,
+
+294
+00:31:27.110 --> 00:31:37.410
+Arroyo Arzubi Carlos A.: Dijimos el raiero que no cumplía con redundancia, pero que incrementaba la capacidad de acceso.
+
+295
+00:31:38.390 --> 00:31:42.720
+Arroyo Arzubi Carlos A.: el rayo. Uno: Mirror. Te acordás algo de ese dante.
+
+296
+00:31:44.130 --> 00:31:51.560
+DANTE PIEMONTESI: Sí. Lo que logra este mirror es la redundancia, porque se duplica de manera
+
+297
+00:31:51.880 --> 00:31:53.839
+DANTE PIEMONTESI: estricta todos los datos en espejo.
+
+298
+00:31:54.240 --> 00:31:55.609
+DANTE PIEMONTESI: De ahí viene el nombre.
+
+299
+00:31:56.380 --> 00:31:59.709
+Arroyo Arzubi Carlos A.: He de decir que tiene el doble de discos.
+
+300
+00:32:00.090 --> 00:32:02.909
+DANTE PIEMONTESI: Claro, tiene un gemelo en otra unidad. En definitiva.
+
+301
+00:32:02.910 --> 00:32:04.109
+Arroyo Arzubi Carlos A.: Duplica los datos.
+
+302
+00:32:07.090 --> 00:32:09.760
+Arroyo Arzubi Carlos A.: Bueno, vamos a dejar Acá
+
+303
+00:32:16.590 --> 00:32:21.870
+Arroyo Arzubi Carlos A.: Dante estabas avisado y estabas preparado.
+
+304
+00:32:24.370 --> 00:32:31.049
+Arroyo Arzubi Carlos A.: y no te sobró nada ojo con el resto de los exámenes, porque yo tengo en cuenta todo
+
+305
+00:32:31.850 --> 00:32:38.979
+Arroyo Arzubi Carlos A.: los parciales, los parcialitos, y después viene el final, y yo saco mi canta claro
+
+306
+00:32:39.950 --> 00:32:45.590
+Arroyo Arzubi Carlos A.: en los finales. También digo esto porque la historia de cada 1 pesa.
+
+307
+00:32:45.920 --> 00:32:49.549
+Arroyo Arzubi Carlos A.: para mí pesa, habrá para otros que no.
+
+308
+00:32:49.980 --> 00:32:51.500
+Arroyo Arzubi Carlos A.: ¿qué quiero decir
+
+309
+00:32:52.710 --> 00:33:04.280
+Arroyo Arzubi Carlos A.: que si yo tengo dudas en que en algún momento alguno tiene que aprobar o no, porque siempre todos, por más objetividad que 1 le busque dar
+
+310
+00:33:04.980 --> 00:33:11.409
+Arroyo Arzubi Carlos A.: siempre 1 termina siendo subjetivo. ¿qué quiero decir?
+
+311
+00:33:11.730 --> 00:33:21.170
+Arroyo Arzubi Carlos A.: Hasta por más que yo separo las preguntas. Le doy calificación a cada pregunta y todo lo demás. Siempre hay un grado de subjetividad.
+
+312
+00:33:22.120 --> 00:33:24.739
+Arroyo Arzubi Carlos A.: Bien, entonces a veces
+
+313
+00:33:25.200 --> 00:33:31.069
+Arroyo Arzubi Carlos A.: me encuentro con alguien que yo no sé si merece un 7 o un 8, Por ejemplo.
+
+314
+00:33:32.160 --> 00:33:38.849
+Arroyo Arzubi Carlos A.: entonces yo miro los antecedentes, y digo, bueno, va un 8 o va un 7.
+
+315
+00:33:39.460 --> 00:33:40.430
+Arroyo Arzubi Carlos A.: Ohh!
+
+316
+00:33:40.640 --> 00:33:46.450
+Arroyo Arzubi Carlos A.: Aprueba o no aprueba, Llega el 4 o no llega al 4. Está en el borde
+
+317
+00:33:47.050 --> 00:33:50.899
+Arroyo Arzubi Carlos A.: el borde que para pasar o el borde para quedarse.
+
+318
+00:33:51.510 --> 00:33:56.199
+Arroyo Arzubi Carlos A.: Cuando surge la duda, vamos a la historia.
+
+319
+00:33:56.420 --> 00:34:02.009
+Arroyo Arzubi Carlos A.: es decir, que la historia de cada 1 los acompaña a ustedes
+
+320
+00:34:03.630 --> 00:34:05.669
+Arroyo Arzubi Carlos A.: en esto y en la vida.
+
+321
+00:34:06.530 --> 00:34:14.780
+Arroyo Arzubi Carlos A.: Es decir, que, y con lo cual aprobó a ser oral
+
+322
+00:34:15.370 --> 00:34:27.209
+Arroyo Arzubi Carlos A.: en estas condiciones, lastimosas, ya que te gusta usar frases melodramáticas como lo catastrófico. Esto también va a ser algo medio catastrófico.
+
+323
+00:34:28.190 --> 00:34:29.230
+Arroyo Arzubi Carlos A.: pero bueno.
+
+324
+00:34:32.120 --> 00:34:33.249
+DANTE PIEMONTESI: Profe: Muchas gracias.
+
+325
+00:34:33.510 --> 00:34:39.420
+Arroyo Arzubi Carlos A.: No, no me agradezcas y yo creo que estás ahí, por favor.
+
+326
+00:34:46.230 --> 00:34:51.739
+Arroyo Arzubi Carlos A.: Bueno, María, bien, también aprobada.
+
+327
+00:34:51.929 --> 00:34:53.709
+MARIA ELISA ORTIZ OSMIK: Okay. Muchas gracias.
+
+328
+00:34:57.340 --> 00:34:58.660
+Arroyo Arzubi Carlos A.: Orlandinini.
+
+329
+00:35:00.200 --> 00:35:04.040
+Arroyo Arzubi Carlos A.: Tampoco es que nos sobró como para tirar
+
+330
+00:35:04.750 --> 00:35:07.120
+Arroyo Arzubi Carlos A.: ¿ Cohetes al techo, pero bueno.
+
+331
+00:35:13.160 --> 00:35:25.340
+Arroyo Arzubi Carlos A.: mirá que el oral lo hacen con la computadora? Adelante y con todo lo demás. No crean que yo no se debe cuenta de todo esto. Digo para que profesores bastante vos pero no tanto como se imaginan.
+
+332
+00:35:26.070 --> 00:35:37.040
+Arroyo Arzubi Carlos A.: Bueno, listo, basta de de hacer terapia generalizada, eso tiene otro precio.
+
+333
+00:35:40.120 --> 00:35:43.689
+Arroyo Arzubi Carlos A.: Bueno, vamos a ver. Ah, hoy tenemos el parcialito.
+
+334
+00:35:44.310 --> 00:35:46.620
+Arroyo Arzubi Carlos A.: Vamos a ver administración de archivos.
+
+335
+00:35:50.670 --> 00:35:55.780
+Arroyo Arzubi Carlos A.: Bueno, en principio trataremos de lo trataré de definir
+
+336
+00:35:56.100 --> 00:35:58.340
+Arroyo Arzubi Carlos A.: lo que es un archivo, ¿no?
+
+337
+00:35:58.830 --> 00:36:06.470
+Arroyo Arzubi Carlos A.: Y una pueden tomar la definición que quieran de cualquier bibliografía. Pero
+
+338
+00:36:07.630 --> 00:36:10.700
+Arroyo Arzubi Carlos A.: a mí me me gusta algo que vaya por este lado
+
+339
+00:36:11.360 --> 00:36:19.720
+Arroyo Arzubi Carlos A.: es como que un archivo es una visión lógica de información almacenada.
+
+340
+00:36:21.540 --> 00:36:24.340
+Arroyo Arzubi Carlos A.: ¿qué es lo que quiero decir?
+
+341
+00:36:24.590 --> 00:36:26.239
+Arroyo Arzubi Carlos A.: Una visión lógica.
+
+342
+00:36:26.770 --> 00:36:31.230
+Arroyo Arzubi Carlos A.: Antes se usaba mucho el término para los archivos del término entidad.
+
+343
+00:36:32.130 --> 00:36:38.169
+Arroyo Arzubi Carlos A.: Identidad. Era un término que a mí me gustaba porque una entidad.
+
+344
+00:36:38.380 --> 00:36:39.640
+Arroyo Arzubi Carlos A.: ¿qué tiene?
+
+345
+00:36:39.870 --> 00:36:44.000
+Arroyo Arzubi Carlos A.: Tiene datos, información que forman ese archivo
+
+346
+00:36:45.230 --> 00:36:50.850
+Arroyo Arzubi Carlos A.: que están ahí porque tienen entidad para estar ahí, tienen
+
+347
+00:36:52.080 --> 00:37:08.429
+Arroyo Arzubi Carlos A.: o, como dije ahora, una visión lógica para estar ahí. ¿qué estoy diciendo si yo tengo un archivo de personal? ¿no es cierto? Y tengo los datos del el nombre, el documento fecha de nacimiento. ¿por qué están esos datos ahí reunidos?
+
+348
+00:37:08.640 --> 00:37:16.910
+Arroyo Arzubi Carlos A.: Porque tiene lógica de que este hombre tiene sentido que esos datos estén reunidos en un archivo.
+
+349
+00:37:17.500 --> 00:37:24.050
+Arroyo Arzubi Carlos A.: Cuando hablamos de una fotografía, los pixels que forman una fotografía
+
+350
+00:37:24.470 --> 00:37:31.599
+Arroyo Arzubi Carlos A.: forman un archivo. ¿por qué están ahí porque le dan sentido a una fotografía determinada
+
+351
+00:37:32.180 --> 00:37:38.430
+Arroyo Arzubi Carlos A.: o un archivo de música o un vídeo. Es decir, ¿por qué están ahí esos elementos
+
+352
+00:37:39.000 --> 00:37:46.829
+Arroyo Arzubi Carlos A.: porque hacen algo en especial bueno. De todos modos, acepto otras definiciones.
+
+353
+00:37:47.230 --> 00:37:54.400
+Arroyo Arzubi Carlos A.: Algunos mencionan también algunas biografías que un archivo
+
+354
+00:37:54.730 --> 00:37:57.709
+Arroyo Arzubi Carlos A.: tiene que estar guardado en memoria secundaria
+
+355
+00:37:58.210 --> 00:38:05.990
+Arroyo Arzubi Carlos A.: como condición. Bueno, yo no me animaría tanto porque 1 podría llegar a tener algún archivo transitorio.
+
+356
+00:38:06.460 --> 00:38:07.190
+Arroyo Arzubi Carlos A.: Bueno.
+
+357
+00:38:07.360 --> 00:38:16.849
+Arroyo Arzubi Carlos A.: pero es cierto que para que el archivo perdura en el tiempo, obviamente tiene que estar en memoria secundaria. En eso coincidimos
+
+358
+00:38:18.680 --> 00:38:24.290
+Arroyo Arzubi Carlos A.: ahora. Pregunto: yo nosotros hemos visto
+
+359
+00:38:25.620 --> 00:38:30.150
+Arroyo Arzubi Carlos A.: dentro del sistema operativo y el sistema de cómputo.
+
+360
+00:38:30.720 --> 00:38:36.559
+Arroyo Arzubi Carlos A.: Yo pregunto, además de los archivos
+
+361
+00:38:37.050 --> 00:38:41.730
+Arroyo Arzubi Carlos A.: que acabo de mencionar, su concepto, ya vamos a ver detalle
+
+362
+00:38:42.190 --> 00:38:52.120
+Arroyo Arzubi Carlos A.: qué otras cosas de software hay en un sistema de cómputo, pregunto tema para debate.
+
+363
+00:38:53.460 --> 00:38:56.520
+TOMAS GOMEZ DEAN: Directorio Carpetas, por ejemplo.
+
+364
+00:38:57.150 --> 00:38:59.459
+Arroyo Arzubi Carlos A.: Tomás dice directorio carpeta.
+
+365
+00:39:00.610 --> 00:39:04.900
+Arroyo Arzubi Carlos A.: ¿alguien más está de acuerdo? O piensa otra cosa o algo más.
+
+366
+00:39:05.440 --> 00:39:07.259
+FRANCO EMMANUEL SICARDO: Yo agregaría librerías.
+
+367
+00:39:07.840 --> 00:39:10.010
+Arroyo Arzubi Carlos A.: Librerías agrega también.
+
+368
+00:39:10.350 --> 00:39:16.270
+Arroyo Arzubi Carlos A.: Además de los archivos, están las librerías y los directorios algo más
+
+369
+00:39:23.620 --> 00:39:24.710
+Arroyo Arzubi Carlos A.: bueno.
+
+370
+00:39:25.840 --> 00:39:29.530
+Arroyo Arzubi Carlos A.: Un directorio es un archivo.
+
+371
+00:39:30.930 --> 00:39:33.860
+Arroyo Arzubi Carlos A.: Una librería es un archivo.
+
+372
+00:39:34.530 --> 00:39:38.540
+Arroyo Arzubi Carlos A.: En consecuencia, yo me animo a decir
+
+373
+00:39:39.880 --> 00:39:48.100
+Arroyo Arzubi Carlos A.: que todo lo que es software son archivos, no hay otra cosa.
+
+374
+00:39:50.000 --> 00:39:56.610
+Arroyo Arzubi Carlos A.: ya sea un archivo, hasta un archivo B A, T hasta un archivo de una base de datos, Un archivo de lo que sea.
+
+375
+00:39:57.200 --> 00:39:58.529
+Arroyo Arzubi Carlos A.: son archivos.
+
+376
+00:39:59.370 --> 00:40:06.469
+Arroyo Arzubi Carlos A.: Es decir, que nosotros no tenemos otra cosa que archivos con el software.
+
+377
+00:40:06.680 --> 00:40:10.929
+Arroyo Arzubi Carlos A.: Se entiende lo que estoy diciendo. No no hay otra cosa.
+
+378
+00:40:11.100 --> 00:40:20.889
+Arroyo Arzubi Carlos A.: Tenemos hardware y software, y el software que está formado por archivos del tipo que quiera, Es decir, que
+
+379
+00:40:21.110 --> 00:40:24.629
+Arroyo Arzubi Carlos A.: a nivel de clases de archivo.
+
+380
+00:40:24.790 --> 00:40:36.840
+Arroyo Arzubi Carlos A.: Nosotros podemos mencionar una lista, no digo innumerable, pero muy extensa, donde nosotros mencionamos en algún momento
+
+381
+00:40:37.020 --> 00:40:46.450
+Arroyo Arzubi Carlos A.: los este archivo fuente, archivo, objeto, imágenes, videos y
+
+382
+00:40:47.630 --> 00:40:52.040
+Arroyo Arzubi Carlos A.: librerías directorios. Bueno, todo lo que quieran
+
+383
+00:40:52.370 --> 00:40:57.100
+Arroyo Arzubi Carlos A.: son archivos, es decir, que esto es un concepto interesante que tengamos presente
+
+384
+00:40:59.660 --> 00:41:04.739
+Arroyo Arzubi Carlos A.: esos archivos, cada 1 de esos archivos, sea del tipo que sea.
+
+385
+00:41:05.820 --> 00:41:08.100
+Arroyo Arzubi Carlos A.: tiene lo que se llama atributos.
+
+386
+00:41:08.270 --> 00:41:12.560
+Arroyo Arzubi Carlos A.: Todo archivo tiene atributo, que son los atributos.
+
+387
+00:41:12.870 --> 00:41:20.860
+Arroyo Arzubi Carlos A.: Bueno, son todas aquellas cuestiones que permiten clasificar ese archivo.
+
+388
+00:41:20.970 --> 00:41:31.440
+Arroyo Arzubi Carlos A.: identificar ese archivo. Entonces, los atributos que son el nombre del archivo, el tipo de archivo. ¿quién es el dueño del archivo?
+
+389
+00:41:31.440 --> 00:41:41.089
+Arroyo Arzubi Carlos A.: ¿qué prioridad tiene ese archivo? ¿quién lo puede modificar si es de lectura, si es de escritura, es decir, los atributos son todas las características
+
+390
+00:41:41.400 --> 00:41:43.290
+Arroyo Arzubi Carlos A.: que va a tener ese archivo.
+
+391
+00:41:45.260 --> 00:41:51.130
+Arroyo Arzubi Carlos A.: Pueden encontrar en cualquier biografía una lista mucho más extensa, pero no vale la pena.
+
+392
+00:41:53.070 --> 00:42:01.859
+Arroyo Arzubi Carlos A.: Estos archivos, obviamente tienen operaciones que se pueden realizar con los archivos.
+
+393
+00:42:02.330 --> 00:42:08.509
+Arroyo Arzubi Carlos A.: crear el archivo. Escribir el archivo, borrarlo, reubicarlo, eliminarlo.
+
+394
+00:42:08.650 --> 00:42:14.959
+Arroyo Arzubi Carlos A.: cerrarlo, Bueno, operaciones que se realizan sobre los archivos.
+
+395
+00:42:16.370 --> 00:42:19.649
+Arroyo Arzubi Carlos A.: Mhm: Bueno, dicho esto.
+
+396
+00:42:20.030 --> 00:42:26.830
+Arroyo Arzubi Carlos A.: hablando de archivos en general de todos los archivos que tenemos en nuestro sistema de cómputo.
+
+397
+00:42:27.920 --> 00:42:39.080
+Arroyo Arzubi Carlos A.: Vamos a ver ahora tipos de archivo y vamos a ver una división muy importante, que son.
+
+398
+00:42:39.940 --> 00:42:42.660
+Arroyo Arzubi Carlos A.: por un lado, los archivos estructurados
+
+399
+00:42:43.730 --> 00:42:52.890
+Arroyo Arzubi Carlos A.: y, por otro lado, los archivos de flujo de bytes o, si quieren no estructurado.
+
+400
+00:42:54.230 --> 00:42:59.289
+Arroyo Arzubi Carlos A.: ¿qué estoy diciendo con esta clasificación tan grande de archivo?
+
+401
+00:43:01.440 --> 00:43:06.700
+Arroyo Arzubi Carlos A.: Estoy separando los archivos estructurados que son
+
+402
+00:43:07.040 --> 00:43:15.479
+Arroyo Arzubi Carlos A.: aquellos archivos con los que ustedes van a trabajar fundamentalmente cuando desarrollan aplicaciones
+
+403
+00:43:15.730 --> 00:43:21.369
+Arroyo Arzubi Carlos A.: para gestión de negocios, gestiones comerciales, administrativas, etc.
+
+404
+00:43:22.540 --> 00:43:30.460
+Arroyo Arzubi Carlos A.: Los archivos estructurados son aquellos archivos que se caracterizan por estar formados por registros.
+
+405
+00:43:31.890 --> 00:43:42.250
+Arroyo Arzubi Carlos A.: Mhm, registros, y cada registro está formado, está constituido por campos.
+
+406
+00:43:43.710 --> 00:43:46.320
+Arroyo Arzubi Carlos A.: es decir, eso es un archivo estructurado.
+
+407
+00:43:47.520 --> 00:43:52.040
+Arroyo Arzubi Carlos A.: Si ustedes tienen un archivo de personal, por ejemplo.
+
+408
+00:43:52.170 --> 00:43:55.869
+Arroyo Arzubi Carlos A.: entonces van a tener un registro para cada persona.
+
+409
+00:43:57.200 --> 00:44:00.279
+Arroyo Arzubi Carlos A.: y todos los registros van a tener los mismos campos
+
+410
+00:44:00.390 --> 00:44:11.110
+Arroyo Arzubi Carlos A.: en 1. Tendrán el D. N, I El nombre número documen, No, Yo lo dije. Bueno, la la fecha de nacimiento Todo lo que quieran o si tienen un archivo de artículos.
+
+411
+00:44:11.740 --> 00:44:20.749
+Arroyo Arzubi Carlos A.: va a tener el Código del artículo, el nombre del artículo, el precio del artículo, el volumen que tiene bueno todos los datos que le interese a alguien de un archivo
+
+412
+00:44:20.990 --> 00:44:22.270
+Arroyo Arzubi Carlos A.: de artículos.
+
+413
+00:44:24.300 --> 00:44:32.450
+Arroyo Arzubi Carlos A.: mientras que cuando hablamos de archivos no estructurados o de flujo de bytes. Hablamos del resto de los archivos
+
+414
+00:44:32.670 --> 00:44:40.919
+Arroyo Arzubi Carlos A.: del del video del archivo Bat del directorio de todo lo que quiera
+
+415
+00:44:41.730 --> 00:44:47.780
+Arroyo Arzubi Carlos A.: cuando hablamos entonces de archivos estructurados, son archivos
+
+416
+00:44:47.980 --> 00:44:51.309
+Arroyo Arzubi Carlos A.: que, repito, están formados por registros
+
+417
+00:44:51.570 --> 00:44:57.840
+Arroyo Arzubi Carlos A.: y cada registro formado por campos. ¿por qué hago hincapié en esta clasificación?
+
+418
+00:44:58.160 --> 00:45:00.480
+Arroyo Arzubi Carlos A.: Porque lo que vamos a ver nosotros
+
+419
+00:45:01.370 --> 00:45:09.660
+Arroyo Arzubi Carlos A.: ahora, a partir de ahora es: vamos a hablar solamente sobre archivos estructurados.
+
+420
+00:45:10.120 --> 00:45:15.400
+Arroyo Arzubi Carlos A.: No vamos a hablar del archivo de fotografía. El archivo, archivos estructurados.
+
+421
+00:45:16.990 --> 00:45:30.649
+Arroyo Arzubi Carlos A.: Los sistemas operativos manejan algunos archivos estructurados, pueden ser iguales o distintos, pero
+
+422
+00:45:30.770 --> 00:45:40.670
+Arroyo Arzubi Carlos A.: no es que manejan todo. Manejan algunos algunos archivos estructurados. Me facilita el Hemos el sistema operativo.
+
+423
+00:45:42.380 --> 00:45:50.000
+Arroyo Arzubi Carlos A.: Estos archivos que maneja el sistema operativo. Archivos estructurados.
+
+424
+00:45:50.320 --> 00:45:59.509
+Arroyo Arzubi Carlos A.: Se los conoce también como archivos tradicionales, porque son archivos únicos donde yo puedo tener.
+
+425
+00:46:00.170 --> 00:46:02.770
+Arroyo Arzubi Carlos A.: Ya vamos a ver distintos tipos.
+
+426
+00:46:03.240 --> 00:46:07.439
+Arroyo Arzubi Carlos A.: Ustedes han visto base de datos.
+
+427
+00:46:08.570 --> 00:46:19.529
+Arroyo Arzubi Carlos A.: Yo pregunto: la base de datos es un archivo tradicional? Es un archivo. ¿qué es una base de datos.
+
+428
+00:46:19.940 --> 00:46:22.650
+Arroyo Arzubi Carlos A.: ya que lo han visto. No es tema mío, pero bueno.
+
+429
+00:46:26.240 --> 00:46:28.280
+LUCAS BONAFFINI: Es un archivo.
+
+430
+00:46:33.850 --> 00:46:38.679
+MATIAS BASILICO: Francia, 2 tiene el motor y son varios archivos.
+
+431
+00:46:43.290 --> 00:46:45.679
+JOAQUÍN MULEIRO BELTRAN: Depende el sistema base de datos sonoridad.
+
+432
+00:46:47.270 --> 00:46:48.380
+LUCAS BONAFFINI: Una tercera.
+
+433
+00:46:48.720 --> 00:46:51.249
+Arroyo Arzubi Carlos A.: Y el sistema operativo tiene base de datos.
+
+434
+00:46:54.970 --> 00:46:55.400
+ARON FRAGA: Sí.
+
+435
+00:46:55.400 --> 00:46:55.830
+FRANCO EMMANUEL SICARDO: Sí.
+
+436
+00:46:55.830 --> 00:46:57.050
+ARON FRAGA: Debería tenerlo?
+
+437
+00:46:57.880 --> 00:47:00.039
+ARON FRAGA: ¿no? Pero la tienen. Sí.
+
+438
+00:47:00.540 --> 00:47:03.890
+TOBÍAS WIRTH: Una base de datos no puede ser administrada por el sistema operativo.
+
+439
+00:47:06.640 --> 00:47:13.500
+Arroyo Arzubi Carlos A.: Una base de datos. Es una aplicación que viene con su software, ¿
+
+440
+00:47:14.500 --> 00:47:17.789
+Arroyo Arzubi Carlos A.: Que se compra una base de datos.
+
+441
+00:47:17.970 --> 00:47:33.050
+Arroyo Arzubi Carlos A.: y entonces ustedes utilizan esa aplicación como utilizan el Office. ¿cómo utilizan el Word? ¿cómo utilizan el Excel? Bueno, dice: voy a utilizar una base de datos.
+
+442
+00:47:35.200 --> 00:47:36.970
+Arroyo Arzubi Carlos A.: entonces.
+
+443
+00:47:36.970 --> 00:47:39.009
+FRANCO EMMANUEL SICARDO: No sé si yo agarro
+
+444
+00:47:39.490 --> 00:47:47.870
+FRANCO EMMANUEL SICARDO: abro un bloc de notas y empiezo a notar datos en columna, no sería una base de datos. Eso también, o sea, en la definición primitiva del bloqueo, base de datos.
+
+445
+00:47:48.130 --> 00:47:48.810
+Arroyo Arzubi Carlos A.: No.
+
+446
+00:47:49.830 --> 00:47:52.770
+ARON FRAGA: Pero profe. De hecho, el registro de Windows es una base de datos.
+
+447
+00:47:53.480 --> 00:47:54.010
+Arroyo Arzubi Carlos A.: No el.
+
+448
+00:47:54.010 --> 00:47:54.530
+ARON FRAGA: Eternamente.
+
+449
+00:47:55.390 --> 00:48:00.500
+Arroyo Arzubi Carlos A.: Windows. Este no.
+
+450
+00:48:02.730 --> 00:48:04.690
+ARON FRAGA: También me lo enseñaron como que sí, pero bueno.
+
+451
+00:48:04.690 --> 00:48:08.770
+Arroyo Arzubi Carlos A.: Vos usás vos usás Windows ¿Vos usás de Windows
+
+452
+00:48:09.020 --> 00:48:11.760
+Arroyo Arzubi Carlos A.: en la base de datos de Windows como a través de qué.
+
+453
+00:48:11.760 --> 00:48:14.199
+ARON FRAGA: No, Yo no la puedo usar. Es el.
+
+454
+00:48:14.200 --> 00:48:23.030
+Arroyo Arzubi Carlos A.: Entonces. Pero entonces, ¿de qué estamos hablando? Estamos hablando de cómo está diseñado internamente? Windows: no me importa. Yo estoy hablando de una base de datos que usés vos.
+
+455
+00:48:23.340 --> 00:48:23.870
+ARON FRAGA: okay.
+
+456
+00:48:23.870 --> 00:48:32.830
+LUCAS BONAFFINI: Igual. La pregunta fue si una base de datos de un archivo no, Si 1 no tiene, o sea, lo que dice Aaron es cierto.
+
+457
+00:48:33.360 --> 00:48:43.709
+LUCAS BONAFFINI: Entonces, o sea, está bien el el concepto, pero al final, una base de datos es es es un archivo en sí, porque Vos Podés tener una base de datos.
+
+458
+00:48:43.710 --> 00:48:44.130
+Arroyo Arzubi Carlos A.: A ver.
+
+459
+00:48:44.130 --> 00:48:45.420
+LUCAS BONAFFINI: Él es un archivo.
+
+460
+00:48:45.420 --> 00:48:45.800
+Arroyo Arzubi Carlos A.: Sí, claro.
+
+461
+00:48:45.800 --> 00:48:46.179
+LUCAS BONAFFINI: A la.
+
+462
+00:48:46.180 --> 00:48:51.569
+Arroyo Arzubi Carlos A.: Tá: Bien, si yo dije que todo era todo, era un archivo, la base de datos también va a ser un archivo.
+
+463
+00:48:51.800 --> 00:48:52.830
+Arroyo Arzubi Carlos A.: y vamos a ese punto.
+
+464
+00:48:52.830 --> 00:48:53.590
+LUCAS BONAFFINI: Claro.
+
+465
+00:48:53.590 --> 00:48:54.260
+Arroyo Arzubi Carlos A.: Pero está bien.
+
+466
+00:48:54.260 --> 00:48:54.700
+ARON FRAGA: Claro.
+
+467
+00:48:54.700 --> 00:48:55.080
+Arroyo Arzubi Carlos A.: Bueno.
+
+468
+00:48:55.080 --> 00:48:55.440
+ARON FRAGA: A tiene.
+
+469
+00:48:55.440 --> 00:48:55.910
+Arroyo Arzubi Carlos A.: A ver.
+
+470
+00:48:55.910 --> 00:48:56.540
+ARON FRAGA: Ahora se me pregunto.
+
+471
+00:48:56.540 --> 00:48:57.920
+Arroyo Arzubi Carlos A.: Bien, perfecto.
+
+472
+00:48:58.290 --> 00:49:02.210
+Arroyo Arzubi Carlos A.: ¿qué es una base de datos? Pregunto, Definición de base de datos.
+
+473
+00:49:04.900 --> 00:49:12.909
+ARON FRAGA: Un software que administra cierta cierta información estructurada porque está estructurada. Depende de la base de datos, pero generalmente son estructuradas.
+
+474
+00:49:13.420 --> 00:49:19.260
+Arroyo Arzubi Carlos A.: Sí, Bien, le faltan algunos detalles interesantes.
+
+475
+00:49:19.260 --> 00:49:19.660
+ARON FRAGA: Que se.
+
+476
+00:49:19.660 --> 00:49:21.110
+TOBÍAS WIRTH: Tengo, tengo.
+
+477
+00:49:21.110 --> 00:49:21.660
+ARON FRAGA: De de.
+
+478
+00:49:21.660 --> 00:49:25.320
+TOBÍAS WIRTH: De la unidad, tengo lo que me anoté de la unidad.
+
+479
+00:49:26.700 --> 00:49:27.380
+Arroyo Arzubi Carlos A.: En el.
+
+480
+00:49:27.380 --> 00:49:33.390
+TOBÍAS WIRTH: De lo que me anoté de la unidad de la unidad 9, lo que es una ba la definición de lo que es una base de datos.
+
+481
+00:49:33.810 --> 00:49:35.369
+Arroyo Arzubi Carlos A.: Que es peste, sida.
+
+482
+00:49:35.840 --> 00:49:43.090
+TOBÍAS WIRTH: Decía que era un conjunto de datos centralizados con la menor redundancia, ya que vinculan las tablas por la redundancia del campo clave.
+
+483
+00:49:43.430 --> 00:49:44.760
+Arroyo Arzubi Carlos A.: Y eso a qué heladillo.
+
+484
+00:49:46.940 --> 00:49:48.160
+Arroyo Arzubi Carlos A.: La de Yoya.
+
+485
+00:49:48.810 --> 00:49:50.650
+TOBÍAS WIRTH: No sé. La tenía ahí anotada.
+
+486
+00:49:51.020 --> 00:49:55.050
+Arroyo Arzubi Carlos A.: Sí, bueno, pero eso lo tenía que haber visto cuando vieron base de datos.
+
+487
+00:49:55.240 --> 00:49:56.790
+TOBÍAS WIRTH: Sí, y falta.
+
+488
+00:49:56.790 --> 00:50:05.240
+Arroyo Arzubi Carlos A.: Conjunto escúchenme conjunto de datos organizados centralizados
+
+489
+00:50:05.530 --> 00:50:14.199
+Arroyo Arzubi Carlos A.: con mínimas centralizados con mínima redundancia para satisfacer múltiples aplicaciones
+
+490
+00:50:17.280 --> 00:50:22.100
+Arroyo Arzubi Carlos A.: para satisfacer múltiples aplicaciones. Athleti?
+
+491
+00:50:27.030 --> 00:50:36.930
+Arroyo Arzubi Carlos A.: Porque dice, bueno, vamos por, bueno, no voy a tratar de enamorarme mucho, porque si no termino, no importa, pero estos son temas importantes porque ya vieron la materia y tendría que tenerlo.
+
+492
+00:50:37.090 --> 00:50:41.060
+Arroyo Arzubi Carlos A.: ¿por qué dije con mínima redundancia.
+
+493
+00:50:45.000 --> 00:50:49.709
+ARON FRAGA: Ahí. La base de datos se puede, intentan no ser redundante.
+
+494
+00:50:50.550 --> 00:50:54.159
+Arroyo Arzubi Carlos A.: Pero ¿por qué dije? Mínima redundancia? ¿por qué no dije sin redundancia
+
+495
+00:50:58.900 --> 00:51:00.420
+Arroyo Arzubi Carlos A.: y.
+
+496
+00:51:00.850 --> 00:51:03.579
+LUCAS BONAFFINI: Y por las relaciones que puede llegar a tener.
+
+497
+00:51:04.000 --> 00:51:05.780
+Arroyo Arzubi Carlos A.: Las relaciones, ¿Cómo se hacen.
+
+498
+00:51:06.660 --> 00:51:09.010
+LUCAS BONAFFINI: Y dependiendo tener un montón de 1.
+
+499
+00:51:09.010 --> 00:51:09.840
+Arroyo Arzubi Carlos A.: Cómo se hace.
+
+500
+00:51:09.840 --> 00:51:10.400
+LUCAS BONAFFINI: No.
+
+501
+00:51:10.940 --> 00:51:13.169
+Arroyo Arzubi Carlos A.: No, no como son. ¿no? ¿cómo se hacen.
+
+502
+00:51:13.390 --> 00:51:15.890
+LUCAS BONAFFINI: Y depende de qué tipo de base de datos, si es norma.
+
+503
+00:51:15.890 --> 00:51:18.500
+Arroyo Arzubi Carlos A.: Bueno, ¿qué tipo de asida tuvieron ustedes.
+
+504
+00:51:19.230 --> 00:51:21.629
+LUCAS BONAFFINI: Relacional y no relacional.
+
+505
+00:51:22.140 --> 00:51:25.969
+Arroyo Arzubi Carlos A.: Bien, la no. Ah, no relacional. ¿qué vieron El objeto?
+
+506
+00:51:27.210 --> 00:51:31.690
+LUCAS BONAFFINI: En realidad no es objeto si no son documentos, conexiones y documentos.
+
+507
+00:51:31.830 --> 00:51:35.350
+Arroyo Arzubi Carlos A.: Bueno, las 2, la relacional y el objeto.
+
+508
+00:51:35.800 --> 00:51:39.930
+Arroyo Arzubi Carlos A.: ¿cómo vinculan las tablas una con otra? ¿cómo se vinculan.
+
+509
+00:51:39.930 --> 00:51:41.490
+LUCAS BONAFFINI: Con clave primaria.
+
+510
+00:51:43.010 --> 00:51:44.220
+LUCAS BONAFFINI: Sí, las hectáreas.
+
+511
+00:51:44.360 --> 00:51:45.700
+Arroyo Arzubi Carlos A.: Qué quiere decir.
+
+512
+00:51:47.360 --> 00:51:51.779
+LUCAS BONAFFINI: Que es la mínima redundancia, porque ahí está la mínima redundancia.
+
+513
+00:51:51.780 --> 00:51:53.720
+Arroyo Arzubi Carlos A.: Ah, bien, Bueno, ahí está.
+
+514
+00:51:53.720 --> 00:51:54.830
+LUCAS BONAFFINI: Eso está el de.
+
+515
+00:51:54.830 --> 00:51:55.180
+Arroyo Arzubi Carlos A.: Creo que.
+
+516
+00:51:55.180 --> 00:51:56.200
+LUCAS BONAFFINI: Valoración.
+
+517
+00:51:56.460 --> 00:52:02.999
+Arroyo Arzubi Carlos A.: Cuando se habla de mínima redundancia, es porque las bases de datos relacionales sea objeto o no sea objeto
+
+518
+00:52:03.440 --> 00:52:09.540
+Arroyo Arzubi Carlos A.: la vinculación entre las tablas se realiza a través de la redundancia de campos.
+
+519
+00:52:09.970 --> 00:52:25.830
+Arroyo Arzubi Carlos A.: Obviamente, las bases de datos utilizan sus punteros internos, pero podríamos hacer la base de datos sin usar los punteros internos, y sería lo ideal hacerlo. Nosotros, utilizando los campos que de que disponemos y los campos que disponemos son el campo clave.
+
+520
+00:52:26.170 --> 00:52:39.899
+Arroyo Arzubi Carlos A.: El campo clave de cada tabla debería ser lo que nosotros tendríamos que usar para hacer las vinculaciones. Claro, es más cómodo hacerlo con el puntero, Pero después quedamos presos de esa base de datos.
+
+521
+00:52:39.910 --> 00:52:48.470
+Arroyo Arzubi Carlos A.: porque porque los putero lo conocen ellos el que hizo la base de datos diseñó el motor y todo lo demás. Si yo utilizo los campos
+
+522
+00:52:48.630 --> 00:52:59.179
+Arroyo Arzubi Carlos A.: claves determinados por mí no. Identi. Si yo pongo por ejemplo el caso del personal y pongo el D. N. I. El campo clave va a ser el Dni
+
+523
+00:52:59.290 --> 00:53:08.290
+Arroyo Arzubi Carlos A.: y yo utilizo el D N. I para vincular esa tabla con otra. Voy a repetir el Dni en la otra tabla, bueno, pero voy a hacer corto, porque si no me voy a ir a
+
+524
+00:53:08.890 --> 00:53:15.619
+Arroyo Arzubi Carlos A.: pero hay algo importante que me interesa, que sepan más allá de cómo funciona la base de datos, porque eso lo deberían saber ya.
+
+525
+00:53:16.990 --> 00:53:24.079
+Arroyo Arzubi Carlos A.: Otra pregunta: una empresa: cuántas vallas de datos conviene que tenga más o menos.
+
+526
+00:53:24.080 --> 00:53:26.250
+LUCAS BONAFFINI: Una, no más de 1.
+
+527
+00:53:27.110 --> 00:53:28.330
+Arroyo Arzubi Carlos A.: Otra opción.
+
+528
+00:53:30.940 --> 00:53:34.019
+Arroyo Arzubi Carlos A.: Nadie quiere hablar Lucas valiente, El único que larga.
+
+529
+00:53:34.020 --> 00:53:37.460
+ARON FRAGA: No. O sea, en realidad lo que dice Lucas, es verdad, Pero hoy en día no pasa eso.
+
+530
+00:53:37.920 --> 00:53:39.540
+Arroyo Arzubi Carlos A.: Lo que no pasa es otra cosa.
+
+531
+00:53:40.330 --> 00:53:42.069
+Arroyo Arzubi Carlos A.: La base de datos.
+
+532
+00:53:42.290 --> 00:53:46.820
+Arroyo Arzubi Carlos A.: El objetivo de la la base de datos surgieron para unificar.
+
+533
+00:53:46.820 --> 00:53:47.650
+ARON FRAGA: Todos los datos.
+
+534
+00:53:48.150 --> 00:53:52.539
+Arroyo Arzubi Carlos A.: Para claro, para para tener todos los datos en un solo lugar.
+
+535
+00:53:52.970 --> 00:53:53.769
+Arroyo Arzubi Carlos A.: Y así vamos a.
+
+536
+00:53:53.770 --> 00:53:54.580
+ARON FRAGA: La cola, si.
+
+537
+00:53:54.580 --> 00:54:02.110
+Arroyo Arzubi Carlos A.: De los datos cuando estaban los archivos independientes, que son los que vamos a ver ahora archivos tradicionales.
+
+538
+00:54:02.960 --> 00:54:12.000
+Arroyo Arzubi Carlos A.: Las empresas repetían los archivos tradicionales en distintos lugares. Por ejemplo, tenían aquello en la Universidad de Palermo. Los datos míos
+
+539
+00:54:12.000 --> 00:54:23.089
+Arroyo Arzubi Carlos A.: en una en un archivo de personal lo usaban en la parte de docencia. Y la parte de finanzas tenían otro archivo de personal donde me tenían a mí.
+
+540
+00:54:23.280 --> 00:54:32.869
+Arroyo Arzubi Carlos A.: ¿y qué pasaba entonces? Yo de pronto tenía mis datos repetidos, mi dirección repetida en esos 2 archivos.
+
+541
+00:54:33.080 --> 00:54:36.360
+Arroyo Arzubi Carlos A.: Entonces, cuando yo de pronto me mudaba
+
+542
+00:54:36.520 --> 00:54:40.190
+Arroyo Arzubi Carlos A.: y cambiaba mi domicilio. Resulta que
+
+543
+00:54:40.500 --> 00:54:54.380
+Arroyo Arzubi Carlos A.: no lo actualizaban en todos los archivos que porque este lo manejaba José el otro maneja Pedro que si ni tengo relación ni me vinculo, aparte, me llevo mal, es de River, de boca. No importa. Cada 1 hacía su vida.
+
+544
+00:54:54.630 --> 00:55:04.340
+Arroyo Arzubi Carlos A.: Entonces, ¿qué pasaba? Yo cambiaba mi domicilio. En una de esos, por ejemplo, el de finanzas, me decía, no te mandamos, recibo de avi No, no me cambié.
+
+545
+00:55:05.180 --> 00:55:22.349
+Arroyo Arzubi Carlos A.: Entonces, ¿qué pasaba después? Supongamos el rector o el decano, decía, a ver. Quiero mandar esta nota a arroyo, Le quiero mandar una invitación. Lo que sea. Bien. Entonces dependía a quién le preguntara, Le daba un domicilio o le daba el otro.
+
+546
+00:55:23.180 --> 00:55:28.959
+Arroyo Arzubi Carlos A.: Bueno, esa es inconsistencia de datos. Esto es un tema terrible en informática.
+
+547
+00:55:29.340 --> 00:55:38.300
+Arroyo Arzubi Carlos A.: No es un tema menor. Si ustedes hacen un un software, y ocurre esto. El que consulta no consulta más. Ese software
+
+548
+00:55:38.430 --> 00:55:44.259
+Arroyo Arzubi Carlos A.: no es un tema menor justamente para evitar eso es que se crearon las bases de datos.
+
+549
+00:55:44.460 --> 00:55:54.909
+Arroyo Arzubi Carlos A.: entonces cada empresa debería, como bien dijo Aaron, no lo cumplen, pero que no lo cumplan. No quiere decir que no es lo que haya que hacer.
+
+550
+00:55:55.040 --> 00:56:00.340
+Arroyo Arzubi Carlos A.: La empresa tiene que tener a empresas que sí, obviamente, pero digamos que hay muchos que no
+
+551
+00:56:00.870 --> 00:56:03.259
+Arroyo Arzubi Carlos A.: tendría que tener una base de datos.
+
+552
+00:56:03.450 --> 00:56:06.149
+Arroyo Arzubi Carlos A.: un administrador de la base de datos
+
+553
+00:56:06.330 --> 00:56:10.850
+Arroyo Arzubi Carlos A.: y los datos están escritos en esa base de datos, mi domicilio una sola vez.
+
+554
+00:56:11.460 --> 00:56:26.249
+Arroyo Arzubi Carlos A.: todo aquel que quiera realizar una aplicación. Supongamos que dice: bueno, yo quiero hacer una aplicación para permitir el estacionamiento de autos de los docentes acá en la facultad. Entonces ese tipo que va a hacer la aplicación
+
+555
+00:56:27.030 --> 00:56:33.460
+Arroyo Arzubi Carlos A.: le pide al administrador de la base de datos, yo necesito acceder a estos datos
+
+556
+00:56:35.050 --> 00:56:41.920
+Arroyo Arzubi Carlos A.: y entonces el administrador le da el permiso. Pero además, yo necesito agregar
+
+557
+00:56:42.030 --> 00:56:55.679
+Arroyo Arzubi Carlos A.: una tabla con los con el tipo de vehículo. Con esto listo, el administrador agrega a la base de datos, es decir, que no hay ningún inconveniente en que exista una sola base de datos.
+
+558
+00:56:57.050 --> 00:56:59.530
+Arroyo Arzubi Carlos A.: Pero siempre existe
+
+559
+00:56:59.660 --> 00:57:16.870
+Arroyo Arzubi Carlos A.: el deseo irrefrenable del ser humano de manejar su independencia a toda costa, y entonces aparecen pequeñas bases de datos en distintos lados que atentan contra la base general de la empresa. Pero ustedes.
+
+560
+00:57:17.460 --> 00:57:22.539
+Arroyo Arzubi Carlos A.: como informáticos, tienen que tener claro esto que estoy diciendo.
+
+561
+00:57:25.140 --> 00:57:31.060
+Arroyo Arzubi Carlos A.: es decir, el objetivo de la empresa es tener una sola base de datos y que todo el mundo
+
+562
+00:57:31.460 --> 00:57:40.140
+Arroyo Arzubi Carlos A.: breve. De ahí, es decir, todo lo que tenga que sacar. Decir que si cambia mi domicilio, mi domicilio está escrito una sola vez.
+
+563
+00:57:43.640 --> 00:57:47.780
+Arroyo Arzubi Carlos A.: Y otro tema. Y termino con base de datos, porque no es lo que voy a dar yo.
+
+564
+00:57:48.410 --> 00:57:49.380
+Arroyo Arzubi Carlos A.: Mhm.
+
+565
+00:57:50.020 --> 00:57:53.570
+Arroyo Arzubi Carlos A.: Tienen que darle mucha bola al diseño de la base de datos.
+
+566
+00:57:55.090 --> 00:58:02.389
+Arroyo Arzubi Carlos A.: aplicar la primera, segunda, tercera forma normal, Todo todo eso que ya lo saben y seguro que lo hacen muy bien
+
+567
+00:58:02.920 --> 00:58:04.030
+Arroyo Arzubi Carlos A.: o no.
+
+568
+00:58:05.800 --> 00:58:09.540
+Arroyo Arzubi Carlos A.: ¿por qué, cuando ustedes hagan una aplicación.
+
+569
+00:58:11.250 --> 00:58:15.769
+Arroyo Arzubi Carlos A.: van a armar una base de datos y la aplicación bandar
+
+570
+00:58:15.880 --> 00:58:20.240
+Arroyo Arzubi Carlos A.: por más mal hecha que esté la base de datos, porque la van a hacer andar
+
+571
+00:58:22.610 --> 00:58:29.730
+Arroyo Arzubi Carlos A.: el problema de una base de datos mal diseñada viene cuando vienen las modificaciones.
+
+572
+00:58:31.370 --> 00:58:38.370
+Arroyo Arzubi Carlos A.: Nosotros yo ya le dije a ustedes que la principal preocupación que tienen que tener cuando desarrollen un software.
+
+573
+00:58:39.090 --> 00:58:44.460
+Arroyo Arzubi Carlos A.: es saber que lo van a tener que cambiar dentro de 3 meses, dentro de 6 meses, dentro de un año.
+
+574
+00:58:45.700 --> 00:58:59.210
+Arroyo Arzubi Carlos A.: Siempre siempre es siempre entonces cuando ustedes tienen una base de datos mal diseñada y vienen cambios
+
+575
+00:59:00.430 --> 00:59:05.149
+Arroyo Arzubi Carlos A.: porque cambió algo, porque hay que agregar algo, nuevas funciones, lo que sea.
+
+576
+00:59:05.960 --> 00:59:08.929
+Arroyo Arzubi Carlos A.: empiezan a hacer unos parches horribles
+
+577
+00:59:10.380 --> 00:59:18.460
+Arroyo Arzubi Carlos A.: por ahí pasa un año. Pasan 2, pasan 3, y llega un momento que esa base de datos está tan corrupta
+
+578
+00:59:19.340 --> 00:59:20.969
+Arroyo Arzubi Carlos A.: que hay que armarla de vuelta.
+
+579
+00:59:22.480 --> 00:59:31.020
+Arroyo Arzubi Carlos A.: Si ustedes tienen una base de datos bien diseñada que brinde las mayores posibilidades.
+
+580
+00:59:31.660 --> 00:59:37.670
+Arroyo Arzubi Carlos A.: van a poder hacerle modificaciones sin y
+
+581
+00:59:38.420 --> 00:59:43.830
+Arroyo Arzubi Carlos A.: sin afectarla, sino haciéndola haciéndola que funcione cada vez peor.
+
+582
+00:59:44.750 --> 00:59:46.030
+Arroyo Arzubi Carlos A.: Bueno.
+
+583
+00:59:46.510 --> 00:59:56.139
+Arroyo Arzubi Carlos A.: acá. Es un tema largo. A mí es un tema que me gustaba mucho hace rato, pero no es un tema que yo doy acá pero hago hincapié porque conceptualmente
+
+584
+00:59:56.260 --> 01:00:03.789
+Arroyo Arzubi Carlos A.: hay que saber que es el deber ser, y después 1 en cada lugar que vaya, hará lo que pueda.
+
+585
+01:00:04.280 --> 01:00:10.560
+Arroyo Arzubi Carlos A.: Pero lo que no puede 1 es no saber qué es lo que hay que hacer y por qué hay que hacerlo
+
+586
+01:00:10.940 --> 01:00:20.050
+Arroyo Arzubi Carlos A.: después. Ustedes van a una empresa y tiene cada 1 su base de datos y veo qué van a hacer. No se van a. No van a dejar de laburar. Bueno, está bien. A ustedes les gusta así. Yo agarro esto.
+
+587
+01:00:21.430 --> 01:00:25.290
+Arroyo Arzubi Carlos A.: pero 1 tiene que ser consciente y como informático.
+
+588
+01:00:25.460 --> 01:00:34.570
+Arroyo Arzubi Carlos A.: este punto es un punto que ustedes deben expresar en algún momento de bueno, ya me voy por la listo. No hablo más de la base de datos.
+
+589
+01:00:35.270 --> 01:00:37.870
+Arroyo Arzubi Carlos A.: Vamos a los archivos tradicionales.
+
+590
+01:00:38.530 --> 01:00:42.390
+Arroyo Arzubi Carlos A.: estos archivos tradicionales.
+
+591
+01:00:43.800 --> 01:00:53.429
+Arroyo Arzubi Carlos A.: que son los que vamos a ver ahora archivos estructurados son los que vamos a ver que son los que sí El sistema operativo maneja y los pone a disposición.
+
+592
+01:00:53.850 --> 01:01:00.110
+Arroyo Arzubi Carlos A.: Tiene forma de direccionamiento, la forma de direccionamiento
+
+593
+01:01:00.910 --> 01:01:04.340
+Arroyo Arzubi Carlos A.: a un a una cosa que no dije.
+
+594
+01:01:04.690 --> 01:01:12.230
+Arroyo Arzubi Carlos A.: Ustedes han visto bases de rato relacionales, pero antes había base de datos de red
+
+595
+01:01:12.230 --> 01:01:29.539
+Arroyo Arzubi Carlos A.: y otro tipo de base de datos donde no había redundancia. Y en la red y en la red en en la base de datos eran punteros internos que había. No había No había redundancia de datos. La redundancia de datos surge con las bases de datos relacionales
+
+596
+01:01:29.750 --> 01:01:32.120
+Arroyo Arzubi Carlos A.: que son muy cómoda, pero bueno.
+
+597
+01:01:32.790 --> 01:01:35.270
+Arroyo Arzubi Carlos A.: forma de direccionamiento de un archivo.
+
+598
+01:01:36.120 --> 01:01:46.019
+Arroyo Arzubi Carlos A.: el direccionamiento de un archivo. Es decir, estamos hablando de direccionamientos dentro de un archivo, el direccionamiento de los registros
+
+599
+01:01:46.260 --> 01:01:48.410
+Arroyo Arzubi Carlos A.: dentro de un archivo.
+
+600
+01:01:48.650 --> 01:01:56.690
+Arroyo Arzubi Carlos A.: Repito: estamos hablando del direccionamiento de los registros dentro de un archivo se puede hacer de 3 maneras distintas.
+
+601
+01:01:57.530 --> 01:02:01.240
+Arroyo Arzubi Carlos A.: y me voy a apurar físico.
+
+602
+01:02:01.390 --> 01:02:06.880
+Arroyo Arzubi Carlos A.: relativo o simbólico. Esas 3 formas de direccionamiento.
+
+603
+01:02:07.670 --> 01:02:16.730
+Arroyo Arzubi Carlos A.: Existe el direccionamiento físico es cuando yo direcciono el registro que estoy buscando
+
+604
+01:02:16.850 --> 01:02:19.949
+Arroyo Arzubi Carlos A.: a través de determinar un número de bytes
+
+605
+01:02:20.620 --> 01:02:25.109
+Arroyo Arzubi Carlos A.: que yo debo correrme desde la posición donde está
+
+606
+01:02:25.310 --> 01:02:37.930
+Arroyo Arzubi Carlos A.: colocado el archivo. El archivo empieza en la dirección. Este 1 000, Bueno, me tendré que correr 250 Byte para encontrar el registro de González.
+
+607
+01:02:38.550 --> 01:02:43.519
+Arroyo Arzubi Carlos A.: Eso es direccionamiento físico. Es decir, que estoy teniendo en cuenta
+
+608
+01:02:43.920 --> 01:02:47.089
+Arroyo Arzubi Carlos A.: la estructura de de mi disco.
+
+609
+01:02:47.090 --> 01:02:49.880
+FRANCO EMMANUEL SICARDO: Perdón. Profe. No entendí, o sea, para qué me corren.
+
+610
+01:02:50.570 --> 01:02:52.199
+Arroyo Arzubi Carlos A.: Para buscar un registro.
+
+611
+01:02:52.910 --> 01:03:00.030
+Arroyo Arzubi Carlos A.: Los archivos no no tienen los registros definidos,
+
+612
+01:03:00.470 --> 01:03:12.580
+Arroyo Arzubi Carlos A.: explícitamente, sino que yo tengo que saber que cada registro va a ocupar tantos bytes. Y si yo quiero ir al cuarto registro, me tengo que correr tantos bytes. Eso es lo que estoy diciendo.
+
+613
+01:03:14.280 --> 01:03:24.759
+Arroyo Arzubi Carlos A.: Otra forma es relativo el direccionamiento relativo más evolucionado, obviamente más evolucionado.
+
+614
+01:03:24.960 --> 01:03:27.899
+Arroyo Arzubi Carlos A.: Yo solamente yo tengo que saber
+
+615
+01:03:29.100 --> 01:03:38.799
+Arroyo Arzubi Carlos A.: qué número de registro es dentro del archivo para poder encontrarlo. Entonces digo, del archivo de personal, el registro, 55
+
+616
+01:03:39.020 --> 01:03:42.810
+Arroyo Arzubi Carlos A.: o el registro 10 con el registro 2 000,
+
+617
+01:03:43.540 --> 01:03:56.149
+Arroyo Arzubi Carlos A.: es decir, direccionamiento relativo, es donde yo le digo el número de registro que quiero ir. No tengo que decirle los by como ven, es un avance a nivel de comodidad
+
+618
+01:03:56.690 --> 01:04:07.509
+Arroyo Arzubi Carlos A.: en el funcionamiento administrativamente, requiere más tema administrativo. Este tipo de archivo, obviamente.
+
+619
+01:04:08.120 --> 01:04:11.630
+Arroyo Arzubi Carlos A.: Y finalmente que acabo de mencionar, el simbólico.
+
+620
+01:04:11.790 --> 01:04:19.080
+Arroyo Arzubi Carlos A.: que es el que más le gusta a todos. Por supuesto, cuando trabajamos con sistemas de gestión y sistemas administrativos.
+
+621
+01:04:19.400 --> 01:04:24.149
+Arroyo Arzubi Carlos A.: porque el registro se identifica, se identifica por el campo clave.
+
+622
+01:04:24.470 --> 01:04:34.480
+Arroyo Arzubi Carlos A.: Esa es la forma de direccionamiento simbólico. Entonces ubicamos al registro por el campo clave. Por ejemplo, tengo un registro del personal. A
+
+623
+01:04:35.270 --> 01:04:41.280
+Arroyo Arzubi Carlos A.: tengo. Cada registro. Tiene una cantidad de campos, todos iguales.
+
+624
+01:04:41.630 --> 01:04:46.049
+Arroyo Arzubi Carlos A.: no siempre todos iguales, pero en general son iguales.
+
+625
+01:04:46.460 --> 01:04:49.860
+Arroyo Arzubi Carlos A.: Y hay un campo que yo lo defino como campo clave.
+
+626
+01:04:50.050 --> 01:04:59.040
+Arroyo Arzubi Carlos A.: Supongamos el Dni, Entonces, cuando voy a buscar un registro, tengo que disponer
+
+627
+01:04:59.280 --> 01:05:12.239
+Arroyo Arzubi Carlos A.: del número del Dni, del que yo quiero buscar, y con el número del Dni. Yo lo busco. Como ven, este es el más cómodo a nivel de funcionamiento.
+
+628
+01:05:12.450 --> 01:05:20.180
+Arroyo Arzubi Carlos A.: y es el que más esfuerzo requiere del sistema operativo, más memoria, más tiempo y todo lo demás.
+
+629
+01:05:21.100 --> 01:05:27.450
+Arroyo Arzubi Carlos A.: Bueno, otro tema: Tablas de archivos, tablas de archivo.
+
+630
+01:05:27.640 --> 01:05:32.179
+Arroyo Arzubi Carlos A.: Existen 2 tipos de tablas de archivo.
+
+631
+01:05:33.150 --> 01:05:40.479
+Arroyo Arzubi Carlos A.: Una se llama tabla única de todos los archivos abiertos del sistema, o más o menos así,
+
+632
+01:05:40.700 --> 01:05:50.939
+Arroyo Arzubi Carlos A.: tabla única del sistema o tabla única del sistema de archivos abiertos o más o menos así. Digo porque van a encontrar distintos nombres, pero una sola tabla
+
+633
+01:05:51.190 --> 01:05:56.569
+Arroyo Arzubi Carlos A.: que tiene el sistema operativo en una tabla donde figuran los archivos
+
+634
+01:05:56.930 --> 01:06:01.719
+Arroyo Arzubi Carlos A.: que están siendo utilizados por distintos procesos.
+
+635
+01:06:02.050 --> 01:06:04.239
+Arroyo Arzubi Carlos A.: Tiene una tabla única.
+
+636
+01:06:04.660 --> 01:06:07.210
+TOMAS GOMEZ DEAN: Como profeti el sistema operativo.
+
+637
+01:06:07.210 --> 01:06:15.630
+Arroyo Arzubi Carlos A.: Tiene una tabla donde tiene los archivos, no los archivos que están guardados, sino los archivos que están siendo usados por los distintos procesos.
+
+638
+01:06:16.080 --> 01:06:16.980
+Arroyo Arzubi Carlos A.: ¿sí?
+
+639
+01:06:20.100 --> 01:06:28.010
+Arroyo Arzubi Carlos A.: Y además, cada proceso va a tener una tabla de archivos.
+
+640
+01:06:29.500 --> 01:06:38.290
+Arroyo Arzubi Carlos A.: Es decir, tenemos una tabla única del sistema operativo que la tiene, donde tiene todas las tablas, los archivos que están siendo utilizados
+
+641
+01:06:38.570 --> 01:06:44.719
+Arroyo Arzubi Carlos A.: y luego cada 1 de los procesos tiene su propia tabla de archivo.
+
+642
+01:06:45.270 --> 01:06:58.010
+Arroyo Arzubi Carlos A.: ¿por qué? Porque bueno, en esa en la tabla de archivos de cada proceso va a tener además del archivo que está utilizando a dónde está apuntando el puntero de ese archivo.
+
+643
+01:06:58.700 --> 01:07:02.420
+Arroyo Arzubi Carlos A.: Si estoy apuntando a González a Pérez o a quien sea.
+
+644
+01:07:03.460 --> 01:07:11.759
+Arroyo Arzubi Carlos A.: mientras que en la tabla de archivos única yo puedo tener un archivo que está siendo utilizado por varios procesos.
+
+645
+01:07:12.650 --> 01:07:18.200
+Arroyo Arzubi Carlos A.: Bueno, cada proceso tiene que tener en su tabla de archivos de proceso.
+
+646
+01:07:18.430 --> 01:07:25.169
+Arroyo Arzubi Carlos A.: los archivos que está utilizando y los punteros que tiene a cada 1 de esos archivos.
+
+647
+01:07:27.630 --> 01:07:39.640
+Arroyo Arzubi Carlos A.: Bueno métodos de acceso y a la a los archivos.
+
+648
+01:07:39.870 --> 01:07:44.029
+Arroyo Arzubi Carlos A.: Bueno, en realidad, método de acceso a la memoria secundaria
+
+649
+01:07:44.610 --> 01:07:48.919
+Arroyo Arzubi Carlos A.: tenemos 2 métodos de acceso a la memoria secundaria.
+
+650
+01:07:51.370 --> 01:07:53.540
+Arroyo Arzubi Carlos A.: Únicamente 2, no hay más.
+
+651
+01:07:53.800 --> 01:07:59.920
+Arroyo Arzubi Carlos A.: Uno es el acceso secuencial y otro es el acceso directo.
+
+652
+01:08:01.480 --> 01:08:09.710
+Arroyo Arzubi Carlos A.: El acceso secuencial se aplica cuando utilizamos como memoria secundaria, la cinta
+
+653
+01:08:10.210 --> 01:08:21.899
+Arroyo Arzubi Carlos A.: cinta, cuestión que ustedes conocen, aunque ahora la usan poco, pero se usa mucho para todo lo que son backup y guardar históricos, y lo que sea.
+
+654
+01:08:22.210 --> 01:08:33.269
+Arroyo Arzubi Carlos A.: es decir, que la cinta es un método de acceso secuencial, porque porque para poder acceder a un registro
+
+655
+01:08:33.390 --> 01:08:45.229
+Arroyo Arzubi Carlos A.: o aún sí a un registro, tengo que recorrer la cinta secuencialmente hasta que llego al y
+
+656
+01:08:46.100 --> 01:08:51.000
+Arroyo Arzubi Carlos A.: al registro que quiero ver qué estoy diciendo.
+
+657
+01:09:16.490 --> 01:09:23.219
+Arroyo Arzubi Carlos A.: Nosotros tenemos la cinta que es algo así. Y acaba la cinta.
+
+658
+01:09:24.560 --> 01:09:27.060
+Arroyo Arzubi Carlos A.: y acá vamos leyendo la cinta.
+
+659
+01:09:29.630 --> 01:09:30.930
+Arroyo Arzubi Carlos A.: Entonces.
+
+660
+01:09:33.680 --> 01:09:40.919
+Arroyo Arzubi Carlos A.: si nosotros tenemos que leer un registro que está por acá voy a tener que enroscar esta cinta, esto va a tener que avanzar para Acá a
+
+661
+01:09:41.729 --> 01:09:51.109
+Arroyo Arzubi Carlos A.: va avanzando secuencialmente desde el comienzo de la cinta y recorro recorro hasta que llegó
+
+662
+01:09:51.520 --> 01:09:55.290
+Arroyo Arzubi Carlos A.: al registro que yo quería ya.
+
+663
+01:09:55.450 --> 01:09:58.690
+Arroyo Arzubi Carlos A.: Este método de acceso se llama secuenciar
+
+664
+01:09:59.550 --> 01:10:04.699
+Arroyo Arzubi Carlos A.: el otro método de acceso que existe es lo que se llama el acceso directo.
+
+665
+01:10:04.980 --> 01:10:09.960
+Arroyo Arzubi Carlos A.: que es que yo tengo el disco. Supongamos que este fuera El disco ¿
+
+666
+01:10:10.850 --> 01:10:19.139
+Arroyo Arzubi Carlos A.: Y el acceso directo es que yo puedo acceder a esta memoria secundaria directamente a
+
+667
+01:10:20.090 --> 01:10:27.870
+Arroyo Arzubi Carlos A.: a la dirección que yo quiera, sin tener que pasar por las anteriores. Es decir.
+
+668
+01:10:28.000 --> 01:10:38.440
+Arroyo Arzubi Carlos A.: el disco me permite lo que se llama acceso directo que yo para venir a este lugar, no tengo que recorrer todo el disco
+
+669
+01:10:38.810 --> 01:10:41.589
+Arroyo Arzubi Carlos A.: Hasta que llego a este lugar.
+
+670
+01:10:41.780 --> 01:10:45.189
+Arroyo Arzubi Carlos A.: Esto es entonces acceso directo.
+
+671
+01:10:45.530 --> 01:10:54.090
+Arroyo Arzubi Carlos A.: No hay otra forma de acceso secuencial, este de acá y directo este de acá
+
+672
+01:10:54.210 --> 01:10:56.140
+Arroyo Arzubi Carlos A.: Lo que vamos a ver ahora
+
+673
+01:10:56.290 --> 01:11:03.820
+Arroyo Arzubi Carlos A.: son distintos tipos de archivo que se pueden implementar en estos 2 métodos de acceso.
+
+674
+01:11:04.890 --> 01:11:08.170
+Arroyo Arzubi Carlos A.: En el método de acceso secuencial.
+
+675
+01:11:08.900 --> 01:11:17.690
+Arroyo Arzubi Carlos A.: El tipo de archivo que se puede implementar es el es el archivo secuencial lineal.
+
+676
+01:11:18.660 --> 01:11:27.400
+Arroyo Arzubi Carlos A.: Este, que está acá es un archivo secuencial lineal, no hay forma de implementar otro tipo de archivo
+
+677
+01:11:27.520 --> 01:11:38.790
+Arroyo Arzubi Carlos A.: con acceso secuencial, entonces el tipo de acceso acceso secuencial archivo que se puede implementar archivo secuencial, lineal.
+
+678
+01:11:41.100 --> 01:11:43.400
+Arroyo Arzubi Carlos A.: este archivo secuencial lineal.
+
+679
+01:11:45.290 --> 01:11:51.040
+Arroyo Arzubi Carlos A.: ¡qué inconveniente Les parece que tiene pregunto.
+
+680
+01:11:55.470 --> 01:12:00.709
+ARON FRAGA: Debería guardar algo en la memoria, porque si quiero reutilizarlo, tendrá que.
+
+681
+01:12:00.710 --> 01:12:01.100
+Arroyo Arzubi Carlos A.: No un.
+
+682
+01:12:01.100 --> 01:12:11.979
+ARON FRAGA: Para atrás, que debería guardar cierta información en la memoria, porque si quiere reutilizar algo que ya pasó, la cinta debería volver para atrás. Eso entiendo que podría ser un problema
+
+683
+01:12:12.790 --> 01:12:19.079
+ARON FRAGA: no o que, para llegar a cierta información, tengo que recorrer la cinta hasta cierto punto.
+
+684
+01:12:19.340 --> 01:12:36.760
+Arroyo Arzubi Carlos A.: Eso sí, pero eso es la característica de cómo funciona, con lo cual obviamente es más lento. Eso está claro. Es obvio que si yo voy a acceder a este a este registro y tengo que hacer secuencial, Voy a tardar más que si vengo acá Pero yo dije.
+
+685
+01:12:36.910 --> 01:12:48.459
+Arroyo Arzubi Carlos A.: ¿qué inconveniente? Esto no es un inconveniente. Esto es una cuestión de que este más eficiente, más rápido y todo lo demás. ¿qué inconveniente o qué característica tiene este tipo de archivo
+
+686
+01:12:50.140 --> 01:12:58.459
+Arroyo Arzubi Carlos A.: armado sobre, bueno, o el archivo secuencial que acabo de mencionar, que está acá
+
+687
+01:13:02.090 --> 01:13:03.700
+Arroyo Arzubi Carlos A.: Nadie se le ocurre nada.
+
+688
+01:13:06.980 --> 01:13:19.270
+Arroyo Arzubi Carlos A.: Por ejemplo, ¿qué pasa si yo tengo que supongamos que este sea un archivo de personal y acá están los registros de las personas. No pere González que sea.
+
+689
+01:13:19.550 --> 01:13:21.779
+Arroyo Arzubi Carlos A.: Si yo tengo que dar de alta
+
+690
+01:13:21.950 --> 01:13:29.019
+Arroyo Arzubi Carlos A.: acá un registro, el de Pérez, ¿cómo hago? Pregunto.
+
+691
+01:13:34.400 --> 01:13:38.450
+ARON FRAGA: Y tengo que borrar el que está ahí o lo sobrescribo. No sé.
+
+692
+01:13:40.200 --> 01:13:43.930
+Arroyo Arzubi Carlos A.: Bueno, si yo borro el que está, acá, estoy eliminando. Otro
+
+693
+01:13:44.730 --> 01:13:50.809
+Arroyo Arzubi Carlos A.: estaba González Arriba, González Pongo Pérez y a González, que los fletos pobres tipos.
+
+694
+01:13:50.810 --> 01:13:55.870
+ARON FRAGA: Bueno, como como dice ahí, entiendo que está, o sea, que está pasando la información, o sea.
+
+695
+01:13:56.800 --> 01:13:58.899
+JOAQUÍN MULEIRO BELTRAN: Tendría que reescribir todo.
+
+696
+01:13:59.320 --> 01:14:02.730
+Arroyo Arzubi Carlos A.: Exactamente el.
+
+697
+01:14:02.730 --> 01:14:06.810
+JOAQUÍN MULEIRO BELTRAN: Tiene que reescribir hasta volver a colocar toda la información que está.
+
+698
+01:14:06.810 --> 01:14:08.110
+Arroyo Arzubi Carlos A.: Actualmente un ataque.
+
+699
+01:14:08.110 --> 01:14:10.850
+ARON FRAGA: Tengo que leer y escribir y reescribir.
+
+700
+01:14:12.130 --> 01:14:17.590
+Arroyo Arzubi Carlos A.: No, no, no, no, no, no, Sí. Tenés que reescribir lo que no es modificar este
+
+701
+01:14:19.430 --> 01:14:22.659
+Arroyo Arzubi Carlos A.: es escribirlo completo. En otro lado, se entiende.
+
+702
+01:14:23.400 --> 01:14:26.119
+ARON FRAGA: Sí. Y la información que tengo ahí no la leo.
+
+703
+01:14:26.490 --> 01:14:35.620
+Arroyo Arzubi Carlos A.: Sí. Pero este archivo para poder crecer tengo que generar otro archivo.
+
+704
+01:14:35.990 --> 01:14:37.150
+Arroyo Arzubi Carlos A.: Se entiende.
+
+705
+01:14:37.700 --> 01:14:44.240
+ARON FRAGA: Claro, pero yo estoy hablando del punto de usar un s casete como mi, mi, mi mi fuente de también.
+
+706
+01:14:44.240 --> 01:14:46.560
+Arroyo Arzubi Carlos A.: Es un riesgo. Es el único.
+
+707
+01:14:46.560 --> 01:14:49.679
+ARON FRAGA: Entonces entonces yo tengo que leer para poder reescribir.
+
+708
+01:14:49.970 --> 01:14:50.540
+Arroyo Arzubi Carlos A.: No podría.
+
+709
+01:14:50.540 --> 01:14:51.160
+ARON FRAGA: De un.
+
+710
+01:14:51.160 --> 01:14:52.119
+Arroyo Arzubi Carlos A.: No podés.
+
+711
+01:14:53.150 --> 01:14:54.430
+Arroyo Arzubi Carlos A.: No se puede.
+
+712
+01:14:54.430 --> 01:14:56.509
+ARON FRAGA: Y de dónde y no se.
+
+713
+01:14:56.510 --> 01:14:59.990
+Arroyo Arzubi Carlos A.: Puede vos tenés una sola bobina, me decís. Vos No se puede.
+
+714
+01:15:01.330 --> 01:15:02.400
+ARON FRAGA: A ver.
+
+715
+01:15:02.400 --> 01:15:06.710
+Arroyo Arzubi Carlos A.: Esto ocurrió muchos años, donde de pronto
+
+716
+01:15:07.040 --> 01:15:15.179
+Arroyo Arzubi Carlos A.: este, por ejemplo, la facultad la Universidad de Palermo. Supongamos, cuando existía solamente esta esta forma de de archivo
+
+717
+01:15:15.490 --> 01:15:19.309
+Arroyo Arzubi Carlos A.: armaba el archivo con los alumnos que estaban
+
+718
+01:15:19.480 --> 01:15:26.140
+Arroyo Arzubi Carlos A.: todos de a los que estaban de alta armaba, un archivo de alumno. Por ejemplo, el lunes lo terminaba de armar.
+
+719
+01:15:26.610 --> 01:15:36.999
+Arroyo Arzubi Carlos A.: Y después resulta que durante la semana había 1 que modificaba el dato otro que se iba de baja, otro que se iba de alta, que se daba de alta.
+
+720
+01:15:37.700 --> 01:15:43.820
+Arroyo Arzubi Carlos A.: Entonces cuando el recorte rector quería ver quién estaba.
+
+721
+01:15:43.970 --> 01:15:46.529
+Arroyo Arzubi Carlos A.: No bastaba con mirar el archivo
+
+722
+01:15:47.760 --> 01:15:57.210
+Arroyo Arzubi Carlos A.: secuencial que se había hecho porque lo hicieron el lunes y el martes, resulta que de este archivo se dieron de baja 2 y se dieron de alta 3.
+
+723
+01:15:59.040 --> 01:16:06.890
+Arroyo Arzubi Carlos A.: Entonces nunca tenía la información justa. Entonces, ¿qué tenía que hacer? Leer el archivo y después preguntarle a lo de personal. Si en esos días
+
+724
+01:16:07.340 --> 01:16:10.099
+Arroyo Arzubi Carlos A.: hubo había habido alguna modificación.
+
+725
+01:16:10.680 --> 01:16:13.540
+Arroyo Arzubi Carlos A.: Entonces, ¿qué es lo que hacían cortito nomás.
+
+726
+01:16:13.800 --> 01:16:16.910
+Arroyo Arzubi Carlos A.: Se generaba a este archivo.
+
+727
+01:16:17.120 --> 01:16:23.289
+Arroyo Arzubi Carlos A.: Se lo llamaba Archivo Maestro. Este que está acá donde están todos los alumnos de Palermo.
+
+728
+01:16:23.630 --> 01:16:30.579
+Arroyo Arzubi Carlos A.: Se hacía el lunes de lunes. A viernes se producían algunas modificaciones
+
+729
+01:16:30.690 --> 01:16:37.940
+Arroyo Arzubi Carlos A.: y esas modificaciones se cargaban. Los administrativos lo cargaban en un archivo de transacciones.
+
+730
+01:16:38.840 --> 01:16:40.570
+Arroyo Arzubi Carlos A.: Más chiquito.
+
+731
+01:16:42.920 --> 01:16:50.809
+Arroyo Arzubi Carlos A.: Entonces el lunes siguiente, cuando quería actualizar el archivo maestro, yo hacía pasar esto por un proceso.
+
+732
+01:16:51.080 --> 01:16:59.679
+Arroyo Arzubi Carlos A.: queréis a los 2 y generaba un nuevo maestro.
+
+733
+01:17:00.800 --> 01:17:06.430
+Arroyo Arzubi Carlos A.: Me explico. Entonces, ¿qué hacía va leyendo de Acá
+
+734
+01:17:06.880 --> 01:17:09.930
+Arroyo Arzubi Carlos A.: va leyendo lee el archivo, el registro 1
+
+735
+01:17:10.430 --> 01:17:13.409
+Arroyo Arzubi Carlos A.: y lee acá el registro. Este es el 2.
+
+736
+01:17:13.990 --> 01:17:19.219
+Arroyo Arzubi Carlos A.: Si este es el 1, y este es el 2, quiere decir que el 1 no se cambió, Entonces el 1 lo manda a grabar. Acá
+
+737
+01:17:20.700 --> 01:17:24.569
+Arroyo Arzubi Carlos A.: después. Supongamos que tengan 2, y éste tiene un 2.
+
+738
+01:17:24.860 --> 01:17:30.440
+Arroyo Arzubi Carlos A.: Si los 2 tienen. El 2 quiere decir que este 2 o si sufrió una modificación
+
+739
+01:17:30.840 --> 01:17:32.239
+Arroyo Arzubi Carlos A.: o lo dieron de baja.
+
+740
+01:17:32.820 --> 01:17:36.459
+Arroyo Arzubi Carlos A.: Si sufrí una modificación, lo modifico
+
+741
+01:17:37.030 --> 01:17:38.510
+Arroyo Arzubi Carlos A.: y lo mando a grabar acá.
+
+742
+01:17:39.890 --> 01:17:45.080
+Arroyo Arzubi Carlos A.: Si lo que sufrió fue una baja, entonces no lo paso Acá
+
+743
+01:17:45.790 --> 01:17:51.589
+Arroyo Arzubi Carlos A.: Después viene acá supongamos el 4 y acá tengo el 3.
+
+744
+01:17:51.730 --> 01:17:56.679
+Arroyo Arzubi Carlos A.: Quiere decir que este es un alza. Entonces mando el 3
+
+745
+01:17:57.030 --> 01:18:01.660
+Arroyo Arzubi Carlos A.: y después mandó el 4. Bueno, como ven, es muy sencillo, pero tengo que tener
+
+746
+01:18:01.800 --> 01:18:16.020
+Arroyo Arzubi Carlos A.: un proceso que genere el nuevo maestro a partir del maestro que se hizo el último, y así intercalando y modificando en base a las transacciones que se produjeron esos días.
+
+747
+01:18:16.270 --> 01:18:24.140
+Arroyo Arzubi Carlos A.: Así funciona, funcionaba la actualización de estos archivos secuenciales lineales.
+
+748
+01:18:25.640 --> 01:18:27.660
+Arroyo Arzubi Carlos A.: Vamos al acceso directo.
+
+749
+01:18:27.960 --> 01:18:32.480
+TOMAS GOMEZ DEAN: Perdón profe, entonces el inconveniente es como que hay que reescribirlo cuando se lo.
+
+750
+01:18:32.480 --> 01:18:32.869
+Arroyo Arzubi Carlos A.: Sí, Y.
+
+751
+01:18:32.870 --> 01:18:35.690
+TOMAS GOMEZ DEAN: Pero escri reescríbelo entero.
+
+752
+01:18:35.690 --> 01:18:43.559
+Arroyo Arzubi Carlos A.: Tiene problemas para crecer, porque no le puedo meter en el medio de la cinta, entonces tengo que reescribirlo en otro.
+
+753
+01:18:44.090 --> 01:18:53.179
+Arroyo Arzubi Carlos A.: que 1 de los problemas graves que grandes que hay que contemplar cuando 1 trabaja con archivo es cómo va a crecer el archivo.
+
+754
+01:18:53.720 --> 01:18:59.950
+Arroyo Arzubi Carlos A.: ¿cómo crece el archivo? Bueno, el archivo secuencial lineal tiene ese problema.
+
+755
+01:19:01.070 --> 01:19:04.389
+Arroyo Arzubi Carlos A.: ¿vamos ahora a al acceso directo
+
+756
+01:19:04.870 --> 01:19:10.990
+Arroyo Arzubi Carlos A.: con el acceso directo. Nosotros vamos a poder implementar distintos tipos de archivo.
+
+757
+01:19:11.440 --> 01:19:19.020
+Arroyo Arzubi Carlos A.: ¿por qué? Porque me da al ser el acceso directo, a mí me permite generar
+
+758
+01:19:19.240 --> 01:19:21.900
+Arroyo Arzubi Carlos A.: distintas opciones de manejar archivos.
+
+759
+01:19:22.080 --> 01:19:28.950
+Arroyo Arzubi Carlos A.: Bueno, 1 se llama secuencial lineal, igual que el otro.
+
+760
+01:19:29.690 --> 01:19:37.289
+Arroyo Arzubi Carlos A.: Es decir, que yo tengo un disco con acceso directo o la memoria que sea con acceso directo. Y yo puedo implementar
+
+761
+01:19:38.510 --> 01:19:46.640
+Arroyo Arzubi Carlos A.: este si quiero un archivo secuencial. ¿qué quiere decir que yo voy a poner un archivo acá secuencial.
+
+762
+01:19:49.640 --> 01:20:05.060
+Arroyo Arzubi Carlos A.: ¿qué característica tiene el archivo secuencial Administrativamente Es muy simple, porque solamente tengo que saber dónde empieza y luego voy corriéndome por los registros, hasta llegar al registro que yo busco.
+
+763
+01:20:05.490 --> 01:20:13.890
+Arroyo Arzubi Carlos A.: Este es un archivo secuencial, lineal implementado sobre acceso directo.
+
+764
+01:20:14.440 --> 01:20:18.550
+Arroyo Arzubi Carlos A.: ¿qué problema tiene este archivo secuencial lineal. Pregunto.
+
+765
+01:20:22.360 --> 01:20:25.749
+FRANCO EMMANUEL SICARDO: Y el tiempo capaz que se toma para encontrar un archivo.
+
+766
+01:20:27.800 --> 01:20:28.960
+Arroyo Arzubi Carlos A.: Problema.
+
+767
+01:20:32.190 --> 01:20:39.740
+Arroyo Arzubi Carlos A.: el mismo que tenía antes que para que yo agregara a alguien acá en este archivo secuencial.
+
+768
+01:20:40.440 --> 01:20:47.370
+Arroyo Arzubi Carlos A.: Tengo que este archivo completo, copiarlo. En otro lado, tengo que reescribirlo.
+
+769
+01:20:47.510 --> 01:20:53.319
+Arroyo Arzubi Carlos A.: Está claro, es decir, yo puedo implementar sobre un disco un archivo secuencial
+
+770
+01:20:53.850 --> 01:21:08.509
+Arroyo Arzubi Carlos A.: puede utilizar archivos secuenciales sobre memoria secundaria con acceso directo. Pero si el archivo es secuencial lineal, voy a tener el mismo inconveniente, pero administrativamente es cómodo por ahí para archivos de determinados tamaños. Depende
+
+771
+01:21:08.850 --> 01:21:10.040
+Arroyo Arzubi Carlos A.: s a ver
+
+772
+01:21:10.170 --> 01:21:26.989
+Arroyo Arzubi Carlos A.: el tipo de archivo que ustedes vayan a elegir. Va a depender siempre del problema que tengan que resolver. Acá no hay un archivo que es mejor que otro, sino que tiene distintas características. Lo que siempre les digo: depende del problema que yo tenga que resolver. Entonces yo puedo implementar un archivo secuencial lineal
+
+773
+01:21:27.080 --> 01:21:40.010
+Arroyo Arzubi Carlos A.: en una memoria secundaria de acceso directo. ¿por qué? Porque es fácil. Ocupa poco muy barato. Lo manejo con 2 pesos, pero tienes inconvenientes, me sirve. Sí, lo uso no me sirve bueno agarro otra cosa.
+
+774
+01:21:41.750 --> 01:21:52.230
+Arroyo Arzubi Carlos A.: Otro tipo de archivo que se puede implementar con acceso directo se llama secuencial enlazado secuencial enlazado.
+
+775
+01:21:52.450 --> 01:21:54.680
+Arroyo Arzubi Carlos A.: El secuencial enlazado
+
+776
+01:22:03.170 --> 01:22:16.440
+Arroyo Arzubi Carlos A.: es un archivo secuencial, pero que está enlazado a través de enlaces
+
+777
+01:22:16.630 --> 01:22:26.110
+Arroyo Arzubi Carlos A.: los registros unos con otros. ¿qué quiero decir, yo tengo este archivo secuencial enlazado.
+
+778
+01:22:26.560 --> 01:22:36.300
+Arroyo Arzubi Carlos A.: Si yo quiero agregar acá un registro porque tiene que crecer. Bueno, no tengo problema, risas
+
+779
+01:22:36.930 --> 01:22:39.430
+Arroyo Arzubi Carlos A.: y acá tengo lugar, lo pongo, acá
+
+780
+01:22:41.110 --> 01:22:46.229
+Arroyo Arzubi Carlos A.: y de acá que va a salir un enlace para acá y un enlace para acá.
+
+781
+01:22:48.430 --> 01:22:54.909
+Arroyo Arzubi Carlos A.: Supongamos que tenemos más Acá Supongamos que yo tengo Quiero dar de baja
+
+782
+01:22:55.010 --> 01:22:59.779
+Arroyo Arzubi Carlos A.: algún registro de esto. Supongamos este no hay problema
+
+783
+01:23:00.660 --> 01:23:05.359
+Arroyo Arzubi Carlos A.: porque yo genero acá el enlace con este
+
+784
+01:23:06.180 --> 01:23:08.570
+Arroyo Arzubi Carlos A.: y se enlaza con el siguiente.
+
+785
+01:23:09.450 --> 01:23:13.120
+Arroyo Arzubi Carlos A.: Si quiero agregar acá puedo agregar todos los que quiera.
+
+786
+01:23:13.790 --> 01:23:20.170
+Arroyo Arzubi Carlos A.: dónde dónde tenga lugar el disco. Los pongo. No tengo que reescribirlo.
+
+787
+01:23:20.420 --> 01:23:28.829
+Arroyo Arzubi Carlos A.: es un archivo secuencial, obviamente. Porque porque para acceder
+
+788
+01:23:28.950 --> 01:23:31.839
+Arroyo Arzubi Carlos A.: qué sé yo a este registro
+
+789
+01:23:32.300 --> 01:23:41.390
+Arroyo Arzubi Carlos A.: que está acá. Yo tengo que hacerlo de manera secuencial. Vengo, vengo, vengo, voy, vengo, vengo y llegué,
+
+790
+01:23:41.650 --> 01:23:46.790
+Arroyo Arzubi Carlos A.: es decir, el acceso es secuencial. Debo recorrer
+
+791
+01:23:47.260 --> 01:23:50.779
+Arroyo Arzubi Carlos A.: todos los registros hasta encontrar el que busco.
+
+792
+01:23:51.020 --> 01:24:00.430
+Arroyo Arzubi Carlos A.: pero tiene la ventaja con respecto al secuencial lineal que puede crecer sin necesidad de tener que copiarlo completo. En otro lado.
+
+793
+01:24:06.990 --> 01:24:10.479
+Arroyo Arzubi Carlos A.: access archivo secuencial indexado.
+
+794
+01:24:10.820 --> 01:24:20.130
+Arroyo Arzubi Carlos A.: El archivo secuencial indexado son archivos que tienen están formados por 2 partes una parte de datos
+
+795
+01:24:20.390 --> 01:24:24.320
+Arroyo Arzubi Carlos A.: y otra parte de este
+
+796
+01:24:24.800 --> 01:24:33.799
+Arroyo Arzubi Carlos A.: de índice. Esto ustedes lo conoce bien, porque con las tablas acá tiene en el archivo, la tabla
+
+797
+01:24:35.650 --> 01:24:43.909
+Arroyo Arzubi Carlos A.: o archivo donde acá tienen el campo clave. Este es el campo clave, el Dni.
+
+798
+01:24:44.210 --> 01:24:45.470
+Arroyo Arzubi Carlos A.: Supongamos.
+
+799
+01:24:45.890 --> 01:24:53.709
+Arroyo Arzubi Carlos A.: y acá tiene todos los datos. Este es un archivo grande. Este archivo es de datos y después están las tablas
+
+800
+01:24:54.080 --> 01:24:57.300
+Arroyo Arzubi Carlos A.: de índice que voy a tener tantas como quiera
+
+801
+01:24:57.530 --> 01:25:00.999
+Arroyo Arzubi Carlos A.: de acuerdo a los distintos ordenamientos que yo quiera darle.
+
+802
+01:25:01.100 --> 01:25:03.729
+Arroyo Arzubi Carlos A.: Entonces yo acá voy a tener el Dni
+
+803
+01:25:06.680 --> 01:25:12.360
+Arroyo Arzubi Carlos A.: acá voy a tener otra. Qué sé yo, si quieren, por apellido apellido?
+
+804
+01:25:12.470 --> 01:25:20.569
+Arroyo Arzubi Carlos A.: Y entonces, bueno, tengo el archivo de datos y los archivos o fichero de índice.
+
+805
+01:25:20.820 --> 01:25:25.269
+Arroyo Arzubi Carlos A.: que Entonces, ¿qué es lo que van a tener? Si yo quiero acceder a este archivo.
+
+806
+01:25:25.600 --> 01:25:31.070
+Arroyo Arzubi Carlos A.: ¿no es cierto. Busco el Dni acá. Este Dni, lo busco, acá
+
+807
+01:25:31.370 --> 01:25:38.870
+Arroyo Arzubi Carlos A.: lo encontré acá el Dni y acá que voy a tener la ubicación de donde está guardado todo en
+
+808
+01:25:39.600 --> 01:25:41.430
+Arroyo Arzubi Carlos A.: en la memoria secundaria.
+
+809
+01:25:41.840 --> 01:25:47.330
+Arroyo Arzubi Carlos A.: Busco otro y encuentro y lo busco y lo encuentro. Acá
+
+810
+01:25:47.570 --> 01:26:00.049
+Arroyo Arzubi Carlos A.: Entonces si quiero recorrer el archivo por D. N. I utilizo este fichero, si quiero recorrerlo por orden alfabético Utilizo este si quiero recorrerlo. Utilizo el que sea bueno. Esto es
+
+811
+01:26:00.220 --> 01:26:01.660
+Arroyo Arzubi Carlos A.: zona conocida.
+
+812
+01:26:01.780 --> 01:26:17.430
+Arroyo Arzubi Carlos A.: Esto se llama ficheros indexados en los ficheros indexados. Estas tablas de de los índices pueden ser
+
+813
+01:26:17.920 --> 01:26:27.490
+Arroyo Arzubi Carlos A.: densas o no densas. Densas. Es cuando la tengo toda a lo bestia, así larga larga larga y no densas, es cuando yo establezco
+
+814
+01:26:27.620 --> 01:26:35.079
+Arroyo Arzubi Carlos A.: una tabla de rangos similar a lo que hacíamos con las tablas multinivel
+
+815
+01:26:35.210 --> 01:26:45.289
+Arroyo Arzubi Carlos A.: para achicar el espacio de búsqueda de los registros, Pero, bueno, en definitiva, un fichero indexado está formado por 2 partes.
+
+816
+01:26:45.620 --> 01:26:50.689
+Arroyo Arzubi Carlos A.: la parte de los datos y la parte de los índices.
+
+817
+01:26:51.540 --> 01:27:01.940
+Arroyo Arzubi Carlos A.: Otro tipo de archivo es el el el archivo de acceso calculado.
+
+818
+01:27:02.360 --> 01:27:06.770
+Arroyo Arzubi Carlos A.: Vamos a borrar esto. Porque, como ven, esto es muy simple.
+
+819
+01:27:07.460 --> 01:27:15.020
+Arroyo Arzubi Carlos A.: Pero bueno, estamos formalizando temas de archivo, este lo borramos todo ya también lo borramos todo para que voy a borrarlo todo.
+
+820
+01:27:17.730 --> 01:27:20.130
+Arroyo Arzubi Carlos A.: archivo de acceso calculado.
+
+821
+01:27:20.450 --> 01:27:26.449
+Arroyo Arzubi Carlos A.: El archivo de acceso calculado utiliza lo que se llama técnicas de hashing.
+
+822
+01:27:27.570 --> 01:27:30.439
+Arroyo Arzubi Carlos A.: técnicas de Hashing que en definitiva, son
+
+823
+01:27:30.990 --> 01:27:34.309
+Arroyo Arzubi Carlos A.: distintos tipos de algoritmos que se utilizan.
+
+824
+01:27:34.830 --> 01:27:40.280
+Arroyo Arzubi Carlos A.: Y lo que hace es aplicar al campo clave
+
+825
+01:27:40.830 --> 01:27:49.260
+Arroyo Arzubi Carlos A.: de de mi registro. Recuerden que ojo cuando digo campo clave del registro, no del archivo, porque después me pone.
+
+826
+01:27:51.010 --> 01:27:57.400
+Arroyo Arzubi Carlos A.: repito, estamos hablando de archivos estructurados formados por registros
+
+827
+01:27:58.130 --> 01:28:06.329
+Arroyo Arzubi Carlos A.: que tienen un campo clave, es decir, que cada registro va a tener un campo clave que lo ubica unívocamente
+
+828
+01:28:06.920 --> 01:28:11.220
+Arroyo Arzubi Carlos A.: campo clave, pueda ser simple, compuesto o lo que sea. Pero es un campo clave.
+
+829
+01:28:12.010 --> 01:28:18.649
+Arroyo Arzubi Carlos A.: Entonces la los archivos de acceso calculado lo que hacen es aplicar
+
+830
+01:28:19.340 --> 01:28:23.389
+Arroyo Arzubi Carlos A.: ese algoritmo llamado técnica de hachís, porque es muy variado.
+
+831
+01:28:24.440 --> 01:28:35.470
+Arroyo Arzubi Carlos A.: A adopta. Obviamente, 1 le aplica a ese campo clave, resultado de lo cual me da la dirección
+
+832
+01:28:35.960 --> 01:28:38.480
+Arroyo Arzubi Carlos A.: de dónde está ese registro.
+
+833
+01:28:39.140 --> 01:28:42.200
+Arroyo Arzubi Carlos A.: Obviamente, ese cálculo es un cálculo
+
+834
+01:28:42.740 --> 01:28:52.119
+Arroyo Arzubi Carlos A.: interesante. No es cualquier cálculo donde de pronto dividen por el número primo y hacen unos algoritmos bastante rebuscados.
+
+835
+01:28:52.790 --> 01:28:58.499
+Arroyo Arzubi Carlos A.: pero que se aplican al campo clave y hace un cálculo y me dice dónde está en el disco
+
+836
+01:28:58.630 --> 01:29:06.140
+Arroyo Arzubi Carlos A.: entonces? Fíjense que este tipo de archivo es muy rápido, porque hacer un cálculo Justamente para la Cpu.
+
+837
+01:29:06.570 --> 01:29:12.940
+Arroyo Arzubi Carlos A.: es muy, es muy rápido, pero tienen un problema
+
+838
+01:29:13.730 --> 01:29:20.070
+Arroyo Arzubi Carlos A.: a ver, para lo cual voy a dar un ejemplo estúpido para que se entienda.
+
+839
+01:29:20.380 --> 01:29:25.209
+Arroyo Arzubi Carlos A.: Supongamos que yo digo, bueno, el Dni es el campo clave.
+
+840
+01:29:25.520 --> 01:29:32.939
+Arroyo Arzubi Carlos A.: Entonces acá. Tengo el Dni de una persona, ¿no? Siete.
+
+841
+01:29:42.290 --> 01:29:47.979
+Arroyo Arzubi Carlos A.: Bueno, supongamos que la técnica de Hashing, que voy a usar es
+
+842
+01:29:48.330 --> 01:29:57.380
+Arroyo Arzubi Carlos A.: este campo clave. Lo voy a truncar, y el resultado va a ser la dirección. ¿qué quiere decir? Bueno, yo lo voy a truncar. Acá
+
+843
+01:29:57.810 --> 01:30:00.119
+Arroyo Arzubi Carlos A.: y lo voy a truncar acá por ejemplo.
+
+844
+01:30:00.960 --> 01:30:07.490
+Arroyo Arzubi Carlos A.: Entonces que estoy diciendo que esto que me queda acá es la dirección
+
+845
+01:30:08.390 --> 01:30:11.309
+Arroyo Arzubi Carlos A.: de dónde está en donde en el disco
+
+846
+01:30:12.130 --> 01:30:18.250
+Arroyo Arzubi Carlos A.: aceptan que es un ejemplo estúpido, pero que sirve para entonces acá. Tengo el disco.
+
+847
+01:30:18.870 --> 01:30:30.169
+Arroyo Arzubi Carlos A.: Ya entonces esta dirección la busco acá y acá tengo guardado el registro de este Dni.
+
+848
+01:30:31.280 --> 01:30:39.940
+Arroyo Arzubi Carlos A.: ¿cuál es el inconveniente que presenta este tipo de archivo de acceso calculado? Bueno.
+
+849
+01:30:40.320 --> 01:30:43.110
+Arroyo Arzubi Carlos A.: como seguramente ya se lo están imaginando.
+
+850
+01:30:43.760 --> 01:30:59.700
+Arroyo Arzubi Carlos A.: puede ocurrir que yo tenga Acá otro Dni: 45, 7, 2, 8, 4, pero 9.
+
+851
+01:31:00.910 --> 01:31:06.570
+Arroyo Arzubi Carlos A.: Entonces le aplico la técnica de Hassi.
+
+852
+01:31:08.020 --> 01:31:20.310
+Arroyo Arzubi Carlos A.: Y resulta que como resultado, me da el mismo que el anterior, esto se llama te
+
+853
+01:31:21.440 --> 01:31:28.449
+Arroyo Arzubi Carlos A.: sinónimos, es decir, cuando a distintos campos clave, porque son distintos.
+
+854
+01:31:29.840 --> 01:31:32.689
+Arroyo Arzubi Carlos A.: Resulta que me da la misma dirección.
+
+855
+01:31:34.020 --> 01:31:42.210
+Arroyo Arzubi Carlos A.: es decir, que el problema que tienen los archivos de acceso calculado es la generación de sinónimos
+
+856
+01:31:42.580 --> 01:31:45.359
+Arroyo Arzubi Carlos A.: que son sinónimos lo que acabamos de decir.
+
+857
+01:31:46.320 --> 01:31:53.749
+Arroyo Arzubi Carlos A.: En consecuencia, hay que tratar estos sinónimos porque.
+
+858
+01:31:53.910 --> 01:32:02.449
+Arroyo Arzubi Carlos A.: bueno, porque el el tipo de archivo es muy bueno como para decir no lo utilizo, porque es muy bueno porque es muy rápido.
+
+859
+01:32:02.950 --> 01:32:10.839
+Arroyo Arzubi Carlos A.: Entonces, en vez de decir, este tipo de archivos no sirve. Lo que se hace es tratar los sinónimos.
+
+860
+01:32:11.090 --> 01:32:13.860
+Arroyo Arzubi Carlos A.: Es decir, ¿qué hago con los sinónimos?
+
+861
+01:32:14.500 --> 01:32:18.790
+Arroyo Arzubi Carlos A.: Y acá con respecto a los sinónimos. Tenemos 3
+
+862
+01:32:19.540 --> 01:32:22.520
+Arroyo Arzubi Carlos A.: tratamientos que se pueden hacer con los sinónimos.
+
+863
+01:32:23.950 --> 01:32:29.139
+Arroyo Arzubi Carlos A.: Uno es colocar el registro
+
+864
+01:32:29.730 --> 01:32:34.589
+Arroyo Arzubi Carlos A.: o buscar el registro, si es que ya lo guardé en el primer espacio libre.
+
+865
+01:32:34.740 --> 01:32:46.520
+Arroyo Arzubi Carlos A.: Es decir, supongamos que acá. Yo tengo guardado cuál este este está guardado. Acá.
+
+866
+01:32:48.630 --> 01:32:58.299
+Arroyo Arzubi Carlos A.: Entonces, yo ahora tengo este le aplico la técnica de Hashing y me da la misma dirección
+
+867
+01:32:59.310 --> 01:33:01.370
+Arroyo Arzubi Carlos A.: y veo que está ocupado.
+
+868
+01:33:02.190 --> 01:33:11.380
+Arroyo Arzubi Carlos A.: Entonces, ¿qué hace busca a continuación hasta que encuentra el primer espacio libre y ahí lo guarda.
+
+869
+01:33:11.910 --> 01:33:16.260
+Arroyo Arzubi Carlos A.: Esa es una solución al tratamiento del sinónimo.
+
+870
+01:33:18.100 --> 01:33:29.070
+Arroyo Arzubi Carlos A.: Otra solución es a este que me dio como resultado esta dirección.
+
+871
+01:33:29.640 --> 01:33:33.729
+Arroyo Arzubi Carlos A.: que es sinónimo, le aplico nuevamente Hashing
+
+872
+01:33:35.310 --> 01:33:41.420
+Arroyo Arzubi Carlos A.: y aplicándole Nuevamente Haching. Esto me debería dar otro número que me diga que está acá
+
+873
+01:33:42.870 --> 01:33:46.929
+Arroyo Arzubi Carlos A.: Segunda forma aplicando nuevamente casi en el resultado.
+
+874
+01:33:47.510 --> 01:33:57.619
+Arroyo Arzubi Carlos A.: Y la tercera forma es que yo tenga dentro de la zona asignada para mi archivo
+
+875
+01:33:57.930 --> 01:34:00.580
+Arroyo Arzubi Carlos A.: una zona de Overflow.
+
+876
+01:34:01.420 --> 01:34:09.600
+Arroyo Arzubi Carlos A.: ¿qué quiere decir que cuando me aparece un sinónimo como este caso.
+
+877
+01:34:10.140 --> 01:34:15.479
+Arroyo Arzubi Carlos A.: yo directamente, voy y lo guardo en la zona de Hoverflow, es decir, lo guardo.
+
+878
+01:34:20.900 --> 01:34:25.990
+Arroyo Arzubi Carlos A.: lo guardo acá y acá guardo otro y acá guardo otro y acá guardo otro.
+
+879
+01:34:26.390 --> 01:34:30.350
+Arroyo Arzubi Carlos A.: Es decir, que yo, cuando tenga que buscar el archivo.
+
+880
+01:34:30.870 --> 01:34:39.059
+Arroyo Arzubi Carlos A.: lo voy a buscar acá si no es: voy a la zona de Overfroll y la zona de Overford lo busco secuencialmente
+
+881
+01:34:39.580 --> 01:34:41.020
+Arroyo Arzubi Carlos A.: hasta que lo encuentro.
+
+882
+01:34:42.360 --> 01:34:44.599
+Arroyo Arzubi Carlos A.: Es decir, son las 3 formas
+
+883
+01:34:44.790 --> 01:34:49.900
+Arroyo Arzubi Carlos A.: para tratar el tema de los sinónimos. Obviamente, la técnica de hachín
+
+884
+01:34:50.730 --> 01:35:02.280
+Arroyo Arzubi Carlos A.: serán mejores o peores en la medida que logren producir la menor cantidad de sinónimos posibles. Obviamente, eso es lo que
+
+885
+01:35:02.600 --> 01:35:03.960
+Arroyo Arzubi Carlos A.: lo que se busca.
+
+886
+01:35:05.270 --> 01:35:13.469
+Arroyo Arzubi Carlos A.: Y bueno, y el último que vamos a ver se llama Acceso llave
+
+887
+01:35:14.490 --> 01:35:21.279
+Arroyo Arzubi Carlos A.: Acceso llave es cuando el campo clave coincide con la dirección.
+
+888
+01:35:22.010 --> 01:35:29.639
+Arroyo Arzubi Carlos A.: Obviamente, este tipo de archivo tiene muchos condicionantes para poder utilizarse.
+
+889
+01:35:31.170 --> 01:35:33.080
+TOMAS GOMEZ DEAN: De que.
+
+890
+01:35:33.700 --> 01:35:35.940
+Arroyo Arzubi Carlos A.: acceso llave. Se llama.
+
+891
+01:35:35.940 --> 01:35:36.780
+TOMAS GOMEZ DEAN: okay.
+
+892
+01:35:37.390 --> 01:35:43.680
+Arroyo Arzubi Carlos A.: Repito: el acceso llave es que el campo clave coincida con la dirección.
+
+893
+01:35:46.390 --> 01:35:56.150
+Arroyo Arzubi Carlos A.: Es una forma. Es difícil de implementar sí, porque tienen que darse determinadas condiciones. Por ejemplo, si yo seguimos con el ejemplo del Dni.
+
+894
+01:35:56.840 --> 01:35:59.769
+Arroyo Arzubi Carlos A.: si yo digo, bueno, el campo clave es el D. N, I:
+
+895
+01:36:00.470 --> 01:36:16.629
+Arroyo Arzubi Carlos A.: Yo puedo buscar la dirección del D. N, I en el disco. Y ahí está el problema es que Yo tengo que guardar una cantidad de disco vacío impresionante para poder cubrir todo lo D. N. I: Me explico.
+
+896
+01:36:17.680 --> 01:36:34.809
+Arroyo Arzubi Carlos A.: es decir, que el acceso llave, que sería el más rápido de todos. Su implementación tiene muchas limitaciones, pero hay que saber que existe. Por qué. Y bueno, porque si 1 de pronto está haciendo una aplicación, lo que sea un
+
+897
+01:36:34.810 --> 01:36:52.589
+Arroyo Arzubi Carlos A.: está desarrollando un proyecto donde de pronto necesita un archivo que gusta mucho, que es chico y que lo puede hacer coincidir con las direcciones del disco. Bueno, obviamente, lo más rápido que van a tener. Se entiende el concepto.
+
+898
+01:36:53.260 --> 01:36:56.370
+Arroyo Arzubi Carlos A.: va a depender del problema que tengan que resolver.
+
+899
+01:36:57.540 --> 01:37:10.909
+Arroyo Arzubi Carlos A.: Pero si yo tengo que hacer de pronto un empotrado con poca memoria con esto y puedo hacer coincidir, bueno, utilizo eso, con lo cual el algoritmo es nada, es buscar con el campo clave directamente. La dirección.
+
+900
+01:37:15.330 --> 01:37:16.270
+Arroyo Arzubi Carlos A.: Bueno.
+
+901
+01:37:19.990 --> 01:37:24.340
+Arroyo Arzubi Carlos A.: me falta un poquito, pero voy a cortar acá
+
+902
+01:37:25.850 --> 01:37:33.460
+Arroyo Arzubi Carlos A.: la clase que viene, terminamos de ver esta unidad y
+
+903
+01:37:34.310 --> 01:37:40.600
+Arroyo Arzubi Carlos A.: me queda a ver algo de directorios consistencia. Bueno, no importas.
+
+904
+01:37:40.860 --> 01:37:46.729
+Arroyo Arzubi Carlos A.: La clase que viene, que vamos a tener más tiempo porque vamos a hacer solamente la introducción a los sistemas
+
+905
+01:37:46.830 --> 01:37:56.360
+Arroyo Arzubi Carlos A.: distribuidos. Terminamos de ver lo que falta de esta unidad y vemos sistemas distribuidos ahora. Voy a pasar lista
+
+906
+01:37:56.670 --> 01:38:06.240
+Arroyo Arzubi Carlos A.: porque a las 9 está puesto para que puedan hacer el parcialito paso lista. Y luego me hacen, me preguntan las cosas que quieran
+
+907
+01:38:07.520 --> 01:38:12.520
+Arroyo Arzubi Carlos A.: hasta que sea la hora del parcial Báez. Manuel.
+
+908
+01:38:13.780 --> 01:38:14.780
+MANUEL BAEZ: Presente, profe.
+
+909
+01:38:16.890 --> 01:38:18.270
+Arroyo Arzubi Carlos A.: Barros Valenti.
+
+910
+01:38:18.790 --> 01:38:20.200
+MÁXIMO BARROS VALENTI: Razón de profe.
+
+911
+01:38:22.090 --> 01:38:23.610
+Arroyo Arzubi Carlos A.: Basílico. Matías.
+
+912
+01:38:24.240 --> 01:38:25.379
+MATIAS BASILICO: Depende. Profe.
+
+913
+01:38:27.450 --> 01:38:29.140
+Arroyo Arzubi Carlos A.: Bertini Agostina.
+
+914
+01:38:29.470 --> 01:38:30.640
+AGOSTINA BERTINI: Presente.
+
+915
+01:38:32.860 --> 01:38:34.460
+Arroyo Arzubi Carlos A.: Bonafini. Lucas.
+
+916
+01:38:35.250 --> 01:38:36.170
+LUCAS BONAFFINI: Puedes entender.
+
+917
+01:38:38.760 --> 01:38:40.469
+Arroyo Arzubi Carlos A.: Camillet y Mateo.
+
+918
+01:38:40.860 --> 01:38:41.490
+Mateo Camilletti: De de.
+
+919
+01:38:44.260 --> 01:38:46.970
+Arroyo Arzubi Carlos A.: Canki Sánchez: Chao.
+
+920
+01:38:52.400 --> 01:38:57.180
+Arroyo Arzubi Carlos A.: Casco, Lucas Casco.
+
+921
+01:39:00.660 --> 01:39:02.419
+Arroyo Arzubi Carlos A.: Sí, María ya te vi. ¡
+
+922
+01:39:02.660 --> 01:39:06.290
+Arroyo Arzubi Carlos A.: Casco Lucas no castaño, Álvarez.
+
+923
+01:39:06.710 --> 01:39:07.610
+MATIAS SEBASTIAN CASTAÑO ALVAREZ: Presente.
+
+924
+01:39:13.660 --> 01:39:15.350
+Arroyo Arzubi Carlos A.: Córdoba, Carlos Ama.
+
+925
+01:39:15.350 --> 01:39:16.300
+ALVARO ALEJANDRO CORDOBA CARLOSAMA: Presente.
+
+926
+01:39:19.320 --> 01:39:21.220
+Arroyo Arzubi Carlos A.: Daurad Francisco.
+
+927
+01:39:21.570 --> 01:39:22.720
+FRANCISCO DAURAT: Presente, profe.
+
+928
+01:39:26.040 --> 01:39:27.500
+Arroyo Arzubi Carlos A.: Dos: Schiffer.
+
+929
+01:39:28.200 --> 01:39:29.330
+TOMÁS DODDS SCHAEFER: En de profe.
+
+930
+01:39:31.430 --> 01:39:33.090
+Arroyo Arzubi Carlos A.: Echeverri, Gaspar.
+
+931
+01:39:33.530 --> 01:39:34.640
+GASPAR ETCHEVERRY: Presente.
+
+932
+01:39:38.280 --> 01:39:39.610
+Arroyo Arzubi Carlos A.: Praga, Aro.
+
+933
+01:39:39.610 --> 01:39:40.580
+ARON FRAGA: Presente.
+
+934
+01:39:40.580 --> 01:39:44.280
+Arroyo Arzubi Carlos A.: Licencias garcía escalera.
+
+935
+01:39:44.750 --> 01:39:45.870
+JHARID GARCIA ESCALERA: Presente.
+
+936
+01:39:48.170 --> 01:39:49.330
+Arroyo Arzubi Carlos A.: Gómez Dean.
+
+937
+01:39:49.810 --> 01:39:50.140
+TOMAS GOMEZ DEAN: Se en.
+
+938
+01:39:50.140 --> 01:39:55.350
+Arroyo Arzubi Carlos A.: A mí, jambra, jacobo.
+
+939
+01:39:56.180 --> 01:39:57.440
+JACOBO BRIAN HAMBRA: Residente acá profe.
+
+940
+01:39:58.540 --> 01:40:01.500
+Arroyo Arzubi Carlos A.: Mhm malagrino.
+
+941
+01:40:02.820 --> 01:40:03.780
+NATALIO STEFANO MALAGRINO: Presente.
+
+942
+01:40:06.800 --> 01:40:07.860
+Arroyo Arzubi Carlos A.: Buleiro.
+
+943
+01:40:08.130 --> 01:40:09.000
+JOAQUÍN MULEIRO BELTRAN: Pero es dónde.
+
+944
+01:40:12.150 --> 01:40:13.370
+Arroyo Arzubi Carlos A.: Orlandini.
+
+945
+01:40:14.570 --> 01:40:15.860
+Emanuel CARLOS ORLANDINI: Hola. Profe presente. Risas.
+
+946
+01:40:20.360 --> 01:40:21.680
+Arroyo Arzubi Carlos A.: Ortizosmith.
+
+947
+01:40:21.870 --> 01:40:22.740
+MARIA ELISA ORTIZ OSMIK: Interesante.
+
+948
+01:40:24.100 --> 01:40:25.710
+Arroyo Arzubi Carlos A.: Pereira, Maldonado.
+
+949
+01:40:25.910 --> 01:40:26.880
+ANDRÉS PEREIRA MALDONADO: Presente.
+
+950
+01:40:29.960 --> 01:40:35.010
+Arroyo Arzubi Carlos A.: Piam Montesi también está Pisurno y.
+
+951
+01:40:35.410 --> 01:40:36.779
+ALEXANDER EMANUEL PIZZURNO DUARTE: Los centros de casa.
+
+952
+01:40:41.310 --> 01:40:42.540
+Arroyo Arzubi Carlos A.: Álex Mateo
+
+953
+01:40:45.770 --> 01:40:48.480
+Arroyo Arzubi Carlos A.: Salem, Sale Mateo.
+
+954
+01:40:54.810 --> 01:40:56.100
+Arroyo Arzubi Carlos A.: Si cardo.
+
+955
+01:40:57.770 --> 01:40:59.080
+FRANCO EMMANUEL SICARDO: Presente, profe.
+
+956
+01:41:02.720 --> 01:41:04.440
+Arroyo Arzubi Carlos A.: Soler Federico.
+
+957
+01:41:04.570 --> 01:41:05.630
+FEDERICO SOLER: Presente.
+
+958
+01:41:09.150 --> 01:41:10.550
+Arroyo Arzubi Carlos A.: Ume, de José.
+
+959
+01:41:11.360 --> 01:41:12.440
+JOSE UMERE: Presente, profe.
+
+960
+01:41:16.010 --> 01:41:17.440
+Arroyo Arzubi Carlos A.: Valle Figueroa.
+
+961
+01:41:17.630 --> 01:41:18.520
+MARCOS VALLE FIGUEROA: Presente.
+
+962
+01:41:21.140 --> 01:41:22.170
+Arroyo Arzubi Carlos A.: Teodoro.
+
+963
+01:41:23.640 --> 01:41:24.540
+TEODORO WELYCZKO: Presente.
+
+964
+01:41:30.040 --> 01:41:30.860
+Arroyo Arzubi Carlos A.: Luis.
+
+965
+01:41:31.960 --> 01:41:33.130
+TOBÍAS WIRTH: Presente, profe.
+
+966
+01:41:35.760 --> 01:41:37.559
+Arroyo Arzubi Carlos A.: Divino Joaquín.
+
+967
+01:41:37.560 --> 01:41:38.620
+JOAQUIN DININNO: Pensando el Profe.
+
+968
+01:41:43.200 --> 01:41:43.920
+Arroyo Arzubi Carlos A.: Bueno.
+
+969
+01:41:46.690 --> 01:41:51.010
+Arroyo Arzubi Carlos A.: Y alguna pregunta de lo que vimos.
+
+970
+01:41:51.680 --> 01:41:58.340
+Arroyo Arzubi Carlos A.: me demoré porque me fui por la rama con la base de datos con todo lo demás. Pero hay cosas conceptuales que
+
+971
+01:41:59.080 --> 01:42:06.229
+Arroyo Arzubi Carlos A.: ustedes tienen que tener claro el detalle, se pueden olvidar, pero las temas conceptuales grandes.
+
+972
+01:42:06.430 --> 01:42:09.490
+Arroyo Arzubi Carlos A.: hay que tratar de fijarlo.
+
+973
+01:42:10.380 --> 01:42:14.580
+Arroyo Arzubi Carlos A.: Bueno, alguna pregunta que quieran hacerme de lo que hemos visto hoy?
+
+974
+01:42:23.620 --> 01:42:28.609
+Arroyo Arzubi Carlos A.: Bueno, entonces tienen unos 15 min para
+
+975
+01:42:29.440 --> 01:42:39.640
+Arroyo Arzubi Carlos A.: para acomodarse este. Yo voy a ir cortando. Acá y ustedes ahora, a partir de las 9, pueden hacer el parcialito
+
+976
+01:42:40.070 --> 01:42:47.550
+Arroyo Arzubi Carlos A.: y la clase que viene. Terminamos de ver la unidad. Nueve. Vemos la unidad 10 y evacuamos todas las dudas del parcialito
+
+977
+01:42:48.490 --> 01:42:55.300
+Arroyo Arzubi Carlos A.: y todas las dudas que les puedan haber surgido con vistas al parcial
+
+978
+01:42:55.460 --> 01:42:58.609
+Arroyo Arzubi Carlos A.: que, como dije antes, hay que tratar de no de no fallar.
+
+979
+01:42:59.840 --> 01:43:02.090
+Arroyo Arzubi Carlos A.: Entonces dejamos acá sí.
+
+980
+01:43:02.090 --> 01:43:09.690
+ARON FRAGA: Una consulta con respecto al parcelito, puedo usar mi plantilla de excel copiar la imagen y pegarla, cosa que no falle
+
+981
+01:43:09.920 --> 01:43:10.520
+ARON FRAGA: perfecto.
+
+982
+01:43:10.520 --> 01:43:14.609
+Arroyo Arzubi Carlos A.: Sí, Sí, sí, pero pegármela ahí porque el.
+
+983
+01:43:14.610 --> 01:43:16.999
+ARON FRAGA: Le prometo que le va a quedar bien.
+
+984
+01:43:17.000 --> 01:43:24.150
+Arroyo Arzubi Carlos A.: No, porque es imposible, mirá que no, no lo divide en 200 pedazos.
+
+985
+01:43:24.490 --> 01:43:25.879
+Arroyo Arzubi Carlos A.: No, no está perfecto.
+
+986
+01:43:26.690 --> 01:43:27.090
+ARON FRAGA: Listo!
+
+987
+01:43:27.090 --> 01:43:29.460
+Arroyo Arzubi Carlos A.: A alguien más quiere decir algo.
+
+988
+01:43:30.600 --> 01:43:36.380
+Arroyo Arzubi Carlos A.: ¿Quiere comentar algo? ¿quiere contar un chiste? ¿cómo es? No, Bueno, listo. Vámonos.
+
+989
+01:43:36.380 --> 01:43:41.669
+FRANCO EMMANUEL SICARDO: No profe Si ganamos el domingo lo que somos en Char, arriba, ya tenemos un puntito más en directo.
+
+990
+01:43:41.670 --> 01:43:43.410
+Arroyo Arzubi Carlos A.: Dos 2 puntos.
+
+991
+01:43:43.410 --> 01:43:44.670
+FRANCO EMMANUEL SICARDO: Ah, no teme, anotame, por favor.
+
+992
+01:43:44.670 --> 01:43:48.150
+Arroyo Arzubi Carlos A.: Sí, franco 2 puntos. Hoy ya tenemos que jugar hoy. Pero hoy, bueno.
+
+993
+01:43:48.560 --> 01:43:49.889
+Arroyo Arzubi Carlos A.: hoy se hará lo que se pueda.
+
+994
+01:43:49.890 --> 01:43:50.790
+FRANCO EMMANUEL SICARDO: No pasa nada.
+
+995
+01:43:51.620 --> 01:43:56.670
+Arroyo Arzubi Carlos A.: Bueno, listo. Chau, Nos vemos entonces la clase que viene. ¿les parece.
+
+996
+01:43:56.900 --> 01:43:58.470
+LUCAS BONAFFINI: Yo, la única que tengo.
+
+997
+01:43:58.470 --> 01:43:58.860
+Arroyo Arzubi Carlos A.: Sí.
+
+998
+01:43:58.860 --> 01:43:59.849
+JOSE UMERE: Profe hasta luego.
+
+999
+01:44:01.270 --> 01:44:01.870
+LUCAS BONAFFINI: Claro.
+
+1000
+01:44:01.870 --> 01:44:02.880
+TOBÍAS WIRTH: Hasta luego.
+
+1001
+01:44:03.300 --> 01:44:11.000
+LUCAS BONAFFINI: Con respecto a esto, que comentaba aarón que yo también tuve el mismo problema. Puedo entonces también traspasarlo para poder manejarlo mejor ahí en Excel.
+
+1002
+01:44:11.000 --> 01:44:21.169
+Arroyo Arzubi Carlos A.: Tienen la computadora abierta para hacer lo que quieran. Lo que yo necesito es que me lo metan en un gol y vos Vamos. Vamos. No pidan permiso. Lo que no hace falta. Vamos.
+
+1003
+01:44:21.170 --> 01:44:22.580
+LUCAS BONAFFINI: No va nunca.
+
+1004
+01:44:22.580 --> 01:44:26.760
+Arroyo Arzubi Carlos A.: No, no, sí que tiene la la marca de agua mía, el pa, el.
+
+1005
+01:44:28.370 --> 01:44:33.019
+LUCAS BONAFFINI: También, pues, bueno y media.
+
+1006
+01:44:33.020 --> 01:44:33.930
+Arroyo Arzubi Carlos A.: Sí.
+
+1007
+01:44:33.930 --> 01:44:34.459
+ARON FRAGA: De los.
+
+1008
+01:44:34.460 --> 01:44:34.960
+Arroyo Arzubi Carlos A.: Es el.
+
+1009
+01:44:34.960 --> 01:44:36.580
+Mateo Camilletti: No, no.
+
+1010
+01:44:36.580 --> 01:44:37.180
+ALEXANDER EMANUEL PIZZURNO DUARTE: Profe.
+
+1011
+01:44:37.330 --> 01:44:38.359
+Arroyo Arzubi Carlos A.: Chao, chao.
+
+
