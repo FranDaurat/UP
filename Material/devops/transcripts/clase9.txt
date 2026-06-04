@@ -1,0 +1,6351 @@
+WEBVTT
+
+1
+00:17:42.210 --> 00:17:44.140
+Lucas Bonanni: Buenas tardes, cómo están.
+
+2
+00:17:45.230 --> 00:17:46.290
+FACUNDO EMANUEL MODARELLI: Hola. Profe.
+
+3
+00:17:47.520 --> 00:17:48.450
+AGUSTIN ELMER: Buenas tardes.
+
+4
+00:17:51.320 --> 00:17:52.440
+BENJAMIN BAIGORRIA FUNES: Buenas. Profe.
+
+5
+00:18:31.420 --> 00:18:33.350
+FACUNDO EMANUEL MODARELLI: Hola. Hola. Ahí. Me escuchan.
+
+6
+00:18:34.140 --> 00:18:35.310
+Lucas Bonanni: Sí, sí se escucha.
+
+7
+00:18:35.310 --> 00:18:36.089
+FACUNDO SAFE: Me dicen.
+
+8
+00:18:36.200 --> 00:18:36.950
+FACUNDO SAFE: Mhm.
+
+9
+00:18:47.290 --> 00:18:51.489
+FACUNDO EMANUEL MODARELLI: Veo que se remarca el cuadradito cuando
+
+10
+00:18:51.710 --> 00:18:54.929
+FACUNDO EMANUEL MODARELLI: hablas profe, pero no me llega el audio. No sé si soy yo.
+
+11
+00:18:55.240 --> 00:18:56.979
+FACUNDO EMANUEL MODARELLI: Los demás me pueden escuchar.
+
+12
+00:18:58.250 --> 00:18:59.209
+FACUNDO SAFE: Sí sí se.
+
+13
+00:18:59.210 --> 00:19:03.290
+FACUNDO EMANUEL MODARELLI: Hablar mejor así ¿no? A mí me parece que soy yo el problema. Ahí vengo.
+
+14
+00:19:27.280 --> 00:19:28.260
+CRISTIAN QUEIROLO DOMINGUEZ: Las tardes.
+
+15
+00:19:29.230 --> 00:19:30.280
+Lucas Bonanni: Buenas tardes.
+
+16
+00:19:33.170 --> 00:19:36.139
+FACUNDO EMANUEL MODARELLI: Ahí está ahí. Lo pude solucionar buenas tardes a todos. Perdón.
+
+17
+00:19:36.140 --> 00:19:38.750
+Lucas Bonanni: Me dijo, escuchas, bien.
+
+18
+00:19:38.970 --> 00:19:41.779
+FACUNDO EMANUEL MODARELLI: Sí, Sí, fue. Tengo multiplicidades
+
+19
+00:19:42.140 --> 00:19:47.280
+FACUNDO EMANUEL MODARELLI: de auriculares por acá. Dando vueltas Bluetooth y se me sincroniza con cualquier cosa perdón.
+
+20
+00:19:48.410 --> 00:19:49.959
+Lucas Bonanni: Claro que no hay problema.
+
+21
+00:20:17.720 --> 00:20:18.510
+Lucas Bonanni: Mhm.
+
+22
+00:20:23.170 --> 00:20:26.170
+Lucas Bonanni: Bueno, a ver quién quiere empezar.
+
+23
+00:20:27.430 --> 00:20:31.890
+FACUNDO EMANUEL MODARELLI: Yo tengo la presentación abierta. Si si si quieren puedo empezar yo.
+
+24
+00:20:32.590 --> 00:20:36.129
+Lucas Bonanni: Ya le tu nombre así porque no me parece cuadradito todavía.
+
+25
+00:20:36.420 --> 00:20:38.600
+FACUNDO EMANUEL MODARELLI: Facundo Modarely.
+
+26
+00:20:39.080 --> 00:20:42.470
+Lucas Bonanni: Okay. Dale facundo.
+
+27
+00:20:42.930 --> 00:20:49.349
+Lucas Bonanni: Vale, visto. Dale. Pero ¿qué es lo que tengo que poner para compartir. Que no lo puse todavía.
+
+28
+00:20:50.210 --> 00:20:52.210
+Lucas Bonanni: Mhm.
+
+29
+00:21:39.760 --> 00:21:41.250
+Lucas Bonanni: Listo, Ahí está.
+
+30
+00:21:43.130 --> 00:21:44.840
+Lucas Bonanni: Deberías poder compartir.
+
+31
+00:21:46.470 --> 00:21:49.010
+FACUNDO EMANUEL MODARELLI: Perfecto. Ahí empiezo a compartir.
+
+32
+00:21:57.520 --> 00:21:59.490
+FACUNDO EMANUEL MODARELLI: Avísenme cuando se pueda ver.
+
+33
+00:22:03.160 --> 00:22:04.430
+Lucas Bonanni: Sí se ve.
+
+34
+00:22:05.880 --> 00:22:07.589
+FACUNDO EMANUEL MODARELLI: Perdón, acá estamos de vuelta.
+
+35
+00:22:08.150 --> 00:22:18.100
+FACUNDO EMANUEL MODARELLI: Bueno, primero pedirle disculpas porque la presentación es bastante vila. Vila clase pasada y han habido presentaciones muy lindas. La mía no es lo más estética, pero
+
+36
+00:22:18.230 --> 00:22:24.020
+FACUNDO EMANUEL MODARELLI: espero pueda trasladarles todo lo que todo el trabajo que hice. Bueno.
+
+37
+00:22:24.950 --> 00:22:28.829
+FACUNDO EMANUEL MODARELLI: diseñó una a p. I que lo que hace es
+
+38
+00:22:29.400 --> 00:22:34.099
+FACUNDO EMANUEL MODARELLI: aplicar todos estos conceptos que fuimos aprendiendo a lo largo de las clases.
+
+39
+00:22:34.220 --> 00:22:38.179
+FACUNDO EMANUEL MODARELLI: Esta Api es bastante simple.
+
+40
+00:22:38.820 --> 00:22:45.460
+FACUNDO EMANUEL MODARELLI: Yo tomé un problema que había en un lugar donde trabajo, que es la gestión del Dns, y
+
+41
+00:22:45.880 --> 00:22:49.900
+FACUNDO EMANUEL MODARELLI: esta empresa donde trabajo tiene Dns por varias plataformas en
+
+42
+00:22:50.110 --> 00:22:55.999
+FACUNDO EMANUEL MODARELLI: en las nubes, en en en en en plataformas. Son premis a través de N. S. De Microsoft, de Bild
+
+43
+00:22:56.160 --> 00:23:02.580
+FACUNDO EMANUEL MODARELLI: y de y de de otros provider como Rose y Tri como Claudio iniesz.
+
+44
+00:23:02.710 --> 00:23:06.770
+FACUNDO EMANUEL MODARELLI: Y se me ocurrió diseñar una una Api que lo que haga es
+
+45
+00:23:07.120 --> 00:23:12.950
+FACUNDO EMANUEL MODARELLI: concentrar el alta de dominios y registros
+
+46
+00:23:13.060 --> 00:23:15.719
+FACUNDO EMANUEL MODARELLI: públicos y privados. Por supuesto, la Api es
+
+47
+00:23:16.080 --> 00:23:23.700
+FACUNDO EMANUEL MODARELLI: fue diseñada estrictamente para la demostración del trabajo en sí, no hace nada más que guardar esos datos.
+
+48
+00:23:23.840 --> 00:23:32.160
+FACUNDO EMANUEL MODARELLI: mostrarlos a través de un Goethe y poder inclusive y borrarlos, Sí,
+
+49
+00:23:34.220 --> 00:23:36.770
+FACUNDO EMANUEL MODARELLI: creen que no prendí la cámara. La voy a prender.
+
+50
+00:23:41.350 --> 00:23:45.590
+FACUNDO EMANUEL MODARELLI: Ahí está perdón, me había olvidado prender la cámara en
+
+51
+00:23:46.400 --> 00:23:53.470
+FACUNDO EMANUEL MODARELLI: la la A P. I está diseñada en en en. Está Está escrita en Python.
+
+52
+00:23:53.690 --> 00:23:57.110
+FACUNDO EMANUEL MODARELLI: la la y la realicé a través de Fas api
+
+53
+00:23:57.270 --> 00:24:05.750
+FACUNDO EMANUEL MODARELLI: y la está, digamos, codeada en una máquina virtual que tengo acá que ahora voy a compartirla la pantalla
+
+54
+00:24:05.940 --> 00:24:13.229
+FACUNDO EMANUEL MODARELLI: y a operó desde ahí y se alojó en Github. Me creó un repositorio con mi cuenta personal
+
+55
+00:24:13.430 --> 00:24:18.380
+FACUNDO EMANUEL MODARELLI: y a través de Github Actions termina y en
+
+56
+00:24:19.090 --> 00:24:21.670
+FACUNDO EMANUEL MODARELLI: biliando la imagen subiendo a Dockerhouse.
+
+57
+00:24:21.990 --> 00:24:28.179
+FACUNDO EMANUEL MODARELLI: Después la aplican render. Al principio lo había integrado a través de cuenta a Dockerhave y a render.
+
+58
+00:24:28.340 --> 00:24:35.090
+FACUNDO EMANUEL MODARELLI: y después de algunas correcciones profe que usted me hizo, Las hice a través de los webbooks y quedó
+
+59
+00:24:35.260 --> 00:24:53.900
+FACUNDO EMANUEL MODARELLI: completamente desplegable a través de del Timeline. O sea, lo que hace Github Action termina conectándose a render. Y la empuja a través de ahí. Y finalmente, para la parte de monitoreo que que que no llegué a optimizar de la mejor manera. Pero lo encontré una plataforma que se llama Centry
+
+60
+00:24:54.020 --> 00:25:05.189
+FACUNDO EMANUEL MODARELLI: y la integré. Sí, pese a que tuve, tengo algunas dificultades para ver métricas y demás. Pero pude integrarla también a través del iter actions
+
+61
+00:25:08.090 --> 00:25:09.330
+FACUNDO EMANUEL MODARELLI: siguiente slite.
+
+62
+00:25:09.460 --> 00:25:14.170
+FACUNDO EMANUEL MODARELLI: Bueno, lo que comentaba se hizo con python fasappy para poder
+
+63
+00:25:14.280 --> 00:25:19.059
+FACUNDO EMANUEL MODARELLI: armarla. Y para los testeos se use
+
+64
+00:25:19.630 --> 00:25:27.549
+FACUNDO EMANUEL MODARELLI: paités. Sí, Y bueno, después toker rocker con voz. Y lo que le comentaba anteriormente Gith Actions y Docker House
+
+65
+00:25:27.960 --> 00:25:29.239
+FACUNDO EMANUEL MODARELLI: Errender, vicente.
+
+66
+00:25:30.420 --> 00:25:35.879
+FACUNDO EMANUEL MODARELLI: Lo que hace la lapi es Salta zona de en ese registros isiname zonas públicas y privadas
+
+67
+00:25:36.010 --> 00:25:39.150
+FACUNDO EMANUEL MODARELLI: y tiene una validación de que, si está duplicado, el registro no
+
+68
+00:25:40.430 --> 00:25:46.410
+FACUNDO EMANUEL MODARELLI: bueno lo comentaba también está contenerizado usando Docker y Docker con vos.
+
+69
+00:25:47.480 --> 00:25:51.180
+FACUNDO EMANUEL MODARELLI: Y lo que hace el git abactions es
+
+70
+00:25:51.590 --> 00:25:56.169
+FACUNDO EMANUEL MODARELLI: es automáticos bileal Locker lo Puse a Dockerhab.
+
+71
+00:25:56.320 --> 00:25:59.190
+FACUNDO EMANUEL MODARELLI: que hace el diploy En en render
+
+72
+00:26:00.820 --> 00:26:08.229
+FACUNDO EMANUEL MODARELLI: a nivel versionado, usé 2 tipos: el later y 1 que es 1 0 0
+
+73
+00:26:08.550 --> 00:26:11.270
+FACUNDO EMANUEL MODARELLI: y que puede ir creciendo en el último numerito.
+
+74
+00:26:12.430 --> 00:26:15.799
+FACUNDO EMANUEL MODARELLI: y lo integré a centri para para lo que es la
+
+75
+00:26:16.360 --> 00:26:18.669
+FACUNDO EMANUEL MODARELLI: la del monitoreo de los release.
+
+76
+00:26:20.670 --> 00:26:28.700
+FACUNDO EMANUEL MODARELLI: Este es el Este es la Url. Por si alguien la quiere, la quiere probar con posman, o sea, a través de un pozo, un Goethe.
+
+77
+00:26:28.940 --> 00:26:32.840
+FACUNDO EMANUEL MODARELLI: Si ustedes le dan un barra, 2 van a tener la documentación de cómo
+
+78
+00:26:32.950 --> 00:26:35.489
+FACUNDO EMANUEL MODARELLI: de cómo usarla igual. Yo lo voy a mostrar ahora.
+
+79
+00:26:35.810 --> 00:26:39.350
+FACUNDO EMANUEL MODARELLI: Y además le agrego un castón no Marina. Y eso no quedó integrado al
+
+80
+00:26:39.790 --> 00:26:47.659
+FACUNDO EMANUEL MODARELLI: al Gitvations porque no encontré la forma de cómo hacerlo. Pero render tenes la posibilidad de agregar dominios. Entonces yo tenía un dominio creado en Nick.
+
+81
+00:26:48.020 --> 00:26:51.849
+FACUNDO EMANUEL MODARELLI: Ese fue modal y punto com puntual. Y lo que hice fue agregarle un
+
+82
+00:26:51.980 --> 00:27:03.369
+FACUNDO EMANUEL MODARELLI: un registro Synaim apuntando a render, y lo agregué en render entonces el Api también se puede consumir por por mi dominio, ¿no? Y termina siendo Api, punto F Modal y punto com punto a Ahora, después, lo paso por el chat.
+
+83
+00:27:04.020 --> 00:27:09.080
+FACUNDO EMANUEL MODARELLI: Bueno, esto es un poco lo que comentabas, y acá está un poco la la
+
+84
+00:27:09.180 --> 00:27:15.110
+FACUNDO EMANUEL MODARELLI: paso a paso de lo que hace lo que hace el el el proyecto
+
+85
+00:27:15.530 --> 00:27:18.650
+FACUNDO EMANUEL MODARELLI: bueno que las carpetas que componen todo el
+
+86
+00:27:18.760 --> 00:27:25.000
+FACUNDO EMANUEL MODARELLI: el el la el la Api, no donde está alojado el el Python y y demás.
+
+87
+00:27:25.250 --> 00:27:31.180
+FACUNDO EMANUEL MODARELLI: Sí, Ahora voy a me llevo acá. Esto.
+
+88
+00:27:33.750 --> 00:27:36.910
+FACUNDO EMANUEL MODARELLI: No sé si lo ven muy chico. Espero que no.
+
+89
+00:27:39.870 --> 00:27:41.080
+Lucas Bonanni: Creo que se veían.
+
+90
+00:27:42.120 --> 00:27:43.250
+FACUNDO EMANUEL MODARELLI: Excelente.
+
+91
+00:27:44.300 --> 00:27:44.850
+FACUNDO EMANUEL MODARELLI: ¿por qué?
+
+92
+00:27:44.850 --> 00:27:46.940
+Lucas Bonanni: Una máquina virtual, te iba a preguntar.
+
+93
+00:27:47.300 --> 00:27:52.880
+FACUNDO EMANUEL MODARELLI: Lo tengo así porque en mi máquina Windows, tengo las Ssh. X de Gitlab de
+
+94
+00:27:53.160 --> 00:28:05.319
+FACUNDO EMANUEL MODARELLI: tengo como varios integraciones con mi máquina. Y cuando agregué la Ssh aquí en mi máquina, se me rompieron la conexión con otros repos que tenía. Entonces dije, bueno, mejor, me creo una y M en Linux
+
+95
+00:28:05.570 --> 00:28:11.420
+FACUNDO EMANUEL MODARELLI: y le agrego la S. S. H. Ki, ahí de Github: y lo contengo ahí para que no me
+
+96
+00:28:11.560 --> 00:28:20.899
+FACUNDO EMANUEL MODARELLI: para que no me rompa todo. Porque yo, esta máquina que estoy usando es la única que tengo, y es la de mis trabajos. Entonces, como que cuando hice el trabajo práctico, se me rompieron todas las integraciones que tenía con Guildlaw.
+
+97
+00:28:21.530 --> 00:28:27.850
+FACUNDO EMANUEL MODARELLI: se ve que lo hice mal y pisé las Kiss o algo, entonces prefería hacerlo de
+
+98
+00:28:28.900 --> 00:28:32.010
+FACUNDO EMANUEL MODARELLI: en en en una máquina virtual.
+
+99
+00:28:32.810 --> 00:28:39.610
+FACUNDO EMANUEL MODARELLI: Aproveché Reutilice una que yo había usado para un trabajo práctico de de computación aplicada.
+
+100
+00:28:41.800 --> 00:28:44.220
+FACUNDO EMANUEL MODARELLI: Esa sería la la la razón.
+
+101
+00:28:44.350 --> 00:28:49.270
+FACUNDO EMANUEL MODARELLI: Pero bueno, esta es la la la carpeta.
+
+102
+00:28:50.060 --> 00:28:53.810
+FACUNDO EMANUEL MODARELLI: Estos son los archivos.
+
+103
+00:28:54.140 --> 00:29:02.780
+FACUNDO EMANUEL MODARELLI: Acá Estoy trabajando directamente en Maine. Yo no apliqué ningún Brunch protegido porque en la práctica del trabajo lo hice solo. Y Y
+
+104
+00:29:02.800 --> 00:29:14.620
+FACUNDO EMANUEL MODARELLI: bueno, me pareció que, como era un desarrollo, un laboratorio no, no valía la pena, pero sí estaba la posibilidad de proteger el mainz. Yo lo que hago es trabajar sobre sobre Miny y y y y buCEO,
+
+105
+00:29:14.650 --> 00:29:18.909
+FACUNDO EMANUEL MODARELLI: Y la aplicación está acá dentro.
+
+106
+00:29:22.390 --> 00:29:26.359
+FACUNDO EMANUEL MODARELLI: Voy a hacer un pequeño cambio para que podamos ver el proceso completo.
+
+107
+00:29:26.620 --> 00:29:29.950
+FACUNDO EMANUEL MODARELLI: Esta es la aplicación escrita en en
+
+108
+00:29:31.140 --> 00:29:36.610
+FACUNDO EMANUEL MODARELLI: en Python. Entonces acá lo que voy a hacer es un cambio mínimo para que corra el pipeline.
+
+109
+00:29:36.920 --> 00:29:42.160
+FACUNDO EMANUEL MODARELLI: Y le voy a poner que en vez de la B. Dos es la B. Tres.
+
+110
+00:29:45.580 --> 00:29:53.680
+FACUNDO EMANUEL MODARELLI: Lo voy a guardar ahí. Voy a agregar el archivo que modifiqué
+
+111
+00:29:56.720 --> 00:30:02.059
+FACUNDO EMANUEL MODARELLI: menos. M cambio en aplicativo de 2.
+
+112
+00:30:03.900 --> 00:30:05.490
+FACUNDO EMANUEL MODARELLI: Me faltó una T
+
+113
+00:30:10.170 --> 00:30:11.440
+FACUNDO EMANUEL MODARELLI: era un guipuz
+
+114
+00:30:13.130 --> 00:30:17.410
+FACUNDO EMANUEL MODARELLI: y me lo sube a mi rep que ahí lo voy a abrir en otra en otra pantalla.
+
+115
+00:30:26.090 --> 00:30:28.789
+FACUNDO EMANUEL MODARELLI: Si se puede ver bien, no hay chrome o se ve muy grande.
+
+116
+00:30:34.110 --> 00:30:35.420
+FACUNDO EMANUEL MODARELLI: Bueno, asumo que se.
+
+117
+00:30:35.420 --> 00:30:36.069
+Lucas Bonanni: Es que.
+
+118
+00:30:36.070 --> 00:30:38.849
+FACUNDO EMANUEL MODARELLI: Es la buenísimo. Esta es la
+
+119
+00:30:39.460 --> 00:30:46.010
+FACUNDO EMANUEL MODARELLI: Esto es lo que acabo de de de pulsear. Como verán, este App cambia el aplicativo. Dos es el que recién hice.
+
+120
+00:30:46.310 --> 00:30:49.449
+FACUNDO EMANUEL MODARELLI: Es, está hecho, digamos, fue en agua ahora.
+
+121
+00:30:49.850 --> 00:30:52.909
+FACUNDO EMANUEL MODARELLI: Y si me voy a actions.
+
+122
+00:30:54.250 --> 00:31:00.549
+FACUNDO EMANUEL MODARELLI: ahí está corriendo el pipeland, como verán, acá intenté y le erré 800 000 veces hasta que funcionó.
+
+123
+00:31:00.670 --> 00:31:07.600
+FACUNDO EMANUEL MODARELLI: Y el el si, hay, digamos, el el
+
+124
+00:31:07.950 --> 00:31:11.530
+FACUNDO EMANUEL MODARELLI: el pay. Bien, lo que hace es todo esto. Sí,
+
+125
+00:31:12.680 --> 00:31:15.990
+FACUNDO EMANUEL MODARELLI: acá. Se puede ver el paso a paso de lo que ya lo terminó de completar, ¿no?
+
+126
+00:31:16.160 --> 00:31:23.240
+FACUNDO EMANUEL MODARELLI: Pero bueno, hace el setup de Python. Se fijan las dependencias que puso en el archivo recurements y
+
+127
+00:31:24.080 --> 00:31:27.060
+FACUNDO EMANUEL MODARELLI: hace el testeo con con pay test.
+
+128
+00:31:27.530 --> 00:31:33.500
+FACUNDO EMANUEL MODARELLI: Se lo ve a Docker Hub a través de las variables secreer que ahora les voy a mostrar los secretos del repo.
+
+129
+00:31:33.710 --> 00:31:41.180
+FACUNDO EMANUEL MODARELLI: Bueno, Biblia, la imagen crea el el
+
+130
+00:31:41.350 --> 00:31:47.209
+FACUNDO EMANUEL MODARELLI: el reviese decentric que es la la herramienta de observabilidad que elegí para lo que es el Pive Line
+
+131
+00:31:47.430 --> 00:31:50.310
+FACUNDO EMANUEL MODARELLI: hace el diploy en render.
+
+132
+00:31:50.580 --> 00:31:57.180
+FACUNDO EMANUEL MODARELLI: Bueno, después los pasos posteriores inherentes al pie brain.
+
+133
+00:31:57.400 --> 00:31:59.840
+FACUNDO EMANUEL MODARELLI: Acá Si nos vamos a settings
+
+134
+00:32:01.670 --> 00:32:06.409
+FACUNDO EMANUEL MODARELLI: en la parte de secretos y variables
+
+135
+00:32:08.340 --> 00:32:21.840
+FACUNDO EMANUEL MODARELLI: acá van a ver que tengo. Bueno, está todo variabilizado, el digamos, para la conexión al Docker de usuario Password, Lo mismo con el centri. Y lo mismo con con con render. Si
+
+136
+00:32:21.840 --> 00:32:31.150
+FACUNDO EMANUEL MODARELLI: Y a través de estas variables es que el Github termina, digamos, como el Guitihab Action termina conectándose a estos lugares y haciendo
+
+137
+00:32:31.200 --> 00:32:40.020
+FACUNDO EMANUEL MODARELLI: lo que le dije que hagan el piveline no espérame que voy a abrir otra pestañas.
+
+138
+00:32:40.480 --> 00:32:41.730
+FACUNDO EMANUEL MODARELLI: Y esto era
+
+139
+00:32:50.100 --> 00:32:55.270
+FACUNDO EMANUEL MODARELLI: Esta es esta. Es la U. R. L. Que le agregué customizada. Como verán, no es la de render.
+
+140
+00:32:55.390 --> 00:33:00.920
+FACUNDO EMANUEL MODARELLI: Pero si lo hacemos un en ese lugar permiso.
+
+141
+00:33:06.460 --> 00:33:11.570
+FACUNDO EMANUEL MODARELLI: esto es un siname de render, Como verán, resuelve este a Url real.
+
+142
+00:33:11.970 --> 00:33:16.800
+FACUNDO EMANUEL MODARELLI: ¿no? De la misma manera le puedo. Le podemos pegar a esa a esa burl real.
+
+143
+00:33:16.970 --> 00:33:17.860
+FACUNDO EMANUEL MODARELLI: Docs.
+
+144
+00:33:19.740 --> 00:33:23.439
+FACUNDO EMANUEL MODARELLI: Esta es lappí corriendo en render. Pero con mi dominio
+
+145
+00:33:23.790 --> 00:33:25.300
+FACUNDO EMANUEL MODARELLI: y acá está la A. P. I
+
+146
+00:33:27.170 --> 00:33:32.010
+FACUNDO EMANUEL MODARELLI: corriendo sobre el dominio original de de render.
+
+147
+00:33:32.710 --> 00:33:35.189
+FACUNDO EMANUEL MODARELLI: Y ahora podemos probar de acá también? ¿no?
+
+148
+00:33:36.610 --> 00:33:44.060
+FACUNDO EMANUEL MODARELLI: Bueno, los métodos son get y post, digamos no, o sea goethes podés listar Las zonas.
+
+149
+00:33:44.640 --> 00:33:46.900
+FACUNDO EMANUEL MODARELLI: ¿sí?
+
+150
+00:33:47.460 --> 00:33:50.250
+FACUNDO EMANUEL MODARELLI: Con el post son, puedes crear las zonas.
+
+151
+00:33:51.660 --> 00:33:57.400
+FACUNDO EMANUEL MODARELLI: Y con records, puedes crear con el zona Id, y puedes crear como los registros. Esto termina siendo como una.
+
+152
+00:33:57.810 --> 00:34:05.440
+FACUNDO EMANUEL MODARELLI: no le puse base de datos, sino como que queda de memoria. Por supuesto, cuando bajas lápiz, se pierden los datos, pero era para representarlo nada más.
+
+153
+00:34:05.600 --> 00:34:06.730
+FACUNDO EMANUEL MODARELLI: Y
+
+154
+00:34:07.100 --> 00:34:12.219
+FACUNDO EMANUEL MODARELLI: pero no hace nada. En el backend, digamos, no se conecta con ningún backend y ejecuta ningún cambio era como una idea. No
+
+155
+00:34:12.400 --> 00:34:14.790
+FACUNDO EMANUEL MODARELLI: miren que voy a abrir postman.
+
+156
+00:34:16.350 --> 00:34:19.459
+Lucas Bonanni: Sí igual. Si quieres pasar la parte de monitoreo total con.
+
+157
+00:34:20.400 --> 00:34:21.040
+FACUNDO EMANUEL MODARELLI: Bueno.
+
+158
+00:34:21.110 --> 00:34:21.980
+Lucas Bonanni: Mhm.
+
+159
+00:34:22.600 --> 00:34:24.480
+FACUNDO EMANUEL MODARELLI: Bueno, bueno, hay agrocentry.
+
+160
+00:34:32.080 --> 00:34:33.600
+FACUNDO EMANUEL MODARELLI: Lo traigo por este monitor.
+
+161
+00:34:41.870 --> 00:34:48.500
+FACUNDO EMANUEL MODARELLI: Bien, esta es la parte que comentaba, que me me costó un poco porque no lograba terminar de de
+
+162
+00:34:48.800 --> 00:34:54.300
+FACUNDO EMANUEL MODARELLI: de ver las métricas. Yo quedó integrado. Estuve, están los secretos y
+
+163
+00:34:54.929 --> 00:34:59.290
+FACUNDO EMANUEL MODARELLI: puestos y demás, y me desploqueaba bien el Pay Line. Pero no termino como deber.
+
+164
+00:34:59.430 --> 00:35:05.709
+FACUNDO EMANUEL MODARELLI: Las métricas. Acá Yo entiendo que acá me faltó algo. Esta parte no la pude completar al 100 por 100.
+
+165
+00:35:05.890 --> 00:35:07.100
+FACUNDO EMANUEL MODARELLI: Y
+
+166
+00:35:07.220 --> 00:35:16.680
+FACUNDO EMANUEL MODARELLI: yo estoy seguro que me faltó instalar algo. Acá Me parece que me habla el S. D. K, Pero en entiendo que esto lo ten lo tendría que instalar en el en el
+
+167
+00:35:17.850 --> 00:35:24.320
+FACUNDO EMANUEL MODARELLI: en el Repo, digamos, de de de de Python que tengo local y buildearlo ahí en.
+
+168
+00:35:25.570 --> 00:35:33.120
+FACUNDO EMANUEL MODARELLI: Pero bueno, esta parte del signo las iba a completar. Sí, está, digamos, integrado ahí los secretos y demás.
+
+169
+00:35:33.270 --> 00:35:37.530
+FACUNDO EMANUEL MODARELLI: Y está linkeado al Git Java Action. Así que
+
+170
+00:35:37.640 --> 00:35:47.339
+FACUNDO EMANUEL MODARELLI: no esta parte por ahí la podemos como dar como incompleta, porque no logré que me muestren métricas con este centry. Creo que me confundí. Yo debía haber acá elegido
+
+171
+00:35:48.050 --> 00:35:53.059
+FACUNDO EMANUEL MODARELLI: que la otra herramienta que usted profe había sugerido.
+
+172
+00:35:53.060 --> 00:36:06.260
+Lucas Bonanni: Ahí. Lo que me parece que tienes que seguir son los 3 pasitos. Esos tienes que me parece que tienes que instalar las librerías de Fa, El. No sé con que lo hiciste. Si lo habías hecho con fas Appy. Dijiste con Python, pero no.
+
+173
+00:36:06.590 --> 00:36:07.389
+FACUNDO EMANUEL MODARELLI: Sí, Sí, Sí.
+
+174
+00:36:07.390 --> 00:36:12.270
+Lucas Bonanni: Y después configurar el S. D. La La clase. No creo que sea más.
+
+175
+00:36:13.130 --> 00:36:16.480
+FACUNDO EMANUEL MODARELLI: No creo que sí es verdad, pero como me me
+
+176
+00:36:17.090 --> 00:36:24.739
+FACUNDO EMANUEL MODARELLI: no, no lo no, no lo logra, no lo logré completar. O sea, no pude nunca ver las las métricas. Yo entiendo que esto lo tengo que hacer en el en el
+
+177
+00:36:25.210 --> 00:36:26.349
+FACUNDO EMANUEL MODARELLI: en el.
+
+178
+00:36:26.950 --> 00:36:28.000
+Lucas Bonanni: Perfecto.
+
+179
+00:36:28.000 --> 00:36:35.470
+FACUNDO EMANUEL MODARELLI: El proyecto, digamos, para que esto lo instale el Sdk dentro de lo dentro de lo que sería el Environment de Python, no el local de.
+
+180
+00:36:35.470 --> 00:36:36.920
+Lucas Bonanni: Sí, Exacto.
+
+181
+00:36:37.370 --> 00:36:51.520
+FACUNDO EMANUEL MODARELLI: Sí. Pero lo que es la integración está. Acá están los secretos y está, De hecho, me costó un montón poder integrar Gith Javatision. Yo creo que el me llevó muchísimo tiempo integrar Gith Java Action Concentry, y esta parte es la que nos llega a terminar. No la
+
+182
+00:36:51.790 --> 00:36:57.239
+FACUNDO EMANUEL MODARELLI: Mhm para poder mostrárselos porque no me termina mostrando ninguna métrica.
+
+183
+00:36:57.520 --> 00:37:01.390
+FACUNDO EMANUEL MODARELLI: Pero a nivel de Pay blanco, corre y lo está, integrado, digamos.
+
+184
+00:37:01.390 --> 00:37:12.019
+Lucas Bonanni: Pero pudiste crear un un dashboard. O sea, yo sé que no ves las métricas, pero por lo menos para ver si te llegan porque capaz que están llegando, pero no las ves, porque no no sé si creaste un dashboard.
+
+185
+00:37:13.260 --> 00:37:15.790
+FACUNDO EMANUEL MODARELLI: No, no, no, no claro como.
+
+186
+00:37:17.660 --> 00:37:21.919
+Lucas Bonanni: Poner genera no está bloqueado. No Generali Dashboard está bloqueado.
+
+187
+00:37:22.100 --> 00:37:23.980
+FACUNDO EMANUEL MODARELLI: A ver, me parece que no.
+
+188
+00:37:24.410 --> 00:37:28.200
+FACUNDO EMANUEL MODARELLI: Ahí te digo yo. De verdad, claro.
+
+189
+00:37:28.770 --> 00:37:33.310
+Lucas Bonanni: Poner de test o algo así. Algo de test para que te siga.
+
+190
+00:37:45.040 --> 00:37:48.570
+Lucas Bonanni: te da un chat.
+
+191
+00:37:49.190 --> 00:37:52.239
+FACUNDO EMANUEL MODARELLI: Me parece que esto me dijo que lo hace con la Ia, no. O sea, es como que.
+
+192
+00:37:52.240 --> 00:37:53.899
+Lucas Bonanni: Sí sí sí parece que sí
+
+193
+00:37:54.920 --> 00:38:00.159
+Lucas Bonanni: ponele a Dashboard. Y dale a ver si la otra opción no es otro común.
+
+194
+00:38:02.790 --> 00:38:03.380
+FACUNDO EMANUEL MODARELLI: Y.
+
+195
+00:38:03.380 --> 00:38:07.239
+Lucas Bonanni: Sí a Twitchet para que agregue un.
+
+196
+00:38:07.240 --> 00:38:08.490
+FACUNDO EMANUEL MODARELLI: Aston Widgets.
+
+197
+00:38:08.790 --> 00:38:12.700
+Lucas Bonanni: Y poner una caston, ponerle, si no de la librería.
+
+198
+00:38:14.910 --> 00:38:15.700
+FACUNDO EMANUEL MODARELLI: A ver.
+
+199
+00:38:16.160 --> 00:38:22.550
+Lucas Bonanni: Atrás atrás, cancelar, poner a ducha por un library.
+
+200
+00:38:25.930 --> 00:38:30.300
+Lucas Bonanni: Y ahí creo que tenés. Eso es lo que te está llegando ahí. Tenés la
+
+201
+00:38:30.810 --> 00:38:35.720
+Lucas Bonanni: la distribución. Fíjate arriba a ver crushrate
+
+202
+00:38:36.270 --> 00:38:40.500
+Lucas Bonanni: duration distribuyen. Es el que estamos viendo ahora capaz que.
+
+203
+00:38:40.500 --> 00:38:47.309
+FACUNDO EMANUEL MODARELLI: No había llegado a hacer esta parte entonces sí, porque veo algo de un dato. Me trae.
+
+204
+00:38:47.730 --> 00:38:55.600
+Lucas Bonanni: Claro. Ten: Sí. Te después. Para la próxima, te faltaría verificar esto y ver qué otros datos puedes agregar, pero.
+
+205
+00:38:56.240 --> 00:38:58.190
+FACUNDO EMANUEL MODARELLI: Ah buenísimo, buenísimo.
+
+206
+00:39:00.090 --> 00:39:07.450
+FACUNDO EMANUEL MODARELLI: O sea que me faltó agregar el láser. Nada más. O sea, estaba integrado y bien.
+
+207
+00:39:23.870 --> 00:39:24.880
+Lucas Bonanni: Algo más.
+
+208
+00:39:26.020 --> 00:39:27.710
+FACUNDO EMANUEL MODARELLI: En
+
+209
+00:39:28.780 --> 00:39:35.719
+FACUNDO EMANUEL MODARELLI: no entiendo que bueno esto sería excepto esta parte de monitoreo. El otro lo pude completar. Lo pude completar todo.
+
+210
+00:39:36.720 --> 00:39:45.720
+Lucas Bonanni: Bueno, dale dale listo. Bueno, para la próxima completar esta parte de monitoreo a ver, vas armando algo. Y después, bueno, después lo revisamos.
+
+211
+00:39:46.310 --> 00:39:49.870
+FACUNDO EMANUEL MODARELLI: Bueno, buenísimo, buenísimo ahí. ¿de qué sería como otra fecha? No.
+
+212
+00:39:50.770 --> 00:39:51.889
+Lucas Bonanni: Sí, pero al final.
+
+213
+00:39:52.520 --> 00:39:54.489
+FACUNDO EMANUEL MODARELLI: Ah buenísimo, buenísimo buenísimo.
+
+214
+00:39:54.730 --> 00:40:00.069
+FACUNDO EMANUEL MODARELLI: Aparte esto del monitoreo es algo que que que veas que pueda mejorar o que pueda.
+
+215
+00:40:00.070 --> 00:40:06.370
+Lucas Bonanni: El Repo. Y yo les paso a todos que yo ya estuve viendo las que fueron
+
+216
+00:40:06.500 --> 00:40:12.479
+Lucas Bonanni: los que presentaron la la vez pasada. Así que ahora voy a empezar a revisar los que presenten hoy.
+
+217
+00:40:12.760 --> 00:40:14.879
+FACUNDO EMANUEL MODARELLI: buenísimo, buenísimo, buenísimo.
+
+218
+00:40:16.650 --> 00:40:20.530
+Lucas Bonanni: Así que excelente, Dale, Así que después lo veo y te digo más.
+
+219
+00:40:22.060 --> 00:40:25.050
+FACUNDO EMANUEL MODARELLI: Bárbaro. Muchas gracias. Dejo de compartir.
+
+220
+00:40:27.840 --> 00:40:30.790
+Lucas Bonanni: Perfecto. Bien, ¿quién va a seguir.
+
+221
+00:40:31.370 --> 00:40:32.710
+CIRO PANIGATTI SOTO: Nosotros mismos.
+
+222
+00:40:35.150 --> 00:40:37.920
+Lucas Bonanni: ¿quién es perdón, que era así? Lo sonoto.
+
+223
+00:40:38.250 --> 00:40:49.270
+CIRO PANIGATTI SOTO: Shiro Si la humanidad a ti y Antonella, Zarate y Tobías félix.
+
+224
+00:40:51.320 --> 00:40:54.610
+Lucas Bonanni: Ese, ¿qué ¿Qué grupo es el grupo? Dos.
+
+225
+00:40:54.610 --> 00:40:56.809
+JOANA ZARATE: Dos, Sí, Sí, grupos.
+
+226
+00:40:56.810 --> 00:40:57.510
+CIRO PANIGATTI SOTO: Vales.
+
+227
+00:40:59.330 --> 00:41:00.150
+Lucas Bonanni: Okay.
+
+228
+00:41:03.660 --> 00:41:05.160
+CIRO PANIGATTI SOTO: Comparto pantalla.
+
+229
+00:41:05.620 --> 00:41:07.090
+Lucas Bonanni: Sí. Sí. Vale.
+
+230
+00:41:07.620 --> 00:41:09.140
+CIRO PANIGATTI SOTO: Vale, Ahí está.
+
+231
+00:41:09.450 --> 00:41:10.160
+CIRO PANIGATTI SOTO: Mhm.
+
+232
+00:41:14.940 --> 00:41:15.800
+CIRO PANIGATTI SOTO: Listo.
+
+233
+00:41:17.380 --> 00:41:18.070
+TOBÍAS FELIX MEDLAM: Mhm.
+
+234
+00:41:18.430 --> 00:41:33.240
+TOBÍAS FELIX MEDLAM: para empezar por aclaración, que fue todo experiencia este. T. T, P, Porque nosotros aprendimos de 0 y aplicando todo lo visto en la materia
+
+235
+00:41:34.150 --> 00:41:42.189
+TOBÍAS FELIX MEDLAM: también. Pedir disculpas si me escuchan un poco mal porque estoy con una gripe terrible.
+
+236
+00:41:42.620 --> 00:41:50.050
+TOBÍAS FELIX MEDLAM: Yo te voy a mandar un mensaje profe media de la tarde, que estaba así con temperatura alta y todo.
+
+237
+00:41:50.580 --> 00:41:56.760
+TOBÍAS FELIX MEDLAM: Pero más que nada, por si en un momento me quedo un poco trabado es que
+
+238
+00:41:57.010 --> 00:42:01.300
+TOBÍAS FELIX MEDLAM: y quizás me reponer un cachito. Mhm.
+
+239
+00:42:01.750 --> 00:42:06.360
+TOBÍAS FELIX MEDLAM: Bueno, bueno.
+
+240
+00:42:06.990 --> 00:42:16.590
+TOBÍAS FELIX MEDLAM: como les dije, vamos a presentar nuestro trabajo práctico sobre la materia. Este equipo está integrado por mi compañera Antonella.
+
+241
+00:42:16.720 --> 00:42:29.060
+TOBÍAS FELIX MEDLAM: por Shiro y por mí Tobias. El objetivo principal de este proyecto fue implementar un correcto flujo de bots completo y real.
+
+242
+00:42:29.270 --> 00:42:35.220
+TOBÍAS FELIX MEDLAM: integrando herramientas modernas de desarrollo, automatización.
+
+243
+00:42:35.330 --> 00:42:43.829
+TOBÍAS FELIX MEDLAM: con containerización despliegue de despliegue con despliegue continuo y observabilidad
+
+244
+00:42:45.230 --> 00:43:02.609
+TOBÍAS FELIX MEDLAM: para lograr este objetivo: tomos decisiones tecnológicas claves. En primer lugar, elegimos Fast Api como nuestro framew para framework para la Api por su rapidez, desarrollo excelente rendimiento
+
+245
+00:43:03.340 --> 00:43:06.829
+TOBÍAS FELIX MEDLAM: y la generación automática de documentación.
+
+246
+00:43:06.980 --> 00:43:13.190
+TOBÍAS FELIX MEDLAM: En segundo lugar, adoptamos Docker para la con contaminalización
+
+247
+00:43:13.660 --> 00:43:25.140
+TOBÍAS FELIX MEDLAM: asegurando la portabilidad del servicio y finalmente, estructuramos un ecosistema con girva actions para el C. I C.
+
+248
+00:43:25.290 --> 00:43:31.350
+TOBÍAS FELIX MEDLAM: Render para el despliegue automático y New Relly para el monitoreo en tiempo real.
+
+249
+00:43:32.210 --> 00:43:46.240
+TOBÍAS FELIX MEDLAM: Aquí empezamos a aplicar el primer camino de bots flujo continuo. Al seleccionar este primer stack, buscamos acelerar el paso del código desde el desarrollo
+
+250
+00:43:47.640 --> 00:44:01.280
+TOBÍAS FELIX MEDLAM: y hasta la producción de la madera más fluida, segura, y está analizada posible eliminando cualquier cosa de botella.
+
+251
+00:44:03.180 --> 00:44:04.389
+CIRO PANIGATTI SOTO: Sí o yo
+
+252
+00:44:07.440 --> 00:44:08.200
+CIRO PANIGATTI SOTO: a ver.
+
+253
+00:44:08.570 --> 00:44:09.120
+TOBÍAS FELIX MEDLAM: Sí, Sí.
+
+254
+00:44:09.120 --> 00:44:25.219
+CIRO PANIGATTI SOTO: Bueno a ver, pasando a la parte de desarrollo Bueno, para más rápido. Usamos Fast Api que lo utilizamos con Ubicond, que es el servidor web que está escuchando en el puerto, 8 000 y le pasa después el tráfico a a Fasapi.
+
+255
+00:44:25.650 --> 00:44:31.749
+CIRO PANIGATTI SOTO: Después las dependencias, las definimos en archivo de requiarments para que
+
+256
+00:44:32.360 --> 00:44:41.340
+CIRO PANIGATTI SOTO: y después, para no tener sorpresas, metimos tests automáticos con Pay Test y así nos aseguramos que los End Points y los códigos de de Estado respondan como se debe.
+
+257
+00:44:41.610 --> 00:44:42.460
+CIRO PANIGATTI SOTO: Mhm
+
+258
+00:44:43.300 --> 00:44:53.110
+CIRO PANIGATTI SOTO: después para empaquetar todo y que sea fácil de mover. Armamos un docker file con multi Stage usando versiones lim de Python, 3, 12
+
+259
+00:44:53.290 --> 00:44:54.880
+CIRO PANIGATTI SOTO: por el puerto. Ocho 1 000
+
+260
+00:44:55.000 --> 00:45:00.729
+CIRO PANIGATTI SOTO: después, A eso le sumamos un Docker con Post con Healsex para que se reinicie sólo si algo falla.
+
+261
+00:45:01.630 --> 00:45:05.920
+CIRO PANIGATTI SOTO: Lo hicimos así porque encaja perfecto con la filosofía que habías dicho de link.
+
+262
+00:45:06.240 --> 00:45:13.689
+CIRO PANIGATTI SOTO: porque al usar las imágenes multistage un tono externalizado, se eliminan desperdicios como el espacio en disco innecesario.
+
+263
+00:45:13.870 --> 00:45:19.430
+CIRO PANIGATTI SOTO: Y lo más importante, que es que funcionan todas las máquinas da igual arquitectura o el tipo de máquina que sea
+
+264
+00:45:21.820 --> 00:45:29.320
+CIRO PANIGATTI SOTO: después. Bueno, el flujo de I T que tenemos primero
+
+265
+00:45:30.080 --> 00:45:38.780
+CIRO PANIGATTI SOTO: cualquier cosa nueva que hagamos, o sea, cualquier push que hagamos o lo que sea, va siempre a un ficho separado que no se aplican Main.
+
+266
+00:45:39.310 --> 00:45:41.950
+CIRO PANIGATTI SOTO: Después, en el desarrollo y Push
+
+267
+00:45:42.180 --> 00:45:47.429
+CIRO PANIGATTI SOTO: vamos codeando y subiendo los cambios de a poco aplicando esa idea de hacerlo modular e incrementar
+
+268
+00:45:47.900 --> 00:45:58.919
+CIRO PANIGATTI SOTO: después para el publiquest. Cuando hacemos un push, cada vez que hagamos una modificación, sale un punryquest. Y así todos podemos ver el cambio del Código antes de meterlo. Y ahí decimos si aceptarlo o no.
+
+269
+00:45:59.490 --> 00:46:13.810
+CIRO PANIGATTI SOTO: Y después lo último, tenemos el Git Ho Actions, que antes era la rama principal, el sistema de correos T, de forma automática y obligatoria. Y si algo está mal. Algo no funciona el código o lo que sea. No pasa.
+
+270
+00:46:14.360 --> 00:46:27.360
+CIRO PANIGATTI SOTO: Así que nada. Con todo esto reforzamos el flujo continuo y podemos desarrollar los 3 en paralelos sin bloquearnos, mantener un ritmo de entrega constante y, sobre todo, que sea estable, que no tenga fallos que no tenga problemas, que no tenga nada
+
+271
+00:46:34.660 --> 00:46:39.670
+CIRO PANIGATTI SOTO: seguís llanto.
+
+272
+00:46:43.330 --> 00:46:44.519
+CIRO PANIGATTI SOTO: Antona se fue.
+
+273
+00:46:46.610 --> 00:46:47.990
+TOBÍAS FELIX MEDLAM: No sé si hice el caso.
+
+274
+00:46:49.170 --> 00:46:52.360
+CIRO PANIGATTI SOTO: Puede ser bueno, sí o yo.
+
+275
+00:46:53.870 --> 00:46:55.460
+JOANA ZARATE: No puede ser.
+
+276
+00:46:56.190 --> 00:46:56.760
+CIRO PANIGATTI SOTO: Sí, Sí.
+
+277
+00:46:56.760 --> 00:46:59.130
+JOANA ZARATE: Mhm, escúchame.
+
+278
+00:46:59.750 --> 00:47:00.779
+CIRO PANIGATTI SOTO: Sí. Ahora, sí.
+
+279
+00:47:04.130 --> 00:47:08.740
+JOANA ZARATE: ¿qué di Sí, hay de Dios?
+
+280
+00:47:11.090 --> 00:47:12.600
+JOANA ZARATE: ¿me escuchan.
+
+281
+00:47:13.200 --> 00:47:14.100
+CIRO PANIGATTI SOTO: Sí. Ahora, sí.
+
+282
+00:47:14.100 --> 00:47:16.129
+Lucas Bonanni: No te escucho bien recordado.
+
+283
+00:47:16.130 --> 00:47:19.080
+JOANA ZARATE: No, Sí, me.
+
+284
+00:47:19.080 --> 00:47:22.950
+FACUNDO EMANUEL MODARELLI: Quizás convenga que todos apaguemos las cámaras para ahorrarle ancho de banda.
+
+285
+00:47:23.870 --> 00:47:24.290
+CIRO PANIGATTI SOTO: Javi.
+
+286
+00:47:24.290 --> 00:47:27.369
+FACUNDO EMANUEL MODARELLI: Y que mejore la conexión. Eso a veces funciona.
+
+287
+00:47:27.370 --> 00:47:29.590
+JOANA ZARATE: Buenísima. Me.
+
+288
+00:47:30.290 --> 00:47:30.940
+CIRO PANIGATTI SOTO: Mhm.
+
+289
+00:47:32.030 --> 00:47:35.949
+JOANA ZARATE: Lamentablemente sí. Gracias.
+
+290
+00:47:36.200 --> 00:47:37.279
+JOANA ZARATE: Y en
+
+291
+00:47:41.700 --> 00:47:46.439
+JOANA ZARATE: ¡ay Dios, ¿cómo odio en Internet? Bueno, en fin.
+
+292
+00:47:47.390 --> 00:47:56.959
+JOANA ZARATE: lo nuestro le estaba diciendo que no me escucharan que eso que no coloqué el coche
+
+293
+00:48:00.230 --> 00:48:19.310
+JOANA ZARATE: y en el en después, a través de la presentación, lo vamos a estar mostrando como lo hicimos.
+
+294
+00:48:21.570 --> 00:48:37.430
+JOANA ZARATE: Este archivito es amplificar el concepto de Andong gordos, o sea, si algo algo Mhm.
+
+295
+00:48:38.970 --> 00:48:42.999
+JOANA ZARATE: una falla o código que se.
+
+296
+00:48:47.340 --> 00:48:48.319
+TOBÍAS FELIX MEDLAM: Serenga show?
+
+297
+00:48:48.620 --> 00:48:53.300
+TOBÍAS FELIX MEDLAM: Bueno, sí, o sea.
+
+298
+00:48:53.670 --> 00:48:54.730
+CIRO PANIGATTI SOTO: Sí. Bueno, sigo.
+
+299
+00:48:55.070 --> 00:48:56.780
+TOBÍAS FELIX MEDLAM: Sí, Sí, Sí.
+
+300
+00:48:56.780 --> 00:49:01.580
+CIRO PANIGATTI SOTO: Curioso, Bueno, a ver por dónde estaba eso. Se había hecho.
+
+301
+00:49:01.910 --> 00:49:04.810
+TOBÍAS FELIX MEDLAM: Si no, pues.
+
+302
+00:49:04.810 --> 00:49:11.570
+CIRO PANIGATTI SOTO: Bueno que cada vez que se abre un punbliquest ahí tenemos el tipeline de la integración continua
+
+303
+00:49:11.700 --> 00:49:20.539
+CIRO PANIGATTI SOTO: que ahí lo tenemos en archivo 6 y que está ahí es la carpeta en Gifok Work Floast Ml.
+
+304
+00:49:20.700 --> 00:49:29.440
+CIRO PANIGATTI SOTO: y nada. Este país se encarga de instalar las dependencias, ejecutar los test de pautes y realizar el Bill de la imagen de manera 100 por 100 automatizada.
+
+305
+00:49:30.390 --> 00:49:34.079
+CIRO PANIGATTI SOTO: Bueno, eso básicamente es el concepto de andon core
+
+306
+00:49:34.610 --> 00:49:40.210
+CIRO PANIGATTI SOTO: que que básicamente es que si algo falla se para toda la producción, para que no entre
+
+307
+00:49:40.570 --> 00:49:42.750
+CIRO PANIGATTI SOTO: para que no entre en producción, Básicamente.
+
+308
+00:49:43.520 --> 00:49:51.780
+CIRO PANIGATTI SOTO: si algo falla en este caso se bloquea al mes y se notifica a los contribuidores que estamos ahí
+
+309
+00:49:52.600 --> 00:50:00.200
+CIRO PANIGATTI SOTO: bueno y de esta manera detenemos la línea de producción para para solucionar el problema de la forma más rápida posible y y que no afecte nada.
+
+310
+00:50:00.420 --> 00:50:13.169
+CIRO PANIGATTI SOTO: Después, si el Pipe line supera todos los test, el proceso continúa de forma automática. Después, al hacer el merzer a Rama Main. La imagen de Dover se compila y se publica directamente en Dover, ha
+
+311
+00:50:13.620 --> 00:50:22.530
+CIRO PANIGATTI SOTO: que para esto aplicamos práctica de seguridad utilizando bethus secrets para proteger las credenciales como Tokens o o licencias.
+
+312
+00:50:23.400 --> 00:50:37.279
+CIRO PANIGATTI SOTO: Después se desencadena el despliegue continuo en render, el cual está conectado al repositorio. Render detecta la nueva imagen en la rama principal, actualiza la aplicación en la nube de forma automática y sin intervención manual, dejando la a P I accesible.
+
+313
+00:50:37.970 --> 00:50:43.319
+CIRO PANIGATTI SOTO: Este ciclo automatizado materializa el segundo camino, que es el feedback rápido.
+
+314
+00:50:43.910 --> 00:50:45.110
+CIRO PANIGATTI SOTO: Básicamente.
+
+315
+00:50:46.380 --> 00:50:55.200
+CIRO PANIGATTI SOTO: y con eso, bueno, reducimos el tiempo entre que escribimos una línea. Y vemos si funciona en producción una respuesta inmediata sobre el estado real de la aplicación.
+
+316
+00:51:00.950 --> 00:51:04.060
+TOBÍAS FELIX MEDLAM: No sé si volvió alto ahí. Ahora, si quiere ser.
+
+317
+00:51:04.060 --> 00:51:07.770
+JOANA ZARATE: Sí. Te Te intercambio. Así.
+
+318
+00:51:08.170 --> 00:51:10.809
+TOBÍAS FELIX MEDLAM: Sí. Dale.
+
+319
+00:51:10.810 --> 00:51:11.660
+JOANA ZARATE: Deseo.
+
+320
+00:51:12.320 --> 00:51:14.930
+TOBÍAS FELIX MEDLAM: A partir de de las 7. Es esta.
+
+321
+00:51:14.930 --> 00:51:20.830
+JOANA ZARATE: No. Lo que continúa es el tema, sí sí
+
+322
+00:51:24.500 --> 00:51:26.030
+JOANA ZARATE: en
+
+323
+00:51:29.860 --> 00:51:37.020
+JOANA ZARATE: para asegurarnos de que la aplicación funcione una vez desplegada e implementamos
+
+324
+00:51:40.470 --> 00:51:42.849
+JOANA ZARATE: en New York, reliquia que canta
+
+325
+00:51:43.510 --> 00:51:46.549
+JOANA ZARATE: a través del archivo New York Bikini.
+
+326
+00:51:46.800 --> 00:51:49.280
+JOANA ZARATE: y que esto nos permite visualizar.
+
+327
+00:51:49.280 --> 00:51:51.450
+TOBÍAS FELIX MEDLAM: Por real.
+
+328
+00:51:52.070 --> 00:52:07.050
+JOANA ZARATE: Y meti metas. Era como el tiempo de respuesta, transacciones del sistema: producir el chat me cae otra vez.
+
+329
+00:52:07.840 --> 00:52:08.699
+CIRO PANIGATTI SOTO: No, no, no.
+
+330
+00:52:08.700 --> 00:52:10.010
+JOANA ZARATE: Me caí. Me caí.
+
+331
+00:52:10.010 --> 00:52:10.950
+Lucas Bonanni: En el.
+
+332
+00:52:10.990 --> 00:52:12.139
+JOANA ZARATE: buenísimo.
+
+333
+00:52:14.140 --> 00:52:18.560
+JOANA ZARATE: Perdón. Lo que pasa que me aparece el cartel de mala conexión.
+
+334
+00:52:18.850 --> 00:52:29.660
+JOANA ZARATE: Bueno, el monitoreo es base del tercer camino del box, que es con continuo sin fluogment.
+
+335
+00:52:29.780 --> 00:52:38.989
+JOANA ZARATE: Y gracias a estos datos y telemetría, por supuesto, nos permite que aprender del comportamiento de nuestra Api, que es bastante basiquita, justamente porque
+
+336
+00:52:40.810 --> 00:52:46.279
+JOANA ZARATE: estas herramientas, así que todo se aprendió de 0
+
+337
+00:52:47.020 --> 00:52:52.810
+JOANA ZARATE: y también nos permite monitorear el comportamiento de nuestro
+
+338
+00:52:53.600 --> 00:53:00.249
+JOANA ZARATE: de nuestra a P I bajo tráfico real y detectar hueso de botella.
+
+339
+00:53:02.410 --> 00:53:03.080
+CIRO PANIGATTI SOTO: Bien.
+
+340
+00:53:03.380 --> 00:53:04.189
+JOANA ZARATE: La siguiente.
+
+341
+00:53:04.190 --> 00:53:05.260
+CIRO PANIGATTI SOTO: Y.
+
+342
+00:53:07.460 --> 00:53:08.359
+JOANA ZARATE: Las conclusiones.
+
+343
+00:53:08.870 --> 00:53:10.049
+CIRO PANIGATTI SOTO: Ahí está. Es verdad, pero.
+
+344
+00:53:12.870 --> 00:53:14.720
+JOANA ZARATE: Como les decía.
+
+345
+00:53:15.220 --> 00:53:27.090
+JOANA ZARATE: como conclusión, es que este trabajo práctico nos dio la oportunidad de explorar muchas herramientas que no teníamos en el radar. En mi caso particular, también, entender un montón de
+
+346
+00:53:27.290 --> 00:53:28.530
+JOANA ZARATE: en
+
+347
+00:53:29.340 --> 00:53:41.579
+JOANA ZARATE: de flujos y también de de tecnicismos, por así decirlo, que andan dando vueltas en mi trabajo, pero que son los toco de oídos solamente porque estoy en otra área.
+
+348
+00:53:42.300 --> 00:53:51.890
+JOANA ZARATE: Pudimos construir una a P I funcional basiquita, pero que funciona justamente para poder probar
+
+349
+00:53:52.610 --> 00:53:55.480
+JOANA ZARATE: todos estos flujos y poder entenderlos.
+
+350
+00:53:55.690 --> 00:54:05.269
+JOANA ZARATE: Y por supuesto, experimentar de primera mano los conceptos de box, como los 3 caminos, los 3 waves, andon corps.
+
+351
+00:54:05.560 --> 00:54:08.470
+JOANA ZARATE: monitoreo, etcétera.
+
+352
+00:54:08.980 --> 00:54:17.260
+JOANA ZARATE: Y Ta: también, por supuesto, bueno, una de las razones, no recuerdo si lo había mencionado, ciro o o Toby.
+
+353
+00:54:17.700 --> 00:54:29.400
+JOANA ZARATE: Elegimos Python porque era con lo que nos sentíamos un poquito más familiarizados. No tampoco teníamos una base fuerte, por así decirlo, de programación.
+
+354
+00:54:29.560 --> 00:54:38.289
+JOANA ZARATE: Entonces, bueno, que conocés Vos Python y yo, Python y Python. Y bueno, vamos con Python, y por eso también elegimos fosappy
+
+355
+00:54:38.860 --> 00:54:39.940
+JOANA ZARATE: para realizarla.
+
+356
+00:54:40.570 --> 00:54:44.759
+JOANA ZARATE: No sé si shiro o Tobi quieren agregar algo más.
+
+357
+00:54:44.760 --> 00:54:46.039
+CIRO PANIGATTI SOTO: No, eso. Nada más.
+
+358
+00:54:47.630 --> 00:54:55.149
+TOBÍAS FELIX MEDLAM: No sé si el Profe quiere que repitamos algo en caso de que no se haya entendido bien.
+
+359
+00:54:56.130 --> 00:54:56.750
+JOANA ZARATE: Mhm.
+
+360
+00:54:57.220 --> 00:55:01.029
+Lucas Bonanni: No está bien. Van a mostrar la parte de monitoreo.
+
+361
+00:55:01.030 --> 00:55:07.370
+CIRO PANIGATTI SOTO: Bueno, quieres que te demostramos el P. D, F, El paso por paso, pasamos directamente ya a lo que sería
+
+362
+00:55:07.600 --> 00:55:08.770
+CIRO PANIGATTI SOTO: y.
+
+363
+00:55:08.770 --> 00:55:10.640
+Lucas Bonanni: Pero.
+
+364
+00:55:11.210 --> 00:55:15.160
+CIRO PANIGATTI SOTO: Vale, Bueno, acá. Tenemos render.
+
+365
+00:55:15.610 --> 00:55:21.659
+CIRO PANIGATTI SOTO: Vale con el proyecto. Todo lo que todos los cambios que se fueron haciendo y todo lo que se fue haciendo
+
+366
+00:55:21.940 --> 00:55:30.780
+CIRO PANIGATTI SOTO: repositorio Acá está el repositorio en sí. Y después Acá en New Ready. Tenemos esto con la con las métricas que ya antes de entrar al examen, Bueno.
+
+367
+00:55:30.900 --> 00:55:35.049
+CIRO PANIGATTI SOTO: estuve probando que funcionara todo bien, que siga funcionando perfecto.
+
+368
+00:55:35.580 --> 00:55:40.019
+CIRO PANIGATTI SOTO: Así que si querés empezamos con lo del tráfico de New Ready.
+
+369
+00:55:42.290 --> 00:55:46.320
+CIRO PANIGATTI SOTO: Yo para eso hice un un archivo de Python para
+
+370
+00:55:46.470 --> 00:55:49.649
+CIRO PANIGATTI SOTO: para generar tráfico, básicamente, pues, espera espera.
+
+371
+00:55:49.980 --> 00:55:51.040
+CIRO PANIGATTI SOTO: Ehh
+
+372
+00:55:54.270 --> 00:56:09.200
+CIRO PANIGATTI SOTO: Python: tráfico sí para generar un poquito de de tráfico listo, solo caiga a ver.
+
+373
+00:56:22.980 --> 00:56:27.670
+CIRO PANIGATTI SOTO: Ehh: No sé cómo está esto. No sé si es esto lo de ahora.
+
+374
+00:56:30.880 --> 00:56:34.119
+CIRO PANIGATTI SOTO: Bueno, acá están todas las todas las métricas.
+
+375
+00:56:37.100 --> 00:56:39.980
+CIRO PANIGATTI SOTO: Acá. Está la imagen en Docker.
+
+376
+00:56:40.100 --> 00:56:47.050
+CIRO PANIGATTI SOTO: Acaba se inicia, bueno, acaba de iniciar ahora mismo para meterme acá
+
+377
+00:56:48.260 --> 00:56:53.160
+CIRO PANIGATTI SOTO: bueno alcanzar el estatus que está bien, que está activo, que está todo todo perfecto
+
+378
+00:56:53.860 --> 00:56:57.200
+CIRO PANIGATTI SOTO: y y nada si quieres hago un
+
+379
+00:56:57.640 --> 00:57:01.730
+CIRO PANIGATTI SOTO: subo, cualquier cosa, lo hago desde acá. O prefiero que lo haga desde la consola.
+
+380
+00:57:10.670 --> 00:57:11.350
+CIRO PANIGATTI SOTO: Hola.
+
+381
+00:57:12.690 --> 00:57:21.450
+TOBÍAS FELIX MEDLAM: No subir lo de ahí igual Sí, lo mostraba un toque nuevo que se vea el statushock, porque ahí, justo se trabó y no se vio.
+
+382
+00:57:21.930 --> 00:57:22.690
+CIRO PANIGATTI SOTO: acá.
+
+383
+00:57:23.120 --> 00:57:24.750
+Lucas Bonanni: Yo sí lo veo.
+
+384
+00:57:24.750 --> 00:57:26.909
+TOBÍAS FELIX MEDLAM: soy yo. Entonces perdón.
+
+385
+00:57:27.450 --> 00:57:32.159
+CIRO PANIGATTI SOTO: Vale, Vale, bueno, subo algo desde acá.
+
+386
+00:57:32.460 --> 00:57:35.989
+CIRO PANIGATTI SOTO: Creo. Sí, No creo un un archivo nuevo.
+
+387
+00:57:36.800 --> 00:57:40.309
+CIRO PANIGATTI SOTO: Va a crear para subir un cualquier cosa.
+
+388
+00:57:42.090 --> 00:57:45.760
+CIRO PANIGATTI SOTO: Sí, un plo.
+
+389
+00:57:50.640 --> 00:57:54.439
+CIRO PANIGATTI SOTO: Esto mismo, pues mira, lo ha subido por ese momento.
+
+390
+00:57:56.170 --> 00:58:01.120
+CIRO PANIGATTI SOTO: No me van a poner prueba.
+
+391
+00:58:03.470 --> 00:58:07.820
+JOANA ZARATE: Hay una cosa ahí que aprendimos o después podes bajar un poquito así.
+
+392
+00:58:08.160 --> 00:58:18.149
+JOANA ZARATE: Y es que no tuvimos en cuenta al principio, pero después sí el tema de de de
+
+393
+00:58:18.440 --> 00:58:19.800
+JOANA ZARATE: Co Mitieran Main.
+
+394
+00:58:21.490 --> 00:58:26.540
+CIRO PANIGATTI SOTO: Claro, si tenemos la protección de que no puedes hacer cómics directamente a Main, lo que hace ese mes subirlo.
+
+395
+00:58:26.540 --> 00:58:26.980
+JOANA ZARATE: Entonces.
+
+396
+00:58:26.980 --> 00:58:27.680
+CIRO PANIGATTI SOTO: Obviamente.
+
+397
+00:58:27.680 --> 00:58:28.809
+JOANA ZARATE: Tenemos la regla.
+
+398
+00:58:29.080 --> 00:58:29.890
+JOANA ZARATE: Mhm.
+
+399
+00:58:30.890 --> 00:58:32.020
+CIRO PANIGATTI SOTO: A develo.
+
+400
+00:58:32.170 --> 00:58:35.430
+CIRO PANIGATTI SOTO: Y hay para no crear 1 nuevo. Ahí está
+
+401
+00:58:36.330 --> 00:58:38.600
+CIRO PANIGATTI SOTO: porque a mí no nos deja comitear.
+
+402
+00:58:38.750 --> 00:58:42.490
+CIRO PANIGATTI SOTO: No es prueba con exchange.
+
+403
+00:58:46.870 --> 00:58:51.919
+CIRO PANIGATTI SOTO: Vale. Entonces ahora que que se hizo el Pus, acá está la solicitud.
+
+404
+00:58:54.810 --> 00:58:59.810
+CIRO PANIGATTI SOTO: Acá bueno, le puedes poner el nombre que quieras lo que se cambió en el archivo
+
+405
+00:59:00.400 --> 00:59:02.629
+CIRO PANIGATTI SOTO: y acá le das a creer pool, repuesto
+
+406
+00:59:06.390 --> 00:59:10.129
+CIRO PANIGATTI SOTO: a casi el chequeo de que esté funcionando todo perfecto.
+
+407
+00:59:10.540 --> 00:59:12.169
+CIRO PANIGATTI SOTO: ¿vamos a esperar a que se termine.
+
+408
+00:59:27.920 --> 00:59:33.840
+CIRO PANIGATTI SOTO: Bueno, acá? Dice que no hay conflictos, aunque no haya terminado todavía, pero ya lo que es lo principal.
+
+409
+00:59:33.950 --> 00:59:37.159
+CIRO PANIGATTI SOTO: No tiene. No tiene conflictos.
+
+410
+00:59:38.780 --> 00:59:39.760
+CIRO PANIGATTI SOTO: Ahí está.
+
+411
+00:59:39.760 --> 00:59:41.050
+Lucas Bonanni: Varios meses.
+
+412
+00:59:42.950 --> 00:59:45.840
+Lucas Bonanni: Por qué está corriendo varias veces 2 veces el test.
+
+413
+00:59:49.230 --> 00:59:50.930
+CIRO PANIGATTI SOTO: La verdad que no sé.
+
+414
+00:59:50.930 --> 00:59:51.270
+Lucas Bonanni: Y se.
+
+415
+00:59:51.270 --> 00:59:53.200
+CIRO PANIGATTI SOTO: Test? Sí, ten razón.
+
+416
+00:59:53.830 --> 00:59:57.469
+CIRO PANIGATTI SOTO: Tienes razón, No sé por qué se está porque se está haciendo 2 veces. Ahora.
+
+417
+01:00:00.160 --> 01:00:03.349
+CIRO PANIGATTI SOTO: qué raro. Por eso se me trabó a mí la página o algo.
+
+418
+01:00:03.730 --> 01:00:06.660
+Lucas Bonanni: No, no, no. Eso es el tema del action.
+
+419
+01:00:07.070 --> 01:00:11.200
+Lucas Bonanni: Tienen que revisar eso. No
+
+420
+01:00:11.860 --> 01:00:20.000
+Lucas Bonanni: que no solamente en este proyecto que co que están corriendo los hitiga hit hup actions en el publiquest 2 o 3 veces.
+
+421
+01:00:20.290 --> 01:00:22.709
+BENJAMIN BAIGORRIA FUNES: Capaz profe es, se me escucha
+
+422
+01:00:22.960 --> 01:00:26.719
+BENJAMIN BAIGORRIA FUNES: capaces porque hay corriendo varias versiones de note.
+
+423
+01:00:27.490 --> 01:00:29.290
+BENJAMIN BAIGORRIA FUNES: A mí me me pasaba eso.
+
+424
+01:00:30.960 --> 01:00:39.370
+Lucas Bonanni: Pero te debería aparecer. Me parece la versión de novo a ver cómo tienen el Hit Javas action, configurado.
+
+425
+01:00:41.280 --> 01:00:43.979
+CIRO PANIGATTI SOTO: A ver, voy que se ha terminado de hacer el cómic
+
+426
+01:00:48.980 --> 01:00:52.710
+CIRO PANIGATTI SOTO: a ver Ehh.
+
+427
+01:00:53.540 --> 01:00:54.390
+JOANA ZARATE: Y para.
+
+428
+01:00:54.390 --> 01:00:55.730
+Lucas Bonanni: Pues necesita.
+
+429
+01:00:56.200 --> 01:01:00.969
+JOANA ZARATE: Necesita ver el el C I A, I, M. L. No.
+
+430
+01:01:01.510 --> 01:01:02.210
+Lucas Bonanni: Sí.
+
+431
+01:01:02.630 --> 01:01:03.980
+JOANA ZARATE: Bien, hay que ir Go.
+
+432
+01:01:04.580 --> 01:01:07.160
+CIRO PANIGATTI SOTO: Sí, sí, sí, pero ¿y.
+
+433
+01:01:07.160 --> 01:01:10.510
+JOANA ZARATE: Gith Ha Work flogs ahí. Gith.
+
+434
+01:01:10.870 --> 01:01:14.649
+CIRO PANIGATTI SOTO: Si hay a ver un.
+
+435
+01:01:14.650 --> 01:01:15.210
+JOANA ZARATE: Ahí la.
+
+436
+01:01:22.650 --> 01:01:23.420
+CIRO PANIGATTI SOTO: Bajo.
+
+437
+01:01:24.670 --> 01:01:32.570
+Lucas Bonanni: Sí, sí, porque no, no lo tiene. Ninguna pa compilación para diferentes versiones. Sabes.
+
+438
+01:01:34.990 --> 01:01:38.710
+CIRO PANIGATTI SOTO: A ver minipush, los herbis.
+
+439
+01:01:40.250 --> 01:01:43.459
+Lucas Bonanni: No, el Publish no corre porque eso seguro que no corrió.
+
+440
+01:01:44.260 --> 01:01:48.019
+Lucas Bonanni: El tema es el test y el Bill el que está corriendo 2 veces.
+
+441
+01:01:52.050 --> 01:02:01.660
+JOANA ZARATE: Podemos intentarlo otra vez, o sea, hacer una modificación. Chiquita. Le podés hacer una modificación ahí.
+
+442
+01:02:02.220 --> 01:02:04.459
+JOANA ZARATE: No sé en qué estás. Pero le cambié a la brancha.
+
+443
+01:02:05.120 --> 01:02:06.220
+Lucas Bonanni: Pero de la última.
+
+444
+01:02:06.220 --> 01:02:08.939
+JOANA ZARATE: Que la verdad es que no, no, Como no Re.
+
+445
+01:02:12.210 --> 01:02:16.539
+Lucas Bonanni: Tiene que ser por el tema de los eventos que estén escuchando del action.
+
+446
+01:02:18.280 --> 01:02:27.969
+Lucas Bonanni: Después lo tienen que corregir bien bueno. Y entonces a ver cómo quedó el
+
+447
+01:02:28.570 --> 01:02:33.219
+Lucas Bonanni: cómo se publicó la imagen? Lo están publicando con el versionado.
+
+448
+01:02:34.730 --> 01:02:39.920
+CIRO PANIGATTI SOTO: No, no directamente, siempre.
+
+449
+01:02:39.920 --> 01:02:40.660
+Lucas Bonanni: Pero no.
+
+450
+01:02:42.760 --> 01:02:45.630
+Lucas Bonanni: La imagen de Docker no la están publicando con el versionado.
+
+451
+01:02:46.660 --> 01:02:49.389
+CIRO PANIGATTI SOTO: Me parece que no un hotel.
+
+452
+01:02:50.310 --> 01:02:56.620
+CIRO PANIGATTI SOTO: Yo creo que reemplazar directamente la última imagen.
+
+453
+01:02:57.020 --> 01:02:57.690
+CIRO PANIGATTI SOTO: Mhm
+
+454
+01:03:07.500 --> 01:03:13.010
+CIRO PANIGATTI SOTO: Sí, está reemplazando directamente la última imagen. O, bueno.
+
+455
+01:03:13.900 --> 01:03:21.440
+CIRO PANIGATTI SOTO: no sé si el yo creo que ya sé que pasa el versionado me parece que no estaría funcionando, porque yo me acabo de descargar la imagen en local
+
+456
+01:03:21.860 --> 01:03:31.019
+CIRO PANIGATTI SOTO: porque teníamos, o sea, cada 1 estábamos haciendo el nuestro. Después lo hicimos todos a la vez, pero estábamos haciendo lo nuestro para probar y aprender desde 0 los 3.
+
+457
+01:03:31.440 --> 01:03:39.069
+CIRO PANIGATTI SOTO: Y yo acabo de crear este ahora mismo, o sea, me acabo de descargar el local. Este repositorio, entonces me parece que
+
+458
+01:03:39.950 --> 01:03:42.819
+CIRO PANIGATTI SOTO: por eso no se estaría. No estaría.
+
+459
+01:03:42.820 --> 01:03:46.580
+Lucas Bonanni: Entiendo. No entiendo por qué, porque eso en realidad lo tienen que hacer en el action.
+
+460
+01:03:46.780 --> 01:03:48.879
+Lucas Bonanni: No tiene nada que ver que lo tengas local.
+
+461
+01:03:54.250 --> 01:04:02.309
+MORA OTEGUI: Igual, me parece. Fíjate. Si vas a volvés atrás y vas a imitage management al lado de tags.
+
+462
+01:04:03.170 --> 01:04:04.149
+CIRO PANIGATTI SOTO: A ver.
+
+463
+01:04:04.440 --> 01:04:05.640
+MORA OTEGUI: Abajo, abajo.
+
+464
+01:04:05.640 --> 01:04:06.300
+CIRO PANIGATTI SOTO: Sí.
+
+465
+01:04:06.300 --> 01:04:06.890
+MORA OTEGUI: Ey.
+
+466
+01:04:08.160 --> 01:04:11.040
+CIRO PANIGATTI SOTO: Sí a casa en todas las todas las versiones.
+
+467
+01:04:11.240 --> 01:04:16.190
+Lucas Bonanni: Sí, pero el tema es que se tiene que ver como tal, porque por el Tagle es por donde lo descargas.
+
+468
+01:04:18.700 --> 01:04:20.910
+CIRO PANIGATTI SOTO: No sé por lo que está apareciendo.
+
+469
+01:04:26.950 --> 01:04:30.190
+CIRO PANIGATTI SOTO: Bueno, pues eso me parece que lo vamos a tener que solucionar también.
+
+470
+01:04:30.440 --> 01:04:37.559
+Lucas Bonanni: Sí en Render, Por lo que veo, tampoco están publicando por la versión.
+
+471
+01:04:46.240 --> 01:04:50.249
+CIRO PANIGATTI SOTO: Vale. Pues bueno, pues eso sí lo tengo que lo tengo que mirar.
+
+472
+01:04:50.510 --> 01:04:54.799
+CIRO PANIGATTI SOTO: Y cuando tengamos solucionado, ¿qué hacemos, te lo mandamos a vos por Blackboard.
+
+473
+01:04:56.230 --> 01:05:07.539
+Lucas Bonanni: Sí, después lo mandan por mensaje o por slack para para comentarme si se traban. También me me consultan nada y después ya lo veremos ya para la fecha final.
+
+474
+01:05:08.270 --> 01:05:09.080
+Lucas Bonanni: Bueno.
+
+475
+01:05:09.800 --> 01:05:13.509
+CIRO PANIGATTI SOTO: Perfecto. Entonces hacemos eso. Me va a notar antes que nada.
+
+476
+01:05:15.640 --> 01:05:19.059
+TOBÍAS FELIX MEDLAM: Una de las mejoras Profe, entonces son ya de cara al final.
+
+477
+01:05:19.790 --> 01:05:21.950
+Lucas Bonanni: Sí, Sí, ya son caras Final.
+
+478
+01:05:23.710 --> 01:05:29.330
+CIRO PANIGATTI SOTO: Vale las mejoras listo?
+
+479
+01:05:31.840 --> 01:05:36.200
+CIRO PANIGATTI SOTO: Bueno, dejo de compartir pantalla. Vale.
+
+480
+01:05:36.660 --> 01:05:37.990
+Lucas Bonanni: Dale visto.
+
+481
+01:05:38.550 --> 01:05:39.400
+CIRO PANIGATTI SOTO: Ahí está.
+
+482
+01:05:42.390 --> 01:05:45.290
+FACUNDO EMANUEL MODARELLI: Profe, puedo hacer una pequeña pregunta muy rapidita.
+
+483
+01:05:46.450 --> 01:05:47.340
+Lucas Bonanni: Sí decime.
+
+484
+01:05:47.340 --> 01:05:51.910
+FACUNDO EMANUEL MODARELLI: A la hora del final, hay que exponer todo de vuelta o solo las partes pendientes o a.
+
+485
+01:05:51.910 --> 01:05:55.599
+Lucas Bonanni: Yo les voy a ir guiando, así que no se preocupen.
+
+486
+01:05:55.600 --> 01:05:56.290
+FACUNDO EMANUEL MODARELLI: Okay.
+
+487
+01:05:56.610 --> 01:05:57.570
+FACUNDO EMANUEL MODARELLI: Gracias.
+
+488
+01:05:57.810 --> 01:05:58.490
+Lucas Bonanni: De nada.
+
+489
+01:06:01.280 --> 01:06:05.520
+MANUEL KRIVOY: Profe, puedo continuar que me tengo que ir en un ratito si es posible.
+
+490
+01:06:06.870 --> 01:06:07.800
+Lucas Bonanni: Criboy.
+
+491
+01:06:07.800 --> 01:06:08.610
+MANUEL KRIVOY: Sí.
+
+492
+01:06:09.100 --> 01:06:09.880
+Lucas Bonanni: Dale.
+
+493
+01:06:13.120 --> 01:06:15.310
+MANUEL KRIVOY: Gracias. Y comparto
+
+494
+01:06:30.850 --> 01:06:35.210
+MANUEL KRIVOY: esto. No se bebían.
+
+495
+01:06:37.770 --> 01:06:38.660
+Lucas Bonanni: Ahí se ve.
+
+496
+01:06:39.180 --> 01:06:41.669
+MANUEL KRIVOY: Bien. Bueno, empezamos con la presentación.
+
+497
+01:06:42.450 --> 01:06:51.389
+MANUEL KRIVOY: Yo lo que hice es una Api muy básica, un Crep para gestionar libros de una librería
+
+498
+01:06:51.590 --> 01:06:58.499
+MANUEL KRIVOY: no es más que eso. La A. P. I tiene un gel Check y una Integraci, un bueno. Ahora voy a explicar bien un par de End Points para
+
+499
+01:06:59.000 --> 01:07:05.069
+MANUEL KRIVOY: monitorear mejor, pero es muy sencillo. Un crep para crear libros también te permite crear usuarios.
+
+500
+01:07:05.510 --> 01:07:10.529
+MANUEL KRIVOY: Utilizamos contablet para autentificación en algunos endpoints. Pero no es más que eso.
+
+501
+01:07:11.540 --> 01:07:27.269
+MANUEL KRIVOY: Acá Hay una introducción. La idea es como bueno, como todos los Tps generar un flujo de devots real y completo en la parte de C. I, la parte de C. D monitoreo de izar el Backend. En mi caso lo hice con note. Y Express.
+
+502
+01:07:27.590 --> 01:07:33.010
+MANUEL KRIVOY: también. Bueno, tiene Endpoints, con autentificación. Jw: E. T.
+
+503
+01:07:33.310 --> 01:07:35.600
+MANUEL KRIVOY: Por buenas prácticas de seguridad.
+
+504
+01:07:36.020 --> 01:07:37.260
+MANUEL KRIVOY: ¿
+
+505
+01:07:37.920 --> 01:07:39.209
+MANUEL KRIVOY: Y bueno, seguimos.
+
+506
+01:07:39.490 --> 01:07:53.560
+MANUEL KRIVOY: bueno, acá hablaba un poco de la A. P. I. Esto de lo lo que dije antes. Es un Crep completo y no mucho más que eso. Tiene Hell Checks. tiene el Hell Check el crew del libro para editar y login de usuario lo que mencioné antes
+
+507
+01:07:53.650 --> 01:08:00.689
+MANUEL KRIVOY: abajo habla este stack tecnológico. Tendría que ir acá. Este es lo lo que usé en todo el proyecto.
+
+508
+01:08:00.800 --> 01:08:19.959
+MANUEL KRIVOY: Lo hice con note 20. En realidad, los test, después, cuando sea el C, I estaría también en 18 y 19. La versión de Note, después para la Api Puse Express: Jw: T para los aindpoonts. Esto para encriptar las contraseñas. En realidad fue muy irrelevante porque no levante base de datos.
+
+509
+01:08:20.220 --> 01:08:23.220
+MANUEL KRIVOY: Pero, bueno, está implementado, por así decir.
+
+510
+01:08:23.430 --> 01:08:27.699
+MANUEL KRIVOY: quisiese sumar alguna base de datos para guardar las contraseñas encriptadas.
+
+511
+01:08:27.830 --> 01:08:31.209
+MANUEL KRIVOY: Docker después, me cree también un docker Compost
+
+512
+01:08:31.529 --> 01:08:37.179
+MANUEL KRIVOY: Githup Actions. Acá Usamos la parte de C y la parte de C D y para
+
+513
+01:08:38.770 --> 01:08:48.769
+MANUEL KRIVOY: el diploy del Apius, C. Render. Y para monitorear use sentry. Rellenegué un poco con Centry. Me parece que para el final voy a cambiar a New Relly también porque se me va a acabar las
+
+514
+01:08:48.939 --> 01:08:54.020
+MANUEL KRIVOY: la la versión gratuita, que son 14 días, pero algo a mejorar.
+
+515
+01:08:54.029 --> 01:08:59.639
+Lucas Bonanni: Pero igual, la la versión gratuita solamente es por lo lo pago. ¿ Igual. La.
+
+516
+01:08:59.640 --> 01:09:09.669
+MANUEL KRIVOY: No me parece que en Sentri me llevo un mail hace un ratito justo. Me parece que me da 14 días gratuito. Igual de última, Me hago una cuenta, y me hago otra cuenta para la fecha del final y listo, pero
+
+517
+01:09:11.140 --> 01:09:13.090
+MANUEL KRIVOY: pero creo que sí.
+
+518
+01:09:13.370 --> 01:09:16.839
+MANUEL KRIVOY: Con data. Doc me pasó lo mismo. Primero que hice con data Doc. Y no
+
+519
+01:09:17.300 --> 01:09:23.110
+MANUEL KRIVOY: no pude ni ni siquiera acceder a la me después leí en Slack que me mandaste. De hecho, yo pregunté,
+
+520
+01:09:23.229 --> 01:09:35.440
+MANUEL KRIVOY: pero, bueno, sentry fue la que me dejó acceder a la prueba gratuita sin problemas, y de ahí lo usé. Me voy a tener que poner a investigar más igual. La parte de monitoreo está hecha. Pero, bueno, creo que se puede mejorar.
+
+521
+01:09:37.270 --> 01:09:45.449
+MANUEL KRIVOY: Acá. Habla un poco de la utilización. ¿cómo funciona? Primero, buildea después el stake final, que es la imagen mínima
+
+522
+01:09:45.620 --> 01:09:52.490
+MANUEL KRIVOY: y la ejecución como buena práctica que sea usuario, No, root es un docker, multi
+
+523
+01:09:53.939 --> 01:09:59.759
+MANUEL KRIVOY: como todos los proyectos que vinieron presentando hasta ahora después mostramos el código de ultima
+
+524
+01:10:01.060 --> 01:10:10.440
+MANUEL KRIVOY: acá esta el pay line completo se hace un puxa Master, después primero Testea hace el C I para la el continuo y la integración continua.
+
+525
+01:10:10.940 --> 01:10:15.240
+MANUEL KRIVOY: Ahí pasa el workfloat que tengo definido con gitab actions
+
+526
+01:10:15.880 --> 01:10:23.570
+MANUEL KRIVOY: buildea, se fija, realiza los test también con n Test:
+
+527
+01:10:24.510 --> 01:10:31.140
+MANUEL KRIVOY: Después, el C. D. S. El Builden Docker. Después, con esa imagen que está con el ya
+
+528
+01:10:31.330 --> 01:10:36.630
+MANUEL KRIVOY: hago el diploy automático en render y después en render defino
+
+529
+01:10:37.180 --> 01:10:41.360
+MANUEL KRIVOY: también todas las variables de entorno necesaria para que la parte de monitoreo funcione.
+
+530
+01:10:43.920 --> 01:10:50.570
+MANUEL KRIVOY: Esto también no, no no viene tanto en el caso del del Pipeline, pero parece que era importante.
+
+531
+01:10:50.700 --> 01:10:53.330
+MANUEL KRIVOY: Traté de tener buenas prácticas de
+
+532
+01:10:53.850 --> 01:11:08.190
+MANUEL KRIVOY: de seguridad. Metimos rey limitting para que no haya saturación Helmet, para que los H. T. T. P. Sean seguros para encriptar las contraseñas W T en los en poinsensibles y los usuarios nos roten docker
+
+533
+01:11:10.390 --> 01:11:20.920
+MANUEL KRIVOY: el monitoreo concentry se define básicamente el archivo instrument Js: Y después lo ejecutas en la en el index
+
+534
+01:11:21.550 --> 01:11:27.389
+MANUEL KRIVOY: punto Js de backend arriba de todo. Pones para que se use después, también tienes que definir un par de cosas para que
+
+535
+01:11:28.050 --> 01:11:37.329
+MANUEL KRIVOY: realmente te te capture las Request Con eso renegué un poquito. Fue el último que hice
+
+536
+01:11:37.570 --> 01:11:42.570
+MANUEL KRIVOY: porque tenía todo hecho. Y no me capturaba los los logs.
+
+537
+01:11:42.780 --> 01:11:45.369
+MANUEL KRIVOY: ahora también lo muestro por código, sino.
+
+538
+01:11:45.560 --> 01:11:48.930
+MANUEL KRIVOY: pero, bueno, termina funcionando bien. El monitoreo funciona.
+
+539
+01:11:49.160 --> 01:11:50.600
+MANUEL KRIVOY: Ahora lo voy a mostrar.
+
+540
+01:11:51.750 --> 01:11:57.690
+MANUEL KRIVOY: Y bueno, pues el centry seguimos.
+
+541
+01:11:59.000 --> 01:12:14.089
+MANUEL KRIVOY: Acá habla un poco de los test que tengo. Tengo una carpeta con test no son muchos. Son bastante básicos. Ahí 1 del Che Helscheck. Después, probé también tengo un test para chequear que realmente el monitoreo de centro y funcione.
+
+542
+01:12:14.340 --> 01:12:26.150
+MANUEL KRIVOY: Tengo 1 por la porque también metí un endpoint que usa una api externa que tarda un poquito por el tema de las trazas y después ver cómo se se graba eso en centri
+
+543
+01:12:27.200 --> 01:12:36.059
+MANUEL KRIVOY: y no mucho más. Los tests son bastante sencillos. Se ejecutan si quieres localmente con imptest y después el C I también los ejecuta cuando corre
+
+544
+01:12:36.590 --> 01:12:47.599
+MANUEL KRIVOY: y las variables de entorno las tengo definidas en un punto D para localmente. Después tengo alguno en secrets de Github y después la mayoría están en render.
+
+545
+01:12:51.920 --> 01:12:59.320
+MANUEL KRIVOY: Bien, esto también lo mencioné antes. La aplicación se despliega automática en render. Cada vez que hay un push a Master
+
+546
+01:12:59.850 --> 01:13:04.100
+MANUEL KRIVOY: se genera la imagen en Docker usando el Jah.
+
+547
+01:13:04.460 --> 01:13:09.089
+MANUEL KRIVOY: Esto en realidad queda con el saca, queda versionado
+
+548
+01:13:10.200 --> 01:13:19.980
+MANUEL KRIVOY: y con ese versionado después render lo obtuvo, render lo agarra y hace
+
+549
+01:13:20.570 --> 01:13:25.379
+MANUEL KRIVOY: el diployd de esa última imagen publicada. Tengo una colección también en Postman.
+
+550
+01:13:26.290 --> 01:13:28.720
+MANUEL KRIVOY: que bueno era la la muestra también para
+
+551
+01:13:29.320 --> 01:13:32.700
+MANUEL KRIVOY: ejecutar un par de End Points y ver cómo es el monitoreo.
+
+552
+01:13:33.970 --> 01:13:36.130
+MANUEL KRIVOY: Y bueno, las conclusiones
+
+553
+01:13:36.730 --> 01:13:42.980
+MANUEL KRIVOY: acá hay principios aplicados de Debux que vimos durante la cursada Tre Ways Lyn Andom Corp
+
+554
+01:13:43.330 --> 01:13:48.260
+MANUEL KRIVOY: y la conclusión. Bueno, esto las mejoras futuras
+
+555
+01:13:48.850 --> 01:14:00.650
+MANUEL KRIVOY: también anoté la documentación de la a P I con suave. Cabernet es terraphone para infraestructura como Código lo de rollbacks automáticos, el mejorar el tema de los blogs centralizados.
+
+556
+01:14:01.110 --> 01:14:15.780
+MANUEL KRIVOY: pero bueno, me quedo con los logros alcanzados, que también eran. Creo que las mejoras futuras, ninguna se pedía para el T. P. Me hubiese gustado igual aplicarlo Todo esto. En En mi caso, personal, conocía los conceptos, pero nunca los había aplicado. Así que fue
+
+557
+01:14:16.900 --> 01:14:19.800
+MANUEL KRIVOY: bastante aprendizaje. De hecho, me hubiese gustado
+
+558
+01:14:20.440 --> 01:14:23.559
+MANUEL KRIVOY: dedicarle más tiempo del que le dediqué, porque me interesa mucho.
+
+559
+01:14:24.170 --> 01:14:27.740
+MANUEL KRIVOY: Pero bueno, aprendí aprendí bastante.
+
+560
+01:14:28.560 --> 01:14:29.850
+MANUEL KRIVOY: Tengo acá.
+
+561
+01:14:31.110 --> 01:14:36.440
+MANUEL KRIVOY: El código catalapi captan los test.
+
+562
+01:14:40.490 --> 01:14:53.990
+MANUEL KRIVOY: Tengo las variables de entorno. Hay un en punto index Sampl para saber qué variables de entorno hay que correr. Acá está el instrument, que es esto básicamente lo de centry. Esto hay que definirlo sí, o así, para que funcione y después, en el index
+
+563
+01:14:54.200 --> 01:14:58.530
+MANUEL KRIVOY: arriba de todo tenés que cargarlo
+
+564
+01:14:59.670 --> 01:15:04.529
+MANUEL KRIVOY: después para capturar capaz le sirva al compañero que no estaba pudiendo
+
+565
+01:15:04.640 --> 01:15:10.940
+MANUEL KRIVOY: grabarse los registros. Yo tuve que agregar esto. Centry with cope que acá le defino lo que quiero que me capturen
+
+566
+01:15:12.170 --> 01:15:13.470
+MANUEL KRIVOY: Y
+
+567
+01:15:16.100 --> 01:15:24.410
+MANUEL KRIVOY: Y bueno, acá. Tengo el C, I acá tengo el C. D, El C. I es lo mostró usted en una clase. Lo único que tuve
+
+568
+01:15:25.090 --> 01:15:30.850
+MANUEL KRIVOY: ajusté muy poquito, pero es el Templete proporcionaba ya
+
+569
+01:15:31.260 --> 01:15:36.319
+MANUEL KRIVOY: Github: No es mucho más corre en estas 3 versiones de note, y
+
+570
+01:15:37.800 --> 01:15:43.230
+MANUEL KRIVOY: también se fija que los test pasan el C D.
+
+571
+01:15:43.650 --> 01:15:47.130
+MANUEL KRIVOY: Lo que hace es crear la imagen en
+
+572
+01:15:47.660 --> 01:15:52.100
+MANUEL KRIVOY: en Docker. La lleva al Docker Hub y después hace el deplay automático en render.
+
+573
+01:15:53.070 --> 01:15:55.350
+MANUEL KRIVOY: Tengo acá en el repo.
+
+574
+01:15:55.700 --> 01:15:57.489
+MANUEL KRIVOY: Me molesta el coso del Zoom.
+
+575
+01:15:58.410 --> 01:16:01.619
+MANUEL KRIVOY: un ejemplo de una P, R que tengo, fíjate acá.
+
+576
+01:16:02.140 --> 01:16:12.540
+MANUEL KRIVOY: Antes de poder hacer el me el Merge Master sacó el C. I acá se ve que cortieron las 3 versiones. no era dieci. Era 18 20 22
+
+577
+01:16:12.850 --> 01:16:15.760
+MANUEL KRIVOY: y también se fija que no haya conflictos de marseos.
+
+578
+01:16:16.080 --> 01:16:21.140
+MANUEL KRIVOY: Una vez que todo esto está Ok, que se ven los tildecitos. Yo puedo hacer el marge.
+
+579
+01:16:22.560 --> 01:16:25.100
+MANUEL KRIVOY: Y bueno, mercé, claro.
+
+580
+01:16:25.100 --> 01:16:29.679
+Lucas Bonanni: La diferencia es que te aparece siempre que es pool. Pool Request siempre.
+
+581
+01:16:30.090 --> 01:16:30.740
+MANUEL KRIVOY: Claro.
+
+582
+01:16:30.740 --> 01:16:32.259
+Lucas Bonanni: El más de las versiones no.
+
+583
+01:16:34.650 --> 01:16:42.350
+MANUEL KRIVOY: Y acá está corriendo para ya ser. Está corriendo el C I por un lado, y el C D para el Liplay.
+
+584
+01:16:44.080 --> 01:16:49.520
+MANUEL KRIVOY: Ahora, cuando termine, vamos a irnos al Github al Docker. Hub, perdón.
+
+585
+01:16:54.300 --> 01:16:55.750
+MANUEL KRIVOY: Este es el que más tarda.
+
+586
+01:16:58.060 --> 01:17:05.169
+MANUEL KRIVOY: Me molesta el costo que me sale de de zoom porque no veo las.
+
+587
+01:17:05.170 --> 01:17:06.760
+Lucas Bonanni: Lo puedes correr? Para.
+
+588
+01:17:06.760 --> 01:17:07.670
+MANUEL KRIVOY: Sí.
+
+589
+01:17:07.890 --> 01:17:09.999
+Lucas Bonanni: Sí, Sí, Si le haces clic y lo puedes.
+
+590
+01:17:10.000 --> 01:17:17.190
+MANUEL KRIVOY: A ver cuando se haga. Ahí está de esto. Debería estar. Vamos a recargar. Acá.
+
+591
+01:17:18.620 --> 01:17:28.120
+MANUEL KRIVOY: Ahí está, Se crea con el ya la imagen. Y vamos a irnos ahora a render, como como tenía ya usado el proyecto gratuito usando otra cuenta.
+
+592
+01:17:29.100 --> 01:17:40.980
+MANUEL KRIVOY: Acá Tengo las variables de entorno. Y vamos a Ahí está 7 30 Deployd
+
+593
+01:17:41.270 --> 01:17:43.649
+MANUEL KRIVOY: queda acá la pi corriendo en esta guarreinala.
+
+594
+01:17:45.020 --> 01:17:56.130
+MANUEL KRIVOY: Bien, vamos a mostrar un poco el tema del monitoreo. Lo tengo acá. En centric. Este dashboard me lo creía. A modo de ejemplo, esto se puede mejorar un montón en realidad. Pero quería hacer un dashboard.
+
+595
+01:17:56.330 --> 01:18:01.740
+MANUEL KRIVOY: Este básicamente captura estos 3. Goethes demuestra si hubo flujo.
+
+596
+01:18:03.320 --> 01:18:07.509
+MANUEL KRIVOY: acá Ni shus Me trae los logs más especies de logs.
+
+597
+01:18:07.950 --> 01:18:14.580
+MANUEL KRIVOY: Fíjate que debería haber 1 acá este porque ya con el esto tampoco me gusta ya cuando
+
+598
+01:18:15.100 --> 01:18:17.369
+MANUEL KRIVOY: haces esto. Te lo veas
+
+599
+01:18:18.380 --> 01:18:28.740
+MANUEL KRIVOY: bien. Vamos a hacer una prueba con este endpoint, por ejemplo, que es el que más tarda. Este es usa una. Bueno, una A P i externa.
+
+600
+01:18:29.250 --> 01:18:39.000
+MANUEL KRIVOY: Le pasamos por la u R. L, algún ejemplo de libros a ver, no sé, tarda un ratito.
+
+601
+01:18:39.430 --> 01:18:40.770
+MANUEL KRIVOY: Bueno, no tardo tanto.
+
+602
+01:18:41.440 --> 01:18:42.840
+MANUEL KRIVOY: Ahora lo vamos a dar acá.
+
+603
+01:18:53.600 --> 01:18:54.440
+MANUEL KRIVOY: Acá. Está,
+
+604
+01:18:59.780 --> 01:19:03.040
+MANUEL KRIVOY: acá te muestra la parte de las trazas.
+
+605
+01:19:04.710 --> 01:19:16.360
+MANUEL KRIVOY: Y también antes te mostraba la cantidad de veces que se ejecutó. El evento te da bastante información.
+
+606
+01:19:17.510 --> 01:19:23.569
+MANUEL KRIVOY: Por ejemplo, 2 eventos de esta exactamente de dulce. Así que había probado con esto.
+
+607
+01:19:24.230 --> 01:19:27.140
+MANUEL KRIVOY: Acá Tengo una que probé con Harry hace un ratito.
+
+608
+01:19:28.440 --> 01:19:34.529
+MANUEL KRIVOY: Y Tengo también el log del error que tengo acá a propósito un Endpoint
+
+609
+01:19:35.950 --> 01:19:41.960
+MANUEL KRIVOY: que me da error de que me devuelve, 500 y eso se loguear
+
+610
+01:19:45.100 --> 01:19:52.169
+MANUEL KRIVOY: a ver a gata, te lo espera un poco más
+
+611
+01:19:54.910 --> 01:19:59.680
+MANUEL KRIVOY: y bueno, no mucho más. Esta parte se puede mejorar bastante.
+
+612
+01:20:00.110 --> 01:20:07.800
+MANUEL KRIVOY: No me termina de convencer. Por ejemplo esto, aparte de estos 2, son, como no termino de entender cuál es la diferencia del 1 con el otro.
+
+613
+01:20:08.000 --> 01:20:16.349
+MANUEL KRIVOY: Por lo que leí 1 lo hace por configuración el monitoreo, pero no me gusta que el
+
+614
+01:20:17.460 --> 01:20:27.150
+MANUEL KRIVOY: tipo, el el barra, ya el Head, el de Nada, el get de nada. Te lo logré. Eso. No No me gusta, pero bueno, son cosas a mejorar, No tenía experiencia, implementando
+
+615
+01:20:27.730 --> 01:20:30.960
+MANUEL KRIVOY: monitoreo de A. P: I, S, Pero, bueno, creo que
+
+616
+01:20:31.690 --> 01:20:34.689
+MANUEL KRIVOY: dentro de todo está está bastante Está bastante bien.
+
+617
+01:20:35.260 --> 01:20:39.079
+MANUEL KRIVOY: No sé si si hay algo que que quiera ver, en particular o.
+
+618
+01:20:41.870 --> 01:20:50.429
+Lucas Bonanni: No está bien. Está perfecto, Así que después, como todos, bueno, después veo lo veo más en detalle para dar las correcciones.
+
+619
+01:20:50.790 --> 01:20:57.239
+MANUEL KRIVOY: Dale, Sí, por ahí. Cambia a New Relly para el final. Si a usted le parece mejor también.
+
+620
+01:20:58.970 --> 01:21:00.009
+MANUEL KRIVOY: Pero bueno, eso.
+
+621
+01:21:00.010 --> 01:21:11.170
+Lucas Bonanni: Lo que sea lo que que a vos te parezca mejor, porque New Rally también tiene la contra y que viene todo. Autos de box. Así que por ahí no tienes que configurar nada.
+
+622
+01:21:11.550 --> 01:21:14.850
+Lucas Bonanni: Y Y bueno, nada es eso.
+
+623
+01:21:15.190 --> 01:21:17.440
+MANUEL KRIVOY: Dale Okay. Gracias. Profe.
+
+624
+01:21:18.310 --> 01:21:20.869
+Lucas Bonanni: Cristo. Muy buena presentación.
+
+625
+01:21:21.280 --> 01:21:22.050
+MANUEL KRIVOY: Gracias.
+
+626
+01:21:23.730 --> 01:21:25.970
+LAUTARO STIVALA: Profe:
+
+627
+01:21:26.960 --> 01:21:28.280
+FACUNDO SAFE: No. Bueno, Dale vos Dale.
+
+628
+01:21:28.280 --> 01:21:29.480
+LAUTARO STIVALA: Sí, sí, sí, tranquilos.
+
+629
+01:21:29.480 --> 01:21:36.129
+FACUNDO SAFE: Mhm: Vale. Ah, bueno, Profe, si le parece, sigo facundo zafra, ahí, pongo la cámara.
+
+630
+01:21:36.540 --> 01:21:37.390
+Lucas Bonanni: Vale.
+
+631
+01:21:37.890 --> 01:21:39.250
+FACUNDO SAFE: Un hito.
+
+632
+01:21:40.060 --> 01:21:40.920
+FACUNDO SAFE: Ahí va.
+
+633
+01:21:41.490 --> 01:21:44.470
+FACUNDO SAFE: Ahora, paso esto por acá.
+
+634
+01:21:45.510 --> 01:21:48.510
+FACUNDO SAFE: Ahí comparto la la Pepe. T.
+
+635
+01:22:02.210 --> 01:22:02.990
+FACUNDO SAFE: Ahora.
+
+636
+01:22:03.640 --> 01:22:04.360
+Lucas Bonanni: Sí.
+
+637
+01:22:04.360 --> 01:22:06.390
+FACUNDO SAFE: Y amnesia y
+
+638
+01:22:09.780 --> 01:22:13.350
+FACUNDO SAFE: Okay.
+
+639
+01:22:13.490 --> 01:22:15.579
+FACUNDO SAFE: Ahí pueden ver Visual Studio.
+
+640
+01:22:17.530 --> 01:22:18.989
+Lucas Bonanni: Todavía no. Ahora Sí.
+
+641
+01:22:19.110 --> 01:22:20.299
+FACUNDO SAFE: Ahora, Sí, Okay.
+
+642
+01:22:20.610 --> 01:22:29.530
+FACUNDO SAFE: Bueno, bien, voy primero acá por la Ppt. Me olvide con qué voto corriendo. Esto ya está Bien.
+
+643
+01:22:30.380 --> 01:22:33.630
+FACUNDO SAFE: Bueno, en mi caso, hice una a P I.
+
+644
+01:22:34.100 --> 01:22:37.270
+FACUNDO SAFE: En realidad es un Scrapper este
+
+645
+01:22:37.650 --> 01:22:41.350
+FACUNDO SAFE: el proyecto, Básicamente, lo que hace es una Api que expone un Get
+
+646
+01:22:41.790 --> 01:22:46.329
+FACUNDO SAFE: y la Api, Lo que hace es escrapear el sitio del Banco nación
+
+647
+01:22:46.610 --> 01:23:04.560
+FACUNDO SAFE: y parcea del H. T. M. L de una Url, en particular de esa barra, personas del Banco Nación parcea todas las cotizaciones en el momento de las monedas, según lo que bueno, lo que vaya diciendo el Banco Nacional y devuelve un Json sobre las cotizaciones
+
+648
+01:23:05.020 --> 01:23:17.080
+FACUNDO SAFE: en tiempo real en ese momento, o sea que el Banco Nación, la página, el sitio, el Banco Nación es una dependencia bastante importante de la Api, porque si está operativo, funciona el get. Si no, no
+
+649
+01:23:17.890 --> 01:23:29.020
+FACUNDO SAFE: la Api está hecha por capas. Me pareció la verdad. Lo simple funciona. Creo que todo lo que hay en los trabajos los proyectos más grandes, sobre todo
+
+650
+01:23:29.020 --> 01:23:43.300
+FACUNDO SAFE: hechos con esta arquitectura me han sido más fácil de entender este. Bueno, tengo tengo las rutas, que son el punto de entrada y de salida. Las rutas pasan a ricos al controlador. El controlador es el que tiene la lógica de negocio, por decirlo que. Bueno.
+
+651
+01:23:43.390 --> 01:23:51.900
+FACUNDO SAFE: acá en este caso es poca, Pero tendría la lógica de negocios. Después tengo los modelos que vendría a ser el Shason, que termino devolviendo
+
+652
+01:23:52.260 --> 01:24:02.739
+FACUNDO SAFE: tanto de las cotizaciones como del Endpoint de Helf. Y por último, está el Scrapper, que vendría a ser como mi capa de datos. En este caso no tengo base de datos, pero es del cual
+
+653
+01:24:02.740 --> 01:24:13.109
+FACUNDO SAFE: se le consulta al Scrapper. El Scrapper se da vuelta, hace el geta, el banco nación agarra el Html lo parcea. Bueno, se hace el modelo el controlador toma ese modelo y lo devuelve a la ruta.
+
+654
+01:24:13.240 --> 01:24:16.420
+FACUNDO SAFE: Y la ruta hace la hace la respuesta
+
+655
+01:24:17.240 --> 01:24:28.719
+FACUNDO SAFE: después para 6. CD: Bueno, igual que los chicos que estuvieron presentando, Use Gil Workfloat, Perdón, Gid Actions. Ahora, después. Muestro bien cómo está hecho el chamel
+
+656
+01:24:28.840 --> 01:24:33.180
+FACUNDO SAFE: para todos los push de ramas que no son Maine.
+
+657
+01:24:33.330 --> 01:24:36.069
+FACUNDO SAFE: Se corre los tests, se ignora el publish.
+
+658
+01:24:36.300 --> 01:24:41.699
+FACUNDO SAFE: Y para los perros a Maine. Bueno, en este caso acá no es del todo así porque
+
+659
+01:24:42.060 --> 01:24:55.279
+FACUNDO SAFE: se corren los test a Main. Pero yo hago el push a Dockerhab con el Tag, o sea, versiono con el Tag. Entonces, si yo estoy trabajando, no sé en future qué sé yo añadiendo dólar.
+
+660
+01:24:55.400 --> 01:25:07.009
+FACUNDO SAFE: Si yo hago el Pr a Mail me va a correr los tests sobre Main, pero después yo sobre mérito que crear el nuevo tag de la nueva versión. No sé, va a ser la 1 1. Punto Cero porque agregué un nuevo featur.
+
+661
+01:25:07.280 --> 01:25:14.160
+FACUNDO SAFE: Y cuando yo puse ese tag es que se crea la que eso. Bueno, ahora lo vemos que se crea la imagen en Docker
+
+662
+01:25:14.270 --> 01:25:17.469
+FACUNDO SAFE: con con ese versionado. Lo toma de ahí.
+
+663
+01:25:17.800 --> 01:25:25.419
+FACUNDO SAFE: Bueno para el diploy usar render. Ahora también lo voy a mostrar. Y para monitoreo, soy Grafan a Cloud.
+
+664
+01:25:25.490 --> 01:25:37.900
+FACUNDO SAFE: la verdad que viendo lo que estuvieron presentando. No sé si fue la mejor opción tier gratis. No me da persistencia, con lo cual hace que mis Dashboards no sean de lo más lindo. Pero bueno, ahora lo muestro también.
+
+665
+01:25:37.980 --> 01:25:47.079
+FACUNDO SAFE: La verdad, que si se hubiese tenido persistencia, podría no persistir los clics persistir las Ipes de origen. Podría tener un poco más de información más relevante.
+
+666
+01:25:47.400 --> 01:25:54.709
+FACUNDO SAFE: Pero, bueno, armé el Dashboard, con los datos que tengo en el momento de la Api y que me parecieron relevantes para
+
+667
+01:25:55.390 --> 01:26:14.759
+FACUNDO SAFE: para representar al estado del servicio. Y bueno, acá un otro resumen más técnico de Framework Usango. Este me pareció bueno, un poco medio sobre ingeniería para un proyecto chico, pero pero me pareció que está bueno, usas y unicor Bueno, request y beautiful sub para el scrapping
+
+668
+01:26:14.870 --> 01:26:19.830
+FACUNDO SAFE: Este tengo Docker y el docker con pous el versionado
+
+669
+01:26:20.110 --> 01:26:22.220
+FACUNDO SAFE: bueno lo que estaba contando con Gitt.
+
+670
+01:26:22.340 --> 01:26:30.940
+FACUNDO SAFE: El repositorio está en Ginza. La integración continua de la manija digital Options. Los diploys los hace con lo basado con render. Y el monitoreo lo maneja grafana Cloud.
+
+671
+01:26:31.540 --> 01:26:39.069
+FACUNDO SAFE: Así que ahora les muestro un poco acá el código rápido. Bueno, este es el Endpoint. Para comenzar. Este es el endpoint principal. O sea, yo
+
+672
+01:26:39.630 --> 01:26:45.700
+FACUNDO SAFE: me me va a buscar en el momento las cotizaciones del banco nación me las devuelvo en formato. Jason.
+
+673
+01:26:46.040 --> 01:26:48.919
+FACUNDO SAFE: después. También tengo el End Point de Salud.
+
+674
+01:26:49.680 --> 01:26:56.780
+FACUNDO SAFE: que en este caso lo que hice fue, Bueno, tiene la fecha. Tiene el tiempo de respuesta de la A. P. I. Un segundo que tengo esto, que me está
+
+675
+01:26:58.590 --> 01:27:14.229
+FACUNDO SAFE: y después tiene también el estado de las dependencias. ¿por qué? Porque mi A. P. I puede estar operativa, puede estar funcionando. Puede estar escuchando, pero Si el sitio del banco nación no está App no sirve para nada. Mi api. Entonces es un dato que que realmente necesito, porque
+
+676
+01:27:14.380 --> 01:27:18.619
+FACUNDO SAFE: tranquilamente, Yo puedo ver que está todo corriendo todo bien. Pero
+
+677
+01:27:19.110 --> 01:27:25.760
+FACUNDO SAFE: Pero si se me cae el sitio del banco nación, mi servicio carece de sentido, por decirlo de alguna forma.
+
+678
+01:27:26.130 --> 01:27:36.059
+FACUNDO SAFE: Acá Bueno, un poco el código lo que les comentaba. Acá Tengo el si hay de de las Igtabactions. Tengo, hago el versionado portal.
+
+679
+01:27:36.460 --> 01:27:37.200
+FACUNDO SAFE: Mhm.
+
+680
+01:27:37.370 --> 01:27:52.970
+FACUNDO SAFE: Tengo la básicamente corro los test en todos los casos. Cada vez que se una rama un comic de una rama, o hago corro los test en el caso de la publicación. Si es un tag el que yo estoy pushleando a Maine corro el corro el
+
+681
+01:27:53.090 --> 01:27:56.250
+FACUNDO SAFE: el publish en el gorro, este step en
+
+682
+01:27:56.460 --> 01:28:03.640
+FACUNDO SAFE: en Gifa actions y publico la publico la imagen con el versionado acá del Tag que yo le estoy pasando.
+
+683
+01:28:04.100 --> 01:28:06.430
+FACUNDO SAFE: Este, Bueno, acá está el Scrapper.
+
+684
+01:28:06.890 --> 01:28:17.609
+FACUNDO SAFE: que chequea el banco nación y después por acá. Bueno, acá. Están las capas que comentaba las rutas, ambas. Lo cada una tiene sus controladores. Los controladores también tienen los modelos
+
+685
+01:28:17.850 --> 01:28:38.389
+FACUNDO SAFE: y bueno. Y por último, vendría a ser el Scrap. Pero acá están los tests que son un poco de caja negra porque en mi caso, claro, el tema de hacer un Scrapper es que si te cambian el Html, por ejemplo, en este caso del banco nación, se me rompe todo. Entonces la idea de los test es que detecten eso lo más rápido posible. Y bueno, si el Banco nación actualiza algo en su sitio. Yo me entero
+
+686
+01:28:38.390 --> 01:28:44.240
+FACUNDO SAFE: en el lo más rápido posible y puedo puedo actualizar en en consecuencia.
+
+687
+01:28:44.650 --> 01:28:54.529
+FACUNDO SAFE: Y después acá tengo algunos ejemplos. Este acá lo mandé porque me di cuenta, mientras estaban presentando a los chicos que yo en Docker House.
+
+688
+01:28:54.640 --> 01:29:05.359
+FACUNDO SAFE: claro, yo había. Empecé trabajando en no tenía implementado todavía lo de los tags y y mi lates era era 1 de estos 2 que ahora no me acuerdo
+
+689
+01:29:05.490 --> 01:29:06.839
+FACUNDO SAFE: sea más viejo
+
+690
+01:29:07.210 --> 01:29:20.499
+FACUNDO SAFE: y bueno, y simulé. Recién creé la tabla 1 0, Uno simulé un comentario bueno, y lo pusé y acá creo que acá está el acá está. Si hace 10 min, corrió los test y corrió el publish
+
+691
+01:29:21.070 --> 01:29:27.689
+FACUNDO SAFE: porque se cumplió la condición de que de que cambió, de que cambió el Tag y me publicó,
+
+692
+01:29:28.020 --> 01:29:41.689
+FACUNDO SAFE: me publicó la imagen nueva en en Dockerhaus acá está la integración con render. Y acá está el tema de Graphan a Cloud que bueno lo que les decía, como no puedo persistir datos acá
+
+693
+01:29:42.020 --> 01:29:52.029
+FACUNDO SAFE: es un poco pobre, este Dashboard. Pero bueno, por lo menos a mí me dice: acá si llego a tener un problema de rispostancial, si es que tengo algo de latencia, el Estado del banco nación.
+
+694
+01:29:52.340 --> 01:29:55.359
+FACUNDO SAFE: que básicamente del cual depende toda la A, P. I
+
+695
+01:29:55.640 --> 01:30:04.349
+FACUNDO SAFE: y el status overol, que vendría a ser una combinación de que la dependencia esté app y que le haya devuelto un 200
+
+696
+01:30:05.610 --> 01:30:06.910
+FACUNDO SAFE: en.
+
+697
+01:30:08.250 --> 01:30:08.770
+Lucas Bonanni: Claro.
+
+698
+01:30:08.770 --> 01:30:13.130
+FACUNDO SAFE: Y bueno, no va va por ahí. El proyecto.
+
+699
+01:30:14.310 --> 01:30:16.440
+Lucas Bonanni: Bien excelente.
+
+700
+01:30:17.870 --> 01:30:20.150
+FACUNDO SAFE: Ok, Ahí dejo compartir. Ya está.
+
+701
+01:30:21.230 --> 01:30:22.819
+FACUNDO SAFE: Bueno. Gracias. Profe.
+
+702
+01:30:23.500 --> 01:30:26.350
+Lucas Bonanni: No. Gracias a vos. Buena presentación.
+
+703
+01:30:27.010 --> 01:30:27.720
+FACUNDO SAFE: Gracias.
+
+704
+01:30:28.920 --> 01:30:31.040
+LAUTARO STIVALA: Ahora sí. Si puedo presentar.
+
+705
+01:30:31.200 --> 01:30:32.550
+FACUNDO SAFE: Dale Dale.
+
+706
+01:30:32.710 --> 01:30:33.500
+FACUNDO SAFE: Gracias. Hasta.
+
+707
+01:30:34.810 --> 01:30:39.969
+LAUTARO STIVALA: Y comparto, se ve ahí.
+
+708
+01:30:41.400 --> 01:30:42.800
+Lucas Bonanni: Dame un segundo?
+
+709
+01:30:45.870 --> 01:30:46.690
+Lucas Bonanni: Sí.
+
+710
+01:30:47.720 --> 01:30:57.700
+LAUTARO STIVALA: Oiga. Bueno, básicamente lo que hice fue una A. P. I, que es un un gestor de contraseñas.
+
+711
+01:30:58.050 --> 01:31:05.439
+LAUTARO STIVALA: Básicamente. Bueno, es un gestor de contraseñas. Tiene los tests que están con ellos con
+
+712
+01:31:05.770 --> 01:31:10.089
+LAUTARO STIVALA: o el Pyth test. La base de datos conectado con Sklite.
+
+713
+01:31:10.500 --> 01:31:17.169
+LAUTARO STIVALA: el la parte del cifrado con Fernet y el deploy de render el diployd de render
+
+714
+01:31:18.730 --> 01:31:26.230
+LAUTARO STIVALA: más gastada. Más o menos de arquitectura de un push, Los los actions disparan
+
+715
+01:31:26.710 --> 01:31:32.279
+LAUTARO STIVALA: la parte. El paper es el build de Docker. Y bueno, después del
+
+716
+01:31:33.030 --> 01:31:36.480
+LAUTARO STIVALA: con el cómo se llama con el hook de render
+
+717
+01:31:36.810 --> 01:31:39.589
+LAUTARO STIVALA: ejecuta la la A. P. I.
+
+718
+01:31:41.500 --> 01:31:44.510
+LAUTARO STIVALA: Acá Están los conceptos que aplico.
+
+719
+01:31:45.380 --> 01:31:51.840
+LAUTARO STIVALA: Está el flujo automatizado, el feedback los T a Cs de de Docker por el Shah.
+
+720
+01:31:52.850 --> 01:32:00.170
+LAUTARO STIVALA: Las imágenes son la versión reducida zona Slim. La
+
+721
+01:32:00.520 --> 01:32:05.360
+LAUTARO STIVALA: siempre menciona el tema de las contraseñas débiles y un usuario ingresa una contraseña débil.
+
+722
+01:32:06.110 --> 01:32:10.990
+LAUTARO STIVALA: Y está el multi stage, el build
+
+723
+01:32:11.990 --> 01:32:15.480
+LAUTARO STIVALA: y tenés la parte de del Andom core que
+
+724
+01:32:15.820 --> 01:32:18.889
+LAUTARO STIVALA: básicamente detienen las escrituras a la a la base de datos.
+
+725
+01:32:19.190 --> 01:32:21.040
+LAUTARO STIVALA: Pero el usuario puede seguir leyendo.
+
+726
+01:32:22.270 --> 01:32:23.690
+LAUTARO STIVALA: ¿
+
+727
+01:32:24.400 --> 01:32:25.420
+LAUTARO STIVALA: ¿para qué está?
+
+728
+01:32:25.580 --> 01:32:27.969
+LAUTARO STIVALA: Esta es la la demo la tengo acá.
+
+729
+01:32:29.950 --> 01:32:33.670
+LAUTARO STIVALA: Y buena idea.
+
+730
+01:32:35.570 --> 01:32:37.660
+LAUTARO STIVALA: La estoy corriendo local.
+
+731
+01:32:39.880 --> 01:32:45.170
+LAUTARO STIVALA: Tenés. Bueno, un script que hice que consigue. La
+
+732
+01:32:46.710 --> 01:32:52.639
+LAUTARO STIVALA: la bueno el el Lendpoint, base, que es donde esto
+
+733
+01:32:53.440 --> 01:32:59.069
+LAUTARO STIVALA: y después tenés las distintas cuestiones que pueda hacer la a P. I que después de crear una bóveda, que es donde
+
+734
+01:32:59.230 --> 01:33:07.310
+LAUTARO STIVALA: el usuario guarda las contraseñas, que era una entrada listar las entradas.
+
+735
+01:33:08.220 --> 01:33:12.209
+LAUTARO STIVALA: Y si pones en el la parte de de la request.
+
+736
+01:33:12.460 --> 01:33:20.640
+LAUTARO STIVALA: el Revil Truh te va a devolver la la contraseña que ingresaste y
+
+737
+01:33:21.060 --> 01:33:25.750
+LAUTARO STIVALA: vale, Y si la parte, justamente de si no accedes con la contraseña correcta.
+
+738
+01:33:26.090 --> 01:33:34.030
+LAUTARO STIVALA: Te devuelve un error, también tienes la la posibilidad de generar contraseñas. Si haces un post a
+
+739
+01:33:35.380 --> 01:33:43.579
+LAUTARO STIVALA: a esta dirección y te devuelva una contraseña. La teoría de la longitud que especifiques con
+
+740
+01:33:43.970 --> 01:33:49.510
+LAUTARO STIVALA: con caracteres himnos y mayoría números.
+
+741
+01:33:50.830 --> 01:33:54.800
+LAUTARO STIVALA: Bueno, acá verificar la contraseña dependiendo de
+
+742
+01:33:55.230 --> 01:34:05.679
+LAUTARO STIVALA: de ciertas cuestiones de caracteres, minúsculas, mayúsculas o caracteres especiales, y y la contraseña forte.
+
+743
+01:34:06.710 --> 01:34:14.369
+LAUTARO STIVALA: Te y Esto es justamente la parte de de link que decía si creas una contraseña débil.
+
+744
+01:34:14.780 --> 01:34:17.290
+LAUTARO STIVALA: como como el caso de Min, 1, 2, 3,
+
+745
+01:34:17.910 --> 01:34:23.700
+LAUTARO STIVALA: te va a decir que es débil y te va a tirar la los los problemas que tiene la la contraseña.
+
+746
+01:34:24.770 --> 01:34:33.370
+LAUTARO STIVALA: Estos serían los las métricas que tiene que guarda todas las acciones que tiene que se ejecutan. Básicamente.
+
+747
+01:34:34.660 --> 01:34:36.849
+LAUTARO STIVALA: Y esto es para después. Pero
+
+748
+01:34:37.800 --> 01:34:42.260
+LAUTARO STIVALA: acá está la parte del docker multistage
+
+749
+01:34:43.220 --> 01:34:47.310
+LAUTARO STIVALA: que, bueno, importas la la imagen de Python Slim.
+
+750
+01:34:48.190 --> 01:34:56.890
+LAUTARO STIVALA: copias, los los requerimientos de del archivo, los instalas con Pip y
+
+751
+01:34:57.340 --> 01:35:01.209
+LAUTARO STIVALA: y después, en el en la segunda stage del del Token.
+
+752
+01:35:01.750 --> 01:35:12.740
+LAUTARO STIVALA: solo no no instaladas no instalas Pips, sino solo las las dependencias. Así también puedes ahorrar usuario, ahorrar almacenamiento.
+
+753
+01:35:13.400 --> 01:35:16.770
+LAUTARO STIVALA: y se corre como modo usuario, y no como root.
+
+754
+01:35:19.400 --> 01:35:22.630
+LAUTARO STIVALA: Bueno, después tenés, la parte de
+
+755
+01:35:23.460 --> 01:35:35.720
+LAUTARO STIVALA: Vale, te voy a hacer un cómic así. Se ve la eso de la la Mhm.
+
+756
+01:35:36.210 --> 01:35:37.060
+Lucas Bonanni: A la.
+
+757
+01:35:37.060 --> 01:35:39.049
+LAUTARO STIVALA: En el has tocado.
+
+758
+01:35:40.790 --> 01:35:42.200
+Lucas Bonanni: Entonces, ¿qué quieres que la.
+
+759
+01:35:42.260 --> 01:35:44.199
+LAUTARO STIVALA: Y estar.
+
+760
+01:35:45.100 --> 01:35:46.180
+Lucas Bonanni: Para.
+
+761
+01:35:51.400 --> 01:35:58.240
+LAUTARO STIVALA: Nah corre los trabajos hace los test de Python.
+
+762
+01:35:58.470 --> 01:36:05.520
+LAUTARO STIVALA: De verdad hace los test. Después buldé a a Docker
+
+763
+01:36:06.290 --> 01:36:10.399
+LAUTARO STIVALA: y con el con el sha de
+
+764
+01:36:11.250 --> 01:36:17.890
+LAUTARO STIVALA: de la imagen. Lees el tag que que le pongo, que está acá para versionarla.
+
+765
+01:36:19.340 --> 01:36:22.099
+LAUTARO STIVALA: que esa sería la última que subí,
+
+766
+01:36:23.660 --> 01:36:28.419
+LAUTARO STIVALA: y después, con el Renderhoo, vamos a hacer diplora de render
+
+767
+01:36:28.820 --> 01:36:38.110
+LAUTARO STIVALA: que está acá. Esta sería en la parte de render pones, no las las cuestiones
+
+768
+01:36:38.290 --> 01:36:47.010
+LAUTARO STIVALA: que la tenía. En vez de estar costeando la k local, la la costeo desde es arrendar
+
+769
+01:36:48.140 --> 01:36:49.970
+LAUTARO STIVALA: lo que dije recién.
+
+770
+01:36:50.760 --> 01:36:53.159
+LAUTARO STIVALA: La la parte de randar.
+
+771
+01:36:53.160 --> 01:36:59.570
+Lucas Bonanni: Te hago una pregunta y todo corre en el mismo flujo. ¿y qué pasa si fallo en los test.
+
+772
+01:37:00.550 --> 01:37:02.109
+LAUTARO STIVALA: No. Si fallan los test no sigue.
+
+773
+01:37:02.320 --> 01:37:02.720
+Lucas Bonanni: Okay.
+
+774
+01:37:02.720 --> 01:37:07.740
+LAUTARO STIVALA: Se se corta, No, no publica.
+
+775
+01:37:09.160 --> 01:37:15.739
+LAUTARO STIVALA: Y más. Las métricas, que es. Los eventos. Para
+
+776
+01:37:19.370 --> 01:37:23.740
+LAUTARO STIVALA: bueno, acá, están las las las las variables.
+
+777
+01:37:24.590 --> 01:37:32.050
+LAUTARO STIVALA: Y este es el del diploy de recién y
+
+778
+01:37:32.980 --> 01:37:37.090
+LAUTARO STIVALA: y después tenés la parte de cómo se llama
+
+779
+01:37:37.620 --> 01:37:40.219
+LAUTARO STIVALA: Centry, que es para el monitoreo de errores
+
+780
+01:37:42.140 --> 01:37:47.560
+LAUTARO STIVALA: que cuando puedo hacer un Cuando paso un test, lo
+
+781
+01:37:48.670 --> 01:37:55.740
+LAUTARO STIVALA: que causa errores, justamente lo lo todo termina, acá como puedo hacer acá
+
+782
+01:37:57.350 --> 01:38:00.250
+LAUTARO STIVALA: que con los test y van a ir, va apareciendo, acá
+
+783
+01:38:04.390 --> 01:38:06.800
+LAUTARO STIVALA: que se actualiza automáticamente.
+
+784
+01:38:09.900 --> 01:38:13.250
+LAUTARO STIVALA: Así ahí van apareciendo los distintos tests
+
+785
+01:38:13.460 --> 01:38:22.050
+LAUTARO STIVALA: que se van causando los errores y y tenés. La
+
+786
+01:38:22.480 --> 01:38:31.890
+LAUTARO STIVALA: sí, la parte de las métricas que era el el demo y que
+
+787
+01:38:32.580 --> 01:38:39.149
+LAUTARO STIVALA: tenés. Bueno, es la parte del de London Gordo que cuando él se
+
+788
+01:38:39.820 --> 01:38:44.059
+LAUTARO STIVALA: no se activa, no podés escribir, pero sí puedes leer.
+
+789
+01:38:45.210 --> 01:38:49.249
+LAUTARO STIVALA: y después lo tenés, la manera de resolverlo, que es con el I D,
+
+790
+01:38:49.780 --> 01:38:54.530
+LAUTARO STIVALA: y esto es la toda la la parte de historial de de Dandon
+
+791
+01:38:55.800 --> 01:38:58.109
+LAUTARO STIVALA: que se pueden que se fueron resolviendo. No.
+
+792
+01:38:59.200 --> 01:39:07.799
+LAUTARO STIVALA: Y todo esto son las los el los los de auditoría, utilizar entradas, eliminar.
+
+793
+01:39:08.130 --> 01:39:09.470
+LAUTARO STIVALA: Y hay mucho más.
+
+794
+01:39:10.260 --> 01:39:19.909
+LAUTARO STIVALA: Es y después en Izahar tenés el C, I, que es lo demostrado
+
+795
+01:39:20.410 --> 01:39:29.659
+LAUTARO STIVALA: hace con el el Shah, la parte de Len, o sea, el yantero, y después hacer
+
+796
+01:39:30.180 --> 01:39:34.709
+LAUTARO STIVALA: el deploy a render con el con el hook que render verdad.
+
+797
+01:39:35.900 --> 01:39:39.469
+LAUTARO STIVALA: Y después el antes, el Deeplay, a
+
+798
+01:39:40.490 --> 01:39:47.860
+LAUTARO STIVALA: algo que el Hub lo hace también con los secrets que están en Gidhou y
+
+799
+01:39:49.580 --> 01:39:59.380
+LAUTARO STIVALA: y después correrlos. Va antes, correrlos los test de que que le doy de
+
+800
+01:40:00.840 --> 01:40:03.420
+LAUTARO STIVALA: Y ahora no no hay mucho más. No sé si me faltó algo.
+
+801
+01:40:08.040 --> 01:40:09.419
+Lucas Bonanni: No creo que esté bien.
+
+802
+01:40:10.740 --> 01:40:16.149
+LAUTARO STIVALA: Mhm: Sí, No, no, no, me no me va mucho más.
+
+803
+01:40:16.990 --> 01:40:20.419
+Lucas Bonanni: Bueno, Bueno, perfecto. Buena presentación.
+
+804
+01:40:21.870 --> 01:40:27.080
+LAUTARO STIVALA: Dejó de compartir. Bueno, ¿qué va?
+
+805
+01:40:27.640 --> 01:40:28.760
+LAUTARO STIVALA: Gracias.
+
+806
+01:40:29.020 --> 01:40:33.129
+Lucas Bonanni: No. Gracias. ¿a vos quién va a seguir.
+
+807
+01:40:34.940 --> 01:40:35.400
+AGUSTIN ELMER: Bueno, sí.
+
+808
+01:40:35.400 --> 01:40:38.140
+CRISTIAN QUEIROLO DOMINGUEZ: Seguimos nosotros, profes esa.
+
+809
+01:40:39.290 --> 01:40:40.100
+Lucas Bonanni: Qué?
+
+810
+01:40:41.820 --> 01:40:42.740
+AGUSTIN ELMER: Grupo, 3.
+
+811
+01:40:43.590 --> 01:40:44.240
+Lucas Bonanni: Bien.
+
+812
+01:40:48.190 --> 01:40:50.160
+CRISTIAN QUEIROLO DOMINGUEZ: Ahí comparto un segundo.
+
+813
+01:41:08.110 --> 01:41:10.650
+CRISTIAN QUEIROLO DOMINGUEZ: Ahora sí es
+
+814
+01:41:16.150 --> 01:41:20.230
+CRISTIAN QUEIROLO DOMINGUEZ: ya ahí arrancan.
+
+815
+01:41:20.450 --> 01:41:22.720
+ELISEO SACHI: Sí, arranco show.
+
+816
+01:41:23.700 --> 01:41:35.000
+ELISEO SACHI: Bueno, nosotros lo que hicimos para el Pp fue una api básica en punto. Net: Bueno, eso es una a P I básica más que nada para centrarnos en las prácticas de offs.
+
+817
+01:41:35.070 --> 01:41:44.680
+ELISEO SACHI: por lo que en el proyecto incluimos lo que sería testing automatizado, Docker Docker Compost Gith Java Actions, que es para la parte 6 y CD
+
+818
+01:41:44.790 --> 01:41:51.770
+ELISEO SACHI: publicación de imágenes en Docker Hawk despliegue en Render. Y para monitoreo. Usamos telemetri y New Rellyck
+
+819
+01:41:53.500 --> 01:41:55.610
+ELISEO SACHI: si quieres pasar ya.
+
+820
+01:41:57.820 --> 01:42:06.269
+AGUSTIN ELMER: Bueno, acá en esta parte de la presentación se muestra cómo es la arquitectura general del Pp. El flujo completo de bots que vamos a seguir.
+
+821
+01:42:06.640 --> 01:42:10.040
+AGUSTIN ELMER: ¡qué raro hice? Como si fueran los iconitos?
+
+822
+01:42:10.200 --> 01:42:16.700
+AGUSTIN ELMER: Bueno, ahí nosotros los desarrolladores, ya hacemos Rama Freeture para trabajar cualquier cambio.
+
+823
+01:42:17.000 --> 01:42:32.100
+AGUSTIN ELMER: Después usamos estas ramas y creamos un P R que va a tener que ser revisada por alguno del equipo. Ahí sacamos provecho de que éramos varios, y o sea, si usamos una rama y creamos un perro, y no podíamos aprobar nosotros mismos ese P, R
+
+824
+01:42:32.640 --> 01:42:42.730
+AGUSTIN ELMER: En S. P. R. Había checks de C, I que wildeaba y testeaba para corregir si había algún problema
+
+825
+01:42:43.220 --> 01:42:52.299
+AGUSTIN ELMER: después. Bueno, en algún momento se iba a hacer un mercha main con una rama Relise. Y eso iba a publicar la imagen de lo que era en Docker. Hub
+
+826
+01:42:52.680 --> 01:42:57.810
+AGUSTIN ELMER: después render iba a desplegar esa imagen y vamos a seguir el monitoreo con New Relly
+
+827
+01:42:58.650 --> 01:43:01.399
+AGUSTIN ELMER: ahí. Si quieres seguí a la siguiente.
+
+828
+01:43:01.790 --> 01:43:07.150
+ELISEO SACHI: Bueno, acá te explicamos un poco la Api que tenemos 3 partes.
+
+829
+01:43:07.540 --> 01:43:12.570
+ELISEO SACHI: Primero, tenemos la parte general que tenemos.
+
+830
+01:43:13.160 --> 01:43:22.569
+ELISEO SACHI: Primero tenemos el root que nos devuelve información de la A. P. I. Después tenemos el gel que nos permite validar cómo esta responde
+
+831
+01:43:22.860 --> 01:43:30.859
+ELISEO SACHI: el Readi, que nos permite ver si está lista para recibir tráfico y el versión que muestra trazabilidad como versión Cómic o fecha de Build.
+
+832
+01:43:31.570 --> 01:43:46.310
+ELISEO SACHI: Después tenemos la parte de diagnóstico que tenemos, el Pin, que nos sirve para probar las respuestas básicas. El error que nos ayuda a ver si hay a generar un error controlado, perdón y que nos sirva para probarlo sin monitoreo. Esto, más que nada
+
+833
+01:43:46.430 --> 01:43:53.189
+ELISEO SACHI: y después el Slow, que simula latencia que nos sirve para probar, apm o herramientas de observabilidad.
+
+834
+01:43:54.260 --> 01:43:57.580
+ELISEO SACHI: Y por último, tenemos el módulo Rpg Quest
+
+835
+01:43:57.710 --> 01:44:06.460
+ELISEO SACHI: que nos permite listar, pues, para obtener una I D o crear nuevas riquezas. Aceptarlas, completarlas, abandonarlas y consultar un resumen.
+
+836
+01:44:06.820 --> 01:44:14.560
+ELISEO SACHI: el ciclo de vida de ques más que nada es que empieza en disponible, pasa aceptado y después puede pasar a completado o abandonado.
+
+837
+01:44:16.400 --> 01:44:34.469
+ELISEO SACHI: Bueno, después tenemos que usamos testing automatizado que usamos unit junto con web application factory que nos permite probar la Api desde el punto de vista Http, como si estuviéramos haciendo request reales contra los Senpoints.
+
+838
+01:44:34.860 --> 01:44:42.979
+ELISEO SACHI: los Test cubren la creación de cuez validando que una cosa nueva se cree en Estado disponible y que respete los campos requeridos
+
+839
+01:44:43.960 --> 01:44:50.809
+ELISEO SACHI: y también se prueban reglas de negocio. Que el tipo sea válido, que el R a M sea válido y que las recompensas no sean negativas.
+
+840
+01:44:51.260 --> 01:44:59.019
+ELISEO SACHI: Además, testeamos las transacciones de Estado. Una juez puede pasar a disponible o aceptada y después aceptada, completada
+
+841
+01:44:59.130 --> 01:45:06.579
+ELISEO SACHI: o abandonada, y también se validan transiciones inválidas. Por ejemplo, intentar completar una Quest que todavía no fue aceptada
+
+842
+01:45:07.800 --> 01:45:14.990
+ELISEO SACHI: y, por último, se prevalen de resumen que devuelve la información agregada por Estado rang y recompensas.
+
+843
+01:45:15.560 --> 01:45:28.300
+ELISEO SACHI: Y lo importante de estos test es que no sólo validan, hacen solo validaciones locales. También se ejecutan en action como parte del C I. Entonces, si un cambio rompe algo, el país lo detecta antes de integrar desplegar.
+
+844
+01:45:30.280 --> 01:45:30.940
+ELISEO SACHI: Hay.
+
+845
+01:45:32.150 --> 01:45:39.700
+CRISTIAN QUEIROLO DOMINGUEZ: Bien más o menos, como han presentado los otros grupos. Nosotros tenemos un docker compos que
+
+846
+01:45:40.350 --> 01:45:47.200
+CRISTIAN QUEIROLO DOMINGUEZ: para hacer pruebas locales, y tenemos el dentro de lo que es el Docker File. Para generar la imagen.
+
+847
+01:45:47.320 --> 01:45:57.180
+CRISTIAN QUEIROLO DOMINGUEZ: tenemos 2 etapas. La primera, que utiliza una imagen con el Sdk de punto Net. En esa se genera la
+
+848
+01:45:57.390 --> 01:46:00.080
+CRISTIAN QUEIROLO DOMINGUEZ: el Bill de la de de la aplicación
+
+849
+01:46:00.280 --> 01:46:07.239
+CRISTIAN QUEIROLO DOMINGUEZ: y en una segunda etapa se utiliza una imagen más liviana, que es la del A. S. P. Net.
+
+850
+01:46:07.500 --> 01:46:16.880
+CRISTIAN QUEIROLO DOMINGUEZ: que tiene todo lo necesario para que esta app corra, pero no tiene todas las herramientas que tiene el S. D. K. Entonces lo hace más liviano.
+
+851
+01:46:17.530 --> 01:46:25.110
+CRISTIAN QUEIROLO DOMINGUEZ: Hemos después esta imagen la vamos a usar para luego para desplegar, en render.
+
+852
+01:46:29.510 --> 01:46:34.200
+AGUSTIN ELMER: Bueno, acá mostramos un poco el flujo de trabajo que utilizamos, que es It flow.
+
+853
+01:46:34.340 --> 01:46:40.159
+AGUSTIN ELMER: Los desarrollos empiezan con una rama Fiture que después va a ser merchada de Belo.
+
+854
+01:46:40.360 --> 01:46:53.119
+AGUSTIN ELMER: Después de de Bello, se quiere una una rama relise que eso va a a ser usado para ir hasta Maine. No se puede ir a Maine si no es desde un release y acá no se muestra, pero también puede ser de un hot Six.
+
+855
+01:46:53.280 --> 01:46:56.180
+AGUSTIN ELMER: Y después tenemos un
+
+856
+01:46:56.360 --> 01:47:06.780
+AGUSTIN ELMER: un una automatización de un backport que si hacemos un hot Freex, por ejemplo, se va a crear un perro automáticamente hacia hacia develo
+
+857
+01:47:07.060 --> 01:47:11.970
+AGUSTIN ELMER: en cada perre. Tenemos los Chevs, 6 de Bill dantés
+
+858
+01:47:12.210 --> 01:47:19.859
+AGUSTIN ELMER: y revisión humana, donde si a un desarrollador crea un perro, tiene que ser aprobado por otro.
+
+859
+01:47:20.160 --> 01:47:25.400
+AGUSTIN ELMER: y nada, eso sería el el flujo de trabajo con el que con el que trabajamos.
+
+860
+01:47:29.030 --> 01:47:43.299
+AGUSTIN ELMER: Bueno, el S E. I, como explicaba, es, se ejecuto un pool request se valida que esté todo bien con un 1 000 dantés ya se compila el código y después se corren los los testeos que habíamos agregados.
+
+861
+01:47:43.560 --> 01:47:52.950
+AGUSTIN ELMER: Si algo de eso falla. No se puede merchar. Y esto nos permite rápidamente ver si hay algún problema con ese pool request.
+
+862
+01:47:56.810 --> 01:48:04.670
+CRISTIAN QUEIROLO DOMINGUEZ: Bien tenemos la parte de el despliegue de la aplicación, en nuestro caso.
+
+863
+01:48:04.860 --> 01:48:12.169
+CRISTIAN QUEIROLO DOMINGUEZ: validamos dentro de lo que es el C, I como un paso más atrás que solamente estemos meryendo a Maine
+
+864
+01:48:12.290 --> 01:48:19.870
+CRISTIAN QUEIROLO DOMINGUEZ: desde una rama relix. Una vez que se hace eso, se se corren varias varios steps
+
+865
+01:48:19.970 --> 01:48:27.410
+CRISTIAN QUEIROLO DOMINGUEZ: se genera un T a g semántico. Según si el reli fue marcado como una versión mayor o una menor o un Pach.
+
+866
+01:48:27.720 --> 01:48:31.669
+CRISTIAN QUEIROLO DOMINGUEZ: Ahí se arma la imagen de Docker y se publica Bakerhou.
+
+867
+01:48:32.370 --> 01:48:41.500
+CRISTIAN QUEIROLO DOMINGUEZ: Y en una vez que está publicada mediante un Webbook se esta se despliega en Render utilizando la última versión.
+
+868
+01:48:41.700 --> 01:48:46.029
+CRISTIAN QUEIROLO DOMINGUEZ: Luego se hace una validación, esto ya
+
+869
+01:48:46.140 --> 01:48:49.940
+CRISTIAN QUEIROLO DOMINGUEZ: de que de la versión y del Health.
+
+870
+01:48:50.330 --> 01:48:52.780
+CRISTIAN QUEIROLO DOMINGUEZ: Pero eso se puede hacer manualmente, digamos.
+
+871
+01:48:53.110 --> 01:49:07.389
+CRISTIAN QUEIROLO DOMINGUEZ: y acá le le hay algunas capturas. Igual después lo mostramos en la en la demo de de como lo de cómo está. Hay una versión, letest, y también una versión con el sem semantic versioning
+
+872
+01:49:07.440 --> 01:49:14.510
+CRISTIAN QUEIROLO DOMINGUEZ: y también que en Render está deployado utilizando la imagen y no directamente desde el repo.
+
+873
+01:49:15.440 --> 01:49:18.500
+CRISTIAN QUEIROLO DOMINGUEZ: Por último, para mencionar.
+
+874
+01:49:18.820 --> 01:49:33.840
+CRISTIAN QUEIROLO DOMINGUEZ: ten conectamos desde render directamente con New Relly para tener las trazas autos de box. Esto quiere decir que en Render, utilizando unas variables de de entorno
+
+875
+01:49:34.800 --> 01:49:48.559
+CRISTIAN QUEIROLO DOMINGUEZ: directamente, New Relly se conecta con render. Y no necesitamos instrumentar nosotros la aplicación, sino que automáticamente ya New Rally Renders se comunican y generan. Esta información de, detrás hace, digamos, es básico.
+
+876
+01:49:48.710 --> 01:50:03.009
+CRISTIAN QUEIROLO DOMINGUEZ: pero bueno, es muy útil y ahora le hacemos una pequeña demo y preparamos 2 pul request.
+
+877
+01:50:03.550 --> 01:50:06.420
+CRISTIAN QUEIROLO DOMINGUEZ: El primero es un público, es de una feature
+
+878
+01:50:07.470 --> 01:50:13.799
+CRISTIAN QUEIROLO DOMINGUEZ: básica, o sea, son documentos nada más que agregamos para
+
+879
+01:50:14.280 --> 01:50:21.109
+CRISTIAN QUEIROLO DOMINGUEZ: hacer esta demo se ve Acá que hay 2, digamos, 2 Jobs.
+
+880
+01:50:21.270 --> 01:50:27.510
+CRISTIAN QUEIROLO DOMINGUEZ: Uno que es verificar la rama de origen se saltea porque no estamos en Main.
+
+881
+01:50:27.780 --> 01:50:31.829
+CRISTIAN QUEIROLO DOMINGUEZ: Y tenemos este que es el de Bil Dst para el publiquest.
+
+882
+01:50:32.050 --> 01:50:33.450
+CRISTIAN QUEIROLO DOMINGUEZ: En
+
+883
+01:50:33.560 --> 01:50:45.650
+CRISTIAN QUEIROLO DOMINGUEZ: acá lo que hacemos Es bueno todos los pasos que mencionó Agustín: crear la imagen, ejecutar los test. Y bueno, un si pasa todo eso está Ok, y nos permite
+
+884
+01:50:45.910 --> 01:50:49.909
+CRISTIAN QUEIROLO DOMINGUEZ: merchear una vez que esté la bru
+
+885
+01:50:50.560 --> 01:50:57.320
+CRISTIAN QUEIROLO DOMINGUEZ: como este caso este pullrin, pues no lo hice. Yo me lo tienen que aprobar ahí. No sé si Agus crees darle una producción.
+
+886
+01:50:57.320 --> 01:50:58.889
+AGUSTIN ELMER: Efectivamente, ahí está probando.
+
+887
+01:51:01.650 --> 01:51:02.330
+AGUSTIN ELMER: Ahí salió.
+
+888
+01:51:02.330 --> 01:51:05.700
+CRISTIAN QUEIROLO DOMINGUEZ: Perfecto. Ahí salió ahí. Ya lo puedo merciar.
+
+889
+01:51:06.510 --> 01:51:13.400
+CRISTIAN QUEIROLO DOMINGUEZ: Y esto me deja recién ahí. Me deja hacer un el
+
+890
+01:51:13.810 --> 01:51:26.019
+CRISTIAN QUEIROLO DOMINGUEZ: el Mers con con vivelo. O sea, nosotros protegimos las 2 ramas tanto develo como Maine. No podemos pulsar directamente a divelo y a May solamente puyo. Tampoco tiene que ser hot fix o release
+
+891
+01:51:26.570 --> 01:51:30.470
+CRISTIAN QUEIROLO DOMINGUEZ: de Acá lo que hacemos es crear una rama reliz
+
+892
+01:51:31.270 --> 01:51:38.720
+CRISTIAN QUEIROLO DOMINGUEZ: que la vea yo en este caso para hacerlo sencillo. La voy a llamar Fitz demo.
+
+893
+01:51:39.760 --> 01:51:48.040
+CRISTIAN QUEIROLO DOMINGUEZ: Esto lo creamos desde Develoc y creamos el pulriquast en
+
+894
+01:51:48.540 --> 01:51:51.080
+CRISTIAN QUEIROLO DOMINGUEZ: haga como base va a ser el main
+
+895
+01:51:52.060 --> 01:51:56.719
+CRISTIAN QUEIROLO DOMINGUEZ: y lo vamos a hacer desde el release Feed demo
+
+896
+01:51:58.620 --> 01:52:02.660
+CRISTIAN QUEIROLO DOMINGUEZ: perfecto que lo queramos. No, No le voy a poner ninguna descripción por el momento
+
+897
+01:52:03.790 --> 01:52:12.839
+CRISTIAN QUEIROLO DOMINGUEZ: y acá en este caso, si van a ejecutarse los 2 pasos, tanto el de verificar la rama de origen, porque en este caso es contra main
+
+898
+01:52:13.200 --> 01:52:17.790
+CRISTIAN QUEIROLO DOMINGUEZ: como el de buildear y probar la la rama.
+
+899
+01:52:18.310 --> 01:52:20.990
+CRISTIAN QUEIROLO DOMINGUEZ: Ahí agus, me parece. Ya lo lo puedes probar.
+
+900
+01:52:21.210 --> 01:52:23.179
+AGUSTIN ELMER: Sí, ahí estoy yendo a probarlo.
+
+901
+01:52:24.010 --> 01:52:26.550
+CRISTIAN QUEIROLO DOMINGUEZ: Dale en
+
+902
+01:52:28.700 --> 01:52:36.250
+CRISTIAN QUEIROLO DOMINGUEZ: Puede que tarde un poquitín joyas. Gracias. Puede que tarda un poco más, así que sigo mostrando la parte de Dockerhouse.
+
+903
+01:52:36.620 --> 01:52:49.610
+CRISTIAN QUEIROLO DOMINGUEZ: acá vemos las imágenes que generamos hasta ahora. Primero se ve que iniciamos primero con un con el C, H a de las imágenes. Después pasamos al versionado semántico
+
+904
+01:52:50.110 --> 01:52:57.139
+CRISTIAN QUEIROLO DOMINGUEZ: en render. Lo que les puedo mostrar es, desde la parte de
+
+905
+01:52:58.760 --> 01:53:09.740
+CRISTIAN QUEIROLO DOMINGUEZ: acá del deploy, digamos que lo estamos deployando a través de una imagen que nosotros siempre bajamos la ley test, porque es el deploy automático. Y lo hacemos a través del deploy hook
+
+906
+01:53:10.680 --> 01:53:19.810
+CRISTIAN QUEIROLO DOMINGUEZ: a ver. Voy a volver un segundo Ai: va ahora cuando hacemos el el cómo es
+
+907
+01:53:19.950 --> 01:53:26.630
+CRISTIAN QUEIROLO DOMINGUEZ: el merge contra Main, podemos ponerle en Patch. Y
+
+908
+01:53:27.010 --> 01:53:29.309
+CRISTIAN QUEIROLO DOMINGUEZ: sí, ahí está, no, no listo.
+
+909
+01:53:29.310 --> 01:53:29.870
+AGUSTIN ELMER: Sí, Sí.
+
+910
+01:53:29.870 --> 01:53:35.959
+CRISTIAN QUEIROLO DOMINGUEZ: Lo confirmamos. Y esto lo que va a hacer es subir un puntito en la última parte del
+
+911
+01:53:36.370 --> 01:53:38.520
+CRISTIAN QUEIROLO DOMINGUEZ: de la del versionado.
+
+912
+01:53:38.650 --> 01:53:44.680
+CRISTIAN QUEIROLO DOMINGUEZ: Acá lo podemos ver desde actions el Relise.
+
+913
+01:53:44.940 --> 01:53:47.660
+CRISTIAN QUEIROLO DOMINGUEZ: Vemos que hay 2
+
+914
+01:53:48.020 --> 01:53:58.589
+CRISTIAN QUEIROLO DOMINGUEZ: 2 a 2 acciones corriendo unos para el Backport. Esto simplemente es para igualar de Belot y que esté en el mismo cómic que maine para que siempre estén iguales.
+
+915
+01:53:58.920 --> 01:54:02.759
+CRISTIAN QUEIROLO DOMINGUEZ: Y esta que esta es la parte del Deployd.
+
+916
+01:54:02.880 --> 01:54:08.380
+CRISTIAN QUEIROLO DOMINGUEZ: vemos que se genera la versión semántica, que no sé a ver si está acá.
+
+917
+01:54:08.620 --> 01:54:14.969
+CRISTIAN QUEIROLO DOMINGUEZ: Bueno, no es difícil de de notar. Después, cuando termina se nota mucho mejor.
+
+918
+01:54:15.350 --> 01:54:21.930
+CRISTIAN QUEIROLO DOMINGUEZ: se genera la imagen de Docker y, por último, se
+
+919
+01:54:22.130 --> 01:54:24.710
+CRISTIAN QUEIROLO DOMINGUEZ: se envían y se hace el brote a Randall.
+
+920
+01:54:29.460 --> 01:54:30.969
+CRISTIAN QUEIROLO DOMINGUEZ: Sí, Sí, sí,
+
+921
+01:54:34.950 --> 01:54:40.930
+CRISTIAN QUEIROLO DOMINGUEZ: Bueno, acá. Podemos esperar un poco. Y mientras tanto, muestro los las trazas.
+
+922
+01:54:43.600 --> 01:54:46.269
+CRISTIAN QUEIROLO DOMINGUEZ: Ahí va. Nosotros estuvimos
+
+923
+01:54:50.370 --> 01:54:52.650
+CRISTIAN QUEIROLO DOMINGUEZ: a ver siempre carga un poquito.
+
+924
+01:54:54.930 --> 01:55:01.879
+CRISTIAN QUEIROLO DOMINGUEZ: Ahora, sí, no sé si se llega a ver por el tamaño de la pantalla, pero estuvimos generando un poco de tráfico a lo largo del día
+
+925
+01:55:02.210 --> 01:55:07.989
+CRISTIAN QUEIROLO DOMINGUEZ: y vemos acá que automáticamente, ya con New Relex, ya nos genera
+
+926
+01:55:08.310 --> 01:55:16.029
+CRISTIAN QUEIROLO DOMINGUEZ: la cantidad de reques que estuvimos, que que fueron disparados más o menos la la duración de los Request.
+
+927
+01:55:16.320 --> 01:55:30.929
+CRISTIAN QUEIROLO DOMINGUEZ: Tenemos el error Raid, porque estuvimos así como mencionó Eliseo, también pudimos. Tenemos el Endpoint para disparar un error y poder probar esa parte de las trazas. Así que esto está bastante completo. Es autos de box, es.
+
+928
+01:55:31.120 --> 01:55:40.970
+CRISTIAN QUEIROLO DOMINGUEZ: no son de no es de dominio, digamos, es de negocio perdón. Estos Este edad es más de infraestructura para saber cómo está respondiendo la
+
+929
+01:55:41.340 --> 01:55:42.659
+CRISTIAN QUEIROLO DOMINGUEZ: la la App.
+
+930
+01:55:43.840 --> 01:55:53.110
+CRISTIAN QUEIROLO DOMINGUEZ: Mientras tanto, voy a volver acá a ver si ya se generó el backboard, No, todavía no en.
+
+931
+01:55:58.210 --> 01:56:08.159
+CRISTIAN QUEIROLO DOMINGUEZ: Y bueno, ahora mientras esperamos ahí va, nosotros teníamos la versión 0, 1 1 que acá podría
+
+932
+01:56:08.930 --> 01:56:10.540
+CRISTIAN QUEIROLO DOMINGUEZ: recarga. Ahora, sí.
+
+933
+01:56:10.770 --> 01:56:22.209
+CRISTIAN QUEIROLO DOMINGUEZ: Esta es la imagen de 0, 1 a 1, la anterior y 0, 1 2 es la que generamos con el Padge. Entonces, en Render. Si vemos acá la 0, 1, 2 es la que se hizo el deploy.
+
+934
+01:56:22.760 --> 01:56:29.470
+CRISTIAN QUEIROLO DOMINGUEZ: y con eso nos aseguramos de poder volver a versiones anteriores En.
+
+935
+01:56:31.290 --> 01:56:34.660
+CRISTIAN QUEIROLO DOMINGUEZ: bueno, acá tendría que haberse generado. El Backport.
+
+936
+01:56:34.930 --> 01:56:38.349
+CRISTIAN QUEIROLO DOMINGUEZ: Puede haber sido un bug, después lo revisamos.
+
+937
+01:56:38.600 --> 01:56:43.629
+CRISTIAN QUEIROLO DOMINGUEZ: pero bueno, eso sería todo, no sé si hay alguna pregunta.
+
+938
+01:56:43.860 --> 01:56:54.439
+Lucas Bonanni: Excelente, No, no. La verdad, que está está muy bien, muy completo. Muy bueno. La la la la parte de manejar el seme ver. Y la parte de versionado. Así que genial.
+
+939
+01:56:55.310 --> 01:56:57.889
+Lucas Bonanni: no era la idea que lo que se hiciera así.
+
+940
+01:56:59.810 --> 01:57:08.759
+AGUSTIN ELMER: Lo del Backford. Me parece que era que no encontró ninguna diferencia entre Erop y Maine. Parece. Ahí habíamos creado un hot Fix para para el programa.
+
+941
+01:57:09.420 --> 01:57:10.270
+Lucas Bonanni: Y de.
+
+942
+01:57:11.470 --> 01:57:13.220
+AGUSTIN ELMER: Pero bueno, nada, pero ahí sí.
+
+943
+01:57:13.830 --> 01:57:16.640
+AGUSTIN ELMER: Y esto lo apruebo. Y lo mostraba ahí, que que se genera.
+
+944
+01:57:17.570 --> 01:57:20.699
+CRISTIAN QUEIROLO DOMINGUEZ: Depende. No sé cómo estamos con el tiempo. Si quieren, lo podemos mostrar.
+
+945
+01:57:24.060 --> 01:57:25.400
+Lucas Bonanni: Dale Dale mústralo.
+
+946
+01:57:26.150 --> 01:57:29.270
+CRISTIAN QUEIROLO DOMINGUEZ: Bueno, probé listo.
+
+947
+01:57:31.870 --> 01:57:37.090
+CRISTIAN QUEIROLO DOMINGUEZ: Okay está aprobado el Hotfix, éste va directamente a a Main.
+
+948
+01:57:38.760 --> 01:57:41.569
+CRISTIAN QUEIROLO DOMINGUEZ: Y ahora vamos a ver el action.
+
+949
+01:57:41.570 --> 01:57:42.750
+AGUSTIN ELMER: Estás compartiendo.
+
+950
+01:57:43.630 --> 01:57:45.390
+CRISTIAN QUEIROLO DOMINGUEZ: No okay, perdón.
+
+951
+01:57:48.040 --> 01:57:48.500
+AGUSTIN ELMER: Ahí lo.
+
+952
+01:57:48.500 --> 01:57:49.200
+CRISTIAN QUEIROLO DOMINGUEZ: Lo con todos.
+
+953
+01:57:49.200 --> 01:57:49.790
+AGUSTIN ELMER: Dime.
+
+954
+01:57:53.260 --> 01:57:54.810
+AGUSTIN ELMER: pues habíamos tenido un problemita.
+
+955
+01:57:54.810 --> 01:57:55.380
+CRISTIAN QUEIROLO DOMINGUEZ: De la.
+
+956
+01:57:55.770 --> 01:58:00.430
+AGUSTIN ELMER: En un momento habíamos manejado con un token de Github
+
+957
+01:58:00.680 --> 01:58:09.610
+AGUSTIN ELMER: y nos generaba el el el P. R, pero no se disparaban los cheques de C I, porque por lo que habíamos entendido porque era un bot.
+
+958
+01:58:09.720 --> 01:58:15.780
+AGUSTIN ELMER: Entonces tuvimos que hacer con un toque en fingranes. Creo que se llamaba.
+
+959
+01:58:15.960 --> 01:58:22.290
+AGUSTIN ELMER: Habíamos tenido que crear un secreto nuevo, y eso es lo creado como si fuera Cristian porque el token. No creo él.
+
+960
+01:58:23.220 --> 01:58:28.329
+CRISTIAN QUEIROLO DOMINGUEZ: Exacto. Ese es un warker round que tuvimos que usar. Pero bueno, acá se generó el p. D. R del backport.
+
+961
+01:58:28.500 --> 01:58:33.880
+CRISTIAN QUEIROLO DOMINGUEZ: En este caso no lo puedo aprobar. Yo estaría bueno que si lo pudiera probar.
+
+962
+01:58:34.060 --> 01:58:37.800
+CRISTIAN QUEIROLO DOMINGUEZ: pero bueno, una vez que lo que lo ha probamos ya
+
+963
+01:58:37.940 --> 01:58:45.299
+CRISTIAN QUEIROLO DOMINGUEZ: lo merciamos y vemos que este es el cambio del Hotfix. Así, ya Developpi e Main ya están ya están igualados
+
+964
+01:58:45.440 --> 01:58:48.339
+CRISTIAN QUEIROLO DOMINGUEZ: y mientras tanto, se está generando la versión para.
+
+965
+01:58:48.610 --> 01:58:50.410
+ELISEO SACHI: Te lo apruebe.
+
+966
+01:58:50.410 --> 01:58:53.219
+CRISTIAN QUEIROLO DOMINGUEZ: Para el deplay. Perfecto. Muchas gracias.
+
+967
+01:58:53.940 --> 01:58:58.090
+CRISTIAN QUEIROLO DOMINGUEZ: Y bueno, ahora sí, eso eso es todo.
+
+968
+01:58:59.660 --> 01:59:02.480
+CRISTIAN QUEIROLO DOMINGUEZ: Y si vamos a acá a develo.
+
+969
+01:59:03.080 --> 01:59:09.599
+CRISTIAN QUEIROLO DOMINGUEZ: Tendríamos que tener Stammers Full Request desde el Backport. Ahora, en Develop.
+
+970
+01:59:09.990 --> 01:59:11.949
+CRISTIAN QUEIROLO DOMINGUEZ: Y bueno, eso es todo.
+
+971
+01:59:12.600 --> 01:59:14.909
+Lucas Bonanni: Bueno. Excelente. Muy bueno.
+
+972
+01:59:16.540 --> 01:59:17.330
+AGUSTIN ELMER: Ese profe.
+
+973
+01:59:17.750 --> 01:59:18.260
+ELISEO SACHI: A gracias.
+
+974
+01:59:18.260 --> 01:59:19.270
+CRISTIAN QUEIROLO DOMINGUEZ: Muchas gracias.
+
+975
+01:59:25.250 --> 01:59:28.899
+Lucas Bonanni: Bien. Bueno, ¿quién ¿quién va a seguir.
+
+976
+01:59:30.250 --> 01:59:34.810
+BENJAMIN BAIGORRIA FUNES: No profe ¿Para qué pongo la Cámara? Se me escucha.
+
+977
+01:59:35.520 --> 01:59:38.550
+Lucas Bonanni: Sí, Sí, Vale, okay.
+
+978
+01:59:39.790 --> 01:59:41.240
+BENJAMIN BAIGORRIA FUNES: Ok Deme, un segundo.
+
+979
+02:00:02.870 --> 02:00:09.930
+BENJAMIN BAIGORRIA FUNES: Bueno, lo primero que hice fue trabajar con un repositorio de E. I, T.
+
+980
+02:00:10.380 --> 02:00:14.290
+BENJAMIN BAIGORRIA FUNES: Y Github para el manejo del versionado.
+
+981
+02:00:14.860 --> 02:00:22.110
+BENJAMIN BAIGORRIA FUNES: La idea era mantener el proyecto limpio y aplicar los principios del leon y lian startup.
+
+982
+02:00:22.660 --> 02:00:25.270
+BENJAMIN BAIGORRIA FUNES: Este es el repositorio.
+
+983
+02:00:26.220 --> 02:00:32.620
+BENJAMIN BAIGORRIA FUNES: Traté de utilizar convencional comics. Sé que no era necesario, pero traté de de utilizarlo.
+
+984
+02:00:33.270 --> 02:00:42.230
+BENJAMIN BAIGORRIA FUNES: Se puede ver ahí, por ejemplo, alguno de los de los cómics como Fix Fitz y de textil.
+
+985
+02:00:44.280 --> 02:00:51.839
+BENJAMIN BAIGORRIA FUNES: La aplicación que utilizo es en sí una aplicación básica hecha con node 3 y express
+
+986
+02:00:52.420 --> 02:00:57.769
+BENJAMIN BAIGORRIA FUNES: utilicé también T. E, S Súper: te perdón y E. S T. Y súper test.
+
+987
+02:00:58.320 --> 02:01:08.310
+BENJAMIN BAIGORRIA FUNES: además de New Rellyck Docker Docker con pous, Y no sé si me olvido alguna. Pero ahí van esas serían las tecnologías que utilicé
+
+988
+02:01:09.610 --> 02:01:15.470
+BENJAMIN BAIGORRIA FUNES: los endpoints que terminaron fueron estos 6 Saindpoints
+
+989
+02:01:15.590 --> 02:01:20.289
+BENJAMIN BAIGORRIA FUNES: que son el básico hello que es. Funciona como una especie de de Hellgeck
+
+990
+02:01:20.790 --> 02:01:25.869
+BENJAMIN BAIGORRIA FUNES: y un Hello World Magic Cards, que es en sí un
+
+991
+02:01:26.200 --> 02:01:29.070
+BENJAMIN BAIGORRIA FUNES: una petición a a otra Epi
+
+992
+02:01:29.410 --> 02:01:33.899
+BENJAMIN BAIGORRIA FUNES: a un I P A, para que me traiga cartas de un juego que se llama Magic The Greaterim.
+
+993
+02:01:34.450 --> 02:01:40.589
+BENJAMIN BAIGORRIA FUNES: y que me las traiga por ahí o si no por por el nombre y también un end point que sería
+
+994
+02:01:40.820 --> 02:01:45.720
+BENJAMIN BAIGORRIA FUNES: un error para que después se pueda ver en en la etapa de monitoreo.
+
+995
+02:01:46.370 --> 02:01:56.350
+BENJAMIN BAIGORRIA FUNES: Mhm: Bueno, estas son las rutas que utilicé simplemente para para que se vea en
+
+996
+02:01:57.680 --> 02:02:01.549
+BENJAMIN BAIGORRIA FUNES: estás en el caso de buscar por ahí en caso de buscar por nombre.
+
+997
+02:02:03.550 --> 02:02:11.520
+BENJAMIN BAIGORRIA FUNES: Bueno, la aplicación fue con contenerizado utilizando Docker, creé un Docker file
+
+998
+02:02:11.970 --> 02:02:21.279
+BENJAMIN BAIGORRIA FUNES: para que contenga el entorno de ejecución y el archivo Docker compost que no lo utilice tanto como lo podría haberlo utilizado
+
+999
+02:02:21.470 --> 02:02:29.060
+BENJAMIN BAIGORRIA FUNES: porque la aplicación es simple y no utilicé varios contenedores. Podría haber hecho, por ejemplo.
+
+1000
+02:02:29.330 --> 02:02:37.720
+BENJAMIN BAIGORRIA FUNES: utilizar una base de datos y tenerla integrada ahí. Pero para el trabajo no no fue implementado.
+
+1001
+02:02:38.390 --> 02:02:46.310
+BENJAMIN BAIGORRIA FUNES: Bueno, una vez creada la imagen, se generó el contenido ejecutable. A partir de ahí se publicó la imagen en en Docker Resistry
+
+1002
+02:02:47.190 --> 02:02:54.859
+BENJAMIN BAIGORRIA FUNES: en Docker. Hub Este sería el el file de Docker. Y acá se puede ver el multi stage.
+
+1003
+02:02:55.150 --> 02:03:02.540
+BENJAMIN BAIGORRIA FUNES: o sea, que hay 2 etapas. La primera, que es la de la de buildeo y la final, que es la la que se levanta
+
+1004
+02:03:03.050 --> 02:03:04.420
+BENJAMIN BAIGORRIA FUNES: finalmente.
+
+1005
+02:03:05.830 --> 02:03:09.330
+BENJAMIN BAIGORRIA FUNES: Acá por ejemplo, hay una algunas variables de entorno.
+
+1006
+02:03:12.050 --> 02:03:19.850
+BENJAMIN BAIGORRIA FUNES: Bueno, acá es lo que decía de luego del Docker Compost acá se podría haber utilizado y.
+
+1007
+02:03:20.210 --> 02:03:24.319
+BENJAMIN BAIGORRIA FUNES: además de App, se podría haber puesto otro contenedor que contenga.
+
+1008
+02:03:24.770 --> 02:03:35.180
+BENJAMIN BAIGORRIA FUNES: por ejemplo, la la una base de datos, la las Emb, los las variables de enviroment para una base de datos y así mantenerla integrada. Junto con la aplicación.
+
+1009
+02:03:39.260 --> 02:03:46.189
+BENJAMIN BAIGORRIA FUNES: Bueno, a mí me había faltado. Bith Hab Actions en en cuanto a lo que serían las las herramientas. No
+
+1010
+02:03:46.460 --> 02:03:55.150
+BENJAMIN BAIGORRIA FUNES: el Gith Hub Action se me permitió ejecutar una cadena de operaciones durante cada comic y durante cada actualización de la rama principal
+
+1011
+02:03:55.600 --> 02:03:58.870
+BENJAMIN BAIGORRIA FUNES: del repositorio de Git. A ver si puedo mostrar.
+
+1012
+02:04:00.120 --> 02:04:01.570
+BENJAMIN BAIGORRIA FUNES: Creo que lo tengo por acá.
+
+1013
+02:04:03.870 --> 02:04:15.869
+BENJAMIN BAIGORRIA FUNES: Acá. Tengo, bueno, estas son las variables. Acá Tengo, por ejemplo, esto lo que contaba yo hace un rato que yo tenía. Al principio se probaban en 3 Bills. La build de Magic es un poco pesada.
+
+1014
+02:04:16.210 --> 02:04:24.510
+BENJAMIN BAIGORRIA FUNES: Entonces me me vino bien para probar algunas cosas de los test, ya que al correr los tests a veces tardaban mucho y rompía
+
+1015
+02:04:24.960 --> 02:04:29.690
+BENJAMIN BAIGORRIA FUNES: el test. Básicamente, tenía un un límite de tiempo
+
+1016
+02:04:29.860 --> 02:04:36.769
+BENJAMIN BAIGORRIA FUNES: y no permitía correr. Pero esto muestra que una vez que se limita el test, o sea que no
+
+1017
+02:04:36.950 --> 02:04:48.289
+BENJAMIN BAIGORRIA FUNES: que rompe, O sea que no puede seguir continuando. No sigue con el Login a Docker. Hub a nobildea la imagen, no puse a la imagen a Docker y no realiza el render en deploy perdón. El deploy en render.
+
+1018
+02:04:48.460 --> 02:04:56.750
+BENJAMIN BAIGORRIA FUNES: Con esa. Con esa imagen Acá se puede ver que el la
+
+1019
+02:04:57.830 --> 02:05:00.450
+BENJAMIN BAIGORRIA FUNES: el input que falló fue el de
+
+1020
+02:05:01.550 --> 02:05:05.619
+BENJAMIN BAIGORRIA FUNES: el el primero, o sea, el test primero que fue el de magiccarts
+
+1021
+02:05:06.440 --> 02:05:09.700
+BENJAMIN BAIGORRIA FUNES: y en este caso, porque se excedió el límite de tiempo
+
+1022
+02:05:10.110 --> 02:05:12.459
+BENJAMIN BAIGORRIA FUNES: que se le había solicitado para el test.
+
+1023
+02:05:12.580 --> 02:05:16.659
+BENJAMIN BAIGORRIA FUNES: Como dije, la la piedra pesada. Pero bueno, me sirvió también para poder ver el
+
+1024
+02:05:17.360 --> 02:05:19.110
+BENJAMIN BAIGORRIA FUNES: el flujo que ocurría acá.
+
+1025
+02:05:20.930 --> 02:05:27.470
+BENJAMIN BAIGORRIA FUNES: A partir de esto nos siguió con ni logueando ni ni haciendo el resto de ejecuciones y, por ende, no
+
+1026
+02:05:27.620 --> 02:05:31.510
+BENJAMIN BAIGORRIA FUNES: no se lo vio. No se huyó la imagen con errores.
+
+1027
+02:05:32.770 --> 02:05:36.920
+BENJAMIN BAIGORRIA FUNES: Acá está un caso en el caso que se cumplió.
+
+1028
+02:05:38.490 --> 02:05:44.120
+BENJAMIN BAIGORRIA FUNES: Pasaron los 2 tests y siguió con el Login Dakar en Dockerhab Build. La imagen
+
+1029
+02:05:44.580 --> 02:05:48.470
+BENJAMIN BAIGORRIA FUNES: la puso a tocar. Hub perdón, puso la imagen
+
+1030
+02:05:49.840 --> 02:05:53.280
+BENJAMIN BAIGORRIA FUNES: y hizo el render en diploy el render de play.
+
+1031
+02:06:00.960 --> 02:06:10.100
+BENJAMIN BAIGORRIA FUNES: Bueno, me había faltado. Bueno, el Gitson el Githup Action se configura a través de un archivo que está dentro de la Carpeta Gitsu
+
+1032
+02:06:10.280 --> 02:06:18.349
+BENJAMIN BAIGORRIA FUNES: Warflow. Y bueno, en en mi caso, la llamé note jazz, pero lo lógico hubiese sido llamarla Si hay 6 Iml
+
+1033
+02:06:19.380 --> 02:06:24.750
+BENJAMIN BAIGORRIA FUNES: acá. Es donde se guardan también las variables de entorno que se va a utilizar
+
+1034
+02:06:25.110 --> 02:06:31.910
+BENJAMIN BAIGORRIA FUNES: el Ifa, el ift actions para poder correr todos los Steps correctamente.
+
+1035
+02:06:32.300 --> 02:06:40.690
+BENJAMIN BAIGORRIA FUNES: Por ejemplo, acá están las los secrets. Punto, Otro username y el secrets. Punto, Ok Password. Y también lo los
+
+1036
+02:06:41.870 --> 02:06:45.249
+BENJAMIN BAIGORRIA FUNES: el el render de playoffs, el hook, para render
+
+1037
+02:06:46.600 --> 02:06:49.360
+BENJAMIN BAIGORRIA FUNES: que eso estaba acá O sea, estaban
+
+1038
+02:06:49.720 --> 02:06:53.169
+BENJAMIN BAIGORRIA FUNES: las 3 variables de entorno secretas que estaba utilizando.
+
+1039
+02:06:56.770 --> 02:07:02.209
+BENJAMIN BAIGORRIA FUNES: Hay una cuestión acá acá por ejemplo, estoy utilizando la versión de bovs latext
+
+1040
+02:07:02.440 --> 02:07:12.649
+BENJAMIN BAIGORRIA FUNES: Esto, yo sé que se puede utilizar después cambiando, poniendo versiones fijas o versiones que vayan aumentando con Sha o con
+
+1041
+02:07:13.210 --> 02:07:20.170
+BENJAMIN BAIGORRIA FUNES: o con un comando que había visto que estaba bastante bueno, pero no, no llegué a implementarlo, y en
+
+1042
+02:07:21.060 --> 02:07:24.819
+BENJAMIN BAIGORRIA FUNES: sé que es algo no muy complejo.
+
+1043
+02:07:24.930 --> 02:07:31.850
+BENJAMIN BAIGORRIA FUNES: pero no no quise integrarlo una vez terminado los días que se habían dictado para realizar el trabajo.
+
+1044
+02:07:31.960 --> 02:07:39.640
+BENJAMIN BAIGORRIA FUNES: Ahora, después de después de la Uy, después de la presentación, logré,
+
+1045
+02:07:41.130 --> 02:07:46.519
+BENJAMIN BAIGORRIA FUNES: bueno, el en los test usé yes para la implementación de los test
+
+1046
+02:07:46.770 --> 02:07:51.569
+BENJAMIN BAIGORRIA FUNES: se utilizó también su partes para hacer las riquezas. Htt: P
+
+1047
+02:07:51.950 --> 02:08:08.450
+BENJAMIN BAIGORRIA FUNES: sobre los en point de la Api, que había definido como magicart y magicars, simplemente esperaba que fuese un status cous 200 y puse una expectativa de más para el caso particular de de una de las cartas, no como para poner un requisito más
+
+1048
+02:08:08.760 --> 02:08:14.559
+BENJAMIN BAIGORRIA FUNES: simplemente para testeo en sí. La Api es más que nada. Es una forma de
+
+1049
+02:08:15.090 --> 02:08:18.510
+BENJAMIN BAIGORRIA FUNES: de excusa para representar todo el flujo de Bobs.
+
+1050
+02:08:20.060 --> 02:08:26.389
+BENJAMIN BAIGORRIA FUNES: Bueno, los tes verifican finalmente que la los endpoints del api fusionan correctamente.
+
+1051
+02:08:26.980 --> 02:08:29.430
+BENJAMIN BAIGORRIA FUNES: y según lo acuerdo de lo esperado.
+
+1052
+02:08:30.020 --> 02:08:36.430
+BENJAMIN BAIGORRIA FUNES: Bueno, anteriormente había dicho que la imagen una vez pasa por el insot action y pasa. Los test
+
+1053
+02:08:36.580 --> 02:08:43.240
+BENJAMIN BAIGORRIA FUNES: se buildea y se publica en en Docker, en cómo se llama en el Dock Registry.
+
+1054
+02:08:44.060 --> 02:08:51.660
+BENJAMIN BAIGORRIA FUNES: Y Ap. Con a partir de esa publicación se puede hacer el a partir del render display hook
+
+1055
+02:08:51.840 --> 02:09:01.990
+BENJAMIN BAIGORRIA FUNES: se se cómo se llama? Se Se actualiza el diploy y automáticamente hará del Ape.
+
+1056
+02:09:03.530 --> 02:09:07.510
+BENJAMIN BAIGORRIA FUNES: Bueno, utilicé también El monitoreo de New Rellyx.
+
+1057
+02:09:08.020 --> 02:09:11.930
+BENJAMIN BAIGORRIA FUNES: Se utilizó a partir de un pequeño.
+
+1058
+02:09:12.550 --> 02:09:18.970
+BENJAMIN BAIGORRIA FUNES: o sea, a partir de una instalación de una dependencia, se configuró un archivo New Reality Jazz.
+
+1059
+02:09:19.150 --> 02:09:25.279
+BENJAMIN BAIGORRIA FUNES: donde se definieron algunas variables y lo que se buscaba en sí de
+
+1060
+02:09:26.050 --> 02:09:30.849
+BENJAMIN BAIGORRIA FUNES: de los los como se llaman las trazas que se querían hacer, o los templos que se querían buscar.
+
+1061
+02:09:31.620 --> 02:09:36.310
+BENJAMIN BAIGORRIA FUNES: Eso está Bueno, esta es la A, P. I.
+
+1062
+02:09:37.600 --> 02:09:42.420
+BENJAMIN BAIGORRIA FUNES: Esto es lo que devuelve de vóle Jasons, por ejemplo. Acá Voy a buscar el
+
+1063
+02:09:42.740 --> 02:09:48.359
+BENJAMIN BAIGORRIA FUNES: la carta 1 de del Magic de Gattering y me trae la carta que estoy buscando.
+
+1064
+02:09:49.300 --> 02:09:58.339
+BENJAMIN BAIGORRIA FUNES: Bueno, en New Relix, lo que hice fue Este es el Dashboard. Este Mellizashon, a partir de
+
+1065
+02:09:58.900 --> 02:10:03.179
+BENJAMIN BAIGORRIA FUNES: de los tempo que tenía. Y tengo un contador de las request que fui utilizando.
+
+1066
+02:10:03.310 --> 02:10:09.059
+BENJAMIN BAIGORRIA FUNES: En este caso, utilicé. Mientras estaban hablando los chicos. Utilicé la la de magicar, buscar por I D
+
+1067
+02:10:09.250 --> 02:10:11.909
+BENJAMIN BAIGORRIA FUNES: la de magicar que me traiga una carta en específico
+
+1068
+02:10:12.130 --> 02:10:16.009
+BENJAMIN BAIGORRIA FUNES: y hello que funcionaba como una como una especie de Helgeck.
+
+1069
+02:10:16.400 --> 02:10:22.519
+BENJAMIN BAIGORRIA FUNES: Tengo también un un porcentual del uso de hello, que es simplemente para mo mostrar algo diferente.
+
+1070
+02:10:22.900 --> 02:10:29.270
+BENJAMIN BAIGORRIA FUNES: El tiempo de respuesta promedio de de las request de las peticiones
+
+1071
+02:10:29.600 --> 02:10:35.120
+BENJAMIN BAIGORRIA FUNES: y los errores que tengo también un en point de error para justamente verificarlo. Acá.
+
+1072
+02:10:38.070 --> 02:10:44.900
+BENJAMIN BAIGORRIA FUNES: Y bueno, estos serían el tiempo de respuesta de promedio de las de cada una de las
+
+1073
+02:10:45.270 --> 02:10:46.529
+BENJAMIN BAIGORRIA FUNES: de los an Points.
+
+1074
+02:10:48.310 --> 02:10:50.720
+BENJAMIN BAIGORRIA FUNES: Ahí está el cantidad de recuas por minuto.
+
+1075
+02:10:52.190 --> 02:10:55.340
+BENJAMIN BAIGORRIA FUNES: y eso sería todo Profe. No sé si querés que demuestre algo más.
+
+1076
+02:10:57.470 --> 02:11:04.320
+Lucas Bonanni: No está perfecto. Está completo, así que excelente buena presentación.
+
+1077
+02:11:05.050 --> 02:11:06.170
+BENJAMIN BAIGORRIA FUNES: Muchas gracias.
+
+1078
+02:11:07.010 --> 02:11:08.400
+JOAQUÍN IPAR: Podría pasar yo? Profe.
+
+1079
+02:11:10.180 --> 02:11:11.090
+Lucas Bonanni: Dale.
+
+1080
+02:11:12.010 --> 02:11:13.210
+JOAQUÍN IPAR: Un par de pantalla.
+
+1081
+02:11:16.350 --> 02:11:19.810
+BENJAMIN BAIGORRIA FUNES: Pro fue una cosa cuando nos avisas tipo. Las correcciones.
+
+1082
+02:11:20.860 --> 02:11:27.039
+Lucas Bonanni: Y seguramente durante la semana que viene. Porque, bueno, ahora tengo que ir corrigiendo estas entregas.
+
+1083
+02:11:27.410 --> 02:11:28.080
+BENJAMIN BAIGORRIA FUNES: Okay.
+
+1084
+02:11:28.570 --> 02:11:30.489
+Lucas Bonanni: Hay que avisaré a todos juntos.
+
+1085
+02:11:32.150 --> 02:11:35.779
+JOAQUÍN IPAR: Bueno, Mhm: Empiezo aprendiendo un poco
+
+1086
+02:11:35.920 --> 02:11:41.660
+JOAQUÍN IPAR: en I, T. P: Básicamente es hice una pequeña A, P, I
+
+1087
+02:11:42.460 --> 02:11:44.929
+JOAQUÍN IPAR: para la gestion de gestión de alumnos.
+
+1088
+02:11:45.130 --> 02:11:46.720
+JOAQUÍN IPAR: Para eso.
+
+1089
+02:11:46.840 --> 02:11:49.670
+JOAQUÍN IPAR: No puse la cámara disculpa,
+
+1090
+02:11:50.050 --> 02:11:57.380
+JOAQUÍN IPAR: para gestión de alumnos. Básicamente un simple crude. Mi idea era más que nada practicar la parte de C, I, C, d. Y deployment.
+
+1091
+02:11:57.540 --> 02:12:03.740
+JOAQUÍN IPAR: Pero igual hice un pequeño programa en Java y Spring, con una base de datos simple en posters
+
+1092
+02:12:04.150 --> 02:12:05.840
+JOAQUÍN IPAR: y bueno para
+
+1093
+02:12:06.090 --> 02:12:14.539
+JOAQUÍN IPAR: para costear la el el servicio, ser render tanto el servicio como la base de datos y después tachadog para
+
+1094
+02:12:14.760 --> 02:12:24.150
+JOAQUÍN IPAR: en para las métricas y las trazas. Y Logs y Githuve Actions para bueno para el repositorio y
+
+1095
+02:12:24.260 --> 02:12:27.230
+JOAQUÍN IPAR: Gitcab para el repositorio y Githuve Action para
+
+1096
+02:12:27.390 --> 02:12:30.450
+JOAQUÍN IPAR: todo el Work Flow de Pipeland de si hay
+
+1097
+02:12:31.410 --> 02:12:34.400
+JOAQUÍN IPAR: acá un poco todas las fases que tenía el T. P.
+
+1098
+02:12:34.550 --> 02:12:42.229
+JOAQUÍN IPAR: Primero, hablar de control, Las 4, los 4 Endpoints que que tengo disponibles, que básicamente es
+
+1099
+02:12:42.460 --> 02:12:47.169
+JOAQUÍN IPAR: típico de una api rest getpostputni y delete como un alumno.
+
+1100
+02:12:47.490 --> 02:12:51.199
+JOAQUÍN IPAR: permite consultar y y agregar y actualizar.
+
+1101
+02:12:51.540 --> 02:13:06.300
+JOAQUÍN IPAR: Y también haré un par de tests solo para para tener el la parte en el en el workflow que que se fije que una vez que se
+
+1102
+02:13:06.450 --> 02:13:13.630
+JOAQUÍN IPAR: a un push de cambios que estos cambios no rompan la funcionalidad existente.
+
+1103
+02:13:14.620 --> 02:13:15.980
+JOAQUÍN IPAR: Y
+
+1104
+02:13:16.110 --> 02:13:31.070
+JOAQUÍN IPAR: Y bueno, y y eso está definido. Lo voy a mostrar después, aparte de de los warflos. Y una cosa que, bueno, después voy a retomar más tarde, pero es que de yo, del trabajo utilizo convencional convencional Comids.
+
+1105
+02:13:31.450 --> 02:13:43.929
+JOAQUÍN IPAR: Esto es lo que me permite no tener que preocuparme luego por hacer bumpa de las versiones, sino que automáticamente se se se encarga del work flow. A eso lo voy a detalle después.
+
+1106
+02:13:44.550 --> 02:13:58.039
+JOAQUÍN IPAR: Bueno, acá el el dockerfile. Lo podemos hacer acá en detalle, dice multi stage, una parte se carga servir. Y después la parte de ronda que se hace con la imagen un poco más ligera en Alpine.
+
+1107
+02:13:58.790 --> 02:14:02.880
+JOAQUÍN IPAR: Bueno, ya con un par de cositas como el stand para el dictador.
+
+1108
+02:14:03.680 --> 02:14:06.849
+JOAQUÍN IPAR: y y cómo le expongo a el puerto.
+
+1109
+02:14:07.380 --> 02:14:17.250
+JOAQUÍN IPAR: y también tengo el para cuando lo quiero probar local. Tengo el Docker Compus.
+
+1110
+02:14:17.620 --> 02:14:24.490
+JOAQUÍN IPAR: que tiene sus cositas como que espera hasta que la base de datos esté lista para para
+
+1111
+02:14:24.990 --> 02:14:28.270
+JOAQUÍN IPAR: para antes de correr el el
+
+1112
+02:14:28.790 --> 02:14:34.180
+JOAQUÍN IPAR: el A. P I. El el contenedor de a P A y también tiene su contenedor de editor
+
+1113
+02:14:34.520 --> 02:14:38.290
+JOAQUÍN IPAR: con la Lapi Key, que le saca del del ambiente.
+
+1114
+02:14:42.370 --> 02:14:51.299
+JOAQUÍN IPAR: Bien, después tengo la parte del del Pickland de C. I, que para eso tengo definido varias etapas: una etapa de bill dantest.
+
+1115
+02:14:52.510 --> 02:14:55.429
+JOAQUÍN IPAR: Después, creo que me iba en Berkfayet
+
+1116
+02:14:56.210 --> 02:15:00.390
+JOAQUÍN IPAR: Después, si pasa eso pasa a la siguiente que hace. Pide un posh
+
+1117
+02:15:00.830 --> 02:15:16.079
+JOAQUÍN IPAR: Y por último, se hace de play render mediante el the Play Hook, que es el Url que provee render para que se haga la parte de contenidos de Batmand y pueda actualizarse la página. Bueno, al final, el servicio de imagen en tiempo real.
+
+1118
+02:15:16.350 --> 02:15:19.559
+JOAQUÍN IPAR: Todo esto lo voy a mostrar. Lo tengo por acá
+
+1119
+02:15:20.880 --> 02:15:23.360
+JOAQUÍN IPAR: todos los shorts que tengo aquí. Dantesk
+
+1120
+02:15:24.980 --> 02:15:29.270
+JOAQUÍN IPAR: defina la versión de Java, discripción
+
+1121
+02:15:29.440 --> 02:15:35.410
+JOAQUÍN IPAR: aparte de Publish, que esto, bueno, usa los secrets que tengo definidos en en Gitt Github
+
+1122
+02:15:35.610 --> 02:15:43.640
+JOAQUÍN IPAR: con el Token. Y Por último, haces la parte de Deeployd que usa el Secret de Render Play Hawk.
+
+1123
+02:15:44.050 --> 02:15:45.860
+JOAQUÍN IPAR: Puedes tratar a Definir Github
+
+1124
+02:15:46.090 --> 02:15:52.720
+JOAQUÍN IPAR: y después más adelante. Bueno lo demostró ahora, pero también para el versionado automático, Usar algo de llamada Pleaseplease.
+
+1125
+02:15:53.420 --> 02:15:57.080
+JOAQUÍN IPAR: Y lo que hace es utiliza los convencional, comics.
+
+1126
+02:15:58.060 --> 02:16:02.249
+JOAQUÍN IPAR: pero lo voy a mostrar por lo que estamos delante, pero, bueno, le puse a los Convencionalkovic
+
+1127
+02:16:02.460 --> 02:16:09.960
+JOAQUÍN IPAR: para ser versionado y según el tipo de comic que tengas, se va a hacer vamp de la versión.
+
+1128
+02:16:11.060 --> 02:16:17.269
+JOAQUÍN IPAR: Así que eso lo estoy manejando en este este ar archivo de configuración.
+
+1129
+02:16:18.300 --> 02:16:27.980
+JOAQUÍN IPAR: Pero y una vez que se hace esto, se termina el bit y se hace.
+
+1130
+02:16:28.150 --> 02:16:35.360
+JOAQUÍN IPAR: se cu hace comic esas perdón. Marsh a a Maine se ge vienes de imagen general de Oscar Hub
+
+1131
+02:16:35.629 --> 02:16:38.180
+JOAQUÍN IPAR: se se ejecuta el el
+
+1132
+02:16:38.680 --> 02:16:42.530
+JOAQUÍN IPAR: de Playhook. Y eso te va a parecer un render. Les voy a mostrar un poco.
+
+1133
+02:16:42.639 --> 02:16:49.180
+JOAQUÍN IPAR: Como tengo todo eso acá. Como las imágenes se van generando.
+
+1134
+02:16:50.200 --> 02:16:59.609
+JOAQUÍN IPAR: Pon Tenemos el Lateds que apunta al último y las imágenes que tiene su ya para diferenciar y que no se vayan, no se pisen las imágenes
+
+1135
+02:17:00.650 --> 02:17:02.810
+JOAQUÍN IPAR: para que me tapa el Zoom.
+
+1136
+02:17:04.610 --> 02:17:07.960
+JOAQUÍN IPAR: Pero bueno, vamos a mostrar un poco de repositorio.
+
+1137
+02:17:09.410 --> 02:17:12.499
+JOAQUÍN IPAR: Yo estuve probando un par de cositas para ver si funcionaba todo.
+
+1138
+02:17:13.600 --> 02:17:19.530
+JOAQUÍN IPAR: Pero bueno, como pueden ver, yo, todos los cómics, los tengo hechos con conventional, comic.
+
+1139
+02:17:19.660 --> 02:17:23.600
+JOAQUÍN IPAR: o sea, yo en principio alguno en el principio.
+
+1140
+02:17:23.980 --> 02:17:30.600
+JOAQUÍN IPAR: Lo que hice más adelante fue bloquear Main para no poder hacer.
+
+1141
+02:17:30.900 --> 02:17:47.660
+JOAQUÍN IPAR: pues, directamente sin tener que pasar sin pasar por por Request aprobado por otro. Pero bueno, encontré el problema que, como estoy haciendo el T, P. Solo me di cuenta de que nadie me podía probar los pie Ars. Así que tuve que hacer una pequeña excepción ahí en la en la regla, y me permite hacer bypass de de ese roosex
+
+1142
+02:17:48.730 --> 02:17:50.170
+JOAQUÍN IPAR: en.
+
+1143
+02:17:50.760 --> 02:17:54.070
+JOAQUÍN IPAR: Y bueno, puedo mostrar un poco cómo se fueron ejecutando
+
+1144
+02:17:54.240 --> 02:18:01.230
+JOAQUÍN IPAR: cada 1 de, Por ejemplo, yo lo que hice una pequeña prueba. Hace unos minutos, modificar algo pequeño para correr todo
+
+1145
+02:18:01.420 --> 02:18:04.860
+JOAQUÍN IPAR: el Esto es el risplice.
+
+1146
+02:18:05.090 --> 02:18:11.979
+JOAQUÍN IPAR: Eso quiero ver completo. Están todas las etapas del Bird Test se hacen correctamente.
+
+1147
+02:18:13.680 --> 02:18:17.539
+JOAQUÍN IPAR: Tenemos el Bidant Push y el deploy tu rednder
+
+1148
+02:18:18.230 --> 02:18:21.840
+JOAQUÍN IPAR: que se hizo correctamente, Y esto lo podemos ver en render
+
+1149
+02:18:22.080 --> 02:18:29.369
+JOAQUÍN IPAR: que coincide con con lo en la en la hora que se hizo el diploy con un deplay hook
+
+1150
+02:18:29.660 --> 02:18:34.910
+JOAQUÍN IPAR: est. Y está asociado con mi y
+
+1151
+02:18:35.030 --> 02:18:42.850
+JOAQUÍN IPAR: imagen de publicar en Docker. Hub ¿Qué más te ha gustado
+
+1152
+02:18:43.660 --> 02:18:49.920
+JOAQUÍN IPAR: si quieren, Si tengo tiempo, puedo mostrar esto en tiempo real o hacer un pequeño cambio rápidamente por ahorrar.
+
+1153
+02:18:50.040 --> 02:18:56.400
+JOAQUÍN IPAR: No sé el el el ritmo, hacer un pequeño cambio. Por ejemplo.
+
+1154
+02:18:56.559 --> 02:18:59.930
+JOAQUÍN IPAR: no sé 2 026 Vamos a ver guardo.
+
+1155
+02:19:01.540 --> 02:19:04.399
+JOAQUÍN IPAR: Bueno, debería ser un una Brunch.
+
+1156
+02:19:14.830 --> 02:19:20.020
+JOAQUÍN IPAR: No sé ¡Ay, algo. Vi a Ritmine.
+
+1157
+02:19:20.709 --> 02:19:33.530
+JOAQUÍN IPAR: Pongo un comic con esto, Pero Fitz Fitztyle a opus, bueno, este dejamos esto.
+
+1158
+02:19:36.700 --> 02:19:38.230
+JOAQUÍN IPAR: Seis: se hizo el pus.
+
+1159
+02:19:39.100 --> 02:19:42.210
+JOAQUÍN IPAR: Me interesa hacer un pur encuestas y entramos.
+
+1160
+02:19:45.020 --> 02:19:50.890
+JOAQUÍN IPAR: Y bueno, y creo el el Purkoust Amein, así como para hacerlo rápido.
+
+1161
+02:19:52.670 --> 02:20:00.639
+JOAQUÍN IPAR: Entonces empiezan a ejecutar los El es el Si hay Chang.
+
+1162
+02:20:03.750 --> 02:20:07.780
+JOAQUÍN IPAR: esto está lo está haciendo de a poco cada paso.
+
+1163
+02:20:08.080 --> 02:20:13.519
+JOAQUÍN IPAR: El danzas compila y ejecuta los test
+
+1164
+02:20:20.810 --> 02:20:22.230
+JOAQUÍN IPAR: Bueno, para atrás.
+
+1165
+02:20:25.680 --> 02:20:34.160
+JOAQUÍN IPAR: Bueno, esto me esquipea, pero esto lo hace, Lo va a ser después cuando yo marché
+
+1166
+02:20:34.590 --> 02:20:38.940
+JOAQUÍN IPAR: ahora, no tengo nadie que me lo me lo pruebe, Pero bueno, hago bypass. Y y hago más.
+
+1167
+02:20:40.260 --> 02:20:44.390
+JOAQUÍN IPAR: como vemos, tiene el convencional comido todavía, incluso en el
+
+1168
+02:20:44.720 --> 02:20:50.380
+JOAQUÍN IPAR: en esto. Por ejemplo, yo quiero ponerme a ser feets. Y algo así lo pongo a ver cómo se está así
+
+1169
+02:20:53.530 --> 02:20:56.989
+JOAQUÍN IPAR: algo de Quiche de Labrange. Y vuelvo a Main.
+
+1170
+02:21:01.540 --> 02:21:03.759
+JOAQUÍN IPAR: vamos a ponerte en paralelo al costado
+
+1171
+02:21:10.870 --> 02:21:14.190
+JOAQUÍN IPAR: y se van haciendo el todo el resto.
+
+1172
+02:21:25.330 --> 02:21:30.200
+JOAQUÍN IPAR: Están generando la imagen y publicando a Docker a Dockerhub
+
+1173
+02:21:54.300 --> 02:22:03.509
+JOAQUÍN IPAR: Mientras tanto, mientras que se va haciendo eso, yo puedo ver que ya automáticamente se abrió un pier para hacer el compa la la versión.
+
+1174
+02:22:04.800 --> 02:22:09.039
+JOAQUÍN IPAR: Así que eso funcionó como es una como era un Fitch nada más.
+
+1175
+02:22:09.330 --> 02:22:11.789
+JOAQUÍN IPAR: Como indica lo que puse acá,
+
+1176
+02:22:12.080 --> 02:22:18.390
+JOAQUÍN IPAR: se va a hacer un solamente un parche y va a ser una aumento de de versión menor.
+
+1177
+02:22:19.710 --> 02:22:22.399
+JOAQUÍN IPAR: Y bueno, ahí vemos la Ju. Ya justo terminó
+
+1178
+02:22:22.720 --> 02:22:27.899
+JOAQUÍN IPAR: de todo el Ciae. Me imagino porque ya puedo ver cómo se acaba de triguerear el diployd
+
+1179
+02:22:30.190 --> 02:22:36.830
+JOAQUÍN IPAR: y Instagram en este momento, deproyendo. Y cuando termines ya dirá a Diploy Dive.
+
+1180
+02:22:41.940 --> 02:22:44.970
+JOAQUÍN IPAR: Pero, bueno, vamos que se hizo todos los pasos correctamente.
+
+1181
+02:22:49.630 --> 02:22:59.190
+JOAQUÍN IPAR: Y tal vez podríamos probar si puedo hacer un un recuast para probar cuando termine.
+
+1182
+02:22:59.980 --> 02:23:01.500
+JOAQUÍN IPAR: Bueno, pues eso está.
+
+1183
+02:23:03.430 --> 02:23:11.439
+JOAQUÍN IPAR: Y puedo esperar correctamente. Y si quiero, por ejemplo, listar alumnos, yo me hice un par de scripts para poder pegarle despial
+
+1184
+02:23:12.100 --> 02:23:15.210
+JOAQUÍN IPAR: en render get alumnos.
+
+1185
+02:23:18.320 --> 02:23:19.689
+JOAQUÍN IPAR: y me entra de todos.
+
+1186
+02:23:21.960 --> 02:23:24.030
+JOAQUÍN IPAR: ¿qué más puedo mostrar? No.
+
+1187
+02:23:24.250 --> 02:23:28.420
+JOAQUÍN IPAR: como yo mostré todo el todo en tiempo real, una demo en tiempo real, como
+
+1188
+02:23:28.760 --> 02:23:32.279
+JOAQUÍN IPAR: cómo se ejecuta todo el pipeplan.
+
+1189
+02:23:33.040 --> 02:23:38.440
+JOAQUÍN IPAR: como se se crea el P. R para convencional comics.
+
+1190
+02:23:38.680 --> 02:23:43.059
+JOAQUÍN IPAR: de tal manera que yo no tengo que hacer más manualmente eso. Si respeto la comprensión de
+
+1191
+02:23:43.170 --> 02:23:45.369
+JOAQUÍN IPAR: que dice convenció Djokovic.
+
+1192
+02:23:46.350 --> 02:23:47.510
+JOAQUÍN IPAR: Y bueno.
+
+1193
+02:23:48.210 --> 02:23:56.300
+JOAQUÍN IPAR: bueno, este la demo la fui haciendo mientras que estábamos hablando. Así que nada, pues, Y me gustaría mostrar también el dato que me me olvidé
+
+1194
+02:23:57.350 --> 02:23:59.230
+JOAQUÍN IPAR: para ver un poco. Las métricas.
+
+1195
+02:24:12.080 --> 02:24:16.280
+JOAQUÍN IPAR: Bueno, ya podemos ver un poco. Los logs fueron.
+
+1196
+02:24:16.510 --> 02:24:25.060
+JOAQUÍN IPAR: Sigue gustándose, podemos filtrar sacar los postres tal vez y dejar solo la aplicación.
+
+1197
+02:24:27.210 --> 02:24:36.609
+JOAQUÍN IPAR: Y también esto sería parte de solamente logs, Pero tengo también acá abierta, la parte que podemos ver en el servicio en tiempo real
+
+1198
+02:24:37.070 --> 02:24:44.249
+JOAQUÍN IPAR: con todos los las cosas que se fueron ejecutando. Y algunos datos más de métrica. Por ejemplo, el uso de Cpu.
+
+1199
+02:24:44.750 --> 02:24:51.829
+JOAQUÍN IPAR: los contenedores y distintas cosas que pueden ser relevantes a la hora de
+
+1200
+02:24:52.060 --> 02:24:57.540
+JOAQUÍN IPAR: de tener un sistema de producción en estas trazas, etcétera.
+
+1201
+02:24:58.970 --> 02:25:06.230
+JOAQUÍN IPAR: Esto lo hice. Fue bastante simple. Solo tuve que instalar un ation y probar la
+
+1202
+02:25:06.350 --> 02:25:09.640
+JOAQUÍN IPAR: la la Ki que te que te ha dictador.
+
+1203
+02:25:09.750 --> 02:25:18.019
+JOAQUÍN IPAR: Así que fue bastante fácil. Una vez que que encontré la forma de configurarlo que un poco. Tuve que luchar, eso sí. Pero una vez que funcionó
+
+1204
+02:25:18.250 --> 02:25:26.839
+JOAQUÍN IPAR: anduvo sin problemas y sirve tal vez la una de las partes que más me costó configurar fue de
+
+1205
+02:25:26.940 --> 02:25:30.750
+JOAQUÍN IPAR: redise para ser el auto versionado
+
+1206
+02:25:31.120 --> 02:25:34.110
+JOAQUÍN IPAR: gastos. Si pueden ver, estuvo un poco probando
+
+1207
+02:25:34.670 --> 02:25:37.479
+JOAQUÍN IPAR: y con distintas cosas porque no me funcionaba.
+
+1208
+02:25:37.860 --> 02:25:41.290
+JOAQUÍN IPAR: pero eventualmente lo puedo hacer funcionar y y actualmente funciona.
+
+1209
+02:25:41.600 --> 02:25:59.159
+JOAQUÍN IPAR: Así que nada. Como conclusión, el Tp está todo configurado en ese revo para que cuando hagas un Gidpus, evidentemente no tengas que hacer casi nada más que nada que que merciarlo. Quien te lo aprueben y ya automáticamente se lo vas a tener en render funcionando.
+
+1210
+02:26:00.500 --> 02:26:03.910
+JOAQUÍN IPAR: Así que, bueno, si alguno tiene alguna duda, puedes plantar.
+
+1211
+02:26:04.570 --> 02:26:07.360
+Lucas Bonanni: Excelente, muy buena, muy buena, muy completa.
+
+1212
+02:26:08.160 --> 02:26:09.140
+JOAQUÍN IPAR: Muchas gracias.
+
+1213
+02:26:11.920 --> 02:26:14.679
+JOAQUÍN IPAR: Si quieren, dejo de compartirlo. Si alguien te me preguntas.
+
+1214
+02:26:20.120 --> 02:26:22.969
+Lucas Bonanni: No parece que no, Así que no hay problema.
+
+1215
+02:26:23.920 --> 02:26:25.080
+JOAQUÍN IPAR: Muchas gracias. Profe.
+
+1216
+02:26:25.920 --> 02:26:28.000
+Lucas Bonanni: A vos. Muchas gracias.
+
+1217
+02:26:30.440 --> 02:26:32.900
+Lucas Bonanni: Bien, ¿quién quiere seguir?
+
+1218
+02:27:08.080 --> 02:27:11.600
+Lucas Bonanni: Dylan: Moran ahí? ¿va a seguir.
+
+1219
+02:27:14.210 --> 02:27:15.500
+DYLAN NEHUEN AMARILLA: Volverás a escuchar.
+
+1220
+02:27:15.990 --> 02:27:16.800
+Lucas Bonanni: Cómo.
+
+1221
+02:27:16.800 --> 02:27:17.630
+DYLAN NEHUEN AMARILLA: Me escuchas ahí.
+
+1222
+02:27:17.990 --> 02:27:19.000
+Lucas Bonanni: Sí, sí se escucha.
+
+1223
+02:27:19.000 --> 02:27:20.870
+DYLAN NEHUEN AMARILLA: Luego yo, amarilla. Dylan.
+
+1224
+02:27:21.630 --> 02:27:22.370
+Lucas Bonanni: Dale.
+
+1225
+02:27:23.140 --> 02:27:25.420
+DYLAN NEHUEN AMARILLA: Como parte de bandas show.
+
+1226
+02:27:30.030 --> 02:27:32.620
+DYLAN NEHUEN AMARILLA: Dígame si sale ahí. Creo que sí.
+
+1227
+02:27:32.620 --> 02:27:33.919
+Lucas Bonanni: Gracias. Está bien.
+
+1228
+02:27:36.830 --> 02:27:45.549
+DYLAN NEHUEN AMARILLA: Bueno, el propósito de este proyecto que hice yo fue básicamente
+
+1229
+02:27:46.330 --> 02:27:49.920
+DYLAN NEHUEN AMARILLA: diseñar e implementar un ciclo de vida de software
+
+1230
+02:27:50.030 --> 02:27:53.649
+DYLAN NEHUEN AMARILLA: moderno, seguro y hacerlo completamente automatizado.
+
+1231
+02:27:54.410 --> 02:27:57.740
+DYLAN NEHUEN AMARILLA: A diferencia de mis compañeros, yo lo hice
+
+1232
+02:27:58.000 --> 02:28:03.260
+DYLAN NEHUEN AMARILLA: Simple Request, No sé si eso es un inconveniente ahora mismo. Pero, bueno, voy a ir explicando el
+
+1233
+02:28:03.450 --> 02:28:04.340
+DYLAN NEHUEN AMARILLA: cómo lo hizo.
+
+1234
+02:28:04.930 --> 02:28:06.719
+DYLAN NEHUEN AMARILLA: Bueno, para hacer el trabajo práctico.
+
+1235
+02:28:06.910 --> 02:28:11.929
+DYLAN NEHUEN AMARILLA: A ver. Yo me basé en básicamente estos objetivos.
+
+1236
+02:28:12.370 --> 02:28:19.899
+DYLAN NEHUEN AMARILLA: que son automatización absoluta, que fue eliminar por completo cualquier intervención manual desde el momento del código
+
+1237
+02:28:20.140 --> 02:28:27.359
+DYLAN NEHUEN AMARILLA: hasta que está corriendo la nube después la en mutabilidad de la infraestructura.
+
+1238
+02:28:27.890 --> 02:28:33.620
+DYLAN NEHUEN AMARILLA: que es adoptar el paradigma de no modificar servidores en caliente. Ante cualquier cambio.
+
+1239
+02:28:34.410 --> 02:28:40.889
+DYLAN NEHUEN AMARILLA: Esto hace que el contenedor viejo se destruye y se reemplaza por el nuevo
+
+1240
+02:28:42.250 --> 02:28:46.170
+DYLAN NEHUEN AMARILLA: después, la seguridad, que, bueno, básicamente todo con los
+
+1241
+02:28:46.830 --> 02:28:51.439
+DYLAN NEHUEN AMARILLA: con la gestión estricta de secretos de Itgap, la observabilidad
+
+1242
+02:28:52.060 --> 02:29:01.300
+DYLAN NEHUEN AMARILLA: proactiva, si podríamos llamarlo así, que simplemente un monitoreo en tiempo real de trazas concentry de latencias y excepciones
+
+1243
+02:29:01.800 --> 02:29:03.660
+DYLAN NEHUEN AMARILLA: directamente de producción.
+
+1244
+02:29:05.200 --> 02:29:16.770
+DYLAN NEHUEN AMARILLA: Bueno, toda esta estrategia, la estructuré sobre la filosofía de los 3 caminos que fue agilizar el flujo crear filos de feedback rápidos y fomentar una cultura de aprendizaje continuo
+
+1245
+02:29:17.300 --> 02:29:20.759
+DYLAN NEHUEN AMARILLA: a través de la experiencia que me dio el el trabajo
+
+1246
+02:29:21.840 --> 02:29:28.079
+DYLAN NEHUEN AMARILLA: bueno. Este es el Stack, que bueno, la mayoría hizo lo mismo por lo que vi hoy. Pensé que
+
+1247
+02:29:28.200 --> 02:29:32.210
+DYLAN NEHUEN AMARILLA: por lo visto, la semana pasada fui el único que hizo con Center, pero por suerte no
+
+1248
+02:29:33.560 --> 02:29:39.460
+DYLAN NEHUEN AMARILLA: para la construcción de la Api Rest, seleccioné fasapi sobre sobre Python
+
+1249
+02:29:39.740 --> 02:29:42.289
+DYLAN NEHUEN AMARILLA: fasapi y me probé un tipado
+
+1250
+02:29:42.700 --> 02:29:46.869
+DYLAN NEHUEN AMARILLA: estricto y una variación nativa a través de Pailantic.
+
+1251
+02:29:47.690 --> 02:29:57.079
+DYLAN NEHUEN AMARILLA: Esto actúa como nuestra primera línea de seguridad, o sea, de defensa, rechazando pelots incorrectos o maliciosos antes de que
+
+1252
+02:29:57.770 --> 02:30:01.870
+DYLAN NEHUEN AMARILLA: para que básicamente no consuman recursos de datos inválidos.
+
+1253
+02:30:02.460 --> 02:30:09.150
+DYLAN NEHUEN AMARILLA: Bueno, puedo Catering Adaction Docker, Hub render lo mismo y centry. Ahora voy a ir más a
+
+1254
+02:30:09.810 --> 02:30:12.359
+DYLAN NEHUEN AMARILLA: a profundizar a profundidad sobre eso.
+
+1255
+02:30:13.340 --> 02:30:22.640
+DYLAN NEHUEN AMARILLA: Bueno, desarrollo testing en esta fase, lo que yo apliqué es el concepto de shifleft testing, que es básicamente.
+
+1256
+02:30:23.300 --> 02:30:26.770
+DYLAN NEHUEN AMARILLA: si lo podemos resumir unas premisas, sería
+
+1257
+02:30:27.310 --> 02:30:31.460
+DYLAN NEHUEN AMARILLA: mover todas las pruebas a la izquierda del ciclo de vida de desarrollo.
+
+1258
+02:30:31.910 --> 02:30:45.089
+DYLAN NEHUEN AMARILLA: automaticé pruebas unitarias sobre Caen Point como están en la imagen para validar estructura de Jason, devuelto. Si algo falla, el silo se corta. Acá Y
+
+1259
+02:30:45.430 --> 02:30:53.300
+DYLAN NEHUEN AMARILLA: antes de construir cualquier imagen que pueda romper el el sistema, este
+
+1260
+02:30:53.520 --> 02:31:00.389
+DYLAN NEHUEN AMARILLA: también desarrollé un endpoint específico de Liness proo en la ruta de Held.
+
+1261
+02:31:01.150 --> 02:31:07.819
+DYLAN NEHUEN AMARILLA: Pienso que esta fue una visión indispensable, porque para la infraestructura de render
+
+1262
+02:31:08.010 --> 02:31:22.240
+DYLAN NEHUEN AMARILLA: porque de este modo necesita consultar este en Point de forma constante para verificar la salud de la aplicación. Si la A. P I deja de responder por algún bloqueo. La plataforma detecta la anomalía y reinicia el contenedor automáticamente
+
+1263
+02:31:24.200 --> 02:31:28.819
+DYLAN NEHUEN AMARILLA: bueno. Quiero hacer una aclaración que cuando lo hice antes a ver, voy a ir a
+
+1264
+02:31:29.910 --> 02:31:41.360
+DYLAN NEHUEN AMARILLA: acá que básicamente yo usé una implementación de flujo que busqué. Se llama tranc base developen
+
+1265
+02:31:41.680 --> 02:31:46.939
+DYLAN NEHUEN AMARILLA: que básicamente no hace que en el repertorio de Github no pida pool request.
+
+1266
+02:31:47.620 --> 02:31:57.699
+DYLAN NEHUEN AMARILLA: sino que básicamente sea todo automatizado. Yo la diferencia que encontré con los compañeros. Y no sé si Profe, eso está bien. Para el fin de para el final, digamos.
+
+1267
+02:31:58.050 --> 02:32:00.219
+DYLAN NEHUEN AMARILLA: te hago esa consulta Primero, antes que nada
+
+1268
+02:32:04.330 --> 02:32:05.250
+DYLAN NEHUEN AMARILLA: se escucha.
+
+1269
+02:32:06.190 --> 02:32:10.120
+Lucas Bonanni: Sí sí se escucha, pero no sé de de como lo configuraste decirme que.
+
+1270
+02:32:10.120 --> 02:32:13.100
+DYLAN NEHUEN AMARILLA: Bueno, perdón.
+
+1271
+02:32:18.150 --> 02:32:21.690
+DYLAN NEHUEN AMARILLA: básicamente se está viendo, ¿no? Esto sí.
+
+1272
+02:32:23.630 --> 02:32:24.540
+Lucas Bonanni: Sí, Sí.
+
+1273
+02:32:25.120 --> 02:32:31.510
+DYLAN NEHUEN AMARILLA: Bueno, y primero voy a terminar toda la introducción y ya después, básicamente vamos.
+
+1274
+02:32:31.510 --> 02:32:31.870
+Lucas Bonanni: En el.
+
+1275
+02:32:31.870 --> 02:32:32.360
+DYLAN NEHUEN AMARILLA: Sí.
+
+1276
+02:32:32.360 --> 02:32:33.480
+Lucas Bonanni: Sí, es mejor.
+
+1277
+02:32:34.500 --> 02:32:44.109
+DYLAN NEHUEN AMARILLA: Bueno, Bueno, una vez que terminamos validando el código con Gif Github, pasamos al empaquetado
+
+1278
+02:32:45.190 --> 02:32:49.090
+DYLAN NEHUEN AMARILLA: para asegurar que la aplicación se comporte exactamente igual. En cualquier entorno.
+
+1279
+02:32:49.220 --> 02:32:53.290
+DYLAN NEHUEN AMARILLA: utilicé Docker, pero aplicando técnica de jardín
+
+1280
+02:32:53.980 --> 02:32:59.220
+DYLAN NEHUEN AMARILLA: implementé en multi stage divida en 2 etapas: la primera etapa, el builder.
+
+1281
+02:32:59.340 --> 02:33:02.550
+DYLAN NEHUEN AMARILLA: utilicé una imagen base para instalar dependencias
+
+1282
+02:33:02.840 --> 02:33:06.559
+DYLAN NEHUEN AMARILLA: y compilar lo necesario, generando temporales y archivos de desarrollo.
+
+1283
+02:33:07.150 --> 02:33:12.629
+DYLAN NEHUEN AMARILLA: En la segunda etapa descarto por completo la etapa anterior y sólo copio
+
+1284
+02:33:12.890 --> 02:33:15.090
+DYLAN NEHUEN AMARILLA: los artefactos limpios y las dependencias
+
+1285
+02:33:15.690 --> 02:33:23.929
+DYLAN NEHUEN AMARILLA: estrictamente necesarias hacia una imagen final basada. Si no me equivoco en Python, Tres 11 Slim ahora me fijo.
+
+1286
+02:33:24.360 --> 02:33:33.009
+DYLAN NEHUEN AMARILLA: Bueno, ¿hasta qué logré con esto? Primero, reducir prácticamente el peso de la imagen optimizando el tiempo de despliegue
+
+1287
+02:33:33.150 --> 02:33:35.970
+DYLAN NEHUEN AMARILLA: y el consumo de red.
+
+1288
+02:33:37.160 --> 02:33:48.500
+DYLAN NEHUEN AMARILLA: Y, segundo, que es por lo que más me baso en esto, es eliminar el entorno de producción de, o sea, a nivel de seguridad. Eliminé el entorno de producción
+
+1289
+02:33:48.600 --> 02:33:51.360
+DYLAN NEHUEN AMARILLA: todas las herramientas de compilación de gestores de paquetes.
+
+1290
+02:33:51.840 --> 02:33:59.380
+DYLAN NEHUEN AMARILLA: Si alguien logra vulnerar la aplicación, en algún momento no dispondrá de herramientas nativas dentro del contenedor para
+
+1291
+02:33:59.860 --> 02:34:02.660
+DYLAN NEHUEN AMARILLA: compilar un malware o escalar privilegios
+
+1292
+02:34:03.360 --> 02:34:09.610
+DYLAN NEHUEN AMARILLA: completando con el tema del jardín, configuré un usuario interno llamado upp user
+
+1293
+02:34:10.080 --> 02:34:13.180
+DYLAN NEHUEN AMARILLA: y ejecuté la instrucción user App user
+
+1294
+02:34:13.510 --> 02:34:16.030
+DYLAN NEHUEN AMARILLA: para asegurar el entorno no roto
+
+1295
+02:34:17.250 --> 02:34:20.580
+DYLAN NEHUEN AMARILLA: por defecto Docker corre como root.
+
+1296
+02:34:21.170 --> 02:34:31.559
+DYLAN NEHUEN AMARILLA: Y si la A P. I sufre un esployd de ejecución remota de código el atacante heredaría privilegios
+
+1297
+02:34:32.030 --> 02:34:39.459
+DYLAN NEHUEN AMARILLA: de administrador sobre el Host. Entonces, según lo que yo busqué en Google, esto era una muy buena práctica para implementar en el trabajo práctico.
+
+1298
+02:34:40.840 --> 02:34:47.140
+DYLAN NEHUEN AMARILLA: Y bueno, primero voy a ir a acá
+
+1299
+02:34:47.330 --> 02:34:56.029
+DYLAN NEHUEN AMARILLA: qué otra justificación que tengo que hacer, Porque, bueno, vi que mis compañeros también usaron la Ba, La el versionado por Shao o semántico
+
+1300
+02:34:56.270 --> 02:35:05.750
+DYLAN NEHUEN AMARILLA: es que yo utilicé básicamente leftest no utilicé de
+
+1301
+02:35:06.080 --> 02:35:10.419
+DYLAN NEHUEN AMARILLA: identificadores inmutables como el Sha o el Barcelona, o semántico.
+
+1302
+02:35:10.730 --> 02:35:16.910
+DYLAN NEHUEN AMARILLA: Aunque soy consciente subconsciente que en entornos reales o empresariales se usa de esa manera.
+
+1303
+02:35:18.010 --> 02:35:25.950
+DYLAN NEHUEN AMARILLA: pero esta o sea, yo lo vi, no lo vi necesario, a pesar de que, bueno, ahora después ver todos los compañeros, vi que todos lo hicieron.
+
+1304
+02:35:26.130 --> 02:35:29.169
+DYLAN NEHUEN AMARILLA: Así que supongo que para el final voy a tener que hacer también.
+
+1305
+02:35:29.690 --> 02:35:30.460
+DYLAN NEHUEN AMARILLA: Sí.
+
+1306
+02:35:30.460 --> 02:35:32.579
+Lucas Bonanni: Porque te pedía. Yo lo dije en clase.
+
+1307
+02:35:33.010 --> 02:35:38.880
+DYLAN NEHUEN AMARILLA: Sí, Sí. ¿y qué disculpa ¿En qué clase le había dicho eso? Porque yo hubo 2 o 3 que no pude.
+
+1308
+02:35:38.880 --> 02:35:41.790
+Lucas Bonanni: Varias en varias, porque varias veces preguntaron.
+
+1309
+02:35:42.100 --> 02:35:51.970
+DYLAN NEHUEN AMARILLA: okay. Bueno, me faltó eso. Entonces he bueno, con el contenedor
+
+1310
+02:35:52.320 --> 02:35:56.129
+DYLAN NEHUEN AMARILLA: diseñado automaticé, la cadena de suministro de software
+
+1311
+02:35:56.260 --> 02:36:04.169
+DYLAN NEHUEN AMARILLA: uniendo Github Actions Dogger, Hub y render en un flujo continuo y transparente.
+
+1312
+02:36:05.290 --> 02:36:13.730
+DYLAN NEHUEN AMARILLA: Este el pipeline deci se dispara ante cada push el runner levanta el entorno y
+
+1313
+02:36:13.850 --> 02:36:16.459
+DYLAN NEHUEN AMARILLA: instala la dependencia. Se ejecuta el papers.
+
+1314
+02:36:16.950 --> 02:36:21.850
+DYLAN NEHUEN AMARILLA: Si un solo test falla, básicamente acá. Tiene un error de exit code, 1
+
+1315
+02:36:21.950 --> 02:36:26.589
+DYLAN NEHUEN AMARILLA: que bloquea la construcción de la imagen y prohíbe el pase a producción.
+
+1316
+02:36:27.220 --> 02:36:32.340
+DYLAN NEHUEN AMARILLA: Para proteger la infraestructura. La gestión de secretos se maneja
+
+1317
+02:36:32.720 --> 02:36:41.969
+DYLAN NEHUEN AMARILLA: de forma estricta Las credenciales de acceso a Bucker, Hub y Tokens de Centry están inyectados exclusivamente mediante
+
+1318
+02:36:42.260 --> 02:36:45.669
+DYLAN NEHUEN AMARILLA: y secrets como variable entorno en el Runner.
+
+1319
+02:36:47.240 --> 02:36:50.080
+DYLAN NEHUEN AMARILLA: Si el 6
+
+1320
+02:36:50.190 --> 02:36:59.279
+DYLAN NEHUEN AMARILLA: pasa con éxito, el Pibeland rechaza al build perdón si el C. I pasa con éxito, el Pipeland realiza el build. Y
+
+1321
+02:36:59.840 --> 02:37:04.959
+DYLAN NEHUEN AMARILLA: Y pues ya la imagen segura hacia el Dock Hub al completarse.
+
+1322
+02:37:05.330 --> 02:37:12.789
+DYLAN NEHUEN AMARILLA: render es notificado y extrae la nueva imagen ejecutando un deployd 0, Downtome?
+
+1323
+02:37:13.810 --> 02:37:23.610
+DYLAN NEHUEN AMARILLA: Bueno y bueno, Render mantiene activo el contenedor viejo, respondiendo peticiones mientras levanta la nueva versión
+
+1324
+02:37:23.890 --> 02:37:33.940
+DYLAN NEHUEN AMARILLA: en paralelo solo cuando el nuevo contenedor pasa exitosamente el liviles proop que habíamos hecho en la ruta del Helt.
+
+1325
+02:37:34.280 --> 02:37:38.659
+DYLAN NEHUEN AMARILLA: Se redirige el tráfico de red y se apaga el contenedor anterior.
+
+1326
+02:37:41.380 --> 02:37:45.270
+DYLAN NEHUEN AMARILLA: Bueno, ya pasando la parte de monitoreo.
+
+1327
+02:37:45.840 --> 02:37:54.610
+DYLAN NEHUEN AMARILLA: como dije, yo usaba el Centry y porque vi que, o sea.
+
+1328
+02:37:55.300 --> 02:37:59.539
+DYLAN NEHUEN AMARILLA: había investigado en su momento y me pareció, bueno por el tema de
+
+1329
+02:37:59.800 --> 02:38:04.410
+DYLAN NEHUEN AMARILLA: de las trazas que tiene el Dashboard, que tiene y bueno en las clases Habían dicho que todos
+
+1330
+02:38:04.640 --> 02:38:06.759
+DYLAN NEHUEN AMARILLA: conocía al New Rall X, Y yo quería
+
+1331
+02:38:07.400 --> 02:38:18.120
+DYLAN NEHUEN AMARILLA: diferenciarme en ese sentido en algo. Y al final me decidí por sentir. Bueno, cuando el software ya está en producción. Tradicionalmente dependemos de la lectura de
+
+1332
+02:38:18.780 --> 02:38:22.849
+DYLAN NEHUEN AMARILLA: pasiva de locks detesto plano
+
+1333
+02:38:23.570 --> 02:38:31.210
+DYLAN NEHUEN AMARILLA: cuando salga algo sale mal para romper ese paradigma e implementar el segundo camino de Ox
+
+1334
+02:38:31.900 --> 02:38:37.650
+DYLAN NEHUEN AMARILLA: que sería el fibab rápido son. He fue que enteré Centry
+
+1335
+02:38:38.110 --> 02:38:42.530
+DYLAN NEHUEN AMARILLA: como plataforma de a P. M y y rastreo proactivo.
+
+1336
+02:38:44.040 --> 02:38:51.419
+DYLAN NEHUEN AMARILLA: Bueno, es porque elegí también porque senti no espera que a un administrador lea un archivo de lox.
+
+1337
+02:38:52.030 --> 02:39:01.570
+DYLAN NEHUEN AMARILLA: sino que captura excepciones, traza de rendimiento y métrica de latencia en tiempo real de forma proactiva y el
+
+1338
+02:39:02.710 --> 02:39:13.939
+DYLAN NEHUEN AMARILLA: Bueno, para comprobar estrictamente resiliencia y efectividad de este monitoreo. Desarrollé un End Point.
+
+1339
+02:39:14.060 --> 02:39:26.250
+DYLAN NEHUEN AMARILLA: acá está No. Bueno, a ver el End Point division 0
+
+1340
+02:39:26.860 --> 02:39:30.700
+DYLAN NEHUEN AMARILLA: que, bueno, lo que básicamente hace es que haga un error en la
+
+1341
+02:39:30.870 --> 02:39:41.820
+DYLAN NEHUEN AMARILLA: en la App y para que fuerce la excepción crítica del error de división. Por 0 que sigamos a
+
+1342
+02:39:43.600 --> 02:39:45.340
+DYLAN NEHUEN AMARILLA: Ah, tengo Carnice justo al rato.
+
+1343
+02:39:46.510 --> 02:39:48.099
+DYLAN NEHUEN AMARILLA: Bueno, vamos a esperar a eso.
+
+1344
+02:39:56.170 --> 02:40:03.299
+DYLAN NEHUEN AMARILLA: Bueno, mientras haces eso, voy a explicar los problemas que tuve yo hasta tu trabajo práctico porque
+
+1345
+02:40:03.470 --> 02:40:09.350
+DYLAN NEHUEN AMARILLA: es mi primera vez que hago un trabajo así y capaz que tuve problemas de joven inexperto.
+
+1346
+02:40:09.450 --> 02:40:17.569
+DYLAN NEHUEN AMARILLA: Y bueno, como ven, acá por ejemplo, el fallo del pights de execode fue porque había actualizado
+
+1347
+02:40:18.480 --> 02:40:24.849
+DYLAN NEHUEN AMARILLA: un mensaje de la A, P I y no lo había cambiado en el test, para que
+
+1348
+02:40:25.480 --> 02:40:29.230
+DYLAN NEHUEN AMARILLA: básicamente no me tiré ningún error cuando yo pusiera el código y me tiraba a eso.
+
+1349
+02:40:29.460 --> 02:40:33.349
+DYLAN NEHUEN AMARILLA: Y ahí el aprendizaje fue que que el
+
+1350
+02:40:34.170 --> 02:40:42.909
+DYLAN NEHUEN AMARILLA: el S I funcionaba bien, porque si había una discrepancia entre el test y el mensaje de la a P I. Básicamente me loqueaba y no me dejaba ir a producción
+
+1351
+02:40:43.360 --> 02:40:51.470
+DYLAN NEHUEN AMARILLA: después el error. 401 de Dockerhab. Este fue más zonzo. Si se puede decir, y
+
+1352
+02:40:51.750 --> 02:40:59.210
+DYLAN NEHUEN AMARILLA: era porque en los secrets, yo Puse una d mayúscula en y de ahí user y
+
+1353
+02:40:59.600 --> 02:41:05.030
+DYLAN NEHUEN AMARILLA: docker estrictamente, pide que sea todo minúscula. Y entonces no me dejaba
+
+1354
+02:41:06.010 --> 02:41:11.230
+DYLAN NEHUEN AMARILLA: pásame al error. 400 Uno después, el Locker Fire Enti.
+
+1355
+02:41:11.730 --> 02:41:19.980
+DYLAN NEHUEN AMARILLA: que fue porque no guardé el código que tenía en Visual Studio Code y puse así 1 más. Y Y no me daba.
+
+1356
+02:41:20.340 --> 02:41:25.839
+DYLAN NEHUEN AMARILLA: Y bueno. Y como no guardo el Docker, fidenti el docker que había hecho, me lo daba como vacío. Y
+
+1357
+02:41:26.320 --> 02:41:34.970
+DYLAN NEHUEN AMARILLA: Y ahí caí en la en lo que se dice mucho en el mundo de Offs, que la fuente de verdad es el repositorio remoto y no la computadora o máquina local.
+
+1358
+02:41:35.610 --> 02:41:39.549
+DYLAN NEHUEN AMARILLA: Y el más importante que fue el que más tiempo me llevó
+
+1359
+02:41:40.290 --> 02:41:44.070
+DYLAN NEHUEN AMARILLA: es el estatus 128 que me creyó el render
+
+1360
+02:41:45.530 --> 02:41:52.740
+DYLAN NEHUEN AMARILLA: que esto pasaba, porque al ser un entorno no Root no encontraba el comando ubicor
+
+1361
+02:41:53.050 --> 02:42:04.050
+DYLAN NEHUEN AMARILLA: entonces después, no sé cuánto tiempo fue y lo arreglé cambiando el arranque a Python con el comando desde acá Python M Ubicome
+
+1362
+02:42:04.180 --> 02:42:09.610
+DYLAN NEHUEN AMARILLA: y eso básicamente hace que antes de la imagen ya
+
+1363
+02:42:09.780 --> 02:42:14.090
+DYLAN NEHUEN AMARILLA: inicia con eso. Entonces eso me solucionó el problema de
+
+1364
+02:42:15.440 --> 02:42:19.999
+DYLAN NEHUEN AMARILLA: el problema de del 128 de render
+
+1365
+02:42:20.490 --> 02:42:25.719
+DYLAN NEHUEN AMARILLA: después a cada paso es tan el el D. Cnn Centry, que
+
+1366
+02:42:26.440 --> 02:42:32.369
+DYLAN NEHUEN AMARILLA: me acuerdo que un compañero también lo había hecho en Giz Hub, Pero no le funcionaba el Dashboard.
+
+1367
+02:42:37.780 --> 02:42:44.490
+DYLAN NEHUEN AMARILLA: Bueno, voy a pasar por la parte de céntrica a ver si acá está.
+
+1368
+02:42:49.400 --> 02:42:53.600
+DYLAN NEHUEN AMARILLA: Sí es pompecente el monitoreo.
+
+1369
+02:42:57.290 --> 02:42:59.950
+DYLAN NEHUEN AMARILLA: Bueno, una vez que se forzó el error de
+
+1370
+02:43:00.590 --> 02:43:09.350
+DYLAN NEHUEN AMARILLA: de la dirección por 0 en el isus de cine centry metría la notificación. Y si nosotros entramos al error.
+
+1371
+02:43:09.970 --> 02:43:11.389
+DYLAN NEHUEN AMARILLA: nos tira todo el
+
+1372
+02:43:11.830 --> 02:43:18.940
+DYLAN NEHUEN AMARILLA: todo lo por la data posible de de lo que pasó. Lo que yo quiero destacar es el stack, El stack trade que acá básicamente nos tira
+
+1373
+02:43:19.310 --> 02:43:26.760
+DYLAN NEHUEN AMARILLA: en qué archivo y en qué linea fue que pasó el error. Eso es bueno porque reduce el tiempo del Mttr.
+
+1374
+02:43:27.250 --> 02:43:28.180
+DYLAN NEHUEN AMARILLA: Después
+
+1375
+02:43:28.890 --> 02:43:37.070
+DYLAN NEHUEN AMARILLA: tenemos los Tacs y los contexts que acá básicamente, por ejemplo, tenemos el run time que está en C. Python. Tres 11 15,
+
+1376
+02:43:37.700 --> 02:43:47.590
+DYLAN NEHUEN AMARILLA: el environment que está en producción groucho. Nos dice el usuario, en qué navegador estaba
+
+1377
+02:43:47.970 --> 02:43:51.780
+DYLAN NEHUEN AMARILLA: usando el la A, P I ¿En qué sistema?
+
+1378
+02:43:52.410 --> 02:43:57.049
+DYLAN NEHUEN AMARILLA: Y bueno, nos dan un montón de datos después, pasando el tema de las trazas.
+
+1379
+02:43:59.470 --> 02:44:03.269
+DYLAN NEHUEN AMARILLA: Podemos ver todos los spams que no, que no sea de la
+
+1380
+02:44:05.360 --> 02:44:11.130
+DYLAN NEHUEN AMARILLA: de todos los spams, y podemos ir, por ejemplo, gente de bajar
+
+1381
+02:44:12.080 --> 02:44:18.480
+DYLAN NEHUEN AMARILLA: y nos toma cuánto tiempo tardo en general en el
+
+1382
+02:44:19.710 --> 02:44:26.740
+DYLAN NEHUEN AMARILLA: en la en detectar el error, básicamente, y cuánto tiempo tarda el mailware en
+
+1383
+02:44:26.950 --> 02:44:31.910
+DYLAN NEHUEN AMARILLA: en enviar lo que sería 0 34 ms, pues
+
+1384
+02:44:32.280 --> 02:44:39.939
+DYLAN NEHUEN AMARILLA: tengo el dashboard también, que lo hice a medida de clase, porque no sabía que se podía hacer. Y lo vi gracias al primer compañero que
+
+1385
+02:44:40.100 --> 02:44:46.110
+DYLAN NEHUEN AMARILLA: que expuso que, bueno, básico pero bueno, funcional.
+
+1386
+02:44:46.650 --> 02:44:53.330
+DYLAN NEHUEN AMARILLA: Y después este ajá.
+
+1387
+02:44:56.420 --> 02:45:00.490
+DYLAN NEHUEN AMARILLA: Bueno, como les decía, yo no utilicé Gith Flow
+
+1388
+02:45:01.930 --> 02:45:09.160
+DYLAN NEHUEN AMARILLA: porque no lo vi necesario en su momento, y
+
+1389
+02:45:10.570 --> 02:45:13.730
+DYLAN NEHUEN AMARILLA: nada. Lo hice de forma automática en un
+
+1390
+02:45:14.280 --> 02:45:20.340
+DYLAN NEHUEN AMARILLA: empleando un C. D, pero un deployment que básicamente no hay intervención humana.
+
+1391
+02:45:21.880 --> 02:45:24.800
+DYLAN NEHUEN AMARILLA: Nuestro profe que quiere ver qué quiere que le muestre Acá
+
+1392
+02:45:25.340 --> 02:45:29.020
+DYLAN NEHUEN AMARILLA: Yo me diga que hacemos las acciones con los errores que tuve.
+
+1393
+02:45:35.210 --> 02:45:38.989
+Lucas Bonanni: No, no está bien. Está Está completo con eso. Así que.
+
+1394
+02:45:42.180 --> 02:45:48.700
+DYLAN NEHUEN AMARILLA: Bueno, si quieres unas preguntas. Así que ¿qué capaz?
+
+1395
+02:45:49.550 --> 02:45:51.949
+DYLAN NEHUEN AMARILLA: Bueno, puedo decir, porque usé,
+
+1396
+02:45:52.190 --> 02:45:57.840
+DYLAN NEHUEN AMARILLA: por ejemplo, el Python Slim y no el alpine, la versión, porque veo que muchos usaron alpine
+
+1397
+02:45:58.260 --> 02:46:04.499
+DYLAN NEHUEN AMARILLA: y era porque co cuando investigué Ipine usa una librería
+
+1398
+02:46:04.770 --> 02:46:11.339
+DYLAN NEHUEN AMARILLA: llamada M. U. S. L, creo, y que a veces trae problemas de compatibilidad con Python. Y
+
+1399
+02:46:11.920 --> 02:46:18.299
+DYLAN NEHUEN AMARILLA: Y entonces usted es link que usa L y B C de Debian. Y es una
+
+1400
+02:46:19.980 --> 02:46:23.570
+DYLAN NEHUEN AMARILLA: una muy liviana, pero estable.
+
+1401
+02:46:25.240 --> 02:46:31.140
+DYLAN NEHUEN AMARILLA: Es más liviana y estable, por lo que yo había buscado en su momento después.
+
+1402
+02:46:33.190 --> 02:46:36.830
+DYLAN NEHUEN AMARILLA: Bueno, ya expliqué porque usé, no se y no.
+
+1403
+02:46:37.430 --> 02:46:40.680
+DYLAN NEHUEN AMARILLA: Y ya también expliqué lo de Backer. Hub.
+
+1404
+02:46:40.900 --> 02:46:43.639
+DYLAN NEHUEN AMARILLA: Así que no sé profe. Si quiere que le responda algo.
+
+1405
+02:46:45.910 --> 02:46:49.300
+Lucas Bonanni: No está bien completo.
+
+1406
+02:46:49.640 --> 02:46:50.679
+DYLAN NEHUEN AMARILLA: Cuenta. Muchas gracias.
+
+1407
+02:46:51.660 --> 02:46:52.530
+Lucas Bonanni: La voz.
+
+1408
+02:46:55.940 --> 02:46:57.210
+MORA OTEGUI: Me.
+
+1409
+02:46:57.720 --> 02:46:58.889
+Lucas Bonanni: Sí se escucha.
+
+1410
+02:46:59.170 --> 02:47:03.070
+MORA OTEGUI: Okay. Perfecto. Bueno, creo que falta solo. Yo. Así que comparto.
+
+1411
+02:47:03.390 --> 02:47:04.290
+Lucas Bonanni: Dale.
+
+1412
+02:47:10.220 --> 02:47:18.210
+MORA OTEGUI: Ópera gusta la ropa peor.
+
+1413
+02:47:23.410 --> 02:47:35.669
+MORA OTEGUI: Bueno, yo, como, bueno, como nombró también 1 de mis compañeros anteriores, yo también desarrollé una a P i de libros, en mi caso en en Python.
+
+1414
+02:47:35.860 --> 02:47:40.879
+MORA OTEGUI: Y bueno, y voy a mostrar todo el pipeline de bots que que construí alrededor.
+
+1415
+02:47:43.910 --> 02:47:59.800
+MORA OTEGUI: Bueno, el proyecto consiste en, bueno, una Api que gestiona un un catálogo de libros que permite listar todos los los libros disponibles, buscar buscarlos por por su I D
+
+1416
+02:47:59.950 --> 02:48:02.189
+MORA OTEGUI: y y bueno, y poder crear
+
+1417
+02:48:02.330 --> 02:48:04.920
+MORA OTEGUI: nuevos libros y agregarlos al al catálogo.
+
+1418
+02:48:05.900 --> 02:48:18.019
+MORA OTEGUI: Y bueno, y el objetivo principal fue aplicar prácticas de bots en un entorno completo como la containerización, el C. C. D automatizado con
+
+1419
+02:48:18.310 --> 02:48:22.739
+MORA OTEGUI: con gilgabactions las pruebas unitarias y
+
+1420
+02:48:23.360 --> 02:48:26.370
+MORA OTEGUI: y el monitoreo en en producción.
+
+1421
+02:48:26.840 --> 02:48:40.720
+MORA OTEGUI: Bueno, y el en el diagrama, ese que que se ve el cliente, le Manda recuesta a la a P I que la A P I corre dentro de de un contenedor docker.
+
+1422
+02:48:40.930 --> 02:48:47.859
+MORA OTEGUI: Y esa imagen se publica automáticamente en Lockerhouse cada vez que se marchea el el código.
+
+1423
+02:48:48.080 --> 02:48:54.219
+MORA OTEGUI: Y bueno, y New Relly, que están monitoreando todo el tráfico en en tiempo real.
+
+1424
+02:48:56.310 --> 02:49:00.549
+MORA OTEGUI: Bueno, un poco de de la arquitectura de del proyecto.
+
+1425
+02:49:00.750 --> 02:49:09.459
+MORA OTEGUI: Cada carpeta tiene una sola responsabilidad. Está la carpeta con el código principal, el main pie.
+
+1426
+02:49:09.740 --> 02:49:17.200
+MORA OTEGUI: Están los la carpeta de test con los test unitarios que hice 4 test en.
+
+1427
+02:49:17.460 --> 02:49:23.590
+MORA OTEGUI: Bueno, el Warflow, que que define el pipeline de si hay y el de C. D,
+
+1428
+02:49:23.900 --> 02:49:29.079
+MORA OTEGUI: Y bueno, después está el dockerfile con la definición de la imagen, el Docker. Compost.
+
+1429
+02:49:29.330 --> 02:49:34.059
+MORA OTEGUI: Bueno, el archivo de New R. L. X, y los requerimientos.
+
+1430
+02:49:35.310 --> 02:49:42.410
+MORA OTEGUI: Bueno, y y en este diagrama ¡ay, en este diagrama de acá en
+
+1431
+02:49:42.850 --> 02:49:55.310
+MORA OTEGUI: también se explica un poco el flujo de de la capas que del flujo de capas que que tiene el sistema. Entonces, bueno como nombre antes. La primera capa es el cliente
+
+1432
+02:49:55.590 --> 02:50:03.240
+MORA OTEGUI: en que N no sabe ni ni le importa donde se está como corriendo la A. P. I
+
+1433
+02:50:03.370 --> 02:50:05.850
+MORA OTEGUI: que el cliente, Bueno, puede ser
+
+1434
+02:50:05.950 --> 02:50:16.070
+MORA OTEGUI: cualquier cosa. Y me manda un una Request: H T, T, P, Entonces, como dice ahí, puede ser curl desde la terminal postman o o cualquier otra
+
+1435
+02:50:16.220 --> 02:50:17.470
+MORA OTEGUI: otra aplicación.
+
+1436
+02:50:17.620 --> 02:50:27.059
+MORA OTEGUI: Entonces la sede, la otra capa es la a P. I, que que utilicé Fast Api, que bueno en este caso es es mi código Mail.
+
+1437
+02:50:27.370 --> 02:50:31.489
+MORA OTEGUI: Bueno, después está Docker
+
+1438
+02:50:31.670 --> 02:50:43.829
+MORA OTEGUI: y y Habactions con C. C. D, que bueno, y cada vez que que se me argea el código, automáticamente las javactions buildean la
+
+1439
+02:50:44.030 --> 02:50:48.089
+MORA OTEGUI: la imagen Docker y y bueno, y la publican en en Dockerhaw.
+
+1440
+02:50:48.250 --> 02:50:52.350
+MORA OTEGUI: Y bueno, y la última capa es en New Rellyck.
+
+1441
+02:50:52.490 --> 02:50:56.240
+MORA OTEGUI: que monitorea en en tiempo real, todo lo que pasa
+
+1442
+02:50:56.390 --> 02:51:06.190
+MORA OTEGUI: dentro de la A. P I, en cuestión de cuánto tarda en responder la cantidad de reques que recibe, si hay errores, etcétera.
+
+1443
+02:51:07.280 --> 02:51:13.110
+MORA OTEGUI: Bueno, en mi caso, la A P I es la
+
+1444
+02:51:13.300 --> 02:51:15.840
+MORA OTEGUI: la hice con fast app y con
+
+1445
+02:51:16.810 --> 02:51:23.710
+MORA OTEGUI: con Python y y elegí 5 5 Endpoints en
+
+1446
+02:51:24.070 --> 02:51:29.999
+MORA OTEGUI: que, bueno, el K. E. T es la raíz, el Get Health.
+
+1447
+02:51:30.470 --> 02:51:37.460
+MORA OTEGUI: Lo que hace es el es el el Hell F. Check.
+
+1448
+02:51:37.640 --> 02:51:39.239
+MORA OTEGUI: El contenedor
+
+1449
+02:51:39.600 --> 02:51:50.160
+MORA OTEGUI: le manda una request a este endpoint cada cada 30 s y bueno. Y si responde 200, es que el el contenedor está
+
+1450
+02:51:50.720 --> 02:51:53.300
+MORA OTEGUI: justamente Hellsy.
+
+1451
+02:51:53.710 --> 02:51:56.650
+MORA OTEGUI: Y después está el el get de libros
+
+1452
+02:51:56.780 --> 02:52:00.569
+MORA OTEGUI: que bueno, devuelve el catálogo completo mediante Id
+
+1453
+02:52:00.720 --> 02:52:05.899
+MORA OTEGUI: Y bueno, el post que es para crear un nuevo un nuevo libro.
+
+1454
+02:52:06.500 --> 02:52:17.440
+MORA OTEGUI: Y bueno, y decidí elegir Fast Api, porque es es el Framework de de Python, que vi que más simple y más rápido para para arrancar una Api.
+
+1455
+02:52:17.660 --> 02:52:28.249
+MORA OTEGUI: Y bueno y genera documentación automáticamente en el Aindpoint Slash stocks sin necesidad de
+
+1456
+02:52:28.550 --> 02:52:32.579
+MORA OTEGUI: de tener que configurar nada nada de manera extra.
+
+1457
+02:52:33.880 --> 02:52:39.030
+MORA OTEGUI: Bueno, en cuanto a los tests implementé 4
+
+1458
+02:52:39.160 --> 02:52:46.340
+MORA OTEGUI: que bueno que son estos en el test root que que verifica que que Lendpoint de de raíz
+
+1459
+02:52:46.540 --> 02:52:55.630
+MORA OTEGUI: responda 200 Okay y bueno, el del Health. También que verifica que que responda a 200
+
+1460
+02:52:55.890 --> 02:53:05.040
+MORA OTEGUI: el test get libros llama 10 libros y y verifica que que el total devuelto. Bueno, en ese caso serían 3
+
+1461
+02:53:05.270 --> 02:53:08.770
+MORA OTEGUI: que era bueno la cantidad total que tenía de libros.
+
+1462
+02:53:09.730 --> 02:53:15.869
+MORA OTEGUI: Y desde el libro, en el caso de que pida el el libro
+
+1463
+02:53:16.160 --> 02:53:24.240
+MORA OTEGUI: con I D Uno: Bueno, devuelve 200 Okay y te devuelve el el título de con esa idi en
+
+1464
+02:53:25.260 --> 02:53:34.090
+MORA OTEGUI: Y Y esto, bueno, y el este es el resultado en la terminal que que me dio de
+
+1465
+02:53:34.530 --> 02:53:36.100
+MORA OTEGUI: de los 4 tests.
+
+1466
+02:53:36.370 --> 02:53:43.679
+MORA OTEGUI: Y, y, claro, se ejecutan automáticamente Los
+
+1467
+02:53:44.310 --> 02:53:48.350
+MORA OTEGUI: Los test en Gid Javaques son cada vez que se hace un push
+
+1468
+02:53:48.620 --> 02:53:56.330
+MORA OTEGUI: o abro, un pull Request a Main. Entonces, si alguno llega a fallar, el Bill se detiene inmediatamente.
+
+1469
+02:53:56.610 --> 02:54:01.189
+MORA OTEGUI: Y bueno, y no se puede hacer el el el march del del código.
+
+1470
+02:54:01.320 --> 02:54:09.699
+MORA OTEGUI: Entonces esto es, se implementa el el principio que habíamos visto de failfast
+
+1471
+02:54:10.110 --> 02:54:13.399
+MORA OTEGUI: en donde bueno, los test corren en
+
+1472
+02:54:13.820 --> 02:54:16.530
+MORA OTEGUI: en sí hay detienen el Bild antes.
+
+1473
+02:54:16.670 --> 02:54:22.370
+MORA OTEGUI: ¿qué de cualquier otro error ante cualquier error, Digo.
+
+1474
+02:54:22.790 --> 02:54:28.379
+MORA OTEGUI: antes de de producción, Entonces, antes de que puedan llegar a afectar a a los usuarios.
+
+1475
+02:54:29.570 --> 02:54:45.070
+MORA OTEGUI: Bueno, en cuanto a Docker, usé multistage build, Entonces, bueno, usé las 2 etapas builder y y rentue en
+
+1476
+02:54:46.360 --> 02:54:55.559
+MORA OTEGUI: y y eso, y no mucho más. Decidí usar esto porque era mucho más como ligero y
+
+1477
+02:54:57.340 --> 02:55:05.010
+MORA OTEGUI: y y nada y tenía un tamaño reducido que a mí también me pasó lo mismo que que al compañero que, bueno, igual después lo
+
+1478
+02:55:05.370 --> 02:55:16.069
+MORA OTEGUI: lo voy a lo voy a ver, pero lo de solo poner un el tag delates, entonces se sobrescribe solamente sobre la última imagen. Y
+
+1479
+02:55:16.170 --> 02:55:19.439
+MORA OTEGUI: y bueno, y las anteriores me quedan, me quedan colgadas.
+
+1480
+02:55:21.440 --> 02:55:24.620
+MORA OTEGUI: Bueno, en cuanto a la integración continua.
+
+1481
+02:55:25.150 --> 02:55:31.910
+MORA OTEGUI: yo configuré 2 workflos distintos que bueno, que viven en la misma carpeta.
+
+1482
+02:55:32.010 --> 02:55:46.029
+MORA OTEGUI: Entonces se pare a integración continua de entrega continua y bueno, integración continua. Se se dispara cada vez que hay un Push a Maine, un pool recust al mail
+
+1483
+02:55:46.580 --> 02:55:47.650
+MORA OTEGUI: y
+
+1484
+02:55:48.380 --> 02:55:53.769
+MORA OTEGUI: la entrega continua se dispara solamente si se hace un push a mail o cuando se hace un merge
+
+1485
+02:55:54.200 --> 02:55:58.819
+MORA OTEGUI: o cuando se se marcha un un pur Request
+
+1486
+02:55:59.060 --> 02:56:02.699
+MORA OTEGUI: que que ya pasó, la la integración continua.
+
+1487
+02:56:05.170 --> 02:56:08.750
+MORA OTEGUI: bueno, y Estos son los Re. ¡ay! Estos son los resultados que
+
+1488
+02:56:08.910 --> 02:56:10.830
+MORA OTEGUI: pero bueno, igual ahora voy a ver.
+
+1489
+02:56:11.150 --> 02:56:17.170
+MORA OTEGUI: Voy a ver un poco más en detalle. Pero bueno, en en Docker hab.
+
+1490
+02:56:17.500 --> 02:56:24.080
+MORA OTEGUI: Estas son las el historial de de imágenes que que fueron publicadas en
+
+1491
+02:56:24.710 --> 02:56:31.100
+MORA OTEGUI: Y bueno, era lo que decía que solamente tengo el tag de deleites que que, bueno, lógicamente es la
+
+1492
+02:56:31.300 --> 02:56:32.899
+MORA OTEGUI: es la más reciente.
+
+1493
+02:56:33.160 --> 02:56:35.850
+MORA OTEGUI: Y bueno, y acá en Gid Abactions
+
+1494
+02:56:36.240 --> 02:56:40.889
+MORA OTEGUI: Fue un Es una foto de de un momento en el que bueno, solo había
+
+1495
+02:56:41.590 --> 02:56:48.610
+MORA OTEGUI: ha habían 2, 4 Rands. Y y Bueno, y todos con su tilde
+
+1496
+02:56:48.780 --> 02:56:52.170
+MORA OTEGUI: de que de que fueron successful.
+
+1497
+02:56:52.940 --> 02:56:56.440
+MORA OTEGUI: Bueno, y un poco del monitoreo con con New Relly.
+
+1498
+02:56:56.700 --> 02:57:04.660
+MORA OTEGUI: Que Bueno, usé New Reddick porque se me hizo como muy fácil de
+
+1499
+02:57:05.800 --> 02:57:13.410
+MORA OTEGUI: de integrarlo. O sea, con solo estas estas 2 líneas ya ya se me conectó y
+
+1500
+02:57:13.860 --> 02:57:18.680
+MORA OTEGUI: y y ya se inició con con el archivo.
+
+1501
+02:57:19.270 --> 02:57:23.199
+MORA OTEGUI: Entonces nada me resultó muy útil encima porque.
+
+1502
+02:57:23.660 --> 02:57:25.940
+MORA OTEGUI: o sea, era es una versión
+
+1503
+02:57:26.040 --> 02:57:29.399
+MORA OTEGUI: con un plan gratuito. Entonces, bueno, me pareció lo más
+
+1504
+02:57:29.500 --> 02:57:33.110
+MORA OTEGUI: lo más lógico para para usar. Y bueno, hay registra
+
+1505
+02:57:33.290 --> 02:57:44.349
+MORA OTEGUI: en en el tiempo real. El tiempo de respuestas de de cada Endpoint individual, los errores con su
+
+1506
+02:57:44.530 --> 02:57:55.690
+MORA OTEGUI: Star Trace, para, bueno, como acaba de mostrar el compañero para identificar exactamente en qué línea falló algo y bueno. Las distintas
+
+1507
+02:57:55.800 --> 02:57:59.580
+MORA OTEGUI: trazas distribu distribuidas de de la ejecución.
+
+1508
+02:58:00.700 --> 02:58:05.250
+MORA OTEGUI: y bueno, un poco para cerrar las conclusiones que
+
+1509
+02:58:05.930 --> 02:58:13.269
+MORA OTEGUI: que bueno que tomé de del proyecto del del pipe completo de de de box es que
+
+1510
+02:58:13.560 --> 02:58:22.570
+MORA OTEGUI: el flujo completo es escribir el código. Se pulsea a Gildhab y automáticamente sin necesidad de
+
+1511
+02:58:23.310 --> 02:58:30.590
+MORA OTEGUI: de de hacer nada de manera de manera manual. Se corren los 4 tests.
+
+1512
+02:58:30.840 --> 02:58:36.980
+MORA OTEGUI: se buildea la la imagen Docker y y se publica en Docker Java automáticamente.
+
+1513
+02:58:37.320 --> 02:58:40.060
+MORA OTEGUI: Y bueno, New Relick me
+
+1514
+02:58:40.770 --> 02:58:51.759
+MORA OTEGUI: ayuda con con la visibilidad en en tiempo real de de los tiempos. Y bueno, ¿cómo se comporta la Api?
+
+1515
+02:58:52.010 --> 02:59:03.700
+MORA OTEGUI: Y, bueno, y 2 car garantiza que que corre exactamente en en mi computadora, en el servidor de integración continua en cualquier otro entorno
+
+1516
+02:59:03.950 --> 02:59:08.319
+MORA OTEGUI: de de producción y bueno y los principios que
+
+1517
+02:59:08.680 --> 02:59:11.670
+MORA OTEGUI: que tuve en cuenta para para el proyecto
+
+1518
+02:59:11.900 --> 02:59:16.159
+MORA OTEGUI: y que lo simplemente fue el fail fast
+
+1519
+02:59:16.370 --> 02:59:20.470
+MORA OTEGUI: que que se encuentra en los test que tienen el Pipeline. C.
+
+1520
+02:59:20.600 --> 02:59:25.610
+MORA OTEGUI: Si algo llega a fallar, el andon corde que
+
+1521
+02:59:26.390 --> 02:59:30.600
+MORA OTEGUI: en el que el merge queda bloqueado si
+
+1522
+02:59:30.830 --> 02:59:38.089
+MORA OTEGUI: Si no se pasa el la integración continua y los streetwes
+
+1523
+02:59:38.430 --> 02:59:43.589
+MORA OTEGUI: que están en el flujo automatizado en en todo el proceso.
+
+1524
+02:59:44.050 --> 02:59:47.350
+MORA OTEGUI: Entonces, bueno, ahora, si quieren, les puedo mostrar un
+
+1525
+02:59:50.930 --> 02:59:54.099
+MORA OTEGUI: ahí, va poco de de lo que hice.
+
+1526
+02:59:55.730 --> 02:59:59.329
+MORA OTEGUI: Bueno, estos eran. Bueno, acá están los
+
+1527
+02:59:59.900 --> 03:00:05.040
+MORA OTEGUI: los tests que que ya había mostrado antes de de como me dieron en. Bueno, la terminal.
+
+1528
+03:00:06.680 --> 03:00:12.370
+MORA OTEGUI: Bueno, esta es la App y con con los distintos Endpoints de
+
+1529
+03:00:12.750 --> 03:00:18.800
+MORA OTEGUI: de Get, libros que bueno, devuelve el catálogo completo de de los libros. Y estas fueron unas pruebas que
+
+1530
+03:00:19.840 --> 03:00:23.250
+MORA OTEGUI: que F que fui agregando acá
+
+1531
+03:00:24.100 --> 03:00:29.929
+MORA OTEGUI: que que bueno, siendo este post, se puede agregar cualquier libro.
+
+1532
+03:00:30.130 --> 03:00:33.559
+MORA OTEGUI: Entonces el pop
+
+1533
+03:00:41.250 --> 03:00:42.510
+MORA OTEGUI: ciencia
+
+1534
+03:00:48.280 --> 03:00:49.630
+MORA OTEGUI: y ahí se agrega.
+
+1535
+03:00:53.710 --> 03:00:58.059
+MORA OTEGUI: Bueno, esto es un poco de de New Relly que
+
+1536
+03:00:58.170 --> 03:01:00.990
+MORA OTEGUI: que, bueno, generé un poco de tráfico en
+
+1537
+03:01:01.300 --> 03:01:04.060
+MORA OTEGUI: en el día. Estas son las últimas 12 h.
+
+1538
+03:01:04.560 --> 03:01:13.860
+MORA OTEGUI: Y Y bueno, esto son las ráfagas acá de Terryquest, que que fui mandando.
+
+1539
+03:01:14.140 --> 03:01:22.090
+MORA OTEGUI: y el tiempo. El tiempo promedio de de respuesta es 1 coma 3 ms.
+
+1540
+03:01:22.880 --> 03:01:25.140
+MORA OTEGUI: Y acá se puede ver a ver.
+
+1541
+03:01:25.970 --> 03:01:34.629
+MORA OTEGUI: Acá Creo que era los sí, los distintos tiempos de picada Endpoint.
+
+1542
+03:01:35.360 --> 03:01:42.450
+MORA OTEGUI: Entonces, para para que eso se pueda después ver más más el detalle Mhm.
+
+1543
+03:01:42.620 --> 03:01:48.029
+MORA OTEGUI: Volver a acabar, tengo un poco de
+
+1544
+03:01:49.440 --> 03:01:57.960
+MORA OTEGUI: de las acciones que estas, bueno fueron unos unas pruebas que que proveer a ver que puedo ver
+
+1545
+03:01:59.530 --> 03:02:00.740
+MORA OTEGUI: ponerle acá
+
+1546
+03:02:04.510 --> 03:02:11.920
+MORA OTEGUI: que bueno, este es todo el el recorrido que qué
+
+1547
+03:02:12.090 --> 03:02:17.240
+MORA OTEGUI: que cumple cada vez que que se que se hace automáticamente cada vez que
+
+1548
+03:02:18.160 --> 03:02:21.810
+MORA OTEGUI: que se pusiera el el código.
+
+1549
+03:02:22.350 --> 03:02:24.439
+MORA OTEGUI: Entonces bueno, este se llama
+
+1550
+03:02:24.540 --> 03:02:30.419
+MORA OTEGUI: este. Jobs se llama Pablish. Y después tenemos otro a ver acá. Lo tengo separado.
+
+1551
+03:02:31.370 --> 03:02:38.140
+MORA OTEGUI: Bueno, en este caso se buildea la la la imagen como es de
+
+1552
+03:02:38.300 --> 03:02:41.610
+MORA OTEGUI: C. D, se se hace el Bill de la imagen.
+
+1553
+03:02:41.860 --> 03:02:50.030
+MORA OTEGUI: Sí, claro, se se lo vea en el en el Docker. Fan para después publicarla.
+
+1554
+03:02:50.980 --> 03:02:57.749
+MORA OTEGUI: Y acá en el test se se corren las las pruebas
+
+1555
+03:02:58.400 --> 03:03:02.679
+MORA OTEGUI: y, Y bueno, y se se hace lo del el setup de de Python.
+
+1556
+03:03:03.390 --> 03:03:07.619
+MORA OTEGUI: Y bueno, y esto es lo que me quedó ahí que para mejorar.
+
+1557
+03:03:08.010 --> 03:03:17.590
+MORA OTEGUI: que que son los T a Gs que que, bueno, como nombre antes, solamente celta el Tag Latest. Entonces.
+
+1558
+03:03:17.980 --> 03:03:21.189
+MORA OTEGUI: bueno, para para más adelante debería
+
+1559
+03:03:21.910 --> 03:03:26.070
+MORA OTEGUI: debería mejorar eso y y poner distintos Tags con
+
+1560
+03:03:26.870 --> 03:03:32.480
+MORA OTEGUI: con conversionado para para que no se me sobrescriba cada imagen nueva sobre
+
+1561
+03:03:32.870 --> 03:03:38.019
+MORA OTEGUI: sobre el anterior y y poder tener un un registro de de todas las distintas imágenes.
+
+1562
+03:03:38.340 --> 03:03:40.819
+MORA OTEGUI: Así que, básicamente, eso.
+
+1563
+03:03:43.600 --> 03:03:51.880
+Lucas Bonanni: Bien excelente, muy completo, igual una presentación. Así que bien, muy bien.
+
+1564
+03:03:52.360 --> 03:03:53.609
+MORA OTEGUI: Bueno, muchas gracias.
+
+1565
+03:03:55.130 --> 03:04:14.089
+MORA OTEGUI: Y después, perdón. Te volví un poco loca con esto, pero no pude enviarte de nuevo todo todos los archivos completos, porque me parece que abriste una una nueva entrega. Y no sé, no la vi yo, y no llegué a a
+
+1566
+03:04:14.670 --> 03:04:17.910
+MORA OTEGUI: a entregar te acuerdas que yo te había mandado.
+
+1567
+03:04:18.510 --> 03:04:19.760
+MORA OTEGUI: Dale.
+
+1568
+03:04:19.760 --> 03:04:25.159
+Lucas Bonanni: Cualquier cosa, te aviso, o ahora lo lo vuelvo a habilitar. Y así me lo puedes mandar. Vale.
+
+1569
+03:04:25.160 --> 03:04:26.969
+MORA OTEGUI: Dale. Dale. Genial. 1 000: Gracias.
+
+1570
+03:04:27.390 --> 03:04:29.330
+Lucas Bonanni: Dale perfecto.
+
+1571
+03:04:30.090 --> 03:04:34.870
+Lucas Bonanni: Bueno, creo que estamos todos ya, así que
+
+1572
+03:04:35.330 --> 03:04:44.200
+Lucas Bonanni: ya no queda más. Así que, bueno, buen fin de semana. Bueno, ahora creo que está encima. Es la última clase.
+
+1573
+03:04:44.430 --> 03:04:50.190
+Lucas Bonanni: Así que, bueno, ya después queda el el parcial, les voy avisando por mensaje o nos vamos comunicando por Slap.
+
+1574
+03:04:50.330 --> 03:04:58.679
+Lucas Bonanni: Las devoluciones. Se las voy a dar, obviamente por por Blackboard. Y como siempre, siempre, me pueden preguntar por Slack, cualquier duda.
+
+1575
+03:05:00.130 --> 03:05:00.800
+BENJAMIN BAIGORRIA FUNES: Odio. Profe.
+
+1576
+03:05:01.890 --> 03:05:04.239
+JEREMY BACHER: Muchísimas gracias. Buen Fin de semana.
+
+1577
+03:05:04.720 --> 03:05:05.530
+Lucas Bonanni: Igualmente.
+
+1578
+03:05:05.530 --> 03:05:06.170
+BENJAMIN BAIGORRIA FUNES: Un fitness.
+
+1579
+03:05:06.170 --> 03:05:06.590
+Lucas Bonanni: Podemos.
+
+1580
+03:05:06.590 --> 03:05:07.470
+BENJAMIN BAIGORRIA FUNES: Una cosa: Profe.
+
+1581
+03:05:07.710 --> 03:05:08.500
+Lucas Bonanni: Sí.
+
+1582
+03:05:08.500 --> 03:05:18.140
+BENJAMIN BAIGORRIA FUNES: Una cosita que que entra en el segundo parcial, entra todo o entra a partir de algún módulo.
+
+1583
+03:05:19.100 --> 03:05:26.419
+Lucas Bonanni: Sí lo de los últimos módulos que vimos. Lo de la parte de seguridad a ver exactamente
+
+1584
+03:05:26.640 --> 03:05:32.059
+Lucas Bonanni: es la parte de monitoreo, lo de Terraford y lo de seguridad.
+
+1585
+03:05:32.480 --> 03:05:35.240
+BENJAMIN BAIGORRIA FUNES: Okay. Bueno, buen finde! Profe: Muchas gracias.
+
+1586
+03:05:35.240 --> 03:05:37.419
+Lucas Bonanni: Igualmente nos vemos chao, chao.
+
+1587
+03:05:37.420 --> 03:05:38.320
+BENJAMIN BAIGORRIA FUNES: Nos vemos.
+
+
