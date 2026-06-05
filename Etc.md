@@ -33,12 +33,11 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 -- -
 ## Finales
 
-Seguridad en redes: 
+### Seguridad web: 
 2/7 desde 18
 16/7 desde las 18
 
-
-Admin de proyectos: 
+### Admin de proyectos: 
 martes 30/6 por la tarde
 martes 7/7  a la tarde
 Miercoles 15 a la mañana
