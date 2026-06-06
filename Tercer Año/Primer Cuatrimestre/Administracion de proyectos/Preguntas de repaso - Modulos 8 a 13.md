@@ -1,4 +1,8 @@
 -- -
+```
+Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los modulos 8-13. Quiero que ademas tenga la respuesta pero oculta por una caja cosa de yo poder
+  responderlo y despues mirar la respuesta. No quiero que omitas ningun concepto y quiero que este dentro de la carpeta administracion de proyectos en el tercer año. queda claro?
+```
 
 > [!tip] Cómo usar este archivo
 > Leé cada pregunta, respondela mentalmente o en voz alta, y recién después desplegá la caja **▸ Respuesta** para verificar. Las cajas están colapsadas por defecto.
