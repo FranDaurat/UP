@@ -1,7 +1,6 @@
 -- -
 ```
-Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los modulos 8-13. Quiero que ademas tenga la respuesta pero oculta por una caja cosa de yo poder
-  responderlo y despues mirar la respuesta. No quiero que omitas ningun concepto y quiero que este dentro de la carpeta administracion de proyectos en el tercer año. queda claro?
+Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los modulos 8-13. Quiero que ademas tenga la respuesta pero oculta por una caja cosa de yo poder responderlo y despues mirar la respuesta. No quiero que omitas ningun concepto y quiero que este dentro de la carpeta administracion de proyectos en el tercer año. queda claro?
 ```
 
 > [!tip] Cómo usar este archivo
@@ -115,9 +114,9 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **15.** ¿Cuáles son los niveles de gestión de la estructura organizativa típica de un proyecto?
 
 > [!success]- Respuesta
-> - **Comité directivo del proyecto.**
-> - **Director de proyecto** / equipo de dirección de proyecto.
-> - **Equipo de proyecto.**
+> - **Comité directivo del proyecto.** ---> Toma decisiones de alto nivel y define direccion estrategica.
+> - **Director de proyecto** / equipo de dirección de proyecto. ---> Responsable de dirigir el equipo y controlarlo.
+> - **Equipo de proyecto.** ---> Responsables de ejecutar tareas sobre el proyecto para cumplir los objetivos.
 
 ---
 
