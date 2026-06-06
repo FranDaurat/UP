@@ -14,11 +14,6 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 
 ## Parciales 
 
-1. 20/05 Sistemas Operativos (Segundo Parcialito)
-
-2. 02/06 Oral Administracion de proyectos.
-
-3. 03/06 Sistemas Operativos (Segundo Parcial)
 
 4. 05/06 DevOps (Segundo) 
 
@@ -28,7 +23,7 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 
 7. 11/06 (parcial) Auditoria de sistemas
 
-8. 12/06 Adm de proyectos (Segundo) ---> En teoria lo paso del 10/06
+8. 10/06 y 11/06 Adm de proyectos (Segundo) 
 
 -- -
 ## Finales
