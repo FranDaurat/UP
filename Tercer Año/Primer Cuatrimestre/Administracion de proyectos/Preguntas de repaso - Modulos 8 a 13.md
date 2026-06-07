@@ -445,7 +445,7 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 > - **ETC (estimación hasta la conclusión):** costo previsto para terminar el trabajo restante. `ETC = (BAC − EV) / CPI`.
 > - **EAC (estimación a la conclusión):** costo total previsto. `EAC = AC + ETC`.
 > - **VAC (variación a la conclusión):** déficit/superávit proyectado. `VAC = BAC − EAC` ; `VAC% = VAC / BAC`.
-> - **TCPI (índice de desempeño del trabajo a completar):** desempeño de costo que se debe alcanzar con los recursos restantes. `TCPI_EAC = (BAC − EV) / (EAC − AC)` ; `TCPI_BAC = (BAC − EV) / (BAC − AC)`.
+> - **TCPI (índice de desempeño del trabajo a completar):** Indice que muestra la efciencia de costos a mantener con el presupusta que hay para alcanzar la meta de costo total del proyecto. `TCPI_EAC = (BAC − EV) / (EAC − AC)` ; `TCPI_BAC = (BAC − EV) / (BAC − AC)`.
 
 **59.** ¿Qué preguntas clave del proyecto responde cada índice/pronóstico del EVM?
 
@@ -500,7 +500,7 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **64.** ¿En qué consiste seleccionar el enfoque de desarrollo inicial (paso 1)?
 
 > [!success]- Respuesta
-> Seleccionar el enfoque de desarrollo general adecuado aplicando el conocimiento del producto, la cadencia de las entregas y las opciones posibles. Un filtro importante es si el proyecto tiene características más cercanas a un enfoque **predictivo, adaptativo o híbrido**.
+> Seleccionar el enfoque de desarrollo general adecuado aplicando el conocimiento del producto, la cadencia de las entregas y las opciones posibles. Usando filtros para saber si el proyecto tiene características más cercanas a un enfoque **predictivo, adaptativo o híbrido**.
 
 **65.** ¿Qué se considera al adaptar para la organización (paso 2)?
 
@@ -531,9 +531,9 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **69.** ¿Qué aborda la formulación y evaluación de proyectos y cuáles son las etapas de preinversión?
 
 > [!success]- Respuesta
-> Aborda el problema de la **asignación de recursos** y recomienda, mediante distintas técnicas, que una iniciativa se lleve a cabo sobre otras alternativas. Las etapas previas a la aprobación (preinversión) son:
+> La formulacion y evaluacion de proyectos se encarga de analizar si una idea de negocio es viable y rentable antes de invertir en ella. Sus etapas previas son:
 > - **Identificación** de necesidad/oportunidad.
-> - **Formulación y preparación:** recopilación de información y construcción del flujo de fondos.
+> - **Formulación y preparación:** Preparar el proyecto y calcular los costos 
 > - **Evaluación** del proyecto.
 >
 > Permite reducir la incertidumbre inicial y tomar una decisión más informada; suele crearse un **"caso de negocios"** (documento que establece la razón para llevar a cabo el proyecto).
@@ -541,7 +541,7 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **70.** ¿Qué es la identificación de necesidades/oportunidades?
 
 > [!success]- Respuesta
-> La tarea de **identificar y entender las necesidades** que darán origen a un proyecto para obtener algún beneficio que explotará una oportunidad, provocará una mejora sobre una condición inexistente o resolverá un problema.
+> La tarea de **identificar y entender las necesidades** que darán origen a un proyecto para obtener algún beneficio que explotará una oportunidad, provocando una mejora sobre una condición inexistente o resolverá un problema.
 
 **71.** ¿Qué documentos se usan para solicitar propuestas a proveedores (RFI, RFQ, RFP)?
 
@@ -576,7 +576,7 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 > [!success]- Respuesta
 > - **Activos fijos:** bienes **tangibles** usados en la transformación de insumos o de apoyo a la operación (terreno, maquinarias, herramientas, red eléctrica).
 > - **Activos intangibles:** servicios o derechos adquiridos necesarios para la puesta en marcha (gastos de organización, patentes y licencias, gastos de puesta en marcha).
-> - **Capital de trabajo:** recursos necesarios en forma de **activos corrientes** para la operación normal del proyecto.
+> - **Capital de trabajo:** recursos necesarios para poner en marcha el proyecto y que funcione en su dia a dia antes de empezar a recibir ingresos.
 
 **76.** ¿Qué son las inversiones durante la operación y qué origina la necesidad de un reemplazo?
 
@@ -591,7 +591,7 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **77.** ¿Qué es el flujo de fondos y qué elementos lo componen?
 
 > [!success]- Respuesta
-> La información proviene de los estudios de mercado, técnico, organizacional y financiero (incorporando efectos tributarios, depreciación, amortización). Se compone de:
+> Es un resumen de todo el dinero que va a entrar y salir del negocio. Se utiliza informacion de estudios e mercado, tecnico, operativo  financiero.
 > - **Egresos iniciales:** total de la inversión requerida para la puesta en marcha.
 > - **Ingresos y egresos de operación:** flujos de entrada y salida reales de caja.
 
@@ -642,7 +642,7 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **83.** ¿Qué es la TIR y qué relación tiene con el VAN?
 
 > [!success]- Respuesta
-> La **TIR** evalúa el proyecto con una **única tasa de rendimiento por período** con la cual la totalidad de los beneficios actualizados igualan exactamente a los desembolsos (en moneda actual).
+> Es el porcentaje de rendimiento real que tiene el proyecto. Si este porcentaje es mayor que lo que te rinde poner la plata en un plaza fijo el proyecto es atractivo. La relacion que tienen es que el TIR es el porcentaje de descuento que hace que el valor actual neto sea cero. 
 > $$\sum_{t=1}^{n} \frac{BN_t}{(1+r)^t} - I_0 = 0$$
 > Es equivalente a **hacer el VAN igual a cero** y determinar la tasa (r) que permite al flujo ser cero.
 
@@ -656,7 +656,7 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **85.** ¿Qué es el análisis de sensibilidad y por qué es importante?
 
 > [!success]- Respuesta
-> La evaluación se hace en condiciones de incertidumbre y riesgo. El **análisis de sensibilidad** mide cuán sensible es la evaluación a variaciones en uno o más parámetros. Es importante porque los valores de las variables usadas pueden tener desviaciones con efectos de consideración en la medición de los resultados.
+> Como la evaluación se hace en condiciones de incertidumbre y riesgo. El **análisis de sensibilidad** mide como cambia el resultado si cambian las variables. Es clave porque nos ayuda a ver que tan riesgoso es el negocio frente a cambios inesperados.
 
 ---
 
