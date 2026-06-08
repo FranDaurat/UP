@@ -19,8 +19,7 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **2.** Enumere y defina el Ambiente de desarrollo para definir un ambiente de testing.
 
 > [!success]- Respuesta
-> Comprende **cinco elementos**: control de fuentes (versionado del código), incorporación de datos de prueba, ejecución y control de casos de prueba, seguimiento de corrección de errores y base de datos de test.
-> Es la parte del ambiente que gestiona el código y los datos sobre los que se trabaja durante las pruebas.
+> El ambiente de desarrollo es el espacio donde se prueba el programa antes de usarlo. Tiene cinco partes: un lugar donde se guardan las distintas versiones del código, los datos de ejemplo que se usan para probar, la forma de correr y revisar las pruebas, el seguimiento de los errores que aparecen para irlos arreglando, y una base de datos para esas pruebas. Es decir, es la parte que ordena el código y la información mientras se está probando todo.
 
 **3.** Grafique un proceso de ambiente de testing describiendo los roles y activos.
 
@@ -65,7 +64,7 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **6.** Enumere las reglas básicas para una buena estimación de testing.
 
 > [!success]- Respuesta
-> La estimación se basa siempre en los **requisitos de software**, en la **opinión de expertos**, en **proyectos anteriores** y en los **indicadores**; nunca debe olvidar el pasado; y debe ser **registrada, justificada** mediante una herramienta y **verificada**.
+> La estimación se basa siempre en los **requisitos de software**, **opinión de expertos**, **proyectos anteriores** y en **indicadores**. nunca debe olvidar el pasado y debe ser **registrada, justificada** mediante una herramienta y **verificada**.
 
 **7.** Complete la fórmula de estimar Testing: Cantidad de Tester =
 
@@ -84,7 +83,7 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **1.** En Pruebas de Módulos qué significa el concepto **Stub**.
 
 > [!success]- Respuesta
-> Un **stub** es una pieza de código que simula el comportamiento de un **módulo faltante** (el que sería llamado por el módulo bajo prueba), con los mismos parámetros de entrada y salida pero con una alta simplificación.
+> Un **stub** es una pieza de código sustituta temporal. Si se esta probando un modulo que necesita comunicarse con otro que aun no esta desarrollado se crea un stub de ese otro modulo para que responda de manera sencilla.
 > Es **costoso** de realizar, y si siempre devuelve los mismos valores es probable que el módulo que lo llama no quede testeado de forma adecuada.
 
 **2.** En Pruebas de Módulos qué significa el concepto **Driver**.
@@ -97,7 +96,7 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 
 > [!success]- Respuesta
 > **Big-Bang (no incremental):** prueba cada módulo de forma aislada y luego integra y prueba todos juntos de una sola vez. Permite trabajo en paralelo pero dificulta hallar el origen de las fallas y no sirve para sistemas grandes.
-> **Top-Down (incremental descendente):** comienza por el módulo superior de la jerarquía "usa" y baja según ella. Requiere **stubs** pero no drivers, permite demostraciones tempranas del producto y representa casos reales fácilmente (los módulos superiores suelen ser GUI), aunque los stubs resultan complejos.
+> **Top-Down (incremental descendente):** comienza por el módulo superior de la jerarquía y baja según ella. Requiere **stubs** pero no drivers, permite demostraciones tempranas del producto y representa casos reales fácilmente, aunque los stubs resultan complejos.
 
 **4.** En Pruebas de Integración describa las estrategias **Bottom-Up (Ascendente)** y **Sándwich (Intercalada)**.
 
@@ -125,8 +124,8 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **2.** ¿Qué es la Prueba de Aceptación? ¿Qué significa **"Proceso"**?
 
 > [!success]- Respuesta
-> La prueba de aceptación la realiza el usuario para definir si el producto se ajusta a sus necesidades y puede ser aceptado.
-> Su proceso más común tiene **cinco pasos**:
+> La prueba de aceptación la realiza el usuario para definir si el producto se ajusta a sus necesidades y puede ser aceptado. Es realizada como caja negra.
+> Un proces es una secuencia de actividades que realizan distintas personas para lograr un objetivo. Su proceso más común tiene **cinco pasos**:
 > 1. Determinar el rol del usuario
 > 2. Definir los criterios de aceptación
 > 3. Desarrollar un plan de aceptación
@@ -184,7 +183,7 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **11.** Explique con un ejemplo cómo hacer el proceso de prueba de una aplicación móvil.
 
 > [!success]- Respuesta
-> El proceso se basa en pruebas tradicionales **adaptadas a las características móviles**. Se aplican pruebas unitarias, de integración, de sistema y de regresión, sumando pruebas especiales como **compatibilidad** (distintos dispositivos y versiones de SO), GUI, desempeño, seguridad y sincronismo, combinando dispositivos reales, emuladores y automatización.
+> El proceso se adapta a caracteristicas moviles incluyendo a pruebas unitarias, de integracion, de sistema y de regresion, sumando validaciones esenciales como la compatibilidad la interfaz grafica el desempeño o la seguridad. 
 > **Ejemplo:** para una app de venta de libros se prueba el login y el catálogo en distintos modelos de teléfono y versiones de Android/iOS, se evalúa el consumo de batería y datos, el comportamiento con conectividad limitada y la consistencia de la interfaz en cada dispositivo.
 
 ---
@@ -194,7 +193,6 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **1.** ¿Qué factores tienen que tener en cuenta para la selección de casos de prueba automatizados?
 
 > [!success]- Respuesta
-> Se pondera cada caso según:
 > - Cuáles deben correrse más veces durante el proyecto (típicamente el **núcleo** de la aplicación).
 > - Cuáles conllevan mucha **dedicación humana** y son repetitivos.
 > - Qué funcionalidades son **críticas** para el cliente/usuario.
@@ -271,10 +269,10 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **2.** Describa los cuadrantes de testing ágil.
 
 > [!success]- Respuesta
-> - **Cuadrante 1:** pruebas unitarias y de componente, que se buscan automatizar al máximo para dar confianza al equipo.
-> - **Cuadrante 2:** pruebas que, sin ser unitarias, prueban el sistema a un nivel más técnico que las de un usuario final.
-> - **Cuadrante 3:** pruebas manuales enfocadas en el negocio y con espíritu crítico, orientadas a descubrir información sobre la aplicación.
-> - **Cuadrante 4:** pruebas de rendimiento y demás pruebas no funcionales necesarias (usabilidad, seguridad, estabilidad, etc.).
+> - **Cuadrante 1:** pruebas unitarias y de componente.
+> - **Cuadrante 2:** pruebas tecnicas mas amplias sobre la logica del negocio.
+> - **Cuadrante 3:** pruebas manuales desde la perspectiva del usuario final para buscar fallas.
+> - **Cuadrante 4:** pruebas de performance, seguridad y estabilidad del sistema.
 
 **3.** Describa las relaciones de equipo funcional versus un equipo ágil.
 
@@ -300,7 +298,7 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **2.** Explique tecnologías que se pueden usar en un modelo DevSecOps.
 
 > [!success]- Respuesta
-> **DevSecOps** integra la seguridad desde el **principio del ciclo DevOps** y se apoya fuertemente en la automatización, de modo que todos los procesos de seguridad que se puedan automatizar (como las auditorías de seguridad) se automaticen.
+> **DevSecOps** integra la seguridad desde el **principio del ciclo DevOps** y se apoya fuertemente en la automatización, de modo que todos los procesos de seguridad que se puedan automatizar (como las auditorías de seguridad) .
 > Se apoya en herramientas de **integración y entrega continua (CI/CD)**, automatización de pruebas y de auditorías de seguridad, y **monitoreo**, sumando análisis de seguridad automatizado dentro del pipeline de desarrollo.
 
 ---
@@ -321,7 +319,7 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **3.** Según la práctica "Comparación de ISO 29119 y TMMI", describir los puntos comunes entre ambos modelos.
 
 > [!success]- Respuesta
-> Ambos buscan **mejorar y estandarizar el proceso de prueba a nivel organización**, elevando el testing a un asunto organizacional; se basan en **buenas prácticas reconocidas**, utilizan **niveles/etapas progresivas** de mejora y apuntan a aumentar la calidad del producto y la confianza en las pruebas mediante procesos sistemáticos y documentados.
+> Tanto la ISO 29119 como el TMMI son marco de referncia y guias normativas diseñadas para estandarizar y mejorar los procesos de prueba en un organizacion. Ambos elevan la calidad del testing a un nivel estrategico basandose en buenas practicas para que las pruebas sean mas sistematicas y confiables..
 
 **4.** Según la práctica "Establecer Línea Base de Testing (Plan de CM)", describí tu propuesta.
 

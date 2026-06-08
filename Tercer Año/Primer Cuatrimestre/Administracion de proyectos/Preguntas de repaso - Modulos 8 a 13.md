@@ -45,14 +45,14 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **5.** ¿Qué es una reserva y cuáles son los dos tipos? ¿Cuál entra en la línea base de costos?
 
 > [!success]- Respuesta
-> **Reserva:** provisión en el proyecto para mitigar riesgos de costo o cronograma, reduciendo el impacto en objetivos perdidos o desviados.
-> - **Reserva para contingencias:** dinero asignado para riesgos **conocidos** (reprocesos, mal tiempo, ausentismo). **SÍ** está incluida en la línea base de costos.
+> **Reserva:** provisión en el proyecto para mitigar riesgos de costo o cronograma.
+> - **Reserva para contingencias:** dinero asignado para riesgos **conocidos**. **SÍ** está incluida en la línea base de costos.
 > - **Reserva de gestión:** cantidad separada para trabajo **imprevisto** dentro del alcance. **NO** se incluye en la línea base de costos.
 
 **6.** ¿Qué es "estimar los costos" y qué es "determinar el presupuesto"?
 
 > [!success]- Respuesta
-> **Estimar los costos:** proceso de desarrollar una aproximación del costo de los recursos necesarios para completar el trabajo del proyecto.
+> **Estimar los costos:** Aproximar el valor de los recursos necesarios para cada actividad.
 > **Determinar el presupuesto:** proceso de sumar los costos estimados de las actividades individuales o paquetes de trabajo para establecer una **línea base de costos autorizada**.
 
 **7.** En el proceso de determinar el presupuesto, ¿qué son los requerimientos de fondos y qué forma toma el costo acumulado del proyecto?
@@ -77,26 +77,25 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **10.** ¿Qué son los recursos físicos y qué implica gestionarlos mal?
 
 > [!success]- Respuesta
-> Incluyen el **equipamiento, los materiales, las instalaciones y la infraestructura**. Su gestión se concentra en la asignación y utilización eficiente y eficaz. Las organizaciones deberían tener datos sobre la demanda, las configuraciones necesarias y el suministro de recursos.
+> Incluyen el **equipamiento, los materiales, las instalaciones y la infraestructura**. 
 > **No** poder gestionar y controlar los recursos de manera eficiente es una **fuente de riesgo** para la finalización exitosa del proyecto.
 
 **11.** ¿Qué caracteriza a los recursos humanos del proyecto y qué relación tienen con la gestión de interesados?
 
 > [!success]- Respuesta
-> Son los recursos del equipo o de personal. Pueden tener distintas habilidades, asignación a tiempo completo o parcial, e incorporarse o retirarse conforme avanza el proyecto.
-> Hay **superposición** con la gestión de interesados: esta área se centra en el subconjunto de interesados que forman el **equipo del proyecto** (individuos con roles y responsabilidades que trabajan por un objetivo común).
-> El director debe invertir esfuerzo en **adquisición, gestión, motivación y empoderamiento** del equipo.
+> Son el equipo o personal del proyecto.  Tienen distintas habilidades, pueden estar full-time o parcial y se suman o se van yendo a medida que el proyecto avanza. 
+> Tienen mucha relacion con la gestion de interesados porque se centran en el subconjunto de personas que forman al equipo y trabajan por un objetivo comun. 
 
 **12.** ¿Qué es "estimar los recursos de las actividades" y qué son los requisitos de recursos?
 
 > [!success]- Respuesta
-> **Estimar los recursos:** proceso de estimar los recursos del equipo y el tipo y cantidades de materiales, equipamiento y suministros necesarios para ejecutar el trabajo.
-> **Requisitos de recursos:** identifican los tipos y cantidades de recursos necesarios para cada paquete de trabajo o actividad. Se pueden agregar por ramificación de la EDT/WBS y para el proyecto total. Pueden incluir suposiciones sobre tipos, disponibilidad y cantidades.
+**Estimar los recursos:** proceso de calcular el tipo y cantidad de recursos (equipo, materiales, equipamiento, suministros) necesarios para hacer el trabajo.
+**Requisitos de recursos:** el resultado de estimar los recursos — el listado de tipos y cantidades de recursos que necesita cada paquete de trabajo.
 
 **13.** ¿Qué es la estructura de desglose de recursos (RBS)?
 
 > [!success]- Respuesta
-> Es una **representación jerárquica de los recursos por categoría y tipo**.
+> Es una **representación jerárquica de los recursos por categoría y tipo**. Esta misma brinda un vision clara de como estan distribuidos.
 > Categorías: mano de obra, materiales, equipos, suministros.
 > Tipos: nivel de habilidad, nivel de formación, certificaciones requeridas u otra información relevante.
 
@@ -130,17 +129,18 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **17.** ¿Cuáles son los aspectos comunes del desarrollo del equipo?
 
 > [!success]- Respuesta
-> - **Visión y objetivos:** todos conscientes de ellos; se comunican a lo largo del proyecto.
-> - **Roles y responsabilidades:** que cada miembro los entienda; incluye identificar brechas de conocimiento y cubrirlas con capacitación y mentoring.
-> - **Operaciones del equipo:** facilitar comunicación, consenso y resolución de problemas (puede incluir un acta de constitución del equipo o lineamientos operativos).
-> - **Orientación:** pautas para mantener a todos en la misma dirección.
-> - **Crecimiento:** identificar dónde el equipo se desempeña bien y dónde puede mejorar, a nivel equipo e individual.
+> - **Visión y objetivos:** Proposito compartido que guia al equipo.
+> - **Roles y responsabilidades:** Definen lo que cada persona debe hacer.
+> - **Operaciones del equipo:** Establece como trabajan y se comunican.
+> - **Orientación:** Guia para mantener a todos en la misma direccion.
+> - **Crecimiento:** Se centra sobre el desarrollo individual y de equipo.
 
 **18.** ¿Qué es la cultura del equipo de proyecto y cómo se establece?
 
 > [!success]- Respuesta
 > Es el conjunto de **valores, comportamientos, prácticas de trabajo y creencias compartidas** por los miembros del equipo para lograr su objetivo.
-> Cada equipo desarrolla su propia cultura, establecida **deliberadamente** (mediante normas del equipo) o **informalmente** (a través de comportamientos y acciones). El director de proyectos es clave para establecerla y mantenerla.
+> Cada equipo desarrolla su propia cultura, establecida **deliberadamente** (mediante normas del equipo) o **informalmente** (a través de comportamientos y acciones).
+> El director de proyectos es clave para establecerla y mantenerla.
 
 **19.** ¿Qué comportamientos deseados puede mostrar el director para una buena cultura de equipo?
 
@@ -167,7 +167,7 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **22.** ¿Qué implica el pensamiento crítico como habilidad de liderazgo?
 
 > [!success]- Respuesta
-> Incluye pensamiento **disciplinado, racional, lógico, basado en la evidencia, reflexivo y metacognición**; también imaginación conceptual e intuición. Requiere mente abierta y capacidad de analizar objetivamente. Ayuda a reconocer el sesgo, considerar la raíz de los problemas y gestionar temas desafiantes, ambiguos y complejos.
+> Requiere mente abierta y capacidad de analizar objetivamente. Ayuda a reconocer el sesgo, considerar la raíz de los problemas y gestionar temas desafiantes, ambiguos y complejos.
 
 **23.** ¿Cuál es la diferencia entre motivación intrínseca y extrínseca?
 
@@ -238,8 +238,8 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 > - **Riesgo general:** efecto de la incertidumbre sobre el proyecto en su conjunto, de todas las fuentes.
 >
 > Riesgos **no relacionados con eventos**:
-> - **De variabilidad:** incertidumbre sobre características clave de un evento planificado, actividad o decisión.
-> - **De ambigüedad:** incertidumbre sobre lo que podría suceder en el futuro.
+> - **De variabilidad:** incertidumbre sobre cuanto puede variar un resultado planificado.
+> - **De ambigüedad:** Incertidumbre generada por la falta de claridad sobre lo que podria pasar en el futuro.
 
 **32.** ¿Qué es la estructura de desglose de riesgos (RBS)?
 
@@ -270,11 +270,11 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **37.** ¿Cuáles son las 5 estrategias frente a las amenazas?
 
 > [!success]- Respuesta
-> 1. **Escalar:** la amenaza está fuera del alcance del proyecto o la respuesta excede la autoridad del director.
-> 2. **Evitar:** eliminar la amenaza o proteger al proyecto de su impacto (apropiada para amenazas de alta prioridad, alta probabilidad y gran impacto).
-> 3. **Transferir:** cambiar la titularidad a un tercero que maneje el riesgo y soporte el impacto (suele implicar pagar una prima de riesgo).
-> 4. **Mitigar:** reducir la probabilidad y/o el impacto; las acciones tempranas son más efectivas.
-> 5. **Aceptar:** reconocer la amenaza sin medidas proactivas (apropiada para baja prioridad). Puede ser **activa** (reserva para contingencias) o **pasiva** (ninguna acción).
+> 1. **Escalar:** Esta fuera de alcance o la respuesta excede la autoridad del proyecto
+> 2. **Evitar:** eliminar la amenaza o proteger al proyecto de su impacto.
+> 3. **Transferir:** cambiar la titularidad a un tercero que maneje el riesgo y soporte el impacto.
+> 4. **Mitigar:** reducir la probabilidad y/o el impacto. 
+> 5. **Aceptar:** reconocer la amenaza sin medidas proactivas. Puede ser **activa** (reserva para contingencias) o **pasiva** (ninguna acción).
 
 **38.** ¿Cuáles son las 5 estrategias frente a las oportunidades?
 
@@ -425,7 +425,8 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **55.** ¿Qué es la línea base para la medición del desempeño (PMB)?
 
 > [!success]- Respuesta
-> Es la **integración de las líneas base de alcance, cronograma y costos** usada para comparación y gestionar la ejecución. Se definen **cuentas de control** (puntos de control administrativo donde se integran alcance, cronograma, presupuesto y costo real, ubicados en la EDT/WBS), se establecen los métodos de medición y el cronograma de las mediciones.
+> Es la **integración de las líneas base de alcance, cronograma y costos** para evaluar el progreso real. Se definen cuentas de control donde se integran estas variables y se establecen los metodos y el cronograma para realizar mediciones. 
+>
 
 **56.** ¿Qué son la variación del cronograma (SV) y la variación del costo (CV) y cómo se calculan?
 
@@ -564,11 +565,11 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **74.** ¿Cuáles son los estudios de viabilidad y qué evalúa cada uno?
 
 > [!success]- Respuesta
-> - **Comercial:** si el mercado es sensible al bien/servicio y su aceptabilidad en el consumo/uso.
-> - **Técnica:** las posibilidades materiales físicas de producir el bien/servicio.
-> - **Organizacional:** si existen las condiciones mínimas (estructurales y funcionales) para la implementación.
-> - **Financiera/económica:** la rentabilidad que retorna la inversión (en bases monetarias); **suele tener más peso** en la aprobación o rechazo.
-> - **Ecológica:** consideraciones ambientales, por calidad de vida y por sus efectos económicos.
+> - **Comercial:** Evalua la sensibilidad del mercado.
+> - **Técnica:** Ve las posibilidades de produccion.
+> - **Organizacional:** Verifica condiciones minimas funcionales y estructurales.
+> - **Financiera/económica:** Mide la rentabilidad. **suele tener más peso** en la aprobación o rechazo.
+> - **Ecológica:** Considera factores ambientales. 
 > - **Otros:** legal, ético, social, etc.
 
 **75.** ¿En qué tres tipos se agrupan las inversiones previas a la puesta en marcha?
@@ -635,16 +636,13 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 **82.** ¿Qué es el VAN, cuál es su criterio de aceptación y su fórmula?
 
 > [!success]- Respuesta
-> El **VAN** es la diferencia entre todos los ingresos y egresos expresados en **moneda actual**. Un proyecto debe **aceptarse si su VAN es igual o superior a cero**.
-> $$VAN = \sum_{t=1}^{n} \frac{BN_t}{(1+i)^t} - I_0$$
-> Donde **BNt** = beneficio neto en el período t, **i** = tasa de descuento, **I₀** = inversión inicial.
+> El VAN (Valor Actual Neto) mide la rentabilidad del proyecto en moneda actual. Su criterio de aceptacion es si el VAN es >= 0 y se calcula tomando todos los flujos de caja futuros, los descuenta a valor presente con una tasa, los suma y les resta la inversión inicial.
 
 **83.** ¿Qué es la TIR y qué relación tiene con el VAN?
 
 > [!success]- Respuesta
-> Es el porcentaje de rendimiento real que tiene el proyecto. Si este porcentaje es mayor que lo que te rinde poner la plata en un plaza fijo el proyecto es atractivo. La relacion que tienen es que el TIR es el porcentaje de descuento que hace que el valor actual neto sea cero. 
-> $$\sum_{t=1}^{n} \frac{BN_t}{(1+r)^t} - I_0 = 0$$
-> Es equivalente a **hacer el VAN igual a cero** y determinar la tasa (r) que permite al flujo ser cero.
+>La **TIR** (Tasa interna de retorno) es la tasa de descuento que hace que el **VAN = 0**.
+Relación: si la TIR es mayor que la tasa exigida → el VAN es positivo → conviene. Si es menor → VAN negativo → se rechaza.
 
 **84.** ¿Qué es el período de recuperación (Payback) y cómo se calcula?
 
@@ -659,6 +657,46 @@ Quiero que me hagas una archivo que tenga una pregunta de cada topico sobre los 
 > Como la evaluación se hace en condiciones de incertidumbre y riesgo. El **análisis de sensibilidad** mide como cambia el resultado si cambian las variables. Es clave porque nos ayuda a ver que tan riesgoso es el negocio frente a cambios inesperados.
 
 ---
+Acá tenés la grilla con todos los indicadores del Valor Ganado (EVM).
 
-> [!note] Cobertura
-> 85 preguntas cubriendo todos los conceptos de los módulos 8 (costos y recursos), 9 (equipo), 10 (riesgo), 11 (medidas/EVM), 12 (adaptación) y 13 (formulación y evaluación).
+## Valores base
+
+|Sigla|Nombre|Qué es|
+|---|---|---|
+|**PV**|Planned Value (Valor Planificado)|Presupuesto del trabajo **planificado** para una fecha. "Lo que debería haber hecho."|
+|**EV**|Earned Value (Valor Ganado)|Valor del trabajo **realmente completado**. = % avance × BAC. "Lo que hice."|
+|**AC**|Actual Cost (Costo Real)|Dinero **realmente gastado** en el trabajo completado. "Lo que gasté."|
+|**BAC**|Budget at Completion|Presupuesto **total** del proyecto al inicio.|
+
+## Variaciones (resta → diferencia)
+
+|Sigla|Fórmula|Qué mide|Interpretación|
+|---|---|---|---|
+|**SV**|EV − PV|Variación del **cronograma**|+ adelantado / − atrasado / 0 en tiempo|
+|**CV**|EV − AC|Variación del **costo**|+ gasté de menos / − gasté de más|
+|**VAC**|BAC − EAC|Variación al final (proyectada)|+ terminaré bajo presupuesto / − por encima|
+
+## Índices (división → eficiencia)
+
+|Sigla|Fórmula|Qué mide|Interpretación|
+|---|---|---|---|
+|**SPI**|EV / PV|Eficiencia del **cronograma**|>1 adelantado / <1 atrasado|
+|**CPI**|EV / AC|Eficiencia del **costo**|>1 gasto eficiente / <1 ineficiente|
+|**TCPI**|(BAC−EV)/(BAC−AC)|Eficiencia que **necesito** en el trabajo restante|>1 hay que apretar / <1 más holgado|
+
+## Proyecciones (mirar al futuro)
+
+|Sigla|Nombre|Qué es|
+|---|---|---|
+|**EAC**|Estimate at Completion|Costo **total** proyectado al finalizar (lo gastado + lo que falta). Común: BAC/CPI|
+|**ETC**|Estimate to Complete|Costo del trabajo **restante** solamente. = EAC − AC|
+
+## Truco para no confundirte
+
+- **V**ariación = resta → da plata o tiempo (±).
+- **I**ndex/Índice = división → da eficiencia (ratio alrededor de 1).
+- **S** = Schedule (cronograma) | **C** = Cost (costo).
+- **EAC** = total al final | **ETC** = solo lo que falta.
+- En índices: **>1 siempre es bueno** (excepto TCPI, que >1 significa "tenés que esforzarte más").
+
+¿Querés que te lo arme como página en ClickUp en tu doc de resúmenes, o que te haga un par de ejercicios de práctica con estos cálculos?

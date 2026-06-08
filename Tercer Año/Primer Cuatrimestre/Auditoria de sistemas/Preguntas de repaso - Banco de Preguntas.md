@@ -27,12 +27,12 @@
 **4.** Un auditor de sistemas, durante una revisión de un sistema legado, descubre que un proveedor externo ha implementado un backdoor (puerta trasera) no documentado para acceso de soporte, creando una vulnerabilidad masiva. El proveedor presiona al auditor para que no revele este hallazgo para proteger el contrato. Analizar el dilema ético del auditor y la acción correcta, según los principios de la deontología profesional.
 
 > [!success]- Respuesta
-> La acción correcta, según la deontología, es revelar el hallazgo sin ceder a la presión. El auditor debe informar todos los hechos significativos que, de ocultarse, distorsionarían el reporte; callar violaría integridad, veracidad, responsabilidad e independencia y dejaría al cliente expuesto. La confidencialidad protege la información del auditado frente a terceros, pero no habilita a ocultarle un riesgo grave al propio cliente. Corresponde documentar el hallazgo con su riesgo y recomendación, escalarlo a la dirección y dejar constancia de la presión recibida.
+> Segun la deontologia profesional y el codigo de etica ISACA, la accion correcta es revelar el hallazgo sin ceder a la presion del proveedor. El auditor debe mantener su independencia y reportar todos los hechos significativos a las partes apropiadas documentando tambien cualquier presion recibida para proteger la integridad del reporte y los intereses del cliente.
 
 **5.** Explicar, con palabras propias, la importancia estratégica de una auditoría de sistemas en una organización moderna, y cómo su rol va más allá de la mera detección de fallos. Argumentar cómo contribuye a la gobernanza y la toma de decisiones.
 
 > [!success]- Respuesta
-> Su misión va más allá de detectar fallos: evalúa y monitorea la efectividad del control interno para dar seguridad razonable sobre operaciones, confiabilidad de la información y cumplimiento de normas. En una organización moderna donde la TI soporta el negocio, esto la vuelve una herramienta de gobernanza: al verificar controles, identificar causas de desviaciones y recomendar mejoras, se aporta información confiable para la toma de decisiones de la alta dirección, previniendo fraudes y alineando la tecnología con los objetivos del negocio. Su valor está en gestionar riesgos y mejorar el control interno, no en buscar culpables.
+> La auditoría de sistemas revisa que los controles funcionen bien para dar confianza de que las operaciones, la información y el cumplimiento de normas están en orden. En una empresa donde todo depende de la tecnología el hecho de poder detectar por qué fallan las cosas y proponer mejoras, le da a la dirección información segura para decidir, preveniendo fraudes y manteniendo la tecnología alineada con los objetivos. Su valor está en mejorar el control interno, no en buscar culpables.
 
 **6.** Comparar una auditoría de sistema de información "operativa" con una "financiera" en términos de sus objetivos, alcance y el tipo de hallazgos que cada una priorizaría. Proporcionar un ejemplo donde los resultados de una auditoría operativa de TI impactarían directamente en los resultados de una auditoría financiera.
 
@@ -47,18 +47,17 @@
 **8.** Describir un escenario en el que los hallazgos de una auditoría de sistemas rutinaria podrían ser el detonante para iniciar una investigación forense informática. Explicar cómo cambian los objetivos, la metodología y el tratamiento de la evidencia en esta transición.
 
 > [!success]- Respuesta
-> Si durante una auditoría rutinaria el auditor detecta indicios de incidente (accesos no autorizados, transacciones anómalas, logs alterados o un fraude), eso puede gatillar una investigación forense. En la transición cambian los objetivos, la metodología y la evidencia: la auditoría evalúa controles y emite una opinión en un entorno organizativo; la forensia busca determinar qué pasó y reunir prueba legal para un entorno judicial, por lo que la evidencia debe ser auténtica, íntegra, conforme a la ley y con cadena de custodia preservada. La forensia sigue etapas propias (preparación, forensia física, forensia digital, reporte y cierre) que no existen en una auditoría común.
+> Cuando en una auditoría el auditor detecta señales de un incidente (accesos indebidos, movimientos raros o un posible fraude), eso puede dar inicio a una investigación forense. Ahí cambia el objetivo: la auditoría revisa que los controles funcionen, mientras que la forensia busca demostrar qué pasó y reunir pruebas válidas para la justicia, cuidando que la evidencia no se altere. Por eso sigue pasos propios que una auditoría común no tiene.
 
 **9.** Detallar las responsabilidades clave y las metodologías distintivas de un auditor de sistemas y un forense informático. En un caso de robo de propiedad intelectual a través de una brecha de seguridad, explicar cómo las preguntas que intentaría responder cada profesional difieren fundamentalmente, y cómo su trabajo se complementaría.
 
 > [!success]- Respuesta
-> El auditor evalúa la efectividad de los controles para emitir una opinión, con evidencia confiable y suficiente en un entorno organizativo, reportando a la dirección. El forense (perito) aplica técnicas de investigación para hallar evidencia legal sobre un hecho ya ocurrido y produce un dictamen para la justicia, con evidencia auténtica, íntegra y con cadena de custodia. Ante un robo de propiedad intelectual, el auditor pregunta "¿por qué fallaron los controles y cómo evitarlo?" y el forense "¿quién accedió, cómo, cuándo y qué lo prueba?". Se complementan: la auditoría detecta el problema y el control fallido, la forensia reconstruye el hecho y aporta la prueba legal.
+> El auditor evalúa la efectividad de los controles para evitar problemas y reportarlos a la direccion. El forense, en cambio, investiga que paso cuando ya ocurrio un incidente y reune pruebas con validez lega. Ante un robo de propiedad intelectual, el auditor pregunta "¿por qué fallaron los controles y cómo evitarlo?" y el forense "¿quién accedió, cómo, cuándo y qué lo prueba?". Se complementan: la auditoría detecta el problema y el control fallido, la forensia reconstruye el hecho y aporta la prueba legal.
 
 **10.** Si una empresa del sector financiero en Latinoamérica desea expandir sus operaciones a Estados Unidos, ¿cómo debería abordar el cumplimiento de normativas desde la perspectiva de la auditoría de sistemas? Considerar los principales desafíos, como cuál sería la norma que tendría que cumplir de forma obligatoria.
 
 > [!success]- Respuesta
-> El caso se aborda con una auditoría basada en riesgos ya que al cotizar en Estados Unidos, la empresa queda obligada a cumplir la Ley Sarbanes-Oxley (SOX), donde la sección 302 hace responsables al CEO y CFO por los reportes financieros, y la 404 exige tener y demostrar un control interno adecuado sobre esa información. El desafío del auditor es lograr que los controles de TI que alimentan esos reportes queden documentados y probados, usando marcos como COSO y COBIT para cubrir la brecha con la normativa local.
-
+> El caso se aborda con una auditoría basada en riesgos ya que al cotizar en Estados Unidos, la empresa queda obligada a cumplir la Ley Sarbanes-Oxley (SOX), donde la sección 302 hace responsables al CEO y CFO por los reportes financieros mientras que la 404 exige tener y demostrar un control interno adecuado sobre esa información. El desafío del auditor es lograr que los controles de TI que alimentan esos reportes queden documentados y probados, usando marcos como COSO y COBIT.
 ---
 
 ## Primer Parcial — mayo 2026 (preguntas exclusivas)
@@ -100,11 +99,9 @@
 
 **3.** ¿Cómo auditor, qué evidencia solicitaría para verificar que el principio de "Integridad" de la triada CIA se cumple en una base de datos de nómina?
 
-> [!success]- Respuesta
-> La integridad implica que solo personas autorizadas modifiquen los datos por métodos autorizados, garantizando exactitud, fiabilidad y consistencia. Solicitaría: la matriz de roles y permisos (control de accesos), los logs que registren quién modificó qué y cuándo, los controles de integridad referencial de la base, los controles de aplicación sobre entradas/procesamiento/salidas (validación, prevención de altas no autorizadas), funciones hash que detecten alteraciones, y pruebas de conciliación que verifiquen la consistencia interna y externa (por ejemplo, contra los legajos). Son evidencias de cumplimiento (que el control existe) y sustantivas (que funciona).
 
 > [!success]- Respuesta
-> Para verificar esto solicitaria la matriz de roles y permisos, los registros de auditoria o logs para ver quien modificio que y cuando, los controles de integridad referencial, evidencia de controles de aplicacion sobre entradas, pocesamiento y/o salidas, el uso de funciones hash para detectar alteraciones y las pruebas de conciliacion que verifiquen la consistencia interna y externa. Todas estas son evidencias de cumplimiento del principio de integridad. 
+> Para verificar esto me aseguraria de 3 cosas. Revisaria quien tiene acceso para modificar los datos, es decir, revisaria la matriz de permisos. Segundo, revisaria los logs para ver quien toco que y cuando. Y por ulitmo verificaria el uso de funciones hash con algoritmos actualizados como sha-256 o AES. Todas estas son evidencias de cumplimiento del principio de integridad. 
 
 **4.** Un auditor descubre una vulnerabilidad crítica en el sistema de un cliente que también afecta a otros bancos (que no son sus clientes). Según el código de ética profesional, ¿cuál es el curso de acción correcto? Analice el dilema entre confidencialidad del cliente e interés público.
 
@@ -114,7 +111,7 @@
 **5.** Usted es consultor de seguridad para la empresa A y auditor para la empresa B. La empresa B quiere comprar a la A. ¿Existe un conflicto ético si usted realiza la Due Diligence tecnológica? Justifique.
 
 > [!success]- Respuesta
-> Sí, hay un conflicto de intereses que compromete la independencia. Al ser consultor de A (la comprada) y auditor de B (la compradora), el profesional tiene intereses en ambos lados. Pudo haber moldeado como consultor los sistemas que ahora debería evaluar objetivamente, y su juicio quedaría sesgado. Se agrava con la incompatibilidad de funciones de la deontología (no se audita lo que uno mismo asesoró) y las restricciones de SOX. Lo correcto es declarar el conflicto y abstenerse de la Due Diligence, o renunciar a uno de los dos roles, para preservar la independencia.
+> Sí, hay un conflicto de intereses que compromete la independencia. Al ser consultor de A (la comprada) y auditor de B (la compradora), el profesional tiene intereses en ambos lados. Debido a esto, su juicio podria quedar sesgado y se generaria una incompatibilidad de funciones de la deontología ya que no se audita lo que uno mismo asesoró y habria restricciones de SOX. Lo correcto es declarar el conflicto y abstenerse de la Due Diligence, o renunciar a uno de los dos roles, para preservar la independencia.
 
 **6.** "La auditoría no busca culpables, busca riesgos". Critique o defienda esta afirmación y explique cómo este enfoque cambia la predisposición del personal auditado.
 
