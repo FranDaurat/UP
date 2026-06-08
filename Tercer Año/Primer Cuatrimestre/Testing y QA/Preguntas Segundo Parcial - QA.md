@@ -324,5 +324,4 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **4.** Según la práctica "Establecer Línea Base de Testing (Plan de CM)", describí tu propuesta.
 
 > [!success]- Respuesta
-> La propuesta consiste en establecer una **línea base inicial al finalizar la etapa de diseño**, congelando los artefactos del proyecto (código, requisitos, casos de prueba, checklists, Plan de Calidad y Plan CM) bajo control de configuración según **IEEE 828**.
-> A partir de ahí, todo cambio pasa por el **proceso formal de control de cambios** con sus auditorías por sprint, garantizando trazabilidad, integridad y reproducibilidad de cada versión del sistema e-commerce de EMPRESA.
+> La propuesta consiste en establecer una **línea base inicial al finalizar la etapa de diseño**, congelando los artefactos del proyecto bajo configuracion segun el estandar IEEE 828. A partir de ahi, todo cambio pasa por un proceso formal de control de cambios y auditorias por sprint, garantizando la trazabilidad y la integridad de cada version.
