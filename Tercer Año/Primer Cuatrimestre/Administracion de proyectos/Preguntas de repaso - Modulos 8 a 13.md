@@ -670,11 +670,11 @@ Acá tenés la grilla con todos los indicadores del Valor Ganado (EVM).
 
 ## Variaciones (resta → diferencia)
 
-|Sigla|Fórmula|Qué mide|Interpretación|
-|---|---|---|---|
-|**SV**|EV − PV|Variación del **cronograma**|+ adelantado / − atrasado / 0 en tiempo|
-|**CV**|EV − AC|Variación del **costo**|+ gasté de menos / − gasté de más|
-|**VAC**|BAC − EAC|Variación al final (proyectada)|+ terminaré bajo presupuesto / − por encima|
+| Sigla   | Fórmula   | Qué mide                        | Interpretación                              |
+| ------- | --------- | ------------------------------- | ------------------------------------------- |
+| **SV**  | EV − PV   | Variación del **cronograma**    | + adelantado / − atrasado / 0 en tiempo     |
+| **CV**  | EV − AC   | Variación del **costo**         | + gasté de menos / − gasté de más           |
+| **VAC** | BAC − EAC | Variación al final (proyectada) | + terminaré bajo presupuesto / − por encima |
 
 ## Índices (división → eficiencia)
 
