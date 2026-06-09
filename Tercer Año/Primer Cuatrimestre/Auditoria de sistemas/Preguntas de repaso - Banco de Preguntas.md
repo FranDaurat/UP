@@ -32,12 +32,12 @@
 **5.** Explicar, con palabras propias, la importancia estratégica de una auditoría de sistemas en una organización moderna, y cómo su rol va más allá de la mera detección de fallos. Argumentar cómo contribuye a la gobernanza y la toma de decisiones.
 
 > [!success]- Respuesta
-> La auditoría de sistemas revisa que los controles funcionen bien para dar confianza de que las operaciones, la información y el cumplimiento de normas están en orden. En una empresa donde todo depende de la tecnología el hecho de poder detectar por qué fallan las cosas y proponer mejoras, le da a la dirección información segura para decidir, preveniendo fraudes y manteniendo la tecnología alineada con los objetivos. Su valor está en mejorar el control interno, no en buscar culpables.
+> Revisa que los controles funcionen bien para dar confianza de que las operaciones, la información y el cumplimiento de normas están en orden. Detectando por qué fallan las cosas y proponiendo mejoras brindando a la dirección información segura para decidir, preveniendo asi fraudes y manteniendo la tecnología alineada con los objetivos. Su valor está en mejorar el control interno, no en buscar culpables.
 
 **6.** Comparar una auditoría de sistema de información "operativa" con una "financiera" en términos de sus objetivos, alcance y el tipo de hallazgos que cada una priorizaría. Proporcionar un ejemplo donde los resultados de una auditoría operativa de TI impactarían directamente en los resultados de una auditoría financiera.
 
 > [!success]- Respuesta
-> La operativa se enfoca en la efectividad y eficiencia de las operaciones, priorizando hallazgos de desempeño y seguridad; la financiera busca la confiabilidad y razonabilidad de la información contable. Se relacionan directamente porque la TI soporta las aplicaciones financieras. Ejemplo: si la auditoría operativa detecta un control de accesos deficiente o ausencia de logs en el sistema contable, ese hallazgo impacta en la financiera, porque sin esos controles no se garantiza la integridad de los datos y la opinión podría requerir salvedades.
+> La operativa se enfoca en la efectividad y eficiencia de las operaciones, priorizando hallazgos de desempeño y seguridad; la financiera busca la confiabilidad y razonabilidad de la información contable. Se relacionan directamente porque la TI soporta las aplicaciones financieras. Ejemplo: si la auditoría operativa detecta un control de accesos deficiente o ausencia de logs en el sistema contable, ese hallazgo impacta en la financiera, porque sin esos controles no se garantiza la integridad de los datos.
 
 **7.** Analizar las ventajas y desventajas de contar con un equipo de auditoría interna versus contratar a un auditor externo para una evaluación integral de los sistemas de información de una gran corporación. ¿En qué situaciones específicas podría ser más beneficioso uno u otro?
 
@@ -98,7 +98,6 @@
 > Como auditor buscaria evidencia tangible. Como por ejemplo la politica de seguridad de la informacion formalmente firmada, actas de revisiones de la direccion, asignacion de presupuesto y programas de formacion impulsados por ellos. Todo esto demuestra un compromiso real. 
 
 **3.** ¿Cómo auditor, qué evidencia solicitaría para verificar que el principio de "Integridad" de la triada CIA se cumple en una base de datos de nómina?
-
 
 > [!success]- Respuesta
 > Para verificar esto me aseguraria de 3 cosas. Revisaria quien tiene acceso para modificar los datos, es decir, revisaria la matriz de permisos. Segundo, revisaria los logs para ver quien toco que y cuando. Y por ulitmo verificaria el uso de funciones hash con algoritmos actualizados como sha-256 o AES. Todas estas son evidencias de cumplimiento del principio de integridad. 
