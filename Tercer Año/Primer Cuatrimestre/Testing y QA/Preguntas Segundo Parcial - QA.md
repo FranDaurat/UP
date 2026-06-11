@@ -14,12 +14,22 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **1.** Enumere y defina el Equipamiento requerido para definir un ambiente de testing.
 
 > [!success]- Respuesta
-> Son **cuatro recursos**: cantidad de puestos de trabajo (estaciones para los testers), servidor de almacenamiento de casos de prueba, servidor de administración de versiones de fuentes (versionado del código) y servidor de base de datos de prueba, más el **backup** para respaldar la información.
+> Son **cinco recursos**: 
+>  1. cantidad de puestos de trabajo (estaciones para los testers), 
+>  2. servidor de almacenamiento de casos de prueba
+>  3. servidor de administración de versiones de fuentes (versionado del código)  
+>  4. servidor de base de datos de prueba
+>  5. **backup** para respaldar la información.
 
 **2.** Enumere y defina el Ambiente de desarrollo para definir un ambiente de testing.
 
 > [!success]- Respuesta
-> El ambiente de desarrollo es el espacio donde se prueba el programa antes de usarlo. Tiene cinco partes: un lugar donde se guardan las distintas versiones del código, los datos de ejemplo que se usan para probar, la forma de correr y revisar las pruebas, el seguimiento de los errores que aparecen para irlos arreglando, y una base de datos para esas pruebas. Es decir, es la parte que ordena el código y la información mientras se está probando todo.
+> Se compone por 5 partes: 
+> **1. Control de fuentes:** Gestiona distintas partes del codigo.
+> **2. Incoporacion de datos de prueba:** Prepara y carga los datos necesarios para los ensayos.
+> **3. Ejecucion y control de casos de prueba:** Corre las pruebas y supervisa su evolucion.
+> **4. Seguimiento de correccion de errores:** Gestiona la resolucion de fallos.
+> **5. Base de datos de test:** Se almacenan los datos utilizados furante las pruebas
 
 **3.** Grafique un proceso de ambiente de testing describiendo los roles y activos.
 
@@ -108,8 +118,8 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 
 > [!success]- Respuesta
 > Comparando **no incremental (Big-Bang)** frente a **incremental**:
-> - La **no incremental** requiere más trabajo (más stubs y drivers), detecta más tarde los errores de interfaces y las suposiciones incorrectas entre módulos (se integran al final), hace más difícil encontrar la falta que provocó la falla y prueba menos los módulos.
-> - En la **incremental**, el defecto suele asociarse al módulo recién integrado o a sus interfaces, y los módulos ya probados se vuelven a probar indirectamente.
+**No incremental (Big-Bang):** Prueba los modulos de manera unitaria pero une todos los módulos de una vez y los prueba juntos al final. Más trabajo, los errores aparecen tarde y cuesta saber cuál módulo falló.
+**Incremental:** integra y prueba de a un módulo por vez. Si algo falla, sabés que es el módulo recién sumado o su conexión, y lo ya probado se vuelve a probar solo.
 
 ---
 
@@ -119,7 +129,7 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 
 > [!success]- Respuesta
 > La **prueba de aceptación** la realizan los usuarios para verificar que el sistema se ajusta a sus requerimientos (técnica de **caja negra** basada en la especificación); es la última oportunidad real de testeo y la etapa en que el usuario puede rechazar el sistema.
-> **Determinar el rol del usuario** significa asegurar que se involucre en todo momento, identificar criterios de aceptación iniciales/intermedios/finales, planear cómo y quién aceptará el sistema, planear recursos y preparar el plan de aceptación.
+> **Determinar el rol del usuario** definir quien es el usuario final que va a usar el sistema yasegurar que se involucre en todo momento 
 
 **2.** ¿Qué es la Prueba de Aceptación? ¿Qué significa **"Proceso"**?
 
@@ -298,8 +308,10 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **2.** Explique tecnologías que se pueden usar en un modelo DevSecOps.
 
 > [!success]- Respuesta
-> **DevSecOps** integra la seguridad desde el **principio del ciclo DevOps** y se apoya fuertemente en la automatización, de modo que todos los procesos de seguridad que se puedan automatizar (como las auditorías de seguridad) .
-> Se apoya en herramientas de **integración y entrega continua (CI/CD)**, automatización de pruebas y de auditorías de seguridad, y **monitoreo**, sumando análisis de seguridad automatizado dentro del pipeline de desarrollo.
+> - CI/CD (GitLab)
+> - repositorios y control de versiones (GitHub)
+> - contenedores y orquestación (Docker, Kubernetes)
+> - seguridad de aplicaciones y de contenedores para análisis automatizado de vulnerabilidades, y monitoreo para vigilancia continua del sistema.
 
 ---
 
@@ -308,7 +320,8 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **1.** Explique con un ejemplo una **Debilidad en la ISO/IEC 29119**.
 
 > [!success]- Respuesta
-> Entre sus debilidades está que **no es novedosa**, que puede resultar **extensa y burocrática**, que **no es vista como "ágil"** y que su aplicación implica excesiva adaptación, cambio cultural y costos, además de dudarse si aplica a cualquier contexto u organización.
+> Entre sus debilidades está que **no es novedosa**, que puede resultar **extensa y burocrática**, que **no es vista como "ágil"** y que su aplicación implica excesiva adaptación, cambio cultural y costos.
+> 
 > **Ejemplo:** en una startup pequeña que trabaja con Scrum, aplicar toda la documentación de procesos que exige la norma sería burocrático y costoso, frenando la agilidad del equipo.
 
 **2.** "El TMMI se posiciona como un modelo complementario a CMMI" — **Verdadero / Falso**.
@@ -319,7 +332,7 @@ Quiero que me hagas una archivo que tenga las preguntas que estan aca (Preguntas
 **3.** Según la práctica "Comparación de ISO 29119 y TMMI", describir los puntos comunes entre ambos modelos.
 
 > [!success]- Respuesta
-> Tanto la ISO 29119 como el TMMI son marco de referncia y guias normativas diseñadas para estandarizar y mejorar los procesos de prueba en un organizacion. Ambos elevan la calidad del testing a un nivel estrategico basandose en buenas practicas para que las pruebas sean mas sistematicas y confiables..
+> Ambos buscan mejorar y estandarizar el proceso de pruebas a nivel de toda la organizacion, basandose en buenas practicas reconocidas, utilizando niveles progresivos de mejora y apuntando a mejorar la calidad del producto y la confianza de las pruebas.
 
 **4.** Según la práctica "Establecer Línea Base de Testing (Plan de CM)", describí tu propuesta.
 

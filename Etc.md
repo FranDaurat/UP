@@ -12,27 +12,12 @@ rabuch ---> buen profesor
 Martin acosta ---> segun el grupo es choto
 Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otros otroa)
 
-## Parciales 
-
-
-4. 05/06 DevOps (Segundo) 
-
-5. 10/06 Testing y QA (Segundo)
-
-6. 11/06 Seg web (Segundo)
-
-7. 11/06 (parcial) Auditoria de sistemas
-
-8. 10/06 y 11/06 Adm de proyectos (Segundo) 
-
 -- -
 ## Finales
 
-### Seguridad web: 
-2/7 desde 18
-16/7 desde las 18
-
-### Admin de proyectos: 
-martes 30/6 por la tarde
-martes 7/7  a la tarde
-Miercoles 15 a la mañana
+30/06 ---> Administracion de proyecto
+01/07 ---> Sistemas Operativos
+02/07 ---> Seg web
+03/07 ---> DevOps
+06/07 ---> Testing y QA
+13/07 ---> Auditoria

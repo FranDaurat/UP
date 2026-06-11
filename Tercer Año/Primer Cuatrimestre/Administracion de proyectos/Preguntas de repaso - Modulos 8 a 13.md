@@ -686,10 +686,10 @@ Acá tenés la grilla con todos los indicadores del Valor Ganado (EVM).
 
 ## Proyecciones (mirar al futuro)
 
-|Sigla|Nombre|Qué es|
-|---|---|---|
-|**EAC**|Estimate at Completion|Costo **total** proyectado al finalizar (lo gastado + lo que falta). Común: BAC/CPI|
-|**ETC**|Estimate to Complete|Costo del trabajo **restante** solamente. = EAC − AC|
+| Sigla   | Nombre                 | Qué es                                                                              |
+| ------- | ---------------------- | ----------------------------------------------------------------------------------- |
+| **EAC** | Estimate at Completion | Costo **total** proyectado al finalizar (lo gastado + lo que falta). Común: BAC/CPI |
+| **ETC** | Estimate to Complete   | Costo del trabajo **restante** solamente. = EAC − AC                                |
 
 ## Truco para no confundirte
 
