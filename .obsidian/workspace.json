@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Etc"
             }
+          },
+          {
+            "id": "02058f2edc2076aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tercer Año/Primer Cuatrimestre/Testing y QA/Oral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oral"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etc.md",
+                "file": "Tercer Año/Primer Cuatrimestre/Testing y QA/Oral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Etc"
+              "title": "Outgoing links from Oral"
             }
           },
           {
@@ -184,17 +198,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "682d3ed5310db7ba",
+  "active": "02058f2edc2076aa",
   "lastOpenFiles": [
+    "Etc.md",
+    "Tercer Año/Primer Cuatrimestre/Testing y QA/Oral.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
     "Material/testing_qa/TP/TPParte9_Plant_testing.pdf",
     "Material/testing_qa/TP/TPParte8Grupo8.pdf",
     "Material/testing_qa/TP/TPParte10_Informe_ISO.pdf",
     "Material/testing_qa/TP/TP.zip",
-    "Untitled.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Preguntas Segundo Parcial - QA.md",
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Modulos 8 a 13.md",
-    "Etc.md",
     "Material/testing_qa/TP/TPParte7_Plant_testing.pdf",
     "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.31 AM.jpeg",
     "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.31 AM (1).jpeg",
