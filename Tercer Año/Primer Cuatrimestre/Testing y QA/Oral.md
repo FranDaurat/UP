@@ -51,3 +51,4 @@ EMPRESA: empresa mediana (~10 desarrolladores) que hacía software financiero y 
 - La **matriz de trazabilidad** se seleccionó en P1 pero **no se desarrolló como documento** en ninguna entrega. El concepto aparece implícito en P5 (cada caso ligado a una historia), pero no hay una matriz armada. Si la piden, decir eso; no inventar que existe.
 
 Eso es todo lo que necesitás. Pegalo en Obsidian y esta noche probá contarlo de memoria sin mirar; donde te trabes, ahí mirás.
+p;0o987ytrfty89
