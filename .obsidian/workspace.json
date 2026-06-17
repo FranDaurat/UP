@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63314565b8b851ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Etc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Etc"
-            }
-          },
-          {
-            "id": "e8d7616b30b960de",
+            "id": "fc3c21d91bf1d7d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Preguntas de repaso - Modulos 8 a 13"
+            }
+          },
+          {
+            "id": "682d3ed5310db7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Etc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Etc"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Modulos 8 a 13.md",
+                "file": "Etc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Preguntas de repaso - Modulos 8 a 13"
+              "title": "Outgoing links from Etc"
             }
           },
           {
@@ -184,53 +184,53 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e8d7616b30b960de",
+  "active": "682d3ed5310db7ba",
   "lastOpenFiles": [
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Parciales.md",
-    "Tercer Año/Segundo Cuatrimestre/Informatica Forense.md",
-    "Etc.md",
-    "Untitled 1.md",
+    "Material/testing_qa/TP/TPParte9_Plant_testing.pdf",
+    "Material/testing_qa/TP/TPParte8Grupo8.pdf",
+    "Material/testing_qa/TP/TPParte10_Informe_ISO.pdf",
+    "Material/testing_qa/TP/TP.zip",
     "Untitled.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Preguntas Segundo Parcial - QA.md",
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Modulos 8 a 13.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Preguntas Segundo Parcial - QA.md.tmp.51068.9f11080254d9",
-    "Tercer Año/Primer Cuatrimestre/DevOps/Modulo 1 - Introduccion.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Preguntas Segundo Parcial - QA.md.tmp.51068.70142ae7ba33",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Coass.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 1 - Atributos de calidad del software.md",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.1570617.80810d73ec27",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 1 - Introduccion a la direccion de proyectos.md",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.1570617.518a7a7e9a56",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Modulos 8 a 13.md.tmp.194188.9a95bfcaabe1",
-    "Material/testing_qa/Parciales/2doParcial/2doParcial.zip",
-    "Material/testing_qa/Parciales/2doParcial/ziAL8HOZ",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.31 AM (1).jpeg",
+    "Etc.md",
+    "Material/testing_qa/TP/TPParte7_Plant_testing.pdf",
     "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.31 AM.jpeg",
+    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.31 AM (1).jpeg",
     "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.30 AM.jpeg",
     "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.13 AM.jpeg",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.12 AM (1).jpeg",
     "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.12 AM.jpeg",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.11 AM (1).jpeg",
+    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.12 AM (1).jpeg",
     "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.11 AM.jpeg",
+    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.11 AM (1).jpeg",
     "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.10 AM.jpeg",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Unknown 2026-06-05 at 3.03.46 PM.zip",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Unknown 2026-06-05 at 3.03.41 PM.zip",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Unknown 2026-06-05 at 3.02.31 PM.zip",
-    "a.md",
-    "Material/sistemas_operativos/2doParcial/Parcial 2023/Pregunta 09-10.jpeg",
+    "Material/testing_qa/Parciales/2doParcial/2doParcial.zip",
+    "Material/testing_qa/Parciales/2doParcial/2Parcial.pdf",
+    "Material/testing_qa/Parciales/2doParcial",
+    "Material/testing_qa/Modulo13-1-Modelo_madurez.pdf",
+    "Material/testing_qa/Modulo12-1-Estandares_testing.pdf",
+    "Material/sistemas_operativos/2doParcial/parcial-alan/WhatsApp Image 2026-05-28 at 4.01.21 PM.jpeg",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 7 - Estrategias de Testing.md",
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Coass.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 1 - Fundamentos e Introduccion..md",
     "Cuarto Año/Planeamiento estrategico/Banco de preguntas.md",
+    "Tercer Año/Segundo Cuatrimestre/Informatica Forense.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 6 - Diseños de casos de tests.md",
+    "Tercer Año/Primer Cuatrimestre/Testing y QA/Parciales.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 4 - Administracion de Configuracion.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 5 - Fundamentos de Testing.md",
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 6  - Dominio de desempeño de la entrega.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 2 - Calidad del Software.md",
+    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 1 - Atributos de calidad del software.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md",
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 5 - Gestion de los interesados.md",
     "Tercer Año/Primer Cuatrimestre/DevOps/Modulo 2 - Tools.md",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 3 - Gobierno Corporativo y estandares relacionados II.md"
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 3 - Gobierno Corporativo y estandares relacionados II.md",
+    "Tercer Año/Primer Cuatrimestre/DevOps/Modulo 3 - CICD.md",
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 6 - Auditoría informática y deontología.md",
+    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 4 - Acta de constitución. Plan para la dirección de proyectos.md",
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 5 -Auditoría Informática.md"
   ]
 }
