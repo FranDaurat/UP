@@ -15,9 +15,9 @@ Cudek ---> alto profesor
 -- -
 ## Finales
 
-30/06 ---> Administracion de proyecto
-01/07 ---> Sistemas Operativos
-02/07 ---> Seg web
-03/07 ---> DevOps
-06/07 ---> Testing y QA
-13/07 ---> Auditoria
+30/06 ---> Administracion de proyecto (18 hs)
+02/07 ---> Seg web (18 hs)
+03/07 ---> TyQA (9hs)
+03/07 ---> DevOps (18hs)
+07/07 ---> Sisops (9hs)
+13/07 ---> Auditoria (14hs)
