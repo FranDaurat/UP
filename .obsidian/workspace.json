@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tercer Año/Primer Cuatrimestre/Testing y QA/Oral.md",
+                "file": "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Final.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oral"
+              "title": "Preguntas de repaso - Final"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tercer Año/Primer Cuatrimestre/Testing y QA/Oral.md",
+                "file": "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Oral"
+              "title": "Outgoing links from Preguntas de repaso - Final"
             }
           },
           {
@@ -200,32 +200,34 @@
   },
   "active": "02058f2edc2076aa",
   "lastOpenFiles": [
-    "Material/auditoria_de_sistemas/final/parcial/parcial.zip",
-    "Material/auditoria_de_sistemas/final/parcial",
-    "Material/auditoria_de_sistemas/final",
-    "Material/testing_qa/final/segundo-parcial/segundo-parcial.zip",
-    "Material/testing_qa/final/primer-parcial/primer-parcial.zip",
-    "Material/testing_qa/final/primer-parcial/primer-parcial.zsip",
-    "Material/testing_qa/final/segundo-parcial",
-    "Material/testing_qa/final/primer-parcial",
-    "Material/testing_qa/final",
-    "Material/sistemas_operativos/final/segundo-parcial/segundo-parcial.zip",
-    "Material/sistemas_operativos/final/segundo-parcial/WhatsApp Unknown 2026-06-19 at 1.05.51 PM.zip",
-    "Etc.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Oral.md",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Preguntas Segundo Parcial - QA.md",
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Modulos 8 a 13.md",
+    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Final.md",
+    "Tercer Año/Primer Cuatrimestre/SisOps/Parciales y Final - SisOps.md",
+    "Etc.md",
+    "Tercer Año/Primer Cuatrimestre/Testing y QA/Parciales y Final - QA.md",
+    "Tercer Año/Primer Cuatrimestre/SisOps/Parciales y Final - SisOps.md.tmp.1094561.98a7dc235431",
+    "Tercer Año/Primer Cuatrimestre/SisOps",
+    "Tercer Año/Primer Cuatrimestre/Testing y QA/Parciales y Final - QA.md.tmp.1094561.489ac024f637",
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
+    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Final.md.tmp.1094561.e73a99bab6f7",
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.1094561.577f70b9373a",
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.1094561.d67a7ddaad5d",
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.1094561.08c68343edbd",
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.1094561.9f774ad7189f",
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.1094561.c600b510b44f",
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.1094561.8b3f65303e8c",
+    "Material/auditoria_de_sistemas/final/parcial/WhatsApp Image 2026-06-19 at 1.21.50 PM.jpeg",
+    "Material/auditoria_de_sistemas/final/parcial/WhatsApp Image 2026-06-19 at 1.21.50 PM (3).jpeg",
+    "Material/auditoria_de_sistemas/final/parcial/WhatsApp Image 2026-06-19 at 1.21.50 PM (2).jpeg",
+    "Material/auditoria_de_sistemas/final/parcial/WhatsApp Image 2026-06-19 at 1.21.50 PM (1).jpeg",
+    "WhatsApp Image 2026-06-19 at 1.21.50 PM (3).jpeg",
+    "WhatsApp Image 2026-06-19 at 1.21.50 PM (2).jpeg",
+    "WhatsApp Image 2026-06-19 at 1.21.50 PM (1).jpeg",
+    "WhatsApp Image 2026-06-19 at 1.21.50 PM.jpeg",
+    "Tercer Año/Primer Cuatrimestre/Testing y QA/Oral.md",
+    "Tercer Año/Primer Cuatrimestre/Testing y QA/Preguntas Segundo Parcial - QA.md",
     "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.31 AM.jpeg",
     "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.31 AM (1).jpeg",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.30 AM.jpeg",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.13 AM.jpeg",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.12 AM.jpeg",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.12 AM (1).jpeg",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.11 AM.jpeg",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.11 AM (1).jpeg",
-    "Material/testing_qa/Parciales/2doParcial/WhatsApp Image 2026-06-02 at 10.11.10 AM.jpeg",
-    "Material/sistemas_operativos/2doParcial/parcial-alan/WhatsApp Image 2026-05-28 at 4.01.21 PM.jpeg",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 7 - Estrategias de Testing.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Coass.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
@@ -243,8 +245,6 @@
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 5 - Gestion de los interesados.md",
     "Tercer Año/Primer Cuatrimestre/DevOps/Modulo 2 - Tools.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 3 - Gobierno Corporativo y estandares relacionados II.md",
-    "Tercer Año/Primer Cuatrimestre/DevOps/Modulo 3 - CICD.md",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 6 - Auditoría informática y deontología.md",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 4 - Acta de constitución. Plan para la dirección de proyectos.md"
+    "Tercer Año/Primer Cuatrimestre/DevOps/Modulo 3 - CICD.md"
   ]
 }

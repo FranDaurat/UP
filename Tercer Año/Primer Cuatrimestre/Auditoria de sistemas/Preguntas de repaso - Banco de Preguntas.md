@@ -3,43 +3,45 @@
 > [!tip] Cómo usar este archivo
 > Leé la consigna, respondela mentalmente, y desplegá la caja **▸ Respuesta** para verificar. Las cajas están colapsadas por defecto. Las respuestas son la versión resumida (lo esencial de cada respuesta en un párrafo compacto).
 >
-> Las preguntas 1 a 10 del Primer Parcial son las mismas del Segundo Parcial, por eso se responden una sola vez aquí. El Primer Parcial agrega las exclusivas 11–13. El Final tiene su propio set.
+> Las preguntas 1 a 10 del Primer Parcial son las mismas del Segundo Parcial, por eso se responden una sola vez aquí. El Primer Parcial agrega las exclusivas 11–14. El Final tiene su propio set.
+>
+> 🔴 **Marca de prioridad:** las preguntas con 🔴 *(tomada — Parcial mayo 2026)* ya cayeron en el parcial rendido. Darles menos peso al repasar; concentrarse en las que **no** tienen la marca.
 
 ---
 
 ## Segundo Parcial — noviembre 2025
 
-**1.** Argumentar por qué la certificación ISO 27001 no debe ser vista como un objetivo único, sino como un ciclo de mejora continua. ¿Qué implicaciones tiene esta visión para el trabajo del auditor de sistemas?
+**1.** 🔴 *(tomada — Parcial mayo 2026)* Argumentar por qué la certificación ISO 27001 no debe ser vista como un objetivo único, sino como un ciclo de mejora continua. ¿Qué implicaciones tiene esta visión para el trabajo del auditor de sistemas?
 
 > [!success]- Respuesta
 > La certificación no acredita que estés "seguro", sino que tenés un SGSI funcionando, y este se basa en el modelo PDCA (Plan → Do → Check → Act), que es cíclico por definición; tomarlo como meta final sería congelar el sistema en la primera vuelta. La mejora continua importa porque amenazas, tecnología y negocio cambian, y un control que servía ayer queda obsoleto. Para el auditor implica no verificar controles sueltos sino que el SGSI gire como sistema de gestión, buscando evidencia de las cuatro fases y verificando que las no conformidades se documenten y cierren.
 
-**2.** Explicar las diferencias y similitudes clave entre la norma ISO 27001 y la norma ISO 27002. Describir cómo cada una contribuye a la implementación y el mantenimiento de un Sistema de Gestión de Seguridad de la Información (SGSI) eficaz, y por qué son consideradas complementarias.
+**2.** 🔴 *(tomada — Parcial mayo 2026)* Explicar las diferencias y similitudes clave entre la norma ISO 27001 y la norma ISO 27002. Describir cómo cada una contribuye a la implementación y el mantenimiento de un Sistema de Gestión de Seguridad de la Información (SGSI) eficaz, y por qué son consideradas complementarias.
 
 > [!success]- Respuesta
 > Ambas son de la familia ISO 27000 y apuntan a un SGSI eficaz bajo los pilares CIA, pero la 27001 fija los requisitos y es certificable, mientras que la 27002 es una guía de buenas prácticas con los controles recomendables y no es certificable. La 27001 dice el "qué" y la 27002 el "cómo"; además, en la 27001 no todos los controles son obligatorios y la organización justifica cuáles aplica mediante la Declaración de Aplicabilidad (SOA). Son complementarias: la 27001 da el marco para certificar y la 27002 el detalle práctico para implementar los controles.
 
-**3.** Explicar y comparar las definiciones de seguridad informática, seguridad de la información y ciberseguridad. Ilustrar con un diagrama de Venn y ejemplos concretos de cómo cada concepto aborda diferentes aspectos de la protección de los activos de una organización.
+**3.** 🔴 *(tomada — Parcial mayo 2026)* Explicar y comparar las definiciones de seguridad informática, seguridad de la información y ciberseguridad. Ilustrar con un diagrama de Venn y ejemplos concretos de cómo cada concepto aborda diferentes aspectos de la protección de los activos de una organización.
 
 > [!success]- Respuesta
 > La seguridad informática es la más acotada (proteger la información en medios informáticos: hardware, software, redes). La seguridad de la información es más amplia: protege todos los activos de información de la organización e incluye clasificación, gestión de riesgos, marco normativo, controles y mejora continua. La ciberseguridad se centra en las amenazas del ciberespacio. En un diagrama de Venn, la seguridad de la información es el círculo más abarcativo que contiene a la informática, y la ciberseguridad se solapa con ambas; las tres convergen en proteger los pilares CIA (confidencialidad, integridad, disponibilidad).
 
-**4.** Un auditor de sistemas, durante una revisión de un sistema legado, descubre que un proveedor externo ha implementado un backdoor (puerta trasera) no documentado para acceso de soporte, creando una vulnerabilidad masiva. El proveedor presiona al auditor para que no revele este hallazgo para proteger el contrato. Analizar el dilema ético del auditor y la acción correcta, según los principios de la deontología profesional.
+**4.** 🔴 *(tomada — Parcial mayo 2026)* Un auditor de sistemas, durante una revisión de un sistema legado, descubre que un proveedor externo ha implementado un backdoor (puerta trasera) no documentado para acceso de soporte, creando una vulnerabilidad masiva. El proveedor presiona al auditor para que no revele este hallazgo para proteger el contrato. Analizar el dilema ético del auditor y la acción correcta, según los principios de la deontología profesional.
 
 > [!success]- Respuesta
 > Segun la deontologia profesional y el codigo de etica ISACA, la accion correcta es revelar el hallazgo sin ceder a la presion del proveedor. El auditor debe mantener su independencia y reportar todos los hechos significativos a las partes apropiadas documentando tambien cualquier presion recibida para proteger la integridad del reporte y los intereses del cliente.
 
-**5.** Explicar, con palabras propias, la importancia estratégica de una auditoría de sistemas en una organización moderna, y cómo su rol va más allá de la mera detección de fallos. Argumentar cómo contribuye a la gobernanza y la toma de decisiones.
+**5.** 🔴 *(tomada — Parcial mayo 2026)* Explicar, con palabras propias, la importancia estratégica de una auditoría de sistemas en una organización moderna, y cómo su rol va más allá de la mera detección de fallos. Argumentar cómo contribuye a la gobernanza y la toma de decisiones.
 
 > [!success]- Respuesta
 > Revisa que los controles funcionen bien para dar confianza de que las operaciones, la información y el cumplimiento de normas están en orden. Detectando por qué fallan las cosas y proponiendo mejoras brindando a la dirección información segura para decidir, preveniendo asi fraudes y manteniendo la tecnología alineada con los objetivos. Su valor está en mejorar el control interno, no en buscar culpables.
 
-**6.** Comparar una auditoría de sistema de información "operativa" con una "financiera" en términos de sus objetivos, alcance y el tipo de hallazgos que cada una priorizaría. Proporcionar un ejemplo donde los resultados de una auditoría operativa de TI impactarían directamente en los resultados de una auditoría financiera.
+**6.** 🔴 *(tomada — Parcial mayo 2026)* Comparar una auditoría de sistema de información "operativa" con una "financiera" en términos de sus objetivos, alcance y el tipo de hallazgos que cada una priorizaría. Proporcionar un ejemplo donde los resultados de una auditoría operativa de TI impactarían directamente en los resultados de una auditoría financiera.
 
 > [!success]- Respuesta
 > La operativa se enfoca en la efectividad y eficiencia de las operaciones, priorizando hallazgos de desempeño y seguridad; la financiera busca la confiabilidad y razonabilidad de la información contable. Se relacionan directamente porque la TI soporta las aplicaciones financieras. Ejemplo: si la auditoría operativa detecta un control de accesos deficiente o ausencia de logs en el sistema contable, ese hallazgo impacta en la financiera, porque sin esos controles no se garantiza la integridad de los datos.
 
-**7.** Analizar las ventajas y desventajas de contar con un equipo de auditoría interna versus contratar a un auditor externo para una evaluación integral de los sistemas de información de una gran corporación. ¿En qué situaciones específicas podría ser más beneficioso uno u otro?
+**7.** 🔴 *(tomada — Parcial mayo 2026)* Analizar las ventajas y desventajas de contar con un equipo de auditoría interna versus contratar a un auditor externo para una evaluación integral de los sistemas de información de una gran corporación. ¿En qué situaciones específicas podría ser más beneficioso uno u otro?
 
 > [!success]- Respuesta
 > La interna conoce a fondo el negocio, hace seguimiento continuo y cuesta menos, pero tiene menor independencia y posible sesgo. El auditor externo es independiente, aporta credibilidad ante terceros y puede certificar, pero cuesta más y conoce menos el contexto. Conviene la interna para monitoreo continuo y mejora permanente; conviene el externo cuando se necesita opinión imparcial para terceros, certificación de normas (ISO 27001) o cumplimiento regulatorio que exige independencia (como SOX, que prohíbe ciertas incompatibilidades del auditor).
@@ -49,7 +51,7 @@
 > [!success]- Respuesta
 > Cuando en una auditoría el auditor detecta señales de un incidente (accesos indebidos, movimientos raros o un posible fraude), eso puede dar inicio a una investigación forense. Ahí cambia el objetivo: la auditoría revisa que los controles funcionen, mientras que la forensia busca demostrar qué pasó y reunir pruebas válidas para la justicia, cuidando que la evidencia no se altere. Por eso sigue pasos propios que una auditoría común no tiene.
 
-**9.** Detallar las responsabilidades clave y las metodologías distintivas de un auditor de sistemas y un forense informático. En un caso de robo de propiedad intelectual a través de una brecha de seguridad, explicar cómo las preguntas que intentaría responder cada profesional difieren fundamentalmente, y cómo su trabajo se complementaría.
+**9.** 🔴 *(tomada — Parcial mayo 2026)* Detallar las responsabilidades clave y las metodologías distintivas de un auditor de sistemas y un forense informático. En un caso de robo de propiedad intelectual a través de una brecha de seguridad, explicar cómo las preguntas que intentaría responder cada profesional difieren fundamentalmente, y cómo su trabajo se complementaría.
 
 > [!success]- Respuesta
 > El auditor evalúa la efectividad de los controles para evitar problemas y reportarlos a la direccion. El forense, en cambio, investiga que paso cuando ya ocurrio un incidente y reune pruebas con validez lega. Ante un robo de propiedad intelectual, el auditor pregunta "¿por qué fallaron los controles y cómo evitarlo?" y el forense "¿quién accedió, cómo, cuándo y qué lo prueba?". Se complementan: la auditoría detecta el problema y el control fallido, la forensia reconstruye el hecho y aporta la prueba legal.
@@ -74,10 +76,15 @@
 > [!success]- Respuesta
 > La auditoria de cumplimiento se enfoca en la adhesion a normativas y leyes obligatorias. Respondiendo a si la organizacion cumple con lo que debe cumplir. Por otro lado, la auditoria de desempeño analiza la eficacia y eficiencia de los procesos buscando mejoras independientemente de si existe una imposicion legal. El caso de un banco verificando regulaciones del banco central ejemplifica el cumplimiento, mientras que evaluar la eficiencia de los backups ilustra el enfoque operativo. 
 
-**13.** Si una empresa del sector salud en Latinoamérica desea expandir sus operaciones a Estados Unidos, ¿cómo debería abordar el cumplimiento de normativas desde la perspectiva de la auditoría de sistemas? Considerar los principales desafíos, como cuál sería la norma que tendría que cumplir de forma obligatoria.
+**13.** 🔴 *(tomada — Parcial mayo 2026)* Si una empresa del sector salud en Latinoamérica desea expandir sus operaciones a Estados Unidos, ¿cómo debería abordar el cumplimiento de normativas desde la perspectiva de la auditoría de sistemas? Considerar los principales desafíos, como cuál sería la norma que tendría que cumplir de forma obligatoria.
 
 > [!success]- Respuesta
 > Al expandirse al mercado estadounidense, la empresa debe realizar un analisis de riesgos para determinar cuales normativas son obligatorias. El foco principal seria la ley HIPAA la cual exige reglas muy estrictas para la privacidad y seguridad de los datos de los pacientes. Para el auditor, El desafio clave es verfiicar que los sistemas que procesan esa informacion medica cumplan efectivamente con esos requisitos incluyendo el control de accesos, cifrado y la notificacion antes cualquier brecha de seguridad.
+
+**14.** 🔴 *(tomada — Parcial mayo 2026)* En el ámbito de la Auditoría de Sistemas y la Seguridad, definir qué se entiende por riesgo. Explicar sus componentes principales, y por qué una comprensión clara del riesgo es fundamental para la toma de decisiones en la gestión de la seguridad de la información.
+
+> [!success]- Respuesta
+> El riesgo es la probabilidad de que una amenaza explote una vulnerabilidad de un activo y cause un impacto negativo sobre los pilares CIA (confidencialidad, integridad, disponibilidad). Sus componentes principales son: el activo (lo que se protege), la amenaza (el evento potencialmente dañino), la vulnerabilidad (la debilidad que la amenaza aprovecha), la probabilidad de ocurrencia y el impacto resultante; de forma simplificada, riesgo = probabilidad × impacto. Comprenderlo con claridad es fundamental porque tanto la auditoría como la gestión de seguridad se basan en riesgos: permite priorizar los controles donde más importan, asignar recursos de forma eficiente y tomar decisiones informadas sobre cómo tratar cada riesgo (aceptarlo, mitigarlo, transferirlo o evitarlo). Sin entender el riesgo no se puede decidir qué proteger ni cuánto invertir, y los controles quedarían aplicados a ciegas.
 
 ---
 
@@ -140,4 +147,5 @@
 ---
 
 > [!note] Cobertura
-> 23 preguntas únicas con respuesta en versión resumida: 10 (Segundo Parcial) + 3 exclusivas (Primer Parcial) + 10 (Final). Las preguntas 1–10 del Primer Parcial coinciden con las del Segundo Parcial.
+> 24 preguntas únicas con respuesta en versión resumida: 10 (Segundo Parcial) + 4 exclusivas (Primer Parcial) + 10 (Final). Las preguntas 1–10 del Primer Parcial coinciden con las del Segundo Parcial.
+> En el Parcial mayo 2026 cayeron las preguntas 🔴: del set 1–10 las nro. 1, 2, 3, 4, 5, 6, 7 y 9; de las exclusivas, la 13 (salud/HIPAA) y la 14 (riesgo). **No** cayeron: 8 (forense detonante), 10 (SOX financiero), 11 y 12.

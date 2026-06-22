@@ -1,0 +1,5901 @@
+WEBVTT
+
+1
+00:00:06.050 --> 00:00:06.780
+Arroyo Arzubi Carlos A.: Concretos.
+
+2
+00:00:14.200 --> 00:00:20.319
+Arroyo Arzubi Carlos A.: Vamos a comenzar la clase, que es prácticamente la última clase completa del curso.
+
+3
+00:00:20.740 --> 00:00:28.290
+Arroyo Arzubi Carlos A.: Donde vamos a ver algún tema nuevo el día de hoy.
+
+4
+00:00:29.120 --> 00:00:30.510
+Arroyo Arzubi Carlos A.: Vamos a ver.
+
+5
+00:00:53.030 --> 00:00:56.670
+Arroyo Arzubi Carlos A.: Había quedado otra materia que bueno
+
+6
+00:00:57.840 --> 00:01:05.500
+Arroyo Arzubi Carlos A.: hoy. Entonces vamos a ver la unidad 11 y 12 y
+
+7
+00:01:06.560 --> 00:01:10.060
+Arroyo Arzubi Carlos A.: vamos a hacer algún comentario sobre el parcial.
+
+8
+00:01:12.060 --> 00:01:20.650
+Arroyo Arzubi Carlos A.: Vamos a ver las notas y, finalmente, las recomendaciones relacionadas con
+
+9
+00:01:20.940 --> 00:01:25.959
+Arroyo Arzubi Carlos A.: los que tenga que rendir recuperatorio y recomendaciones para
+
+10
+00:01:27.030 --> 00:01:30.309
+Arroyo Arzubi Carlos A.: los que ya van a a dar el final que hoy
+
+11
+00:01:30.680 --> 00:01:33.070
+Arroyo Arzubi Carlos A.: va a ser el último día de clase.
+
+12
+00:01:34.780 --> 00:01:41.010
+Arroyo Arzubi Carlos A.: Bueno, eso es lo que vamos a hacer. Así que es una clase un tanto particular.
+
+13
+00:01:41.480 --> 00:01:52.180
+Arroyo Arzubi Carlos A.: Pero bueno, en principio yo había quedado que había debo completar el oral de Mateo Camilletti
+
+14
+00:01:52.350 --> 00:01:53.570
+Arroyo Arzubi Carlos A.: que yo vi por ahí.
+
+15
+00:01:54.250 --> 00:01:55.160
+MATEO CAMILLETTI: El precio y por qué.
+
+16
+00:01:56.170 --> 00:01:58.690
+Arroyo Arzubi Carlos A.: Bien también.
+
+17
+00:01:59.020 --> 00:02:01.010
+Arroyo Arzubi Carlos A.: Ledesma Alejandro.
+
+18
+00:02:04.760 --> 00:02:05.580
+ALEJANDRO LEDESMA CASTILLO: Aquí. Estoy.
+
+19
+00:02:10.389 --> 00:02:11.839
+Arroyo Arzubi Carlos A.: De desmalijarme.
+
+20
+00:02:19.349 --> 00:02:25.839
+Arroyo Arzubi Carlos A.: bien y sales mateo. Supongo que no debe estar
+
+21
+00:02:31.949 --> 00:02:34.219
+Arroyo Arzubi Carlos A.: sale mateo.
+
+22
+00:02:36.209 --> 00:02:37.289
+Arroyo Arzubi Carlos A.: No va más.
+
+23
+00:02:46.789 --> 00:02:51.489
+Arroyo Arzubi Carlos A.: Bueno, camillete.
+
+24
+00:02:51.950 --> 00:02:52.560
+MATEO CAMILLETTI: Sí.
+
+25
+00:02:53.760 --> 00:03:01.899
+Arroyo Arzubi Carlos A.: Dijimos que íbamos a hacer un oral en función del segundo del segundo parcial.
+
+26
+00:03:02.920 --> 00:03:24.329
+Arroyo Arzubi Carlos A.: Y entonces nosotros vimos en la unidad. Nueve archivos, vimos modos de acceso
+
+27
+00:03:25.210 --> 00:03:29.069
+Arroyo Arzubi Carlos A.: a los archivos y dentro de cada modo de acceso.
+
+28
+00:03:29.250 --> 00:03:32.880
+Arroyo Arzubi Carlos A.: Vimos distintos tipos de archivo, Te acordás.
+
+29
+00:03:32.880 --> 00:03:39.229
+MATEO CAMILLETTI: Sí había 2 métodos de acceso: el de acceso secuencial y el acceso directo
+
+30
+00:03:39.490 --> 00:03:43.550
+MATEO CAMILLETTI: en el acceso secuencial sólo se permiten los archivos secuencial, lineal.
+
+31
+00:03:44.350 --> 00:03:46.420
+Arroyo Arzubi Carlos A.: Para el cachito, para el cachito.
+
+32
+00:03:48.740 --> 00:03:51.180
+Arroyo Arzubi Carlos A.: ¿por qué tengo 2? Mateo Camilletti.
+
+33
+00:03:51.980 --> 00:04:01.679
+MATEO CAMILLETTI: Porque a mí se me trabó el acceso a Blackburn y mateo, me pasó el link de zoom. Entonces no me puedo cambiar el nombre y figuro con el link de él. Pero mi Blackburn no me deja acceder.
+
+34
+00:04:02.090 --> 00:04:03.180
+Arroyo Arzubi Carlos A.: Cuáles son? ¿vos.
+
+35
+00:04:03.550 --> 00:04:04.959
+MATEO CAMILLETTI: Federico Soler.
+
+36
+00:04:08.810 --> 00:04:12.280
+Arroyo Arzubi Carlos A.: Bien. Bien, ya me habías estado asustando. Perfecto.
+
+37
+00:04:12.280 --> 00:04:14.180
+MATEO CAMILLETTI: Tengo el Dni. Si querés para comprobar.
+
+38
+00:04:14.480 --> 00:04:23.760
+Arroyo Arzubi Carlos A.: No, No, no está bien. Yo yo, de pronto, porque encima me aparecieron los 2 ahí arriba, medio juntitos. Digo, ¿Qué pasa? Tengo 2 camilletes. Y yo no me di cuenta.
+
+39
+00:04:24.040 --> 00:04:25.990
+Arroyo Arzubi Carlos A.: Bueno, seguís mateo, disculpame.
+
+40
+00:04:26.420 --> 00:04:32.280
+MATEO CAMILLETTI: Sí para que no, no me acuerdo ni he quedado. Habíamos dicho los.
+
+41
+00:04:32.280 --> 00:04:32.879
+Arroyo Arzubi Carlos A.: No de aquí.
+
+42
+00:04:32.880 --> 00:04:33.660
+MATEO CAMILLETTI: Morian.
+
+43
+00:04:33.930 --> 00:04:41.490
+MATEO CAMILLETTI: Sí, había dicho los archivos secuenciales lineales en.
+
+44
+00:04:41.490 --> 00:04:44.690
+Arroyo Arzubi Carlos A.: El modo de acceso. Cuántos modos de acceso hay.
+
+45
+00:04:44.980 --> 00:04:46.089
+MATEO CAMILLETTI: Dos secuencias.
+
+46
+00:04:46.090 --> 00:04:46.430
+Arroyo Arzubi Carlos A.: Y el.
+
+47
+00:04:46.430 --> 00:04:47.180
+MATEO CAMILLETTI: Indirecto.
+
+48
+00:04:48.010 --> 00:04:52.390
+Arroyo Arzubi Carlos A.: Secuencial y directo en secuencial.
+
+49
+00:04:53.480 --> 00:04:56.489
+Arroyo Arzubi Carlos A.: ¿cuál es el que se accede? A qué.
+
+50
+00:04:57.830 --> 00:04:59.889
+MATEO CAMILLETTI: Habíamos dicho disco magnético.
+
+51
+00:05:00.400 --> 00:05:01.250
+Arroyo Arzubi Carlos A.: Cómo.
+
+52
+00:05:01.500 --> 00:05:05.919
+MATEO CAMILLETTI: Habíamos dicho Sí, como ya digo, si me equivoco.
+
+53
+00:05:07.770 --> 00:05:09.140
+Arroyo Arzubi Carlos A.: Disco magnético.
+
+54
+00:05:09.140 --> 00:05:12.559
+MATEO CAMILLETTI: No creo que me estoy confundiendo. Es cinta magnética.
+
+55
+00:05:14.300 --> 00:05:15.509
+Arroyo Arzubi Carlos A.: Y el directo.
+
+56
+00:05:18.110 --> 00:05:20.920
+MATEO CAMILLETTI: Los discos que somos hoy en día onda, como todos los demás.
+
+57
+00:05:21.820 --> 00:05:26.280
+Arroyo Arzubi Carlos A.: Se llama directo. ¿por qué acceso directo? ¿por qué se llama Acceso directo.
+
+58
+00:05:26.550 --> 00:05:35.189
+MATEO CAMILLETTI: Porque puede acceder a cualquier parte del disco sin tener que hacerlo en una secuencia como lo hace el otro. Tiene que recordar desde el inicio.
+
+59
+00:05:35.190 --> 00:05:39.450
+Arroyo Arzubi Carlos A.: Puede acceder a cualquier dirección de la memoria. ¿
+
+60
+00:05:39.570 --> 00:05:45.430
+Arroyo Arzubi Carlos A.: Puede acceder a cualquier dirección de la memoria sin pasar por las anteriores.
+
+61
+00:05:46.550 --> 00:05:54.550
+Arroyo Arzubi Carlos A.: Y entonces, ¿qué tipo de archivo podemos tener con acceso directo.
+
+62
+00:05:55.560 --> 00:06:07.100
+MATEO CAMILLETTI: Podemos tener los secuencial lineal, lo secuencial enlazados, los indexados en
+
+63
+00:06:07.410 --> 00:06:10.670
+MATEO CAMILLETTI: no me acuerdo, como se llamaba el de en.
+
+64
+00:06:10.670 --> 00:06:11.330
+Arroyo Arzubi Carlos A.: Calcular.
+
+65
+00:06:11.330 --> 00:06:14.299
+MATEO CAMILLETTI: Calculado el acceso suave.
+
+66
+00:06:16.080 --> 00:06:16.850
+Arroyo Arzubi Carlos A.: Bien.
+
+67
+00:06:19.090 --> 00:06:20.450
+Arroyo Arzubi Carlos A.: Y
+
+68
+00:06:23.940 --> 00:06:29.290
+Arroyo Arzubi Carlos A.: los sistemas R A. I que vimos cuando vimos el módulo de entrada o salida.
+
+69
+00:06:29.600 --> 00:06:33.860
+Arroyo Arzubi Carlos A.: ¿Qué son los sistemas R a I. ¿para qué sirven? ¿qué objetivo tiene que es lo que.
+
+70
+00:06:33.860 --> 00:06:37.000
+MATEO CAMILLETTI: En el el objetivo que tienen es
+
+71
+00:06:37.120 --> 00:06:42.029
+MATEO CAMILLETTI: poder agrandar la memoria que había. Pueden conectar varios discos.
+
+72
+00:06:42.590 --> 00:06:47.160
+MATEO CAMILLETTI: Poder hacer más rápida y eficiente, la búsqueda
+
+73
+00:06:48.170 --> 00:06:51.880
+MATEO CAMILLETTI: y el darle un tipo de seguridad al sistema.
+
+74
+00:06:52.380 --> 00:06:54.999
+Arroyo Arzubi Carlos A.: Por qué podría ser más rápida la búsqueda.
+
+75
+00:06:55.730 --> 00:06:58.460
+MATEO CAMILLETTI: Porque en vez de tener que estar buscando entre
+
+76
+00:06:58.920 --> 00:07:06.170
+MATEO CAMILLETTI: los distintos tipos de disco, 1 por 1, a ver si están o están distintos archivos. Al poder estar conectado a los 4
+
+77
+00:07:06.870 --> 00:07:09.289
+MATEO CAMILLETTI: discos, el mapeo es más directo.
+
+78
+00:07:10.370 --> 00:07:14.900
+Arroyo Arzubi Carlos A.: En realidad la idea de tener varios discos en lugar de 1,
+
+79
+00:07:15.470 --> 00:07:19.720
+Arroyo Arzubi Carlos A.: además de incrementar la capacidad de almacenamiento que está bien.
+
+80
+00:07:20.400 --> 00:07:24.860
+Arroyo Arzubi Carlos A.: pero la idea de tener varios discos. Fundamentalmente es para que
+
+81
+00:07:25.530 --> 00:07:28.090
+Arroyo Arzubi Carlos A.: se pueda acceder a varios discos.
+
+82
+00:07:28.710 --> 00:07:34.000
+Arroyo Arzubi Carlos A.: Simultáneamente, si yo tengo un solo disco solo puedo hacer
+
+83
+00:07:35.110 --> 00:07:46.019
+Arroyo Arzubi Carlos A.: un acceso. Si yo tengo 4 discos, puedo acceder a los 4 discos, con lo cual estoy incrementando la velocidad de acceso a la información.
+
+84
+00:07:46.690 --> 00:07:52.610
+Arroyo Arzubi Carlos A.: Sí. Mhm: Bueno, bien, en
+
+85
+00:07:59.820 --> 00:08:08.249
+Arroyo Arzubi Carlos A.: algo que va a venir bien para el repaso por el parcial, ¿qué son los sistemas distribuidos.
+
+86
+00:08:10.270 --> 00:08:19.300
+MATEO CAMILLETTI: Los sistemas distribuidos son los sistemas que eran muy tier multiusuario, multiprogramación que.
+
+87
+00:08:19.410 --> 00:08:23.440
+MATEO CAMILLETTI: pese a que que mira, que S
+
+88
+00:08:23.890 --> 00:08:33.099
+MATEO CAMILLETTI: como decía, un computador que sea con una multiprogramación fuertemente acoplada. No contaba como 1. Teníamos que tener 2 máquinas que estuvieran interconectadas.
+
+89
+00:08:33.100 --> 00:08:37.400
+Arroyo Arzubi Carlos A.: Estamos mezclando todo multiprogramación fuertemente acoplado.
+
+90
+00:08:38.179 --> 00:08:40.369
+MATEO CAMILLETTI: Perdón. No sé.
+
+91
+00:08:40.370 --> 00:08:44.970
+Arroyo Arzubi Carlos A.: Ver. Empecemos de vuelta un sistema distribuido.
+
+92
+00:08:47.000 --> 00:08:47.929
+Arroyo Arzubi Carlos A.: ¿qué es.
+
+93
+00:08:49.840 --> 00:08:55.020
+MATEO CAMILLETTI: Es un sistema en el cual varios computadores están conectados.
+
+94
+00:08:57.050 --> 00:08:57.440
+Arroyo Arzubi Carlos A.: Varias.
+
+95
+00:08:57.440 --> 00:08:57.840
+MATEO CAMILLETTI: ¿cómo pum.
+
+96
+00:08:57.840 --> 00:08:58.380
+Arroyo Arzubi Carlos A.: Adora.
+
+97
+00:08:59.140 --> 00:08:59.980
+MATEO CAMILLETTI: Y.
+
+98
+00:08:59.980 --> 00:09:01.619
+Arroyo Arzubi Carlos A.: Limitadas.
+
+99
+00:09:01.880 --> 00:09:03.250
+MATEO CAMILLETTI: Y trabajan como una sola.
+
+100
+00:09:04.410 --> 00:09:05.819
+Arroyo Arzubi Carlos A.: Un trabajo en común.
+
+101
+00:09:09.210 --> 00:09:12.159
+Arroyo Arzubi Carlos A.: Bueno, un sistema distribuido.
+
+102
+00:09:12.790 --> 00:09:16.889
+Arroyo Arzubi Carlos A.: Cuando hablamos de distintos equipos
+
+103
+00:09:17.220 --> 00:09:24.300
+Arroyo Arzubi Carlos A.: que están ubicados geográficamente en distintos lugares, Esto es importante decirlo porque sino no se entiende.
+
+104
+00:09:24.640 --> 00:09:32.110
+Arroyo Arzubi Carlos A.: Están ubicados en distintos lugares y que obviamente están vinculados
+
+105
+00:09:32.530 --> 00:09:36.110
+Arroyo Arzubi Carlos A.: a los efectos de compartir recursos
+
+106
+00:09:36.400 --> 00:09:40.279
+Arroyo Arzubi Carlos A.: o desarrollar alguna actividad en común. Obviamente.
+
+107
+00:09:41.810 --> 00:09:46.540
+Arroyo Arzubi Carlos A.: y un sistema operativo distribuido. ¿qué es?
+
+108
+00:10:02.550 --> 00:10:07.520
+Arroyo Arzubi Carlos A.: Esta pregunta Estaba en el parcial y han tenido problemas cuando son bastante simples.
+
+109
+00:10:08.140 --> 00:10:12.039
+Arroyo Arzubi Carlos A.: A ver ledesma qué es un sistema operativo distribuido.
+
+110
+00:10:17.700 --> 00:10:19.309
+ALEJANDRO LEDESMA CASTILLO: Hola. Se me escucha?
+
+111
+00:10:19.840 --> 00:10:20.430
+Arroyo Arzubi Carlos A.: Sí.
+
+112
+00:10:21.420 --> 00:10:28.760
+ALEJANDRO LEDESMA CASTILLO: Bueno, un sistema, un sistema distribuido operativo.
+
+113
+00:10:28.760 --> 00:10:33.359
+Arroyo Arzubi Carlos A.: Sistema así, sistema operativo distribuido, que es.
+
+114
+00:10:34.800 --> 00:10:38.009
+ALEJANDRO LEDESMA CASTILLO: Creo que es cuando coordina los recursos.
+
+115
+00:10:38.360 --> 00:10:44.540
+ALEJANDRO LEDESMA CASTILLO: digamos los los los recursos, la la y la comunicación.
+
+116
+00:10:45.340 --> 00:10:50.940
+ALEJANDRO LEDESMA CASTILLO: por ejemplo, de todo todo lo que son las computadoras, todo para el usuario, para que.
+
+117
+00:10:57.590 --> 00:10:59.259
+Arroyo Arzubi Carlos A.: Se cortó. No te escucho.
+
+118
+00:11:00.490 --> 00:11:01.160
+ALEJANDRO LEDESMA CASTILLO: Sí.
+
+119
+00:11:01.160 --> 00:11:02.369
+Arroyo Arzubi Carlos A.: No. T, No te escucho.
+
+120
+00:11:04.760 --> 00:11:06.619
+ALEJANDRO LEDESMA CASTILLO: Como para que el lupus.
+
+121
+00:11:08.110 --> 00:11:09.470
+Arroyo Arzubi Carlos A.: No te escuché.
+
+122
+00:11:10.190 --> 00:11:11.170
+ALEJANDRO LEDESMA CASTILLO: Usuarios puedan.
+
+123
+00:11:13.030 --> 00:11:14.300
+Arroyo Arzubi Carlos A.: Se entrecorta.
+
+124
+00:11:24.220 --> 00:11:26.269
+Arroyo Arzubi Carlos A.: estás conectado Alejandro.
+
+125
+00:11:27.710 --> 00:11:28.310
+ALEJANDRO LEDESMA CASTILLO: Hola.
+
+126
+00:11:37.380 --> 00:11:38.520
+Arroyo Arzubi Carlos A.: Alejandro.
+
+127
+00:11:42.360 --> 00:11:47.590
+Arroyo Arzubi Carlos A.: Me parece que se suicidó. Es la impresión que tengo.
+
+128
+00:11:47.950 --> 00:11:53.490
+Arroyo Arzubi Carlos A.: No, Ahí apareció Alejandro. Así no podemos hablar, ¿
+
+129
+00:11:53.800 --> 00:11:56.919
+ALEJANDRO LEDESMA CASTILLO: Se me fue parecido como cortes de Internet.
+
+130
+00:11:58.080 --> 00:12:00.100
+Arroyo Arzubi Carlos A.: Pero así no podemos hacer el oral.
+
+131
+00:12:01.060 --> 00:12:03.310
+ALEJANDRO LEDESMA CASTILLO: No puedo hacer nada.
+
+132
+00:12:03.310 --> 00:12:11.239
+Arroyo Arzubi Carlos A.: Sí, sí podés hacer algo. Podés ir a cualquier lado que tenga buen Internet para hacer esta esta. Este compromiso que tenía, que es el último.
+
+133
+00:12:12.400 --> 00:12:13.880
+Arroyo Arzubi Carlos A.: Sí que se
+
+134
+00:12:17.270 --> 00:12:19.779
+Arroyo Arzubi Carlos A.: que es un sistema operativo distribuido.
+
+135
+00:12:33.500 --> 00:12:35.590
+ALEJANDRO LEDESMA CASTILLO: Bueno.
+
+136
+00:12:35.790 --> 00:12:37.970
+ALEJANDRO LEDESMA CASTILLO: Le digo que el sistema, este
+
+137
+00:12:38.520 --> 00:12:41.500
+ALEJANDRO LEDESMA CASTILLO: forma que pueda ser como de un único sistema.
+
+138
+00:12:43.960 --> 00:12:45.739
+Arroyo Arzubi Carlos A.: A ver repetirlo, porque no escuché.
+
+139
+00:12:51.180 --> 00:13:04.129
+ALEJANDRO LEDESMA CASTILLO: Un sistema Bueno, este sistema es el que coordina los recursos, digamos, los recursos y la comunicación de todas las computadoras para que el usuario las pueda percibir como si fuera un un ecosistema.
+
+140
+00:13:05.450 --> 00:13:11.340
+Arroyo Arzubi Carlos A.: Y los usuarios pueden tener distintos sistemas operativos y éste encargarse de la comunicación.
+
+141
+00:13:14.890 --> 00:13:15.700
+ALEJANDRO LEDESMA CASTILLO: ¿cómo dices.
+
+142
+00:13:17.980 --> 00:13:20.360
+Arroyo Arzubi Carlos A.: Los distintos equipos pueden tener
+
+143
+00:13:20.510 --> 00:13:27.249
+Arroyo Arzubi Carlos A.: distintos sistemas operativos y en y este sistema operativo distribuido a encargarse solamente de la comunicación.
+
+144
+00:13:30.050 --> 00:13:31.410
+ALEJANDRO LEDESMA CASTILLO: En
+
+145
+00:13:34.500 --> 00:13:35.930
+ALEJANDRO LEDESMA CASTILLO: y
+
+146
+00:13:48.860 --> 00:13:50.490
+ALEJANDRO LEDESMA CASTILLO: no se.
+
+147
+00:13:50.490 --> 00:13:53.619
+Arroyo Arzubi Carlos A.: Bueno, sigamos, no, no lo sabés.
+
+148
+00:13:54.700 --> 00:14:10.000
+Arroyo Arzubi Carlos A.: Cuando hablamos de un sistema operativo distribuido, estamos hablando de un sistema operativo que administra todo el sistema distribuido
+
+149
+00:14:10.470 --> 00:14:15.239
+Arroyo Arzubi Carlos A.: es el mismo sistema operativo que maneja todas las computadoras.
+
+150
+00:14:15.500 --> 00:14:23.379
+Arroyo Arzubi Carlos A.: con lo cual cada computadora que forma parte de este sistema distribuido va a tener un núcleo del sistema operativo distribuido.
+
+151
+00:14:23.620 --> 00:14:27.219
+Arroyo Arzubi Carlos A.: Es decir, que estamos hablando de un sistema operativo
+
+152
+00:14:27.770 --> 00:14:37.009
+Arroyo Arzubi Carlos A.: más grande que conocemos porque no solamente administra cada una de las computadoras, sino que administra
+
+153
+00:14:37.080 --> 00:14:53.639
+Arroyo Arzubi Carlos A.: la el intercambio de mensajes a través de las llamadas a procesos remotos, que puede hacerlo un software de comunicaciones, como apareció como se utilizaba al comienzo y se sigue utilizando
+
+154
+00:14:53.760 --> 00:15:03.790
+Arroyo Arzubi Carlos A.: en este caso el sistema operativo. Además de administrar cada equipo, se encarga de la comunicación e intercambio de mensajes, con lo cual
+
+155
+00:15:04.110 --> 00:15:15.059
+Arroyo Arzubi Carlos A.: maneja absolutamente todo. Es un sistema operativo muy importante y la ventaja que tiene con respecto a
+
+156
+00:15:15.190 --> 00:15:27.059
+Arroyo Arzubi Carlos A.: a un sistema distribuido que tenga un software de red y que cada sistema, cada equipo tenga su propio sistema operativo es que el sistema operativo distribuido permite
+
+157
+00:15:27.200 --> 00:15:29.299
+Arroyo Arzubi Carlos A.: ver los recursos
+
+158
+00:15:29.550 --> 00:15:40.670
+Arroyo Arzubi Carlos A.: de este sistema distribuido en cada usuario ve los recursos en su propio escritorio, con lo cual le facilita
+
+159
+00:15:40.870 --> 00:15:44.069
+Arroyo Arzubi Carlos A.: al usuario participar en esto
+
+160
+00:15:48.360 --> 00:15:49.620
+Arroyo Arzubi Carlos A.: y
+
+161
+00:15:57.930 --> 00:16:03.950
+Arroyo Arzubi Carlos A.: cómo se puede hacer Alejandro, la compilación y qué es la con qué es una, con qué es la compilación
+
+162
+00:16:04.460 --> 00:16:06.050
+Arroyo Arzubi Carlos A.: y cómo se puede hacer.
+
+163
+00:16:11.720 --> 00:16:13.470
+ALEJANDRO LEDESMA CASTILLO: La la compilación.
+
+164
+00:16:13.960 --> 00:16:15.700
+ALEJANDRO LEDESMA CASTILLO: ¿
+
+165
+00:16:18.390 --> 00:16:23.960
+ALEJANDRO LEDESMA CASTILLO: La compilación es cuando, bueno, digamos que el el
+
+166
+00:16:24.440 --> 00:16:34.440
+ALEJANDRO LEDESMA CASTILLO: el sistema operativo, de alguna forma lee el programa, no el programa escrito en un lenguaje de alto nivel. Lo pasa
+
+167
+00:16:34.640 --> 00:16:38.109
+ALEJANDRO LEDESMA CASTILLO: al sistema binario para que lo pueda leer La el sistema de cómputo.
+
+168
+00:16:39.770 --> 00:16:41.549
+Arroyo Arzubi Carlos A.: Bueno, eso lo hace el compilador.
+
+169
+00:16:41.950 --> 00:16:42.820
+Arroyo Arzubi Carlos A.: No.
+
+170
+00:16:42.820 --> 00:16:43.280
+ALEJANDRO LEDESMA CASTILLO: Sí.
+
+171
+00:16:43.280 --> 00:16:44.650
+Arroyo Arzubi Carlos A.: Eso es la.
+
+172
+00:16:46.470 --> 00:16:47.030
+ALEJANDRO LEDESMA CASTILLO: Sí.
+
+173
+00:16:48.200 --> 00:16:52.820
+Arroyo Arzubi Carlos A.: Claro, porque el sistema operativo está, pero el compilador está aparte del sistema operativo.
+
+174
+00:16:53.810 --> 00:16:56.390
+Arroyo Arzubi Carlos A.: No forma parte del sistema operativo.
+
+175
+00:16:57.400 --> 00:17:01.270
+Arroyo Arzubi Carlos A.: Forma parte del lenguaje que yo estoy utilizando o no.
+
+176
+00:17:01.270 --> 00:17:01.910
+ALEJANDRO LEDESMA CASTILLO: Claro.
+
+177
+00:17:04.010 --> 00:17:06.270
+Arroyo Arzubi Carlos A.: Y cómo se puede hacer la compilación.
+
+178
+00:17:06.800 --> 00:17:11.079
+Arroyo Arzubi Carlos A.: Habíamos hablado que había 3 momentos en que se podía hacer la compilación.
+
+179
+00:17:15.079 --> 00:17:16.189
+ALEJANDRO LEDESMA CASTILLO: Y.
+
+180
+00:17:39.180 --> 00:17:42.120
+Arroyo Arzubi Carlos A.: Mateo la compilación cuando se puede hacer.
+
+181
+00:17:47.320 --> 00:17:47.870
+ALEJANDRO LEDESMA CASTILLO: Mhm.
+
+182
+00:17:51.060 --> 00:17:52.219
+MATEO CAMILLETTI: De Alejandro. Me parece.
+
+183
+00:17:52.820 --> 00:17:53.580
+Arroyo Arzubi Carlos A.: Cómo.
+
+184
+00:17:53.890 --> 00:17:55.669
+MATEO CAMILLETTI: Está hablando Alejandro, o me parece.
+
+185
+00:17:55.940 --> 00:17:56.929
+Arroyo Arzubi Carlos A.: No a vos.
+
+186
+00:17:57.380 --> 00:18:01.110
+MATEO CAMILLETTI: Okay, discúlpame cómo me preguntó la.
+
+187
+00:18:01.420 --> 00:18:08.480
+Arroyo Arzubi Carlos A.: La compilación. ¿en qué que si qué momento se puede hacer la
+
+188
+00:18:08.680 --> 00:18:13.940
+Arroyo Arzubi Carlos A.: vinculación de las direcciones lógicas con las direcciones físicas.
+
+189
+00:18:14.710 --> 00:18:18.130
+MATEO CAMILLETTI: Sí, Sí, era.
+
+190
+00:18:20.250 --> 00:18:21.120
+MATEO CAMILLETTI: ¿
+
+191
+00:18:21.530 --> 00:18:26.510
+MATEO CAMILLETTI: Estática, ¿Cómo perdón en el momento de
+
+192
+00:18:27.250 --> 00:18:32.679
+MATEO CAMILLETTI: de compilar al momento de carga y al momento de número 1.
+
+193
+00:18:33.250 --> 00:18:41.480
+MATEO CAMILLETTI: Así que 1 lo hacía como si tenía una dirección fis fija que era siempre, no es que servía para la monoprogramación.
+
+194
+00:18:41.990 --> 00:18:42.770
+Arroyo Arzubi Carlos A.: Sí.
+
+195
+00:18:44.120 --> 00:18:49.149
+MATEO CAMILLETTI: El otro es que le asignaba cuando lo compilabas con una dirección variable.
+
+196
+00:18:50.360 --> 00:18:52.979
+MATEO CAMILLETTI: Se entraba como ese.
+
+197
+00:18:53.380 --> 00:18:54.109
+MATEO CAMILLETTI: Los tipos.
+
+198
+00:18:54.110 --> 00:18:59.180
+Arroyo Arzubi Carlos A.: Se le ponía una dirección más que variable, reajustable o reacomodable.
+
+199
+00:18:59.630 --> 00:19:00.090
+MATEO CAMILLETTI: Sí.
+
+200
+00:19:00.090 --> 00:19:02.419
+Arroyo Arzubi Carlos A.: Acomodaba al momento de la carga.
+
+201
+00:19:03.280 --> 00:19:11.619
+MATEO CAMILLETTI: Ahí está el tiempo de carga que lo que pasa es que una vez que vos lo haces por tiempo de carga. El programa tiene que ejecutarse completo antes de salir.
+
+202
+00:19:12.310 --> 00:19:12.960
+Arroyo Arzubi Carlos A.: Sí.
+
+203
+00:19:13.760 --> 00:19:16.209
+MATEO CAMILLETTI: En cambio, con la otra. La
+
+204
+00:19:16.740 --> 00:19:19.930
+MATEO CAMILLETTI: vinculación en el momento de compilación, el programa.
+
+205
+00:19:19.930 --> 00:19:20.570
+Arroyo Arzubi Carlos A.: De incursión.
+
+206
+00:19:20.960 --> 00:19:23.590
+MATEO CAMILLETTI: En tiempo de ejecución.
+
+207
+00:19:23.590 --> 00:19:24.399
+Arroyo Arzubi Carlos A.: Tipo de ejecución.
+
+208
+00:19:24.960 --> 00:19:30.529
+MATEO CAMILLETTI: En el programa, podía entrar y salir sin haberse terminado de ejecutar.
+
+209
+00:19:32.110 --> 00:19:33.490
+Arroyo Arzubi Carlos A.: Bueno, bien, mateo.
+
+210
+00:19:33.790 --> 00:19:37.100
+Arroyo Arzubi Carlos A.: Alejandro, ¿Qué es la Linkedición
+
+211
+00:19:44.430 --> 00:19:45.740
+Arroyo Arzubi Carlos A.: Alejandro
+
+212
+00:19:53.810 --> 00:19:55.399
+Arroyo Arzubi Carlos A.: Alejandro: Me escuchas.
+
+213
+00:20:16.460 --> 00:20:17.290
+Arroyo Arzubi Carlos A.: Bueno.
+
+214
+00:20:40.880 --> 00:20:42.239
+ALEJANDRO LEDESMA CASTILLO: Hola. Se me escucha?
+
+215
+00:20:44.760 --> 00:20:46.250
+Arroyo Arzubi Carlos A.: Sí. Alejandro.
+
+216
+00:20:46.840 --> 00:20:48.330
+ALEJANDRO LEDESMA CASTILLO: Sí.
+
+217
+00:20:48.330 --> 00:20:49.580
+Arroyo Arzubi Carlos A.: Me escuchaste.
+
+218
+00:20:50.530 --> 00:20:55.059
+ALEJANDRO LEDESMA CASTILLO: Acabo me acabo de recolectar, por eso no te escuché.
+
+219
+00:20:56.210 --> 00:20:57.670
+Arroyo Arzubi Carlos A.: Que era el intuición.
+
+220
+00:21:35.500 --> 00:21:36.830
+ALEJANDRO LEDESMA CASTILLO: Sí se me escucha.
+
+221
+00:21:38.660 --> 00:21:43.030
+Arroyo Arzubi Carlos A.: Lo q. Lo que escuché es si me se me escucha. Lo único que escuché.
+
+222
+00:21:49.660 --> 00:21:50.200
+ALEJANDRO LEDESMA CASTILLO: Hola.
+
+223
+00:21:51.790 --> 00:21:53.360
+Arroyo Arzubi Carlos A.: Sí, te escucho ahora? Sí a.
+
+224
+00:21:53.360 --> 00:21:54.790
+ALEJANDRO LEDESMA CASTILLO: Sí, ahí está.
+
+225
+00:21:55.520 --> 00:21:58.570
+ALEJANDRO LEDESMA CASTILLO: ¿qué me habías preguntado sobre la línea de edición.
+
+226
+00:22:00.040 --> 00:22:01.720
+Arroyo Arzubi Carlos A.: Sí. ¿qué es la Linkedición.
+
+227
+00:22:03.080 --> 00:22:09.320
+ALEJANDRO LEDESMA CASTILLO: Bueno, la linkedición, Digamos que es el proceso
+
+228
+00:22:09.620 --> 00:22:19.189
+ALEJANDRO LEDESMA CASTILLO: donde se unen en las distintas partes de un programa y las librerías necesarias para que para que, bueno, forme el, digamos, el
+
+229
+00:22:19.420 --> 00:22:22.100
+ALEJANDRO LEDESMA CASTILLO: el programa fue el ejecutable final, Digamos.
+
+230
+00:22:23.960 --> 00:22:25.899
+Arroyo Arzubi Carlos A.: ¿cómo se puede hacer la Linkedin.
+
+231
+00:22:29.440 --> 00:22:30.570
+ALEJANDRO LEDESMA CASTILLO: Pua.
+
+232
+00:22:44.910 --> 00:22:47.909
+Arroyo Arzubi Carlos A.: Bueno, no vamos a perder el tiempo. Alejandro Listo.
+
+233
+00:22:48.720 --> 00:22:50.630
+Arroyo Arzubi Carlos A.: Te voy a mandar un mail.
+
+234
+00:22:51.130 --> 00:22:56.030
+Arroyo Arzubi Carlos A.: Te voy a mandar un Mail para
+
+235
+00:23:04.900 --> 00:23:11.690
+Arroyo Arzubi Carlos A.: para darte una oportunidad más para la semana que viene.
+
+236
+00:23:12.130 --> 00:23:13.900
+Arroyo Arzubi Carlos A.: escuchás ahora o no me escuchás.
+
+237
+00:23:16.430 --> 00:23:17.150
+ALEJANDRO LEDESMA CASTILLO: A ver.
+
+238
+00:23:17.150 --> 00:23:19.100
+Arroyo Arzubi Carlos A.: Bueno, no, no escucho nada. Yo.
+
+239
+00:23:20.630 --> 00:23:23.139
+ALEJANDRO LEDESMA CASTILLO: Pastelera las partes.
+
+240
+00:23:23.500 --> 00:23:24.290
+ALEJANDRO LEDESMA CASTILLO: Hola.
+
+241
+00:23:24.300 --> 00:23:27.630
+Arroyo Arzubi Carlos A.: No escucho nada. Yo bueno, no.
+
+242
+00:23:27.960 --> 00:23:32.370
+Arroyo Arzubi Carlos A.: no aprobaste Alejandro en la próxima, te voy a mandar un mail
+
+243
+00:23:32.550 --> 00:23:34.910
+Arroyo Arzubi Carlos A.: y va a ser la tercera, la vencida.
+
+244
+00:23:35.510 --> 00:23:41.380
+Arroyo Arzubi Carlos A.: No vamos a perder más el tiempo ahora, porque no da para más listo.
+
+245
+00:23:42.120 --> 00:23:47.719
+Arroyo Arzubi Carlos A.: Te voy a mandar un mail con la el próximo jueves.
+
+246
+00:23:48.030 --> 00:23:51.560
+Arroyo Arzubi Carlos A.: el próximo miércoles. ¿a qué hora!
+
+247
+00:23:52.330 --> 00:23:54.540
+Arroyo Arzubi Carlos A.: Dentro del horario de la materia
+
+248
+00:23:55.940 --> 00:23:59.960
+Arroyo Arzubi Carlos A.: te voy a tomar el el oral se
+
+249
+00:24:00.500 --> 00:24:04.529
+Arroyo Arzubi Carlos A.: entrada a la hora exacta que yo te convoco.
+
+250
+00:24:05.060 --> 00:24:09.020
+Arroyo Arzubi Carlos A.: Y si ahí tenemos problemas, se terminó el tema.
+
+251
+00:24:09.860 --> 00:24:16.210
+Arroyo Arzubi Carlos A.: Si tenemos problemas de Internet. Tenemos problemas de lo que sea. Se acabó hasta aquí, llegué yo. Ya
+
+252
+00:24:17.210 --> 00:24:19.560
+Arroyo Arzubi Carlos A.: hemos hecho el intento varias veces.
+
+253
+00:24:21.440 --> 00:24:27.000
+Arroyo Arzubi Carlos A.: No es la primera vez que que lo das. Bueno, listo, dejemos esto.
+
+254
+00:24:41.930 --> 00:24:46.760
+Arroyo Arzubi Carlos A.: Bueno, vamos a ver. Entonces, la unidad, 11,
+
+255
+00:24:48.180 --> 00:24:50.799
+Arroyo Arzubi Carlos A.: la unidad 11 y la unidad 12
+
+256
+00:24:51.040 --> 00:24:53.999
+Arroyo Arzubi Carlos A.: son 2 unidades que son muy simples
+
+257
+00:24:54.270 --> 00:25:02.440
+Arroyo Arzubi Carlos A.: siempre en el nivel que vamos a ver nosotros, porque lo vamos a ver en un nivel de abstracción muy elevado.
+
+258
+00:25:02.780 --> 00:25:05.149
+Arroyo Arzubi Carlos A.: No vamos a entrar en detalles
+
+259
+00:25:05.620 --> 00:25:08.250
+Arroyo Arzubi Carlos A.: técnicos de cada 1 de estos temas
+
+260
+00:25:08.670 --> 00:25:14.030
+Arroyo Arzubi Carlos A.: algoritmos tampoco. No da. No tenemos. No disponemos del tiempo.
+
+261
+00:25:14.430 --> 00:25:23.130
+Arroyo Arzubi Carlos A.: Tampoco yo soy experto en este tema de seguridad y de protección y el
+
+262
+00:25:23.300 --> 00:25:26.999
+Arroyo Arzubi Carlos A.: pero sí vamos a hacer una presentación a hacer una presentación
+
+263
+00:25:27.520 --> 00:25:39.400
+Arroyo Arzubi Carlos A.: en el Blackboard Tienen un apunte, un resumen que hizo el profesor pujao un resumen después tienen la bibliografía
+
+264
+00:25:40.110 --> 00:25:41.999
+Arroyo Arzubi Carlos A.: Y yo lo que voy a hacer es
+
+265
+00:25:42.160 --> 00:25:48.060
+Arroyo Arzubi Carlos A.: un resumen del resumen como para ayudarlos
+
+266
+00:25:48.970 --> 00:25:54.199
+Arroyo Arzubi Carlos A.: a cuando vayan a el apunte, les dé un poco menos de trabajo.
+
+267
+00:25:55.270 --> 00:25:58.639
+Arroyo Arzubi Carlos A.: Estos temas podría no darlos.
+
+268
+00:25:59.070 --> 00:26:03.850
+Arroyo Arzubi Carlos A.: Simplemente podría decirles, léanlo y listo, porque
+
+269
+00:26:04.140 --> 00:26:14.000
+Arroyo Arzubi Carlos A.: no presentan mayor dificultad justamente por el grado de abstracción en que se presentan temas conceptuales.
+
+270
+00:26:14.280 --> 00:26:20.249
+Arroyo Arzubi Carlos A.: Pero, bueno, voy a hacer una presentación rápida de aquellas cosas que
+
+271
+00:26:21.490 --> 00:26:29.960
+Arroyo Arzubi Carlos A.: del resumen del resumen valga. Ya me estoy repitiendo, bueno, seguridad, y
+
+272
+00:26:30.530 --> 00:26:34.970
+Arroyo Arzubi Carlos A.: cuando se habla de seguridad de un sistema informático.
+
+273
+00:26:35.560 --> 00:26:41.559
+Arroyo Arzubi Carlos A.: se está hablando de alguna manera de una medida de confianza
+
+274
+00:26:42.040 --> 00:26:45.860
+Arroyo Arzubi Carlos A.: que se tiene sobre la preservación
+
+275
+00:26:46.060 --> 00:26:54.210
+Arroyo Arzubi Carlos A.: de la integridad del sistema y de sus datos. Ustedes ven que la palabra integridad se usa mucho en informática
+
+276
+00:26:54.370 --> 00:27:07.789
+Arroyo Arzubi Carlos A.: y, obviamente, Y el la idea del concepto de integridad es que las los datos en particular
+
+277
+00:27:08.140 --> 00:27:13.879
+Arroyo Arzubi Carlos A.: mantengan su veracidad no sean alterados, no sean modificados.
+
+278
+00:27:14.030 --> 00:27:23.870
+Arroyo Arzubi Carlos A.: Y en cuanto al hardware, que tampoco sea dañado ni ni obstaculizados que impida
+
+279
+00:27:23.990 --> 00:27:30.949
+Arroyo Arzubi Carlos A.: a acceder correctamente al mismo, es decir, la palabra integridad. La usamos mucho en informática.
+
+280
+00:27:31.440 --> 00:27:38.240
+Arroyo Arzubi Carlos A.: Y cuando hablamos, en cambio de protección.
+
+281
+00:27:38.980 --> 00:27:47.269
+Arroyo Arzubi Carlos A.: estamos hablando de el conjunto de mecanismos que utiliza el sistema operativo
+
+282
+00:27:47.850 --> 00:27:52.440
+Arroyo Arzubi Carlos A.: justamente para salvaguardar nuestro sistema de compra.
+
+283
+00:27:53.020 --> 00:28:01.560
+Arroyo Arzubi Carlos A.: Es decir, cuando hablamos de protección, son los distintos mecanismos que utilizamos
+
+284
+00:28:01.950 --> 00:28:06.320
+Arroyo Arzubi Carlos A.: para asegurar la integridad del sistema, es decir.
+
+285
+00:28:06.660 --> 00:28:11.770
+Arroyo Arzubi Carlos A.: la seguridad, es un concepto de más general.
+
+286
+00:28:12.150 --> 00:28:21.719
+Arroyo Arzubi Carlos A.: obviamente de acuerdo a la cantidad de protección que tenga un sistema, la seguridad será mayor o menor.
+
+287
+00:28:22.510 --> 00:28:26.720
+Arroyo Arzubi Carlos A.: Bueno, son temas semánticos, pero es importante
+
+288
+00:28:26.940 --> 00:28:35.589
+Arroyo Arzubi Carlos A.: marcar la diferencia. Como lo presentan estos apuntes, que son los que se han puesto a disposición para la materia. Digo, porque
+
+289
+00:28:35.950 --> 00:28:42.470
+Arroyo Arzubi Carlos A.: bueno, son términos que dan para que de pronto haya
+
+290
+00:28:42.630 --> 00:28:58.649
+Arroyo Arzubi Carlos A.: algunas otras definiciones, Cada 1 que se ponga a pensar un poco, puede imaginar y armar su propia definición con pequeños matices, pero nosotros, en la materia, hemos asumido
+
+291
+00:28:58.800 --> 00:29:03.180
+Arroyo Arzubi Carlos A.: esta bibliografía, que es la que estoy expresando y, en consecuencia.
+
+292
+00:29:03.710 --> 00:29:11.139
+Arroyo Arzubi Carlos A.: este yo necesito que nos ajustemos a esto para evitar grandes divagaciones con el tema.
+
+293
+00:29:12.010 --> 00:29:21.349
+Arroyo Arzubi Carlos A.: Pero bueno, en consecuencia, cuando hablamos de seguridad, hablamos de defender, obviamente nuestro sistema
+
+294
+00:29:21.720 --> 00:29:28.670
+Arroyo Arzubi Carlos A.: de ataques externos e internos ataques al sistema.
+
+295
+00:29:29.260 --> 00:29:36.339
+Arroyo Arzubi Carlos A.: Los ataques pueden ser 4 ataques, Los menciono y
+
+296
+00:29:37.120 --> 00:29:48.640
+Arroyo Arzubi Carlos A.: hacemos un parrafito de cada 1 tenemos virus y gusanos, denegación de servicio, robo, de identidad
+
+297
+00:29:49.240 --> 00:29:54.920
+Arroyo Arzubi Carlos A.: y robo de servicios, es decir, que hemos
+
+298
+00:29:55.810 --> 00:30:01.219
+Arroyo Arzubi Carlos A.: o se han resumido los ataques en estos 4 aspectos.
+
+299
+00:30:01.870 --> 00:30:17.300
+Arroyo Arzubi Carlos A.: Bueno, virus y gusanos, temas que ustedes conocen perfectamente: el software obviamente malintencionado, desarrollado por personas o empresas
+
+300
+00:30:18.700 --> 00:30:32.040
+Arroyo Arzubi Carlos A.: con malas intenciones, obviamente, y que lo que pueden hacer es impredecible porque
+
+301
+00:30:32.420 --> 00:30:38.989
+Arroyo Arzubi Carlos A.: son programas que dependen del que los escribió. ¿va a ser una cosa, o va a ser la otra.
+
+302
+00:30:40.290 --> 00:30:45.230
+Arroyo Arzubi Carlos A.: Estos virus y gusanos están en permanente evolución.
+
+303
+00:30:45.940 --> 00:31:00.549
+Arroyo Arzubi Carlos A.: con lo cual permanentemente Hay gente trabajando en hacerlos y permanentemente. Hay gente trabajando en buscar los antídotos para contrarrestar los ataques producidos por virus
+
+304
+00:31:00.830 --> 00:31:05.260
+Arroyo Arzubi Carlos A.: o gusano. Esta es una tarea permanente
+
+305
+00:31:05.370 --> 00:31:19.449
+Arroyo Arzubi Carlos A.: que no la podemos abandonar nunca por comentar algo más Bueno, los virus son libros, código que se acopla
+
+306
+00:31:20.160 --> 00:31:29.170
+Arroyo Arzubi Carlos A.: a algún archivo que yo tenga en mi sistema, mientras que va como huéspedes
+
+307
+00:31:29.300 --> 00:31:33.610
+Arroyo Arzubi Carlos A.: de de ese otro programa o archivo.
+
+308
+00:31:33.990 --> 00:31:39.410
+Arroyo Arzubi Carlos A.: mientras que los gusanos se mueven independientemente solos.
+
+309
+00:31:40.280 --> 00:31:42.370
+Arroyo Arzubi Carlos A.: Por eso, en el caso de los virus.
+
+310
+00:31:43.330 --> 00:31:49.890
+Arroyo Arzubi Carlos A.: Yo recuerdo ya hace muchos años, cuando empezaron este el uso de las
+
+311
+00:31:50.030 --> 00:31:57.060
+Arroyo Arzubi Carlos A.: computadoras personales, que es donde proliferaron todo este tipo de virus y gusanos.
+
+312
+00:31:57.750 --> 00:32:02.519
+Arroyo Arzubi Carlos A.: Y el una de las cosas que hacíamos era ver
+
+313
+00:32:02.670 --> 00:32:06.399
+Arroyo Arzubi Carlos A.: el tamaño de los archivos que no sea modificado.
+
+314
+00:32:07.610 --> 00:32:16.440
+Arroyo Arzubi Carlos A.: si no se porque si se modificaba el archivo, el tamaño era más. De pronto aparecía que era más grande, era porque se le había
+
+315
+00:32:17.090 --> 00:32:22.100
+Arroyo Arzubi Carlos A.: anexado a ese archivo un virus.
+
+316
+00:32:22.740 --> 00:32:32.690
+Arroyo Arzubi Carlos A.: Bueno, segunda forma de ataque: mencioné recién denegación de servicio, denegación de servicio.
+
+317
+00:32:33.380 --> 00:32:39.790
+Arroyo Arzubi Carlos A.: Bueno, qué? ¿qué significa que el usuario no pueda acceder
+
+318
+00:32:40.050 --> 00:32:43.140
+Arroyo Arzubi Carlos A.: algunos de los servicios del sistema de cómputo.
+
+319
+00:32:43.860 --> 00:32:46.810
+Arroyo Arzubi Carlos A.: es decir, que no poder acceder
+
+320
+00:32:47.550 --> 00:32:53.070
+Arroyo Arzubi Carlos A.: a algún dispositivo software o hardware de mi sistema de cómputo.
+
+321
+00:32:53.200 --> 00:33:02.600
+Arroyo Arzubi Carlos A.: Obviamente, es un ataque, porque si yo no puedo utilizarlo. Bueno, obviamente es un perjuicio importante.
+
+322
+00:33:02.960 --> 00:33:09.560
+Arroyo Arzubi Carlos A.: Mhm: Imagínense que de pronto, alguien tenga que hacer una operación en el banco y no pueda
+
+323
+00:33:09.740 --> 00:33:12.229
+Arroyo Arzubi Carlos A.: acceder al banco hacer una operación
+
+324
+00:33:12.420 --> 00:33:25.130
+Arroyo Arzubi Carlos A.: y la tiene programada, tiene que hacerla. Lo que sea bueno, obviamente es otra forma de ataque importante y
+
+325
+00:33:25.320 --> 00:33:29.540
+Arroyo Arzubi Carlos A.: robo de identidad robo de identidad?
+
+326
+00:33:29.890 --> 00:33:38.190
+Arroyo Arzubi Carlos A.: Bueno, significa que hay alguien que está entrando con el
+
+327
+00:33:38.700 --> 00:33:49.970
+Arroyo Arzubi Carlos A.: nombre e identificación de otro usuario, con lo cual esta este robo de identidad permite
+
+328
+00:33:50.320 --> 00:33:56.800
+Arroyo Arzubi Carlos A.: no solamente acceder a información que está reservada para ese usuario.
+
+329
+00:33:57.700 --> 00:34:05.300
+Arroyo Arzubi Carlos A.: Eso sería una parte del problema, sino que, además es
+
+330
+00:34:06.070 --> 00:34:10.659
+Arroyo Arzubi Carlos A.: ese usuario que entra con otra idea, puede realizar modificaciones
+
+331
+00:34:10.820 --> 00:34:16.559
+Arroyo Arzubi Carlos A.: que, obviamente, el usuario, legítimo o no. No. Quisiera ser, es decir, que el prejuicio es
+
+332
+00:34:16.730 --> 00:34:19.969
+Arroyo Arzubi Carlos A.: es muy claro. Es como si alguien entra
+
+333
+00:34:20.850 --> 00:34:23.099
+Arroyo Arzubi Carlos A.: a la cuenta del banco de ustedes.
+
+334
+00:34:23.449 --> 00:34:32.069
+Arroyo Arzubi Carlos A.: Bueno, pues no solamente ver lo que tiene para después extorsionarlo, sino que además puede por ahí sacar dinero o lo que sea.
+
+335
+00:34:34.010 --> 00:34:40.780
+Arroyo Arzubi Carlos A.: Hoy en día, a nivel de los bancos, es complicado, justamente porque toman muchas medidas, pero a nivel general
+
+336
+00:34:41.340 --> 00:34:43.319
+Arroyo Arzubi Carlos A.: esto vale para todo.
+
+337
+00:34:44.420 --> 00:34:50.679
+Arroyo Arzubi Carlos A.: Y para todos los sistemas. Bueno, después voy a hablar un poco de eso también.
+
+338
+00:34:51.540 --> 00:34:54.010
+Arroyo Arzubi Carlos A.: Y la cuarta es el robo de servicios.
+
+339
+00:34:54.949 --> 00:34:57.420
+Arroyo Arzubi Carlos A.: El robo de servicio implica que
+
+340
+00:34:57.700 --> 00:35:02.739
+Arroyo Arzubi Carlos A.: alguien puede estar utilizando mi canal de comunicaciones, por ejemplo. Y yo no lo sé.
+
+341
+00:35:03.930 --> 00:35:07.160
+Arroyo Arzubi Carlos A.: Alguien puede estar usando mi memoria.
+
+342
+00:35:07.770 --> 00:35:14.000
+Arroyo Arzubi Carlos A.: y yo tampoco lo sé. Alguien puede estar utilizando mi procesador, y yo tampoco lo sé,
+
+343
+00:35:14.480 --> 00:35:18.389
+Arroyo Arzubi Carlos A.: con lo cual el que corre con los gastos soy yo.
+
+344
+00:35:19.020 --> 00:35:26.080
+Arroyo Arzubi Carlos A.: Sin embargo, el servicio me están robando parte del servicio que yo pago.
+
+345
+00:35:26.940 --> 00:35:31.860
+Arroyo Arzubi Carlos A.: Bueno, estas son de alguna manera el
+
+346
+00:35:32.290 --> 00:35:36.740
+Arroyo Arzubi Carlos A.: resumidas en estas 4, lo que podríamos decir.
+
+347
+00:35:36.920 --> 00:35:41.160
+Arroyo Arzubi Carlos A.: los ataques que se pueden realizar a un sistema de compra.
+
+348
+00:35:41.160 --> 00:35:43.720
+FRANCO EMMANUEL SICARDO: Profe perdón podría repetir la primera.
+
+349
+00:35:44.560 --> 00:35:45.909
+Arroyo Arzubi Carlos A.: Virus y gusanos.
+
+350
+00:35:47.610 --> 00:35:48.630
+FRANCO EMMANUEL SICARDO: el histeris.
+
+351
+00:35:49.240 --> 00:35:50.729
+Arroyo Arzubi Carlos A.: Bien.
+
+352
+00:35:51.080 --> 00:35:59.989
+Arroyo Arzubi Carlos A.: virus y gusanos, denegación de servicio, robo de identidad, robo de servicios. Esto lo saqué de los apuntes, Así que
+
+353
+00:36:00.170 --> 00:36:06.599
+Arroyo Arzubi Carlos A.: y lo van a tener ahí con más detalle de lo que yo estoy dando.
+
+354
+00:36:08.030 --> 00:36:18.889
+Arroyo Arzubi Carlos A.: Bueno, para construir un sistema modelo de seguridad conceptualmente. Uno dice, bueno, voy a desarrollar un modelo de seguridad para mi sistema de cómputo.
+
+355
+00:36:19.830 --> 00:36:32.299
+Arroyo Arzubi Carlos A.: entonces se tiene que plantear 3 objetivos: 3 objetivos que donde tenemos la la famosa tríada.
+
+356
+00:36:32.800 --> 00:36:48.200
+Arroyo Arzubi Carlos A.: ¿ Llamada Chía Esto que ven acá donde tenemos este siga por confidencialidad, integridad y disponibilidad.
+
+357
+00:36:48.440 --> 00:36:53.440
+Arroyo Arzubi Carlos A.: Es decir, que si nosotros vamos a participar o queremos
+
+358
+00:36:54.270 --> 00:37:01.440
+Arroyo Arzubi Carlos A.: desarrollar un modelo de seguridad o evaluar un modelo de seguridad, Estos 3 puntos
+
+359
+00:37:01.620 --> 00:37:05.569
+Arroyo Arzubi Carlos A.: son los que tenemos que tener especialmente en cuenta.
+
+360
+00:37:05.880 --> 00:37:12.470
+Arroyo Arzubi Carlos A.: Bueno, integridad, una palabra que ya lo usamos muchas veces, que
+
+361
+00:37:12.820 --> 00:37:21.900
+Arroyo Arzubi Carlos A.: me asegure que los datos que están. Y todo eso sea lo que corresponde confidencialidad tiene que ver con que los datos
+
+362
+00:37:22.130 --> 00:37:27.450
+Arroyo Arzubi Carlos A.: o los dispositivos, todos los recursos del sistema
+
+363
+00:37:27.580 --> 00:37:31.860
+Arroyo Arzubi Carlos A.: se han accedido solamente por los que están autorizados
+
+364
+00:37:32.100 --> 00:37:40.330
+Arroyo Arzubi Carlos A.: y disponibilidad que los recursos y el sistema tiene que estar disponible.
+
+365
+00:37:41.150 --> 00:37:46.700
+Arroyo Arzubi Carlos A.: Es decir, esto tiene que ver con la y
+
+366
+00:37:47.130 --> 00:37:55.369
+Arroyo Arzubi Carlos A.: lo que hablamos de delegación de servicio, por ejemplo, es decir, la disponibilidad. Yo tengo que poder disponer de los recursos cuando yo quiera.
+
+367
+00:37:55.960 --> 00:38:03.470
+Arroyo Arzubi Carlos A.: Son las 3 cosas que tenemos que que verificar, que funcionen adecuadamente.
+
+368
+00:38:08.560 --> 00:38:12.489
+Arroyo Arzubi Carlos A.: Bueno para proteger un sistema
+
+369
+00:38:14.060 --> 00:38:20.160
+Arroyo Arzubi Carlos A.: tomar. Se deben tomar medidas de seguridad en 4 niveles. Lo menciono y después hablamos
+
+370
+00:38:20.630 --> 00:38:27.710
+Arroyo Arzubi Carlos A.: nivel físico, nivel de red, nivel del sistema operativo y nivel aplicaciones.
+
+371
+00:38:29.390 --> 00:38:31.600
+Arroyo Arzubi Carlos A.: Cuando hablamos del nivel físico.
+
+372
+00:38:32.000 --> 00:38:50.419
+Arroyo Arzubi Carlos A.: quiere decir que nosotros tenemos que tener algún tipo de protección para evitar que un intruso acceda a nuestro sistema de cómputo, es decir, si tengo una sala de cómputo y lo que sea bueno, se tomarán las medidas de seguridad, cerraduras y todo lo demás.
+
+373
+00:38:50.600 --> 00:38:55.030
+Arroyo Arzubi Carlos A.: El nivel físico de acceso al
+
+374
+00:38:55.400 --> 00:38:58.400
+Arroyo Arzubi Carlos A.: al sistema, al hardware y a lo que sea
+
+375
+00:38:58.860 --> 00:39:07.329
+Arroyo Arzubi Carlos A.: Cuando habla de red tiene que ver con la protección de las redes de comunicaciones para evitar
+
+376
+00:39:07.550 --> 00:39:14.129
+Arroyo Arzubi Carlos A.: la interceptación o la interrupción de las comunicaciones. Eso está claro.
+
+377
+00:39:14.780 --> 00:39:22.729
+Arroyo Arzubi Carlos A.: un canal de comunicaciones. Si a mí me lo interrumpen. Bueno, ya mi sistema no puede funcionar o si de pronto a
+
+378
+00:39:23.290 --> 00:39:24.710
+Arroyo Arzubi Carlos A.: y
+
+379
+00:39:25.960 --> 00:39:40.859
+Arroyo Arzubi Carlos A.: puede ser interceptado en cuanto a el flujo y el tipo de información que va por ahí, con lo cual la confidencialidad y todo lo demás se pierde
+
+380
+00:39:42.230 --> 00:39:45.980
+Arroyo Arzubi Carlos A.: y sistema operativo.
+
+381
+00:39:48.720 --> 00:39:55.050
+Arroyo Arzubi Carlos A.: El sistema operativo que tengamos es muy importante porque es el responsable, 1
+
+382
+00:39:56.590 --> 00:40:03.819
+Arroyo Arzubi Carlos A.: de los responsables de la seguridad en mi sistema de cómputo, es decir, que, de hecho.
+
+383
+00:40:04.570 --> 00:40:08.579
+Arroyo Arzubi Carlos A.: los sistemas operativos tienen distinto nivel de seguridad
+
+384
+00:40:08.840 --> 00:40:15.540
+Arroyo Arzubi Carlos A.: y, bueno, 1 cuando opta por un sistema operativo, está también optando por un nivel de seguridad determinado.
+
+385
+00:40:16.720 --> 00:40:27.100
+Arroyo Arzubi Carlos A.: Ahora bien, nosotros, como usuarios, ¿cómo podemos asegurarnos que nuestro sistema operativo
+
+386
+00:40:28.100 --> 00:40:32.629
+Arroyo Arzubi Carlos A.: nos dé la máxima seguridad que puede dar. Digo que puede dar, porque
+
+387
+00:40:33.040 --> 00:40:36.429
+Arroyo Arzubi Carlos A.: cada sistema operativo tiene consigue lo que consigue.
+
+388
+00:40:36.800 --> 00:40:44.450
+Arroyo Arzubi Carlos A.: Bueno, lo que tenemos que hacer con nuestro sistema operativo es permanentemente mantenerlo actualizado.
+
+389
+00:40:44.940 --> 00:40:52.079
+Arroyo Arzubi Carlos A.: es decir, que cuando vienen actualizaciones del sistema operativo hay que aplicarla.
+
+390
+00:40:52.400 --> 00:40:59.979
+Arroyo Arzubi Carlos A.: Esas actualizaciones que ustedes están acostumbrados con la computadora, con el teléfono, con lo que sea, con el celular
+
+391
+00:41:00.470 --> 00:41:09.720
+Arroyo Arzubi Carlos A.: y periódicamente mandan actualizaciones. En esas actualizaciones mandan una cantidad de cosas.
+
+392
+00:41:10.070 --> 00:41:14.080
+Arroyo Arzubi Carlos A.: montón de errores que encontraron los corrigen
+
+393
+00:41:14.260 --> 00:41:20.319
+Arroyo Arzubi Carlos A.: alguna función que agrega la agrega y en particular también
+
+394
+00:41:20.640 --> 00:41:25.020
+Arroyo Arzubi Carlos A.: todo lo que tiene que ver con la defensa del sistema.
+
+395
+00:41:25.400 --> 00:41:27.429
+Arroyo Arzubi Carlos A.: Como dijimos al comienzo
+
+396
+00:41:28.080 --> 00:41:43.489
+Arroyo Arzubi Carlos A.: permanentemente, hay que estar mejorando los sistemas de defensa, porque los ataques también mejoran permanentemente. Entonces, cuando tenemos que actualizar el sistema operativo, hay que hacerlo.
+
+397
+00:41:43.710 --> 00:41:50.490
+Arroyo Arzubi Carlos A.: Hay gente que de pronto tiene a nivel personal, no a nivel de empresa, porque a nivel de empresa esto lo tienen mucho más claro.
+
+398
+00:41:50.600 --> 00:42:03.529
+Arroyo Arzubi Carlos A.: dice, no, yo, no actualizo mi sistema operativo, porque cuando lo actualicé, me dio algún problema, y esto que lo otro bueno, sepa que cuando 1 no actualiza el sistema operativo
+
+399
+00:42:04.000 --> 00:42:12.730
+Arroyo Arzubi Carlos A.: está quedando atrás, especialmente en los temas de defensa de la seguridad del sistema Mhm.
+
+400
+00:42:14.250 --> 00:42:18.130
+Arroyo Arzubi Carlos A.: Y la cuarta cuarto nivel: las aplicaciones?
+
+401
+00:42:18.400 --> 00:42:24.450
+Arroyo Arzubi Carlos A.: Bueno, las aplicaciones son responsabilidad nuestra, ¿
+
+402
+00:42:27.740 --> 00:42:30.839
+Arroyo Arzubi Carlos A.: ¿y ustedes, si van a desarrollar software.
+
+403
+00:42:31.040 --> 00:42:35.619
+Arroyo Arzubi Carlos A.: ya sea jefe de proyecto o lo que sea el día de mañana.
+
+404
+00:42:35.820 --> 00:42:39.160
+Arroyo Arzubi Carlos A.: van a ser responsables de la aplicación que hagan
+
+405
+00:42:40.150 --> 00:42:49.929
+Arroyo Arzubi Carlos A.: y las aplicaciones es un tema importante a tener en cuenta, porque si la aplicación no tiene las medidas de seguridad adecuadas.
+
+406
+00:42:50.410 --> 00:43:01.130
+Arroyo Arzubi Carlos A.: es una puerta de entrada para que alguien no autorizado con mala intención o con lo que sea, entre
+
+407
+00:43:01.430 --> 00:43:08.280
+Arroyo Arzubi Carlos A.: al sistema y más allá de obtener información que no debe
+
+408
+00:43:08.550 --> 00:43:13.059
+Arroyo Arzubi Carlos A.: haga cambios y altere y pierda la integridad de los datos.
+
+409
+00:43:13.850 --> 00:43:16.399
+Arroyo Arzubi Carlos A.: es decir, que el tema de las aplicaciones
+
+410
+00:43:16.710 --> 00:43:21.110
+Arroyo Arzubi Carlos A.: es un tema que tienen que ver ustedes si quieren levantar la mano.
+
+411
+00:43:26.160 --> 00:43:37.180
+Arroyo Arzubi Carlos A.: Yo tengo. ¿por qué tengo una manito levantada? Acá Bueno, Mhm, Este
+
+412
+00:43:38.360 --> 00:43:44.650
+Arroyo Arzubi Carlos A.: acá me interesa hacer un agregado a esta información, Y
+
+413
+00:43:45.060 --> 00:43:49.820
+Arroyo Arzubi Carlos A.: cuando ustedes vayan a adquirir una aplicación porque la compran
+
+414
+00:43:50.280 --> 00:43:57.790
+Arroyo Arzubi Carlos A.: o la mandan a desarrollar un tercero o la desarrollan. Ustedes Ustedes tienen que ver
+
+415
+00:43:58.190 --> 00:44:03.910
+Arroyo Arzubi Carlos A.: cuáles son las medidas de seguridad de esa aplicación.
+
+416
+00:44:04.170 --> 00:44:09.940
+Arroyo Arzubi Carlos A.: y ese es un valor importante que hace la diferencia entre aplicaciones que
+
+417
+00:44:14.950 --> 00:44:17.309
+Arroyo Arzubi Carlos A.: voy a seguir un poco más rápido, porque si no
+
+418
+00:44:18.320 --> 00:44:23.610
+Arroyo Arzubi Carlos A.: ahí van a encontrar en el apunte amenazas y ataques.
+
+419
+00:44:25.410 --> 00:44:33.000
+Arroyo Arzubi Carlos A.: Yo los menciono porque es cosa que son muy repetitivas. Por ejemplo, amenaza confidencialidad
+
+420
+00:44:34.320 --> 00:44:52.130
+Arroyo Arzubi Carlos A.: y cuáles son los ataques a la confidencialidad, exposición, intercepción, inferencia, intrusión, bueno, exposición significa divulgar información privilegiada.
+
+421
+00:44:53.640 --> 00:44:57.310
+Arroyo Arzubi Carlos A.: intersección. Tiene que ver en la red.
+
+422
+00:44:57.860 --> 00:45:02.750
+Arroyo Arzubi Carlos A.: Si ustedes tienen una red y alguien y
+
+423
+00:45:03.520 --> 00:45:20.920
+Arroyo Arzubi Carlos A.: intercepta la red y ve la comunicación y puede, primero alterarla, modificarla, generar mensajes falsos y de mínima.
+
+424
+00:45:21.100 --> 00:45:26.940
+Arroyo Arzubi Carlos A.: Conocer lo que está pasando con cada 1, y el conocer
+
+425
+00:45:27.640 --> 00:45:32.920
+Arroyo Arzubi Carlos A.: es muy valioso. Hay mucha gente que de pronto le puede interesar
+
+426
+00:45:33.250 --> 00:45:40.100
+Arroyo Arzubi Carlos A.: lo que está haciendo otra persona u otra Pyme o una empresa grande.
+
+427
+00:45:40.210 --> 00:45:44.010
+Arroyo Arzubi Carlos A.: Y a través de la comunicación se pueden dar cuenta.
+
+428
+00:45:44.740 --> 00:45:46.650
+Arroyo Arzubi Carlos A.: Vamos a un ejemplo suyo.
+
+429
+00:45:46.850 --> 00:45:52.739
+Arroyo Arzubi Carlos A.: Si ustedes saben que los fulanito está buscando autos.
+
+430
+00:45:53.090 --> 00:46:02.349
+Arroyo Arzubi Carlos A.: Esto lo que aseguro y que lo ven, ustedes buscan autos, y a los ratos aparecen un montón de de propagandas de los autos.
+
+431
+00:46:02.460 --> 00:46:10.049
+Arroyo Arzubi Carlos A.: Bueno, si alguien puede ver en la red la información que ustedes están manejando
+
+432
+00:46:10.390 --> 00:46:29.039
+Arroyo Arzubi Carlos A.: o, por ejemplo, si sos una son una empresa que tienen varias sucursales. Y de pronto, el flujo de información con una determinada ciudad se ve incrementado notablemente. Bueno, todas esas cosas llevan a inferir a aquel que está haciendo
+
+433
+00:46:29.280 --> 00:46:39.389
+Arroyo Arzubi Carlos A.: y tratando de obtener información confidencial, lo lleva a impedir determinadas cuestiones, es decir.
+
+434
+00:46:39.920 --> 00:46:43.409
+Arroyo Arzubi Carlos A.: el análisis del tráfico de las comunicaciones
+
+435
+00:46:43.550 --> 00:46:49.990
+Arroyo Arzubi Carlos A.: le puede dar información que obviamente va a ser utilizada en contra nuestra y a favor de aquel que la tiene.
+
+436
+00:46:55.030 --> 00:46:57.710
+Arroyo Arzubi Carlos A.: Y la otra instrucción que mencioné.
+
+437
+00:46:58.060 --> 00:47:05.640
+Arroyo Arzubi Carlos A.: Bueno, obviamente acceso no autorizado a datos. Bueno, aparecen algunas cosas más que las pueden ver ustedes.
+
+438
+00:47:06.550 --> 00:47:09.840
+Arroyo Arzubi Carlos A.: No me voy a repetir, porque así, como se las digo, se me van a olvidar.
+
+439
+00:47:10.760 --> 00:47:12.320
+Arroyo Arzubi Carlos A.: Veamos otra cosa
+
+440
+00:47:13.610 --> 00:47:21.460
+Arroyo Arzubi Carlos A.: en las redes cuando hablamos de las redes de comunicaciones, los ataques tipo en ser activos o pasivos
+
+441
+00:47:21.660 --> 00:47:30.999
+Arroyo Arzubi Carlos A.: activos son. Cuando ese ataque me produce un cambio en el mensaje o me corta la comunicación, o me pone cosas.
+
+442
+00:47:31.300 --> 00:47:43.769
+Arroyo Arzubi Carlos A.: Y el pasivo es cuando no toca nada, pero solamente está viendo el tráfico y sacando información del pasivo. Yo no me voy a enterar.
+
+443
+00:47:44.100 --> 00:47:53.169
+Arroyo Arzubi Carlos A.: y el activo, seguramente en corto plazo, me voy a dar cuenta, porque algo va a haber modificado.
+
+444
+00:47:57.380 --> 00:48:00.609
+Arroyo Arzubi Carlos A.: pérdida accidental de datos.
+
+445
+00:48:01.060 --> 00:48:13.909
+Arroyo Arzubi Carlos A.: Este es otro tema que también me interesa hacer un una reflexión especial y la pérdida accidental de datos.
+
+446
+00:48:17.380 --> 00:48:20.210
+Arroyo Arzubi Carlos A.: la punta mención a 3 situaciones.
+
+447
+00:48:20.540 --> 00:48:25.020
+Arroyo Arzubi Carlos A.: Las menciono y hablo de cada una accidente o desastre natural.
+
+448
+00:48:26.210 --> 00:48:29.880
+Arroyo Arzubi Carlos A.: errores de hardware o software, errores humanos.
+
+449
+00:48:30.240 --> 00:48:36.980
+Arroyo Arzubi Carlos A.: Bueno, accidente o desastre natural implica que, y
+
+450
+00:48:37.240 --> 00:48:42.640
+Arroyo Arzubi Carlos A.: bueno, si 1 tiene toda la información en un determinado lugar
+
+451
+00:48:43.250 --> 00:48:53.439
+Arroyo Arzubi Carlos A.: y se produce un accidente, un incendio o lo que sea. Obviamente, se pierde la información, con lo cual hay que recurrir a los famosos backup.
+
+452
+00:48:54.330 --> 00:49:00.189
+Arroyo Arzubi Carlos A.: Ustedes, como informáticos, no pueden desconocer la importancia que tienen los bacalls.
+
+453
+00:49:01.330 --> 00:49:07.909
+Arroyo Arzubi Carlos A.: Un informativo no puede cometer el error de no realizar los backups que correspondan
+
+454
+00:49:08.600 --> 00:49:14.030
+Arroyo Arzubi Carlos A.: cuando ustedes vayan a una a trabajar a una empresa, aunque no sea responsabilidad de ustedes.
+
+455
+00:49:14.340 --> 00:49:22.840
+Arroyo Arzubi Carlos A.: pero como informáticos, tienen que consultar quien hace los backups cada cuánto hacen los backups?
+
+456
+00:49:23.590 --> 00:49:33.119
+Arroyo Arzubi Carlos A.: Porque de pronto, para el trabajo de ustedes necesitan hacer el backup de manera más frecuente.
+
+457
+00:49:33.420 --> 00:49:39.010
+Arroyo Arzubi Carlos A.: Quieren incrementar alguna medida de seguridad de backup.
+
+458
+00:49:39.890 --> 00:49:46.210
+Arroyo Arzubi Carlos A.: Lo pueden hacer, lo que no puedes decir un informático trabajando donde trabaje.
+
+459
+00:49:46.800 --> 00:49:50.849
+Arroyo Arzubi Carlos A.: Es decir, se rompió el disco, se perdió lo que sea.
+
+460
+00:49:51.180 --> 00:50:00.150
+Arroyo Arzubi Carlos A.: Y el backup dónde está. Y no sé, no es tema mío si el tema de un informático.
+
+461
+00:50:02.230 --> 00:50:05.779
+Arroyo Arzubi Carlos A.: Y cuando hablamos de los backup.
+
+462
+00:50:06.850 --> 00:50:11.089
+Arroyo Arzubi Carlos A.: que es, como ustedes saben, una copia de la información que yo tengo.
+
+463
+00:50:11.250 --> 00:50:15.410
+Arroyo Arzubi Carlos A.: estos tienen que estar ubicados en distintos lugares geográficamente.
+
+464
+00:50:15.680 --> 00:50:25.119
+Arroyo Arzubi Carlos A.: ¿ Es decir, yo puedo tener en el edificio de Palermo, el otro en Córdoba, otro en otro país donde sea.
+
+465
+00:50:25.400 --> 00:50:29.509
+Arroyo Arzubi Carlos A.: ¿por qué? Porque el desastre natural puede llegar a afectar a toda una ciudad.
+
+466
+00:50:30.660 --> 00:50:34.809
+Arroyo Arzubi Carlos A.: entonces hay que prever esas situaciones
+
+467
+00:50:34.940 --> 00:50:40.579
+Arroyo Arzubi Carlos A.: y dependerá de la importancia que cada empresa le dé a sus datos
+
+468
+00:50:40.700 --> 00:50:43.929
+Arroyo Arzubi Carlos A.: la cantidad de backup y dónde lo va a hacer
+
+469
+00:50:44.710 --> 00:50:48.289
+Arroyo Arzubi Carlos A.: esto. No es cuestión de que alguno me diga.
+
+470
+00:50:48.450 --> 00:50:50.720
+Arroyo Arzubi Carlos A.: y lo digo porque alguno me lo dijo.
+
+471
+00:50:50.890 --> 00:50:54.930
+Arroyo Arzubi Carlos A.: no lo guardo en la nube, la nube no existe.
+
+472
+00:50:55.710 --> 00:50:58.700
+Arroyo Arzubi Carlos A.: La nube es un concepto.
+
+473
+00:50:58.930 --> 00:51:01.930
+Arroyo Arzubi Carlos A.: La nube es el edificio de al lado donde están
+
+474
+00:51:02.090 --> 00:51:06.180
+Arroyo Arzubi Carlos A.: o o en Córdoba o en o en Inglaterra.
+
+475
+00:51:06.310 --> 00:51:08.690
+Arroyo Arzubi Carlos A.: Pero la nube no es la nube.
+
+476
+00:51:08.990 --> 00:51:12.789
+Arroyo Arzubi Carlos A.: Entonces hay que ver bien dónde se guardan.
+
+477
+00:51:12.970 --> 00:51:24.979
+Arroyo Arzubi Carlos A.: Hay empresas que dan servicio de backup y otras veces la empresa propia. La misma empresa establece su mismo sistema de backup por una cuestión de seguridad pero bueno.
+
+478
+00:51:26.160 --> 00:51:28.500
+Arroyo Arzubi Carlos A.: el backup.
+
+479
+00:51:28.630 --> 00:51:35.409
+Arroyo Arzubi Carlos A.: Hay que hacerlo no solamente por desastre natural, sino en segundo punto que dije errores de hardware o de software
+
+480
+00:51:36.110 --> 00:51:39.429
+Arroyo Arzubi Carlos A.: que un error de hardware, un disco.
+
+481
+00:51:39.580 --> 00:51:45.170
+Arroyo Arzubi Carlos A.: Se rompe, se pierden pistas, lo que sea bueno. Hay que recuperar los datos.
+
+482
+00:51:45.290 --> 00:51:50.749
+Arroyo Arzubi Carlos A.: es decir, que cualquier aspecto de hardware de mis memorias.
+
+483
+00:51:51.820 --> 00:51:56.860
+Arroyo Arzubi Carlos A.: También puede ocurrir aquí.
+
+484
+00:51:57.050 --> 00:51:57.890
+Arroyo Arzubi Carlos A.: Sí.
+
+485
+00:51:58.060 --> 00:51:59.930
+FRANCO EMMANUEL SICARDO: Ahí entra lo que vimos de Raid.
+
+486
+00:52:02.740 --> 00:52:03.200
+Arroyo Arzubi Carlos A.: No.
+
+487
+00:52:03.200 --> 00:52:07.690
+FRANCO EMMANUEL SICARDO: Varios discos con la misma información y ponerle. Se me rompe 1 Hoy, lo cambio.
+
+488
+00:52:08.290 --> 00:52:10.769
+Arroyo Arzubi Carlos A.: Sí, pero ese no te salva de lo Backout.
+
+489
+00:52:11.310 --> 00:52:14.810
+Arroyo Arzubi Carlos A.: el sistema arraigo lo vas a tener en un lugar determinado
+
+490
+00:52:15.330 --> 00:52:20.059
+Arroyo Arzubi Carlos A.: para para resolver el problema rápido. Se
+
+491
+00:52:20.180 --> 00:52:28.259
+Arroyo Arzubi Carlos A.: Se jorobó una pista. Se jorobó un disco. Pero si no el sistema ray vos tenés que tener toda esa información en otro lado, en otro lugar
+
+492
+00:52:28.830 --> 00:52:37.579
+Arroyo Arzubi Carlos A.: geográfico. Me explico, es decir, esto: el el el sistema Rai sí resuelve eso, pero no es un backup
+
+493
+00:52:37.730 --> 00:52:43.600
+Arroyo Arzubi Carlos A.: resuelve rápidamente el problema de una falla en alguna parte, pero no es el backup
+
+494
+00:52:46.710 --> 00:52:48.470
+Arroyo Arzubi Carlos A.: errores humanos.
+
+495
+00:52:48.880 --> 00:52:58.620
+Arroyo Arzubi Carlos A.: El tema de errores humanos. Es un tema que me interesa también recalcar especialmente y porque
+
+496
+00:52:59.920 --> 00:53:15.979
+Arroyo Arzubi Carlos A.: cuando nosotros, ustedes desarrollen software, desarrollen aplicaciones o lo que sea, los usuarios van a cometer errores y el
+
+497
+00:53:17.020 --> 00:53:21.750
+Arroyo Arzubi Carlos A.: sin mala intención, pero van a cometer errores.
+
+498
+00:53:22.090 --> 00:53:30.919
+Arroyo Arzubi Carlos A.: Entonces, 1 tiene que tratar de que la la cantidad de errores que pueda producir un usuario
+
+499
+00:53:31.130 --> 00:53:33.779
+Arroyo Arzubi Carlos A.: de una aplicación sea la mínima.
+
+500
+00:53:34.650 --> 00:53:36.490
+Arroyo Arzubi Carlos A.: ¿cómo se logra eso?
+
+501
+00:53:36.790 --> 00:53:48.400
+Arroyo Arzubi Carlos A.: Es muy simple y hay que tratar de que un usuario de un sistema no escriba nada.
+
+502
+00:53:48.850 --> 00:53:54.649
+Arroyo Arzubi Carlos A.: Hoy es muy común porque yo lo veo en las aplicaciones. Esto evolucionó mucho Al principio, Era horrible.
+
+503
+00:53:54.910 --> 00:53:56.410
+Arroyo Arzubi Carlos A.: Ahora es muy común
+
+504
+00:53:56.610 --> 00:54:05.860
+Arroyo Arzubi Carlos A.: cual muchas, la mayoría de las aplicaciones que que yo veo también, que son de uso muy popular y
+
+505
+00:54:06.170 --> 00:54:07.810
+Arroyo Arzubi Carlos A.: hacen que 1 no escriba nada.
+
+506
+00:54:07.960 --> 00:54:12.300
+Arroyo Arzubi Carlos A.: ¿qué significa no escribir nada que yo tenga que elegir opciones.
+
+507
+00:54:12.790 --> 00:54:16.169
+Arroyo Arzubi Carlos A.: opciones de una lista que me aparezca.
+
+508
+00:54:17.380 --> 00:54:21.059
+Arroyo Arzubi Carlos A.: con lo cual la probabilidad de error es mucho menor.
+
+509
+00:54:22.000 --> 00:54:36.510
+Arroyo Arzubi Carlos A.: No es que voy a evitar, porque si tengo que poner este e elegir de la lista y elijo un ítem equivocado. Va a haber un error.
+
+510
+00:54:37.730 --> 00:54:40.030
+Arroyo Arzubi Carlos A.: pero no me va a
+
+511
+00:54:40.230 --> 00:54:48.400
+Arroyo Arzubi Carlos A.: alterar demasiado más allá de ese error puntual, que es lo que estoy diciendo. Si nosotros supongamos que la Universidad de Palermo
+
+512
+00:54:48.650 --> 00:54:49.820
+Arroyo Arzubi Carlos A.: le dice.
+
+513
+00:54:50.290 --> 00:54:58.059
+Arroyo Arzubi Carlos A.: Yo quiero saber de qué provincia es cada 1. ¿no? Bueno, entonces hablemos de Argentina para hacerlo más corto, nada más.
+
+514
+00:54:58.950 --> 00:55:06.140
+Arroyo Arzubi Carlos A.: Entonces 1 pone nacionalidad Argentina provincia escriba la provincia. Si yo escribo la provincia.
+
+515
+00:55:06.420 --> 00:55:13.180
+Arroyo Arzubi Carlos A.: Bueno, alguno va a poner Córdoba Come larga, otro va a poner Córdoba con ve corta.
+
+516
+00:55:13.720 --> 00:55:20.490
+Arroyo Arzubi Carlos A.: Bueno, para el sistema, esas 2 provincias, esos esos 2 nombres son 2 provincias distintas.
+
+517
+00:55:20.660 --> 00:55:23.749
+Arroyo Arzubi Carlos A.: Una es Córdoba con mi larga y otra Córdoba con vecorta.
+
+518
+00:55:24.000 --> 00:55:33.999
+Arroyo Arzubi Carlos A.: con lo cual cuando yo quiera buscar y diga, bueno, a ver quiénes son los alumnos que son de Córdoba. ¿de acuerdo, como yo la escriba, me van a aparecer 1 o me van a aparecer los otros.
+
+519
+00:55:34.880 --> 00:55:38.429
+Arroyo Arzubi Carlos A.: Esto es lo que estoy diciendo cuando ustedes hagan un software
+
+520
+00:55:38.670 --> 00:55:51.860
+Arroyo Arzubi Carlos A.: y entonces tengan que poner de qué provincia es bueno que elija de la lista, y entonces ahí va a haber un solo córdoba y la probabilidad y la posibilidad de error es mucho menor.
+
+521
+00:55:52.410 --> 00:55:57.420
+Arroyo Arzubi Carlos A.: Obviamente, esto hace que el software que 1 desarrolle
+
+522
+00:55:58.250 --> 00:56:00.970
+Arroyo Arzubi Carlos A.: sea más caro porque tiene mucho más trabajo.
+
+523
+00:56:01.380 --> 00:56:10.119
+Arroyo Arzubi Carlos A.: Yo tengo que cargar todas las tablas y todas las cuestiones para evitar que alguien escriba y ponga una incoherencia.
+
+524
+00:56:10.670 --> 00:56:15.940
+Arroyo Arzubi Carlos A.: entonces esas cosas son las que hacen a la calidad de un software.
+
+525
+00:56:16.510 --> 00:56:19.900
+Arroyo Arzubi Carlos A.: y hay mucho trabajo atrás de ello
+
+526
+00:56:20.470 --> 00:56:26.359
+Arroyo Arzubi Carlos A.: no es lo mismo un software que hace carga todo de tablas que 1 que escribo todo.
+
+527
+00:56:26.990 --> 00:56:31.869
+Arroyo Arzubi Carlos A.: es decir, que son cosas que no se vende el software.
+
+528
+00:56:32.020 --> 00:56:41.640
+Arroyo Arzubi Carlos A.: pero que cuando 1 tiene que desarrollarlo o comprarlo o investigarlo. Bueno, tiene que ver que esto sea así.
+
+529
+00:56:45.360 --> 00:56:56.039
+Arroyo Arzubi Carlos A.: Y bueno, a los efectos de dar mayor seguridad a los sistemas. Lo que se utiliza mucho
+
+530
+00:56:56.430 --> 00:56:59.629
+Arroyo Arzubi Carlos A.: también es el cifrado o encriptado
+
+531
+00:56:59.790 --> 00:57:06.130
+Arroyo Arzubi Carlos A.: criptografía, cosa que ustedes también conocen: ¿Qué implica que.
+
+532
+00:57:06.280 --> 00:57:13.720
+Arroyo Arzubi Carlos A.: ya sea para tener guardado en mi sistema de cómputo, o ya sea para cuando. Quiero hacer una transmisión.
+
+533
+00:57:14.060 --> 00:57:17.260
+Arroyo Arzubi Carlos A.: Yo quiero transmitir a través de la red
+
+534
+00:57:17.600 --> 00:57:24.339
+Arroyo Arzubi Carlos A.: que si eso es interceptado, no lo puedan entender. Entonces manejo información encriptada.
+
+535
+00:57:24.650 --> 00:57:30.190
+Arroyo Arzubi Carlos A.: Esto a nivel de las redes es lo que da por ahora la mayor seguridad.
+
+536
+00:57:30.610 --> 00:57:37.129
+Arroyo Arzubi Carlos A.: Como ustedes saben, para poder encriptar, hay que tener un encriptador
+
+537
+00:57:37.340 --> 00:57:42.930
+Arroyo Arzubi Carlos A.: y una clave de encriptación. Ahí van a vender. El apunte está la formulita, que es muy simple.
+
+538
+00:57:43.120 --> 00:57:47.350
+Arroyo Arzubi Carlos A.: donde habla de que un texto plano
+
+539
+00:57:47.560 --> 00:57:52.860
+Arroyo Arzubi Carlos A.: se lo llama texto plano, aquel que está en claro aquel que 1 lo puede leer.
+
+540
+00:57:53.890 --> 00:58:00.450
+Arroyo Arzubi Carlos A.: y un texto cifrado cuando no lo puedo leer porque no lo entiendo nada.
+
+541
+00:58:00.850 --> 00:58:08.419
+Arroyo Arzubi Carlos A.: Entonces, cuando yo tengo un texto en pla de plano, que se lo voy a enviar
+
+542
+00:58:09.140 --> 00:58:20.810
+Arroyo Arzubi Carlos A.: a otro usuario que está en otro lado ese texto plano le aplico el el código de encriptación
+
+543
+00:58:21.430 --> 00:58:27.409
+Arroyo Arzubi Carlos A.: asociado, una clave de encriptación. Y eso me da resultado.
+
+544
+00:58:27.760 --> 00:58:34.160
+Arroyo Arzubi Carlos A.: El texto cifrado, Ese texto, cifrado viaja.
+
+545
+00:58:34.320 --> 00:58:44.050
+Arroyo Arzubi Carlos A.: y cuando llega a destino, obviamente el destinatario va a tener que tener el código de descifrar para descifrar.
+
+546
+00:58:44.200 --> 00:58:51.549
+Arroyo Arzubi Carlos A.: desencriptar, y la clave de desencriptación, entonces le va a aplicar ese código
+
+547
+00:58:51.700 --> 00:59:02.619
+Arroyo Arzubi Carlos A.: al texto cifrado con la clave de descifrado y va a obtener el texto plano. Bueno, esto es muy simple, pero
+
+548
+00:59:03.270 --> 00:59:12.009
+Arroyo Arzubi Carlos A.: sepan que cada vez se utiliza más, porque cada vez hay más posibilidades de que detecten nuestra información.
+
+549
+00:59:13.190 --> 00:59:23.530
+Arroyo Arzubi Carlos A.: Otro tema autenticación de usuarios, tema que ustedes conocen, y
+
+550
+00:59:24.860 --> 00:59:33.699
+Arroyo Arzubi Carlos A.: para la autenticación de un usuario, es decir, cuando ustedes se quieren ingresar algún algún programa alguna aplicación?
+
+551
+00:59:34.800 --> 00:59:43.610
+Arroyo Arzubi Carlos A.: Bueno, consta de 2 pasos, un paso de identificación y un paso de verificación.
+
+552
+00:59:43.890 --> 00:59:44.630
+Arroyo Arzubi Carlos A.: ¿
+
+553
+00:59:46.110 --> 00:59:53.170
+Arroyo Arzubi Carlos A.: El paso de identificación es cuando 1 le dice al sistema. ¿quién es
+
+554
+00:59:53.470 --> 01:00:02.190
+Arroyo Arzubi Carlos A.: ¿ Cuando ven para entrar al Banco le ponen el nombre de usuario, entonces está bien.
+
+555
+01:00:02.430 --> 01:00:09.360
+Arroyo Arzubi Carlos A.: el Banco dice este González, eso es la identificación, pero
+
+556
+01:00:09.510 --> 01:00:18.520
+Arroyo Arzubi Carlos A.: la autenticación comprende los 2 pasos, la identificación y ahora hay que verificar que ese usuario
+
+557
+01:00:19.050 --> 01:00:26.269
+Arroyo Arzubi Carlos A.: sea quien dice que es bueno para esto. También ustedes han visto ya
+
+558
+01:00:26.390 --> 01:00:29.840
+Arroyo Arzubi Carlos A.: distintas formas de hacer esta bic. Esta verificación
+
+559
+01:00:30.180 --> 01:00:35.310
+Arroyo Arzubi Carlos A.: con una contraseña cifrada, 1 coloca una contraseña.
+
+560
+01:00:36.160 --> 01:00:41.260
+Arroyo Arzubi Carlos A.: Existen también contraseñas de un solo uso para determinado sistema
+
+561
+01:00:41.420 --> 01:00:47.569
+Arroyo Arzubi Carlos A.: para darle más seguridad. Una vez que 1 usa la contraseña después tiene que que renovarla.
+
+562
+01:00:48.650 --> 01:00:53.940
+Arroyo Arzubi Carlos A.: Autenticación de reto respuesta también seguro. Ya muchos la han
+
+563
+01:00:54.070 --> 01:00:58.510
+Arroyo Arzubi Carlos A.: percibido porque a veces 1 quiere entrar a un determinado lugar.
+
+564
+01:00:58.880 --> 01:01:01.869
+Arroyo Arzubi Carlos A.: y el sistema le empieza a hacer preguntas
+
+565
+01:01:02.090 --> 01:01:05.760
+Arroyo Arzubi Carlos A.: para verificar que usted es quien dice que es.
+
+566
+01:01:05.960 --> 01:01:14.479
+Arroyo Arzubi Carlos A.: Usted trabajó en tal lugar o no? Usted tiene cuenta en tal lugar o no usted ¿Qué sé yo preguntas
+
+567
+01:01:15.440 --> 01:01:24.250
+Arroyo Arzubi Carlos A.: con ese con esa autenticación de retro respuesta, El sistema da por Ok, que 1 es quien dice que es.
+
+568
+01:01:26.350 --> 01:01:35.269
+Arroyo Arzubi Carlos A.: tenemos autenticación basada en tokens, Ahí tenemos los las tarjetas de memoria
+
+569
+01:01:35.590 --> 01:01:44.409
+Arroyo Arzubi Carlos A.: que cuando 1 va con una tarjeta, la tarjeta del Banco la pasa por el pozle. Lo que sea es la identificación
+
+570
+01:01:44.560 --> 01:01:47.020
+Arroyo Arzubi Carlos A.: y si no, también con
+
+571
+01:01:47.930 --> 01:01:55.730
+Arroyo Arzubi Carlos A.: las tarjetas inteligentes, que, en definitiva, es el token, ese que que nos sale ahora, que los bancos.
+
+572
+01:01:55.890 --> 01:02:04.160
+Arroyo Arzubi Carlos A.: creo que casi todos ya lo tienen, ¿ El Token, que todos conocen, que le piden el número para asegurarse que usted ve quién es
+
+573
+01:02:04.490 --> 01:02:14.289
+Arroyo Arzubi Carlos A.: bueno y la última que vamos a mencionar para la verificación, que puede ser también la autenticación biométrica
+
+574
+01:02:14.790 --> 01:02:17.209
+Arroyo Arzubi Carlos A.: que la verdad que está funcionando muy bien.
+
+575
+01:02:17.370 --> 01:02:20.160
+Arroyo Arzubi Carlos A.: Inicialmente daba muchos problemas
+
+576
+01:02:20.760 --> 01:02:30.169
+Arroyo Arzubi Carlos A.: mucho que hace años que está, pero daba muchos problemas porque no veía bien el ojo no veía bien el dedo. No veía bien la cara. ¿qué se yo hoy en día, eso
+
+577
+01:02:30.390 --> 01:02:35.169
+Arroyo Arzubi Carlos A.: ha mejorado muchísimo y, de hecho.
+
+578
+01:02:35.400 --> 01:02:43.440
+Arroyo Arzubi Carlos A.: también la tienen, en, obviamente, en los celulares y para entrar al celular para entrar al banco. Bueno.
+
+579
+01:02:44.330 --> 01:02:52.150
+Arroyo Arzubi Carlos A.: pero en definitiva, la autenticación tiene 2 partes: la identificación del usuario y, después todo lo que cada aplicación
+
+580
+01:02:52.330 --> 01:02:58.230
+Arroyo Arzubi Carlos A.: utiliza para asegurarse de que la persona es la que dice que es
+
+581
+01:03:03.220 --> 01:03:04.190
+Arroyo Arzubi Carlos A.: bueno.
+
+582
+01:03:05.370 --> 01:03:19.530
+Arroyo Arzubi Carlos A.: Otro punto: evaluaciones de seguridad, es decir, nosotros, el sistema, nuestro sistema de cómputo.
+
+583
+01:03:19.930 --> 01:03:32.139
+Arroyo Arzubi Carlos A.: Debemos verificar que que tenga un adecuado grado de seguridad.
+
+584
+01:03:32.670 --> 01:03:37.779
+Arroyo Arzubi Carlos A.: para lo cual hay que hacer 2 cosas: digamos, o hay que tener 2 sistemas.
+
+585
+01:03:37.920 --> 01:03:40.249
+Arroyo Arzubi Carlos A.: 1 de prevención de intrusos.
+
+586
+01:03:40.500 --> 01:03:46.789
+Arroyo Arzubi Carlos A.: ¿ que yo pongo todas las barreras que pueda poner para que no entre nadie. Así que
+
+587
+01:03:47.640 --> 01:03:50.000
+Arroyo Arzubi Carlos A.: un sistema podría ser ese.
+
+588
+01:03:51.000 --> 01:03:57.079
+Arroyo Arzubi Carlos A.: Y otro sistema es de detección de intrusos que es distinto
+
+589
+01:03:57.480 --> 01:03:59.899
+Arroyo Arzubi Carlos A.: que es cuando el intruso está dentro.
+
+590
+01:04:00.410 --> 01:04:06.299
+Arroyo Arzubi Carlos A.: ¿ Es decir, yo, mi sistema de seguridad debe prever las 2 cosas.
+
+591
+01:04:07.830 --> 01:04:11.480
+Arroyo Arzubi Carlos A.: poner una barrera para tratar de que no entren.
+
+592
+01:04:11.650 --> 01:04:17.889
+Arroyo Arzubi Carlos A.: Pero además, internamente, el sistema debe vigilar
+
+593
+01:04:18.360 --> 01:04:20.590
+Arroyo Arzubi Carlos A.: que no haya un intruso dando vueltas.
+
+594
+01:04:22.760 --> 01:04:42.140
+Arroyo Arzubi Carlos A.: Y eso de qué manera? Bueno, cuando si 1 tiene un sistema interno de detección de intrusos, va a estar atento a movimientos usos de los distintos recursos. Cuando ve que hay un uso anormal de determinada cuestión de mi sistema de cómputo
+
+595
+01:04:42.310 --> 01:04:49.579
+Arroyo Arzubi Carlos A.: Mhm, es decir, que, como concepto importante, la seguridad.
+
+596
+01:04:49.770 --> 01:05:08.230
+Arroyo Arzubi Carlos A.: ver qué sistema previene la entrada, pero además ver con qué sistema yo controlo periódicamente o permanentemente, o lo que sea, de acuerdo al sistema que yo ponga vigilantes que anden mirando que adentro de mi sistema, no tenga ya un intruso.
+
+597
+01:05:12.210 --> 01:05:17.590
+Arroyo Arzubi Carlos A.: Bueno, la unidad, 11. Básicamente es esto. Como ven, es muy simple.
+
+598
+01:05:17.750 --> 01:05:19.700
+Arroyo Arzubi Carlos A.: Son temas conceptuales.
+
+599
+01:05:20.140 --> 01:05:22.890
+Arroyo Arzubi Carlos A.: No vamos al detalle de nada en particular.
+
+600
+01:05:23.990 --> 01:05:29.769
+Arroyo Arzubi Carlos A.: vamos a ver ahora la unidad 12. Recuerden que yo estoy haciendo el resumen del resumen.
+
+601
+01:05:30.440 --> 01:05:40.880
+Arroyo Arzubi Carlos A.: La unidad 12 habla de protección, que ya algo dije que son los mecanismos que se utilizan para
+
+602
+01:05:41.520 --> 01:05:43.990
+Arroyo Arzubi Carlos A.: incrementar la seguridad del sistema?
+
+603
+01:05:44.420 --> 01:05:55.249
+Arroyo Arzubi Carlos A.: Uno podría decir que son los mecanismos que nos permiten aplicar
+
+604
+01:05:55.900 --> 01:05:59.710
+Arroyo Arzubi Carlos A.: las políticas de uso de los recursos.
+
+605
+01:06:00.230 --> 01:06:05.570
+Arroyo Arzubi Carlos A.: Otra forma que podríamos decirlo. ¿por qué? Porque son los mecanismos
+
+606
+01:06:05.700 --> 01:06:14.409
+Arroyo Arzubi Carlos A.: que van a limitar y permitir a los distintos usuarios acceder a los recursos. Entonces, Por eso digo que
+
+607
+01:06:15.200 --> 01:06:26.939
+Arroyo Arzubi Carlos A.: puede interpretarse como una política de uso de los recursos. La política de mi sistema de cómputo es que este entre que este no que este, entre acá que este vea este pedacito, eso es política
+
+608
+01:06:27.280 --> 01:06:36.080
+Arroyo Arzubi Carlos A.: de asignación de recursos, Pero, bueno, la protección.
+
+609
+01:06:36.610 --> 01:06:45.900
+Arroyo Arzubi Carlos A.: Obviamente, es responsabilidad del sistema operativo y de las aplicaciones, que es lo que hemos dicho hace un ratito
+
+610
+01:06:47.150 --> 01:06:49.190
+Arroyo Arzubi Carlos A.: principios de P, R o T E. C c ión.
+
+611
+01:06:50.020 --> 01:06:54.250
+Arroyo Arzubi Carlos A.: Hay 2 principios de protección que son
+
+612
+01:06:54.630 --> 01:06:58.650
+Arroyo Arzubi Carlos A.: muy importante. Los menciono y luego hablamos.
+
+613
+01:06:58.990 --> 01:07:14.020
+Arroyo Arzubi Carlos A.: Uno se llama privilegio mínimo y otro compartimentación, es decir, que principios de protección, privilegio mínimo, compartimentación.
+
+614
+01:07:14.830 --> 01:07:22.940
+Arroyo Arzubi Carlos A.: privilegio mínimo que quiere decir que yo debo darle a cada usuario ¿
+
+615
+01:07:23.520 --> 01:07:31.580
+Arroyo Arzubi Carlos A.: El acceso solo y exclusivamente de lo que necesita para hacer su tarea.
+
+616
+01:07:32.660 --> 01:07:37.480
+Arroyo Arzubi Carlos A.: No debo darle ni un metro más de lugar.
+
+617
+01:07:38.090 --> 01:07:42.230
+Arroyo Arzubi Carlos A.: Eso es lo que quiere decir privilegio mínimo.
+
+618
+01:07:42.880 --> 01:07:54.839
+Arroyo Arzubi Carlos A.: Si yo hago una aplicación y digo bueno para entrar a esta aplicación, entran con una clave Makanudo, bueno.
+
+619
+01:07:55.240 --> 01:08:02.329
+Arroyo Arzubi Carlos A.: pero González, si tiene que entrar a hacer determinadas tareas en esa aplicación.
+
+620
+01:08:03.770 --> 01:08:07.999
+Arroyo Arzubi Carlos A.: él va a tener permiso solamente para esas tareas.
+
+621
+01:08:08.460 --> 01:08:12.380
+Arroyo Arzubi Carlos A.: No tomá con esta clave entrar si puedes hacer lo que quieras.
+
+622
+01:08:12.750 --> 01:08:18.499
+Arroyo Arzubi Carlos A.: aunque pensemos que no lo va a ser, pero no lo sabemos.
+
+623
+01:08:19.229 --> 01:08:21.940
+Arroyo Arzubi Carlos A.: No hay que tentar a nadie
+
+624
+01:08:22.080 --> 01:08:27.360
+Arroyo Arzubi Carlos A.: que se ponga a hurgar, a modificar, a mirar nada.
+
+625
+01:08:27.939 --> 01:08:33.150
+Arroyo Arzubi Carlos A.: Cada 1 tiene que tener acceso exclusivamente a lo que necesita.
+
+626
+01:08:33.609 --> 01:08:41.850
+Arroyo Arzubi Carlos A.: Por ejemplo, nosotros lo hablamos en algún momento de la base de datos? Creo que sí, algo hablamos
+
+627
+01:08:42.000 --> 01:08:47.319
+Arroyo Arzubi Carlos A.: y yo le dije que había una sola base de datos. La empresa tiene que tener una sola. Bueno, Mccano
+
+628
+01:08:47.770 --> 01:08:50.290
+Arroyo Arzubi Carlos A.: fulano tiene que hacer una aplicación.
+
+629
+01:08:50.609 --> 01:08:53.510
+Arroyo Arzubi Carlos A.: entonces necesita acceder a la base de datos.
+
+630
+01:08:54.229 --> 01:08:56.740
+Arroyo Arzubi Carlos A.: El administrador de la base de datos
+
+631
+01:08:56.850 --> 01:09:15.049
+Arroyo Arzubi Carlos A.: va a recibir el pedido donde diga exactamente qué es lo que necesita este usuario para desarrollar su aplicación y le va tiene que dar solamente lo que necesita, ni un campo de dato más de lo que necesita. Eso quiere decir privilegio mínimo.
+
+632
+01:09:15.960 --> 01:09:18.920
+Arroyo Arzubi Carlos A.: Mhm privilegio mínimo.
+
+633
+01:09:21.260 --> 01:09:26.359
+Arroyo Arzubi Carlos A.: Bueno, me hizo acordar a a un tema personal. ¿qué
+
+634
+01:09:26.990 --> 01:09:30.459
+Arroyo Arzubi Carlos A.: el año pasado, a mi señora le robaron el portal documento
+
+635
+01:09:31.560 --> 01:09:35.850
+Arroyo Arzubi Carlos A.: y tenía todos los documentos, los documentos, las tarjetas, todo.
+
+636
+01:09:37.130 --> 01:09:43.940
+Arroyo Arzubi Carlos A.: Bueno, si 1 aplica el principio de seguridad, este de privilegio mínimo.
+
+637
+01:09:44.450 --> 01:09:50.979
+Arroyo Arzubi Carlos A.: Si ella iba a salir, iba a ir a determinado lugar, tendría que haber llevado exclusivamente a
+
+638
+01:09:51.390 --> 01:09:56.629
+Arroyo Arzubi Carlos A.: lo que iba a necesitar. Y esto valga como consejo, porque hay mucho ratero, mucho lo que sea.
+
+639
+01:09:56.750 --> 01:09:59.480
+Arroyo Arzubi Carlos A.: Entonces, si 1 va a ir a determinado lugar
+
+640
+01:10:00.010 --> 01:10:07.640
+Arroyo Arzubi Carlos A.: y va a usar las tarjetas, no la de crédito, no la de débito. Sí, ¿Cuál esta? Bueno, llevo esa
+
+641
+01:10:08.540 --> 01:10:09.730
+Arroyo Arzubi Carlos A.: me explico
+
+642
+01:10:09.870 --> 01:10:18.059
+Arroyo Arzubi Carlos A.: hoy con el teléfono, muchos evitan tener todo eso, y ese problema se reduce con el uso del teléfono, pero
+
+643
+01:10:19.350 --> 01:10:29.059
+Arroyo Arzubi Carlos A.: a nivel de cuestiones que 1 es celoso de cuidar, llevar solamente las necesarias.
+
+644
+01:10:29.590 --> 01:10:41.320
+Arroyo Arzubi Carlos A.: Bueno, sigamos compartimentación, compartimentación, quiere decir que cada recurso debe tener una protección individual.
+
+645
+01:10:41.700 --> 01:10:48.870
+Arroyo Arzubi Carlos A.: Tener una protección individual quiere decir que tiene que tener un permiso especial aquel que lo vaya a utilizar.
+
+646
+01:10:49.640 --> 01:11:08.849
+Arroyo Arzubi Carlos A.: Si yo tengo que yo 2 impresoras o alguien tendrá permiso, voy a tener que poner permiso para una y para la otra. Si quiero que alguien entre use las 2, le voy a tener que dar los 2 permisos. No estoy dando permisos para las impresoras. No estoy dando permiso para el disco. No estoy dando a decir que
+
+647
+01:11:09.040 --> 01:11:10.790
+Arroyo Arzubi Carlos A.: cada recurso
+
+648
+01:11:10.920 --> 01:11:22.849
+Arroyo Arzubi Carlos A.: de mi sistema tiene que estar protegido de manera individual. Eso quiere decir compartimentación? Bueno, estos son los 2 conceptos: principios de protección
+
+649
+01:11:24.180 --> 01:11:31.850
+Arroyo Arzubi Carlos A.: a nivel conceptual. Cuando 1 desarrolla un sistema de protección, se utiliza
+
+650
+01:11:32.550 --> 01:11:36.139
+Arroyo Arzubi Carlos A.: conceptualmente lo que se llama anillos de protección.
+
+651
+01:11:37.060 --> 01:11:40.439
+Arroyo Arzubi Carlos A.: Los anillos de protección.
+
+652
+01:11:41.510 --> 01:11:47.720
+Arroyo Arzubi Carlos A.: ¿es esto que van a ver esto que están viendo? Acá es una manera obviamente conceptual, donde
+
+653
+01:11:48.130 --> 01:11:51.069
+Arroyo Arzubi Carlos A.: estos anillos de protección, el anillo.
+
+654
+01:11:51.240 --> 01:11:58.569
+Arroyo Arzubi Carlos A.: el número más bajo, en este caso, el 0 es donde estaría el núcleo del sistema y
+
+655
+01:11:58.700 --> 01:12:05.120
+Arroyo Arzubi Carlos A.: en los anillos posteriores. Tengo distintos accesos y finalmente tendré
+
+656
+01:12:05.390 --> 01:12:12.420
+Arroyo Arzubi Carlos A.: los usuarios en el último anillo, es decir, que estos anillos de protección se utilizan como capas
+
+657
+01:12:12.560 --> 01:12:19.369
+Arroyo Arzubi Carlos A.: para tener distintos permisos de seguridad para acceder a los distintos niveles de protección.
+
+658
+01:12:21.090 --> 01:12:26.219
+Arroyo Arzubi Carlos A.: Acá por ejemplo, el caso de Intel. En particular.
+
+659
+01:12:26.530 --> 01:12:30.300
+Arroyo Arzubi Carlos A.: tiene el núcleo del Kerner en el anillo 0
+
+660
+01:12:31.030 --> 01:12:36.480
+Arroyo Arzubi Carlos A.: y el modo usuario en el anillo 3, pero además Intel
+
+661
+01:12:37.770 --> 01:12:42.749
+Arroyo Arzubi Carlos A.: agregó un anillo menos 1, un menos 1,
+
+662
+01:12:43.220 --> 01:12:49.349
+Arroyo Arzubi Carlos A.: que es para los hipervisores hipervisores, que son los gestores de máquinas virtuales.
+
+663
+01:12:50.460 --> 01:12:58.620
+Arroyo Arzubi Carlos A.: También se puede hablar no de un menos 1, sino todavía menor, lo que se llama zona de confianza.
+
+664
+01:12:59.160 --> 01:13:09.630
+Arroyo Arzubi Carlos A.: donde obviamente ahí se hace la la verificación encriptada de
+
+665
+01:13:09.970 --> 01:13:21.699
+Arroyo Arzubi Carlos A.: las distintas claves de acceso de usuarios a los hardware y todo lo demás. Es decir, que cuando hablamos de protección, se habla de anillos de protección como
+
+666
+01:13:21.840 --> 01:13:24.620
+Arroyo Arzubi Carlos A.: el que están viendo aquí.
+
+667
+01:13:27.990 --> 01:13:32.120
+Arroyo Arzubi Carlos A.: Bueno, otro tema: dominio de protección.
+
+668
+01:13:32.960 --> 01:13:41.940
+Arroyo Arzubi Carlos A.: dominios de protección. Dos temas que ustedes han escuchado conocen más o menos, pero han escuchado, y seguramente de estos temas
+
+669
+01:13:42.320 --> 01:13:46.030
+Arroyo Arzubi Carlos A.: alguna materia más específica.
+
+670
+01:13:46.580 --> 01:13:49.039
+Arroyo Arzubi Carlos A.: Entiendo yo que van a tener que tener
+
+671
+01:13:53.380 --> 01:14:05.650
+Arroyo Arzubi Carlos A.: bueno los dominios y están formados por el conjuntos
+
+672
+01:14:05.950 --> 01:14:12.060
+Arroyo Arzubi Carlos A.: de pares, pares de cosas que esos pares que yo yo tengo
+
+673
+01:14:13.070 --> 01:14:18.190
+Arroyo Arzubi Carlos A.: objeto, cada cosa que tengo en mi sistema de cómputo es un objeto.
+
+674
+01:14:18.450 --> 01:14:27.680
+Arroyo Arzubi Carlos A.: sea hardware, o sea, software. Es un objeto, un archivo, una impresora, lo que sea un objeto.
+
+675
+01:14:28.680 --> 01:14:34.980
+Arroyo Arzubi Carlos A.: Y ese objeto le asociamos un derecho.
+
+676
+01:14:36.650 --> 01:14:43.139
+Arroyo Arzubi Carlos A.: Por eso digo que un dominio está formado por un conjunto de esos pares de muchos pares.
+
+677
+01:14:43.970 --> 01:14:48.720
+Arroyo Arzubi Carlos A.: Entonces, por ejemplo, si tengo un archivo determinado
+
+678
+01:14:48.890 --> 01:14:54.089
+Arroyo Arzubi Carlos A.: y derecho, de qué de lectura de escritura de lo que sea.
+
+679
+01:14:54.500 --> 01:14:55.220
+Arroyo Arzubi Carlos A.: Mhm.
+
+680
+01:14:55.340 --> 01:15:02.130
+Arroyo Arzubi Carlos A.: Entonces un dominio que va a ser un dominio, un dominio va a ser o un usuario
+
+681
+01:15:02.400 --> 01:15:07.109
+Arroyo Arzubi Carlos A.: o un proceso, un proceso que tiene dominio
+
+682
+01:15:07.770 --> 01:15:10.800
+Arroyo Arzubi Carlos A.: para poder acceder a determinadas cuestiones.
+
+683
+01:15:11.450 --> 01:15:21.409
+Arroyo Arzubi Carlos A.: Mhm: Entonces voy a mostrar también un gráfico que es interesante porque a dónde tenía acá
+
+684
+01:15:23.780 --> 01:15:25.579
+Arroyo Arzubi Carlos A.: gano tiempo con esto?
+
+685
+01:15:34.970 --> 01:15:40.709
+Arroyo Arzubi Carlos A.: Bueno, fíjense, acá están este gráfico. Es tal cual el apunte
+
+686
+01:15:41.230 --> 01:15:44.770
+Arroyo Arzubi Carlos A.: acá. Tenemos dominio, 1, dominio, 2, dominio, 3,
+
+687
+01:15:44.940 --> 01:15:51.239
+Arroyo Arzubi Carlos A.: Y estos son los pares que yo les digo que es un conjunto de pares donde tengo el archivo, 1
+
+688
+01:15:51.650 --> 01:16:04.270
+Arroyo Arzubi Carlos A.: que es el objeto. Y entre paréntesis, los derechos, lectura, lectura y escritura, bueno, y acá tenemos el dominio, 2, el dominio 3. Y acá pues está puesto a propósito.
+
+689
+01:16:04.860 --> 01:16:14.860
+Arroyo Arzubi Carlos A.: un objeto impresora, 4, que está compartida, es decir, que la pueden utilizar los 2 dominios mhm
+
+690
+01:16:28.620 --> 01:16:37.280
+Arroyo Arzubi Carlos A.: para llevar. Entonces, el registro de estos dominios es que
+
+691
+01:16:37.670 --> 01:16:45.110
+Arroyo Arzubi Carlos A.: el el sistema operativo recurre a lo que se llama matriz de acceso.
+
+692
+01:16:45.380 --> 01:16:48.049
+Arroyo Arzubi Carlos A.: La matriz de acceso.
+
+693
+01:16:48.480 --> 01:16:54.849
+Arroyo Arzubi Carlos A.: La matriz de acceso es la que utilizan los sistemas operativos para en esa matriz.
+
+694
+01:16:54.960 --> 01:16:58.299
+Arroyo Arzubi Carlos A.: tener marcado? Cuáles son los dominios
+
+695
+01:16:58.560 --> 01:17:08.520
+Arroyo Arzubi Carlos A.: y a qué objetos tiene permisos, ese dominio y a qué derechos sobre esos objetos.
+
+696
+01:17:09.430 --> 01:17:18.839
+Arroyo Arzubi Carlos A.: Les voy a mostrar un ejemplo de esta matriz de acceso en los apuntes. Hay
+
+697
+01:17:19.100 --> 01:17:22.490
+Arroyo Arzubi Carlos A.: Hay varias hojas explicando esto.
+
+698
+01:17:22.780 --> 01:17:26.070
+Arroyo Arzubi Carlos A.: Yo se los hago con un solo esquema.
+
+699
+01:17:27.110 --> 01:17:30.120
+Arroyo Arzubi Carlos A.: pero ahí tienen para verlo más en detalle.
+
+700
+01:17:33.030 --> 01:17:40.300
+Arroyo Arzubi Carlos A.: Bueno, esto serían un ejemplo de lo que sería la matriz de acceso. ¿no?
+
+701
+01:17:40.680 --> 01:17:44.409
+Arroyo Arzubi Carlos A.: Fíjense, veamos hasta acá primero hasta la mitad
+
+702
+01:17:45.520 --> 01:17:52.649
+Arroyo Arzubi Carlos A.: por eso en el apunte lo tienen separado en 20 dibujitos para que lo entiendan mejor. Yo con este se los explico de una.
+
+703
+01:17:53.170 --> 01:17:58.620
+Arroyo Arzubi Carlos A.: Acá tenemos los dominios. Dominio, 1, 2, 3, 4, sí.
+
+704
+01:17:59.450 --> 01:18:04.029
+Arroyo Arzubi Carlos A.: Y Y acá tenemos los objetos.
+
+705
+01:18:04.610 --> 01:18:09.059
+Arroyo Arzubi Carlos A.: archivo, archivo, archivo, impresora hasta acá. Hablemos de esto primero.
+
+706
+01:18:09.710 --> 01:18:11.440
+Arroyo Arzubi Carlos A.: Hablemos de esto?
+
+707
+01:18:12.070 --> 01:18:19.620
+Arroyo Arzubi Carlos A.: Bueno, entonces acá dice que el archivo 1
+
+708
+01:18:20.460 --> 01:18:25.080
+Arroyo Arzubi Carlos A.: tiene permiso de elec. El dominio. Uno tiene permiso de lectura
+
+709
+01:18:25.520 --> 01:18:29.069
+Arroyo Arzubi Carlos A.: sobre el archivo 1. Y sobre el archivo 3.
+
+710
+01:18:30.140 --> 01:18:41.970
+Arroyo Arzubi Carlos A.: El dominio, 3 lectura sobre el 2. Bueno, y así el dominio, 3 ejecución del archivo. Tres Mhm.
+
+711
+01:18:42.300 --> 01:18:46.200
+Arroyo Arzubi Carlos A.: es decir, que el objeto
+
+712
+01:18:48.310 --> 01:18:59.260
+Arroyo Arzubi Carlos A.: está desarrollado sus permisos. Y quién lo va a usar a través de la columna acá en la columna figura todos los que pueden utilizar este
+
+713
+01:18:59.390 --> 01:19:03.709
+Arroyo Arzubi Carlos A.: archivo. Además, Acá en esta matriz.
+
+714
+01:19:03.820 --> 01:19:15.630
+Arroyo Arzubi Carlos A.: en esta columna alguno de estos tiene que figurar, que es el dueño, ese que es el dueño.
+
+715
+01:19:15.920 --> 01:19:21.149
+Arroyo Arzubi Carlos A.: Acá no está escrito en otras tablas, Sí, pero yo aceptenme que dice que es el
+
+716
+01:19:21.330 --> 01:19:29.809
+Arroyo Arzubi Carlos A.: el dueño de ese recurso y el que es el dueño de ese recurso, puede modificar la columna.
+
+717
+01:19:30.310 --> 01:19:33.239
+Arroyo Arzubi Carlos A.: ¿Dónde están los derechos de uso de ese objeto.
+
+718
+01:19:35.520 --> 01:19:39.329
+Arroyo Arzubi Carlos A.: Bueno, eso con respecto a los objetos.
+
+719
+01:19:39.490 --> 01:19:47.810
+Arroyo Arzubi Carlos A.: pero fíjense que acá en la segunda parte también considera objeto a un dominio Mhm.
+
+720
+01:19:48.650 --> 01:19:53.670
+Arroyo Arzubi Carlos A.: con lo cual yo acá tengo un dominio, 2,
+
+721
+01:19:55.060 --> 01:20:07.210
+Arroyo Arzubi Carlos A.: que tiene permiso de impresión sobre la impresora, pero además tiene figura suite condominio. Tres
+
+722
+01:20:08.390 --> 01:20:17.000
+Arroyo Arzubi Carlos A.: quiere decir que puede intercambiar los permisos que tenga el dominio, 3 o
+
+723
+01:20:17.770 --> 01:20:23.350
+Arroyo Arzubi Carlos A.: este otro que le pone con el dominio 4 que pone la palabra control.
+
+724
+01:20:24.470 --> 01:20:27.070
+Arroyo Arzubi Carlos A.: Quiere decir que el dominio 2
+
+725
+01:20:27.660 --> 01:20:35.950
+Arroyo Arzubi Carlos A.: puede controlar y reducir los permisos que tenga el dominio. Cuatro: Bueno.
+
+726
+01:20:37.120 --> 01:20:47.989
+Arroyo Arzubi Carlos A.: estos tienen para mirar tranquilos ahí en el apunte. Yo lo que he tratado de hacer es facilitar la lectura del apunte. Pero, en definitiva, está claro que en esta matriz
+
+727
+01:20:48.930 --> 01:20:52.090
+Arroyo Arzubi Carlos A.: de acceso está toda la información
+
+728
+01:20:52.980 --> 01:21:07.629
+Arroyo Arzubi Carlos A.: de cada objeto, los distintos permisos, quién es el dueño, Cuáles son los dominios que pueden acceder, que dominio puede modificar algo Bueno, toda la información está, acá no.
+
+729
+01:21:07.870 --> 01:21:17.810
+Arroyo Arzubi Carlos A.: Esta matriz de acceso es la que tiene que tener el sistema operativo para poder administrar adecuadamente los recursos.
+
+730
+01:21:21.840 --> 01:21:30.370
+Arroyo Arzubi Carlos A.: Veamos ahora cómo se puede implementar esta matriz de acceso?
+
+731
+01:21:31.190 --> 01:21:39.790
+Arroyo Arzubi Carlos A.: Bueno, una forma de implementarla sería a través de lo que se llama una tabla global.
+
+732
+01:21:39.900 --> 01:21:44.390
+Arroyo Arzubi Carlos A.: Yo podría tener una tabla global donde tenga
+
+733
+01:21:44.530 --> 01:21:51.040
+Arroyo Arzubi Carlos A.: dominio, objeto, permiso, dominio, objeto, permiso de todo
+
+734
+01:21:52.540 --> 01:22:00.120
+Arroyo Arzubi Carlos A.: de todos los recursos, de todo lo que tengo en mi sistema, con lo cual, obviamente, es una forma
+
+735
+01:22:00.440 --> 01:22:05.860
+Arroyo Arzubi Carlos A.: es una tabla gigantesca donde voy a tener repetido un montón de veces
+
+736
+01:22:06.010 --> 01:22:11.240
+Arroyo Arzubi Carlos A.: el dominio, un montón de veces el objeto,
+
+737
+01:22:11.520 --> 01:22:30.640
+Arroyo Arzubi Carlos A.: con lo cual la implementación es extremadamente costosa. No es aconsejable, justamente porque esto nos tiene que ocupar memoria principal y, en consecuencia, si esta tabla es tan gigantesca, No es negocio. Pero, bueno.
+
+738
+01:22:31.110 --> 01:22:34.309
+Arroyo Arzubi Carlos A.: es una forma, ¿ Una tabla global.
+
+739
+01:22:35.570 --> 01:22:44.270
+Arroyo Arzubi Carlos A.: Otra forma se llama lista de control de acceso a los objetos a ver.
+
+740
+01:22:44.800 --> 01:22:45.910
+Arroyo Arzubi Carlos A.: Vamos a.
+
+741
+01:23:00.020 --> 01:23:08.660
+Arroyo Arzubi Carlos A.: Fíjense primero la tabla global que obviamente tengo mucha redundancia de nombre y me ocupa mucho lugar.
+
+742
+01:23:09.510 --> 01:23:19.580
+Arroyo Arzubi Carlos A.: la lista de control de acceso a los objetos sería este esquema. Acá Tenemos F 1. Es el fichero.
+
+743
+01:23:19.990 --> 01:23:23.910
+Arroyo Arzubi Carlos A.: está y tengo una lista
+
+744
+01:23:25.140 --> 01:23:34.629
+Arroyo Arzubi Carlos A.: de acceso al objeto. Esta lista que tengo acá a la derecha, que me dice que el dominio a puede leer y escribir
+
+745
+01:23:35.400 --> 01:23:47.829
+Arroyo Arzubi Carlos A.: el dominio B, que sería este de acá solamente puede leer, es decir, que la lista de control de acceso a los objetos, lo que asocia a cada objeto. Es una lista.
+
+746
+01:23:48.830 --> 01:23:57.630
+Arroyo Arzubi Carlos A.: con lo cual reduzco notablemente la memoria que necesito para guardar esta información comparada con la tabla global.
+
+747
+01:23:59.790 --> 01:24:01.569
+Arroyo Arzubi Carlos A.: Esta es una forma.
+
+748
+01:24:01.830 --> 01:24:06.509
+Arroyo Arzubi Carlos A.: Otra forma. Es una lista de capacidades para el dominio.
+
+749
+01:24:07.000 --> 01:24:15.670
+Arroyo Arzubi Carlos A.: Este esquema que está, acá es decir, la lista en vez de asociarla al objeto, la asocio al dominio.
+
+750
+01:24:15.950 --> 01:24:18.360
+Arroyo Arzubi Carlos A.: Entonces acá tengo el dominio a
+
+751
+01:24:18.530 --> 01:24:22.750
+Arroyo Arzubi Carlos A.: que tiene el fichero. Uno puede leerlo, y el fichero 2 puede leerlo
+
+752
+01:24:23.610 --> 01:24:33.919
+Arroyo Arzubi Carlos A.: el dominio. B. Y tengo la lista asociada al dominio, es decir, que en la anterior asociamos la lista
+
+753
+01:24:34.220 --> 01:24:40.440
+Arroyo Arzubi Carlos A.: al objeto. Y esta otra opción es asociar la lista al dominio.
+
+754
+01:24:41.220 --> 01:24:45.150
+Arroyo Arzubi Carlos A.: Como ven, es muy simple.
+
+755
+01:24:45.940 --> 01:24:52.610
+Arroyo Arzubi Carlos A.: He otra forma que se puede hacer. La cuarta forma sería
+
+756
+01:24:53.080 --> 01:24:56.749
+Arroyo Arzubi Carlos A.: es utilizando lo que se llama llave de bloqueo.
+
+757
+01:25:00.500 --> 01:25:12.110
+Arroyo Arzubi Carlos A.: La llave de bloqueo implica establecer una yerra al cerradura a los objetos
+
+758
+01:25:12.730 --> 01:25:18.340
+Arroyo Arzubi Carlos A.: y darle a los dominios la llave para los objetos. Entonces el dominio prueba, si puede
+
+759
+01:25:18.610 --> 01:25:30.049
+Arroyo Arzubi Carlos A.: entrar entra y hace lo que puede y si no, no entra, es decir, es a través de una llave de bloqueo, con lo cual tienen que ir haciendo las comparaciones de las llaves
+
+760
+01:25:30.220 --> 01:25:38.530
+Arroyo Arzubi Carlos A.: para ver con qué llave puede entrar. Y la llave que permisos le da es otra forma también
+
+761
+01:25:38.960 --> 01:25:44.230
+Arroyo Arzubi Carlos A.: interesante de manejar esa la matriz de acceso.
+
+762
+01:25:46.450 --> 01:25:58.950
+Arroyo Arzubi Carlos A.: Bueno, Mhm Control de acceso obligatorio, Mac Mac.
+
+763
+01:25:59.250 --> 01:26:11.170
+Arroyo Arzubi Carlos A.: el control de acceso obligatorio ahora lo tienen todos los sistemas, implica que mandatory access, control mac
+
+764
+01:26:11.450 --> 01:26:18.800
+Arroyo Arzubi Carlos A.: control de acceso obligatorio ha impuesto mayor seguridad a los sistemas
+
+765
+01:26:19.600 --> 01:26:30.689
+Arroyo Arzubi Carlos A.: en el momento que los sistemas pasaron a ser multi multiusuarios y hizo más compleja la seguridad
+
+766
+01:26:31.500 --> 01:26:42.809
+Arroyo Arzubi Carlos A.: y, en consecuencia, cuando antes teníamos solamente, seguridad, digamos, accesos permitidos en modo administrador y modo usuario con esas 2 alcanzaba
+
+767
+01:26:43.100 --> 01:26:44.379
+Arroyo Arzubi Carlos A.: ahora, no.
+
+768
+01:26:44.670 --> 01:26:48.490
+Arroyo Arzubi Carlos A.: En consecuencia, la seguridad tiene que ser mayor
+
+769
+01:26:49.460 --> 01:27:00.400
+Arroyo Arzubi Carlos A.: cuando estaban solamente estas 2 modalidades, El administrador tenía derechos para modificar los permisos
+
+770
+01:27:00.840 --> 01:27:05.269
+Arroyo Arzubi Carlos A.: de cada de los objetos y de los usuarios.
+
+771
+01:27:05.750 --> 01:27:10.859
+Arroyo Arzubi Carlos A.: Bueno, con estos sistemas Mac, que ya hace un tiempo que están, obviamente
+
+772
+01:27:10.980 --> 01:27:14.069
+Arroyo Arzubi Carlos A.: el administrador ya no puede hacer lo que quiere.
+
+773
+01:27:14.460 --> 01:27:18.199
+Arroyo Arzubi Carlos A.: y solamente el dueño del recurso.
+
+774
+01:27:18.490 --> 01:27:24.869
+Arroyo Arzubi Carlos A.: el dueño del recurso es el que tiene la potestad de dar los permisos.
+
+775
+01:27:24.990 --> 01:27:30.990
+Arroyo Arzubi Carlos A.: ¿ Antiguamente, cuando 1 tenía problemas con algún sistema, entraba
+
+776
+01:27:31.210 --> 01:27:45.699
+Arroyo Arzubi Carlos A.: con modo administrador y modificaba la base, entraba como entrar por atrás al sistema y hacer las modificaciones que no se podían hacer. Bueno, ahora solamente cada usuario dueño del recurso es el que lo puede modificar.
+
+777
+01:27:48.550 --> 01:27:54.780
+Arroyo Arzubi Carlos A.: Bueno, sigamos seguridad multinivel.
+
+778
+01:27:55.330 --> 01:28:08.929
+Arroyo Arzubi Carlos A.: Existe seguridad multinivel cuando estamos hablando de grandes organizaciones, empresas, grandes empresas, organismos gubernamentales.
+
+779
+01:28:09.260 --> 01:28:25.210
+Arroyo Arzubi Carlos A.: fuerzas armadas, es decir, organizaciones con una estructura jerárquica importante Bueno, para esas estructuras y se plantean 2 alternativas
+
+780
+01:28:25.390 --> 01:28:28.340
+Arroyo Arzubi Carlos A.: a nivel de seguridad multinivel.
+
+781
+01:28:29.480 --> 01:28:34.460
+Arroyo Arzubi Carlos A.: Una se llama modelo Bell. La padura.
+
+782
+01:28:35.260 --> 01:28:39.960
+Arroyo Arzubi Carlos A.: Ver la padura, que son 2 personas, 2 americanos norteamericanos
+
+783
+01:28:40.330 --> 01:28:45.700
+Arroyo Arzubi Carlos A.: que desarrollaron el sistema, ver la padura para las fuerzas armadas
+
+784
+01:28:46.300 --> 01:28:50.840
+Arroyo Arzubi Carlos A.: de Estados Unidos, Obviamente, luego lo han adoptado
+
+785
+01:28:51.350 --> 01:29:00.500
+Arroyo Arzubi Carlos A.: otras fuerzas armadas y otras organizaciones, pero este sistema multinivel belga padura.
+
+786
+01:29:00.740 --> 01:29:08.090
+Arroyo Arzubi Carlos A.: El objetivo principal es en aquellas organizaciones donde el secreto
+
+787
+01:29:08.400 --> 01:29:12.989
+Arroyo Arzubi Carlos A.: es lo más importante en cuanto al manejo, obviamente, de la información, no
+
+788
+01:29:13.440 --> 01:29:22.049
+Arroyo Arzubi Carlos A.: a ver. Les voy a mostrar un esquemita para que se den cuenta y a ver. Acá
+
+789
+01:29:36.340 --> 01:29:38.990
+Arroyo Arzubi Carlos A.: Bueno, Fíjense acá.
+
+790
+01:29:39.290 --> 01:29:44.280
+Arroyo Arzubi Carlos A.: Pongámosnos en este nivel 3, ¿no?
+
+791
+01:29:45.490 --> 01:29:53.580
+Arroyo Arzubi Carlos A.: Y acá tienen el detalle de que quiere decir. Cada cosa, lectura
+
+792
+01:29:53.820 --> 01:30:03.480
+Arroyo Arzubi Carlos A.: es a través de una línea continua y escritura, una línea este intermitente. No.
+
+793
+01:30:03.780 --> 01:30:07.979
+Arroyo Arzubi Carlos A.: Bueno, ¿qué está diciendo que este nivel.
+
+794
+01:30:08.290 --> 01:30:10.320
+Arroyo Arzubi Carlos A.: el que está en el nivel 3,
+
+795
+01:30:10.890 --> 01:30:14.750
+Arroyo Arzubi Carlos A.: no puede leer lo del nivel 5,
+
+796
+01:30:16.670 --> 01:30:22.340
+Arroyo Arzubi Carlos A.: pero sí puede escribir, Es decir, si este es
+
+797
+01:30:22.970 --> 01:30:30.870
+Arroyo Arzubi Carlos A.: un capitán, y este es un general, el capitán le puede escribir al general.
+
+798
+01:30:31.320 --> 01:30:38.150
+Arroyo Arzubi Carlos A.: pero no puede leer lo que hace en general, y el capitán. Acá Este
+
+799
+01:30:38.550 --> 01:30:41.810
+Arroyo Arzubi Carlos A.: puede leer lo que hace el sargento, ponerle
+
+800
+01:30:42.720 --> 01:30:51.119
+Arroyo Arzubi Carlos A.: y lo de los pares también puede leer y puede escribir, Pero el nivel para arriba no puede ver
+
+801
+01:30:52.500 --> 01:31:00.060
+Arroyo Arzubi Carlos A.: si esto es una empresa Bueno, este nivel 4 puede ser el directorio, el nivel 3, el gerente.
+
+802
+01:31:00.420 --> 01:31:08.579
+Arroyo Arzubi Carlos A.: el nivel 2, el jefe del departamento, lo mismo. El gerente no puede ver lo que está
+
+803
+01:31:09.510 --> 01:31:14.070
+Arroyo Arzubi Carlos A.: planificando, preparando trabajando el directorio.
+
+804
+01:31:14.930 --> 01:31:26.259
+Arroyo Arzubi Carlos A.: Pero si le da información al directorio, repito, esta organización es para las empresas que
+
+805
+01:31:26.740 --> 01:31:30.200
+Arroyo Arzubi Carlos A.: el secreto es algo fundamental.
+
+806
+01:31:31.920 --> 01:31:36.480
+Arroyo Arzubi Carlos A.: Cuando, en vez de tener una empresa u organización
+
+807
+01:31:37.510 --> 01:31:47.570
+Arroyo Arzubi Carlos A.: que el secreto no es lo más importante, sino que lo más importante es, de pronto que todos sepan lo que está haciendo
+
+808
+01:31:47.880 --> 01:31:53.020
+Arroyo Arzubi Carlos A.: el gerente y el que sea para que todos
+
+809
+01:31:53.130 --> 01:32:06.830
+Arroyo Arzubi Carlos A.: hagan y todos tiren para el mismo lado. Todos tengan claro cuál es el tema y a dónde van y cómo van y todo lo demás? Porque la empresa, eso la beneficia. En cuanto al funcionamiento, a
+
+810
+01:32:07.070 --> 01:32:12.479
+Arroyo Arzubi Carlos A.: bueno, se aplica este esquema justamente al revés.
+
+811
+01:32:12.680 --> 01:32:18.820
+Arroyo Arzubi Carlos A.: Es decir, este gráfico que tienen acá es al revés de lo que acabamos de mostrar.
+
+812
+01:32:19.440 --> 01:32:22.740
+Arroyo Arzubi Carlos A.: Bueno, lo tienen en el apunte para verlo
+
+813
+01:32:22.980 --> 01:32:31.110
+Arroyo Arzubi Carlos A.: si quieren un poquito más. Pero básicamente es esto que yo les estoy diciendo sobre este
+
+814
+01:32:35.490 --> 01:32:40.580
+Arroyo Arzubi Carlos A.: este sistema multinivel de seguridad, ver la padura.
+
+815
+01:32:42.670 --> 01:32:53.040
+Arroyo Arzubi Carlos A.: Bueno, ya estoy terminando porque tenemos muchas cosas que ver. Finalmente, un comentario aparece un punto también en
+
+816
+01:32:53.300 --> 01:32:58.590
+Arroyo Arzubi Carlos A.: en este en el apunte, en el en la unidad, 12
+
+817
+01:32:59.110 --> 01:33:09.719
+Arroyo Arzubi Carlos A.: y T y L Information Technology, infraestructura, Library. Bueno, biblioteca de infraestructura de tecnología de la información
+
+818
+01:33:10.520 --> 01:33:12.839
+Arroyo Arzubi Carlos A.: un comentario con respecto a esto.
+
+819
+01:33:13.510 --> 01:33:23.940
+Arroyo Arzubi Carlos A.: Y en distintas biografías aparecen distintos nombres con que se mencionan este tipo de bibliotecas.
+
+820
+01:33:24.920 --> 01:33:25.790
+Arroyo Arzubi Carlos A.: Mhm.
+
+821
+01:33:26.290 --> 01:33:34.240
+Arroyo Arzubi Carlos A.: Cuando yo estudiaba Hace ya muchos años se hablaba de gestión, de configuración del software, ¿
+
+822
+01:33:35.950 --> 01:33:40.889
+Arroyo Arzubi Carlos A.: Pero más allá de como se llame, lo importante es que ustedes
+
+823
+01:33:41.360 --> 01:33:46.010
+Arroyo Arzubi Carlos A.: tenga en claro cuál es la función de estas bibliotecas.
+
+824
+01:33:47.510 --> 01:33:53.610
+Arroyo Arzubi Carlos A.: En principio, toda empresa hoy en día tiene que tener
+
+825
+01:33:54.280 --> 01:34:01.039
+Arroyo Arzubi Carlos A.: toda la información de la tecnología de la información que tiene. Es decir, alguien tiene que ser responsable
+
+826
+01:34:01.370 --> 01:34:06.359
+Arroyo Arzubi Carlos A.: de llevar toda esta información. Por eso se lo llama biblioteca.
+
+827
+01:34:06.510 --> 01:34:10.769
+Arroyo Arzubi Carlos A.: porque es como que guarda toda la información de la empresa y qué
+
+828
+01:34:11.630 --> 01:34:20.030
+Arroyo Arzubi Carlos A.: tecnología de la información? Bueno, todo el hardware de la empresa lo tiene que saber.
+
+829
+01:34:20.240 --> 01:34:29.579
+Arroyo Arzubi Carlos A.: Este departamento que se encarga de tiene que saber qué computadora tiene cada 1 que el sistema operativo, qué programas
+
+830
+01:34:29.970 --> 01:34:32.100
+Arroyo Arzubi Carlos A.: hardware y software.
+
+831
+01:34:33.180 --> 01:34:36.510
+Arroyo Arzubi Carlos A.: Eso Todo es tecnología de la información.
+
+832
+01:34:36.980 --> 01:34:38.110
+Arroyo Arzubi Carlos A.: Pero además.
+
+833
+01:34:39.370 --> 01:34:45.249
+Arroyo Arzubi Carlos A.: si la empresa tiene una base de datos, también tiene que tener toda la información de la base de datos.
+
+834
+01:34:46.180 --> 01:34:50.960
+Arroyo Arzubi Carlos A.: las tablas que tiene los campos, los atributos de los campos, todo
+
+835
+01:34:52.000 --> 01:34:59.309
+Arroyo Arzubi Carlos A.: si es una empresa que desarrolla software, y ustedes están en una empresa que va a desarrollar software. Ustedes van a aplicar
+
+836
+01:34:59.950 --> 01:35:06.500
+Arroyo Arzubi Carlos A.: y alguna metodología de ingeniería del software para desarrollar la aplicación.
+
+837
+01:35:06.950 --> 01:35:16.030
+Arroyo Arzubi Carlos A.: Bueno, toda la documentación que se genere desde el relevamiento, los diseños.
+
+838
+01:35:16.370 --> 01:35:27.450
+Arroyo Arzubi Carlos A.: los programas escritos, todo el diccionario de datos. Todo tiene que estar en esta biblioteca, es decir, que
+
+839
+01:35:27.860 --> 01:35:32.830
+Arroyo Arzubi Carlos A.: cuando alguien va a cambiar algo, tiene que informarle
+
+840
+01:35:33.930 --> 01:35:40.659
+Arroyo Arzubi Carlos A.: a este gestión de configuración. Llámenlo como quieran tecnología de la información, lo que sea.
+
+841
+01:35:42.470 --> 01:35:49.420
+Arroyo Arzubi Carlos A.: Cuando ustedes desarrollen una aplicación, vamos a temas más pedestres, ustedes
+
+842
+01:35:49.520 --> 01:35:54.219
+Arroyo Arzubi Carlos A.: realizan una aplicación, no la escriben que si yo tiene 200 programas
+
+843
+01:35:55.390 --> 01:35:58.810
+Arroyo Arzubi Carlos A.: y esa aplicación se la vendieron a 1, por ejemplo, o a 2.
+
+844
+01:35:59.220 --> 01:36:03.810
+Arroyo Arzubi Carlos A.: De pronto, hay que hay que cambiar un programa.
+
+845
+01:36:04.450 --> 01:36:08.950
+Arroyo Arzubi Carlos A.: ¿qué programa? Y el programa? Dos 1 000,
+
+846
+01:36:09.540 --> 01:36:14.740
+Arroyo Arzubi Carlos A.: El 2 000 hay que cambiarlo. ¿por qué? O porque tuvo una falla, o porque hay que hacer una modificación.
+
+847
+01:36:16.060 --> 01:36:25.730
+Arroyo Arzubi Carlos A.: Entonces, o alguien va a escribir ese programa 2 000, de nuevo, o lo va a corregir?
+
+848
+01:36:26.320 --> 01:36:31.409
+Arroyo Arzubi Carlos A.: Bueno, esa corrección o ese programa nuevo no va a ser nunca 2 000,
+
+849
+01:36:32.110 --> 01:36:34.519
+Arroyo Arzubi Carlos A.: será 2 000 y un 1.
+
+850
+01:36:37.590 --> 01:36:41.950
+Arroyo Arzubi Carlos A.: Y entonces, cuando se escriba ese programa en
+
+851
+01:36:42.440 --> 01:36:47.210
+Arroyo Arzubi Carlos A.: en tecnología de la información, van a tener que decir, bueno.
+
+852
+01:36:47.320 --> 01:36:53.129
+Arroyo Arzubi Carlos A.: ahora tenemos la aplicación que le vendimos a fulano. Tenía estos 200 programas.
+
+853
+01:36:53.250 --> 01:36:58.759
+Arroyo Arzubi Carlos A.: pero ahora el 2 000 se lo tenemos que cambiar. Va a ir el 2 000 y el 1.
+
+854
+01:36:59.190 --> 01:37:01.230
+Arroyo Arzubi Carlos A.: Y así, con todas las cosas.
+
+855
+01:37:01.870 --> 01:37:05.420
+Arroyo Arzubi Carlos A.: Es decir, es es un laburo de bibliotecario.
+
+856
+01:37:05.900 --> 01:37:18.000
+Arroyo Arzubi Carlos A.: porque 1 tiene que saber qué versión tiene cada cliente, y la versión está dada por la cantidad de programas que tiene y cuáles son los programas. Si yo tengo 200 programas.
+
+857
+01:37:18.540 --> 01:37:24.929
+Arroyo Arzubi Carlos A.: acá y acá, tengo 200 programas, pero 1 es distinto. Ya es otra cosa.
+
+858
+01:37:25.300 --> 01:37:29.030
+Arroyo Arzubi Carlos A.: Yo tengo que saber que tiene
+
+859
+01:37:29.280 --> 01:37:33.440
+Arroyo Arzubi Carlos A.: ese usuario que compró esta aplicación
+
+860
+01:37:33.890 --> 01:37:38.670
+Arroyo Arzubi Carlos A.: cuando tenga que cambiar algo bueno es lo que pasa.
+
+861
+01:37:39.270 --> 01:37:46.319
+Arroyo Arzubi Carlos A.: Obviamente, cuando habl el sistema Ope, los sistemas operativo? Bueno, hacen lo mismo.
+
+862
+01:37:46.420 --> 01:37:53.139
+Arroyo Arzubi Carlos A.: ¿qué pasa? Mandan parche cuando hacen modificaciones menores y cambian de versión cuando la modificación es mayor.
+
+863
+01:37:54.170 --> 01:38:02.549
+Arroyo Arzubi Carlos A.: pero los que más administran el sistema operativo tienen un sistema de seguimiento de todo esto: una biblioteca
+
+864
+01:38:02.800 --> 01:38:04.560
+Arroyo Arzubi Carlos A.: muy bien llevada.
+
+865
+01:38:05.600 --> 01:38:14.830
+Arroyo Arzubi Carlos A.: porque si alguien modifica un programa y no se sigue toda la escala para guardar la información y todo mañana tienen otro problema.
+
+866
+01:38:15.420 --> 01:38:21.800
+Arroyo Arzubi Carlos A.: y nadie sabe que ese programa fue cambiado y es un caos.
+
+867
+01:38:22.220 --> 01:38:30.970
+Arroyo Arzubi Carlos A.: Digo porque pónganse en la situación de que ustedes han vendido un producto a varios clientes, y, bueno, los problemas
+
+868
+01:38:31.430 --> 01:38:32.940
+Arroyo Arzubi Carlos A.: pueden ser distintos.
+
+869
+01:38:35.190 --> 01:38:43.830
+Arroyo Arzubi Carlos A.: Bueno, hasta aquí llegamos, Como ven, he hecho. Una presentación, es que bastante rápida.
+
+870
+01:38:45.990 --> 01:38:53.910
+Arroyo Arzubi Carlos A.: pero creo que, mencionando por lo menos aquellos puntos que pueden y
+
+871
+01:38:56.510 --> 01:39:00.060
+Arroyo Arzubi Carlos A.: que pueden ayudarle a la interpretación del apunte.
+
+872
+01:39:06.020 --> 01:39:13.690
+Arroyo Arzubi Carlos A.: Bueno, ahora primero voy a pasar lista porque después empiezan a desmadrar.
+
+873
+01:39:14.070 --> 01:39:21.970
+Arroyo Arzubi Carlos A.: Y después vamos a ver preguntas del parcial notas finales. ¿y ¿cómo seguimos?
+
+874
+01:39:23.760 --> 01:39:27.060
+Arroyo Arzubi Carlos A.: Bueno, Byes Manuel
+
+875
+01:39:32.460 --> 01:39:43.640
+Arroyo Arzubi Carlos A.: Barro Valenti, ya hay muchos que no vienen porque, claro, ya vieron que aprobar y no viene basílico. Matías.
+
+876
+01:39:43.910 --> 01:39:45.290
+MATIAS BASILICO: Presente, profe.
+
+877
+01:39:48.850 --> 01:39:50.590
+Arroyo Arzubi Carlos A.: Bertín y Agostina.
+
+878
+01:39:51.030 --> 01:39:52.440
+AGOSTINA BERTINI: Presente, profe.
+
+879
+01:39:55.640 --> 01:39:57.250
+Arroyo Arzubi Carlos A.: Bonafil y Lucas.
+
+880
+01:39:58.680 --> 01:40:00.049
+LUCAS BONAFFINI: Pero es de profe.
+
+881
+01:40:10.290 --> 01:40:12.519
+Arroyo Arzubi Carlos A.: Ramillete y Mateo: Sí.
+
+882
+01:40:12.520 --> 01:40:13.740
+MATEO CAMILLETTI: Presente, profe.
+
+883
+01:40:14.540 --> 01:40:16.100
+Arroyo Arzubi Carlos A.: Kanki Sánchez.
+
+884
+01:40:20.810 --> 01:40:27.279
+Arroyo Arzubi Carlos A.: ahí está entrando, entró, salió varias veces Richard Casco, Lucas
+
+885
+01:40:38.190 --> 01:40:38.890
+Arroyo Arzubi Carlos A.: Mhm.
+
+886
+01:40:39.530 --> 01:40:46.670
+Arroyo Arzubi Carlos A.: Yo paso lista y veo porque por ahí alguno me quedo libre, vieron castaño Álvarez.
+
+887
+01:40:47.340 --> 01:40:48.480
+MATIAS SEBASTIAN CASTAÑO ALVAREZ: Presente, profe.
+
+888
+01:40:50.030 --> 01:40:52.000
+Arroyo Arzubi Carlos A.: Sí. Kanki ya te puse
+
+889
+01:40:56.830 --> 01:40:58.720
+Arroyo Arzubi Carlos A.: Córdoba, Carlos Saba.
+
+890
+01:41:03.530 --> 01:41:11.590
+Arroyo Arzubi Carlos A.: A algunos les sobra a otros no les sobran los Daurad Francisco.
+
+891
+01:41:12.630 --> 01:41:13.860
+FRANCISCO DAURAT: Acá presente.
+
+892
+01:41:16.630 --> 01:41:18.180
+Arroyo Arzubi Carlos A.: Dos, Schaifer
+
+893
+01:41:24.970 --> 01:41:26.750
+Arroyo Arzubi Carlos A.: Echeverri, Gaspar.
+
+894
+01:41:26.750 --> 01:41:27.820
+GASPAR ETCHEVERRY: Presente.
+
+895
+01:41:31.240 --> 01:41:32.450
+Arroyo Arzubi Carlos A.: Fragaró
+
+896
+01:41:41.740 --> 01:41:43.370
+Arroyo Arzubi Carlos A.: garcía escalera.
+
+897
+01:41:45.080 --> 01:41:46.230
+JHARID GARCIA ESCALERA: Presente, profe.
+
+898
+01:41:49.220 --> 01:41:50.360
+Arroyo Arzubi Carlos A.: Gómez deal
+
+899
+01:41:58.540 --> 01:42:00.120
+Arroyo Arzubi Carlos A.: Brah, jacobo.
+
+900
+01:42:00.350 --> 01:42:01.469
+JACOBO BRIAN HAMBRA: Reciente profe.
+
+901
+01:42:04.540 --> 01:42:11.130
+Arroyo Arzubi Carlos A.: Ledesma castillo y ledesma. Estaba con problemas. Y
+
+902
+01:42:15.030 --> 01:42:17.210
+Arroyo Arzubi Carlos A.: bueno, malhagrino.
+
+903
+01:42:23.830 --> 01:42:25.110
+Arroyo Arzubi Carlos A.: muleiro
+
+904
+01:42:34.480 --> 01:42:35.860
+Arroyo Arzubi Carlos A.: orlandini.
+
+905
+01:42:36.480 --> 01:42:37.639
+Emanuel CARLOS ORLANDINI: Detente profe.
+
+906
+01:42:41.790 --> 01:42:43.160
+Arroyo Arzubi Carlos A.: Ortís Osmick.
+
+907
+01:42:43.700 --> 01:42:45.030
+MARIA ELISA ORTIZ OSMIK: Presente, profe.
+
+908
+01:42:48.800 --> 01:42:50.620
+Arroyo Arzubi Carlos A.: Pereyra, maldonado.
+
+909
+01:42:50.620 --> 01:42:51.849
+ANDRÉS PEREIRA MALDONADO: Hacen de profe.
+
+910
+01:42:55.570 --> 01:42:56.890
+Arroyo Arzubi Carlos A.: Pie de Montesi
+
+911
+01:43:00.160 --> 01:43:01.520
+Arroyo Arzubi Carlos A.: que Montesi
+
+912
+01:43:06.180 --> 01:43:07.540
+Arroyo Arzubi Carlos A.: Pizurno.
+
+913
+01:43:07.890 --> 01:43:09.020
+ALEXANDER EMANUEL PIZZURNO DUARTE: Presente, profe.
+
+914
+01:43:12.730 --> 01:43:14.150
+Arroyo Arzubi Carlos A.: Sale mateo.
+
+915
+01:43:22.490 --> 01:43:23.860
+Arroyo Arzubi Carlos A.: Ricardo.
+
+916
+01:43:24.890 --> 01:43:25.900
+FRANCO EMMANUEL SICARDO: Presente.
+
+917
+01:43:30.920 --> 01:43:32.530
+Arroyo Arzubi Carlos A.: Soler Federico.
+
+918
+01:43:32.860 --> 01:43:34.430
+MATEO CAMILLETTI: Presente profesor.
+
+919
+01:43:38.900 --> 01:43:41.390
+Arroyo Arzubi Carlos A.: Humede, José, Ya.
+
+920
+01:43:41.390 --> 01:43:42.610
+JOSE UMERE: Detente profe.
+
+921
+01:43:44.400 --> 01:43:45.789
+Arroyo Arzubi Carlos A.: Valle Figueroa.
+
+922
+01:43:46.220 --> 01:43:47.070
+MARCOS VALLE FIGUEROA: Presente.
+
+923
+01:43:50.650 --> 01:43:51.780
+Arroyo Arzubi Carlos A.: Teodoro
+
+924
+01:44:02.640 --> 01:44:03.570
+Arroyo Arzubi Carlos A.: huir.
+
+925
+01:44:05.130 --> 01:44:06.200
+TOBÍAS WIRTH: Sí. Profesor.
+
+926
+01:44:09.480 --> 01:44:10.600
+Arroyo Arzubi Carlos A.: Divino.
+
+927
+01:44:10.930 --> 01:44:12.160
+JOAQUIN DININNO: Presente, profe.
+
+928
+01:44:14.760 --> 01:44:15.480
+Arroyo Arzubi Carlos A.: Bueno.
+
+929
+01:44:38.440 --> 01:44:42.730
+Arroyo Arzubi Carlos A.: Bueno, con respecto al parcial.
+
+930
+01:44:43.440 --> 01:44:52.190
+Arroyo Arzubi Carlos A.: la verdad que les ha ido bien, entiendo que la mayoría no ha tenido mayores dificultades y.
+
+931
+01:44:52.560 --> 01:45:00.160
+Arroyo Arzubi Carlos A.: de todos modos, alguien quiere hacer alguna consulta sobre el segundo parcial.
+
+932
+01:45:06.300 --> 01:45:07.870
+FRANCO EMMANUEL SICARDO: Pero.
+
+933
+01:45:09.590 --> 01:45:18.250
+MARIA ELISA ORTIZ OSMIK: Quería consultarle si en el recuperatorio va a entrar la unidad 11 y 12 o directamente va a tomar de las 6 a la 10, nada más.
+
+934
+01:45:20.420 --> 01:45:24.180
+Arroyo Arzubi Carlos A.: No, no, no entran el recuperatorio.
+
+935
+01:45:24.530 --> 01:45:29.680
+Arroyo Arzubi Carlos A.: Bueno, ahora hablo de recuperatoria. Nadie tiene pregunta sobre el segundo parcial: pasamos a.
+
+936
+01:45:29.960 --> 01:45:32.150
+FRANCO EMMANUEL SICARDO: No tengo una pregunta de la nota Profe.
+
+937
+01:45:32.150 --> 01:45:33.040
+Arroyo Arzubi Carlos A.: Cómo.
+
+938
+01:45:33.280 --> 01:45:34.819
+FRANCO EMMANUEL SICARDO: Es una pregunta de la nota.
+
+939
+01:45:35.300 --> 01:45:35.840
+LUCAS BONAFFINI: Eso es.
+
+940
+01:45:35.840 --> 01:45:36.850
+Arroyo Arzubi Carlos A.: Pregunta.
+
+941
+01:45:37.470 --> 01:45:38.190
+FRANCO EMMANUEL SICARDO: El.
+
+942
+01:45:38.190 --> 01:45:39.310
+Arroyo Arzubi Carlos A.: Parcial.
+
+943
+01:45:39.310 --> 01:45:40.920
+FRANCO EMMANUEL SICARDO: El redondeo fue para abajo.
+
+944
+01:45:41.710 --> 01:45:46.680
+Arroyo Arzubi Carlos A.: Para que me voy a poner el otro auricular porque me hago canchero con 1. Dale fuerte. Ves.
+
+945
+01:45:47.480 --> 01:45:51.009
+FRANCO EMMANUEL SICARDO: Y el redondeo fue para abajo. Y me había ido bien en el parcialito.
+
+946
+01:45:53.510 --> 01:45:55.170
+FRANCO EMMANUEL SICARDO: Y soy hincha de River, aparte.
+
+947
+01:45:55.930 --> 01:45:58.940
+Arroyo Arzubi Carlos A.: A ver redondeo, de qué.
+
+948
+01:45:59.770 --> 01:46:00.800
+FRANCO EMMANUEL SICARDO: De la nota.
+
+949
+01:46:07.210 --> 01:46:12.609
+Arroyo Arzubi Carlos A.: No, Pero yo puse lo que decía la tabla.
+
+950
+01:46:14.790 --> 01:46:16.429
+Arroyo Arzubi Carlos A.: Yo tengo una tabla.
+
+951
+01:46:17.930 --> 01:46:24.390
+Arroyo Arzubi Carlos A.: claro, como ustedes. P: por ahí no la no está ahí donde me dice tanto, corresponde tanto y no me puedo mover de ahí.
+
+952
+01:46:25.260 --> 01:46:28.400
+FRANCO EMMANUEL SICARDO: Ya pues, decía en nota anulada
+
+953
+01:46:28.870 --> 01:46:33.589
+FRANCO EMMANUEL SICARDO: 7. Quiero decir a 7 60 nota anulada, 7.
+
+954
+01:46:34.610 --> 01:46:37.229
+Arroyo Arzubi Carlos A.: Bien, 76, nota, Siete.
+
+955
+01:46:42.610 --> 01:46:46.360
+Arroyo Arzubi Carlos A.: A ver si tengo acá, sí,
+
+956
+01:46:48.860 --> 01:46:53.809
+Arroyo Arzubi Carlos A.: pero esa no es la nota final de la materia. Esa es la nota del parcial.
+
+957
+01:46:54.300 --> 01:46:59.440
+Arroyo Arzubi Carlos A.: Pero aparte a ver, déjame ver si tengo acá para mostrarte.
+
+958
+01:47:14.440 --> 01:47:17.210
+Arroyo Arzubi Carlos A.: Yo trato de que todo sea lo más
+
+959
+01:47:19.230 --> 01:47:23.450
+Arroyo Arzubi Carlos A.: objetivo posible. Perdón de puches para un poquito
+
+960
+01:47:30.090 --> 01:47:30.810
+Arroyo Arzubi Carlos A.: Bueno.
+
+961
+01:47:34.010 --> 01:47:36.249
+Arroyo Arzubi Carlos A.: claro, como ustedes antes lo tenía.
+
+962
+01:47:38.250 --> 01:47:43.710
+Arroyo Arzubi Carlos A.: Lo ponía en los exámenes, se ve, no se ve.
+
+963
+01:47:44.620 --> 01:47:45.570
+Arroyo Arzubi Carlos A.: Sí.
+
+964
+01:47:47.060 --> 01:47:48.739
+MATEO CAMILLETTI: Está bloreado. Profe.
+
+965
+01:47:49.460 --> 01:47:50.190
+Arroyo Arzubi Carlos A.: A ver.
+
+966
+01:47:53.420 --> 01:47:54.400
+Arroyo Arzubi Carlos A.: se ve.
+
+967
+01:47:54.680 --> 01:47:55.980
+MATEO CAMILLETTI: Sí, Sí, lo hice.
+
+968
+01:47:56.480 --> 01:47:57.300
+Arroyo Arzubi Carlos A.: Bebé.
+
+969
+01:47:57.820 --> 01:47:58.800
+FRANCO EMMANUEL SICARDO: Sí, Sí, Sí.
+
+970
+01:47:59.550 --> 01:48:00.940
+Arroyo Arzubi Carlos A.: Yo cumplí esto.
+
+971
+01:48:03.230 --> 01:48:10.570
+FRANCO EMMANUEL SICARDO: No está bien. Ahora, Ahora, lo yo lo entiendo, pero yo había entendido que si el parcialito era como para ayudar a reforzar. No te veías.
+
+972
+01:48:16.940 --> 01:48:19.130
+Arroyo Arzubi Carlos A.: Parcialito, 7 y 8.
+
+973
+01:48:24.700 --> 01:48:26.319
+Arroyo Arzubi Carlos A.: ¿qué tengo que reforzar?
+
+974
+01:48:26.550 --> 01:48:28.200
+Arroyo Arzubi Carlos A.: ¿cuánto te puse? Siete.
+
+975
+01:48:29.550 --> 01:48:31.290
+FRANCO EMMANUEL SICARDO: Nada. Eso fue, Se fue.
+
+976
+01:48:31.650 --> 01:48:33.219
+Arroyo Arzubi Carlos A.: Pero qué estamos hablando?
+
+977
+01:48:33.220 --> 01:48:36.650
+MATEO CAMILLETTI: El parcialito para levantar la nota de la materia, no del examen.
+
+978
+01:48:40.100 --> 01:48:45.920
+Arroyo Arzubi Carlos A.: Parcialito sirve para subir o bajar el promedio general que te queda con los 2 parciales.
+
+979
+01:48:46.310 --> 01:48:47.400
+Arroyo Arzubi Carlos A.: ¿correcto?
+
+980
+01:48:47.940 --> 01:48:54.200
+Arroyo Arzubi Carlos A.: Si vos tenés en los 2 parcialitos y los parciales
+
+981
+01:48:54.450 --> 01:49:02.720
+Arroyo Arzubi Carlos A.: tenés tenés nota más baja de los 2 parcialitos que en los parciales, la nota va a ser menor que la de los parciales.
+
+982
+01:49:03.650 --> 01:49:13.869
+Arroyo Arzubi Carlos A.: Se entiende. Si yo tengo que los parcialitos te sacaste 9 y 10 y en el parcial te sacaste 8 y 7. Yo, ¿qué voy a poner 8?
+
+983
+01:49:14.620 --> 01:49:15.790
+Arroyo Arzubi Carlos A.: Se entiende
+
+984
+01:49:17.620 --> 01:49:27.520
+Arroyo Arzubi Carlos A.: el parcialito? Me hace resolver cuando tengo que hacer el promedio final de la materia entre los 2 parciales. Acá estamos hablando de un examen en particular.
+
+985
+01:49:29.250 --> 01:49:34.880
+Arroyo Arzubi Carlos A.: Bueno, a ver Franco, así los de River no van a andar Bien, nunca.
+
+986
+01:49:39.350 --> 01:49:40.469
+FRANCO EMMANUEL SICARDO: También procederá, sí.
+
+987
+01:49:41.310 --> 01:49:44.970
+Arroyo Arzubi Carlos A.: Quiso buscar acá para el final
+
+988
+01:49:45.310 --> 01:49:49.429
+Arroyo Arzubi Carlos A.: La tabla es otra, y que va a figurar
+
+989
+01:49:49.610 --> 01:49:53.420
+Arroyo Arzubi Carlos A.: la tabla en los exámenes finales.
+
+990
+01:49:53.780 --> 01:49:55.550
+Arroyo Arzubi Carlos A.: ¿por qué la tabla es otra?
+
+991
+01:49:55.670 --> 01:50:05.410
+Arroyo Arzubi Carlos A.: Porque no se aprueba con 55, sino que se aprueba con 60 en los exámenes finales.
+
+992
+01:50:06.250 --> 01:50:10.690
+Arroyo Arzubi Carlos A.: Ahora que quiero acomodar esto, que me hiciste sacar todo, no encontraba justo en la
+
+993
+01:50:26.290 --> 01:50:27.080
+Arroyo Arzubi Carlos A.: bueno.
+
+994
+01:50:29.980 --> 01:50:39.760
+Arroyo Arzubi Carlos A.: Entonces le doy la nota final que le quedó a cada 1. Y qué tiene que recuperar cada 1.
+
+995
+01:50:43.960 --> 01:50:45.520
+Arroyo Arzubi Carlos A.: Luego hablamos de
+
+996
+01:50:50.950 --> 01:50:52.889
+Arroyo Arzubi Carlos A.: Báez está Báez
+
+997
+01:50:56.850 --> 01:51:04.330
+Arroyo Arzubi Carlos A.: nuestra tiene que recuperar el segundo Barro Valenti.
+
+998
+01:51:05.960 --> 01:51:16.189
+Arroyo Arzubi Carlos A.: Ya 5 aprobado basílico matías está.
+
+999
+01:51:16.400 --> 01:51:17.390
+MATIAS BASILICO: Sí Profe.
+
+1000
+01:51:18.420 --> 01:51:20.140
+Arroyo Arzubi Carlos A.: Seis, aprobado.
+
+1001
+01:51:20.790 --> 01:51:22.330
+MATIAS BASILICO: Bien. Gracias. Profe.
+
+1002
+01:51:24.100 --> 01:51:26.449
+Arroyo Arzubi Carlos A.: Ver cine Agostina.
+
+1003
+01:51:27.620 --> 01:51:28.630
+Arroyo Arzubi Carlos A.: Sí.
+
+1004
+01:51:30.160 --> 01:51:32.110
+Arroyo Arzubi Carlos A.: Nueve. Aprobado.
+
+1005
+01:51:32.290 --> 01:51:33.280
+AGOSTINA BERTINI: Gracias.
+
+1006
+01:51:34.230 --> 01:51:37.610
+Arroyo Arzubi Carlos A.: Ve acá inciden eso. Los parcialitos
+
+1007
+01:51:40.710 --> 01:51:43.040
+Arroyo Arzubi Carlos A.: Bonafin y Lucas está.
+
+1008
+01:51:44.380 --> 01:51:45.690
+LUCAS BONAFFINI: Estoy megatus.
+
+1009
+01:51:45.690 --> 01:51:47.880
+Arroyo Arzubi Carlos A.: Vamos a hacer? ¿qué vamos a hacer? Luca?
+
+1010
+01:51:49.290 --> 01:51:52.010
+Arroyo Arzubi Carlos A.: Bueno, en todo caso, quédate y vemos qué hacemos
+
+1011
+01:51:52.930 --> 01:51:56.150
+Arroyo Arzubi Carlos A.: ahora, quédate al final y conversamos, no.
+
+1012
+01:51:56.150 --> 01:51:56.600
+LUCAS BONAFFINI: A ver.
+
+1013
+01:51:56.600 --> 01:52:03.269
+Arroyo Arzubi Carlos A.: Para que tuvo problemas con el sistema. Y bueno, bueno, ahora hablamos.
+
+1014
+01:52:03.700 --> 01:52:05.170
+LUCAS BONAFFINI: Vale. Gracias.
+
+1015
+01:52:09.370 --> 01:52:10.650
+Arroyo Arzubi Carlos A.: Camillete.
+
+1016
+01:52:11.080 --> 01:52:11.949
+MATEO CAMILLETTI: Sí Profe.
+
+1017
+01:52:13.320 --> 01:52:17.130
+Arroyo Arzubi Carlos A.: Bien, 7, aprobado.
+
+1018
+01:52:17.560 --> 01:52:19.030
+MATEO CAMILLETTI: Perfecto. Muchas gracias.
+
+1019
+01:52:19.680 --> 01:52:28.750
+Arroyo Arzubi Carlos A.: Canki Sánchez: quizá sí 8 a P, R o B, a D.
+
+1020
+01:52:30.900 --> 01:52:33.550
+Arroyo Arzubi Carlos A.: Casco. Lucas está
+
+1021
+01:52:47.590 --> 01:52:49.180
+Arroyo Arzubi Carlos A.: castaño. Álvarez.
+
+1022
+01:52:50.120 --> 01:52:51.219
+MATIAS SEBASTIAN CASTAÑO ALVAREZ: Venga, acá. Estoy Profe.
+
+1023
+01:52:51.510 --> 01:52:52.990
+Arroyo Arzubi Carlos A.: Nueve aprobado
+
+1024
+01:52:56.370 --> 01:52:58.469
+Arroyo Arzubi Carlos A.: Córdoba, Carlos Ama
+
+1025
+01:53:02.050 --> 01:53:03.710
+Arroyo Arzubi Carlos A.: Si este aprobado
+
+1026
+01:53:07.060 --> 01:53:09.060
+Arroyo Arzubi Carlos A.: Daurad Francisco.
+
+1027
+01:53:09.690 --> 01:53:10.710
+FRANCISCO DAURAT: Sí.
+
+1028
+01:53:10.710 --> 01:53:12.379
+Arroyo Arzubi Carlos A.: Si este aprobado.
+
+1029
+01:53:12.380 --> 01:53:13.200
+FRANCISCO DAURAT: A ciudad.
+
+1030
+01:53:15.720 --> 01:53:22.580
+Arroyo Arzubi Carlos A.: Dos Shuifer, 2, quizá 8 aprobados.
+
+1031
+01:53:25.660 --> 01:53:27.980
+Arroyo Arzubi Carlos A.: Echeverri Gaspar está.
+
+1032
+01:53:28.670 --> 01:53:29.640
+GASPAR ETCHEVERRY: Sí, Sí.
+
+1033
+01:53:30.220 --> 01:53:32.939
+Arroyo Arzubi Carlos A.: Tenés que recuperar el primer parcial.
+
+1034
+01:53:33.310 --> 01:53:34.530
+GASPAR ETCHEVERRY: Claro, vale.
+
+1035
+01:53:38.310 --> 01:53:49.090
+Arroyo Arzubi Carlos A.: Fragaró no está. Tiene que recuperar. Segundo parcial García escalera.
+
+1036
+01:53:50.370 --> 01:53:51.390
+JHARID GARCIA ESCALERA: Sí Profe.
+
+1037
+01:53:51.640 --> 01:53:53.230
+Arroyo Arzubi Carlos A.: Cinco aprobados.
+
+1038
+01:53:55.220 --> 01:53:56.320
+JHARID GARCIA ESCALERA: Gracias. Programa.
+
+1039
+01:53:58.950 --> 01:54:07.289
+Arroyo Arzubi Carlos A.: Gómez dea 6 aprobado Ambra, Jacobo.
+
+1040
+01:54:08.320 --> 01:54:09.230
+JACOBO BRIAN HAMBRA: Acá profe.
+
+1041
+01:54:09.690 --> 01:54:11.190
+Arroyo Arzubi Carlos A.: Seis, aprobado.
+
+1042
+01:54:11.850 --> 01:54:12.660
+JACOBO BRIAN HAMBRA: Gracias.
+
+1043
+01:54:28.310 --> 01:54:34.149
+Arroyo Arzubi Carlos A.: Bueno, ledesma castillo, tiene que rendir el oral y tiene que rendir todo
+
+1044
+01:54:47.070 --> 01:54:48.560
+Arroyo Arzubi Carlos A.: malagrino.
+
+1045
+01:54:49.270 --> 01:55:09.610
+Arroyo Arzubi Carlos A.: Si este aprobado Buleiro, 8 probado orlandini sin comprobado ortiz osmith tenés que dar el segundo.
+
+1046
+01:55:10.930 --> 01:55:11.960
+MARIA ELISA ORTIZ OSMIK: Sí, está bien.
+
+1047
+01:55:12.170 --> 01:55:21.250
+Arroyo Arzubi Carlos A.: El segundo parcial pereyra maldonado, 7 aprobado.
+
+1048
+01:55:28.470 --> 01:55:31.489
+Arroyo Arzubi Carlos A.: y en Montesi que Tapia Montesi
+
+1049
+01:55:35.170 --> 01:55:36.529
+Arroyo Arzubi Carlos A.: y en Montesi
+
+1050
+01:55:41.540 --> 01:55:45.199
+Arroyo Arzubi Carlos A.: Pisurno, Cinco aprobado
+
+1051
+01:55:53.160 --> 01:55:58.620
+Arroyo Arzubi Carlos A.: Ricardo se fue ricardo.
+
+1052
+01:55:58.750 --> 01:56:00.140
+FRANCO EMMANUEL SICARDO: No tiene carácter legal, pro.
+
+1053
+01:56:00.690 --> 01:56:13.310
+Arroyo Arzubi Carlos A.: Ocho aprobado, Anotame Soler Federico, Nueve, aprobado.
+
+1054
+01:56:14.190 --> 01:56:15.170
+MATEO CAMILLETTI: Gracias.
+
+1055
+01:56:20.180 --> 01:56:24.740
+Arroyo Arzubi Carlos A.: Ves oler ahí, claro, tenía 8 y 9, pero después tenía 10 y 10 sacó.
+
+1056
+01:56:26.490 --> 01:56:33.170
+Arroyo Arzubi Carlos A.: Entonces no quedó. Ocho. Quedó 9. Me explico para los que tienen dudas.
+
+1057
+01:56:35.350 --> 01:56:36.629
+MATEO CAMILLETTI: Se agradece.
+
+1058
+01:56:36.890 --> 01:56:43.650
+Arroyo Arzubi Carlos A.: No, No, nada. No tiene que agradecer. húmeda.
+
+1059
+01:56:44.970 --> 01:56:45.640
+JOSE UMERE: Sí.
+
+1060
+01:56:46.800 --> 01:56:49.770
+Arroyo Arzubi Carlos A.: Tenés que dar el primer recuperatorio del primero.
+
+1061
+01:56:50.380 --> 01:56:51.200
+JOSE UMERE: Bueno.
+
+1062
+01:56:51.600 --> 01:56:53.170
+Arroyo Arzubi Carlos A.: Sí sabías no.
+
+1063
+01:56:53.640 --> 01:56:54.450
+JOSE UMERE: Sí.
+
+1064
+01:56:55.350 --> 01:56:58.640
+Arroyo Arzubi Carlos A.: No te sobra nada. Acá Hombre.
+
+1065
+01:56:58.640 --> 01:56:59.300
+JOSE UMERE: Entonces.
+
+1066
+01:56:59.960 --> 01:57:01.210
+Arroyo Arzubi Carlos A.: Ponerte las pilas.
+
+1067
+01:57:02.170 --> 01:57:03.090
+JOSE UMERE: Bueno.
+
+1068
+01:57:05.690 --> 01:57:07.110
+Arroyo Arzubi Carlos A.: Valle Figueroa.
+
+1069
+01:57:08.750 --> 01:57:09.689
+MARCOS VALLE FIGUEROA: Sí Profe.
+
+1070
+01:57:10.010 --> 01:57:11.440
+Arroyo Arzubi Carlos A.: Cinco, aprobado.
+
+1071
+01:57:11.630 --> 01:57:12.490
+MARCOS VALLE FIGUEROA: Perfecto.
+
+1072
+01:57:13.830 --> 01:57:14.920
+Arroyo Arzubi Carlos A.: Teodoro.
+
+1073
+01:57:16.460 --> 01:57:18.020
+Arroyo Arzubi Carlos A.: Si este aprobado
+
+1074
+01:57:21.420 --> 01:57:22.859
+Arroyo Arzubi Carlos A.: Tobías Wils.
+
+1075
+01:57:23.050 --> 01:57:23.800
+TOBÍAS WIRTH: Sí.
+
+1076
+01:57:24.410 --> 01:57:26.569
+Arroyo Arzubi Carlos A.: Tenés que dar segundo parcial.
+
+1077
+01:57:26.950 --> 01:57:27.620
+TOBÍAS WIRTH: Sí.
+
+1078
+01:57:27.990 --> 01:57:33.920
+Arroyo Arzubi Carlos A.: Bien dinero, 7 aprobado.
+
+1079
+01:57:37.690 --> 01:57:46.220
+Arroyo Arzubi Carlos A.: Bueno, entonces ya saben lo que debe cada 1 lo que tiene cada 1, Entonces
+
+1080
+01:57:47.150 --> 01:57:50.329
+Arroyo Arzubi Carlos A.: los que tienen que rendir recuperatorio
+
+1081
+01:57:51.070 --> 01:57:54.760
+Arroyo Arzubi Carlos A.: del primer parcial o del segundo parcial
+
+1082
+01:57:55.330 --> 01:58:04.380
+Arroyo Arzubi Carlos A.: es las mismas unidades que entraron en su momento cuando se rindieron la primera vez primer parcial de la unidad, 1 a la 5,
+
+1083
+01:58:04.690 --> 01:58:13.009
+Arroyo Arzubi Carlos A.: segundo parcial de las 6 a la 10, la clase que viene a partir de las
+
+1084
+01:58:13.890 --> 01:58:17.690
+Arroyo Arzubi Carlos A.: 19 h van a estar los parciales
+
+1085
+01:58:18.100 --> 01:58:21.409
+Arroyo Arzubi Carlos A.: puestos para que aquellos que deben el primero
+
+1086
+01:58:21.950 --> 01:58:26.850
+Arroyo Arzubi Carlos A.: lo rindan, lo que deben, el segundo lo rindan de manera similar
+
+1087
+01:58:26.980 --> 01:58:30.670
+Arroyo Arzubi Carlos A.: al como hemos rendido este segundo parcial.
+
+1088
+01:58:32.050 --> 01:58:37.979
+Arroyo Arzubi Carlos A.: Ese examen es dentro de la cursada, con lo cual
+
+1089
+01:58:38.420 --> 01:58:43.699
+Arroyo Arzubi Carlos A.: yo después este, si si alguno no aprueba.
+
+1090
+01:58:43.970 --> 01:58:49.100
+Arroyo Arzubi Carlos A.: tiene la posibilidad de rendir en la otra semana fuera de la cursada.
+
+1091
+01:58:49.330 --> 01:58:55.059
+Arroyo Arzubi Carlos A.: pero el que rinda fuera de la cursada, ya no va a poder dar el final
+
+1092
+01:58:55.560 --> 01:59:00.290
+Arroyo Arzubi Carlos A.: ahora a mitad de año, es decir, que el 17
+
+1093
+01:59:00.780 --> 01:59:10.910
+Arroyo Arzubi Carlos A.: tienen el recuperatorio dentro de la cursada y el 24 fuera de la cursada y
+
+1094
+01:59:12.410 --> 01:59:16.300
+Arroyo Arzubi Carlos A.: alguna pregunta con respecto a los recuperatorios de parcial.
+
+1095
+01:59:19.710 --> 01:59:21.769
+Arroyo Arzubi Carlos A.: Bueno, con respecto.
+
+1096
+01:59:21.930 --> 01:59:30.850
+Arroyo Arzubi Carlos A.: Al final, el final va a tener las mismas características que han tenido los parciales.
+
+1097
+01:59:31.110 --> 01:59:35.349
+Arroyo Arzubi Carlos A.: Es decir, no se van a encontrar con nada nuevo. Obviamente.
+
+1098
+01:59:35.880 --> 01:59:45.749
+Arroyo Arzubi Carlos A.: ahora sí entro a la unidad 11 y 12, con lo cual prevean que alguna pregunta de esas 2 unidades
+
+1099
+01:59:46.170 --> 01:59:47.289
+Arroyo Arzubi Carlos A.: va a entrar.
+
+1100
+01:59:47.850 --> 01:59:51.759
+Arroyo Arzubi Carlos A.: Pero las características del examen son las mismas que han
+
+1101
+01:59:52.430 --> 01:59:57.670
+Arroyo Arzubi Carlos A.: hecho con el primero y con el segundo parcial, las fechas.
+
+1102
+01:59:57.970 --> 02:00:07.440
+Arroyo Arzubi Carlos A.: Hay 4 fechas, me la dieron, pero bueno, ustedes las ahora mejor que yo, de
+
+1103
+02:00:09.110 --> 02:00:12.580
+Arroyo Arzubi Carlos A.: a ver si quieres, se las digo, las tengo acá en el teléfono, creo
+
+1104
+02:00:23.630 --> 02:00:28.089
+Arroyo Arzubi Carlos A.: primero de julio, miércoles, Primero de julio. Dieciocho horas.
+
+1105
+02:00:33.610 --> 02:00:37.390
+Arroyo Arzubi Carlos A.: martes, 7 de julio, 9 h.
+
+1106
+02:00:44.770 --> 02:00:47.969
+Arroyo Arzubi Carlos A.: miércoles, 15, de julio, 18 h
+
+1107
+02:00:50.370 --> 02:00:54.670
+Arroyo Arzubi Carlos A.: y jueves, 16 de julio, 18 h.
+
+1108
+02:00:55.510 --> 02:00:58.249
+Arroyo Arzubi Carlos A.: Bueno, si no me equivoco, tienen esas 4,
+
+1109
+02:00:59.260 --> 02:01:05.589
+Arroyo Arzubi Carlos A.: entiendo que también los que rinden en virtual pueden rendir presencial. También tengo presencial
+
+1110
+02:01:10.200 --> 02:01:22.019
+Arroyo Arzubi Carlos A.: 29 de junio, 6 ciudadanos de junio y 13 de junio presencial en Upa y en
+
+1111
+02:01:22.450 --> 02:01:24.100
+Arroyo Arzubi Carlos A.: Córdoba y Mario Bravo.
+
+1112
+02:01:26.200 --> 02:01:31.599
+Arroyo Arzubi Carlos A.: Los presenciales no pueden rendir virtual, pero lo virtual puede rendir presencial. Eso me han dicho
+
+1113
+02:01:35.300 --> 02:01:46.759
+Arroyo Arzubi Carlos A.: el bueno de de creo que no tengo más nada, algo que quieran preguntar.
+
+1114
+02:01:47.040 --> 02:01:48.580
+MARCOS VALLE FIGUEROA: Yo tengo una pregunta. Profe.
+
+1115
+02:01:48.840 --> 02:01:49.610
+Arroyo Arzubi Carlos A.: Sí.
+
+1116
+02:01:49.610 --> 02:01:53.970
+MARCOS VALLE FIGUEROA: Cambia mucho la modalidad del examen presencial o virtual, o es lo mismo
+
+1117
+02:01:54.820 --> 02:01:57.370
+MARCOS VALLE FIGUEROA: en cuanto a los ejercicios, quizás prácticos.
+
+1118
+02:01:57.820 --> 02:02:05.730
+Arroyo Arzubi Carlos A.: No es lo mismo. La La diferencia que que tengo con el virtual
+
+1119
+02:02:05.830 --> 02:02:15.170
+Arroyo Arzubi Carlos A.: es que en el presencial esos algoritmos que que yo, en el virtual, tengo que decirle que pongan una columna, se los hago entero.
+
+1120
+02:02:16.020 --> 02:02:16.810
+MARCOS VALLE FIGUEROA: Okay.
+
+1121
+02:02:17.540 --> 02:02:18.490
+MARCOS VALLE FIGUEROA: Perfecto.
+
+1122
+02:02:24.110 --> 02:02:25.680
+Arroyo Arzubi Carlos A.: A ver quién me pregunta esto.
+
+1123
+02:02:37.300 --> 02:02:43.730
+FRANCO EMMANUEL SICARDO: O sea, profe que la modalidad es igual a como venimos con los parciales, solamente una parte del ejercicio no completo.
+
+1124
+02:02:45.570 --> 02:02:48.310
+Arroyo Arzubi Carlos A.: Si no, no, porque no lo puedo hacer ahí,
+
+1125
+02:02:49.510 --> 02:02:51.520
+Arroyo Arzubi Carlos A.: por lo menos yo no le encontré la vuelta.
+
+1126
+02:02:52.150 --> 02:02:55.129
+Arroyo Arzubi Carlos A.: Ahora que me preguntaba qué me preguntaba?
+
+1127
+02:02:59.730 --> 02:03:02.159
+Arroyo Arzubi Carlos A.: Sí, Kanki, me preguntaste, ¿no?
+
+1128
+02:03:03.600 --> 02:03:04.630
+Arroyo Arzubi Carlos A.: Ocho.
+
+1129
+02:03:05.330 --> 02:03:14.220
+Arroyo Arzubi Carlos A.: ¿dónde está ahí está María Canki? Sánchez: Bien, sí, sí, la modalidad es
+
+1130
+02:03:14.770 --> 02:03:18.429
+Arroyo Arzubi Carlos A.: es esta, en definitiva, el ejercicio.
+
+1131
+02:03:19.050 --> 02:03:25.180
+Arroyo Arzubi Carlos A.: el algoritmo hay que saberlo más o menos, porque si no, no sé cómo sigue, pero, bueno, el
+
+1132
+02:03:26.320 --> 02:03:32.490
+Arroyo Arzubi Carlos A.: después. Es lo mismo. El tipo de preguntas es lo mismo.
+
+1133
+02:03:33.460 --> 02:03:36.930
+FRANCISCO DAURAT: La complejidad también es la misma o aumenta un poco por ser el final.
+
+1134
+02:03:38.600 --> 02:03:43.270
+Arroyo Arzubi Carlos A.: No, no, no. Lo que sí puede ser es que las respuestas
+
+1135
+02:03:43.460 --> 02:03:46.370
+Arroyo Arzubi Carlos A.: sean más exigentes. La pregunta es la misma.
+
+1136
+02:03:46.810 --> 02:03:53.100
+Arroyo Arzubi Carlos A.: Algunos han contestado muy bien a la pregunta que he hecho otros muy miserablemente.
+
+1137
+02:03:53.430 --> 02:03:58.260
+Arroyo Arzubi Carlos A.: No sé si se entiende la palabra miserable, pero, bueno, no sé si es la más adecuada.
+
+1138
+02:03:59.260 --> 02:04:01.140
+Arroyo Arzubi Carlos A.: entonces en el final
+
+1139
+02:04:01.380 --> 02:04:12.329
+Arroyo Arzubi Carlos A.: se pide que las explicaciones sean lo más completas posible. Y bueno, yo acá puse un comentario, pero digamos que
+
+1140
+02:04:13.500 --> 02:04:15.220
+Arroyo Arzubi Carlos A.: un poco más benévola.
+
+1141
+02:04:15.740 --> 02:04:17.990
+Arroyo Arzubi Carlos A.: Pero la pregunta es la misma.
+
+1142
+02:04:19.020 --> 02:04:23.029
+Arroyo Arzubi Carlos A.: Lo que pasa que en una respuesta del final.
+
+1143
+02:04:23.240 --> 02:04:35.060
+Arroyo Arzubi Carlos A.: La respuesta tiene que ser completa si no ya empieza a bajar punto en el por ahí. Algunos acá
+
+1144
+02:04:35.780 --> 02:04:40.329
+Arroyo Arzubi Carlos A.: no, no, no, no nada es es lo mismo.
+
+1145
+02:04:40.880 --> 02:04:47.939
+Arroyo Arzubi Carlos A.: Lo que voy es que trate de que las respuestas sean completas, porque si no, no me puedo poner si vale un punto. No puedo poner un punto, ¿no?
+
+1146
+02:04:48.200 --> 02:04:58.769
+Arroyo Arzubi Carlos A.: Y aún dice: está mal lo que puse, No, no está mal, pero está incompleto. ¿le falta poner esto, o podría haber agregado esto para aclarar. Me explico: no sean
+
+1147
+02:04:59.100 --> 02:05:04.940
+Arroyo Arzubi Carlos A.: este no escatimen. Tampoco es que se pongan a escribir un libro, Pero.
+
+1148
+02:05:05.240 --> 02:05:11.749
+Arroyo Arzubi Carlos A.: Mhm: Nada. Me voy a repetir. Ya me empiezo a repetir qué otra pregunta.
+
+1149
+02:05:12.380 --> 02:05:15.769
+FRANCISCO DAURAT: Vaya alguna consideración con los valientes que van en primer llamado.
+
+1150
+02:05:16.870 --> 02:05:17.860
+Arroyo Arzubi Carlos A.: No, ninguna.
+
+1151
+02:05:18.810 --> 02:05:19.330
+FRANCISCO DAURAT: A a.
+
+1152
+02:05:19.910 --> 02:05:22.750
+Arroyo Arzubi Carlos A.: No ninguna que tenía preguntas muy valiente.
+
+1153
+02:05:22.970 --> 02:05:25.049
+FRANCISCO DAURAT: No. A veces la valentía es premiada.
+
+1154
+02:05:26.100 --> 02:05:28.939
+Arroyo Arzubi Carlos A.: Sí, a veces sí, pero no es este el caso.
+
+1155
+02:05:28.940 --> 02:05:29.460
+FRANCISCO DAURAT: O que.
+
+1156
+02:05:29.460 --> 02:05:33.589
+Arroyo Arzubi Carlos A.: Qué lástima, no lo que yo les recomiendo
+
+1157
+02:05:34.050 --> 02:05:44.230
+Arroyo Arzubi Carlos A.: este? No? Porque no sé cuando se presenta cuando cuando pueden, porque tienen otras materias. Ustedes, Lo que yo les recomiendo es que si den el final ahora en julio.
+
+1158
+02:05:45.750 --> 02:05:50.329
+Arroyo Arzubi Carlos A.: porque la materia no es difícil, pero por ahí puede ser un poco larga.
+
+1159
+02:05:51.170 --> 02:05:54.030
+Arroyo Arzubi Carlos A.: Y no sé,
+
+1160
+02:05:54.730 --> 02:06:05.940
+Arroyo Arzubi Carlos A.: me siempre a mí me me me me gustó cuando estudiaba la materia, darla lo antes posible, porque cuanto más tiempo pasaba, más me olvidaba.
+
+1161
+02:06:06.360 --> 02:06:11.290
+Arroyo Arzubi Carlos A.: es decir, que mi recomendación es tratar de sacársela de encima, pero bueno.
+
+1162
+02:06:12.200 --> 02:06:17.210
+FRANCO EMMANUEL SICARDO: Me imagino a Profe que se fijó en las fechas que no coincidieron con partido de la selección o no.
+
+1163
+02:06:17.540 --> 02:06:20.429
+Arroyo Arzubi Carlos A.: No la fecha, no la puse yo, la pone la facultad, pues.
+
+1164
+02:06:20.430 --> 02:06:22.730
+FRANCO EMMANUEL SICARDO: Cuba, Argentina? No arredrado.
+
+1165
+02:06:23.240 --> 02:06:32.729
+Arroyo Arzubi Carlos A.: Yo tampoco. Yo me voy. No me pone 200 fechas. Me pone para donde tengo yo. Digo, ¿para qué ponen tantas fechas para no, Porque si el alumno tiene toda la flexibilidad.
+
+1166
+02:06:33.010 --> 02:06:37.609
+Arroyo Arzubi Carlos A.: Siempre pensando en el alumno, no el pobre profesor, tengo como 4
+
+1167
+02:06:38.190 --> 02:06:43.020
+Arroyo Arzubi Carlos A.: 7 fechas de examen. De pronto 1 se presentan 2 tipos. Los quiero matar.
+
+1168
+02:06:45.390 --> 02:06:50.780
+Arroyo Arzubi Carlos A.: Mhm, claro, 7 fechas de examen para la misma materia.
+
+1169
+02:06:52.780 --> 02:06:55.490
+Arroyo Arzubi Carlos A.: Bueno que no me escuche la facultad, porque si no me van a.
+
+1170
+02:06:55.750 --> 02:07:01.900
+Arroyo Arzubi Carlos A.: me van a rentar a decir qué está diciendo ingeniero y
+
+1171
+02:07:02.340 --> 02:07:05.630
+Arroyo Arzubi Carlos A.: no. Lo que sí les digo es que yo tengo en cuenta.
+
+1172
+02:07:06.230 --> 02:07:12.909
+Arroyo Arzubi Carlos A.: Mi Mi planillita vio que tengo todas las 200 notas las 200, no, pero tengo
+
+1173
+02:07:13.820 --> 02:07:22.679
+Arroyo Arzubi Carlos A.: unas cuantas, notas de cada 1, y tengo el horal y todo eso somos humanos. Termina pesando.
+
+1174
+02:07:23.080 --> 02:07:25.090
+Arroyo Arzubi Carlos A.: Para mí, no es lo mismo.
+
+1175
+02:07:25.210 --> 02:07:31.570
+Arroyo Arzubi Carlos A.: El que viene bien que que que viene no es lo mismo. Yo hago valer
+
+1176
+02:07:32.710 --> 02:07:38.610
+Arroyo Arzubi Carlos A.: en algo, obviamente, ese tipo de para aplazarlo de sacar. Son 2. ¿qué voy a hacer? No lo puedo sacar de ahí.
+
+1177
+02:07:40.000 --> 02:07:43.940
+Arroyo Arzubi Carlos A.: Pero cuando ahí están esas dudas o esas pequeñas diferencias.
+
+1178
+02:07:45.190 --> 02:07:52.840
+Arroyo Arzubi Carlos A.: El profesor, yo veo las notas y me predispone mejor natural.
+
+1179
+02:07:54.230 --> 02:08:01.709
+Arroyo Arzubi Carlos A.: Es mi parte humana que tengo que todavía algo tengo, pero bueno, Bueno, no sé qué más.
+
+1180
+02:08:04.960 --> 02:08:07.859
+ALEXANDER EMANUEL PIZZURNO DUARTE: Profe. El final. Ella es ya sincrónico total, ¿verdad?
+
+1181
+02:08:08.000 --> 02:08:13.169
+ALEXANDER EMANUEL PIZZURNO DUARTE: No hay el final. Es asícrónico. No tenemos ahora.
+
+1182
+02:08:14.450 --> 02:08:18.269
+Arroyo Arzubi Carlos A.: No no tienen oral. Pueden respirar tranquilo.
+
+1183
+02:08:18.460 --> 02:08:19.920
+FRANCO EMMANUEL SICARDO: Doble Cámara también.
+
+1184
+02:08:20.680 --> 02:08:24.400
+Arroyo Arzubi Carlos A.: No sé doble o triple ¿Qué sé Yo No sé sí, sí que.
+
+1185
+02:08:24.400 --> 02:08:26.819
+FRANCO EMMANUEL SICARDO: Ya le gustó. Profe la doble cámara.
+
+1186
+02:08:26.820 --> 02:08:30.329
+Arroyo Arzubi Carlos A.: No, no, no, no es cuestión mía. Lo pide la facultad,
+
+1187
+02:08:30.940 --> 02:08:34.590
+Arroyo Arzubi Carlos A.: Y lo piden. La facultad, porque ustedes cada vez encuentran más la vuelta al tema.
+
+1188
+02:08:35.150 --> 02:08:37.439
+Arroyo Arzubi Carlos A.: Es así así de fácil. Es
+
+1189
+02:08:38.190 --> 02:08:40.630
+Arroyo Arzubi Carlos A.: la facultad. Como todas las facultades.
+
+1190
+02:08:40.950 --> 02:08:46.780
+Arroyo Arzubi Carlos A.: Este buscan, buscan la forma de de evitar.
+
+1191
+02:08:47.880 --> 02:08:50.820
+Arroyo Arzubi Carlos A.: y la otra es tomar oral y listo.
+
+1192
+02:08:51.430 --> 02:08:59.349
+Arroyo Arzubi Carlos A.: Se acabó ahí. Pero ahora el presencial así no tienen nada delante, ni siquiera los apuntes. Y todos que están buscando ahí desesperado para buscar
+
+1193
+02:08:59.520 --> 02:09:05.689
+Arroyo Arzubi Carlos A.: en la punta a ver de lo que dije la clase pasada. Qué está bien que yo no me dé cuenta. Pero bueno, ponerle
+
+1194
+02:09:09.550 --> 02:09:17.120
+Arroyo Arzubi Carlos A.: claro: yo, cuando hice la carrera, ya hace muchos años, obviamente eran los exámenes eran todos orales.
+
+1195
+02:09:18.140 --> 02:09:23.400
+FRANCO EMMANUEL SICARDO: Sí, pero memoria principal lo tenemos que ir a buscar a memoria secundaria.
+
+1196
+02:09:23.790 --> 02:09:26.150
+Arroyo Arzubi Carlos A.: Todo vale.
+
+1197
+02:09:26.290 --> 02:09:32.570
+Arroyo Arzubi Carlos A.: Bueno, el tema es: ¿se van poniendo cada vez más medidas de seguridad, porque los alumnos cada vez encuentran la vuelta para
+
+1198
+02:09:33.300 --> 02:09:34.540
+Arroyo Arzubi Carlos A.: para trampear.
+
+1199
+02:09:35.480 --> 02:09:39.179
+Arroyo Arzubi Carlos A.: Y sí, eso fue toda la vida. Fue así.
+
+1200
+02:09:40.390 --> 02:09:43.859
+Arroyo Arzubi Carlos A.: La lucha por la supervivencia. Todo vale.
+
+1201
+02:09:44.960 --> 02:09:48.730
+Arroyo Arzubi Carlos A.: pero al que lo sorprende solo así la cosa.
+
+1202
+02:09:50.890 --> 02:09:52.370
+Arroyo Arzubi Carlos A.: Bueno.
+
+1203
+02:09:52.370 --> 02:09:54.770
+FRANCO EMMANUEL SICARDO: Más el área que le hacemos alguna atención.
+
+1204
+02:09:55.550 --> 02:09:59.610
+Arroyo Arzubi Carlos A.: ¿Me van a tener una. Si hacen una atención, entonces yo me pongo muy bueno
+
+1205
+02:10:00.120 --> 02:10:07.629
+Arroyo Arzubi Carlos A.: la atención que algo para comer o o efectivo, como dices en efectivo.
+
+1206
+02:10:08.470 --> 02:10:09.230
+Arroyo Arzubi Carlos A.: Bueno.
+
+1207
+02:10:09.230 --> 02:10:10.470
+FRANCISCO DAURAT: Bitcoin. Le pasamos.
+
+1208
+02:10:10.720 --> 02:10:18.309
+Arroyo Arzubi Carlos A.: Dejemos de Jorobar: Ah, sí, Dejemos jorobado a ver si alguno lo toma y lo toma literal. Y después tenemos problemas.
+
+1209
+02:10:18.620 --> 02:10:24.239
+Arroyo Arzubi Carlos A.: Salimos los diarios. Universidad de Palermo.
+
+1210
+02:10:25.660 --> 02:10:30.230
+Arroyo Arzubi Carlos A.: Bueno, nada ha sido un gusto. Espero que les haya servido
+
+1211
+02:10:31.000 --> 02:10:40.820
+Arroyo Arzubi Carlos A.: la materia. Los temas de formación más algunos agregados que yo le voy dando a título personal este.
+
+1212
+02:10:41.580 --> 02:10:45.030
+Arroyo Arzubi Carlos A.: pero, bueno, yo lo he pasado bien, porque me divierto
+
+1213
+02:10:45.840 --> 02:10:51.520
+Arroyo Arzubi Carlos A.: haciendo alguna algún alguna anécdota, pero bueno, nada el que le vaya muy bien
+
+1214
+02:10:51.790 --> 02:10:56.029
+Arroyo Arzubi Carlos A.: y que le vaya bien en el final, en los recuperatorios
+
+1215
+02:10:56.420 --> 02:11:00.640
+Arroyo Arzubi Carlos A.: y en la carrera y a seguir dándole. Esto Es una carrera de resistencia.
+
+1216
+02:11:02.220 --> 02:11:04.820
+FRANCISCO DAURAT: Pues yo Profe ha sido un placer. Muchas gracias.
+
+1217
+02:11:04.820 --> 02:11:05.330
+Arroyo Arzubi Carlos A.: Claro.
+
+1218
+02:11:05.330 --> 02:11:05.780
+MATIAS BASILICO: Sí, Bueno.
+
+1219
+02:11:05.780 --> 02:11:06.320
+Arroyo Arzubi Carlos A.: Gracias.
+
+1220
+02:11:06.320 --> 02:11:07.380
+AGOSTINA BERTINI: Adiós.
+
+1221
+02:11:07.380 --> 02:11:07.980
+Arroyo Arzubi Carlos A.: No se de.
+
+1222
+02:11:07.980 --> 02:11:08.709
+Emanuel CARLOS ORLANDINI: No es lo que.
+
+1223
+02:11:08.710 --> 02:11:09.410
+LUCAS BONAFFINI: Gracias. Profe.
+
+1224
+02:11:09.410 --> 02:11:10.439
+MATEO CAMILLETTI: No, no.
+
+1225
+02:11:10.440 --> 02:11:11.550
+MARCOS VALLE FIGUEROA: De gracias por todo.
+
+1226
+02:11:11.550 --> 02:11:12.750
+Emanuel CARLOS ORLANDINI: Buenas noches.
+
+1227
+02:11:12.750 --> 02:11:14.040
+Arroyo Arzubi Carlos A.: Chao: Gracias.
+
+1228
+02:11:14.900 --> 02:11:23.779
+LUCAS BONAFFINI: Pere Profe que eres, que conversemos del tema que me has hecho para el tema del.
+
+1229
+02:11:24.030 --> 02:11:24.460
+Arroyo Arzubi Carlos A.: Sí.
+
+1230
+02:11:24.460 --> 02:11:26.200
+LUCAS BONAFFINI: Del programa Youtube.
+
+1231
+02:11:26.530 --> 02:11:29.909
+Arroyo Arzubi Carlos A.: No el problema. El problema que tuviste ya lo entendí.
+
+1232
+02:11:30.600 --> 02:11:31.830
+LUCAS BONAFFINI: Sí, pero vos me.
+
+1233
+02:11:31.830 --> 02:11:32.469
+Arroyo Arzubi Carlos A.: De más.
+
+1234
+02:11:32.470 --> 02:11:35.260
+LUCAS BONAFFINI: En todas las maneras, pasando en todas las materias.
+
+1235
+02:11:35.260 --> 02:11:36.390
+Arroyo Arzubi Carlos A.: Lo mismo de.
+
+1236
+02:11:36.390 --> 02:11:53.670
+LUCAS BONAFFINI: Yo en el Pri, pero el primer parcial me pasó lo mismo. Vos me lo o sea, vos me lo corregiste todo. Pero bueno, el tema es que yo ya me mandé mensajes de sistema de alumnos porque imagínate que hice el parcial que estudias, te preparas y encima siento que me había ido bien justamente para poder rendir el primero.
+
+1237
+02:11:53.670 --> 02:12:06.229
+LUCAS BONAFFINI: Y ante esta situación que yo ya no puedo hacer nada. Me viene pasando lo mismo. Y ya les notifiqué y me dijeron: sí, que es un problema que ya lo vamos a ver y demás. Allá. Rendir matemáticas. La profe me dijo quédate tranquilo yo le notifiqué,
+
+1238
+02:12:06.330 --> 02:12:12.799
+LUCAS BONAFFINI: pero no me ha pasado. Por eso te digo la primera vez que me pasa que no me lo corrigen por un tema que, bueno, no.
+
+1239
+02:12:12.910 --> 02:12:14.010
+LUCAS BONAFFINI: no.
+
+1240
+02:12:14.470 --> 02:12:23.749
+LUCAS BONAFFINI: no, me re no, no me repercute directamente, porque yo no, no, no, pue. No puedo hacer nada si el teléfono se me si se me cierra automáticamente este.
+
+1241
+02:12:24.060 --> 02:12:27.280
+Arroyo Arzubi Carlos A.: No, Yo lo que no sé. El tema es que
+
+1242
+02:12:27.460 --> 02:12:31.000
+Arroyo Arzubi Carlos A.: la última reunión de profesores recalcaron
+
+1243
+02:12:31.340 --> 02:12:33.719
+Arroyo Arzubi Carlos A.: utilizar el sistema y el sistema
+
+1244
+02:12:34.090 --> 02:12:40.360
+Arroyo Arzubi Carlos A.: No, no es que se borró un poquito a ver a ver si me explico y.
+
+1245
+02:12:40.360 --> 02:12:48.259
+LUCAS BONAFFINI: Y se me pasó, se borra, Digamos a mí, me pasó siempre al principio conectar la cámara, toma, y esta se cierra.
+
+1246
+02:12:48.800 --> 02:12:55.640
+Arroyo Arzubi Carlos A.: El sistema. La segunda cámara no anduvo nunca. Yo los tengo todos. Si no veo ahí todo te veo a vos
+
+1247
+02:12:56.050 --> 02:12:57.190
+Arroyo Arzubi Carlos A.: y después.
+
+1248
+02:12:57.680 --> 02:13:02.690
+Arroyo Arzubi Carlos A.: Entonces no tengo forma yo lo que
+
+1249
+02:13:02.800 --> 02:13:08.669
+Arroyo Arzubi Carlos A.: yo pregunto: no podés usar otro equipo que que no es lo que estás usando ahora.
+
+1250
+02:13:08.880 --> 02:13:10.850
+Arroyo Arzubi Carlos A.: No podés.
+
+1251
+02:13:11.380 --> 02:13:11.780
+LUCAS BONAFFINI: No se.
+
+1252
+02:13:11.780 --> 02:13:12.970
+Arroyo Arzubi Carlos A.: Si a vos tenés el problema.
+
+1253
+02:13:12.970 --> 02:13:13.390
+LUCAS BONAFFINI: Sé cómo.
+
+1254
+02:13:13.390 --> 02:13:17.650
+Arroyo Arzubi Carlos A.: Sos: el único, el único: yo te hago la siguiente reflexión.
+
+1255
+02:13:19.250 --> 02:13:21.190
+Arroyo Arzubi Carlos A.: El único que tiene problema.
+
+1256
+02:13:24.050 --> 02:13:30.359
+Arroyo Arzubi Carlos A.: Bueno, llama la atención. Yo. Bueno, yo te hablo con franqueza como hablo. Yo le gusta, no le guste. Es así.
+
+1257
+02:13:30.360 --> 02:13:31.690
+LUCAS BONAFFINI: No. Totalmente. Sí. Sí.
+
+1258
+02:13:31.690 --> 02:13:33.819
+Arroyo Arzubi Carlos A.: Sabe, ya me conoces. Bueno, pues.
+
+1259
+02:13:33.820 --> 02:13:34.970
+LUCAS BONAFFINI: Sí sí hoy hoy.
+
+1260
+02:13:35.300 --> 02:13:36.070
+Arroyo Arzubi Carlos A.: Entonces.
+
+1261
+02:13:36.070 --> 02:13:37.029
+LUCAS BONAFFINI: Sí, totalmente.
+
+1262
+02:13:37.030 --> 02:13:39.839
+Arroyo Arzubi Carlos A.: Nadie tiene problemas y vos tenés problemas.
+
+1263
+02:13:40.130 --> 02:13:43.659
+Arroyo Arzubi Carlos A.: Está bien. Bueno, macanudo rendí de vuelta listo
+
+1264
+02:13:44.610 --> 02:13:47.149
+Arroyo Arzubi Carlos A.: y tenés, problema y tenés, problema
+
+1265
+02:13:47.840 --> 02:14:05.609
+Arroyo Arzubi Carlos A.: tenés que cambiar el teléfono, la computadora, pedirle prestado a otro un amigo. No sé cómo tenés que hacer, pero seguir insistiendo con los mismos No me parece un buen camino. El tuyo más allá que la facultad, te dé la explicación o no, porque a mí me pone en una situación
+
+1266
+02:14:05.960 --> 02:14:15.970
+Arroyo Arzubi Carlos A.: donde a ver, claro, vos. Tenías un 2 en el primer parcial.
+
+1267
+02:14:16.450 --> 02:14:18.769
+LUCAS BONAFFINI: Que me pasó lo mismo con el tema de la.
+
+1268
+02:14:18.770 --> 02:14:19.110
+Arroyo Arzubi Carlos A.: En el.
+
+1269
+02:14:19.110 --> 02:14:19.900
+LUCAS BONAFFINI: Teléfono.
+
+1270
+02:14:19.900 --> 02:14:26.829
+Arroyo Arzubi Carlos A.: Pero el 2 yo te lo puse y no tuve en cuenta la cámara, sino es decir, que estoy seguro.
+
+1271
+02:14:27.360 --> 02:14:28.180
+Arroyo Arzubi Carlos A.: me entendés.
+
+1272
+02:14:28.180 --> 02:14:28.779
+LUCAS BONAFFINI: En el.
+
+1273
+02:14:28.780 --> 02:14:30.999
+Arroyo Arzubi Carlos A.: No se usaba la segunda cámara.
+
+1274
+02:14:32.700 --> 02:14:36.760
+LUCAS BONAFFINI: O sea, vos decís que el el la nota del primero es por el tema de la de la Cámara.
+
+1275
+02:14:36.760 --> 02:14:38.900
+Arroyo Arzubi Carlos A.: No vos te.
+
+1276
+02:14:39.620 --> 02:14:43.300
+LUCAS BONAFFINI: Claro, no, no, no por eso. Pero en la.
+
+1277
+02:14:43.300 --> 02:14:44.160
+Arroyo Arzubi Carlos A.: Ah, Muy bien, Me.
+
+1278
+02:14:44.160 --> 02:14:45.949
+LUCAS BONAFFINI: Son lo mismo Lo de la Cámara.
+
+1279
+02:14:46.380 --> 02:14:49.209
+Arroyo Arzubi Carlos A.: Pero no te. Pero el 2 no te lo tuviste por la Cámara.
+
+1280
+02:14:49.970 --> 02:14:54.069
+LUCAS BONAFFINI: No, pero acá. Sí tuve, digamos, Tuve una.
+
+1281
+02:14:54.070 --> 02:14:55.210
+Arroyo Arzubi Carlos A.: No, Yo pienso.
+
+1282
+02:14:55.210 --> 02:14:58.530
+LUCAS BONAFFINI: No por el parcial, porque en el parcial me fue bien, porque estoy seguro.
+
+1283
+02:14:58.530 --> 02:14:58.880
+Arroyo Arzubi Carlos A.: Uf.
+
+1284
+02:14:58.880 --> 02:15:01.080
+LUCAS BONAFFINI: Bien,
+
+1285
+02:15:01.080 --> 02:15:01.550
+Arroyo Arzubi Carlos A.: No, no.
+
+1286
+02:15:01.550 --> 02:15:02.130
+LUCAS BONAFFINI: Sí
+
+1287
+02:15:02.460 --> 02:15:08.949
+LUCAS BONAFFINI: claro, pero es ese es el el que por eso yo más anime quejé, digamos, en sistema de alumnos.
+
+1288
+02:15:08.950 --> 02:15:09.380
+Arroyo Arzubi Carlos A.: Bueno.
+
+1289
+02:15:09.380 --> 02:15:22.460
+LUCAS BONAFFINI: Que yo la entiendo, de que es una bajada de línea y que tienen ustedes los pro los profes pero De hecho, si no te vo no te yo no te miento. Le mandé la Profe. Justamente a raíz de esto que vos me dijiste, yo me preocupé porque digo, no quiero que ahora no
+
+1290
+02:15:22.970 --> 02:15:29.519
+LUCAS BONAFFINI: vuelva, me vuelva a pasar con otra materia en matemáticas. Le mandé la profe por pronto le digo: mira, Profe: estoy con este. Si esta situación
+
+1291
+02:15:29.520 --> 02:15:46.079
+LUCAS BONAFFINI: es más aparte, si vos te fijas pasa que si vos decís que no te grabó al principio, pero yo la cámara está apuntando. Acá, Si yo le sea rara, se ven mis manos y yo le cierro. Yo estoy escribiendo y la cámara se cierra entonces como que yo no estoy tocando nada, entonces y yo pedir otro dispositivo. ¿sí? Y puedo ver.
+
+1292
+02:15:46.210 --> 02:15:51.559
+LUCAS BONAFFINI: Tengo el de mi madre, pero mi mamá tiene el mismo sistema operativo, y no sé si va a pasar, o es una cuestión de mi celular.
+
+1293
+02:15:51.560 --> 02:16:14.490
+LUCAS BONAFFINI: Lo puedo probar. Lo puedo hacer. Pero bueno, en esta instancia, que es algo que me excede y teniendo en cuenta de que. Bueno, yo fíjate que en el segundo parcialito me me me había ido mejor que también el Primero, me había ido cosas porque, bueno, le estaba poniendo más empeño para tratar de de mejorar y que me quedara solamente el primero para rendir, para recuperar y el segundo bueno, pero poder aprobarlo. Pero bueno.
+
+1294
+02:16:14.490 --> 02:16:17.640
+LUCAS BONAFFINI: si no se puede, no se puede, Yo no. Ay, no puedo. No puedo.
+
+1295
+02:16:17.640 --> 02:16:20.210
+Arroyo Arzubi Carlos A.: Vamos a lo siguiente: ¿vamos a lo siguiente.
+
+1296
+02:16:21.150 --> 02:16:21.640
+LUCAS BONAFFINI: Sí.
+
+1297
+02:16:21.640 --> 02:16:25.490
+Arroyo Arzubi Carlos A.: Teóricamente la semana que viene, tenés que rendir recuperatorio.
+
+1298
+02:16:26.420 --> 02:16:27.520
+LUCAS BONAFFINI: Exactamente. Sí.
+
+1299
+02:16:27.520 --> 02:16:28.810
+Arroyo Arzubi Carlos A.: Sí o sí.
+
+1300
+02:16:29.620 --> 02:16:30.200
+LUCAS BONAFFINI: Sí.
+
+1301
+02:16:30.360 --> 02:16:33.510
+Arroyo Arzubi Carlos A.: Teniendo en cuenta este o no. Teniendo en cuenta este.
+
+1302
+02:16:33.870 --> 02:16:35.280
+LUCAS BONAFFINI: Exactamente. Sí.
+
+1303
+02:16:35.280 --> 02:16:37.009
+Arroyo Arzubi Carlos A.: Tenés que rendir el primero.
+
+1304
+02:16:37.240 --> 02:16:39.049
+Arroyo Arzubi Carlos A.: ¿qué va a pasar lo mismo.
+
+1305
+02:16:41.129 --> 02:16:43.849
+LUCAS BONAFFINI: Espero que no veré si.
+
+1306
+02:16:43.850 --> 02:16:44.740
+Arroyo Arzubi Carlos A.: A lo mismo.
+
+1307
+02:16:45.900 --> 02:16:52.769
+LUCAS BONAFFINI: Y si pruebo con otro dispositivo capaz que no, no tengo la misma mala suerte. Si vuelve a pasar, no sé, ya tendré que
+
+1308
+02:16:53.350 --> 02:16:57.699
+LUCAS BONAFFINI: no sé, Tendré que elevarlo con la.
+
+1309
+02:16:57.709 --> 02:16:58.099
+Arroyo Arzubi Carlos A.: En la.
+
+1310
+02:16:58.100 --> 02:17:04.109
+LUCAS BONAFFINI: Dificultad y ver qué va a hacer ahí. Yo ahí no puedo hacer nada. Si lo pudiera solucionar.
+
+1311
+02:17:04.110 --> 02:17:04.650
+Arroyo Arzubi Carlos A.: A ver yo.
+
+1312
+02:17:04.650 --> 02:17:05.209
+LUCAS BONAFFINI: De a.
+
+1313
+02:17:05.850 --> 02:17:11.410
+Arroyo Arzubi Carlos A.: Yo digo la la semana que viene tenés que rendir el primer parcial.
+
+1314
+02:17:11.850 --> 02:17:12.520
+LUCAS BONAFFINI: Mhm.
+
+1315
+02:17:12.770 --> 02:17:14.560
+Arroyo Arzubi Carlos A.: Rendí el primer parcial.
+
+1316
+02:17:17.629 --> 02:17:22.670
+Arroyo Arzubi Carlos A.: Si el primer parcial todo funciona bien.
+
+1317
+02:17:24.530 --> 02:17:26.110
+Arroyo Arzubi Carlos A.: Vemos cómo seguimos.
+
+1318
+02:17:26.480 --> 02:17:31.849
+Arroyo Arzubi Carlos A.: Si el si el próximo parcial va a ser lo mismo o vamos a tener más de lo mismo? Yo no voy a poder corregirlo.
+
+1319
+02:17:33.540 --> 02:17:39.280
+LUCAS BONAFFINI: Claro está Bien, Bueno, en.
+
+1320
+02:17:39.520 --> 02:17:46.549
+Arroyo Arzubi Carlos A.: Yo me agarraría otro equipo de alguien que funcione. Porque si.
+
+1321
+02:17:47.620 --> 02:17:51.720
+Arroyo Arzubi Carlos A.: bueno, si es el celular o es la computadora, no lo sé.
+
+1322
+02:17:52.180 --> 02:17:55.029
+LUCAS BONAFFINI: No en celular, porque la computadora, la cámara me la toma.
+
+1323
+02:17:56.950 --> 02:17:58.530
+LUCAS BONAFFINI: El tema.
+
+1324
+02:17:58.530 --> 02:17:59.989
+Arroyo Arzubi Carlos A.: Agarrás otro celular.
+
+1325
+02:18:01.840 --> 02:18:10.669
+LUCAS BONAFFINI: Sí tengo el mi mamá también es, es igual, es iphone, y no sé si va a pasar lo mismo, porque no sé si es una cuestión de sistema operativo.
+
+1326
+02:18:10.670 --> 02:18:11.799
+Arroyo Arzubi Carlos A.: Bueno, yo.
+
+1327
+02:18:11.809 --> 02:18:12.149
+LUCAS BONAFFINI: En fin.
+
+1328
+02:18:12.150 --> 02:18:13.699
+Arroyo Arzubi Carlos A.: Te digo lo que yo digo.
+
+1329
+02:18:13.959 --> 02:18:14.540
+Arroyo Arzubi Carlos A.: Yo.
+
+1330
+02:18:14.540 --> 02:18:15.139
+LUCAS BONAFFINI: Es.
+
+1331
+02:18:16.370 --> 02:18:20.890
+Arroyo Arzubi Carlos A.: Y si todo anda bien, vemos cómo seguimos.
+
+1332
+02:18:23.420 --> 02:18:24.150
+LUCAS BONAFFINI: O qué.
+
+1333
+02:18:25.049 --> 02:18:29.269
+Arroyo Arzubi Carlos A.: Si va a ser más, vas a hacer lo mismo. El resultado va a ser el mismo.
+
+1334
+02:18:30.510 --> 02:18:37.209
+LUCAS BONAFFINI: Bueno, obviamente que yo voy a ver si lo puedo solucionar desde mi lado.
+
+1335
+02:18:37.580 --> 02:18:46.170
+LUCAS BONAFFINI: en el peor de los casos, si me vuelve a pasar a mitad del parcial, no tiene sentido que lo siga haciendo de última aviso. Mira acá para hacer vuelta a la Cámara.
+
+1336
+02:18:46.299 --> 02:18:51.549
+LUCAS BONAFFINI: y lo dejo de hacer, porque si lo voy a hacer y lo mismo no.
+
+1337
+02:18:52.040 --> 02:19:00.169
+Arroyo Arzubi Carlos A.: En el Ahora estoy recordando todo lo que vi del examen tuyo, además de que la segunda cámara no anda.
+
+1338
+02:19:00.850 --> 02:19:01.469
+LUCAS BONAFFINI: Sí.
+
+1339
+02:19:02.090 --> 02:19:05.100
+Arroyo Arzubi Carlos A.: Un montón de alertas de tu computadora.
+
+1340
+02:19:06.049 --> 02:19:07.349
+LUCAS BONAFFINI: Sí, Sí.
+
+1341
+02:19:07.350 --> 02:19:12.209
+Arroyo Arzubi Carlos A.: Solamente Bueno, entonces hablamos de 2 temas en seguridad.
+
+1342
+02:19:12.219 --> 02:19:12.759
+LUCAS BONAFFINI: Claro.
+
+1343
+02:19:12.760 --> 02:19:16.750
+Arroyo Arzubi Carlos A.: No lo agarró nunca, y la cámara que andaba
+
+1344
+02:19:16.870 --> 02:19:20.030
+Arroyo Arzubi Carlos A.: marca 200 000 000 de rojos por todos lados.
+
+1345
+02:19:22.139 --> 02:19:24.389
+LUCAS BONAFFINI: No sé por qué será. Puede.
+
+1346
+02:19:24.389 --> 02:19:24.919
+Arroyo Arzubi Carlos A.: Y cuando.
+
+1347
+02:19:24.920 --> 02:19:27.549
+LUCAS BONAFFINI: Tuve que hacerlo. Dejar.
+
+1348
+02:19:27.559 --> 02:19:30.959
+Arroyo Arzubi Carlos A.: Calavista coadvertido.
+
+1349
+02:19:32.479 --> 02:19:33.159
+Arroyo Arzubi Carlos A.: Todo.
+
+1350
+02:19:33.160 --> 02:19:34.450
+LUCAS BONAFFINI: Sí, Cuando.
+
+1351
+02:19:34.459 --> 02:19:34.879
+Arroyo Arzubi Carlos A.: No se.
+
+1352
+02:19:34.879 --> 02:19:35.739
+LUCAS BONAFFINI: Hacer ejercicio.
+
+1353
+02:19:35.740 --> 02:19:37.320
+Arroyo Arzubi Carlos A.: El sistema.
+
+1354
+02:19:37.790 --> 02:19:40.260
+Arroyo Arzubi Carlos A.: Entonces son 2 temas.
+
+1355
+02:19:40.450 --> 02:19:42.810
+Arroyo Arzubi Carlos A.: La segunda cámara no anduvo nunca.
+
+1356
+02:19:43.209 --> 02:19:48.690
+Arroyo Arzubi Carlos A.: Pero si vos ahora resolvés la segunda cámara y en lo otro te va a salir igual que el otro día.
+
+1357
+02:19:50.000 --> 02:19:57.649
+LUCAS BONAFFINI: Igual. Esto de esta es la primera vez que me pasa que me lo tiran al parcial por el problema de la Cámara.
+
+1358
+02:19:57.650 --> 02:19:58.120
+Arroyo Arzubi Carlos A.: Bueno.
+
+1359
+02:19:58.120 --> 02:19:59.109
+LUCAS BONAFFINI: En la segunda cámara.
+
+1360
+02:19:59.110 --> 02:20:00.470
+Arroyo Arzubi Carlos A.: También no, como.
+
+1361
+02:20:00.470 --> 02:20:16.220
+LUCAS BONAFFINI: Pero digo vos me decís la primera vez que eres el único que le pasa, pero digo, es la primera a mí que me pasa en todas las materias que vengo rindiendo esto de las alertas y demás, porque pasa porque hay problemas que son a nivel de sistemas que 1 no puede hacer nada. Tema: la mirada todo 1, la la parte práctica, la hice con una voz.
+
+1362
+02:20:16.220 --> 02:20:17.440
+Arroyo Arzubi Carlos A.: Y.
+
+1363
+02:20:17.440 --> 02:20:17.770
+LUCAS BONAFFINI: Bueno.
+
+1364
+02:20:17.770 --> 02:20:20.629
+Arroyo Arzubi Carlos A.: Tema. Vuelvo a repetir: el sistema.
+
+1365
+02:20:20.920 --> 02:20:23.300
+Arroyo Arzubi Carlos A.: Marcó problema con las 2 cosas.
+
+1366
+02:20:23.950 --> 02:20:24.500
+LUCAS BONAFFINI: Okay.
+
+1367
+02:20:24.500 --> 02:20:30.070
+Arroyo Arzubi Carlos A.: Con 1 que no tenía la segunda cámara en ningún momento y con la cámara de la computadora.
+
+1368
+02:20:30.800 --> 02:20:41.679
+Arroyo Arzubi Carlos A.: un montón de alerta está mirando para otro lado, cambió la vista. Se cortó, volvió a decir que y no hubiera segunda cámara, también había un montones de alerta, no algunos.
+
+1369
+02:20:43.590 --> 02:20:47.530
+Arroyo Arzubi Carlos A.: Y eso está ahí. Lo tengo acá.
+
+1370
+02:20:47.530 --> 02:20:57.240
+LUCAS BONAFFINI: Yo yo rindo de la misma manera todos los todos los parciales. Yo lo entiendo. Lo entiendo. Este yo por por mi lado, O sea, lo único que puedo hacer es
+
+1371
+02:20:57.640 --> 02:21:01.780
+LUCAS BONAFFINI: bueno tratar de que no no suceda en el mismo parcial.
+
+1372
+02:21:01.780 --> 02:21:08.230
+Arroyo Arzubi Carlos A.: Mío me llama la atención que a ver si yo pudiera entrar para que vos veas.
+
+1373
+02:21:22.040 --> 02:21:25.309
+LUCAS BONAFFINI: Pero si yo yo yo en entiendo lo que
+
+1374
+02:21:25.740 --> 02:21:32.160
+LUCAS BONAFFINI: yo hay que a ver, yo yo no, Yo no puedo hacer nada. Si vos me decís así, yo lo único que puedo hacer es
+
+1375
+02:21:32.430 --> 02:21:43.069
+LUCAS BONAFFINI: nada simplemente comentar de mi lado lo que yo lo que lo lo que yo opino en la situación, la que tuve y nada más después ahí el que tiene la palabra final.
+
+1376
+02:21:43.400 --> 02:21:47.679
+Arroyo Arzubi Carlos A.: No, no, no, no, no, no, no, no, no es así?
+
+1377
+02:21:48.560 --> 02:21:49.470
+LUCAS BONAFFINI: Una es y que.
+
+1378
+02:21:49.470 --> 02:21:52.539
+Arroyo Arzubi Carlos A.: No tengo la palabra con respecto a la calificación.
+
+1379
+02:21:53.650 --> 02:21:55.139
+LUCAS BONAFFINI: Eso que por eso no también.
+
+1380
+02:21:55.140 --> 02:21:56.960
+Arroyo Arzubi Carlos A.: A el sistema.
+
+1381
+02:21:57.310 --> 02:21:58.010
+LUCAS BONAFFINI: Mhm.
+
+1382
+02:21:58.010 --> 02:22:08.289
+Arroyo Arzubi Carlos A.: Es de la universidad, y la universidad dice, señores, tiene que responder con el respondo.
+
+1383
+02:22:08.910 --> 02:22:17.669
+Arroyo Arzubi Carlos A.: Entonces, si el respondo que está mal, está mal, No se puede, No, no, yo. Eso.
+
+1384
+02:22:18.110 --> 02:22:20.499
+LUCAS BONAFFINI: No totalmente. Por eso yo, cuando.
+
+1385
+02:22:20.500 --> 02:22:21.230
+Arroyo Arzubi Carlos A.: Sí, pero es.
+
+1386
+02:22:21.230 --> 02:22:31.959
+LUCAS BONAFFINI: Al departamento de alumno. No le dije usted, Che Profe: no, pero que esto no, porque sé que es una cuestión de la facultad No, no, no tiene nada que ver con
+
+1387
+02:22:33.320 --> 02:22:35.630
+LUCAS BONAFFINI: con la con la calificación en sí,
+
+1388
+02:22:41.730 --> 02:22:50.069
+LUCAS BONAFFINI: pero bueno, puedo probar eso que que que me dijiste hacer ver si puedo conseguir con otro teléfono y ver si no me sucede el mismo problema.
+
+1389
+02:23:04.680 --> 02:23:06.809
+Arroyo Arzubi Carlos A.: Yo creo que lo que tendría que hacer viste.
+
+1390
+02:23:08.520 --> 02:23:09.090
+LUCAS BONAFFINI: Sí.
+
+1391
+02:23:09.370 --> 02:23:12.810
+Arroyo Arzubi Carlos A.: Mira ahí estás te ves.
+
+1392
+02:23:13.350 --> 02:23:13.950
+LUCAS BONAFFINI: Mhm.
+
+1393
+02:23:14.220 --> 02:23:17.250
+Arroyo Arzubi Carlos A.: Bueno, todo esto que está en negro.
+
+1394
+02:23:18.110 --> 02:23:18.450
+LUCAS BONAFFINI: Sí.
+
+1395
+02:23:18.450 --> 02:23:25.669
+Arroyo Arzubi Carlos A.: Todo mal a va a la segunda cámara que no estuvo nunca.
+
+1396
+02:23:26.770 --> 02:23:28.939
+Arroyo Arzubi Carlos A.: Acá Tenés todas las alertas.
+
+1397
+02:23:29.810 --> 02:23:30.700
+Arroyo Arzubi Carlos A.: ¿
+
+1398
+02:23:32.320 --> 02:23:38.510
+Arroyo Arzubi Carlos A.: Y acá. Está toda la entonces es esta cámara. Esta no estuvo nunca.
+
+1399
+02:23:39.080 --> 02:23:40.240
+Arroyo Arzubi Carlos A.: Y esto.
+
+1400
+02:23:46.080 --> 02:23:46.850
+Arroyo Arzubi Carlos A.: bueno.
+
+1401
+02:23:47.570 --> 02:23:48.070
+LUCAS BONAFFINI: Y son.
+
+1402
+02:23:48.070 --> 02:23:48.720
+Arroyo Arzubi Carlos A.: A que.
+
+1403
+02:23:49.010 --> 02:23:51.380
+LUCAS BONAFFINI: Es que eso tampoco te puedo.
+
+1404
+02:23:51.380 --> 02:23:58.440
+Arroyo Arzubi Carlos A.: Mira, mira, vídeo, interrumpido, vídeo, interrumpido, Vídeo: interrumpido, vida, interrumpido, mira.
+
+1405
+02:24:00.070 --> 02:24:08.130
+LUCAS BONAFFINI: Eso me eso me pasa. Me pasa que con la con la cámara de la Por eso, por eso te Digo, yo siento que el el respondo con Io S
+
+1406
+02:24:08.450 --> 02:24:12.429
+LUCAS BONAFFINI: tiene muchísima incompatibilidades, porque yo, sin tocar nada desaparece.
+
+1407
+02:24:12.430 --> 02:24:14.890
+Arroyo Arzubi Carlos A.: Ya qué dice acá.
+
+1408
+02:24:15.690 --> 02:24:21.300
+Arroyo Arzubi Carlos A.: Lucas? Alto. Mirá mirá como te presenta como un delincuente.
+
+1409
+02:24:21.300 --> 02:24:22.590
+LUCAS BONAFFINI: Bueno.
+
+1410
+02:24:23.020 --> 02:24:23.940
+Arroyo Arzubi Carlos A.: Te das cuenta.
+
+1411
+02:24:23.940 --> 02:24:25.349
+LUCAS BONAFFINI: Como si estuvieras? Sí, Sí.
+
+1412
+02:24:25.350 --> 02:24:26.190
+Arroyo Arzubi Carlos A.: Tremendamente.
+
+1413
+02:24:26.190 --> 02:24:26.740
+LUCAS BONAFFINI: Pero bueno.
+
+1414
+02:24:26.740 --> 02:24:27.140
+Arroyo Arzubi Carlos A.: Pero.
+
+1415
+02:24:27.140 --> 02:24:28.500
+LUCAS BONAFFINI: Lo que te puedo decir.
+
+1416
+02:24:28.710 --> 02:24:34.649
+Arroyo Arzubi Carlos A.: Nada. Pero yo no puedo corregir y que me diga alguien escúcheme. Usted le probó a Lucas porque él
+
+1417
+02:24:34.750 --> 02:24:35.680
+Arroyo Arzubi Carlos A.: y.
+
+1418
+02:24:35.680 --> 02:24:36.099
+LUCAS BONAFFINI: Está bien.
+
+1419
+02:24:36.100 --> 02:24:38.109
+Arroyo Arzubi Carlos A.: Alguien así, y yo no puedo.
+
+1420
+02:24:38.220 --> 02:24:43.960
+Arroyo Arzubi Carlos A.: Entonces por eso yo no me acordaba que estabas en Córdoba, Yo te dije, vení acá. Y yo tomo presencial.
+
+1421
+02:24:44.630 --> 02:24:45.900
+LUCAS BONAFFINI: Totalmente. Sí, Sí,
+
+1422
+02:24:50.400 --> 02:24:51.430
+LUCAS BONAFFINI: totalmente.
+
+1423
+02:24:51.950 --> 02:24:55.399
+LUCAS BONAFFINI: Bueno, no sé qué.
+
+1424
+02:24:55.400 --> 02:24:57.299
+Arroyo Arzubi Carlos A.: Yo te lo que te digo.
+
+1425
+02:24:57.800 --> 02:24:58.660
+LUCAS BONAFFINI: Vos.
+
+1426
+02:25:00.290 --> 02:25:03.560
+Arroyo Arzubi Carlos A.: Rendir el primer parcial la semana que viene.
+
+1427
+02:25:04.190 --> 02:25:04.860
+LUCAS BONAFFINI: Okay.
+
+1428
+02:25:05.380 --> 02:25:12.600
+Arroyo Arzubi Carlos A.: Y si todo anda bien, hay una solución, le vamos a encontrar Okay, perfecto. Te agradezco
+
+1429
+02:25:12.700 --> 02:25:16.610
+Arroyo Arzubi Carlos A.: la semana que viene. Tenemos problemas. Yo.
+
+1430
+02:25:17.500 --> 02:25:18.690
+Arroyo Arzubi Carlos A.: Hasta acá. Llegué.
+
+1431
+02:25:19.630 --> 02:25:25.689
+LUCAS BONAFFINI: Perfecto. Sí, a ver. Yo no voy a cómo decirte. Tampoco te quiero hacer perder el tiempo si.
+
+1432
+02:25:25.690 --> 02:25:26.510
+Arroyo Arzubi Carlos A.: Lo que.
+
+1433
+02:25:26.510 --> 02:25:29.539
+LUCAS BONAFFINI: Tengo a entremedio del examen. Solo cierro el teléfono.
+
+1434
+02:25:29.540 --> 02:25:30.010
+Arroyo Arzubi Carlos A.: Sí.
+
+1435
+02:25:30.010 --> 02:25:30.350
+LUCAS BONAFFINI: Claro.
+
+1436
+02:25:30.350 --> 02:25:36.249
+Arroyo Arzubi Carlos A.: Yo creo que si vos utilizas otra computadora y otro teléfono, no podés tener.
+
+1437
+02:25:36.770 --> 02:25:45.729
+LUCAS BONAFFINI: Se supone que no acá En la informática y como futuro ingeniero, la posibilidad del error siempre está independientemente de que 1 cambie la variable.
+
+1438
+02:25:45.730 --> 02:25:46.689
+Arroyo Arzubi Carlos A.: Pero bueno.
+
+1439
+02:25:46.690 --> 02:26:05.700
+LUCAS BONAFFINI: Vamos a tratar de que no, Obviamente, sí sí voy a ver si puedo pedir otro con otro dispositivo, a ver por lo menos con el tema de la Cámara, Porque, ¿qué es lo que pasa? A mí me esto de que de interrupción me también me me pasa que para mí es una cuestión, insisto, de incompatibilidad, porque el yo tengo la camarita verde se apaga y después vuelve sola.
+
+1440
+02:26:05.830 --> 02:26:15.290
+LUCAS BONAFFINI: Eso no lo puedo controlar. Pero si yo tengo la cámara del teléfono que me está apuntando constantemente, entiendo de que esa validación justifica para decir: Che, está todo bien. No, No.
+
+1441
+02:26:15.560 --> 02:26:25.639
+LUCAS BONAFFINI: No sé si me sale el coloquio, tengo el teléfono, no se corta, capaz que tenés alguna interrupción con esta, porque eso es lo que no le puedo dar, porque no tengo forma de pedir otra computadora.
+
+1442
+02:26:25.640 --> 02:26:36.360
+LUCAS BONAFFINI: porque encima acá tengo todas mis cosas para estudiar y demás, pero sí con el teléfono. Es algo más fácil si el teléfono no presenta ninguna interrupción y se cierra independientemente que por ahí la Cámara persista en estas cuestiones.
+
+1443
+02:26:36.360 --> 02:26:38.219
+Arroyo Arzubi Carlos A.: Bueno, pero de todos modos.
+
+1444
+02:26:38.220 --> 02:26:42.030
+LUCAS BONAFFINI: Yo para no, no a ver si se me pasa a mí.
+
+1445
+02:26:42.030 --> 02:26:43.960
+Arroyo Arzubi Carlos A.: En este examen.
+
+1446
+02:26:44.250 --> 02:26:44.950
+LUCAS BONAFFINI: Y en.
+
+1447
+02:26:44.950 --> 02:26:48.159
+Arroyo Arzubi Carlos A.: No podés tener ningún elemento de consulta correcto.
+
+1448
+02:26:49.760 --> 02:26:52.040
+LUCAS BONAFFINI: Exactamente. Sí. Sí.
+
+1449
+02:26:52.040 --> 02:27:02.269
+Arroyo Arzubi Carlos A.: Bien, Es decir, que vos te puedes sentar en cualquier computadora de cualquier lugar y hacer el examen.
+
+1450
+02:27:03.860 --> 02:27:07.129
+Arroyo Arzubi Carlos A.: No necesitas tener nada de lo que vos tenés en tu casa.
+
+1451
+02:27:08.740 --> 02:27:16.099
+Arroyo Arzubi Carlos A.: Así que podés ir a a cualquier lugar, a un café, y así es el examen.
+
+1452
+02:27:16.680 --> 02:27:17.300
+LUCAS BONAFFINI: Mhm.
+
+1453
+02:27:18.130 --> 02:27:18.810
+Arroyo Arzubi Carlos A.: Bueno.
+
+1454
+02:27:18.810 --> 02:27:19.220
+LUCAS BONAFFINI: Perfecto.
+
+1455
+02:27:19.220 --> 02:27:20.160
+Arroyo Arzubi Carlos A.: Más, una.
+
+1456
+02:27:20.160 --> 02:27:21.630
+LUCAS BONAFFINI: Ahí ya lo.
+
+1457
+02:27:21.630 --> 02:27:25.669
+Arroyo Arzubi Carlos A.: Te da una flexibilidad si vos la querés usar o no es tema tuyo.
+
+1458
+02:27:26.010 --> 02:27:27.130
+Arroyo Arzubi Carlos A.: Pero la.
+
+1459
+02:27:27.130 --> 02:27:28.300
+LUCAS BONAFFINI: Totalmente.
+
+1460
+02:27:28.300 --> 02:27:31.280
+Arroyo Arzubi Carlos A.: A cualquiera préstame la computadora, una hora
+
+1461
+02:27:31.410 --> 02:27:36.800
+Arroyo Arzubi Carlos A.: flaco, pero ya me voy a tu casa una hora, listo una hora con.
+
+1462
+02:27:37.310 --> 02:27:38.949
+LUCAS BONAFFINI: Totalmente. Sí. Sí. Sí.
+
+1463
+02:27:39.150 --> 02:27:42.199
+Arroyo Arzubi Carlos A.: Lucas. Vendí el primero y hablamos.
+
+1464
+02:27:42.500 --> 02:27:46.979
+LUCAS BONAFFINI: Dale profe se agradece Y, bueno, disculpa, yo. La verdad, que no es un.
+
+1465
+02:27:47.140 --> 02:27:48.290
+Arroyo Arzubi Carlos A.: No, Bueno, no se.
+
+1466
+02:27:48.290 --> 02:27:55.499
+LUCAS BONAFFINI: Para mí, obviamente, porque lo tengo que volver a hacer, o sea, no porque el primero, si lo tenía que volver a rendir. Tenemos que.
+
+1467
+02:27:55.500 --> 02:27:56.360
+Arroyo Arzubi Carlos A.: Yo.
+
+1468
+02:27:56.880 --> 02:27:57.480
+LUCAS BONAFFINI: Esperemos que sale.
+
+1469
+02:27:57.480 --> 02:28:03.710
+Arroyo Arzubi Carlos A.: Llorar, rendí. El primero tomá los recaudos para que la operación no falle
+
+1470
+02:28:03.910 --> 02:28:08.819
+Arroyo Arzubi Carlos A.: y después seguimos hablando. Si la operación falla, habla de ellos también.
+
+1471
+02:28:10.970 --> 02:28:12.910
+LUCAS BONAFFINI: Sí, no, Obviamente.
+
+1472
+02:28:12.910 --> 02:28:15.180
+Arroyo Arzubi Carlos A.: No sigamos con la psicológica. Ahora.
+
+1473
+02:28:15.380 --> 02:28:19.160
+LUCAS BONAFFINI: Ya me estás tirando la pelota a mí también.
+
+1474
+02:28:19.350 --> 02:28:22.590
+Arroyo Arzubi Carlos A.: A: Bueno, chao. Nos vemos.
+
+1475
+02:28:22.590 --> 02:28:27.350
+LUCAS BONAFFINI: Bueno, dale Profe: Gracias. Se agradece que ande bien que tenga.

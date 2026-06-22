@@ -1,0 +1,10 @@
+1-Mencione las arquitecturas de SO que conoce
+2-Qué inconveniente pueden tener los algoritmos de planificación de procesos por prioridades y cómo se puede resolver?
+3-Explique el algoritmo 2da oportunidad de reemplazo de página de memoria virtual
+4-Mencione los objetivos de seguridad que debe tener un Modelo de Seguridad
+5-Qué se entiende por plataforma? Qué es el MIDDLEWARE y qué finalidad tiene?
+6-Explique qué es una comunicación directa y una indirecta
+7-Mencione y explique las distintas oportunidades en que se puede vincular las direcciones lógicas con las direcciones físicas.
+8-Explique y ejemplifique el significado de exclusión mutua y espera y retención 
+9-Qué es un sistema RAID y qué objetivo tiene. Explique.
+10-Mencione los estados que puede tener un proceso y cuál es su ciclo de vida.
