@@ -155,12 +155,12 @@ D. SV.
 **7.** ¿Qué es la cultura del equipo? Nombrar dos comportamientos deseados.
 
 > [!success]- Respuesta
-> La **cultura del equipo** es el conjunto de **normas, valores y costumbres compartidas** que rigen cómo trabajan e interactúan los miembros del equipo para lograr un objetivo común. Puede surgir del propio equipo o ser establecida/fomentada por el director del proyecto.
+> La **cultura del equipo** es el conjunto de **normas, valores y costumbres compartidas** que rigen cómo trabajan e interactúan los miembros del equipo para lograr un objetivo común. 
 > **Dos comportamientos deseados:**
 > - **Respeto** entre los miembros del equipo.
 > - **Comunicación abierta y transparente.**
 >
-> *(También válidas: confianza, colaboración, compromiso con el objetivo. Corrección: faltó el matiz de "valores compartidos / objetivo común" y nombrar los comportamientos.)*
+
 
 ---
 
@@ -251,7 +251,7 @@ D. Seguimiento y control.
 **2.** Mencione las características fundamentales de la definición de proyecto, explique cada una y dé un ejemplo.
 
 > [!success]- Respuesta
-> Un proyecto es un esfuerzo realizado para lograr algo puntual y se reconoce por tener un objetivo claro, es temporal ya que tiene principio y fin, es único debido a que su resultado es distinto a cualquier otro, se va armando de a poco mejorándose asi en el camino, suele necesitar gente de distintas áreas y siempre se mueve dentro de límites de tiempo, plata y recursos.
+> Un proyecto es un esfuerzo realizado para lograr algo puntual manteniendo un objetivo claro. Es temporal ya que tiene principio y fin, es único debido a que su resultado es distinto a cualquier otro, se va armando de a poco mejorándose asi en el camino, suele necesitar gente de distintas áreas y siempre se mueve dentro de límites de tiempo, plata y recursos.
 > Ejemplo: desarrollar una app nueva para organizar tareas: objetivo concreto, arranca y termina, es algo distinto a lo existente, se pule sobre la marcha, necesita programadores y diseñadores, y tiene presupuesto y plazo definidos.
 
 **3.** Según el PMI: ¿Cuáles de los siguientes son procesos que forman parte de la Gestión de Tiempos? (marcar todas las correctas)
@@ -294,7 +294,7 @@ D. Aceptar.
 > [!success]- Respuesta
 > **B. Controlar.** No es una de las estrategias de respuesta (las de amenazas: Escalar, Evitar, Transferir, Mitigar, Aceptar).
 
-**7.** Mencione, como mínimo, tres técnicas que se apliquen a la estimación de costos.
+==**7.** Mencione, como mínimo, tres técnicas que se apliquen a la estimación de costos.==
 
 > [!success]- Respuesta
 > - **Estimación análoga:** usa valores de parámetros (alcance, costos, presupuesto, duración) de un proyecto anterior similar como base. Útil cuando hay datos históricos relevantes.
@@ -428,8 +428,8 @@ D. Alcance.
 **5.** Explique el concepto de "valor" y cómo se aplica en una organización.
 
 > [!success]- Respuesta
-> El **valor** es el indicador definitivo del éxito del proyecto (principio *"Enfocarse en el valor"*). El valor y los beneficios que contribuyen a él pueden definirse en términos **cuantitativos y/o cualitativos**, y se pueden obtener durante el proyecto, al final o incluso después de terminado.
-> **Cómo se aplica:** el equipo enfoca su trabajo en los **resultados y beneficios previstos** (no solo en los entregables), evalúa continuamente el progreso y se adapta para mantener el proyecto alineado con los objetivos de negocio, de modo de **maximizar el valor esperado** para la organización.
+> **Valor:** es el indicador definitivo del éxito de un proyecto. Puede ser **cuantitativo o cualitativo** y obtenerse durante, al final o después del proyecto.
+   **Cómo se aplica:** Tomando decisiones que aporte los beneficios esperados por la organizacion y ajustando el trabajo si los objetivos de negocio cambian.
 
 **6.** La matriz RACI.
 
