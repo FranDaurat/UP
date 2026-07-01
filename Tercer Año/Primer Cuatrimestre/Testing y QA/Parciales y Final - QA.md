@@ -90,8 +90,8 @@
 
 **5.** Según la práctica grupal realizada sobre la "Comparación de ISO 29119 y TMMI", describir los puntos comunes entre ambos modelos.
 
-> [!success]- Respuesta
-> Ambos consisten en implementar una serie de controles y procedimientos basados en normativas, que se centran en implementar procesos de prueba en toda la organización, asegurando la calidad en todo aspecto posible y reduciendo errores o fallas.
+>[!success]- Respuesta
+> Ambos son marcos que buscan estandarizar y mejorar el proceso de testing a nivel organizacional, llevándolo de una práctica informal a un proceso disciplinado y basado en procesos, con enfoque a riesgos y mejora continua de la calidad, independientemente de la metodología de desarrollo.
 
 **6.** Según la práctica grupal realizada sobre "Establecer Línea Base de Testing (Plan de CM)", describir la propuesta.
 
@@ -132,8 +132,8 @@
 > 
 > 1. **Definir los ítems de configuración (CI)**
 > 2. Asignar **Roles y responsabilidades** para las actividades de GCS.
-> 3. **Políticas** de administración de configuración para el control de cambios.
-> 4. **Herramientas a utilizar** y el proceso de uso (control de cambios vía RFC, control de versiones).
+> 3. Establecer **Políticas** de administración de configuración para el control de cambios.
+> 4. Definir las **Herramientas a utilizar** y el proceso de uso (control de cambios vía RFC, control de versiones).
 > 5. **Definición de la base de configuración (línea base)** para registrar la información.
 >
 > Además correspone incluir las **auditorías** (FCA funcional / PCA física) y el **control de interfaces críticas** (la nueva API de geolocalización y el módulo de impuestos).

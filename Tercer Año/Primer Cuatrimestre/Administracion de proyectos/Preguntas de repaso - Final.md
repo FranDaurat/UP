@@ -428,7 +428,7 @@ D. Alcance.
 **5.** Explique el concepto de "valor" y cómo se aplica en una organización.
 
 > [!success]- Respuesta
-> **Valor:** es el indicador definitivo del éxito de un proyecto. Puede ser **cuantitativo o cualitativo** y obtenerse durante, al final o después del proyecto.
+> **Valor:** Hace referencia al beneficio o utilidad que el proyecto aporta a la organizacion. Puede ser **cuantitativo o cualitativo** y obtenerse durante, al final o después del proyecto.
    **Cómo se aplica:** Tomando decisiones que aporte los beneficios esperados por la organizacion y ajustando el trabajo si los objetivos de negocio cambian.
 
 **6.** La matriz RACI.
