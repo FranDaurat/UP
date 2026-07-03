@@ -380,7 +380,7 @@
 **T32.** Explique brevemente la técnica de DMA (Direct Memory Access) y qué beneficio aporta a la CPU.
 
 > [!success]- Respuesta
-> El **DMA** es acceso directo a memoria. Al transferir datos entre un dispositivo de E/S y la memoria principal, el módulo de E/S se convierte en **maestro del bus** y transmite los datos en ráfagas directamente desde/hacia la memoria. La CPU solo interviene al principio (inicia) y al final; durante la transferencia no participa. **Beneficio:** libera a la CPU, que puede dedicarse a otras tareas, mejorando el rendimiento.
+> El **DMA** es un procesador con acceso directo a memoria. Al transferir datos entre un dispositivo de E/S y la memoria principal, el módulo de E/S se convierte en **maestro del bus** y transmite los datos en ráfagas directamente desde/hacia la memoria. La CPU solo interviene al principio (inicia) y al final; durante la transferencia no participa. **Beneficio:** libera a la CPU, que puede dedicarse a otras tareas, mejorando el rendimiento.
 
 **T33.** ¿Qué es un sistema RAID y qué objetivo tiene? Explique.
 
@@ -438,10 +438,10 @@
 **T41.** Defina qué es la linkedición y explique las formas en que se puede realizar.
 
 > [!success]- Respuesta
-> La **linkedición** es el enlace de las librerías con el programa, que se hace **después de la compilación**. Formas:
-> - **Estático:** se copian las rutinas de las librerías dentro del programa final. Puede desperdiciar memoria si varias aplicaciones usan las mismas librerías (cada una lleva su copia).
-> - **Dinámico:** en lugar de copiar, se colocan **punteros** a las rutinas; el SO carga la librería en memoria una sola vez aunque la usen varios procesos (optimiza memoria).
-> - **Carga dinámica:** En tiempo de ejecución el proceso solicita la carga de la librería cuando necesita una rutina, y la descarga cuando ya no la necesita.
+> La **linkedición** es el paso posterior a la compilacion que enlaza el programa con las librerias que necesita. 
+> **Estático:** todas las librerías se meten dentro del programa compilado, así que en ejecución no le pide nada al SO; cómodo, pero cada proceso lleva su propia copia y desperdicia memoria.
+> **Dinámico:** en vez de copiar las librerías se dejan colillas (llamadas) que apuntan a ellas; el SO las carga una sola vez en memoria y las comparten varios procesos.
+> **Carga dinámica:** el propio programador ubica, carga y convoca las librerías en tiempo de ejecución (sin herramienta del SO), trayéndolas solo cuando las necesita.
 
 ---
 
@@ -532,3 +532,70 @@
 > - **Ejecución de los mandatos de usuario:** permite al usuario controlar el SO mediante comandos (shell) o la interfaz.
 > - **Abstracción:** oculta la complejidad del hardware y le da a cada usuario una visión independiente del sistema de cómputo.
 > - **Aislamiento:** permite que cada usuario use el mismo SO de forma independiente, sin que se filtren sus datos (seguridad).
+
+
+## Final Asincrónico — 01/07/2026 (Ing. Arroyo Arzubi)
+
+Voy a verificar cada tema contra lo que dijo Arzubi antes de armar las preguntas. Empiezo con las búsquedas.Matriz de acceso listo. Ahora LOOK/C-LOOK.LOOK/C-LOOK listo. Ahora tiempo compartido/multiprogramación.Tiempo compartido listo (sí hace multiprogramación, con quantum equitativo). Ahora procesos independientes/cooperativos.Procesos independientes/cooperativos listo (cooperativos → concurrentes o complementarios). Ahora asignación contigua de archivos.Asignación contigua listo. Ahora seguridad multinivel.Seguridad multinivel listo. Un solo modelo mencionado por Arzubi: Bell-LaPadura (con su versión inversa). Ahora bloqueo y recuperación.Bloqueo y recuperación listo. Ahora necesito ver los mecanismos completos de tratamiento del deadlock que Arzubi listó (para el contexto de "mecanismos").Ahora proceso y BCP.Proceso y BCP listo. Ahora vector/mapa de bits.Mapa de bits listo. Ahora regiones/secciones críticas.Sección crítica listo (con sus 3 requisitos). Ahora DMA.Todo verificado contra Arzubi. Acá van las 12 preguntas con formato exacto:
+
+---
+
+**6.** Explique qué es la matriz de acceso y cuáles son sus formas de implementación. 
+
+> [!success]- Respuesta
+> - **Matriz de acceso:** estructura que usa el SO para registrar, por cada **dominio** (usuario o proceso), a qué **objetos** puede acceder y con qué **derechos**.
+> - **Formas de implementación:**
+> - **Tabla global:** una sola tabla con todas las ternas dominio–objeto–permiso. Enorme y costosa.
+> - **Lista de control de acceso:** la lista se asocia a cada **objeto** (qué dominios lo usan y cómo).
+> - **Lista de capacidades:** la lista se asocia a cada **dominio** (qué objetos usa y cómo). Es el esquema inverso.
+> - **Llave de bloqueo:** cerradura en los objetos y llave en los dominios; si la llave coincide, entra.
+
+**7.** Explique los algoritmos de planificación de disco LOOK y C-LOOK. 
+> [!success]- Respuesta
+> - **LOOK:** es similar al SCAN, pero **no llega hasta los extremos** del disco (ni el superior ni el inferior). Atiende las pistas subiendo hasta la última pedida, y de ahí cambia de sentido hacia la siguiente pista requerida más abajo atendiendo en la bajada.
+> - **C-LOOK:** es similar al C-SCAN, pero tampoco llega a los extremos. Atiende las pistas en **un solo sentido** hasta la última requerida, luego baja hasta la pista más baja pedida y vuelve a atender solamente en ese mismo sentido sin atender en la bajada.
+
+**8.** ¿Los sistemas de tiempo compartido o multiusuario hacen multiprogramación? 
+
+> [!success]- Respuesta
+> - **Sí**, es una forma de multiprogramación: hay varios procesos de usuarios cargados en memoria principal que alternan el uso del procesador. Lo que cambia es el objetivo: en la multiprogramación "pura" es maximizar el uso de la CPU, mientras que en el tiempo compartido es atender a los usuarios de la forma más equitativa posible. Por eso se le da a cada usuario un quantum de tiempo igual para todos.
+
+**9.** Clasifique los procesos según sus interacciones (independientes y cooperativos). 
+> [!success]- Respuesta
+> - **Independientes:** se ejecutan sin interactuar, colaborar ni necesitar de otros procesos. Son los más cómodos de administrar: el SO los ejecuta cuando quiere, sin tener en cuenta nada más.
+> - **Cooperativos:** fueron diseñados para trabajar conjuntamente en una determinada actividad; requieren cooperación. Se subdividen en:
+> 	- **Concurrentes:** se pueden ejecutar en paralelo (por ejemplo, en 2 procesadores).
+> 	- **Complementarios:** requieren un determinado orden para ejecutarse (ej.: B solo se ejecuta si antes se ejecutó A) → necesitan sincronización, que el SO debe respetar.
+
+**10.** Explique la asignación contigua del espacio de archivos. 
+
+> [!success]- Respuesta
+> Al archivo se le dan bloques uno pegado al otro (adyacentes) en el disco, y el directorio guarda el bloque de inicio y la longitud (cantidad de bloques) de cada archivo. Su inconveniente principal es que los archivos crecen y puede no haber espacio libre contiguo al lado; en ese caso hay que trasladar todo el archivo a otra zona con suficientes bloques contiguos, lo cual es costoso e ineficiente.
+
+Seguridad multinivel — ¿cuáles son?
+
+> [!success]- Respuesta
+> Existen 2 alternativas. Bell-LaPadula prioriza el secreto: un nivel no puede leer hacia arriba, pero sí puede escribir hacia arriba; sí puede leer hacia abajo; y con los pares lee y escribe libremente. El esquema inverso prioriza que toda la cadena se entere de lo que hace cada nivel: un nivel inferior sí puede leer lo que hace el superior, pero no puede escribirle.
+
+Bloqueo y recuperación — mecanismos
+
+> [!success]- Respuesta
+> Es uno de los métodos para tratar el abrazo mortal. Cuando el SO se encuentra con un proceso que no se puede ejecutar por falta de recursos, lo saca del sistema, libera sus recursos para que otros procesos avancen, y lo hace volver a ingresar más adelante. No es la solución ideal, pero es una solución válida.
+
+¿Qué es un proceso y qué tiene que ver con el BCP?
+> [!success]- Respuesta
+> Un proceso es un programa en ejecución. El programa vive en memoria secundaria y el proceso nace cuando se lo pone a ejecutar y muere cuando termina. La relación con el BCP es directa. Un programa se convierte en proceso cuando el SO le agrega el Bloque de Control de Proceso (BCP), que es el espacio donde el SO guarda toda la información que necesita para administrarlo (nombre, tamaño, dueño, prioridad, memoria que ocupa, archivos que necesita, más datos estadísticos de uso durante su ejecución).
+
+Técnica de vector o mapa de bits
+> [!success]- Respuesta
+> - **Vector / mapa de bits:** es una técnica para gestionar los **bloques libres y ocupados** del disco. Se dedican los **primeros bloques** del disco al mapa.
+> - Cada **bit** del mapa está asociado a **un bloque** del disco: su valor (0 o 1) indica si ese bloque está **libre u ocupado**.
+> - Por lo tanto, la cantidad de bits del mapa es igual a la cantidad de bloques del disco; el tamaño del mapa depende del tamaño del disco.
+
+Regiones críticas
+> [!success]- Respuesta
+> La **Región crítica** es una facilidad que dan los lenguajes para proteger la sección crítica (no es lo mismo: la sección crítica es el código que accede al dato compartido, la región crítica es un mecanismo para protegerla). Consiste en definir una región con una variable booleana que se consulta para decidir si un proceso puede entrar. Es una de las 3 formas de proteger la sección crítica, junto con semáforos y monitores.
+
+Qué es el DMA? ¿Puede acceder a la memoria?
+> [!success]- Respuesta
+> El DMA (Acceso Directo a Memoria) es un procesador dedicado que transfiere datos de entrada/salida entre los dispositivos (disco, teclado, mouse, etc.) y la memoria principal sin la intervención de la CPU. Sí, tiene acceso directo a la memoria. Hace la transferencia por sí solo y, cuando termina, le avisa a la CPU que los datos ya están disponibles, aliviándola de esa tarea y aumentando la eficiencia en el uso de la CPU.
