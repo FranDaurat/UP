@@ -534,9 +534,7 @@
 > - **Aislamiento:** permite que cada usuario use el mismo SO de forma independiente, sin que se filtren sus datos (seguridad).
 
 
-## Final Asincrónico — 01/07/2026 (Ing. Arroyo Arzubi)
-
-Voy a verificar cada tema contra lo que dijo Arzubi antes de armar las preguntas. Empiezo con las búsquedas.Matriz de acceso listo. Ahora LOOK/C-LOOK.LOOK/C-LOOK listo. Ahora tiempo compartido/multiprogramación.Tiempo compartido listo (sí hace multiprogramación, con quantum equitativo). Ahora procesos independientes/cooperativos.Procesos independientes/cooperativos listo (cooperativos → concurrentes o complementarios). Ahora asignación contigua de archivos.Asignación contigua listo. Ahora seguridad multinivel.Seguridad multinivel listo. Un solo modelo mencionado por Arzubi: Bell-LaPadura (con su versión inversa). Ahora bloqueo y recuperación.Bloqueo y recuperación listo. Ahora necesito ver los mecanismos completos de tratamiento del deadlock que Arzubi listó (para el contexto de "mecanismos").Ahora proceso y BCP.Proceso y BCP listo. Ahora vector/mapa de bits.Mapa de bits listo. Ahora regiones/secciones críticas.Sección crítica listo (con sus 3 requisitos). Ahora DMA.Todo verificado contra Arzubi. Acá van las 12 preguntas con formato exacto:
+## Final Asincrónico — 01/07/2026 (Ing. Arroyo Arzubi)1
 
 ---
 
