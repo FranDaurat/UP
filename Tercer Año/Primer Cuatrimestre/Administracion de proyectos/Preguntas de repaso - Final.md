@@ -155,12 +155,12 @@ D. SV.
 **7.** ¿Qué es la cultura del equipo? Nombrar dos comportamientos deseados.
 
 > [!success]- Respuesta
-> La **cultura del equipo** es el conjunto de **normas, valores y costumbres compartidas** que rigen cómo trabajan e interactúan los miembros del equipo para lograr un objetivo común. Puede surgir del propio equipo o ser establecida/fomentada por el director del proyecto.
+> La **cultura del equipo** es el conjunto de **normas, valores y costumbres compartidas** que rigen cómo trabajan e interactúan los miembros del equipo para lograr un objetivo común. 
 > **Dos comportamientos deseados:**
 > - **Respeto** entre los miembros del equipo.
 > - **Comunicación abierta y transparente.**
 >
-> *(También válidas: confianza, colaboración, compromiso con el objetivo. Corrección: faltó el matiz de "valores compartidos / objetivo común" y nombrar los comportamientos.)*
+
 
 ---
 
@@ -251,15 +251,8 @@ D. Seguimiento y control.
 **2.** Mencione las características fundamentales de la definición de proyecto, explique cada una y dé un ejemplo.
 
 > [!success]- Respuesta
-> Un proyecto se caracteriza por ser:
-> - **Objetivo claro y definido:** todo proyecto debe tener un objetivo concreto de qué se espera lograr al finalizar.
-> - **Temporal:** tiene un inicio y un fin definidos.
-> - **Único:** produce un resultado único, diferente de otros productos o servicios.
-> - **Elaboración progresiva:** se desarrolla en pasos incrementales, mejorándose continuamente.
-> - **Interdisciplinariedad:** suele requerir colaboración de múltiples disciplinas o áreas.
-> - **Limitación de recursos:** se gestiona dentro de límites de tiempo, presupuesto y mano de obra.
->
-> **Ejemplo:** el desarrollo de una nueva aplicación móvil para gestionar tareas personales.
+> Un proyecto es un esfuerzo realizado para lograr algo puntual manteniendo un objetivo claro. Es temporal ya que tiene principio y fin, es único debido a que su resultado es distinto a cualquier otro, se va armando de a poco mejorándose asi en el camino, suele necesitar gente de distintas áreas y siempre se mueve dentro de límites de tiempo, plata y recursos.
+> Ejemplo: desarrollar una app nueva para organizar tareas: objetivo concreto, arranca y termina, es algo distinto a lo existente, se pule sobre la marcha, necesita programadores y diseñadores, y tiene presupuesto y plazo definidos.
 
 **3.** Según el PMI: ¿Cuáles de los siguientes son procesos que forman parte de la Gestión de Tiempos? (marcar todas las correctas)
 
@@ -301,7 +294,7 @@ D. Aceptar.
 > [!success]- Respuesta
 > **B. Controlar.** No es una de las estrategias de respuesta (las de amenazas: Escalar, Evitar, Transferir, Mitigar, Aceptar).
 
-**7.** Mencione, como mínimo, tres técnicas que se apliquen a la estimación de costos.
+==**7.** Mencione, como mínimo, tres técnicas que se apliquen a la estimación de costos.==
 
 > [!success]- Respuesta
 > - **Estimación análoga:** usa valores de parámetros (alcance, costos, presupuesto, duración) de un proyecto anterior similar como base. Útil cuando hay datos históricos relevantes.
@@ -412,13 +405,13 @@ D. Alcance.
 **2.** Desarrolle la gestión de los interesados.
 
 > [!success]- Respuesta
-> Es el **dominio de desempeño de los interesados:** implementar estrategias y acciones para promover un involucramiento productivo de los interesados a lo largo de todo el proyecto. Empieza antes o al arrancar el proyecto y continúa durante todo este. Sus pasos:
-> - **Identificar:** detectar periódicamente a los interesados y documentar sus intereses, influencia e impacto. Buena práctica: armar un **registro de interesados**.
-> - **Comprender y analizar:** entender su posición según poder, grado de influencia, actitud, creencias, proximidad e interés.
-> - **Priorizar:** con la **matriz poder/interés** → mucho poder + mucho interés = gestionar atentamente; mucho poder + poco interés = mantener satisfecho; poco poder + mucho interés = mantener informado; poco poder + poco interés = monitorear.
-> - **Involucrar:** trabajar colaborativamente (obtener requisitos, manejar expectativas, negociar, decidir); se documenta en el **plan de participación de los interesados**.
-> - **Comunicar:** definir un enfoque de comunicación según necesidades (interna/externa, formal/informal, push/pull/interactiva).
-> - **Monitorear:** revisar el grado y eficacia del involucramiento a lo largo del proyecto, porque los interesados (y su poder/interés) van cambiando. Herramienta: **matriz de evaluación de participación** (nivel actual C vs. deseado D).
+> La gestión de interesados es el dominio que busca involucrar productivamente a los interesados durante todo el proyecto. Sus pasos:
+> **Identificar:** detectarlos y anotar su interés, influencia e impacto (registro de interesados).
+> **Comprender:** entender su posición (poder, actitud, interés).
+> **Priorizar:** con la matriz poder/interés decidís cuánta atención darles.
+> **Involucrar:** trabajar con ellos (negociar, manejar expectativas).
+> **Comunicar:** definir cómo informarles según su necesidad.
+> **Monitorear:** revisar todo el tiempo, porque cambian.
 
 **3.** Explique EDT/WBS y la regla del 100 %.
 
@@ -428,14 +421,15 @@ D. Alcance.
 **4.** Describa el camino crítico en un diagrama PDM.
 
 > [!success]- Respuesta
-> El **PDM (Método de Diagramación por Precedencia)** representa las actividades en los nodos y los arcos indican el orden de ejecución. El **camino crítico** es la secuencia de actividades con **holgura (flotación) total cero**, desde la actividad de inicio hasta la de fin. Es la **ruta más larga** del diagrama y determina la **duración mínima** del proyecto. Un retraso en cualquier actividad crítica retrasa la finalización del proyecto entero, por eso el PM debe extremar su control. Se suele resaltar en el diagrama.
-> *(Recordá: holgura total = tiempo que una actividad puede retrasarse sin atrasar el proyecto.)*
+> El PDM representa las actividades en los nodos y los arcos indican el orden de ejecución.
+> **Camino crítico:** secuencia de actividades con **holgura total cero**, de inicio a fin. Es la **ruta más larga** y marca la **duración mínima** del proyecto. Si una actividad crítica se atrasa, se atrasa todo el proyecto, por eso el PM la controla de cerca.
+> *(Holgura total = lo que una actividad puede retrasarse sin atrasar el proyecto.)*
 
 **5.** Explique el concepto de "valor" y cómo se aplica en una organización.
 
 > [!success]- Respuesta
-> El **valor** es el indicador definitivo del éxito del proyecto (principio *"Enfocarse en el valor"*). El valor y los beneficios que contribuyen a él pueden definirse en términos **cuantitativos y/o cualitativos**, y se pueden obtener durante el proyecto, al final o incluso después de terminado.
-> **Cómo se aplica:** el equipo enfoca su trabajo en los **resultados y beneficios previstos** (no solo en los entregables), evalúa continuamente el progreso y se adapta para mantener el proyecto alineado con los objetivos de negocio, de modo de **maximizar el valor esperado** para la organización.
+> **Valor:** Hace referencia al beneficio o utilidad que el proyecto aporta a la organizacion. Puede ser **cuantitativo o cualitativo** y obtenerse durante, al final o después del proyecto.
+   **Cómo se aplica:** Tomando decisiones que aporte los beneficios esperados por la organizacion y ajustando el trabajo si los objetivos de negocio cambian.
 
 **6.** La matriz RACI.
 
@@ -449,7 +443,6 @@ D. Alcance.
 > - **Riesgo individual del proyecto:** un evento/condición incierto que afecta a uno o más objetivos.
 > - **Riesgo general del proyecto:** el efecto de la incertidumbre sobre el proyecto en su conjunto, proveniente de todas las fuentes.
 >
-> *(Si la pregunta apunta a niveles de probabilidad/impacto: típicamente **5 niveles** para un enfoque detallado — muy alto, alto, medio, bajo, muy bajo — o **3 niveles** para un proceso sencillo, sobre la matriz de probabilidad e impacto.)*
 
 **8.** ¿Qué es la línea base de costos?
 
@@ -460,13 +453,13 @@ D. Alcance.
 **9.** ¿Qué es la evaluación/análisis de un proyecto y qué es un criterio financiero?
 
 > [!success]- Respuesta
-> La **formulación y evaluación de proyectos** (etapa de preinversión) aborda la asignación de recursos y, mediante distintas técnicas, recomienda llevar a cabo una iniciativa por sobre otras alternativas. La **evaluación** busca medir objetivamente las variables que surgen de la formulación para obtener **indicadores financieros** que digan si conviene económicamente implementar el proyecto.
-> Un **criterio financiero** es uno de esos métodos para determinar la rentabilidad de la inversión. Los principales:
-> - **VAN (Valor Actual Neto):** diferencia entre ingresos y egresos llevados a moneda actual. Se acepta el proyecto si **VAN ≥ 0**.
-> - **TIR (Tasa Interna de Retorno):** la tasa que hace el **VAN = 0**; se compara contra la tasa de descuento exigida.
-> - **Payback (Período de recuperación):** número de períodos necesarios para recuperar la inversión inicial.
+>Es el proceso de analizar objetivamente las variables que surgen de la formulación para obtener **indicadores financieros** que digan si conviene implementarlo económicamente.
 >
-> *(Complemento: el análisis de sensibilidad mide cuán sensible es la evaluación a variaciones en uno o más parámetros, ya que se evalúa bajo incertidumbre.)*
+> **Criterio financiero:** método para determinar la rentabilidad de la inversión. Los principales:
+> - **VAN (Valor Actual Neto):** diferencia entre ingresos y egresos llevados a moneda actual. Se acepta el proyecto si VAN ≥ 0.
+> - **TIR (Tasa Interna de Retorno):** la tasa que hace VAN = 0; se compara contra la tasa de descuento exigida.
+> - **Payback (Período de recuperación):** cantidad de períodos para recuperar la inversión inicial.
+
 
 **10.** ¿Qué es la cultura de equipo y nombrar dos comportamientos deseados?
 

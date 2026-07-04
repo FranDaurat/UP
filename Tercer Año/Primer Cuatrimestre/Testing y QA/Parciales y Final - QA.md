@@ -90,8 +90,8 @@
 
 **5.** Según la práctica grupal realizada sobre la "Comparación de ISO 29119 y TMMI", describir los puntos comunes entre ambos modelos.
 
-> [!success]- Respuesta
-> Ambos consisten en implementar una serie de controles y procedimientos basados en normativas, que se centran en implementar procesos de prueba en toda la organización, asegurando la calidad en todo aspecto posible y reduciendo errores o fallas.
+>[!success]- Respuesta
+> Ambos son marcos que buscan estandarizar y mejorar el proceso de testing a nivel organizacional, llevándolo de una práctica informal a un proceso disciplinado y basado en procesos, con enfoque a riesgos y mejora continua de la calidad, independientemente de la metodología de desarrollo.
 
 **6.** Según la práctica grupal realizada sobre "Establecer Línea Base de Testing (Plan de CM)", describir la propuesta.
 
@@ -129,11 +129,11 @@
 **1.** Generar el plan de administración de configuración / plan de Testing para el siguiente enunciado, con todas las secciones del plan. **Enunciado:** una empresa va a liberar la versión 3.0 de su aplicación de gestión de inventario. Incluye una refactorización completa del módulo de Cálculo de Impuestos y la integración de una nueva API de terceros para geolocalización de almacenes. Sos el Líder de Testing del proyecto v3.0; las fases de Prueba de Integración y Prueba de Aceptación del Usuario están por comenzar. Es fundamental asegurar la trazabilidad y consistencia. [Plan de CM: 0/1]
 
 > [!success]- Respuesta
-> Según el Módulo 4, un plan de administración de configuración (**IEEE 828**) se organiza en capítulos que debían figurar:
-> 1. **Definición de los ítems de configuración (CI)** y el esquema formal para identificarlos.
-> 2. **Roles y responsabilidades** de las actividades de GCS (CM, líder de proyecto, desarrolladores, QA, CCB).
-> 3. **Políticas** de administración de configuración.
-> 4. **Herramientas a utilizar** y el proceso de uso (control de cambios vía RFC, control de versiones).
+> 
+> 1. **Definir los ítems de configuración (CI)**
+> 2. Asignar **Roles y responsabilidades** para las actividades de GCS.
+> 3. Establecer **Políticas** de administración de configuración para el control de cambios.
+> 4. Definir las **Herramientas a utilizar** y el proceso de uso (control de cambios vía RFC, control de versiones).
 > 5. **Definición de la base de configuración (línea base)** para registrar la información.
 >
 > Además correspone incluir las **auditorías** (FCA funcional / PCA física) y el **control de interfaces críticas** (la nueva API de geolocalización y el módulo de impuestos).
@@ -141,7 +141,7 @@
 **2.** Exprese por medio de ejemplos el concepto de Quality Assurance.
 
 > [!success]- Respuesta
-> El **Quality Assurance** es el conjunto de actividades sistemáticas que buscan darle al proceso de software la capacidad de producir un producto adecuado para el uso. *(Se enfoca en el proceso: ¿estoy construyendo correctamente el producto?)*
+> El **Quality Assurance** se asegira que se estan siguiendo todos los pasos correctos para hacer el trabajo. Un ejemplo seria asegurarse que se esta siguiendo el estandar iso/iec 29119 *(Se enfoca en el proceso: ¿estoy construyendo correctamente el producto?)*
 
 **3.** Exprese por medio de ejemplos el concepto de Quality Control.
 
@@ -161,16 +161,12 @@
 **5.** Explique con un ejemplo el análisis de puntos de casos de prueba (Test Case Point — TCP).
 
 > [!success]- Respuesta
-> *(Respuesta correcta — Módulo 8.)* El **análisis de puntos de casos de prueba (TCP)** es un enfoque para hacer una estimación precisa de los proyectos de pruebas funcionales. Enfatiza los factores clave que determinan la complejidad de todo el ciclo de prueba y permite traducir los esfuerzos de creación de pruebas a esfuerzos de ejecución, muy útil para estimar pruebas de regresión. Sigue un proceso de **7 pasos**: (1) identificar casos de uso, (2) identificar casos de prueba, (3) determinar TCP para la generación de casos de prueba, (4) para la automatización, (5) para la ejecución manual, (6) para la ejecución automatizada y (7) calcular el TCP total. En cada etapa se clasifican los casos en **simples, promedio y complejos** y se aplica:
-> `puntos = (Nº simples × 6) + (Nº promedio × 8) + (Nº complejos × 12)`
-> El total es `TCP-T = TCP-G + TCP-A + TCP-ME + TCP-AE`, indicativo del tamaño del proyecto de prueba.
-> **Ejemplo:** para un módulo de login con 5 casos simples, 3 promedio y 2 complejos, el TCP de generación sería `(5×6)+(3×8)+(2×12) = 30+24+24 = 78` puntos, luego ajustados por un factor según la complejidad del dominio y el lenguaje.
+>Se utiliza determinar cuanto tiempo y trabajo nos llevara probar el software, determinando que tan complicadas son las pruebas que hay que hacer. Por ejemplo, si se prueba un modulo de login y hay cinco casos de prueba simples, tres promedio y 2 complejos, el TCP calcularia con esos valores una formula para determinar los puntos y asi determinar la complejidad del testing a realizar.
 
 **6.** Exprese por medio de ejemplos la diferencia de Error y Defecto.
 
 > [!success]- Respuesta
-> *(Respuesta correcta — Módulo 5, diagrama "Errores, defectos y fallas".)* Un **error** es la equivocación humana del programador al escribir el código; los errores se manifiestan como defectos. Un **defecto (bug)** es ese error ya plasmado en el código o producto, y se observa como una **falla** al ejecutar. La cadena es: **error (humano) → defecto (en el código) → falla (efecto externo al ejecutar)**.
-> **Ejemplo:** el desarrollador escribe un `>` donde iba `>=` (error). Ese código queda mal escrito en el sistema (defecto). Cuando un usuario carga el valor límite, la app rechaza una compra válida (falla).
+>Un **error** es la **equivocación** humana que comete el programador al escribir el código. Un **defecto** es ese error ya **plasmado** en el código, que queda ahí escrito de forma estática.
 
 **7.** Realizar los 5 porqués de la NC descripta a continuación para encontrar la causa del problema. **NC:** La organización solo reacciona a los incidentes y no lleva a cabo el análisis de la causa raíz (RCA) para identificar y eliminar problemas recurrentes o subyacentes. El mismo incidente de alto impacto ocurre repetidamente sin que se tomen medidas permanentes.
 
@@ -178,16 +174,15 @@
 > **Problema (síntoma):** reaccionamos a los incidentes pero el mismo problema de alto impacto vuelve a ocurrir sin medidas permanentes.
 > 1. ¿Por qué vuelve a ocurrir? → Porque solo arreglamos lo superficial (la reacción) y no hacemos un análisis de causa raíz (RCA) para entender el origen.
 > 2. ¿Por qué no se analiza? → Porque no existe un procedimiento definido.
-> 3. ¿Por qué no existe procedimiento? → Porque no está documentado en el proceso de calidad.
+> 3. ¿Por qué no existe procedimiento? → Porque no está documentado en el plan de calidad.
 > 4. ¿Por qué no está documentado? → Porque no se implementó una mejora de procesos.
-> 5. ¿Por qué no se implementó? → **Falta de gestión de calidad continua.** (Como no se puede mostrar el impacto económico de la repetición, la prevención no es vista como una inversión necesaria.)
+> 5. ¿Por qué no se implementó? → **Falta de gestión de calidad continua.** 
 
-**8.** Explicar brevemente la diferencia entre TMMi y la ISO 29119. ¿Por qué TMMi es un modelo para la "mejora de procesos de pruebas" e ISO 29119 un modelo "basado en contenido" o "estándar"? [1/2 en una versión]
+
+**8.** Explicar brevemente la diferencia entre TMMi y la ISO 29119. ¿Por qué TMMi es un modelo para la "mejora de procesos de pruebas" e ISO 29119 un modelo "basado en contenido" o "estándar"? 
 
 > [!success]- Respuesta
-> Tu respuesta: TMMi es un modelo para la mejora de procesos de pruebas e ISO 29119 es un modelo basado en contenido o estándar.
-> ⚠️ **Corrección del profesor:** "La respuesta aborda la idea correcta sobre la ISO 29119 (que es una norma que se debe seguir), pero es muy incompleta y no explica la diferencia fundamental con TMMi. **TMMi se centra en el crecimiento organizacional** (¿Qué tan bien lo estamos haciendo y cómo mejoramos?), e **ISO 29119 se centra en la normalización técnica** (¿Cómo debemos documentar y ejecutar cada prueba?)."
-> **Refuerzo (Módulo 13):** TMMi es un modelo de **madurez por etapas** (como CMMi) que evalúa y mejora el proceso de prueba de la organización nivel por nivel; ISO/IEC 29119 es un **estándar internacional** que normaliza el contenido (procesos, documentación y técnicas de testing).
+> TMMi evalua que tan bien se testea la organización y marca un camino para ir mejorando ese proceso por niveles, del más caótico al más optimizado (responde "¿qué tan buenos somos y cómo mejoramos?"). La ISO 29119 es un estándar que te dice cómo hay que hacer y documentar las pruebas, sin medir tu madurez ni hacerte crecer (responde "¿cómo documentamos y ejecutamos cada prueba?"). Por eso TMMi es mejora de procesos y la 29119 es contenido o estándar.
 
 **9.** ¿Podrían TMMi e ISO 29119 ser utilizados de forma complementaria? Si es así, proporcioná un ejemplo de cómo una organización podría aplicar ambos.
 
@@ -197,19 +192,17 @@
 **10.** Explique si la expresión es verdadera o falsa y justifique: "los estándares de calidad del proceso para sistemas críticos deben requerir una especificación completa y aprobada antes de que comience la implementación". [1/1]
 
 > [!success]- Respuesta
-> **Verdadero**, justificado. ✅ *(Punto obtenido completo.)* En sistemas críticos la especificación debe estar completa y aprobada antes de implementar, para garantizar la calidad del proceso.
+> **Verdadero**. En sistemas críticos la especificación debe estar completa y aprobada antes de implementar, para garantizar la calidad del proceso.
 
 **11.** Explique si la expresión es verdadera o falsa y justifique: "Para mantener la calidad de software es importante seleccionar un modelo de calidad que no permita la administrar los atributos en el proceso de desarrollo".
 
 > [!success]- Respuesta
-> **Falso**, porque la calidad depende del proceso y debe poder adaptarse a distintos contextos y ciclos de vida (modelos como TMMi son genéricos y aplicables a distintos entornos). Es preferible **administrar** los atributos durante el desarrollo, no impedirlo. ✅
-> ✅ **Verificado:** el Módulo 2 dice textual: *"Para mantener la calidad de software es importante seleccionar un modelo de calidad que **permita** la administrar los atributos en el proceso de desarrollo"*. La afirmación del examen estaba **invertida** ("que no permita"), por lo que **Falso** es la respuesta correcta.
+> **Falso**, porque la calidad depende del proceso y debe poder adaptarse a distintos contextos y ciclos de vida. Es preferible **administrar** los atributos durante el desarrollo, no impedirlo. 
+
 
 **12.** Generar un Checklist de revisión del siguiente requerimiento usando solo una pregunta por cada criterio: Lenguaje, Ambigüedad y Conciso, como el aplicado en clase. **Requerimiento:** Diseñar un sistema de riego automático para un jardín promedio de una casa en una zona con clima templado. Considerar la eficiencia del agua y el costo, y proponer una solución que se pueda instalar fácilmente. La presentación final debe incluir un diagrama, un presupuesto detallado y una breve justificación de por qué tu diseño es superior a los métodos de riego manual tradicionales. [0/1]
 
 > [!success]- Respuesta
-> Tu respuesta (incompleta): Lenguaje → ¿usa términos claros y comprensibles para todos los interesados? Ambigüedad → ¿evita interpretaciones múltiples sobre cómo debe funcionar el sistema? (Conciso: faltó.)
-> ⚠️ **Corrección [0/1]:** faltó la tercera pregunta (criterio **Conciso**). Según el Módulo 2, un checklist eficiente debe ser **conciso y preciso** (no más de una página), **completo**, **genérico** y **consistente**. Las tres preguntas debían ser, una por criterio:
 > - **Lenguaje:** ¿El requerimiento usa términos claros y comprensibles para todos los interesados?
 > - **Ambigüedad:** ¿Evita interpretaciones múltiples sobre cómo debe funcionar el sistema (qué significa "jardín promedio", "fácil de instalar", "clima templado")?
 > - **Conciso:** ¿Expresa lo necesario sin información redundante ni rodeos?
@@ -217,36 +210,63 @@
 **13.** Definir la diferencia de Error guessing y Pairwise.
 
 > [!success]- Respuesta
-> Tu respuesta: ambas son técnicas de diseño de prueba de **caja negra** (se basan en la experiencia y los datos sin mirar el código interno).
-> ⚠️ **Corrección (Módulo 6):** aunque las dos son de caja negra, **no son lo mismo**.
-> - **Error guessing:** se basa en la intuición o experiencia sobre errores comunes en la organización (la historia de defectos ayuda mucho). Ejemplos típicos: listas o valores vacíos, cero, números negativos, valores con significado cultural u organizacional.
-> - **Pairwise:** intenta encontrar "clases de equivalencia" de conjuntos de valores. Como la combinatoria de todas las entradas es muy costosa, en lugar de probar todas las combinaciones prueba **todas las combinaciones de a pares**, reduciendo la cantidad de casos.
->
-> La respuesta original las agrupó sin marcar esta diferencia, por eso quedaba incompleta.
+> **Error guessing** se basa en la experiencia sobre errores comunes en la organizació mientras que **Pairwise** intenta encontrar "clases de equivalencia" de conjuntos de valores. Como la combinatoria de todas las entradas es muy costosa, en lugar de probar todas las combinaciones prueba **todas las combinaciones de a pares**, reduciendo la cantidad de casos.
 
 **14.** Explicar cada herramienta propuesta en la práctica de DevSecOps que cubra todo el ciclo.
 
 > [!success]- Respuesta
-> **CI/CD (integración continua / despliegue continuo):** gestionan y automatizan el flujo de trabajo, desde que el código se escribe hasta que se despliega.
-> *(Se continúa con el resto de herramientas por etapa del ciclo: repositorios y control de versiones, contenedores y orquestación, seguridad de aplicaciones/contenedores para análisis automatizado de vulnerabilidades, y monitoreo para vigilancia continua del sistema.)*
+> - CI/CD automatizan el flujo desde que se escribe el código hasta que se despliega. Los repositorios y control de versiones guardan el código y permiten volver atrás si algo se rompe (github / gitlab). 
+> - Los contenedores y la orquestación empaquetan la app para que corra igual en cualquier lado (docker / dockerhub).
+> - Las herramientas de seguridad revisan automáticamente el código en busca de vulnerabilidades tanto de manera dinamica como estatica. (OWASP ZAP / Fortify) 
+> - Y el monitoreo vigila el sistema ya desplegado para detectar fallas a tiempo. (New relic / datadog)
 
 **15.** Realizar los Casos de Prueba y lote de datos según la imagen adjunta (formulario "Crear Comunidad" con campos Nombre, CUIT, Tipo de Comunidad, Calle, Número, Código Postal, Provincia, Localidad/Barrio) como se aplicó en clase.
 
 > [!success]- Respuesta
-> Se diseñan los casos de prueba con dos ideas:
-> 1. **Clases de equivalencia:** agrupar los datos en válidos (lo que el sistema debería aceptar) e inválidos (lo que debería rechazar).
-> 2. **Análisis de borde:** probar justo los límites (mínimo, máximo), donde más fallan los programas.
+> ## Casos de Prueba – Formulario "Crear Comunidad"
+> - **CP1 – Alta válida:** Completar todos los campos con datos válidos y guardar → Comunidad creada.
+> - **CP2 – Nombre vacío:** Dejar Nombre en blanco, resto válido → Error: campo obligatorio.
+> - **CP3 – CUIT con formato incorrecto:** Ingresar CUIT sin formato válido → Error: formato de CUIT inválido.
+> - **CP4 – Número no numérico:** Ingresar texto en el campo Número → Error: solo valores numéricos.
+> - **CP5 – Código Postal longitud inválida:** Ingresar CP con menos dígitos de los requeridos → Error: CP inválido.
+> - **CP6 – Provincia no seleccionada:** Dejar Provincia sin seleccionar → Error: campo obligatorio.
+> - **CP7 – Campos en límite máximo:** Completar los campos con la cantidad máxima de caracteres permitida → Comunidad creada (borde).
+> - **CP8 – Caracteres especiales en Nombre:** Ingresar Nombre con caracteres especiales → Según regla de validación.
 >
-> **Caso de prueba:** registro de nueva comunidad. **Objetivo:** garantizar que solo se puedan crear comunidades con datos que cumplan estrictamente las reglas (longitud de nombre, formato de CUIT, número de calle). Ej. campo Nombre (alfanumérico, 3–50 caracteres): probar 2 (inválido por mínimo), 3 (válido), 50 (válido), 51 (inválido por máximo), vacío (inválido).
+> ## Lote de Datos de Prueba
+> - **Caso 1 – Válido:** Nombre: Lectores del Sur / CUIT: 30-71234567-8 / Tipo: Club de lectura / Calle: Av. Libertador / Número: 1450 / CP: 1640 / Provincia: Buenos Aires / Localidad: San Isidro → Comunidad creada
+> - **Caso 2 – Nombre vacío:** Nombre: / CUIT: 30-71234567-8 / Tipo: Editorial / Calle: Corrientes / Número: 800 / CP: 1043 / Provincia: CABA / Localidad: Balvanera → Error: campo obligatorio
+> - **Caso 3 – CUIT con formato incorrecto:** Nombre: Libros Norte / CUIT: 1234 / Tipo: Biblioteca / Calle: San Martín / Número: 250 / CP: 5000 / Provincia: Córdoba / Localidad: Centro → Error: formato de CUIT inválido
+> - **Caso 4 – Número no numérico:** Nombre: Páginas Abiertas / CUIT: 33-69876543-9 / Tipo: Club de lectura / Calle: Mitre / Número: abc / CP: 2000 / Provincia: Santa Fe / Localidad: Rosario → Error: solo valores numéricos
+> - **Caso 5 – Código Postal longitud inválida:** Nombre: Letras Vivas / CUIT: 30-70011223-4 / Tipo: Editorial / Calle: Belgrano / Número: 120 / CP: 99 / Provincia: Mendoza / Localidad: Godoy Cruz → Error: CP inválido
+> - **Caso 6 – Provincia no seleccionada:** Nombre: Comunidad Lectora / CUIT: 30-71234567-8 / Tipo: Biblioteca / Calle: Rivadavia / Número: 3000 / CP: 1424 / Provincia: / Localidad: Caballito → Error: campo obligatorio
+> - **Caso 7 – Campos en límite máximo:** Nombre: Asociación Cultural de Lectores Independientes Argentinos / CUIT: 30-71234567-8 / Tipo: Editorial / Calle: Avenida de los Constituyentes / Número: 99999 / CP: 9999 / Provincia: Tierra del Fuego / Localidad: Ushuaia → Comunidad creada (borde)
+> - **Caso 8 – Caracteres especiales en Nombre:** Nombre: Lectores #@! del Este / CUIT: 30-71234567-8 / Tipo: Club de lectura / Calle: Sarmiento / Número: 45 / CP: 1870 / Provincia: Buenos Aires / Localidad: Avellaneda → Según regla de validación
 
 **16.** Realizar los Casos de Prueba y lote de datos según la imagen adjunta (pantalla de login con Correo Electrónico, Contraseña, botón Ingresar y acceso con Google) como se aplicó en clase.
 
 > [!success]- Respuesta
-> **Caso de prueba:** verificar acceso al sistema con credenciales válidas.
-> **Lote de datos:**
-> - usuario válido + contraseña válida → acceso permitido.
-> - usuario válido + contraseña incorrecta → acceso denegado.
-> - usuario vacío → error de validación.
+> ## Casos de Prueba – Pantalla de Login
+> - **CP1 – Login válido:** Ingresar email y contraseña válidos y presionar Ingresar → Acceso exitoso, redirige al inicio.
+> - **CP2 – Email vacío:** Dejar email en blanco, contraseña válida, presionar Ingresar → Error: campo obligatorio.
+> - **CP3 – Contraseña vacía:** Email válido, contraseña en blanco, presionar Ingresar → Error: campo obligatorio.
+> - **CP4 – Ambos campos vacíos:** Dejar email y contraseña en blanco, presionar Ingresar → Error: campos obligatorios.
+> - **CP5 – Email con formato inválido:** Ingresar email sin formato válido, contraseña válida → Error: formato de email inválido.
+> - **CP6 – Contraseña incorrecta:** Email válido con contraseña errónea → Error: credenciales inválidas.
+> - **CP7 – Usuario inexistente:** Email no registrado, contraseña cualquiera → Error: credenciales inválidas.
+> - **CP8 – Acceso con Google válido:** Presionar "Acceso con Google" y autenticar cuenta válida → Acceso exitoso vía Google.
+> - **CP9 – Acceso con Google cancelado:** Presionar "Acceso con Google" y cancelar la autenticación → Permanece en login sin acceder.
+>
+> ## Lote de Datos de Prueba
+> - **D1:** Email: cliente@correo.com / Contraseña: Libro1234 → Acceso exitoso.
+> - **D2:** Email: (vacío) / Contraseña: Libro1234 → Error: campo obligatorio.
+> - **D3:** Email: cliente@correo.com / Contraseña: (vacío) → Error: campo obligatorio.
+> - **D4:** Email: (vacío) / Contraseña: (vacío) → Error: campos obligatorios.
+> - **D5:** Email: cliente.correo.com / Contraseña: Libro1234 → Error: formato de email inválido.
+> - **D6:** Email: cliente@correo.com / Contraseña: Wrong000 → Error: credenciales inválidas.
+> - **D7:** Email: nadie@correo.com / Contraseña: Libro1234 → Error: credenciales inválidas.
+> - **D8:** Cuenta Google: cliente@gmail.com (autenticación válida) → Acceso exitoso vía Google.
+> - **D9:** Cuenta Google: autenticación cancelada → Permanece en login.
 
 ---
 

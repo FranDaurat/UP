@@ -5,6 +5,15 @@
 >
 > Cada caja muestra la **respuesta entregada** en el examen y, en los puntos que el profe marcó mal, la **resolución corregida** (⚠️). Se excluyen los ejercicios de cálculo puro (Gantt, banquero) salvo donde hubo corrección numérica. La teoría de finales (2022–2024) va al final agrupada por tema, sin duplicar preguntas repetidas.
 
+> [!important] 🎯 Foco — Módulos 11 (Seguridad) y 12 (Protección y seguridad de hardware)
+> Las únicas preguntas del archivo que caen en estos módulos están en **Teoría de finales** y van marcadas con 🎯 en su enunciado:
+> - **T11** — Seguridad de los Sistemas Informáticos → *Módulo 11* (tríada CIA, 4 niveles físico/red/SO/aplicaciones, ataques externos e internos).
+> - **T12** — Dominios de protección → *Módulo 12* (pares objeto–derechos, matriz de acceso).
+> - **T13** — Protección en los Sistemas Informáticos → *Módulo 12* (mecanismos del SO, privilegio mínimo + compartimentación; el contraste protección/seguridad también está en el Módulo 11).
+> - **T15** — Ataques a los Sistemas Informáticos → *Módulo 11* (virus/gusanos, DoS, robo de identidad, robo de servicios).
+>
+> Los Parciales 1° y 2° **no** incluyen temas de estos módulos. Tangenciales (no centrales): T14 plataforma/middleware y T33 RAID/backup.
+
 ---
 
 ## Primer Parcial Virtual — 15/04/2026
@@ -203,38 +212,39 @@
 **T8.** ¿Los procesos concurrentes sobre los mismos datos se pueden ejecutar simultáneamente? Justifique.
 
 > [!success]- Respuesta
-> **Sí, pero necesitan la asistencia del SO** para sincronizarse y no corromper los datos. El SO les da un mecanismo (semáforos) que garantiza que cuando un proceso escribe sobre una parte de la memoria, el otro lea recién después (exclusión mutua sobre la sección crítica).
+> Los procesos se ejecutan concurrentemente, pero no acceden simultáneamente a los mismos datos. El SO los sincroniza mediante semáforos cuando un proceso ejecuta su sección crítica, el otro espera hasta que termine (exclusión mutua). Avanzan en paralelo salvo en la sección crítica, que es de a uno.
 
-**T9.** Explique la diferencia entre proceso y hebra (hilo). ¿Qué recursos se comparten en multihilo?
+**T9.** Explique la diferencia entre proceso y hilo. ¿Qué recursos se comparten en multihilo?
 
 > [!success]- Respuesta
-> Un **proceso** es un programa en ejecución, con su propio espacio de direcciones y su BCP. Una **hebra** es una unidad de ejecución dentro de un proceso; un proceso puede tener varias hebras, pero una hebra no contiene procesos. En **multihilo**, las hebras de un mismo proceso **comparten el código, los datos y los recursos** (memoria, archivos abiertos), y cada una tiene su propio **contador de programa, registros y pila**.
+> Un **proceso** es un programa en ejecución, con su propio espacio de direcciones y su BCP. Una **hilo** es una unidad de ejecución dentro de un proceso; un proceso puede tener varios hilos, pero un hilo no contiene procesos. En **multihilo**, los hilos de un mismo proceso **comparten el código, los datos y los recursos** (memoria, archivos abiertos), y cada hilo tiene su propio **contador de programa, registros y pila**.
 
 ### Arquitecturas y conceptos del SO
 
 **T10.** Mencione las arquitecturas de SO que conoce.
 
 > [!success]- Respuesta
-> - **Monolítica:** todo el SO es un gran programa sin estructura clara; todas las funciones corren en modo núcleo. Muy rápidos.
-> - **Por capas:** el SO se divide en capas con una función cada una; se comunican por puntos definidos y se construyen de abajo hacia arriba. Permite modificar una capa sin tocar las demás, pero el orden de llamado es rígido.
-> - **Microkernel:** el núcleo mantiene solo lo básico (interrupciones, cargar procesos) y el resto corre en modo usuario como servidores. Ocupa muy poco; si un servicio falla, no cae todo el sistema.
+> - **Monolítica:** todo el SO es un gran programa sin estructura clara; todas las funciones corren en modo núcleo. Muy rápidos pero mas caoticos en terminos de organizacion.
+> - **Por capas:** el SO se divide en capas con una función cada una. Permite modificar una capa sin tocar las demás, pero el orden de llamado es rígido y sacrifican un poco la velocidad.
+> - **Microkernel:** el núcleo mantiene solo lo básico y el resto corre en modo usuario como servidores. Ocupa muy poco; si un servicio falla, no cae todo el sistema.
 > - **Modulares:** usan módulos cargables al núcleo; más flexibles que las capas, porque un módulo puede llamar a cualquier otro sin orden fijo.
 > - **Híbridas:** combinan dos o más de las anteriores (las más usadas hoy).
 
-**T11.** ¿Qué entiende por Seguridad de los Sistemas Informáticos? Explique.
+**T11.** 🎯 **[Módulo 11 — Seguridad]** ¿Qué entiende por Seguridad de los Sistemas Informáticos? Explique.
 
 > [!success]- Respuesta
-> Es una **medida de confianza** en que se va a preservar la integridad del sistema y de sus datos. Defiende al sistema de ataques externos e internos. Para construir/evaluar un modelo de seguridad hay que plantear la **tríada CIA**: confidencialidad (que solo accedan los autorizados), integridad (que los datos no se alteren) y disponibilidad (que los recursos estén disponibles cuando se necesiten). Las medidas se toman en **4 niveles**: físico, de red, de sistema operativo y de aplicaciones.
+> Es una **medida de confianza** que consiste en preservar la integridad del sistema y de sus datos. Es decir, que los datos no se alteren ni modifiquen, y que el hardware no se dañe ni se impida acceder a él.
 
-**T12.** ¿Qué son los Dominios de protección? Explique.
+**T12.** 🎯 **[Módulo 12 — Protección]** ¿Qué son los Dominios de protección? Explique.
 
 > [!success]- Respuesta
 > Un **dominio de protección** está formado por un conjunto de pares **(objeto, derechos)**. Un objeto es cualquier cosa del sistema, hardware o software (archivo, impresora). A cada objeto se le asocia un derecho (lectura, escritura, ejecución). Un dominio puede ser un usuario o un proceso, e indica a qué objetos puede acceder y con qué derechos. Un mismo objeto puede pertenecer a varios dominios. El SO lo registra en la **matriz de acceso**.
 
-**T13.** Explique el significado de Protección en los Sistemas Informáticos.
+**T13.** 🎯 **[Módulo 12 — Protección]** Explique el significado de Protección en los Sistemas Informáticos.
 
 > [!success]- Respuesta
-> La **protección** es el conjunto de mecanismos que usa el SO para incrementar la seguridad. Es la política de uso de los recursos: qué usuario entra, a qué accede y qué puede ver. Es responsabilidad del SO y de las aplicaciones. Sus dos principios: **privilegio mínimo** (darle a cada usuario solo lo que necesita) y **compartimentación** (proteger cada recurso de forma individual).
+> La **protección** es el conjunto de mecanismos que usa el SO para asegurar la integridad e incrementar la seguridad del sistema. Esos mecanismos permiten aplicar por ejemplo la **política de uso de los recursos**: qué usuario entra, a qué accede y qué puede ver.  
+> Esta compuesta de dos principios: **privilegio mínimo** (darle a cada usuario solo lo que necesita) y **compartimentación** (cada recurso protegido de forma individual).
 
 **T14.** ¿Qué se entiende por plataforma? ¿Qué es el Middleware y qué finalidad tiene?
 
@@ -242,7 +252,7 @@
 > - **Plataforma:** el hardware del equipo junto con el sistema operativo; sobre ella corren las aplicaciones.
 > - **Middleware:** capa de software entre la plataforma y las aplicaciones, cuya finalidad es **compatibilizar distintas plataformas**. Si una aplicación se desarrolla sobre el middleware y ese middleware funciona sobre varias plataformas, la aplicación se diseña una sola vez y se usa en todas, porque el middleware se encarga de la compatibilidad.
 
-**T15.** ¿Cómo pueden ser los ataques a los Sistemas Informáticos?
+**T15.** 🎯 **[Módulo 11 — Seguridad]** ¿Cómo pueden ser los ataques a los Sistemas Informáticos?
 
 > [!success]- Respuesta
 > Se resumen en 4:
@@ -264,13 +274,13 @@
 **T17.** Explique qué es una operación atómica. ¿Las interrupciones que atiende el SO son atómicas?
 
 > [!success]- Respuesta
-> Una **operación atómica** es una secuencia de instrucciones **indivisible**: se ejecuta completa, sin poder interrumpirse a la mitad. Las interrupciones que atiende el SO **sí son atómicas**: una vez que el SO comienza a atender la interrupción, esa rutina se ejecuta de forma íntegra sin ser interrumpida.
+> Una **operación atómica** es una secuencia de instrucciones que se ejecuta de manera completa, sin poder interrumpirse a la mitad. Las interrupciones que atiende el SO **sí son atómicas**: una vez que el SO comienza a atender la interrupción, esa rutina se ejecuta de forma íntegra sin ser interrumpida. Sin embargo, en los sistemas de tiempo real donde el timepo de respuesta es critico, se pueden interrumpir las interrupciones si llega una tarea/interrupcion de mayor prioridad.
 
 **T18.** Explique qué es una comunicación directa y una indirecta.
 
 > [!success]- Respuesta
 > - **Directa:** los dos procesos se comunican nombrándose entre sí; un proceso le manda el mensaje directamente al otro (proceso a proceso).
-> - **Indirecta:** la comunicación se hace a través de un **buzón (mailbox)** intermedio. Un proceso deposita el mensaje y el otro lo retira. Hay que sincronizar varias cuestiones del buzón (tamaño, quién lo llena, quién lo vacía, permisos), porque no se puede guardar en un buzón lleno ni sacar de uno vacío. Ej.: al imprimir, los trabajos van a un buzón/buffer y de ahí a la impresora.
+> - **Indirecta:** la comunicación se hace a través de un **buzón (mailbox)** intermedio. Un proceso deposita el mensaje y el otro lo retira. Hay que sincronizar varias cuestiones del buzón (tamaño, quién lo llena, quién lo vacía, permisos), porque no se puede guardar en un buzón lleno ni sacar de uno vacío.
 
 **T19.** Explique qué es una comunicación sincrónica y una asincrónica.
 
@@ -293,7 +303,12 @@
 **T22.** Mencione y explique los algoritmos de planificación por prioridades que conoce.
 
 > [!success]- Respuesta
-> Atienden primero al proceso con mayor prioridad. Según el criterio: **SJF/SPN** (prioridad al de ráfaga más corta), **SRTF** (Shortest Remaining Time First, el de menor tiempo restante, con desalojo), y **prioridad explícita**. Todos comparten el problema de la **inanición** de los de baja prioridad, mitigado con **envejecimiento**. *(FCFS no es por prioridades: atiende por orden de llegada.)*
+> - **SJF (Shortest Job First):** sin desalojo. La prioridad es la próxima ráfaga más corta. Obliga a conocer de antemano el tamaño de la próxima ráfaga para poder compararlas.
+> - **SRTF (Shortest Remaining Time First):** con desalojo. Toma el tiempo remanente de la próxima ráfaga más corto. Es la versión con prioridad más fuerte que SJF.
+> - **SPN (Shortest Process Next):** sin desalojo. La prioridad es el proceso más corto primero, pero considerando el tiempo total de ejecución del proceso completo. Esa prioridad no se modifica mientras los procesos estén cargados.
+> - **HRRN (Tasa de respuesta):** la tasa de respuesta = (tiempo de espera + tiempo de ejecución) / tiempo de ejecución. Se elige primero el proceso con mayor tasa de respuesta, es decir, el que lleva más tiempo esperando.
+>
+> **Riesgo común:** todos los algoritmos por prioridades tienen riesgo de **inanición**. La solución es siempre la misma: **envejecimiento** (aging). 
 
 ### Memoria
 
@@ -365,7 +380,7 @@
 **T32.** Explique brevemente la técnica de DMA (Direct Memory Access) y qué beneficio aporta a la CPU.
 
 > [!success]- Respuesta
-> El **DMA** es acceso directo a memoria. Al transferir datos entre un dispositivo de E/S y la memoria principal, el módulo de E/S se convierte en **maestro del bus** y transmite los datos en ráfagas directamente desde/hacia la memoria. La CPU solo interviene al principio (inicia) y al final; durante la transferencia no participa. **Beneficio:** libera a la CPU, que puede dedicarse a otras tareas, mejorando el rendimiento.
+> El **DMA** es un procesador con acceso directo a memoria. Al transferir datos entre un dispositivo de E/S y la memoria principal, el módulo de E/S se convierte en **maestro del bus** y transmite los datos en ráfagas directamente desde/hacia la memoria. La CPU solo interviene al principio (inicia) y al final; durante la transferencia no participa. **Beneficio:** libera a la CPU, que puede dedicarse a otras tareas, mejorando el rendimiento.
 
 **T33.** ¿Qué es un sistema RAID y qué objetivo tiene? Explique.
 
@@ -423,12 +438,162 @@
 **T41.** Defina qué es la linkedición y explique las formas en que se puede realizar.
 
 > [!success]- Respuesta
-> La **linkedición** es el enlace de las librerías con el programa, que se hace **después de la compilación**. Formas:
-> - **Estático:** se copian las rutinas de las librerías dentro del programa final. Puede desperdiciar memoria si varias aplicaciones usan las mismas librerías (cada una lleva su copia).
-> - **Dinámico:** en lugar de copiar, se colocan **punteros** a las rutinas; el SO carga la librería en memoria una sola vez aunque la usen varios procesos (optimiza memoria).
-> - **Carga dinámica:** las librerías no se enlazan al programa final; en tiempo de ejecución el proceso solicita la carga de la librería cuando necesita una rutina, y la descarga cuando ya no la necesita.
+> La **linkedición** es el paso posterior a la compilacion que enlaza el programa con las librerias que necesita. 
+> **Estático:** todas las librerías se meten dentro del programa compilado, así que en ejecución no le pide nada al SO; cómodo, pero cada proceso lleva su propia copia y desperdicia memoria.
+> **Dinámico:** en vez de copiar las librerías se dejan colillas (llamadas) que apuntan a ellas; el SO las carga una sola vez en memoria y las comparten varios procesos.
+> **Carga dinámica:** el propio programador ubica, carga y convoca las librerías en tiempo de ejecución (sin herramienta del SO), trayéndolas solo cuando las necesita.
 
 ---
 
 > [!note] Cobertura
-> Primer Parcial Virtual (10) + Segundo Parcial Virtual (9, correcciones en P2 y P3) + Teoría de finales 2022–2024 (41 preguntas únicas agrupadas por tema). Correcciones numéricas del profe marcadas ⚠️ dentro de cada caja.
+> Primer Parcial Virtual (10) + Segundo Parcial Virtual (9, correcciones en P2 y P3) + Teoría de finales 2022–2024 (41 preguntas únicas agrupadas por tema) + Final Asincrónico 17/12/2025 (10 preguntas). Correcciones numéricas del profe marcadas ⚠️ dentro de cada caja.
+
+---
+
+## Final Asincrónico — 17/12/2025 (Ing. Arroyo Arzubi)
+
+> [!info] Final rendido (SISTEMASOPERATIVOS(ONLINE)_N_MI_18.00-17_12_2025). Se transcribe cada consigna con la **respuesta entregada** y la nota obtenida; donde el profe marcó mal o quedó sin responder va la **resolución corregida** (⚠️).
+
+**1.** Explique los distintos criterios para asegurar la consistencia de los archivos en modo multiusuario. *(1/1)*
+
+> [!success]- Respuesta
+> **Respuesta entregada (correcta):**
+> - **Consistencia de sesión:** el usuario que abre el archivo para escribir es el único que puede modificarlo; los demás solo pueden leerlo y no ven los cambios hasta que el archivo se guarda, garantizando que no existan modificaciones simultáneas que se contradigan.
+> - **Consistencia de archivos compartidos inmutables:** permite que varios usuarios abran y modifiquen un mismo archivo de manera concurrente, pero las restricciones se aplican a un nivel más fino (por ejemplo a nivel registro), lo que reduce conflictos y mantiene la coherencia de los datos compartidos entre los distintos procesos/usuarios.
+
+**2.** En la aplicación de semáforos para cumplir la condición **A (B OR C) D**, ¿qué semáforos hay que agregar? Estructura entregada — **A:** wait(a)/wait(x)/SC/signal(bc); **B:** wait(bc)/SC/signal(x); **C:** wait(bc)/SC/signal(x); **D:** wait(d)/wait(x)/SC/signal(bc). Opciones: A) proceso B signal(a); B) proceso C signal(a); C) proceso A signal(d); D) proceso D signal(a); E) proceso B signal(d); F) proceso C signal(d). *(0/1)*
+
+> [!success]- Respuesta
+> **Respuesta entregada:** B (en proceso C, signal(a)). → **MAL (0/1).**
+>
+> ⚠️ **CORRECCIÓN:** conviene mirar qué semáforos quedan **desbalanceados** (waits sin signal que los libere):
+> - **bc:** lo esperan B y C (2 wait) y lo señalan A y D (2 signal) → equilibrado.
+> - **x:** lo esperan A y D (2 wait) y lo señalan B y C (2 signal) → equilibrado.
+> - **a:** lo espera A (wait a) pero **nadie lo señala**.
+> - **d:** lo espera D (wait d) pero **nadie lo señala**.
+>
+> Entonces faltan exactamente **un signal(a)** y **un signal(d)**. Para respetar el orden A → (B o C) → D y cerrar el ciclo:
+> - **En el proceso A agregar signal(d)** → A habilita a D (A va antes que D). = **opción C.**
+> - **En el proceso D agregar signal(a)** → al terminar D reinicia a A. = **opción D.**
+>
+> **Respuesta correcta: C y D.** (El signal(bc) de A/D habilita a uno solo de B/C — el "OR" — y el signal(x) de B/C libera a A/D.)
+
+**3.** Explicar en qué consiste el método **Detección y Recuperación** (Bloqueo y Recuperación) usado para evitar el abrazo mortal. *(0,3/1 — comentario del profe: "MEZCLA DOS MÉTODOS")*
+
+> [!success]- Respuesta
+> Se **deja que el deadlock pueda ocurrir**. El sistema lo **detecta**  y, una vez detectado, **recupera** rompiendo el ciclo: aborta uno o más procesos, o les quita recursos y los devuelve al estado seguro. 
+
+**4.** Explique qué es la sección crítica. *(1/1)*
+
+> [!success]- Respuesta
+> La **sección crítica** es la parte del código de un proceso la cual accede a datos o recursos compartidos con otros procesos. Como varios procesos pueden ejecutarse de forma concurrente, el acceso simultáneo a esos datos puede generar inconsistencias; por eso el SO debe garantizar que **solo un proceso a la vez** ejecute su sección crítica. Mientras un proceso está dentro de ella, ningún otro puede ingresar, asegurando **exclusión mutua** y evitando errores derivados del acceso concurrente.
+
+**5.** Escriba la fórmula de **TAE** (tiempo de acceso efectivo a memoria), explique cada elemento que interviene y qué magnitudes de tiempo intervienen. *(0/1 — sin responder)*
+
+> [!success]- Respuesta
+> Quedó **sin responder** (0/1).
+> ⚠️ **RESOLUCIÓN (según la cátedra):** **TAE = TAM + 2 × TAD × P_fallo**
+> - **TAM** (Tiempo de Acceso a Memoria): tiempo que tarda en acceder a memoria principal.
+> - **TAD** (Tiempo de Acceso a Disco): tiempo de acceso a disco cuando la página no está en memoria.
+> - **2 × TAD:** representa el peor caso (al fallar, el SO va a disco a traer la página).
+> - **P_fallo:** probabilidad de que se produzca un fallo de página.
+>
+> **Magnitudes:** memoria en **nanosegundos** y disco en **milisegundos**.
+
+**6.** Aplicando el algoritmo **Óptimo** de reemplazo de páginas en memoria virtual, ¿qué página debe salir de la memoria principal ante el fallo que se presenta? Cadena: 7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1 (3 frames). *(1/1)*
+
+> [!success]- Respuesta
+> **Respuesta entregada: 4** (marcada correcta, 1/1). Es la misma cadena del Primer Parcial Virtual #8; el algoritmo Óptimo saca la página que **tardará más en volver a usarse**. En el fallo señalado en el diagrama la página que corresponde reemplazar es la **4**.
+
+**7.** Aplicando el algoritmo **SJF**, ¿a qué proceso corresponde asignarle el uso del procesador? T0 PA E:30 / E/S:40 / E:30 mseg — T20 PB E:20 / E/S:10 / E:20 mseg. Opciones: A) Proceso A; B) Proceso B. *(1/1)*
+
+> [!success]- Respuesta
+> **B — Proceso B** (correcta). SJF elige la ráfaga de CPU más corta: PB (20 mseg) < PA (30 mseg).
+
+**8.** 🎯 **[Módulo 11 — Seguridad]** ¿Cómo pueden ser los ataques a los Sistemas Informáticos? *(1/1)*
+
+> [!success]- Respuesta
+> **Respuesta entregada (correcta):**
+> - **Virus (y gusanos):** software que altera o daña el funcionamiento normal del sistema.
+> - **Denegación de servicios (DoS):** su objetivo es impedir la disponibilidad de los recursos.
+> - **Robo de identidad:** un atacante obtiene información para suplantar a un usuario legítimo.
+> - **Robo de servicios:** ocurre cuando un atacante utiliza recursos del sistema sin autorización, afectando la disponibilidad y la integridad del mismo.
+
+**9.** Aplicando el algoritmo **LRU** (menos recientemente usada) de reemplazo de página en memoria virtual, ¿qué página debe salir ante el fallo que se presenta? Cadena: 7 0 1 2 0 3 0 4 2 (3 frames + pila). *(1/1)*
+
+> [!success]- Respuesta
+> **Respuesta entregada: 3** (marcada correcta, 1/1). LRU reemplaza la página que hace más tiempo que no se usa (la del **fondo de la pila**); en el fallo señalado esa página es la **3**.
+
+**10.** Mencione y explique cuáles son las principales funciones de un sistema operativo. *(1/1)*
+
+> [!success]- Respuesta
+> - **Gestión de recursos:** administra y asigna los recursos del sistema (CPU, memoria, dispositivos) a los procesos que los necesitan.
+> - **Ejecución de servicios para los programas:** los programas le piden al SO todo lo que necesitan, y el SO se los otorga.
+> - **Ejecución de los mandatos de usuario:** permite al usuario controlar el SO mediante comandos (shell) o la interfaz.
+> - **Abstracción:** oculta la complejidad del hardware y le da a cada usuario una visión independiente del sistema de cómputo.
+> - **Aislamiento:** permite que cada usuario use el mismo SO de forma independiente, sin que se filtren sus datos (seguridad).
+
+
+## Final Asincrónico — 01/07/2026 (Ing. Arroyo Arzubi)1
+
+---
+
+**6.** Explique qué es la matriz de acceso y cuáles son sus formas de implementación. 
+
+> [!success]- Respuesta
+> - **Matriz de acceso:** estructura que usa el SO para registrar, por cada **dominio** (usuario o proceso), a qué **objetos** puede acceder y con qué **derechos**.
+> - **Formas de implementación:**
+> - **Tabla global:** una sola tabla con todas las ternas dominio–objeto–permiso. Enorme y costosa.
+> - **Lista de control de acceso:** la lista se asocia a cada **objeto** (qué dominios lo usan y cómo).
+> - **Lista de capacidades:** la lista se asocia a cada **dominio** (qué objetos usa y cómo). Es el esquema inverso.
+> - **Llave de bloqueo:** cerradura en los objetos y llave en los dominios; si la llave coincide, entra.
+
+**7.** Explique los algoritmos de planificación de disco LOOK y C-LOOK. 
+> [!success]- Respuesta
+> - **LOOK:** es similar al SCAN, pero **no llega hasta los extremos** del disco (ni el superior ni el inferior). Atiende las pistas subiendo hasta la última pedida, y de ahí cambia de sentido hacia la siguiente pista requerida más abajo atendiendo en la bajada.
+> - **C-LOOK:** es similar al C-SCAN, pero tampoco llega a los extremos. Atiende las pistas en **un solo sentido** hasta la última requerida, luego baja hasta la pista más baja pedida y vuelve a atender solamente en ese mismo sentido sin atender en la bajada.
+
+**8.** ¿Los sistemas de tiempo compartido o multiusuario hacen multiprogramación? 
+
+> [!success]- Respuesta
+> - **Sí**, es una forma de multiprogramación: hay varios procesos de usuarios cargados en memoria principal que alternan el uso del procesador. Lo que cambia es el objetivo: en la multiprogramación "pura" es maximizar el uso de la CPU, mientras que en el tiempo compartido es atender a los usuarios de la forma más equitativa posible. Por eso se le da a cada usuario un quantum de tiempo igual para todos.
+
+**9.** Clasifique los procesos según sus interacciones (independientes y cooperativos). 
+> [!success]- Respuesta
+> - **Independientes:** se ejecutan sin interactuar, colaborar ni necesitar de otros procesos. Son los más cómodos de administrar: el SO los ejecuta cuando quiere, sin tener en cuenta nada más.
+> - **Cooperativos:** fueron diseñados para trabajar conjuntamente en una determinada actividad; requieren cooperación. Se subdividen en:
+> 	- **Concurrentes:** se pueden ejecutar en paralelo (por ejemplo, en 2 procesadores).
+> 	- **Complementarios:** requieren un determinado orden para ejecutarse (ej.: B solo se ejecuta si antes se ejecutó A) → necesitan sincronización, que el SO debe respetar.
+
+**10.** Explique la asignación contigua del espacio de archivos. 
+
+> [!success]- Respuesta
+> Al archivo se le dan bloques uno pegado al otro (adyacentes) en el disco, y el directorio guarda el bloque de inicio y la longitud (cantidad de bloques) de cada archivo. Su inconveniente principal es que los archivos crecen y puede no haber espacio libre contiguo al lado; en ese caso hay que trasladar todo el archivo a otra zona con suficientes bloques contiguos, lo cual es costoso e ineficiente.
+
+Seguridad multinivel — ¿cuáles son?
+
+> [!success]- Respuesta
+> Existen 2 alternativas. Bell-LaPadula prioriza el secreto: un nivel no puede leer hacia arriba, pero sí puede escribir hacia arriba; sí puede leer hacia abajo; y con los pares lee y escribe libremente. El esquema inverso prioriza que toda la cadena se entere de lo que hace cada nivel: un nivel inferior sí puede leer lo que hace el superior, pero no puede escribirle.
+
+Bloqueo y recuperación — mecanismos
+
+> [!success]- Respuesta
+> Es uno de los métodos para tratar el abrazo mortal. Cuando el SO se encuentra con un proceso que no se puede ejecutar por falta de recursos, lo saca del sistema, libera sus recursos para que otros procesos avancen, y lo hace volver a ingresar más adelante. No es la solución ideal, pero es una solución válida.
+
+¿Qué es un proceso y qué tiene que ver con el BCP?
+> [!success]- Respuesta
+> Un proceso es un programa en ejecución. El programa vive en memoria secundaria y el proceso nace cuando se lo pone a ejecutar y muere cuando termina. La relación con el BCP es directa. Un programa se convierte en proceso cuando el SO le agrega el Bloque de Control de Proceso (BCP), que es el espacio donde el SO guarda toda la información que necesita para administrarlo (nombre, tamaño, dueño, prioridad, memoria que ocupa, archivos que necesita, más datos estadísticos de uso durante su ejecución).
+
+Técnica de vector o mapa de bits
+> [!success]- Respuesta
+> - **Vector / mapa de bits:** es una técnica para gestionar los **bloques libres y ocupados** del disco. Se dedican los **primeros bloques** del disco al mapa.
+> - Cada **bit** del mapa está asociado a **un bloque** del disco: su valor (0 o 1) indica si ese bloque está **libre u ocupado**.
+> - Por lo tanto, la cantidad de bits del mapa es igual a la cantidad de bloques del disco; el tamaño del mapa depende del tamaño del disco.
+
+Regiones críticas
+> [!success]- Respuesta
+> La **Región crítica** es una facilidad que dan los lenguajes para proteger la sección crítica (no es lo mismo: la sección crítica es el código que accede al dato compartido, la región crítica es un mecanismo para protegerla). Consiste en definir una región con una variable booleana que se consulta para decidir si un proceso puede entrar. Es una de las 3 formas de proteger la sección crítica, junto con semáforos y monitores.
+
+Qué es el DMA? ¿Puede acceder a la memoria?
+> [!success]- Respuesta
+> El DMA (Acceso Directo a Memoria) es un procesador dedicado que transfiere datos de entrada/salida entre los dispositivos (disco, teclado, mouse, etc.) y la memoria principal sin la intervención de la CPU. Sí, tiene acceso directo a la memoria. Hace la transferencia por sí solo y, cuando termina, le avisa a la CPU que los datos ya están disponibles, aliviándola de esa tarea y aumentando la eficiencia en el uso de la CPU.
