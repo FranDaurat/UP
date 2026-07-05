@@ -1,4 +1,3 @@
-# Parciales y Final — Sistemas Operativos (2026-1C, prof. Arzubi)
 
 > [!tip] Cómo usar este archivo
 > Leé cada consigna, respondela mentalmente o en voz alta, y recién después desplegá la caja **▸ Respuesta** para verificar. Las cajas están colapsadas por defecto.
@@ -83,8 +82,6 @@
 ---
 
 ## Segundo Parcial Virtual
-
-**1.** Explique qué es un Sistema Distribuido y qué es un Sistema Operativo Distribuido.
 
 > [!success]- Respuesta
 > Un **sistema distribuido** es un conjunto de equipos conectados por una red que trabajan en conjunto para alcanzar un objetivo en común. Un **sistema operativo distribuido** es el software que se ocupa de representar mediante una interfaz sencilla a estos equipos para facilitar su uso. *(La última palabra quedaba cortada en la captura.)*
@@ -570,30 +567,30 @@
 > [!success]- Respuesta
 > Al archivo se le dan bloques uno pegado al otro (adyacentes) en el disco, y el directorio guarda el bloque de inicio y la longitud (cantidad de bloques) de cada archivo. Su inconveniente principal es que los archivos crecen y puede no haber espacio libre contiguo al lado; en ese caso hay que trasladar todo el archivo a otra zona con suficientes bloques contiguos, lo cual es costoso e ineficiente.
 
-Seguridad multinivel — ¿cuáles son?
+11. Seguridad multinivel — ¿cuáles son?
 
 > [!success]- Respuesta
 > Existen 2 alternativas. Bell-LaPadula prioriza el secreto: un nivel no puede leer hacia arriba, pero sí puede escribir hacia arriba; sí puede leer hacia abajo; y con los pares lee y escribe libremente. El esquema inverso prioriza que toda la cadena se entere de lo que hace cada nivel: un nivel inferior sí puede leer lo que hace el superior, pero no puede escribirle.
 
-Bloqueo y recuperación — mecanismos
+12. Bloqueo y recuperación — mecanismos
 
 > [!success]- Respuesta
 > Es uno de los métodos para tratar el abrazo mortal. Cuando el SO se encuentra con un proceso que no se puede ejecutar por falta de recursos, lo saca del sistema, libera sus recursos para que otros procesos avancen, y lo hace volver a ingresar más adelante. No es la solución ideal, pero es una solución válida.
 
-¿Qué es un proceso y qué tiene que ver con el BCP?
+13. ¿Qué es un proceso y qué tiene que ver con el BCP?
 > [!success]- Respuesta
 > Un proceso es un programa en ejecución. El programa vive en memoria secundaria y el proceso nace cuando se lo pone a ejecutar y muere cuando termina. La relación con el BCP es directa. Un programa se convierte en proceso cuando el SO le agrega el Bloque de Control de Proceso (BCP), que es el espacio donde el SO guarda toda la información que necesita para administrarlo (nombre, tamaño, dueño, prioridad, memoria que ocupa, archivos que necesita, más datos estadísticos de uso durante su ejecución).
 
-Técnica de vector o mapa de bits
+14. Técnica de vector o mapa de bits
 > [!success]- Respuesta
 > - **Vector / mapa de bits:** es una técnica para gestionar los **bloques libres y ocupados** del disco. Se dedican los **primeros bloques** del disco al mapa.
 > - Cada **bit** del mapa está asociado a **un bloque** del disco: su valor (0 o 1) indica si ese bloque está **libre u ocupado**.
 > - Por lo tanto, la cantidad de bits del mapa es igual a la cantidad de bloques del disco; el tamaño del mapa depende del tamaño del disco.
 
-Regiones críticas
+15. Regiones críticas
 > [!success]- Respuesta
 > La **Región crítica** es una facilidad que dan los lenguajes para proteger la sección crítica (no es lo mismo: la sección crítica es el código que accede al dato compartido, la región crítica es un mecanismo para protegerla). Consiste en definir una región con una variable booleana que se consulta para decidir si un proceso puede entrar. Es una de las 3 formas de proteger la sección crítica, junto con semáforos y monitores.
 
-Qué es el DMA? ¿Puede acceder a la memoria?
+16. Qué es el DMA? ¿Puede acceder a la memoria?
 > [!success]- Respuesta
 > El DMA (Acceso Directo a Memoria) es un procesador dedicado que transfiere datos de entrada/salida entre los dispositivos (disco, teclado, mouse, etc.) y la memoria principal sin la intervención de la CPU. Sí, tiene acceso directo a la memoria. Hace la transferencia por sí solo y, cuando termina, le avisa a la CPU que los datos ya están disponibles, aliviándola de esa tarea y aumentando la eficiencia en el uso de la CPU.
