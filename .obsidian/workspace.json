@@ -142,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Etc"
+              "title": "Outgoing links"
             }
           },
           {
@@ -198,14 +197,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "354a241c01543a78",
+  "active": "2ff2473fa8c4ca41",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled.md",
     "Tercer Año/Primer Cuatrimestre/SisOps/Parciales y Final - SisOps.md",
     "Etc.md",
     "Untitled 1.md",
     "Tercer Año/Primer Cuatrimestre/DevOps/Defensa.md",
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Final.md",
-    "Untitled.md",
     "Material/testing_qa/final/test/final-wpp1.zip",
     "Material/testing_qa/final/test/WhatsApp Image 2026-06-16 at 9.59.36 PM.jpeg",
     "Material/testing_qa/final/test/WhatsApp Image 2026-06-16 at 9.59.35 PM.jpeg",
@@ -244,7 +244,6 @@
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 6  - Dominio de desempeño de la entrega.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 2 - Calidad del Software.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 1 - Atributos de calidad del software.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 5 - Gestion de los interesados.md"
+    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md"
   ]
 }
