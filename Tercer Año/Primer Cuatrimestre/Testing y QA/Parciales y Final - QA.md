@@ -113,7 +113,7 @@
 **9.** Explicar, con un ejemplo, una fortaleza en la ISO/IEC 29119.
 
 > [!success]- Respuesta
-> Una fortaleza podría ser haber implementado una prueba de **CI/CD** en la organización, para que antes de deployar el código en producción se pruebe que se implementará correctamente. Le ahorra a la empresa posibles problemas en producción, quejas y costos.
+> Una fortaleza de la ISO/IEC 29119 es su enfoque a riesgos: en lugar de probar todo por igual, propone priorizar las pruebas según qué tan grave sería que algo falle. Por ejemplo, en el e-commerce de EMPRESA conviene probar primero y con más profundidad el módulo de pagos, porque un error ahí significa plata perdida, y dejar en segundo plano la búsqueda de libros, donde una falla molesta pero no causa daño grave.
 
 **10.** Explicar, con un ejemplo, cómo sería una Prueba de Aceptación del Usuario.
 

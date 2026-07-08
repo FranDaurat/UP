@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+Fal# Parciales y Final — Sistemas Operativos (2026-1C, prof. Arzubi)
+=======
+>>>>>>> c67f9e88fbc78f9157e1d6617e54c7ef09ce57b4
 
 > [!tip] Cómo usar este archivo
 > Leé cada consigna, respondela mentalmente o en voz alta, y recién después desplegá la caja **▸ Respuesta** para verificar. Las cajas están colapsadas por defecto.
@@ -300,8 +304,8 @@
 **T22.** Mencione y explique los algoritmos de planificación por prioridades que conoce.
 
 > [!success]- Respuesta
-> - **SJF (Shortest Job First):** sin desalojo. La prioridad es la próxima ráfaga más corta. Obliga a conocer de antemano el tamaño de la próxima ráfaga para poder compararlas.
-> - **SRTF (Shortest Remaining Time First):** con desalojo. Toma el tiempo remanente de la próxima ráfaga más corto. Es la versión con prioridad más fuerte que SJF.
+> - **SJF (Shortest Job First):** toma la **próxima ráfaga más corta**. Sin desalojo.
+> - **SRTF (Shortest Remaining Time First):** Toma el proceso con menor **tiempo restante de la próxima ráfaga**. Con desalojo.
 > - **SPN (Shortest Process Next):** sin desalojo. La prioridad es el proceso más corto primero, pero considerando el tiempo total de ejecución del proceso completo. Esa prioridad no se modifica mientras los procesos estén cargados.
 > - **HRRN (Tasa de respuesta):** la tasa de respuesta = (tiempo de espera + tiempo de ejecución) / tiempo de ejecución. Se elige primero el proceso con mayor tasa de respuesta, es decir, el que lleva más tiempo esperando.
 >
@@ -531,7 +535,7 @@
 > - **Aislamiento:** permite que cada usuario use el mismo SO de forma independiente, sin que se filtren sus datos (seguridad).
 
 
-## Final Asincrónico — 01/07/2026 (Ing. Arroyo Arzubi)1
+## Final Asincrónico — 01/07/2026 (Ing. Arroyo Arzubi)
 
 ---
 

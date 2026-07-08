@@ -14,5 +14,4 @@ Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otr
 Cudek ---> alto profesor
 -- -
 ## Finales
-
 13/07 ---> Auditoria (14hs)
