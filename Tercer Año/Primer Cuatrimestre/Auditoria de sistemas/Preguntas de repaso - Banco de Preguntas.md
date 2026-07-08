@@ -92,14 +92,10 @@
 
 **1.** No basta con "tener seguridad". Explique por qué la norma ISO 27001 se enfoca en un Sistema de Gestión (SGSI) y no solo en herramientas técnicas. ¿Qué valor aporta la "mejora continua" en este contexto?
 
-
 > [!success]- Respuesta
 > Las herramientas tecnicas no bastan por si solas ya que no garantizan proteccion. La ISO 27001 se basa en el ciclo PDCA  (Plan->Do->Check->Act) para gestionar la seguridad como un proceso continuo. La mejora continua es fundamental para mantener la eficacia del sistema frente a un entorno cambiante, en lugar de congelarse en el estado del dia de la certficiacion permitiendo asi detectar y corregir desviaciones antes de que ocurran incidentes.
 
 **2.** La norma ISO requiere compromiso de la alta dirección. ¿Qué evidencia buscaría usted como auditor para verificar que la gerencia realmente apoya el SGSI y no es solo papel mojado?
-
-> [!success]- Respuesta
-> Buscaría evidencia tangible de que el apoyo no es "papel mojado": la Política de Seguridad aprobada y firmada por la dirección y revisada periódicamente; actas de revisiones por la Dirección donde se traten resultados, incidentes y mejoras; asignación documentada de recursos y presupuesto; definición de roles y un responsable de seguridad designado; aprobación de la SOA y del análisis de riesgos; y programas de formación y concientización impulsados desde arriba. Objetivos de seguridad medibles con seguimiento, y decisiones tomadas a partir de las revisiones, demuestran compromiso real y no declarativo.
 
 > [!success]- Respuesta
 > Como auditor buscaria evidencia tangible. Como por ejemplo la politica de seguridad de la informacion formalmente firmada, actas de revisiones de la direccion, asignacion de presupuesto y programas de formacion impulsados por ellos. Todo esto demuestra un compromiso real. 

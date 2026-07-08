@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etc.md",
+                "file": "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Etc"
+              "title": "Preguntas de repaso - Banco de Preguntas"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etc.md",
+                "file": "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Etc"
+              "title": "Backlinks for Preguntas de repaso - Banco de Preguntas"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "4c0a401b713aa266",
   "lastOpenFiles": [
-    "Untitled.md",
     "Etc.md",
+    "Untitled.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.3a5138e5700b",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.6de72e98697d",
