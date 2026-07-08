@@ -92,27 +92,23 @@
 
 **1.** No basta con "tener seguridad". Explique por qué la norma ISO 27001 se enfoca en un Sistema de Gestión (SGSI) y no solo en herramientas técnicas. ¿Qué valor aporta la "mejora continua" en este contexto?
 
-
 > [!success]- Respuesta
 > Las herramientas tecnicas no bastan por si solas ya que no garantizan proteccion. La ISO 27001 se basa en el ciclo PDCA  (Plan->Do->Check->Act) para gestionar la seguridad como un proceso continuo. La mejora continua es fundamental para mantener la eficacia del sistema frente a un entorno cambiante, en lugar de congelarse en el estado del dia de la certficiacion permitiendo asi detectar y corregir desviaciones antes de que ocurran incidentes.
 
 **2.** La norma ISO requiere compromiso de la alta dirección. ¿Qué evidencia buscaría usted como auditor para verificar que la gerencia realmente apoya el SGSI y no es solo papel mojado?
 
 > [!success]- Respuesta
-> Buscaría evidencia tangible de que el apoyo no es "papel mojado": la Política de Seguridad aprobada y firmada por la dirección y revisada periódicamente; actas de revisiones por la Dirección donde se traten resultados, incidentes y mejoras; asignación documentada de recursos y presupuesto; definición de roles y un responsable de seguridad designado; aprobación de la SOA y del análisis de riesgos; y programas de formación y concientización impulsados desde arriba. Objetivos de seguridad medibles con seguimiento, y decisiones tomadas a partir de las revisiones, demuestran compromiso real y no declarativo.
-
-> [!success]- Respuesta
-> Como auditor buscaria evidencia tangible. Como por ejemplo la politica de seguridad de la informacion formalmente firmada, actas de revisiones de la direccion, asignacion de presupuesto y programas de formacion impulsados por ellos. Todo esto demuestra un compromiso real. 
+> Como auditor buscaria evidencia tangible. Como por ejemplo la politica de seguridad de la informacion formalmente firmada, que hayan actas de revisiones de la direccion, una correcta asignacion de presupuesto y programas de formacion impulsados por ellos. Demostrando asi un compromiso real por parte de la alta direccion. 
 
 **3.** ¿Cómo auditor, qué evidencia solicitaría para verificar que el principio de "Integridad" de la triada CIA se cumple en una base de datos de nómina?
 
 > [!success]- Respuesta
-> Para verificar esto me aseguraria de 3 cosas. Revisaria quien tiene acceso para modificar los datos, es decir, revisaria la matriz de permisos. Segundo, revisaria los logs para ver quien toco que y cuando. Y por ulitmo verificaria el uso de funciones hash con algoritmos actualizados como sha-256 o AES. Todas estas son evidencias de cumplimiento del principio de integridad. 
+> Para verificar esto me aseguraria de 3 cosas. Primero, revisaria quien tiene acceso para modificar los datos, es decir, revisaria la matriz de permisos. Segundo, revisaria los logs para ver quien toco que y cuando. Y por ulitmo verificaria el uso de funciones hash con algoritmos actualizados como sha-256 o AES. Todas estas son evidencias de cumplimiento del principio de integridad. 
 
 **4.** Un auditor descubre una vulnerabilidad crítica en el sistema de un cliente que también afecta a otros bancos (que no son sus clientes). Según el código de ética profesional, ¿cuál es el curso de acción correcto? Analice el dilema entre confidencialidad del cliente e interés público.
 
 > [!success]- Respuesta
->El auditor mantiene la confidencialidad salvo que la ley exija divulgar, y a la vez sirve a las partes de modo legal y honesto. El curso correcto es primero informar al cliente y trabajar con él para que remedie la vulnerabilidad, sin revelar sus datos a terceros. Si el riesgo público es grave y el cliente no actúa, se genera la alerta por vías legales o regulatorias apropiadas, nunca divulgando  detalles que expongan al cliente. La clave es equilibrar ambos deberes con integridad y legalidad.
+>El curso correcto es primero informar al cliente y trabajar con él para que remedie la vulnerabilidad, sin revelar sus datos a terceros. Si el riesgo público es grave y el cliente no actúa, se genera la alerta por vías legales o regulatorias apropiadas, nunca divulgando detalles que expongan al cliente. La clave es equilibrar ambos deberes con integridad y legalidad.
 
 **5.** Usted es consultor de seguridad para la empresa A y auditor para la empresa B. La empresa B quiere comprar a la A. ¿Existe un conflicto ético si usted realiza la Due Diligence tecnológica? Justifique.
 
@@ -151,25 +147,12 @@
 **1.** Describa un escenario empresarial donde la Disponibilidad deba priorizarse críticamente sobre la Confidencialidad. Justifique su decisión basándose en el impacto al negocio.
 
 > [!success]- Respuesta
-> Un e-commerce en un evento de ventas pico (Hot Sale): su información visible (catálogo, precios) es pública, así que una fuga casi no lo daña, pero cada minuto caído es venta perdida, clientes que se van a la competencia y daño a la imagen. Por eso la disponibilidad se prioriza: el negocio tolera muy poco tiempo sin operar y el impacto económico de una caída es mucho mayor que el de una fuga. No se abandona la confidencialidad (los datos de clientes siguen protegidos); se invierte más donde el impacto al negocio es mayor.
+> Un sistema médico de emergencias: acá lo más importante es que el sistema esté siempre disponible, porque si se cae en una emergencia pueden perderse vidas. Un médico que no puede ver a tiempo las alergias o la medicación de un paciente puede cometer un error grave e irreversible. En cambio, si se filtran datos de un paciente el daño es serio pero se puede reparar con el tiempo. Como una vida no se recupera, se prioriza que el sistema nunca deje de funcionar. Esto no significa dejar de proteger los datos, sino poner el mayor esfuerzo donde el impacto es más grave.
 
 **2.** Una pequeña tienda online afirma que no necesita cumplir con PCI-DSS porque "terceriza" los pagos con una pasarela (como PayPal). ¿Es esta afirmación correcta? Argumente basándose en el alcance de la norma.
 
 > [!success]- Respuesta
-> Es incorrecta. PCI-DSS alcanza a toda empresa que participa en pagos con tarjeta, aunque no guarde los datos. Tercerizar con una pasarela reduce las obligaciones pero no las elimina: se delega la operación, no la responsabilidad. La tienda sigue debiendo usar una pasarela certificada, proteger su propio sitio (si se lo hackean, pueden desviar el pago y robar tarjetas igual) y completar el cuestionario de autoevaluación que le corresponde. Mismo principio de siempre en cumplimiento: aunque el proceso lo haga un tercero, la empresa responde y debe poder demostrarlo.
-
----
-
-### Examen rendido — 07/07/2026 (10 preguntas)
-
-> [!info] Marcas de esta subsección
-> Preguntas tomadas en el final del 07/07/2026 (numeradas según el enunciado original del examen). Ninguna figura textualmente en el resto del banco.
-> - 🆕 *(tema nuevo)* → no estaba en el banco, pero el tema sí está en el material de la cátedra.
-> - 🔁 *(solapa)* → comparte contenido con otra pregunta del banco (se indica cuál).
-> - 📕 *(fuera del material)* → el tema **no aparece** en los PDFs de la cátedra; la respuesta se basa en conocimiento externo.
-
-> [!warning] Ojo: buena parte de este final toca temas fuera del material
-> Verificado por búsqueda en los 22 módulos. **No aparecen en ningún PDF:** pentesting / defensa en profundidad (P6), IAM / nube / entornos híbridos (P9), ransomware / supply chain / resiliencia (P11) y COBIT **2019** (P5 — el material solo trae "COBIT 5"). **Parcialmente ausentes:** el término *segregación de funciones* (P4, aunque sí están "controles de acceso" e "incompatibilidades del auditor/SOX") y *programa de gestión de incidentes* / *frecuencia de revisiones* (P8 y P10, derivables del enfoque de riesgo pero no desarrollados como tema). **Sí cubiertos:** control interno basado en riesgos (P3), BCP/DRP con RPO/RTO/MTPD (P7) y evidencia/muestreo/logs con ACL-CAAT (P12).
+> Es incorrecta. PCI-DSS alcanza a toda empresa que participa en pagos con tarjeta, aunque no guarde los datos. Tercerizar con una pasarela reduce las obligaciones pero no las elimina ya que se delega la operación, no la responsabilidad. La tienda sigue debiendo usar una pasarela certificada, proteger su propio sitio y completar el cuestionario de autoevaluación que le corresponde. Se debe aplicar el mismo principio de siempre en el cumplimiento aunque el proceso lo haga un tercero, la empresa responde y debe poder demostrarlo.
 
 **3.** 🆕 Explique el modelo de control interno basado en riesgos y cómo se aplica en una auditoría de sistemas para garantizar la confiabilidad de la información y la protección de activos.
 
@@ -191,7 +174,7 @@
 > [!success]- Respuesta
 > Un pentest ético sigue tres etapas. Planificación: se define el alcance y los objetivos, y se firma la autorización de qué se puede atacar y qué no. Ejecución: se prueban las defensas capa por capa —firewall, antivirus, accesos, segmentación de red— para ver si frenan al atacante o lo dejan pasar. Informe: se documentan las vulnerabilidades encontradas con evidencia confiable y se recomiendan mejoras. La "defensa en profundidad" es tener varias capas de protección para que, si una falla, otra lo detenga; el pentest verifica que esas capas realmente funcionen.
 
-**7.** Explique cómo diseñarían un programa de continuidad del negocio y recuperación ante desastres enfocado en sistemas críticos de TI.
+**7.** 🆕 Explique cómo diseñarían un programa de continuidad del negocio y recuperación ante desastres enfocado en sistemas críticos de TI.
 
 > [!success]- Respuesta
 > En sistemas críticos se diseña para perder lo mínimo posible: RPO cercano a 0 (casi no perder datos) y RTO muy corto (levantar rapidísimo), porque el MTPD que toleran es muy bajo. Para eso conviene tener el sistema replicado y listo para arrancar (esquema "hot", una copia casi idéntica que solo se conecta), no uno que haya que armar de cero. El BCP define cómo sigue operando el negocio y el DRP, dentro de él, cómo se recupera la infraestructura de TI. Ejemplo: un banco no puede perder transacciones, así que necesita procedimientos claros para que todos, del cajero al gerente de TI, sepan qué hacer ante una caída.
@@ -216,7 +199,7 @@
 > [!success]- Respuesta
 > Las pruebas de auditoría sirven para ver si un sistema crítico aguantaría estos ataques. El auditor busca por dónde podría entrar un ransomware o un ataque a la cadena de proveedores, identifica las vulnerabilidades y las comunica a la dirección para que las corrija antes de que ocurra el incidente. En sistemas críticos, que toleran muy poca interrupción, esto es clave: la auditoría mide la resiliencia (capacidad de resistir y recuperarse) y empuja a reforzar backups, controles de acceso y el control sobre los proveedores.
 
-**12.** Proponga un marco de evidencia y muestreo para auditar la integridad y confiabilidad de los datos en un sistema de información, incluyendo técnicas para evaluar la integridad de datos y las prácticas de registro (logging).
+**12.** 🆕 Proponga un marco de evidencia y muestreo para auditar la integridad y confiabilidad de los datos en un sistema de información, incluyendo técnicas para evaluar la integridad de datos y las prácticas de registro (logging).
 
 > [!success]- Respuesta
 > La evidencia tiene que ser confiable, objetiva, suficiente e íntegra (sin alteraciones). Como no se puede revisar todo, se toma una muestra representativa de registros y se analiza. Se revisan los logs de acceso y de cambios para ver quién tocó qué y cuándo, buscando delete, update o insert sospechosos que hagan dudar de los datos. Herramientas tipo ACL/CAAT ayudan a analizar grandes volúmenes. La clave es cruzar la muestra con los registros para confirmar que los datos no fueron modificados indebidamente.
