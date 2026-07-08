@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Preguntas de repaso - Banco de Preguntas"
             }
+          },
+          {
+            "id": "32f674a70278c59f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preguntas de repaso - Banco de Preguntas"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,11 +211,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4c0a401b713aa266",
+  "active": "2ff2473fa8c4ca41",
   "lastOpenFiles": [
-    "Etc.md",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/final_seg_ofensiva.zip",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva",
     "Untitled.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
+    "Etc.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.3a5138e5700b",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.6de72e98697d",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.d10df0d562e7",
@@ -211,7 +227,6 @@
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.0bbfcfb5e7a4",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.d3992beaaf25",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.798c686fdf24",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.b4dffe4a7f5a",
     "Tercer Año/Primer Cuatrimestre/SisOps/Parciales y Final - SisOps.md",
     "Tercer Año/Primer Cuatrimestre/DevOps/Defensa.md",
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Final.md",
@@ -228,7 +243,7 @@
     "Material/sistemas_operativos/final/final-2025/WhatsApp Image 2026-07-01 at 10.29.27 AM.jpeg",
     "Material/sistemas_operativos/final/final-2025/WhatsApp Image 2026-07-01 at 10.29.26 AM (1).jpeg",
     "Material/sistemas_operativos/final/final-2025/WhatsApp Image 2026-07-01 at 10.29.26 AM.jpeg",
-    "Tercer Año/Segundo Cuatrimestre/Informatica Forense.md",
+    "Cuarto Año/Informatica Forense.md",
     "Cuarto Año/Planeamiento estrategico/Banco de preguntas.md",
     "Material/testing_qa/final/test/WhatsApp Image 2026-06-16 at 9.59.36 PM.jpeg",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Oral.md",
@@ -243,7 +258,6 @@
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 2 - Calidad del Software.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 1 - Atributos de calidad del software.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 5 - Gestion de los interesados.md",
-    "Tercer Año/Primer Cuatrimestre/DevOps/Modulo 2 - Tools.md"
+    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 5 - Gestion de los interesados.md"
   ]
 }
