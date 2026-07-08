@@ -385,12 +385,12 @@
 **T33.** ¿Qué es un sistema RAID y qué objetivo tiene? Explique.
 
 > [!success]- Respuesta
-> **RAID** usa varios discos en conjunto. Dos objetivos: **mejorar la performance** (acceso en paralelo a varios discos) y dar **seguridad/redundancia** frente a la rotura de un disco o sector. Ej.: el **RAID espejo (mirror)** duplica todos los datos en otro disco: redundancia a costa del doble de discos. *(Aclaración de la cátedra: RAID resuelve rápido una falla, pero no reemplaza al backup, que debe estar en otra ubicación geográfica.)*
+> **RAID** es un conjunto de varios discos que trabajan juntos, administrados por un software. Tiene dos objetivos: **incrementar la velocidad de acceso** (varios accesos simultáneos a distintos discos) y dar **seguridad/redundancia** ante la rotura de un disco. 
 
 **T34.** Dentro de los planificadores de búsqueda de pistas, explique los algoritmos LOOK y C-LOOK.
 
 > [!success]- Respuesta
-> - **LOOK:** similar a SCAN (el cabezal atiende pistas en un sentido y luego en el otro), pero **no llega a los extremos físicos**: invierte el sentido en la última pista solicitada en esa dirección, no en el borde.
+> - **LOOK:** similar a SCAN (atiende pistas en un sentido y luego en el otro), pero **no llega a los extremos físicos**: invierte el sentido en la última pista solicitada en esa dirección, no en el borde.
 > - **C-LOOK:** similar a C-SCAN, pero tampoco llega a los extremos. Atiende en un solo sentido; al llegar a la última pista requerida, vuelve hasta la más baja solicitada y retoma la atención solo en ese mismo sentido.
 
 **T35.** Explique qué métodos de acceso a memoria secundaria conoce y qué tipos de archivos se implementan en cada uno.
@@ -424,14 +424,16 @@
 **T39.** Explique qué es procesamiento en paralelo o multiprocesamiento. ¿Cómo se clasifica?
 
 > [!success]- Respuesta
-> El **multiprocesamiento** es cuando un solo sistema tiene **más de un procesador**, lo que permite procesar más de un proceso a la vez. Se clasifica en:
-> - **Simétrico (SMP):** todos los procesadores trabajan en condiciones equivalentes y acceden a todo el sistema.
-> - **Asimétrico:** un procesador controla todo el sistema y los demás trabajan para apoyar el procesamiento (subordinados).
+> El **multiprocesamiento** o procesamiento en paralelo es cuando un sistema tiene más de un procesador trabajando en simultáneo. Se clasifica en:
+> - **Fuertemente acoplado:** procesadores en un mismo sistema de cómputo, comparten el mismo hardware y estan ensamblados en el mismo gabinete. Estos pueden ser: 
+>     - **Simétricos:** cualquier procesador puede cumplir cualquier función, se usan indistintamente.
+>     - **Asimétricos:** uno o más procesadores se dedican a una actividad específica (administrar memoria, procesos, etc.).
+> - **Débilmente acoplado:** sistemas distribuidos, computadoras completas separadas geográficamente e interconectadas, no comparten nada y se comunican mediante llamadas a procesos remotos.
 
 **T40.** ¿Los sistemas multiusuarios o de tiempo compartido hacen multiprogramación? Justifique.
 
 > [!success]- Respuesta
-> **Sí.** Los SO modernos de tiempo compartido son un ejemplo claro de **multiprogramación**: cuando varios usuarios usan la computadora, el procesador ejecuta los procesos de todos repartiendo el tiempo en pequeñas unidades, dando a cada usuario la **ilusión de uso exclusivo** del procesador.
+> Sí. Los sistemas de tiempo compartido o multiusuario hacen multiprogramación: tienen un solo procesador y varios procesos se van alternando en su uso, de modo que el procesador reparte el tiempo entre los usuarios y cada uno tiene la sensación de ejecución simultánea (concurrencia simulada). No es multiprocesamiento, porque eso requiere más de una CPU trabajando en paralelo; acá hay un único procesador que se comparte.
 
 ### Otros (linkedición)
 
@@ -439,9 +441,9 @@
 
 > [!success]- Respuesta
 > La **linkedición** es el paso posterior a la compilacion que enlaza el programa con las librerias que necesita. 
-> **Estático:** todas las librerías se meten dentro del programa compilado, así que en ejecución no le pide nada al SO; cómodo, pero cada proceso lleva su propia copia y desperdicia memoria.
-> **Dinámico:** en vez de copiar las librerías se dejan colillas (llamadas) que apuntan a ellas; el SO las carga una sola vez en memoria y las comparten varios procesos.
-> **Carga dinámica:** el propio programador ubica, carga y convoca las librerías en tiempo de ejecución (sin herramienta del SO), trayéndolas solo cuando las necesita.
+> - **Estático:** todas las librerías se meten dentro del programa compilado, así que en ejecución no le pide nada al SO; cómodo, pero cada proceso lleva su propia copia y desperdicia memoria.
+> - **Dinámico:** en vez de copiar las librerías se dejan colillas (llamadas) que apuntan a ellas; el SO las carga una sola vez en memoria y las comparten varios procesos.
+> - **Carga dinámica:** el propio programador ubica, carga y convoca las librerías en tiempo de ejecución (sin herramienta del SO), trayéndolas solo cuando las necesita.
 
 ---
 
@@ -533,10 +535,15 @@
 > - **Abstracción:** oculta la complejidad del hardware y le da a cada usuario una visión independiente del sistema de cómputo.
 > - **Aislamiento:** permite que cada usuario use el mismo SO de forma independiente, sin que se filtren sus datos (seguridad).
 
+**11.** Mencione y explique cuáles son los objetivos de un sistema operativo. *(1/1)*
+
+> [!success]- Respuesta
+> Los objetivos de un sistema operativo son **3**:
+> - **Comodidad:** Facilitar el uso de la computadora mediante interfaces simples para el usuario.
+> - **Eficiencia:** Aprovechar al máximo los recursos del sistema (CPU, memoria, dispositivos).
+> - **Capacidad de evolución:** el SO siempre debe poder evolucionar, porque las cosas cambian con el tiempo.
 
 ## Final Asincrónico — 01/07/2026 (Ing. Arroyo Arzubi)
-
-Voy a verificar cada tema contra lo que dijo Arzubi antes de armar las preguntas. Empiezo con las búsquedas.Matriz de acceso listo. Ahora LOOK/C-LOOK.LOOK/C-LOOK listo. Ahora tiempo compartido/multiprogramación.Tiempo compartido listo (sí hace multiprogramación, con quantum equitativo). Ahora procesos independientes/cooperativos.Procesos independientes/cooperativos listo (cooperativos → concurrentes o complementarios). Ahora asignación contigua de archivos.Asignación contigua listo. Ahora seguridad multinivel.Seguridad multinivel listo. Un solo modelo mencionado por Arzubi: Bell-LaPadura (con su versión inversa). Ahora bloqueo y recuperación.Bloqueo y recuperación listo. Ahora necesito ver los mecanismos completos de tratamiento del deadlock que Arzubi listó (para el contexto de "mecanismos").Ahora proceso y BCP.Proceso y BCP listo. Ahora vector/mapa de bits.Mapa de bits listo. Ahora regiones/secciones críticas.Sección crítica listo (con sus 3 requisitos). Ahora DMA.Todo verificado contra Arzubi. Acá van las 12 preguntas con formato exacto:
 
 ---
 
