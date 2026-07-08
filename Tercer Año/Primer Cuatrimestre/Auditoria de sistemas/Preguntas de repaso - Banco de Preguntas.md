@@ -146,6 +146,84 @@
 
 ---
 
+## Finales — julio 2026
+
+**1.** Describa un escenario empresarial donde la Disponibilidad deba priorizarse críticamente sobre la Confidencialidad. Justifique su decisión basándose en el impacto al negocio.
+
+> [!success]- Respuesta
+> Un e-commerce en un evento de ventas pico (Hot Sale): su información visible (catálogo, precios) es pública, así que una fuga casi no lo daña, pero cada minuto caído es venta perdida, clientes que se van a la competencia y daño a la imagen. Por eso la disponibilidad se prioriza: el negocio tolera muy poco tiempo sin operar y el impacto económico de una caída es mucho mayor que el de una fuga. No se abandona la confidencialidad (los datos de clientes siguen protegidos); se invierte más donde el impacto al negocio es mayor.
+
+**2.** Una pequeña tienda online afirma que no necesita cumplir con PCI-DSS porque "terceriza" los pagos con una pasarela (como PayPal). ¿Es esta afirmación correcta? Argumente basándose en el alcance de la norma.
+
+> [!success]- Respuesta
+> Es incorrecta. PCI-DSS alcanza a toda empresa que participa en pagos con tarjeta, aunque no guarde los datos. Tercerizar con una pasarela reduce las obligaciones pero no las elimina: se delega la operación, no la responsabilidad. La tienda sigue debiendo usar una pasarela certificada, proteger su propio sitio (si se lo hackean, pueden desviar el pago y robar tarjetas igual) y completar el cuestionario de autoevaluación que le corresponde. Mismo principio de siempre en cumplimiento: aunque el proceso lo haga un tercero, la empresa responde y debe poder demostrarlo.
+
+---
+
+### Examen rendido — 07/07/2026 (10 preguntas)
+
+> [!info] Marcas de esta subsección
+> Preguntas tomadas en el final del 07/07/2026 (numeradas según el enunciado original del examen). Ninguna figura textualmente en el resto del banco.
+> - 🆕 *(tema nuevo)* → no estaba en el banco, pero el tema sí está en el material de la cátedra.
+> - 🔁 *(solapa)* → comparte contenido con otra pregunta del banco (se indica cuál).
+> - 📕 *(fuera del material)* → el tema **no aparece** en los PDFs de la cátedra; la respuesta se basa en conocimiento externo.
+
+> [!warning] Ojo: buena parte de este final toca temas fuera del material
+> Verificado por búsqueda en los 22 módulos. **No aparecen en ningún PDF:** pentesting / defensa en profundidad (P6), IAM / nube / entornos híbridos (P9), ransomware / supply chain / resiliencia (P11) y COBIT **2019** (P5 — el material solo trae "COBIT 5"). **Parcialmente ausentes:** el término *segregación de funciones* (P4, aunque sí están "controles de acceso" e "incompatibilidades del auditor/SOX") y *programa de gestión de incidentes* / *frecuencia de revisiones* (P8 y P10, derivables del enfoque de riesgo pero no desarrollados como tema). **Sí cubiertos:** control interno basado en riesgos (P3), BCP/DRP con RPO/RTO/MTPD (P7) y evidencia/muestreo/logs con ACL-CAAT (P12).
+
+**3.** 🆕 Explique el modelo de control interno basado en riesgos y cómo se aplica en una auditoría de sistemas para garantizar la confiabilidad de la información y la protección de activos.
+
+> [!success]- Respuesta
+> Es un modelo donde primero se identifican los riesgos que amenazan a la organización y recién después se ponen los controles, priorizando donde el impacto puede ser mayor. En una auditoría de sistemas sirve para enfocar el trabajo en lo importante: se revisan primero los activos críticos (bases de datos, servidores) y se verifica que sus controles protejan la información. Así se logra que los datos sean confiables y los activos estén protegidos, sin gastar esfuerzo en cosas de bajo riesgo. Es el enfoque que usan marcos como COSO y COBIT (se apoya en el concepto de riesgo, ver Primer Parcial nro 14).
+
+**4.** 🆕 ¿Cómo se evalúan los controles de acceso en una organización para garantizar la segregación de funciones y evitar conflictos de interés en sistemas críticos?
+
+> [!success]- Respuesta
+> Se revisa quién puede hacer qué según su puesto, con la regla de que nadie concentre pasos que le permitan cometer y ocultar un fraude (segregación de funciones). El auditor mira la matriz de permisos y la compara con los roles reales: por ejemplo, en un banco el cajero solo debería operar, no modificar saldos; quien registra una operación no debería ser el que la aprueba. La idea es que las funciones incompatibles queden separadas y que solo perfiles muy altos toquen datos sensibles, todo respaldado con logs.
+
+**5.** 🆕 Compare y contraste ISO/IEC 27001 con COBIT 2019 en términos de alcance, enfoque de gobernanza y utilidad para una auditoría de seguridad de la información.
+
+> [!success]- Respuesta
+> Las dos ordenan la seguridad pero apuntan distinto. ISO 27001 se centra en la seguridad de la información: dice qué cumplir para montar un SGSI y es certificable. COBIT 2019 es más amplio: es un marco de gobierno y gestión de toda la TI, que alinea la tecnología con los objetivos del negocio y separa el gobierno (la dirección decide y controla) de la gestión (se ejecuta). Para una auditoría de seguridad, ISO 27001 aporta el detalle de los controles de seguridad y COBIT la visión de gobierno; se complementan. (Distinta de la comparación 27001 vs 27002 del Segundo Parcial nro 2.)
+
+**6.** 📕 Describa un plan de pruebas de penetración ético (pentesting) para evaluar la seguridad de una red corporativa y los controles de defensa en profundidad.
+
+> [!success]- Respuesta
+> Un pentest ético sigue tres etapas. Planificación: se define el alcance y los objetivos, y se firma la autorización de qué se puede atacar y qué no. Ejecución: se prueban las defensas capa por capa —firewall, antivirus, accesos, segmentación de red— para ver si frenan al atacante o lo dejan pasar. Informe: se documentan las vulnerabilidades encontradas con evidencia confiable y se recomiendan mejoras. La "defensa en profundidad" es tener varias capas de protección para que, si una falla, otra lo detenga; el pentest verifica que esas capas realmente funcionen.
+
+**7.** Explique cómo diseñarían un programa de continuidad del negocio y recuperación ante desastres enfocado en sistemas críticos de TI.
+
+> [!success]- Respuesta
+> En sistemas críticos se diseña para perder lo mínimo posible: RPO cercano a 0 (casi no perder datos) y RTO muy corto (levantar rapidísimo), porque el MTPD que toleran es muy bajo. Para eso conviene tener el sistema replicado y listo para arrancar (esquema "hot", una copia casi idéntica que solo se conecta), no uno que haya que armar de cero. El BCP define cómo sigue operando el negocio y el DRP, dentro de él, cómo se recupera la infraestructura de TI. Ejemplo: un banco no puede perder transacciones, así que necesita procedimientos claros para que todos, del cajero al gerente de TI, sepan qué hacer ante una caída.
+
+**8.** 🆕 ¿Qué criterios utilizaría para evaluar la efectividad de un programa de gestión de incidentes de seguridad en una organización?
+
+> [!success]- Respuesta
+> Se mide sobre todo por tiempos y resultados: qué tan rápido se detecta el incidente, cuánto tarda en contenerse y en volver todo a la normalidad, y si se evita que vuelva a pasar. También se evalúa si hay controles para detectar (detectivos) y para resolver (correctivos), si el equipo cuenta con herramientas y procedimientos claros, y si después se documenta y se aprende del incidente. Un buen programa baja el tiempo de respuesta y el impacto de cada evento.
+
+**9.** 📕 Analice la importancia de la gestión de identidades y accesos (IAM) en entornos híbridos y los retos de auditoría que presentan las nubes públicas y privadas.
+
+> [!success]- Respuesta
+> IAM es gestionar identidades y accesos: asegurar que cada persona entre solo a lo que le corresponde. En entornos híbridos (parte local, parte en la nube) es clave porque hay más puntos de entrada y un acceso mal dado puede terminar en fuga de datos o fraude. El reto para el auditor es que en la nube no tiene acceso físico al datacenter ni ve la infraestructura, así que audita en base a evidencia: pide reportes, registros y logs, y se apoya en las auditorías y certificaciones del proveedor. Las nubes públicas suelen implicar más riesgo que las privadas por ser compartidas.
+
+**10.** 🆕  ¿Cómo se determina la adecuación y frecuencia de las revisiones de seguridad y cumplimiento normativo en un entorno regulado (por ejemplo, protección de datos personales)?
+
+> [!success]- Respuesta
+> Depende del riesgo del sistema y de lo que mostraron las revisiones anteriores. Un sistema crítico o regulado (por ejemplo, que maneja datos personales) debe revisarse seguido y cumplir la norma al pie de la letra; uno de bajo riesgo tolera más tiempo entre revisiones. Además la frecuencia se ajusta según resultados: si la última encontró muchas fallas, la próxima se adelanta para verificar que se corrigieron; si estaba todo bien, puede espaciarse. El objetivo es mantener el sistema al día con la normativa.
+
+**11.** 📕  Discuta el papel de las pruebas de auditoría de seguridad en la evaluación de la resiliencia de sistemas críticos frente a amenazas modernas como ransomware y ataques de supply chain.
+
+> [!success]- Respuesta
+> Las pruebas de auditoría sirven para ver si un sistema crítico aguantaría estos ataques. El auditor busca por dónde podría entrar un ransomware o un ataque a la cadena de proveedores, identifica las vulnerabilidades y las comunica a la dirección para que las corrija antes de que ocurra el incidente. En sistemas críticos, que toleran muy poca interrupción, esto es clave: la auditoría mide la resiliencia (capacidad de resistir y recuperarse) y empuja a reforzar backups, controles de acceso y el control sobre los proveedores.
+
+**12.** Proponga un marco de evidencia y muestreo para auditar la integridad y confiabilidad de los datos en un sistema de información, incluyendo técnicas para evaluar la integridad de datos y las prácticas de registro (logging).
+
+> [!success]- Respuesta
+> La evidencia tiene que ser confiable, objetiva, suficiente e íntegra (sin alteraciones). Como no se puede revisar todo, se toma una muestra representativa de registros y se analiza. Se revisan los logs de acceso y de cambios para ver quién tocó qué y cuándo, buscando delete, update o insert sospechosos que hagan dudar de los datos. Herramientas tipo ACL/CAAT ayudan a analizar grandes volúmenes. La clave es cruzar la muestra con los registros para confirmar que los datos no fueron modificados indebidamente.
+
+---
+
 > [!note] Cobertura
-> 24 preguntas únicas con respuesta en versión resumida: 10 (Segundo Parcial) + 4 exclusivas (Primer Parcial) + 10 (Final). Las preguntas 1–10 del Primer Parcial coinciden con las del Segundo Parcial.
+> 36 preguntas únicas con respuesta en versión resumida: 10 (Segundo Parcial) + 4 exclusivas (Primer Parcial) + 10 (Final diciembre 2025) + 12 (Finales julio 2026: 2 sueltas + 10 del examen rendido 07/07/2026). Las preguntas 1–10 del Primer Parcial coinciden con las del Segundo Parcial.
+> Del examen 07/07/2026: 3 tratan temas fuera del material 📕 (pentesting, IAM/nube, ransomware/supply chain), 5 son temas nuevos 🆕 dentro del material y 2 solapan 🔁 con el Final de diciembre 2025 (continuidad BCP/DRP e integridad de datos). Detalle de cobertura en el aviso de la subsección.
 > En el Parcial mayo 2026 cayeron las preguntas 🔴: del set 1–10 las nro. 1, 2, 3, 4, 5, 6, 7 y 9; de las exclusivas, la 13 (salud/HIPAA) y la 14 (riesgo). **No** cayeron: 8 (forense detonante), 10 (SOX financiero), 11 y 12.
