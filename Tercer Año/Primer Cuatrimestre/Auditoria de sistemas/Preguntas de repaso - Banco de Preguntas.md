@@ -128,7 +128,7 @@
 **8.** Analice cómo la ley SOX cambió la responsabilidad de los directivos (CEOs/CFOs) respecto a los reportes financieros y cómo esto impacta directamente al área de TI.
 
 > [!success]- Respuesta
-> La ley Sarbanes-Oxley (SOX) hace que los CEOs y CFOs sean personalmente responsables de los estados financieros. La seccion 302 exige que certifiquen por escrito su efectividad mientras que la 404 exige una estructura de control interno solida. Esto impacta directamente en ti ya que los controles financieros estan en los sistemas, asi que TI debe garantizar los controles de acceso, cambios e integridad. COSO y COBIT actuan como marcos de referencia para implementar esos controles.
+> La ley Sarbanes-Oxley (SOX) hace que los CEOs y CFOs sean personalmente responsables de los estados financieros. La seccion 302 exige que certifiquen por escrito su efectividad mientras que la 404 exige una estructura de control interno solida. Esto impacta directamente en ti ya que los controles financieros estan en los sistemas de TI, asi que se debe garantizar los controles de acceso, cambios e integridad. COSO y COBIT actuan como marcos de referencia para implementar esos controles.
 
 **9.** Defina el concepto de MTPD (Maximum Tolerable Period of Disruption). Si el MTPD de un proceso es de 4 horas y su RTO (Recovery Time Objective) es de 6 horas, ¿qué conclusión crítica saca usted sobre la viabilidad de la estrategia de recuperación actual?
 
@@ -152,37 +152,42 @@
 **2.** Una pequeña tienda online afirma que no necesita cumplir con PCI-DSS porque "terceriza" los pagos con una pasarela (como PayPal). ¿Es esta afirmación correcta? Argumente basándose en el alcance de la norma.
 
 > [!success]- Respuesta
-> Es incorrecta. PCI-DSS alcanza a toda empresa que participa en pagos con tarjeta, aunque no guarde los datos. Tercerizar con una pasarela reduce las obligaciones pero no las elimina ya que se delega la operación, no la responsabilidad. La tienda sigue debiendo usar una pasarela certificada, proteger su propio sitio y completar el cuestionario de autoevaluación que le corresponde. Se debe aplicar el mismo principio de siempre en el cumplimiento aunque el proceso lo haga un tercero, la empresa responde y debe poder demostrarlo.
+> Es incorrecta. PCI-DSS alcanza a toda empresa que participa en pagos con tarjeta, aunque no guarde los datos. Tercerizar el procesamiento delega la operacion pero no la responsabilidad, por lo que la tienda debe seguir usando una pasarela certificada y asegurar el cumplimiento de la norma utilizando el cuestionario brindado por esta norma.
 
 **3.** 🆕 Explique el modelo de control interno basado en riesgos y cómo se aplica en una auditoría de sistemas para garantizar la confiabilidad de la información y la protección de activos.
 
 > [!success]- Respuesta
-> Es un modelo donde primero se identifican los riesgos que amenazan a la organización y recién después se ponen los controles, priorizando donde el impacto puede ser mayor. En una auditoría de sistemas sirve para enfocar el trabajo en lo importante: se revisan primero los activos críticos (bases de datos, servidores) y se verifica que sus controles protejan la información. Así se logra que los datos sean confiables y los activos estén protegidos, sin gastar esfuerzo en cosas de bajo riesgo. Es el enfoque que usan marcos como COSO y COBIT (se apoya en el concepto de riesgo, ver Primer Parcial nro 14).
+> El modelo se basa en identificar primero los riesgos y activos criticos para luego aplciar controles priorizando las areas de mayor impacto. En auditoria, esto perimte enfocar los recursos en lo verdaderamente importante para asegurar la confiabilidad de los datos y la proteccion de los activos sin desgatarse en elementos de bajo riesgo. Este enfoque usa marcos como COSO y COBIT.
 
 **4.** 🆕 ¿Cómo se evalúan los controles de acceso en una organización para garantizar la segregación de funciones y evitar conflictos de interés en sistemas críticos?
 
 > [!success]- Respuesta
-> Se revisa quién puede hacer qué según su puesto, con la regla de que nadie concentre pasos que le permitan cometer y ocultar un fraude (segregación de funciones). El auditor mira la matriz de permisos y la compara con los roles reales: por ejemplo, en un banco el cajero solo debería operar, no modificar saldos; quien registra una operación no debería ser el que la aprueba. La idea es que las funciones incompatibles queden separadas y que solo perfiles muy altos toquen datos sensibles, todo respaldado con logs.
+> El Auditor verifica que nadie concentre funciones incompatibles que permitan cometer fraudes. Para esto, se revisa que la matriz de permisos contra los roles reales, asegurando que quien registra por ejemplo una operacion no pueda aprobarla ademas de respaldar todo con registros de acceso (logs).
 
 **5.** 🆕 Compare y contraste ISO/IEC 27001 con COBIT 2019 en términos de alcance, enfoque de gobernanza y utilidad para una auditoría de seguridad de la información.
 
 > [!success]- Respuesta
-> Las dos ordenan la seguridad pero apuntan distinto. ISO 27001 se centra en la seguridad de la información: dice qué cumplir para montar un SGSI y es certificable. COBIT 2019 es más amplio: es un marco de gobierno y gestión de toda la TI, que alinea la tecnología con los objetivos del negocio y separa el gobierno (la dirección decide y controla) de la gestión (se ejecuta). Para una auditoría de seguridad, ISO 27001 aporta el detalle de los controles de seguridad y COBIT la visión de gobierno; se complementan. 
+> Por un lado la ISO 27001 se centra en la seguridad de la informacion y es certificable detallando los controles necesarios. En cambio, COBIT 2019 es un marco de gobierno mas amplio para toda la TI que alinea la tecnologia con el negocio. Se complementan ya que la ISO da el detalle tecnico y el COBIT la vision de gobierno y direccion.
 
 **6.** 📕 Describa un plan de pruebas de penetración ético (pentesting) para evaluar la seguridad de una red corporativa y los controles de defensa en profundidad.
 
 > [!success]- Respuesta
-> Un pentest ético sigue tres etapas. Planificación: se define el alcance y los objetivos, y se firma la autorización de qué se puede atacar y qué no. Ejecución: se prueban las defensas capa por capa —firewall, antivirus, accesos, segmentación de red— para ver si frenan al atacante o lo dejan pasar. Informe: se documentan las vulnerabilidades encontradas con evidencia confiable y se recomiendan mejoras. La "defensa en profundidad" es tener varias capas de protección para que, si una falla, otra lo detenga; el pentest verifica que esas capas realmente funcionen.
+> Un pentest ético sigue tres etapas: 
+> - Planificación: se define el alcance y los objetivos, y se firma la autorización de qué se puede atacar y qué no. 
+> - Ejecución: se prueban las defensas capa por capa —firewall, antivirus, accesos, segmentación de red— para ver si frenan al atacante o lo dejan pasar. 
+> - Informe: se documentan las vulnerabilidades encontradas con evidencia confiable y se recomiendan mejoras. 
+> 
+> La "defensa en profundidad" es tener varias capas de protección para que, si una falla, otra lo detenga; el pentest verifica que esas capas realmente funcionen.
 
 **7.** 🆕 Explique cómo diseñarían un programa de continuidad del negocio y recuperación ante desastres enfocado en sistemas críticos de TI.
 
 > [!success]- Respuesta
-> En sistemas críticos se diseña para perder lo mínimo posible: RPO cercano a 0 (casi no perder datos) y RTO muy corto (levantar rapidísimo), porque el MTPD que toleran es muy bajo. Para eso conviene tener el sistema replicado y listo para arrancar, no uno que haya que armar de cero. El BCP define cómo sigue operando el negocio y el DRP, dentro de él, cómo se recupera la infraestructura de TI. Ejemplo: un banco no puede perder transacciones, así que necesita procedimientos claros para que todos, del cajero al gerente de TI, sepan qué hacer ante una caída.
+> Primero se hace un BIA para identificar los sistemas críticos y el impacto de su caída. De ahí surgen el MTPD, el RPO y el RTO. Para los sistemas críticos se busca un RPO casi nulo y un RTO mínimo, logrados mediante replicación y redundancia. El plan se estructura con un BCP para la continuidad del negocio en general y un DRP específico para recuperar la infraestructura de TI. Finalmente, se prueba periódicamente para asegurar que funcione.
 
 **8.** 🆕 ¿Qué criterios utilizaría para evaluar la efectividad de un programa de gestión de incidentes de seguridad en una organización?
 
 > [!success]- Respuesta
-> Se mide sobre todo por tiempos y resultados: qué tan rápido se detecta el incidente, cuánto tarda en contenerse y en volver todo a la normalidad, y si se evita que vuelva a pasar. También se evalúa si hay controles para detectar y para resolver, si el equipo cuenta con herramientas y procedimientos claros, y si después se documenta y se aprende del incidente. Un buen programa baja el tiempo de respuesta y el impacto de cada evento.
+> Se mide sobre todo por tiempos y resultados: qué tan rápido se detecta el incidente, cuánto tarda en contenerse y en volver a la normalidad, y si se evita que vuelva a pasar. También se evalúa si hay procedimientos y herramientas definidos , y si después se documenta y se aprende del incidente. Un buen programa baja el tiempo de respuesta y el impacto de cada evento.
 
 **9.** 📕 Analice la importancia de la gestión de identidades y accesos (IAM) en entornos híbridos y los retos de auditoría que presentan las nubes públicas y privadas.
 
