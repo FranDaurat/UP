@@ -98,16 +98,12 @@
 **2.** La norma ISO requiere compromiso de la alta dirección. ¿Qué evidencia buscaría usted como auditor para verificar que la gerencia realmente apoya el SGSI y no es solo papel mojado?
 
 > [!success]- Respuesta
-<<<<<<< HEAD
 > Como auditor buscaria evidencia tangible. Como por ejemplo la politica de seguridad de la informacion formalmente firmada, actas de revisiones de la direccion, asignacion de presupuesto y programas de formacion impulsados por ellos. Todo esto demuestra un compromiso real. 
-=======
-> Como auditor buscaria evidencia tangible. Como por ejemplo la politica de seguridad de la informacion formalmente firmada, que hayan actas de revisiones de la direccion, una correcta asignacion de presupuesto y programas de formacion impulsados por ellos. Demostrando asi un compromiso real por parte de la alta direccion. 
->>>>>>> 2750fc695f5a49f1dccec384d30a3dccac4feaf5
 
 **3.** ¿Cómo auditor, qué evidencia solicitaría para verificar que el principio de "Integridad" de la triada CIA se cumple en una base de datos de nómina?
 
 > [!success]- Respuesta
-> Para verificar esto me aseguraria de 3 cosas. Primero, revisaria quien tiene acceso para modificar los datos, es decir, revisaria la matriz de permisos. Segundo, revisaria los logs para ver quien toco que y cuando. Y por ulitmo verificaria el uso de funciones hash con algoritmos actualizados como sha-256 o AES. Todas estas son evidencias de cumplimiento del principio de integridad. 
+> Para verificar esto me aseguraria de 3 cosas. Primero, revisaria quien tiene acceso para modificar los datos, es decir, revisaria la matriz de permisos. Segundo, revisaria los logs para ver quien toco que y cuando. Y por ulitmo verificaria el uso de funciones hash con algoritmos actualizados como sha-256 y metodos de encriptacion como AES. Todas estas son evidencias de cumplimiento del principio de integridad. 
 
 **4.** Un auditor descubre una vulnerabilidad crítica en el sistema de un cliente que también afecta a otros bancos (que no son sus clientes). Según el código de ética profesional, ¿cuál es el curso de acción correcto? Analice el dilema entre confidencialidad del cliente e interés público.
 
@@ -127,7 +123,7 @@
 **7.** En un entorno virtualizado, los servidores son efímeros. ¿Qué desafío presenta esto para la recolección de evidencia forense durante una auditoría post-incidente?
 
 > [!success]- Respuesta
-> En entornos virtualizados los servidores se crean y destruyen dinámicamente, lo que dificulta la recolección forense post-incidente. El problema central es la volatilidad ya que al apagarse o eliminarse una VM, su estado, memoria y rastros desaparecen, complicando recolectar la información volátil y reconstruir la línea de tiempo. Esto compromete la integridad, autenticidad y completitud que la evidencia necesita para un entorno judicial, y dificulta la cadena de custodia. 
+> En entornos virtualizados los servidores se crean y destruyen dinámicamente, lo que dificulta la recolección forense post-incidente. El problema central es la volatilidad ya que al apagarse o eliminarse una VM, su estado, memoria y rastros desaparecen, complicando recolectar la información y reconstruir la línea de tiempo, comprometiendo la integridad, autenticidad y completitud que la evidencia necesita para un entorno judicial, y dificulta la cadena de custodia. 
 
 **8.** Analice cómo la ley SOX cambió la responsabilidad de los directivos (CEOs/CFOs) respecto a los reportes financieros y cómo esto impacta directamente al área de TI.
 
@@ -186,12 +182,12 @@
 **8.** 🆕 ¿Qué criterios utilizaría para evaluar la efectividad de un programa de gestión de incidentes de seguridad en una organización?
 
 > [!success]- Respuesta
-> Se mide sobre todo por tiempos y resultados: qué tan rápido se detecta el incidente, cuánto tarda en contenerse y en volver todo a la normalidad, y si se evita que vuelva a pasar. También se evalúa si hay controles para detectar (detectivos) y para resolver (correctivos), si el equipo cuenta con herramientas y procedimientos claros, y si después se documenta y se aprende del incidente. Un buen programa baja el tiempo de respuesta y el impacto de cada evento.
+> Se mide sobre todo por tiempos y resultados: qué tan rápido se detecta el incidente, cuánto tarda en contenerse y en volver todo a la normalidad, y si se evita que vuelva a pasar. También se evalúa si hay controles para detectar y para resolver, si el equipo cuenta con herramientas y procedimientos claros, y si después se documenta y se aprende del incidente. Un buen programa baja el tiempo de respuesta y el impacto de cada evento.
 
 **9.** 📕 Analice la importancia de la gestión de identidades y accesos (IAM) en entornos híbridos y los retos de auditoría que presentan las nubes públicas y privadas.
 
 > [!success]- Respuesta
-> IAM es gestionar identidades y accesos: asegurar que cada persona entre solo a lo que le corresponde. En entornos híbridos (parte local, parte en la nube) es clave porque hay más puntos de entrada y un acceso mal dado puede terminar en fuga de datos o fraude. El reto para el auditor es que en la nube no tiene acceso físico al datacenter ni ve la infraestructura, así que audita en base a evidencia: pide reportes, registros y logs, y se apoya en las auditorías y certificaciones del proveedor. Las nubes públicas suelen implicar más riesgo que las privadas por ser compartidas.
+> IAM asegura que cada persona entre solo a lo que le corresponde. El reto en los entornos hibridos es mantener las reglas consistentes tanto localmente como en la nube. Ademas, un auditor no puede ver la infraestructura fisica, por lo que depende de la evidencia en forma de registros y reportes. 
 
 **10.** 🆕  ¿Cómo se determina la adecuación y frecuencia de las revisiones de seguridad y cumplimiento normativo en un entorno regulado (por ejemplo, protección de datos personales)?
 
@@ -201,12 +197,12 @@
 **11.** 📕  Discuta el papel de las pruebas de auditoría de seguridad en la evaluación de la resiliencia de sistemas críticos frente a amenazas modernas como ransomware y ataques de supply chain.
 
 > [!success]- Respuesta
-> Las pruebas de auditoría sirven para ver si un sistema crítico aguantaría estos ataques. El auditor busca por dónde podría entrar un ransomware o un ataque a la cadena de proveedores, identifica las vulnerabilidades y las comunica a la dirección para que las corrija antes de que ocurra el incidente. En sistemas críticos, que toleran muy poca interrupción, esto es clave: la auditoría mide la resiliencia (capacidad de resistir y recuperarse) y empuja a reforzar backups, controles de acceso y el control sobre los proveedores.
+> Las pruebas de auditoría sirven para ver si un sistema crítico aguantaría estos ataques. El auditor busca por dónde podría entrar un ransomware o un ataque a la cadena de proveedores, identifica las vulnerabilidades y las comunica a la dirección para que las corrija antes de que ocurra el incidente. En sistemas críticos, que toleran muy poca interrupción, esto es clave: la auditoría mide la resiliencia y empuja a reforzar backups, controles de acceso y el control sobre los proveedores.
 
 **12.** 🆕 Proponga un marco de evidencia y muestreo para auditar la integridad y confiabilidad de los datos en un sistema de información, incluyendo técnicas para evaluar la integridad de datos y las prácticas de registro (logging).
 
 > [!success]- Respuesta
-> La evidencia tiene que ser confiable, objetiva, suficiente e íntegra (sin alteraciones). Como no se puede revisar todo, se toma una muestra representativa de registros y se analiza. Se revisan los logs de acceso y de cambios para ver quién tocó qué y cuándo, buscando delete, update o insert sospechosos que hagan dudar de los datos. Herramientas tipo ACL/CAAT ayudan a analizar grandes volúmenes. La clave es cruzar la muestra con los registros para confirmar que los datos no fueron modificados indebidamente.
+> La evidencia tiene que ser confiable, objetiva, suficiente e íntegra (sin alteraciones). Como no se puede revisar todo, se toma una muestra representativa de registros y se analiza. Se revisan los logs de acceso y de cambios para ver quién tocó qué y cuándo, buscando modificaciones sospechosas. Herramientas tipo ACL/CAAT ayudan a analizar grandes volúmenes. La clave es cruzar la muestra con los registros para confirmar que los datos no fueron modificados indebidamente.
 
 ---
 
