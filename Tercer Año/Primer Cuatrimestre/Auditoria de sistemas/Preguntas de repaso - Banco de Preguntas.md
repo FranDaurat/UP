@@ -157,7 +157,7 @@
 **3.** 🆕 Explique el modelo de control interno basado en riesgos y cómo se aplica en una auditoría de sistemas para garantizar la confiabilidad de la información y la protección de activos.
 
 > [!success]- Respuesta
-> El modelo se basa en identificar primero los riesgos y activos criticos para luego aplciar controles priorizando las areas de mayor impacto. En auditoria, esto perimte enfocar los recursos en lo verdaderamente importante para asegurar la confiabilidad de los datos y la proteccion de los activos sin desgatarse en elementos de bajo riesgo. Este enfoque usa marcos como COSO y COBIT.
+> El modelo se basa en identificar primero los riesgos y activos criticos para luego aplicar controles priorizando las areas de mayor impacto. En auditoria, esto perimte enfocar los recursos en lo verdaderamente importante para asegurar la confiabilidad de los datos y la proteccion de los activos sin desgatarse en elementos de bajo riesgo. Este enfoque usa marcos como COSO y COBIT.
 
 **4.** 🆕 ¿Cómo se evalúan los controles de acceso en una organización para garantizar la segregación de funciones y evitar conflictos de interés en sistemas críticos?
 
@@ -177,7 +177,7 @@
 > - Ejecución: se prueban las defensas capa por capa —firewall, antivirus, accesos, segmentación de red— para ver si frenan al atacante o lo dejan pasar. 
 > - Informe: se documentan las vulnerabilidades encontradas con evidencia confiable y se recomiendan mejoras. 
 > 
-> La "defensa en profundidad" es tener varias capas de protección para que, si una falla, otra lo detenga; el pentest verifica que esas capas realmente funcionen.
+> La "defensa en profundidad" consiste en tener varias capas de protección para que, si una falla, otra lo detenga; el pentest verifica que esas capas realmente funcionen.
 
 **7.** 🆕 Explique cómo diseñarían un programa de continuidad del negocio y recuperación ante desastres enfocado en sistemas críticos de TI.
 
@@ -208,6 +208,11 @@
 
 > [!success]- Respuesta
 > La evidencia tiene que ser confiable, objetiva, suficiente e íntegra (sin alteraciones). Como no se puede revisar todo, se toma una muestra representativa de registros y se analiza. Se revisan los logs de acceso y de cambios para ver quién tocó qué y cuándo, buscando modificaciones sospechosas. Herramientas tipo ACL/CAAT ayudan a analizar grandes volúmenes. La clave es cruzar la muestra con los registros para confirmar que los datos no fueron modificados indebidamente.
+
+13. 🆕 Diferencie seguridad informática, ciberseguridad y ciberdefensa. Si se detecta un ransomware, ¿en qué categoría cabe?
+
+> [!success]- Respuesta
+> La seguridad informática protege los datos y los equipos (hardware, software y redes). La ciberseguridad protege esos datos cuando están conectados a una red o a Internet, frente a ataques que vienen de afuera. La ciberdefensa es la respuesta cuando el ataque ya ocurrió: detectarlo, frenarlo y recuperarse. El ransomware es un ataque de ciberseguridad, porque entra por la red y bloquea los datos pidiendo un rescate; pero defenderse de él —aislar la máquina y recuperar la información desde las copias guardadas— es ciberdefensa.
 
 ---
 

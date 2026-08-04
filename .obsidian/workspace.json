@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
+                "file": "Etc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preguntas de repaso - Banco de Preguntas"
+              "title": "Etc"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
+                "file": "Etc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Preguntas de repaso - Banco de Preguntas"
+              "title": "Backlinks"
             }
           },
           {
@@ -170,19 +172,19 @@
   },
   "active": "32f674a70278c59f",
   "lastOpenFiles": [
+    "Untitled.md",
     "Etc.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md",
+    "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas",
+    "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps",
+    "Tercer Año/Segundo Cuatrimestre/Microservicios",
     "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/final_seg_ofensiva.zip",
     "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva",
-    "Untitled.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.3a5138e5700b",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.6de72e98697d",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.d10df0d562e7",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.f380dd36ede8",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.2570d4fc5b1d",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.9021ecac0cb1",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.0bbfcfb5e7a4",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Preguntas de repaso - Banco de Preguntas.md.tmp.34398.d3992beaaf25",
     "Tercer Año/Primer Cuatrimestre/SisOps/Parciales y Final - SisOps.md",
     "Tercer Año/Primer Cuatrimestre/DevOps/Defensa.md",
     "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Preguntas de repaso - Final.md",

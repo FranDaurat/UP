@@ -13,5 +13,4 @@ Martin acosta ---> segun el grupo es choto
 Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otros otroa)
 Cudek ---> alto profesor
 -- -
-## Finales
-13/07 ---> Auditoria (14hs)
+
