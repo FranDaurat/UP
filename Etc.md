@@ -12,5 +12,7 @@ rabuch ---> buen profesor
 Martin acosta ---> segun el grupo es choto
 Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otros otroa)
 Cudek ---> alto profesor
+
+![[Pasted image 20260806154048.png]]
 -- -
 
