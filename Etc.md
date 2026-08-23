@@ -13,6 +13,17 @@ Martin acosta ---> segun el grupo es choto
 Picicelli ---> alto cara de verga segun el grupo de wpp (unos dicen una cosa otros otroa)
 Cudek ---> alto profesor
 
-![[Pasted image 20260806154048.png]]
+
+## Profes para esquivar:
+- Martín Acosta
+- Guillermo Puyau
+- Luciano Pacheco
+- Fabio Dellarosa
+- Marcela Toba
+
+## Parciales: 
+Seguridad en SO --> semana del 14/09/2026
+Seguridad Ofensiva --> 16/09/2026
+
 -- -
 

@@ -1,0 +1,3649 @@
+WEBVTT
+
+1
+00:00:19.990 --> 00:00:21.080
+FRANCISCO DAURAT: Hola, ¿Qué tal.
+
+2
+00:00:21.630 --> 00:00:24.910
+Carlos Fabian Descalzo: Hola. ¿cómo andan chicos, Buenas noches.
+
+3
+00:00:25.390 --> 00:00:27.279
+FRANCISCO DAURAT: ¿qué tal buenas noches. Todo Bien, Vos.
+
+4
+00:00:27.540 --> 00:00:28.330
+OCTAVIO RIEGO: Buenas noches.
+
+5
+00:00:28.330 --> 00:00:33.950
+Carlos Fabian Descalzo: Jordi como andan todos fresquito Hoy,
+
+6
+00:00:35.910 --> 00:00:37.580
+OCTAVIO RIEGO: Sí, pero volvió el sol.
+
+7
+00:00:37.730 --> 00:00:46.079
+Carlos Fabian Descalzo: Se complicó? ¿sí? Y bueno, por suerte vimos algo de sol en este último tiempo
+
+8
+00:00:46.250 --> 00:00:49.680
+Carlos Fabian Descalzo: que hace bastante que no, no lo veíamos.
+
+9
+00:00:50.050 --> 00:00:53.530
+Carlos Fabian Descalzo: Pero igual hizo bastante frío durante todo el día.
+
+10
+00:00:53.650 --> 00:00:54.520
+OCTAVIO RIEGO: Sí, Sí.
+
+11
+00:00:56.210 --> 00:00:57.410
+Carlos Fabian Descalzo: Así que bien.
+
+12
+00:00:59.460 --> 00:01:00.970
+Carlos Fabian Descalzo: Excelente.
+
+13
+00:01:01.450 --> 00:01:10.680
+Carlos Fabian Descalzo: Che 1 000 disculpas Ahí me avisaron de que tengo mal agendado.
+
+14
+00:01:11.410 --> 00:01:16.750
+Carlos Fabian Descalzo: El día aparece como lunes
+
+15
+00:01:17.970 --> 00:01:23.909
+Carlos Fabian Descalzo: el tema de las clases. Voy a ver. Intenté ver de de como cambiarlo ahora y no, no le encontré la vuelta.
+
+16
+00:01:24.300 --> 00:01:28.600
+Carlos Fabian Descalzo: Así que, Bueno, después de la clase, voy a ver si.
+
+17
+00:01:29.880 --> 00:01:37.079
+Carlos Fabian Descalzo: como se llama este, si encuentro la forma de de poder cambiarlo, Sí, para que nos queden bien las
+
+18
+00:01:37.200 --> 00:01:49.759
+Carlos Fabian Descalzo: las fechas, pero no, no quería demorar más. Ahora bien, bueno, y estoy bien, todo en orden.
+
+19
+00:01:53.230 --> 00:01:54.010
+FRANCISCO DAURAT: Todo en orden.
+
+20
+00:01:54.010 --> 00:01:54.470
+FRANCO ZABALA: Sí.
+
+21
+00:01:54.470 --> 00:01:55.280
+FRANCISCO DAURAT: Suerte!
+
+22
+00:01:55.500 --> 00:01:56.580
+CAROLINA OYARBIDE: Sí, Sí. Profe.
+
+23
+00:01:57.070 --> 00:01:58.820
+Carlos Fabian Descalzo: Bien, excelente.
+
+24
+00:01:59.140 --> 00:02:11.910
+Carlos Fabian Descalzo: Bueno, yo voy a y me terminé de de acomodar un poco. Le voy a compartir pantalla ahí estamos
+
+25
+00:02:16.610 --> 00:02:25.080
+Carlos Fabian Descalzo: y prendo mi cámara. Así nos conocemos ¿Cómo va gastamos?
+
+26
+00:02:25.460 --> 00:02:28.970
+Carlos Fabian Descalzo: Bien, Bueno.
+
+27
+00:02:30.080 --> 00:02:39.979
+Carlos Fabian Descalzo: en principio, bueno, contarles un poco lo que vamos a estar viendo en esta materia. Hay algunos de de los chicos ahí. Vi que estaba
+
+28
+00:02:40.120 --> 00:02:47.550
+Carlos Fabian Descalzo: tale como va, vi que andabas por ahí, este que también está en otra materia conmigo en riesgos
+
+29
+00:02:47.660 --> 00:02:50.640
+Carlos Fabian Descalzo: y Ezequiel y
+
+30
+00:02:50.900 --> 00:03:03.100
+Carlos Fabian Descalzo: Sofía, que que están en otra materia conmigo por ahí van a ver que hay algunas cuestiones que comento que pueden llegar a estar repetidas, así que espero que no se aburran mucho
+
+31
+00:03:03.230 --> 00:03:10.799
+Carlos Fabian Descalzo: este y con respecto al al tema de la intro de de esta materia. La idea del
+
+32
+00:03:11.250 --> 00:03:15.509
+Carlos Fabian Descalzo: del enfoque que a mí me gusta darle es que
+
+33
+00:03:15.620 --> 00:03:18.070
+Carlos Fabian Descalzo: ustedes vean que de alguna manera.
+
+34
+00:03:18.870 --> 00:03:22.949
+Carlos Fabian Descalzo: con esta cuestión de estándares guías que hay, etcétera.
+
+35
+00:03:23.430 --> 00:03:26.690
+Carlos Fabian Descalzo: no solamente que que conozcan o que sepan
+
+36
+00:03:26.840 --> 00:03:32.769
+Carlos Fabian Descalzo: que hay digamos, detrás de todas las cosas que hacemos, un
+
+37
+00:03:33.110 --> 00:03:45.029
+Carlos Fabian Descalzo: digamos, un un estándar, algo que que me menciona, digamos, de donde puedo llegar a a tomar la la forma de cómo ejecutarlo. Digamos, hay guías de buenas prácticas y todo.
+
+38
+00:03:45.150 --> 00:03:46.640
+Carlos Fabian Descalzo: sino también
+
+39
+00:03:47.060 --> 00:04:00.250
+Carlos Fabian Descalzo: de que tiene que de que hay un porqué del del por cual algo hago las cosas ¿no? Y esto tiene que ver con que, más allá de la existencia de de alguna
+
+40
+00:04:00.470 --> 00:04:14.309
+Carlos Fabian Descalzo: normativa in interna de una empresa, inclusive una de las cosas que vamos a ver es cómo, de alguna forma también lo que ustedes conocen como marcos normativos de seguridad, etcétera. Además de eso.
+
+41
+00:04:14.390 --> 00:04:24.070
+Carlos Fabian Descalzo: yo tengo que ver el tema de cumplimiento de leyes, de el tema de cumplimiento de regulaciones de entidades
+
+42
+00:04:24.130 --> 00:04:35.330
+Carlos Fabian Descalzo: que regulan una industria, en particular la industria de la salud en en la parte de hotel, por ejemplo, en lo que tiene que ver con la industria eléctrica, etcétera, ¿no?
+
+43
+00:04:35.590 --> 00:04:37.000
+Carlos Fabian Descalzo: Y
+
+44
+00:04:37.310 --> 00:04:47.939
+Carlos Fabian Descalzo: Y más allá de que estemos manejando tecnología o que veamos temas relacionados con con ciberseguridad. Lo que nosotros estamos haciendo
+
+45
+00:04:48.220 --> 00:04:58.230
+Carlos Fabian Descalzo: y tiene que ver, digamos, también con cosas que se requieren para el cumplimiento de este tipo de
+
+46
+00:04:58.230 --> 00:05:11.099
+Carlos Fabian Descalzo: normativas y y regulaciones, no independientemente de de un una cuestión de cumplimiento. Por ejemplo, si la empresa en la que trabajo está certificada en alguna norma, Iso, etcétera? ¿no?
+
+47
+00:05:11.190 --> 00:05:25.149
+Carlos Fabian Descalzo: Así que, bueno, primero, para los que no me conozcan, quería presentarme y comentarles más o menos cómo es la dinámica en general que que yo llevo adelante con esto.
+
+48
+00:05:25.550 --> 00:05:36.120
+Carlos Fabian Descalzo: Bueno, mi nombre es fabián descalzo. Yo soy socio de un estudio que se llama b o
+
+49
+00:05:36.520 --> 00:05:42.810
+Carlos Fabian Descalzo: video. Es la quinta consultora a nivel global después de las Big For.
+
+50
+00:05:43.140 --> 00:05:50.059
+Carlos Fabian Descalzo: Y al igual que las Big Ford, el el principal, digamos, este
+
+51
+00:05:50.390 --> 00:06:04.540
+Carlos Fabian Descalzo: enfoque, o o o la o el lugar desde donde nacieron, digamos. Este tipo de estudios tiene que ver principalmente en lo que es este auditoría de Estados contables, impuestos, etcétera, en donde después
+
+52
+00:06:04.940 --> 00:06:08.240
+Carlos Fabian Descalzo: y desde hace ya por lo menos
+
+53
+00:06:08.530 --> 00:06:28.179
+Carlos Fabian Descalzo: 30 años, aproximadamente un poquito más por ahí es, empezaron a a desarrollar lo que es la práctica de de de lo que esté relacionado con tecnología actualmente. Yo, como socio del estudio, soy el responsable de los servicios de gobierno tecnológico y ciberseguridad.
+
+54
+00:06:28.740 --> 00:06:44.970
+Carlos Fabian Descalzo: Y además, para nosotros, estoy, digamos, como responsable líder de ciberseguridad a nivel latón y la idea que
+
+55
+00:06:45.500 --> 00:06:48.719
+Carlos Fabian Descalzo: que tengo respecto de cómo llevar adelante
+
+56
+00:06:49.320 --> 00:06:54.430
+Carlos Fabian Descalzo: la la cursada es que podamos participar.
+
+57
+00:06:54.570 --> 00:07:09.150
+Carlos Fabian Descalzo: que cada 1 de ustedes también pueda opinar más allá de tener alguna duda que también aquellos que actualmente están trabajando en esto aporten su su conocimiento. La idea es que podamos entre todos
+
+58
+00:07:09.400 --> 00:07:13.159
+Carlos Fabian Descalzo: e ir llevando adelante
+
+59
+00:07:14.110 --> 00:07:23.639
+Carlos Fabian Descalzo: las distintas experiencias que tengamos, no más allá de que hoy me toque a mí ser el profe.
+
+60
+00:07:23.880 --> 00:07:26.890
+Carlos Fabian Descalzo: No quiere decir de que yo
+
+61
+00:07:27.250 --> 00:07:40.469
+Carlos Fabian Descalzo: haya vivido las mismas experiencias que por ello ustedes están hoy, esté compartiendo con su trabajo y está bueno que interactúen entre ustedes también y que se pongan al tanto de de de lo que están haciendo, no
+
+62
+00:07:41.140 --> 00:07:52.000
+Carlos Fabian Descalzo: en respecto de la movida en general, haremos 1 o 2 break de aproximadamente 15 min.
+
+63
+00:07:52.360 --> 00:08:05.789
+Carlos Fabian Descalzo: En algunas ocasiones van a ver que a mí me gusta hablar bastante. Entonces por ahí les pido disculpas y se me pasa un poco la la hora de de algún Break. Pero soy de de emocionarme cuando cuando me pongo a hablar
+
+64
+00:08:06.050 --> 00:08:18.860
+Carlos Fabian Descalzo: y todo el material. Van a ver en la plataforma que armé una carpeta que dice material de consulta.
+
+65
+00:08:19.000 --> 00:08:26.460
+Carlos Fabian Descalzo: Les pido y les ruego por Dios que no se me desmayen, pero van a ver una barba de documentación que les dejé
+
+66
+00:08:26.940 --> 00:08:33.700
+Carlos Fabian Descalzo: que está asociada mayormente a a cosas que vamos a ver durante la cursada.
+
+67
+00:08:34.030 --> 00:08:39.259
+Carlos Fabian Descalzo: pero que no es material que ustedes tienen que leer para estudiar para el examen.
+
+68
+00:08:39.570 --> 00:08:43.099
+Carlos Fabian Descalzo: A mí me gusta dejarles una una biblioteca
+
+69
+00:08:44.520 --> 00:08:55.639
+Carlos Fabian Descalzo: para que tengan, digamos, material de consulta para cuestiones de laburo de ustedes, más allá de lo que veamos en la materia en particular. Lo que sí a
+
+70
+00:08:56.210 --> 00:09:02.270
+Carlos Fabian Descalzo: digamos van a a ver que yo me voy a enfocar para los exámenes.
+
+71
+00:09:03.270 --> 00:09:12.720
+Carlos Fabian Descalzo: tanto los parciales como como el final. Es lo que hablemos en clase y el material que yo les voy a presentar durante la clase.
+
+72
+00:09:12.850 --> 00:09:17.700
+Carlos Fabian Descalzo: Soy de enfocarme en cosas. Muy.
+
+73
+00:09:18.030 --> 00:09:29.759
+Carlos Fabian Descalzo: Digamos que sean conceptuales. A mí me interesa que que que que tengan el el concepto de lo que tiene que ver en este caso a nivel de
+
+74
+00:09:30.010 --> 00:09:46.980
+Carlos Fabian Descalzo: de estándares relacionados con ciberseguridad, seguridad de la información y y tecnología en general, más que el hecho de aprenderse algún tema de memoria o o algún punto en en particular de de memoria.
+
+75
+00:09:47.270 --> 00:09:57.109
+Carlos Fabian Descalzo: les compartí un mail en donde tienen mi correo y mi número de de Whatsapp
+
+76
+00:09:57.500 --> 00:10:14.049
+Carlos Fabian Descalzo: para que cualquier duda, cualquier comentario o o algo que que necesiten, en particular, estemos en contacto. Así que bien, ya ya tenemos la la la forma de de de comunicación, Sí,
+
+77
+00:10:14.230 --> 00:10:19.330
+Carlos Fabian Descalzo: en Así que, bueno, este es un poco la idea de
+
+78
+00:10:19.690 --> 00:10:26.859
+Carlos Fabian Descalzo: de cómo nos vamos a ir manejando y comunicando en en
+
+79
+00:10:27.030 --> 00:10:32.559
+Carlos Fabian Descalzo: lo que va a ser este cuatrimestre. Sí,
+
+80
+00:10:33.340 --> 00:10:37.440
+Carlos Fabian Descalzo: yo ahí les quería pedir si rápidamente
+
+81
+00:10:37.710 --> 00:10:44.110
+Carlos Fabian Descalzo: podíamos presentarnos, que ustedes también se presenten
+
+82
+00:10:44.370 --> 00:10:58.949
+Carlos Fabian Descalzo: y y lo voy a hacer, digamos, en el orden en que los veo que que los tengo acá en en la listita. Así pruebe el más que nada, inclusive para que los compañeros también sepan
+
+83
+00:10:59.000 --> 00:11:04.940
+Carlos Fabian Descalzo: si están actualmente trabajando este en esta cuestión
+
+84
+00:11:05.110 --> 00:11:22.199
+Carlos Fabian Descalzo: y de que, en en particular, y también que cuál es el nivel de interés que tengan respecto de de de esta licenciatura que están estudiando, no a qué lo quieren aplicar acá. Algo que le decía a los chicos de riesgos la vez pasada es que
+
+85
+00:11:22.650 --> 00:11:26.749
+Carlos Fabian Descalzo: 1 puede entender ciberseguridad
+
+86
+00:11:27.810 --> 00:11:44.599
+Carlos Fabian Descalzo: como que es algo netamente técnico, y y la realidad es que hoy es el nombre que tiene, digamos, este tipo de práctica oportunamente. Era seguridad informática.
+
+87
+00:11:44.680 --> 00:11:48.970
+Carlos Fabian Descalzo: Se mezclaba un poco con temas de Haití, pero
+
+88
+00:11:49.270 --> 00:12:05.179
+Carlos Fabian Descalzo: en general, vamos a ver inclusive en el enfoque que tiene esta materia, de que en realidad, de lo que estamos hablando es de seguridad de la información, digamos no. El paraguas de todo. Es seguridad de la información y tenemos tanto aspectos a
+
+89
+00:12:05.240 --> 00:12:17.339
+Carlos Fabian Descalzo: relacionados con lo técnico, como lo relacionado con la gestión y con la gobernanza. ¿no? Entonces ahí es un poco donde también me interesaría saber para para ver cómo
+
+90
+00:12:17.490 --> 00:12:20.790
+Carlos Fabian Descalzo: cómo están orientados ustedes en relación a esto. ¿no?
+
+91
+00:12:20.920 --> 00:12:24.840
+Carlos Fabian Descalzo: Así que, bueno, ahí está agustín, hirollaga.
+
+92
+00:12:27.200 --> 00:12:28.430
+AGUSTÍN IDOYAGA MOLINA: Hola, Fi, ¿Cómo va.
+
+93
+00:12:28.430 --> 00:12:30.060
+Carlos Fabian Descalzo: ¿qué haces? Agus: ¿Cómo va.
+
+94
+00:12:30.060 --> 00:12:31.480
+AGUSTÍN IDOYAGA MOLINA: Todo bien.
+
+95
+00:12:31.480 --> 00:12:32.620
+Carlos Fabian Descalzo: Todo en orden.
+
+96
+00:12:33.820 --> 00:12:38.100
+AGUSTÍN IDOYAGA MOLINA: Bueno, mi nombre es agustín, yaz molina. Tengo 22 años.
+
+97
+00:12:38.510 --> 00:12:43.369
+AGUSTÍN IDOYAGA MOLINA: Ya estoy en tercer año de la carrera, la licenciatura.
+
+98
+00:12:43.640 --> 00:12:47.050
+AGUSTÍN IDOYAGA MOLINA: No estoy. No estoy ejerciendo como ciberseguridad.
+
+99
+00:12:47.650 --> 00:12:53.840
+AGUSTÍN IDOYAGA MOLINA: Me encantaría en, Y bueno, básicamente
+
+100
+00:12:54.060 --> 00:12:59.540
+AGUSTÍN IDOYAGA MOLINA: la ciberseguridad. Me encanta. Fue por eso que entré. Así que a meterle.
+
+101
+00:13:01.550 --> 00:13:11.110
+Carlos Fabian Descalzo: Bien bien perfecto. Che agus. Y además de esto, fuiste haciendo algún curso adicional, algo en en particular.
+
+102
+00:13:12.230 --> 00:13:18.479
+AGUSTÍN IDOYAGA MOLINA: No es cierto que ya, pero sí me estoy especializando como desarrollador Full Tak.
+
+103
+00:13:19.570 --> 00:13:20.500
+Carlos Fabian Descalzo: Bien.
+
+104
+00:13:21.120 --> 00:13:31.270
+AGUSTÍN IDOYAGA MOLINA: Sé que hay cursos que estuve viendo que son de gratuitos, va más o menos porque después la certificación tienes que pagar.
+
+105
+00:13:31.480 --> 00:13:34.360
+AGUSTÍN IDOYAGA MOLINA: que es el C. S. 50, algo Así
+
+106
+00:13:34.820 --> 00:13:40.079
+AGUSTÍN IDOYAGA MOLINA: que es de ciberseguridad y automatización que se estaba viendo para ver.
+
+107
+00:13:40.730 --> 00:13:49.719
+Carlos Fabian Descalzo: Bien, Bien, perfecto, buenísimo. Agus: 1 000. Gracias. Sí, ahí agrego a esto que que que comentaba Agus
+
+108
+00:13:50.050 --> 00:14:06.409
+Carlos Fabian Descalzo: que yo cada alguna cantidad determinada de clases. Voy a ver de traer algún invitado. Ese invitado puede ser, por ejemplo, el el Presidente o el Vicepresidente de Isaaca.
+
+109
+00:14:06.560 --> 00:14:20.909
+Carlos Fabian Descalzo: que es una entidad de gobierno de tecnología y auditoría de Haití o gente del I S. S. Dos, algún especialista, en en particular como para que ustedes también conozcan otras instituciones
+
+110
+00:14:20.970 --> 00:14:33.600
+Carlos Fabian Descalzo: a partir de las cuales pueden tomar algún certificado y además, gente con otro tipo de experiencia también para que puedan conversar con con ellos, no
+
+111
+00:14:33.720 --> 00:14:38.170
+Carlos Fabian Descalzo: bien caro o servide buenas noches.
+
+112
+00:14:38.490 --> 00:14:43.780
+CAROLINA OYARBIDE: Hola. Buenas noches. Profe: Bueno, sí, yo soy contadora.
+
+113
+00:14:43.890 --> 00:14:52.320
+CAROLINA OYARBIDE: Ya tengo una profesión. Trabajo en Arca en la carrera, estoy.
+
+114
+00:14:52.320 --> 00:14:52.980
+Carlos Fabian Descalzo: Que hacer.
+
+115
+00:14:53.550 --> 00:14:54.220
+CAROLINA OYARBIDE: Arca.
+
+116
+00:14:54.650 --> 00:14:55.449
+Carlos Fabian Descalzo: Muy bien.
+
+117
+00:14:55.450 --> 00:14:56.300
+CAROLINA OYARBIDE: F, I, P.
+
+118
+00:14:56.860 --> 00:14:57.570
+Carlos Fabian Descalzo: Sí, Sí, Sí.
+
+119
+00:14:57.570 --> 00:15:00.910
+CAROLINA OYARBIDE: Soy fiscalizadora.
+
+120
+00:15:01.600 --> 00:15:05.119
+CAROLINA OYARBIDE: Si bien manejamos una base muy grande de datos
+
+121
+00:15:05.390 --> 00:15:10.149
+CAROLINA OYARBIDE: en cuanto a la materia, me me parece interesante, porque nosotros tenemos.
+
+122
+00:15:10.270 --> 00:15:17.030
+CAROLINA OYARBIDE: Hay unos este unos cursos que nos hacen hacer. Pero bueno, súper súper contrabásicos
+
+123
+00:15:18.000 --> 00:15:32.740
+CAROLINA OYARBIDE: de la nada pero muy básicos. Y Bueno, nada. Este dije, bueno, está está muy bueno. Por más que nada que que nosotros manejamos mucha información y y bueno para estar este un poco más este
+
+124
+00:15:34.050 --> 00:15:39.630
+CAROLINA OYARBIDE: más este más al día. Con todo esto no. Y lo hago, la curso como materia electiva.
+
+125
+00:15:40.680 --> 00:15:50.679
+Carlos Fabian Descalzo: Ajá muy bien bárbaro, excelente. Mira ahí en Narca, no sé si vos la conoces a Virginia del Arciprete.
+
+126
+00:15:51.710 --> 00:15:58.680
+CAROLINA OYARBIDE: No, porque yo estoy en la plata trabajando en esa agencia y seguramente ella debe estar en central.
+
+127
+00:15:59.510 --> 00:16:00.400
+Carlos Fabian Descalzo: Sí.
+
+128
+00:16:00.400 --> 00:16:02.459
+CAROLINA OYARBIDE: Trabaja en mateo. Colón.
+
+129
+00:16:02.680 --> 00:16:03.310
+Carlos Fabian Descalzo: Mhm.
+
+130
+00:16:03.310 --> 00:16:08.120
+CAROLINA OYARBIDE: O está en paseo coloma, es central, Seguramente sí.
+
+131
+00:16:08.490 --> 00:16:13.490
+Carlos Fabian Descalzo: Sí, Sí, Sí, no, me imagino. Ella sí. Ella trabaja en la parte de riesgos.
+
+132
+00:16:13.660 --> 00:16:22.260
+Carlos Fabian Descalzo: y yo le di un curso hace poco a la gente del arca de temas de gobierno de Haití y, bueno, y ya.
+
+133
+00:16:22.260 --> 00:16:22.620
+CAROLINA OYARBIDE: Claro.
+
+134
+00:16:22.620 --> 00:16:24.789
+Carlos Fabian Descalzo: Trabajo. En particular, trabajó conmigo.
+
+135
+00:16:24.790 --> 00:16:33.770
+CAROLINA OYARBIDE: No nos llega a nosotros, a los que estamos en agencias, porque no estamos dentro porque no, Yo no estoy dentro de lo que sería este la parte de
+
+136
+00:16:34.500 --> 00:16:35.530
+CAROLINA OYARBIDE: de
+
+137
+00:16:36.030 --> 00:16:46.209
+CAROLINA OYARBIDE: tecnología y o de sistemas. No estamos por a por ahora, No estoy Así que entonces no nos llega a nosotros esos tipos de cursos.
+
+138
+00:16:46.720 --> 00:16:53.880
+Carlos Fabian Descalzo: Claro, acá un detalle también como para que vean, no fíjate ahí. Claro que
+
+139
+00:16:54.190 --> 00:17:02.259
+Carlos Fabian Descalzo: vos siendo contadora y teniendo algún tipo de formación relacionado con tecnología y ciberseguridad
+
+140
+00:17:02.490 --> 00:17:06.490
+Carlos Fabian Descalzo: es un perfil que suele ser buscado
+
+141
+00:17:06.819 --> 00:17:12.930
+Carlos Fabian Descalzo: para cuando se hacen auditorías de Estados contables, viste y.
+
+142
+00:17:12.930 --> 00:17:14.950
+CAROLINA OYARBIDE: Para autoría. Yo.
+
+143
+00:17:14.950 --> 00:17:25.820
+Carlos Fabian Descalzo: Claro entonces, Pero la auditoría de Estados contables desde el punto de vista del entendimiento funcional en relación a los sistemas.
+
+144
+00:17:26.800 --> 00:17:27.650
+CAROLINA OYARBIDE: Claro.
+
+145
+00:17:27.680 --> 00:17:31.749
+Carlos Fabian Descalzo: Y y no es un perfil
+
+146
+00:17:32.950 --> 00:17:37.250
+Carlos Fabian Descalzo: que esté que que que haya mucha gente que lo tenga.
+
+147
+00:17:37.790 --> 00:17:43.009
+Carlos Fabian Descalzo: Por eso está está buena la especialización. Digamos no que estás buscando un
+
+148
+00:17:43.560 --> 00:17:47.629
+Carlos Fabian Descalzo: Así que bien bárbaro. Bien, bienvenida. Caro. Entonces.
+
+149
+00:17:47.630 --> 00:17:48.310
+CAROLINA OYARBIDE: Gracias.
+
+150
+00:17:48.500 --> 00:17:53.730
+Carlos Fabian Descalzo: Excelente Francisco de una.
+
+151
+00:17:53.730 --> 00:17:55.289
+FRANCISCO DAURAT: Acá estamos como a.
+
+152
+00:17:55.650 --> 00:17:57.280
+Carlos Fabian Descalzo: Bien, Eri tú cómo va.
+
+153
+00:17:57.720 --> 00:18:04.079
+FRANCISCO DAURAT: Bien. Bien, por suerte. Bueno, yo soy Francisco y estoy en el segundo cuatrimestre el tercer año.
+
+154
+00:18:04.460 --> 00:18:09.240
+FRANCISCO DAURAT: y actualmente estoy trabajando de forma independiente como Book Baunty, Hunter.
+
+155
+00:18:10.720 --> 00:18:15.770
+Carlos Fabian Descalzo: Bien, Bien, perfecto.
+
+156
+00:18:16.110 --> 00:18:26.670
+Carlos Fabian Descalzo: Y y digamos arrancaste trabajando en independiente. No tenéis una experiencia anterior, No, no.
+
+157
+00:18:26.830 --> 00:18:31.109
+FRANCISCO DAURAT: No, no, no, Eso no. El año pasado había arrancado a buscar, pero
+
+158
+00:18:31.340 --> 00:18:35.160
+FRANCISCO DAURAT: no me gustaron las ofertas que tenía. Todo me pedía. Full Time.
+
+159
+00:18:35.340 --> 00:18:37.740
+FRANCISCO DAURAT: No tenía ganas de hacer full time.
+
+160
+00:18:38.050 --> 00:18:47.909
+FRANCISCO DAURAT: Y bueno, al final siempre tuve ganas de hacer esto, pero como que no sé al principio no me terminaba de enganchar. No encontraba una metodología que me guste hasta que la encontré. Y
+
+161
+00:18:48.030 --> 00:18:52.690
+FRANCISCO DAURAT: ahora estoy que corro por las paredes. Así que nada, eso.
+
+162
+00:18:53.480 --> 00:18:58.070
+Carlos Fabian Descalzo: Bien, Bien, ahí. Bueno, bienvenido. Fran Gracias.
+
+163
+00:18:58.390 --> 00:19:03.160
+Carlos Fabian Descalzo: Y bueno, Franco Lombroni.
+
+164
+00:19:05.280 --> 00:19:07.800
+FRANCO EMILIANO LOMBRONI: Hola. Profe: No sé si me escucha bien.
+
+165
+00:19:08.070 --> 00:19:10.329
+Carlos Fabian Descalzo: Sí, Sí, buenas noches. Cómo va.
+
+166
+00:19:10.330 --> 00:19:11.000
+FRANCO EMILIANO LOMBRONI: Sí.
+
+167
+00:19:11.300 --> 00:19:15.500
+FRANCO EMILIANO LOMBRONI: Buenas noches. Perdone que yo aprendo de cámaras, estoy destruyendo mi casa, y fue un hombre muy particular.
+
+168
+00:19:15.500 --> 00:19:16.930
+Carlos Fabian Descalzo: Tranquilo. No te hagas problemas.
+
+169
+00:19:16.930 --> 00:19:17.580
+FRANCO EMILIANO LOMBRONI: No.
+
+170
+00:19:18.360 --> 00:19:27.060
+FRANCO EMILIANO LOMBRONI: Bueno, me presento. Yo estoy en el último año de carrera de licenciatura, seguridad este y en el semestre y el que viene. Ya hago la tesis Tovi.
+
+171
+00:19:27.520 --> 00:19:31.630
+FRANCO EMILIANO LOMBRONI: Yo ya hice riesgos con ustedes. Profe: Y
+
+172
+00:19:31.930 --> 00:19:36.539
+FRANCO EMILIANO LOMBRONI: bueno, lo que es mi experiencia. Yo hace ya 4 años. Trabajo en lo que es seguridad.
+
+173
+00:19:36.850 --> 00:19:41.969
+FRANCO EMILIANO LOMBRONI: Estuve más que nada en áreas de Cesam participar en ese estilo.
+
+174
+00:19:42.530 --> 00:19:51.379
+FRANCO EMILIANO LOMBRONI: Actualmente estoy en una empresa que se llama cual Fire, que es una empresa grande de seguridad, es la segunda de cloustyle deposita.
+
+175
+00:19:51.560 --> 00:19:52.470
+FRANCO EMILIANO LOMBRONI: conocen
+
+176
+00:19:52.860 --> 00:20:04.820
+FRANCO EMILIANO LOMBRONI: y bueno, en esta. Tenemos el área principales de con playa, saltificación de miso y pen texting. Pero yo particularmente estoy en el área de A. C. M: ataque. Surfe: Management.
+
+177
+00:20:05.220 --> 00:20:07.560
+FRANCO EMILIANO LOMBRONI: Eso.
+
+178
+00:20:09.630 --> 00:20:13.380
+Carlos Fabian Descalzo: Bien bien excelente. Frank! Bienvenido!
+
+179
+00:20:13.840 --> 00:20:19.879
+Carlos Fabian Descalzo: Este Bien, Juan lo uso locuso.
+
+180
+00:20:20.980 --> 00:20:22.669
+JUAN LOGUZZO: Hola. Buenas. Me escucha. Bien.
+
+181
+00:20:22.670 --> 00:20:23.120
+Carlos Fabian Descalzo: Oaxa.
+
+182
+00:20:24.030 --> 00:20:28.900
+JUAN LOGUZZO: Todo bien. Yo estoy estudiando ingeniería informática
+
+183
+00:20:29.140 --> 00:20:36.930
+JUAN LOGUZZO: y estoy trabajando en una startup que está creando una aplicación para los negocios del día a día.
+
+184
+00:20:37.300 --> 00:20:43.640
+Carlos Fabian Descalzo: Bien bien y tu rol ahí tiene que ver con alguna cuestión de desarrollo o a nivel.
+
+185
+00:20:43.640 --> 00:20:44.150
+JUAN LOGUZZO: Sí.
+
+186
+00:20:44.150 --> 00:20:44.840
+Carlos Fabian Descalzo: Con el Ministro.
+
+187
+00:20:44.840 --> 00:20:46.469
+JUAN LOGUZZO: No. Desarrollo. Sí.
+
+188
+00:20:46.800 --> 00:21:05.070
+Carlos Fabian Descalzo: Bien bien bárbaro y buenísimo. Excelente, Juan bienvenido y bien. Maya.
+
+189
+00:21:07.510 --> 00:21:08.730
+Carlos Fabian Descalzo: Buenas noches.
+
+190
+00:21:08.730 --> 00:21:09.350
+MAIA RODRIGUEZ: Nah.
+
+191
+00:21:09.970 --> 00:21:10.690
+Carlos Fabian Descalzo: Cómo va.
+
+192
+00:21:11.260 --> 00:21:18.060
+MAIA RODRIGUEZ: Todo bien este bueno María Rodríguez, y estoy en mi tercer año de la licenciatura de ciberseguridad.
+
+193
+00:21:18.340 --> 00:21:23.899
+MAIA RODRIGUEZ: Por ahora trabajo, no tengo este. Estaba buscando pasantías este año.
+
+194
+00:21:24.210 --> 00:21:36.519
+MAIA RODRIGUEZ: Este y previamente estuve había estado estudiando, pero inglés, así que por ahora, de la carrera en sí cursos especiales iba a empezar el año que viene.
+
+195
+00:21:37.360 --> 00:21:45.250
+Carlos Fabian Descalzo: Bien bien perfecto, alguna orientación en particular, te gusta mucho más lo técnico, lo lo que.
+
+196
+00:21:45.250 --> 00:21:45.620
+MAIA RODRIGUEZ: De un.
+
+197
+00:21:45.620 --> 00:21:47.319
+Carlos Fabian Descalzo: Gestión, análisis.
+
+198
+00:21:47.740 --> 00:21:57.709
+MAIA RODRIGUEZ: El cuatri. Este primer cuatri de este año, vimos auditoría de sistemas y sé que ahora auditoría no me interesó
+
+199
+00:21:57.940 --> 00:22:06.980
+MAIA RODRIGUEZ: este más o menos, Pero me gusta más la parte defensiva.
+
+200
+00:22:07.200 --> 00:22:19.490
+MAIA RODRIGUEZ: también análisis de malware, que sería otra cosa aparte que me interesó mucho, Pero el Profe ya también nos fue orientando, por ejemplo, en los cursos o demás que había que hacer.
+
+201
+00:22:20.580 --> 00:22:21.070
+Carlos Fabian Descalzo: Bien.
+
+202
+00:22:21.070 --> 00:22:22.280
+MAIA RODRIGUEZ: Eso está también.
+
+203
+00:22:23.180 --> 00:22:28.020
+Carlos Fabian Descalzo: Excelente, buenísimo. Bueno, 1 000 gracias. Maya y bienvenida. También.
+
+204
+00:22:28.540 --> 00:22:28.890
+MAIA RODRIGUEZ: Gracias.
+
+205
+00:22:28.890 --> 00:22:33.310
+Carlos Fabian Descalzo: Y seguimos con Nahuel.
+
+206
+00:22:34.180 --> 00:22:35.550
+NAHUEL DEVITO: Qué tal buenas noches.
+
+207
+00:22:35.900 --> 00:22:37.809
+Carlos Fabian Descalzo: Evans, todos los demás.
+
+208
+00:22:37.810 --> 00:22:47.649
+NAHUEL DEVITO: Como bien dijiste, mi nombre es Nahuel. Estoy en mi cuarto año de la licenciatura en ciberseguridad. Tengo 21 años y no trabajo. Pero estoy buscando trabajo
+
+209
+00:22:48.540 --> 00:23:00.790
+NAHUEL DEVITO: que me metí en el mundo de la ciberseguridad porque es algo que me gustó desde hace bastante desde chiquito. Y bueno, no, nunca me dio otra opción. Fui con esto fijo y la verdad que bastante contento por ahora.
+
+210
+00:23:01.600 --> 00:23:02.280
+Carlos Fabian Descalzo: Bien.
+
+211
+00:23:02.420 --> 00:23:12.090
+Carlos Fabian Descalzo: Bien. Excelente, dinarito buenísimo. Bueno, ahí también, tanto para vos como para todos. Reitero: no en lo que
+
+212
+00:23:12.220 --> 00:23:23.320
+Carlos Fabian Descalzo: podamos orientarlos con alguna información de algún curso de especialización. Hay Hay una
+
+213
+00:23:23.540 --> 00:23:29.690
+Carlos Fabian Descalzo: empresa que no sé si la conocen, que se llama educación Haití, que tiene cursos.
+
+214
+00:23:29.900 --> 00:23:33.799
+Carlos Fabian Descalzo: que es que están tanto a nivel de
+
+215
+00:23:34.380 --> 00:23:41.720
+Carlos Fabian Descalzo: de ciberseguridad como desarrollo, inteligencia artificial, etcétera, que son bastante accesibles
+
+216
+00:23:41.860 --> 00:23:49.480
+Carlos Fabian Descalzo: y tiene buenos profes Si si alguien quisiera hacer algún curso adicional o algo así por el estilo.
+
+217
+00:23:50.290 --> 00:24:00.889
+Carlos Fabian Descalzo: está bueno, así que, bueno, bienvenido. Nahuel y nair buenas noches. Cómo va.
+
+218
+00:24:02.590 --> 00:24:04.200
+NAIR CHAPARRO NASSINI: Hola. Profe Buenas noches.
+
+219
+00:24:04.920 --> 00:24:08.419
+NAIR CHAPARRO NASSINI: Bueno, yo soy N A. I, R. Tengo 23 años.
+
+220
+00:24:08.860 --> 00:24:12.400
+NAIR CHAPARRO NASSINI: Estoy estudiando sobre seguridad. También es mi cuarto año.
+
+221
+00:24:12.750 --> 00:24:13.260
+Carlos Fabian Descalzo: Mhm.
+
+222
+00:24:13.260 --> 00:24:21.360
+NAIR CHAPARRO NASSINI: Por ahora no trabajo, pero sí hace tiempo que estoy tratando de encontrar alguna pasantía algún puesto ahí.
+
+223
+00:24:21.860 --> 00:24:26.770
+NAIR CHAPARRO NASSINI: Quizás soc Level 1 y eso, pero está complicada la cosa.
+
+224
+00:24:26.770 --> 00:24:35.669
+Carlos Fabian Descalzo: Sí tal cual Sí, Sí, sí, sí, pero bueno, bien, bien, si acá una una de las cosas, sobre todo para
+
+225
+00:24:36.230 --> 00:24:41.210
+Carlos Fabian Descalzo: de los que estén en veintipico y
+
+226
+00:24:42.580 --> 00:24:47.379
+Carlos Fabian Descalzo: lo que lo que les recomendaría como una cuestión
+
+227
+00:24:47.440 --> 00:24:51.089
+Carlos Fabian Descalzo: más a título personal que una cuestión técnica
+
+228
+00:24:51.140 --> 00:25:09.830
+Carlos Fabian Descalzo: es que, más que fijarse en el valor, siempre y cuando se pueda, no obviamente, más que fijarse en el valor. Fíjense en la experiencia que pueden adquirir al entrar en en algún trabajo. No digo está bueno de que si existe la la posibilidad
+
+229
+00:25:10.030 --> 00:25:20.900
+Carlos Fabian Descalzo: y prioricen inicialmente en el caso de que se pueda la la experiencia, digamos no más allá del de
+
+230
+00:25:21.030 --> 00:25:40.639
+Carlos Fabian Descalzo: del sueldo, por así decirlo, si si es que tienen la posibilidad, porque, bueno, es es un poco como el puntapié como para ir no solo ir adquiriendo experiencia, sino ir completando el C B también, No, de de alguna manera, con con distintas cuestiones.
+
+231
+00:25:40.670 --> 00:25:46.199
+Carlos Fabian Descalzo: Sí, Así que bien bárbaro, excelente. Bienvenido. Nahi R.
+
+232
+00:25:47.030 --> 00:25:47.930
+NAIR CHAPARRO NASSINI: Gracias. Profe.
+
+233
+00:25:48.780 --> 00:25:52.240
+Carlos Fabian Descalzo: Y estamos con Octavio.
+
+234
+00:25:53.570 --> 00:26:10.760
+OCTAVIO RIEGO: Hola, buenas como va. Estoy cursando ingeniería informática. Este, si sale todo bien, sería mi último cuatrimestre este. Estoy trabajando como administrador de base de datos, por un lado y analista Cql, por otro.
+
+235
+00:26:11.090 --> 00:26:13.000
+OCTAVIO RIEGO: Este en
+
+236
+00:26:13.160 --> 00:26:27.259
+OCTAVIO RIEGO: me gustaría orientarme más por el lado de infraestructura. Quizás de Bops o por ese lado. Ahora estoy también metiendo un poco mano en machine learning y cuestiones de esa cosa, pero
+
+237
+00:26:27.290 --> 00:26:37.089
+OCTAVIO RIEGO: como no se termina de saber si es una burbuja que no pinchó todavía o algo que va a seguir, como que no decidí no meterme de lleno a eso todavía.
+
+238
+00:26:37.200 --> 00:26:40.150
+OCTAVIO RIEGO: Así que no Por ese lado venimos así.
+
+239
+00:26:40.690 --> 00:26:47.399
+Carlos Fabian Descalzo: Bien. Bien. Bien, ahí. Bueno, bienvenido Octavio y va a salir todo bien. Así que.
+
+240
+00:26:48.160 --> 00:26:49.170
+OCTAVIO RIEGO: Muchas gracias.
+
+241
+00:26:49.170 --> 00:26:58.420
+Carlos Fabian Descalzo: Bien Ricardo morales ortiz.
+
+242
+00:26:59.680 --> 00:27:11.190
+RICARDO MORALES ORTIZ: Sí, buenas. Profe: ¿Cómo estás? Bueno, soy Ricardo Morales, justo igual que Octavio estaría cursando, cursando mi último cuatrimestre.
+
+243
+00:27:11.530 --> 00:27:12.610
+RICARDO MORALES ORTIZ: ¿sí?
+
+244
+00:27:12.860 --> 00:27:16.609
+RICARDO MORALES ORTIZ: Y yo me dedico, ahorita ahorita mismo
+
+245
+00:27:16.870 --> 00:27:23.320
+RICARDO MORALES ORTIZ: presto servicios profesionales a un proyecto de integración de sistemas, realizando soportes y diagnósticos
+
+246
+00:27:23.690 --> 00:27:28.330
+RICARDO MORALES ORTIZ: sobre las apis bases de datos y más en los ambientes de cueva y producción
+
+247
+00:27:28.500 --> 00:27:35.089
+RICARDO MORALES ORTIZ: y, a su vez, presto El servicio. Como programador Fullstag a a
+
+248
+00:27:35.340 --> 00:27:37.820
+RICARDO MORALES ORTIZ: para darle soporte a una aplicación.
+
+249
+00:27:38.960 --> 00:27:41.070
+RICARDO MORALES ORTIZ: Es lo que me dedico actualmente.
+
+250
+00:27:41.390 --> 00:27:45.849
+RICARDO MORALES ORTIZ: Y el último año, sobre todo desarrollo. Fullstuck.
+
+251
+00:27:47.340 --> 00:27:50.619
+Carlos Fabian Descalzo: Excelente es a lo que te dedicas y que no es poco.
+
+252
+00:27:50.790 --> 00:27:51.520
+Carlos Fabian Descalzo: Mhm.
+
+253
+00:27:51.520 --> 00:27:57.819
+RICARDO MORALES ORTIZ: Pero me dedico de momento a eso y pero a ver qué me gustaría. La verdad es que
+
+254
+00:27:58.580 --> 00:28:08.610
+RICARDO MORALES ORTIZ: más que desarrollo de fuerzas que lo respeto y todo, pero no es como la Gran Pasión. Preferiría más lo que sería análisis de sistemas y
+
+255
+00:28:08.840 --> 00:28:14.019
+RICARDO MORALES ORTIZ: y demás cosas. Pero bueno, 1
+
+256
+00:28:14.130 --> 00:28:18.109
+RICARDO MORALES ORTIZ: es lo que a 1 le toca. Y bueno, toca trabajar.
+
+257
+00:28:18.340 --> 00:28:21.680
+Carlos Fabian Descalzo: Aparte todo perdón, todo sirve.
+
+258
+00:28:22.330 --> 00:28:25.470
+RICARDO MORALES ORTIZ: Sí, sí, para mí todo suma. Y la experiencia, porque
+
+259
+00:28:25.690 --> 00:28:32.220
+RICARDO MORALES ORTIZ: previo a ese año, pues no tenía nada en qué trabajar. Y bueno, siempre la experiencia suma.
+
+260
+00:28:32.750 --> 00:28:40.099
+Carlos Fabian Descalzo: Tal cual tal cual y y aparte acá, está bueno, lo que comentas. Otro detalle, más allá de lo de lo que les decía antes, que
+
+261
+00:28:40.680 --> 00:28:44.720
+Carlos Fabian Descalzo: me ha servido mucho a mí,
+
+262
+00:28:45.330 --> 00:28:50.070
+Carlos Fabian Descalzo: en donde nada de lo que he hecho y
+
+263
+00:28:51.450 --> 00:28:55.519
+Carlos Fabian Descalzo: lo he desperdiciado. Siempre le he encontrado un valor, digamos, no
+
+264
+00:28:55.850 --> 00:29:02.530
+Carlos Fabian Descalzo: acá, como me ven dando esta materia y dedicándome a lo que es tecnología y ciberseguridad.
+
+265
+00:29:02.840 --> 00:29:05.050
+Carlos Fabian Descalzo: Yo soy diseñador gráfico.
+
+266
+00:29:05.680 --> 00:29:10.189
+Carlos Fabian Descalzo: Fue mi primer y y tengo 2 años de haber estudiado publicidad.
+
+267
+00:29:11.160 --> 00:29:12.900
+Carlos Fabian Descalzo: Y
+
+268
+00:29:13.930 --> 00:29:24.249
+Carlos Fabian Descalzo: Y fíjense que dentro inclusive de lo que yo hago y algunas presentaciones que van a ver. Y todo el hecho de haber sido diseñador gráfico me ayudó
+
+269
+00:29:24.420 --> 00:29:28.410
+Carlos Fabian Descalzo: a tener ese valor como para saber cómo comunicarme
+
+270
+00:29:28.610 --> 00:29:46.220
+Carlos Fabian Descalzo: como para poder entender inclusive cómo se manejan las empresas en publicidad. He visto cosas que estaban relacionadas con con organización de empresas, etcétera. Y hoy inclusive dentro de lo que me toca como rol dentro del estudio y todo
+
+271
+00:29:46.530 --> 00:29:57.289
+Carlos Fabian Descalzo: necesito no solo por una cuestión de mi propia empresa, sino también por las empresas de mis clientes. No entender cómo es su negocio como para yo saber
+
+272
+00:29:57.930 --> 00:30:04.440
+Carlos Fabian Descalzo: cómo aplicar soluciones de tecnología y de ciberseguridad en ese cliente, ¿no? Entonces
+
+273
+00:30:04.580 --> 00:30:07.469
+Carlos Fabian Descalzo: acá en esto que comentabas Richard.
+
+274
+00:30:08.490 --> 00:30:19.070
+Carlos Fabian Descalzo: si a vos lo que te gusta. Es más, el tema de es, por decirlo así, no me me parece el tema de auditar un proceso desde el punto de vista tecnológico.
+
+275
+00:30:19.490 --> 00:30:21.630
+Carlos Fabian Descalzo: Fíjate que ya tenés
+
+276
+00:30:22.080 --> 00:30:30.139
+Carlos Fabian Descalzo: un valor que no todos los auditores tienen que voy a saber cómo es un proceso de desarrollo de software, digamos no.
+
+277
+00:30:30.810 --> 00:30:31.500
+RICARDO MORALES ORTIZ: Sí.
+
+278
+00:30:31.500 --> 00:30:44.989
+Carlos Fabian Descalzo: ¿y qué es lo que ves adentro de ese proceso? Entonces le vas a poner otra impronta y le vas a poner otro tipo de conocimiento a una auditoría tuya que otros no la tienen. ¿por qué? Porque en algún momento vos lo hiciste
+
+279
+00:30:45.220 --> 00:30:48.539
+Carlos Fabian Descalzo: y conocer los puntos de dolor, etc. No.
+
+280
+00:30:49.210 --> 00:31:03.329
+RICARDO MORALES ORTIZ: Claro. Por supuesto, por eso sí digo que igual todo suma no nada que haga en la vida, nada, resta todo suma y es lo importante y igual. Obviamente, como digo, no es lo que más me encanta, pero
+
+281
+00:31:03.870 --> 00:31:09.479
+RICARDO MORALES ORTIZ: igualmente ha sido un proceso entretenido y divertido de aprender.
+
+282
+00:31:09.970 --> 00:31:17.670
+Carlos Fabian Descalzo: Tal cual tal cual. Bueno, bienvenido, Richard y mucho éxito. Entonces, con todo lo tuyo. Si.
+
+283
+00:31:17.670 --> 00:31:18.930
+RICARDO MORALES ORTIZ: Gracias. Gracias. Profe.
+
+284
+00:31:19.250 --> 00:31:25.770
+Carlos Fabian Descalzo: Buenísimo bien. Santiago Kinelli.
+
+285
+00:31:26.850 --> 00:31:28.770
+SANTIAGO QUINELLI: Sí, la.
+
+286
+00:31:28.770 --> 00:31:30.139
+Carlos Fabian Descalzo: Santi. ¿cómo.
+
+287
+00:31:30.140 --> 00:31:32.139
+SANTIAGO QUINELLI: Hay más de un Sandy. Parece que.
+
+288
+00:31:32.140 --> 00:31:33.110
+Carlos Fabian Descalzo: Sí.
+
+289
+00:31:33.390 --> 00:31:42.190
+SANTIAGO QUINELLI: Bueno, buenas. ¿cómo están un gusto. Yo estudié ingeniería en informática. Estoy en mi último año Y bueno.
+
+290
+00:31:42.900 --> 00:31:47.500
+SANTIAGO QUINELLI: me desarrollé como consultor de ciberseguridad los últimos
+
+291
+00:31:47.660 --> 00:32:00.450
+SANTIAGO QUINELLI: casi 2 años, y ahora estoy cambiando. Me estoy pasando el rubro de los seguros en una compañía de seguros, y estoy haciendo mi Timity, suscripción de líneas financieras y de Cyber
+
+292
+00:32:00.610 --> 00:32:01.840
+SANTIAGO QUINELLI: y en.
+
+293
+00:32:01.840 --> 00:32:05.340
+Carlos Fabian Descalzo: Bien en seguros de cyber.
+
+294
+00:32:05.900 --> 00:32:06.530
+SANTIAGO QUINELLI: Claro.
+
+295
+00:32:06.910 --> 00:32:16.270
+Carlos Fabian Descalzo: Bien bien excelente, bien y en la parte de consultoría, en ciberseguridad, a nivel de soluciones o de servicios.
+
+296
+00:32:17.400 --> 00:32:21.320
+SANTIAGO QUINELLI: Servicios. Trabajé en una Bigford, K. Pm, G.
+
+297
+00:32:21.650 --> 00:32:23.210
+SANTIAGO QUINELLI: Y.
+
+298
+00:32:23.210 --> 00:32:23.620
+Carlos Fabian Descalzo: Es hoy.
+
+299
+00:32:23.620 --> 00:32:27.750
+SANTIAGO QUINELLI: O los Walter Rise, genio.
+
+300
+00:32:27.750 --> 00:32:28.890
+Carlos Fabian Descalzo: Es un fenómeno.
+
+301
+00:32:29.160 --> 00:32:34.700
+SANTIAGO QUINELLI: Fenómeno y sí, servicios para empresas de Island gas.
+
+302
+00:32:34.980 --> 00:32:36.919
+SANTIAGO QUINELLI: Hay una muy importante que la.
+
+303
+00:32:36.920 --> 00:32:37.270
+Carlos Fabian Descalzo: De los.
+
+304
+00:32:37.270 --> 00:32:38.380
+SANTIAGO QUINELLI: Tina, la celeste.
+
+305
+00:32:38.380 --> 00:32:38.750
+Carlos Fabian Descalzo: Sí, Sí.
+
+306
+00:32:39.330 --> 00:32:47.750
+SANTIAGO QUINELLI: Y si a Full con eso, G. R. C, hacíamos gobierno marco normativo, algo de riesgos un poquito de todo.
+
+307
+00:32:48.290 --> 00:33:02.910
+Carlos Fabian Descalzo: Bien. Bien. Excelente. Sandy, buenísimo, Bueno, ahí este. Entonces todo de esto que vayamos a estar viendo en la materia, te va a resultar entonces conocido
+
+308
+00:33:03.070 --> 00:33:11.329
+Carlos Fabian Descalzo: y y bueno, nada éxitos con el nuevo cambio que están a Full con el tema de si si.
+
+309
+00:33:11.330 --> 00:33:11.650
+SANTIAGO QUINELLI: De la.
+
+310
+00:33:11.650 --> 00:33:12.610
+Carlos Fabian Descalzo: Tiene que ver.
+
+311
+00:33:14.190 --> 00:33:17.960
+Carlos Fabian Descalzo: Bienvenido. Sofy.
+
+312
+00:33:18.570 --> 00:33:20.439
+Carlos Fabian Descalzo: Si bien nos conocemos.
+
+313
+00:33:21.230 --> 00:33:22.370
+SOFIA LIBERTAD VELAZCO MONTAGNA: Buenas.
+
+314
+00:33:22.370 --> 00:33:24.970
+Carlos Fabian Descalzo: Quería que te conozcan los chicos. También.
+
+315
+00:33:26.170 --> 00:33:41.479
+SOFIA LIBERTAD VELAZCO MONTAGNA: Sí. Bueno, yo estoy en el último año de licenciatura en ciberseguridad y tengo experiencia como tester de 3 años y y nada. Ahora estaba tratando de irme para el Backbon Bounty
+
+316
+00:33:42.850 --> 00:33:45.499
+SOFIA LIBERTAD VELAZCO MONTAGNA: con todos los conocimientos que ya tengo, digamos.
+
+317
+00:33:45.800 --> 00:33:51.580
+Carlos Fabian Descalzo: Mhm: Bien. Excelente. Bueno, bienvenida a esta materia. Ahora
+
+318
+00:33:51.810 --> 00:34:01.449
+Carlos Fabian Descalzo: bien, gracias. Sofía, bárbaro, bueno y tale, estás por ahí.
+
+319
+00:34:01.450 --> 00:34:03.189
+TADEO ARIAS: Buenas. ¿cómo va.
+
+320
+00:34:03.620 --> 00:34:05.319
+Carlos Fabian Descalzo: Bien todo en orden.
+
+321
+00:34:05.790 --> 00:34:19.430
+TADEO ARIAS: Sí. Bueno, como habíamos hablado ya el lunes, Me llamo Tadeo. Me estudio licenciatura en ciberseguridad. Ya estoy entrando casi al último año. Con si meto estos 4 meses, sería el último año, ya
+
+322
+00:34:19.880 --> 00:34:32.950
+TADEO ARIAS: nada más o menos lo que dijeron todos los de ciberseguridad. El conseguir trabajo está difícil, entonces un poco de desarrollo web por freelance y otro poco haciendo laboratorios.
+
+323
+00:34:34.760 --> 00:34:36.899
+Carlos Fabian Descalzo: Bien, bien, excelente.
+
+324
+00:34:36.909 --> 00:34:37.509
+TADEO ARIAS: Yo en.
+
+325
+00:34:37.510 --> 00:34:39.420
+Carlos Fabian Descalzo: Ir preparándose chavalle.
+
+326
+00:34:39.429 --> 00:34:42.259
+TADEO ARIAS: Sí me quiero especializar en lo que sería red team show.
+
+327
+00:34:42.989 --> 00:34:43.839
+TADEO ARIAS: Toda esa parte.
+
+328
+00:34:43.840 --> 00:34:52.059
+Carlos Fabian Descalzo: Y en bien excelente, buenísimo, bueno, de los que estamos. Creo que no me olvido de nadie
+
+329
+00:34:52.300 --> 00:35:03.189
+Carlos Fabian Descalzo: este, así que bien este arrancamos. Entonces bien, como les decía, la idea es.
+
+330
+00:35:04.540 --> 00:35:14.950
+Carlos Fabian Descalzo: digamos, ver inicialmente un roadmap de cómo es que ha avanzado
+
+331
+00:35:15.100 --> 00:35:27.850
+Carlos Fabian Descalzo: de alguna manera la necesidad o se ha visto la necesidad de y establecer metodología.
+
+332
+00:35:29.360 --> 00:35:41.079
+Carlos Fabian Descalzo: formalizar metodología para poder gestionar este y gobernar la la la tecnología, Digamos no, en en particular
+
+333
+00:35:41.480 --> 00:35:56.070
+Carlos Fabian Descalzo: con sus diferentes niveles de identificación de riesgos. No, y hay distintas instancias
+
+334
+00:35:56.470 --> 00:36:00.770
+Carlos Fabian Descalzo: en las cuales ha sido necesario
+
+335
+00:36:01.220 --> 00:36:11.109
+Carlos Fabian Descalzo: tener que hacer un cambio respecto de lo que es este el nivel de madurez en esta formalización, en particular
+
+336
+00:36:11.390 --> 00:36:14.399
+Carlos Fabian Descalzo: respecto de distintos tipos de situaciones, no
+
+337
+00:36:14.860 --> 00:36:22.570
+Carlos Fabian Descalzo: por un lado, históricamente, en lo que tiene que ver con el crecimiento.
+
+338
+00:36:22.790 --> 00:36:27.359
+Carlos Fabian Descalzo: la invención y el crecimiento de la tecnología en particular.
+
+339
+00:36:27.590 --> 00:36:42.099
+Carlos Fabian Descalzo: siempre sucede mucho más rápido por una cuestión de aplicarlo desde el punto de vista operativo, desde el punto de vista de tener algo, esta tecnología disponible para poder ser utilizada.
+
+340
+00:36:42.250 --> 00:36:43.090
+Carlos Fabian Descalzo: que a
+
+341
+00:36:43.180 --> 00:36:54.430
+Carlos Fabian Descalzo: lo que es la contención de los riesgos y el tipo de poder hacer algún tipo de evaluación de impacto a nivel de riesgos
+
+342
+00:36:54.430 --> 00:37:05.280
+Carlos Fabian Descalzo: de lo que puede ocasionar la tecnología. En relación, en particular, lo que tiene que ver con los datos y en lo que tiene que ver con las organizaciones en general, no
+
+343
+00:37:06.520 --> 00:37:16.330
+Carlos Fabian Descalzo: este esta sensibilización de a nivel de impacto fue creciendo en la medida en que la brecha entre
+
+344
+00:37:16.920 --> 00:37:21.700
+Carlos Fabian Descalzo: la gestión metodológica y la formalización
+
+345
+00:37:22.280 --> 00:37:31.860
+Carlos Fabian Descalzo: de cómo manejar tecnologías se fue distanciando de la velocidad con la que la tecnología en realmente creció no.
+
+346
+00:37:32.250 --> 00:37:41.660
+Carlos Fabian Descalzo: Y Y además, en función de cómo fuimos nosotros, entendiendo
+
+347
+00:37:42.380 --> 00:37:46.760
+Carlos Fabian Descalzo: de cuál era el riesgo sobre los datos en particular.
+
+348
+00:37:47.640 --> 00:37:50.600
+Carlos Fabian Descalzo: que maneja una organización, por ejemplo.
+
+349
+00:37:50.970 --> 00:37:55.179
+Carlos Fabian Descalzo: respecto del uso de la de la tecnología. Ustedes vieron que.
+
+350
+00:37:56.120 --> 00:38:09.670
+Carlos Fabian Descalzo: a partir del concepto de lo que tiene que ver con seguridad de la información, hablamos originalmente de lo básico que es confidencialidad, integridad y disponibilidad. En En particular.
+
+351
+00:38:10.290 --> 00:38:19.919
+Carlos Fabian Descalzo: si yo lo veo, únicamente del lado del negocio, les podría decir que de los 3 pilares. El principal es la disponibilidad. Digamos. No
+
+352
+00:38:20.220 --> 00:38:27.729
+Carlos Fabian Descalzo: me puedo llegar a encontrar hoy. Por suerte, no es tan común o no debería de ser tan común.
+
+353
+00:38:28.010 --> 00:38:39.499
+Carlos Fabian Descalzo: pero como que el lema de la gente de sistemas es mientras funcione y nadie se queje. No importa cómo funcione, digamos no con el admin al min, en las bases de datos
+
+354
+00:38:39.770 --> 00:38:43.759
+Carlos Fabian Descalzo: que ya sabemos que no se caen y cosas así por el estilo no.
+
+355
+00:38:44.000 --> 00:38:52.279
+Carlos Fabian Descalzo: Y, sin embargo, en la medida en la que
+
+356
+00:38:52.990 --> 00:39:00.410
+Carlos Fabian Descalzo: fue evolucionando la tecnología en función también de la interacción con las personas, ustedes como para que tengan una idea.
+
+357
+00:39:00.770 --> 00:39:04.750
+Carlos Fabian Descalzo: Fíjense que en esta línea de tiempo que les muestro
+
+358
+00:39:05.010 --> 00:39:13.389
+Carlos Fabian Descalzo: dentro de las 2 primeras instancias, 1. Los datos eran manuales.
+
+359
+00:39:13.390 --> 00:39:30.940
+Carlos Fabian Descalzo: Había una cuestión de inclusive lo más importante, digamos, durante el primer periodo, tenía que ver con los temas de integridad del dato, no que que yo mantuviera integridad del dato para que la información
+
+360
+00:39:30.960 --> 00:39:44.360
+Carlos Fabian Descalzo: que se estuviera utilizando sea íntegra, en en particular, ¿no? Entonces tanto a nivel en en en lo que tenía que ver con el dato manual de estar atento a lo que 1 escribe, etc. Como
+
+361
+00:39:44.680 --> 00:39:56.070
+Carlos Fabian Descalzo: en la primera, las primeras instancias de lo que tenía que ver con la aplicación de de tecnología informática en el negocio
+
+362
+00:39:56.440 --> 00:40:07.950
+Carlos Fabian Descalzo: estaba mucho más orientado el tema de de la integridad y de la disponibilidad, En particular, ¿por qué en
+
+363
+00:40:08.370 --> 00:40:17.339
+Carlos Fabian Descalzo: cuando arrancan los primeros grandes data Centers. En los años 50, ustedes tenían sistemas
+
+364
+00:40:17.780 --> 00:40:36.929
+Carlos Fabian Descalzo: que en esa época es cuando nacieron los sistemas mainframe. Yo voy a hablar. Voy a tirar nombres. Aquel que nos lo relacione. Les pido, por favor, que me me paren y me pregunten y me digan Che Profe. ¿qué es mainframe? Por ejemplo, todos sabemos lo que es un mainframe.
+
+365
+00:40:37.230 --> 00:40:39.359
+Carlos Fabian Descalzo: Lo sintieron nombrar al menos.
+
+366
+00:40:39.360 --> 00:40:40.150
+FRANCISCO DAURAT: Os no.
+
+367
+00:40:40.840 --> 00:40:45.770
+Carlos Fabian Descalzo: ¿no? Bien. Bueno, un sistema main fray es.
+
+368
+00:40:46.530 --> 00:40:58.519
+Carlos Fabian Descalzo: y esto también como para que sepan que la tecnología de la cual hablamos hoy no es de ahora, sino que es de de aquella época. No un sistema mine frame. Es un computador para
+
+369
+00:41:00.210 --> 00:41:05.230
+Carlos Fabian Descalzo: que lo que hoy yo tengo arriba del escritorio, como una Pc.
+
+370
+00:41:05.800 --> 00:41:15.840
+Carlos Fabian Descalzo: Era un computador que tenía la dimensión de una casa prácticamente en aquella época en donde
+
+371
+00:41:16.150 --> 00:41:23.100
+Carlos Fabian Descalzo: el sistema operativo que utilizaba se llamaba 3 90, y
+
+372
+00:41:24.130 --> 00:41:30.400
+Carlos Fabian Descalzo: el esquema de funcionamiento que tenía era de virtualización.
+
+373
+00:41:30.960 --> 00:41:36.849
+Carlos Fabian Descalzo: Lo que ustedes conocen hoy como sistemas virtuales: equipamiento virtual.
+
+374
+00:41:37.070 --> 00:41:43.470
+Carlos Fabian Descalzo: Viene de los años 50 de los equipos Mindfred, en donde esos computadores tenían
+
+375
+00:41:44.090 --> 00:42:00.070
+Carlos Fabian Descalzo: grandes volúmenes de disco en cuanto al tamaño físico. Les hablo, no en cuanto al a la cantidad de gigas, de De hecho, no existían los gigas. Ahora les voy a dar otro ejemplo de otro sistema.
+
+376
+00:42:00.250 --> 00:42:05.519
+Carlos Fabian Descalzo: pero en donde ustedes tenían capacidades de disco físico.
+
+377
+00:42:06.360 --> 00:42:15.460
+Carlos Fabian Descalzo: que el sistema a nivel de sistema operativo. Lo que hacía es, podía dividir en almacenamiento virtual
+
+378
+00:42:16.410 --> 00:42:30.870
+Carlos Fabian Descalzo: Tanto la parte de discos como en procesamiento. La memoria la dividía en memorias virtuales, y lo que armaba era lo que se llamaba Bm Virtual Machine. Entonces vos podías tener
+
+379
+00:42:31.450 --> 00:42:34.939
+Carlos Fabian Descalzo: n cantidad de máquinas virtuales.
+
+380
+00:42:35.050 --> 00:42:41.769
+Carlos Fabian Descalzo: manejando distintos tipos de sistemas en este sistema 390, que era un maind. Sí,
+
+381
+00:42:42.010 --> 00:42:53.000
+Carlos Fabian Descalzo: eso nació en los años 50. Yo voy a ver si ahora, después en el Break, les busco una foto del primer sistema que creó Ibm en en esos años
+
+382
+00:42:53.230 --> 00:43:02.649
+Carlos Fabian Descalzo: en donde lo están entrando con un camión a la computadora dentro de la empresa, ¿no?
+
+383
+00:43:03.010 --> 00:43:09.889
+Carlos Fabian Descalzo: Y en para que ustedes tengan una idea, hay otro sistema que se llama S, 400
+
+384
+00:43:10.230 --> 00:43:16.990
+Carlos Fabian Descalzo: que debe haber nacido alrededor de
+
+385
+00:43:17.130 --> 00:43:22.559
+Carlos Fabian Descalzo: fines de los 70 principios de los 80, en donde
+
+386
+00:43:22.880 --> 00:43:33.010
+Carlos Fabian Descalzo: un cajón de discos que debe pesar alrededor de 300 kilos. Aproximadamente tenía 10 megas de almacenamiento.
+
+387
+00:43:34.200 --> 00:43:39.969
+Carlos Fabian Descalzo: Ustedes fíjense que hoy, en una cosita así como esta. Puedo tener un tera.
+
+388
+00:43:40.830 --> 00:43:51.579
+Carlos Fabian Descalzo: Imagínense tener un tera de información en aquel momento, un montonazo. Entonces una de las cosas que.
+
+389
+00:43:52.330 --> 00:44:01.140
+Carlos Fabian Descalzo: en la medida en la que fuimos avanzando, fuimos compactándonos y tener mayor potencia en esa época.
+
+390
+00:44:01.430 --> 00:44:09.589
+Carlos Fabian Descalzo: Respecto del acceso a la tecnología, lo que tenían las empresas era que los data Center
+
+391
+00:44:09.810 --> 00:44:13.019
+Carlos Fabian Descalzo: tenían acceso únicamente la gente de sistemas.
+
+392
+00:44:13.180 --> 00:44:17.149
+Carlos Fabian Descalzo: El usuario final no tocaba una computadora.
+
+393
+00:44:17.990 --> 00:44:23.630
+Carlos Fabian Descalzo: y en esa época, lo que había era un data Center y al lado una sala de impresión
+
+394
+00:44:23.790 --> 00:44:27.350
+Carlos Fabian Descalzo: con 10, 15, 20 impresoras
+
+395
+00:44:27.620 --> 00:44:37.070
+Carlos Fabian Descalzo: que lo que hacían era imprimir todo lo que procesaba la computadora en el data Center. Y lo que se le acercaba al usuario
+
+396
+00:44:37.180 --> 00:44:42.289
+Carlos Fabian Descalzo: era el listado de lo que salía a nivel de impresión. Entonces.
+
+397
+00:44:42.400 --> 00:44:46.469
+Carlos Fabian Descalzo: en esta época entre 1 950 y 1 970,
+
+398
+00:44:46.780 --> 00:44:56.810
+Carlos Fabian Descalzo: lo que íbamos a tener en esa época nace y saca que era esta institución que les nombré en la medida en la que vayamos viendo algunos
+
+399
+00:44:57.410 --> 00:45:03.879
+Carlos Fabian Descalzo: estándares y normativas. Yo les voy a contar de lo que es cada una de estas instituciones.
+
+400
+00:45:04.050 --> 00:45:13.579
+Carlos Fabian Descalzo: pero en esa época lo lo primero que nació como auditoría de Haití estaba relacionada principalmente al tema de
+
+401
+00:45:13.740 --> 00:45:21.390
+Carlos Fabian Descalzo: identificar los temas de integridad en el procesamiento y lo que estaba relacionado con la disponibilidad.
+
+402
+00:45:22.120 --> 00:45:27.510
+Carlos Fabian Descalzo: que es más cerca de los años 70, cuando empiezan a a
+
+403
+00:45:28.650 --> 00:45:42.510
+Carlos Fabian Descalzo: formalizarse, digamos, los primeros planes de continuidad de negocio los de Rp desde el punto de vista de de servicios del Data Center estaban muy orientados a lo que tenía que ver con
+
+404
+00:45:42.660 --> 00:45:43.960
+Carlos Fabian Descalzo: y
+
+405
+00:45:45.190 --> 00:45:56.269
+Carlos Fabian Descalzo: los temas de de incidentes relacionados con meteorología, el tema de lluvias cuestiones de incendio y cosas así por el estilo, Digamos no.
+
+406
+00:45:57.130 --> 00:45:59.589
+Carlos Fabian Descalzo: Todo Esto se empieza a complejizar
+
+407
+00:46:00.000 --> 00:46:05.120
+Carlos Fabian Descalzo: a partir de ese cuadradito rojo que les estoy mencionando, en donde
+
+408
+00:46:05.290 --> 00:46:09.429
+Carlos Fabian Descalzo: que les estoy indicando perdón en el slide en donde
+
+409
+00:46:09.860 --> 00:46:17.060
+Carlos Fabian Descalzo: lo que había sido o lo que había iniciado como un estudio, un
+
+410
+00:46:17.180 --> 00:46:27.610
+Carlos Fabian Descalzo: una investigación universitaria terminó siendo de uso masivo y global que es la Internet y en dónde.
+
+411
+00:46:28.690 --> 00:46:35.489
+Carlos Fabian Descalzo: a partir de que de los años 80 en adelante se retoma
+
+412
+00:46:35.780 --> 00:46:40.340
+Carlos Fabian Descalzo: la actualización de los servicios de
+
+413
+00:46:40.980 --> 00:46:50.440
+Carlos Fabian Descalzo: de virtualización. Ahí es donde nacen B, I m. Microsoft entre sus cuestiones tecnológicas, de virtualización y, todo, sobre la base
+
+414
+00:46:50.630 --> 00:46:55.439
+Carlos Fabian Descalzo: de lo que llama Einfrimem con I B. M. Venían haciendo desde los años 50.
+
+415
+00:46:55.690 --> 00:46:58.010
+Carlos Fabian Descalzo: Una de las cosas que explotó también
+
+416
+00:46:58.140 --> 00:47:10.450
+Carlos Fabian Descalzo: ya cercano a los años 2 000. Es el tema de el Big Data Machine learning e inteligencia artificial. No, Ahí empezó a volver a
+
+417
+00:47:10.790 --> 00:47:16.499
+Carlos Fabian Descalzo: a retomarse, digamos, ese ese tipo de de de tecnologías.
+
+418
+00:47:16.610 --> 00:47:24.659
+Carlos Fabian Descalzo: ¿por qué digo retomarse lo que ustedes conocen hoy como inteligencia artificial.
+
+419
+00:47:24.890 --> 00:47:36.820
+Carlos Fabian Descalzo: Tampoco es nuevo el el concepto de robótica tiene su primer Tratado formal.
+
+420
+00:47:37.850 --> 00:47:43.799
+Carlos Fabian Descalzo: que es como si fuera un contrato entre los robots y las personas en 1 942,
+
+421
+00:47:44.380 --> 00:47:48.609
+Carlos Fabian Descalzo: que es cuando Isaac Asimov escribe el libro, yo robot
+
+422
+00:47:49.610 --> 00:47:58.080
+Carlos Fabian Descalzo: que ustedes, por la edad que tienen, seguramente están más asociados con el yo robot de Will Smith. La película que el libro, obviamente.
+
+423
+00:47:58.550 --> 00:48:03.960
+Carlos Fabian Descalzo: y la primera vez que se menciona o o o se
+
+424
+00:48:04.320 --> 00:48:18.830
+Carlos Fabian Descalzo: instituye, digamos, la la la frase, inteligencia artificial fue en 1 947 y las primeras y
+
+425
+00:48:19.860 --> 00:48:28.570
+Carlos Fabian Descalzo: prácticas, digamos, de aprendizaje automático, etcétera, etcétera. Empiezan a analizarse en 1 950.
+
+426
+00:48:29.180 --> 00:48:39.070
+Carlos Fabian Descalzo: El El problema es que, como ustedes saben, inteligencia artificial requiere muchísimo
+
+427
+00:48:39.320 --> 00:48:46.479
+Carlos Fabian Descalzo: requiere de muchísimo no sólo almacenamiento, sino también procesamiento.
+
+428
+00:48:46.480 --> 00:49:02.529
+Carlos Fabian Descalzo: con lo cual hay un gran consumo de energía requeris, digamos no solo recursos desde el punto de vista tecnológico, sino también que hay mucho del recurso natural que tenés. De hecho, hoy por hoy, el problema que tenemos con inteligencia artificial es el tema de la sostenibilidad.
+
+429
+00:49:03.770 --> 00:49:07.830
+Carlos Fabian Descalzo: sumado a esta cuestión, lo del tema tecnológico.
+
+430
+00:49:08.660 --> 00:49:19.280
+Carlos Fabian Descalzo: la la los los ensayos relacionados con inteligencia artificial dejaron de hacerse alrededor de mediados de los años 60
+
+431
+00:49:19.870 --> 00:49:21.899
+Carlos Fabian Descalzo: y se volvieron a retomar
+
+432
+00:49:22.460 --> 00:49:31.980
+Carlos Fabian Descalzo: de los del 70 y pico 80 en adelante. Digamos no por todo esto que les comentaba. De hecho, van a encontrar.
+
+433
+00:49:32.860 --> 00:49:38.260
+Carlos Fabian Descalzo: Yo no recuerdo si fue más cerca de los 80, pero le anda por ahí
+
+434
+00:49:38.470 --> 00:49:49.720
+Carlos Fabian Descalzo: de que hay una computadora, una supercomputadora que que que creó i B M que se llamaba big blue
+
+435
+00:49:50.860 --> 00:49:54.119
+Carlos Fabian Descalzo: que le jugó una partida de ajedrez
+
+436
+00:49:54.230 --> 00:50:00.789
+Carlos Fabian Descalzo: al a Kasparov, que era el el el campeón mundial en ese entonces, y le ganó.
+
+437
+00:50:00.910 --> 00:50:01.639
+Carlos Fabian Descalzo: Digamos, no.
+
+438
+00:50:01.960 --> 00:50:08.890
+Carlos Fabian Descalzo: Entonces ahí es donde se retoman todas estas cuestiones, No, con esto a lo que voy
+
+439
+00:50:10.340 --> 00:50:13.960
+Carlos Fabian Descalzo: es el hecho de que primero que nada. Vean ustedes como
+
+440
+00:50:14.660 --> 00:50:20.400
+Carlos Fabian Descalzo: es que en base a nuestras necesidades, fuimos explotando cuestiones
+
+441
+00:50:20.750 --> 00:50:25.000
+Carlos Fabian Descalzo: que están relacionadas con la tecnología, en dónde.
+
+442
+00:50:25.520 --> 00:50:30.770
+Carlos Fabian Descalzo: también en la medida en la que exponen exponencialmente la tecnología crece.
+
+443
+00:50:30.920 --> 00:50:33.910
+Carlos Fabian Descalzo: también crecen los riesgos y los riesgos.
+
+444
+00:50:34.030 --> 00:50:38.890
+Carlos Fabian Descalzo: Este Sobre temas relacionados con la integridad.
+
+445
+00:50:39.580 --> 00:50:51.619
+Carlos Fabian Descalzo: y ya no solamente con los datos a nivel de integridad por una cuestión de resultados, sino que últimamente, cuando digo últimamente, en los últimos 10 15 años
+
+446
+00:50:51.900 --> 00:51:04.849
+Carlos Fabian Descalzo: ha crecido también la gran presión regulatoria sobre los temas de privacidad, sobre los datos que son propiedad de las personas, ya sea nuestros datos filiatorios, digamos.
+
+447
+00:51:04.900 --> 00:51:17.429
+Carlos Fabian Descalzo: como principalmente los datos sensibles, los datos relacionados con la salud, con con este, nuestras preferencias, etcétera, no en donde todo esto
+
+448
+00:51:17.520 --> 00:51:23.339
+Carlos Fabian Descalzo: se ve potenciado principalmente o no solamente
+
+449
+00:51:23.540 --> 00:51:40.969
+Carlos Fabian Descalzo: con lo que puede hacer una empresa dentro de su organización respecto de sus sistemas y los datos que por su propio negocio, manejan, sino también lo que nosotros hacemos con nuestros datos. No
+
+450
+00:51:41.080 --> 00:51:49.969
+Carlos Fabian Descalzo: ustedes van a ver que a lo largo de las distintas charlas que vayamos teniendo, sobre todo cuando veamos los temas de normativa de privacidad.
+
+451
+00:51:51.020 --> 00:51:58.189
+Carlos Fabian Descalzo: la clase va a ser casi una charla de concientización, digamos no, porque mucho tiene que ver con eso. Nosotros.
+
+452
+00:51:58.760 --> 00:52:07.200
+Carlos Fabian Descalzo: dentro de ese cuadradito rojo entre 1 990 y del 2 000. Diez En adelante, sobre todo.
+
+453
+00:52:07.530 --> 00:52:13.260
+Carlos Fabian Descalzo: hemos perdido esa percepción del riesgo
+
+454
+00:52:13.680 --> 00:52:18.919
+Carlos Fabian Descalzo: sobre los temas relacionados con nuestros propios datos, Digamos no
+
+455
+00:52:19.370 --> 00:52:22.990
+Carlos Fabian Descalzo: y no solamente desde el punto de vista tecnológico, sino
+
+456
+00:52:23.160 --> 00:52:26.940
+Carlos Fabian Descalzo: desde el punto de vista del relacionamiento de las personas
+
+457
+00:52:27.520 --> 00:52:39.349
+Carlos Fabian Descalzo: perdimos dimensión de frontera de límites. Respecto de con quién debo hablar tal o cual tema, o con quién voy a compartir tal o cual información.
+
+458
+00:52:39.570 --> 00:52:43.780
+Carlos Fabian Descalzo: y esa percepción la pierdo
+
+459
+00:52:44.200 --> 00:53:01.179
+Carlos Fabian Descalzo: cuando estoy en el almacén o en la parada de colectivo, o cuando estoy ingresando información o datos dentro de inteligencia artificial, sentado en el escritorio de mi casa o en el escritorio del labura, donde yo pienso que todo pasa en el metro cuadrado en el que estoy, ¿no?
+
+460
+00:53:01.280 --> 00:53:08.100
+Carlos Fabian Descalzo: Entonces ahí esto, digamos en en general, como una cuestión de
+
+461
+00:53:08.280 --> 00:53:12.569
+Carlos Fabian Descalzo: de evolución de movimiento en particular es una de las cuestiones.
+
+462
+00:53:13.080 --> 00:53:20.319
+Carlos Fabian Descalzo: Los otros temas que que a mí, y esto lo he mencionado en en algunas charlas. También me
+
+463
+00:53:21.260 --> 00:53:25.340
+Carlos Fabian Descalzo: me parece como un disparador respecto de estas cuestiones.
+
+464
+00:53:26.200 --> 00:53:36.010
+Carlos Fabian Descalzo: Son situaciones de crisis, hitos particulares en donde
+
+465
+00:53:36.310 --> 00:53:43.810
+Carlos Fabian Descalzo: la humanidad en general ha tenido la necesidad de tener que reponerse
+
+466
+00:53:44.040 --> 00:53:47.159
+Carlos Fabian Descalzo: y respaldarse en la tecnología para poder
+
+467
+00:53:47.500 --> 00:53:54.120
+Carlos Fabian Descalzo: salir de del pozo en el que se encontraba. No hay 2 grandes hitos que yo identifico
+
+468
+00:53:55.020 --> 00:53:59.990
+Carlos Fabian Descalzo: y que tienen de alguna manera. Si ustedes lo piensan, y
+
+469
+00:54:00.670 --> 00:54:09.169
+Carlos Fabian Descalzo: su explicación en en en cómo eso se representa en determinado tipo de estándares y normativas en general.
+
+470
+00:54:09.630 --> 00:54:18.600
+Carlos Fabian Descalzo: Uno es lo que sucedió con la finalización de la Segunda Guerra mundial y
+
+471
+00:54:18.920 --> 00:54:27.149
+Carlos Fabian Descalzo: en el nivel de impacto a nivel global de la Segunda Guerra Mundial, tuvo que ver mucho con
+
+472
+00:54:28.370 --> 00:54:36.700
+Carlos Fabian Descalzo: cómo reconvertir a las organizaciones, sobre todo manufactura.
+
+473
+00:54:37.540 --> 00:54:40.859
+Carlos Fabian Descalzo: Todo lo que tenía que ver con industria en
+
+474
+00:54:41.030 --> 00:54:43.769
+Carlos Fabian Descalzo: dejar de fabricar tanques y aviones
+
+475
+00:54:44.430 --> 00:55:00.689
+Carlos Fabian Descalzo: para volver a fabricar autos para volver a fabricar latas de tomate, etcétera. No sé si lo sabían, pero fíjense el nivel de cambio que que ha generado oportunamente la guerra, en donde, por ejemplo, la marquilla de cigarrillos
+
+476
+00:55:00.750 --> 00:55:12.369
+Carlos Fabian Descalzo: había una marca en ese momento muy famosa que se llamaba laki strike, que era una marquilla blanca
+
+477
+00:55:12.710 --> 00:55:16.459
+Carlos Fabian Descalzo: con el logo de Fondo Rojo y letras negras.
+
+478
+00:55:17.740 --> 00:55:23.929
+Carlos Fabian Descalzo: y la el para conformar el color rojo tenían que usar un metal
+
+479
+00:55:25.040 --> 00:55:29.079
+Carlos Fabian Descalzo: que yo ahora no me está saliendo el nombre, pero tenían que utilizar un metal
+
+480
+00:55:29.920 --> 00:55:34.349
+Carlos Fabian Descalzo: que ese metal era necesario para poder fabricar armamento.
+
+481
+00:55:34.680 --> 00:55:40.509
+Carlos Fabian Descalzo: Por lo tanto, la marquilla del cigarrillo durante el periodo de la guerra no tuvo más el color rojo.
+
+482
+00:55:42.240 --> 00:55:49.490
+Carlos Fabian Descalzo: Eso mismo se traslada a lo que tiene que ver con
+
+483
+00:55:50.270 --> 00:56:01.340
+Carlos Fabian Descalzo: cómo diseñar y cómo fabricar un producto para que sea aceptable en en, en, digamos, en el público en general, en la comunidad.
+
+484
+00:56:02.640 --> 00:56:12.089
+Carlos Fabian Descalzo: Y en esa época nace lo que tiene que ver con lo que se llamó como metodología, calidad total.
+
+485
+00:56:12.550 --> 00:56:19.579
+Carlos Fabian Descalzo: en donde es un americano el que diseña el concepto de calidad total.
+
+486
+00:56:20.050 --> 00:56:25.150
+Carlos Fabian Descalzo: y el primero en aplicarlo es Japón a través de sus plantas.
+
+487
+00:56:25.290 --> 00:56:38.579
+Carlos Fabian Descalzo: Toyota, por ejemplo, si mal no recuerdo, fue la primera en tener este concepto de calidad total en su fabricación, que consistía en el hecho de
+
+488
+00:56:39.180 --> 00:56:42.749
+Carlos Fabian Descalzo: establecer un estándar de fabricación
+
+489
+00:56:42.920 --> 00:56:56.040
+Carlos Fabian Descalzo: con requisitos y controles certificables para poder garantizar este tema de la calidad total. A partir de ahí arrancó el tema de la Iso Nueve, 1 001 que seguramente ustedes conocen.
+
+490
+00:56:56.200 --> 00:57:02.349
+Carlos Fabian Descalzo: que está referido a lo que tiene que ver con calidad. Y fíjense ustedes
+
+491
+00:57:03.840 --> 00:57:07.250
+Carlos Fabian Descalzo: qué paradoja en esto que les cuento. ¿no? Porque
+
+492
+00:57:08.020 --> 00:57:12.630
+Carlos Fabian Descalzo: los que inician con el tema de calidad total. Son los japoneses
+
+493
+00:57:13.270 --> 00:57:16.670
+Carlos Fabian Descalzo: que con quién estaban aliados en la guerra con Alemania
+
+494
+00:57:17.540 --> 00:57:21.069
+Carlos Fabian Descalzo: y Alemania a través de una entidad que se llama Teof.
+
+495
+00:57:22.070 --> 00:57:29.550
+Carlos Fabian Descalzo: Son los que establecen la metodología de auditoría
+
+496
+00:57:30.080 --> 00:57:42.730
+Carlos Fabian Descalzo: para lo que son normas. I S, o entre ellas la I S. O ¿Nueve? 1 000. Uno sí. Después habrán visto que está la 27 000. Uno: 20 014 1 050 1 000, etcétera. Hay en general.
+
+497
+00:57:43.260 --> 00:57:52.100
+Carlos Fabian Descalzo: cuando lleguemos a la parte de Tube, le voy a contar cómo nació Tuube y todo para no hacerles muy largo ahora este tema y que no se me duerman.
+
+498
+00:57:53.540 --> 00:58:00.119
+Carlos Fabian Descalzo: Ese es el primer hito, no que yo a mí me interesa en este caso, que ustedes lo conozcan
+
+499
+00:58:00.650 --> 00:58:06.220
+Carlos Fabian Descalzo: para que vean de qué forma reaccionó el negocio
+
+500
+00:58:06.750 --> 00:58:16.400
+Carlos Fabian Descalzo: en función de hacerse de una herramienta que es la metodología para poder diferenciarse en el mercado.
+
+501
+00:58:18.270 --> 00:58:21.800
+Carlos Fabian Descalzo: Y estamos hablando que eso pasó hace un siglo.
+
+502
+00:58:21.930 --> 00:58:26.489
+Carlos Fabian Descalzo: Sí, Por el otro lado.
+
+503
+00:58:27.180 --> 00:58:37.469
+Carlos Fabian Descalzo: el otro detalle importante digamos, respecto, de estas necesidades de cambio. Tuvo que ver con la pandemia que sufrimos hace 6 años.
+
+504
+00:58:38.400 --> 00:58:47.279
+Carlos Fabian Descalzo: Ustedes fíjense que y veníamos hablando ya desde hacía 15 años atrás, por lo menos
+
+505
+00:58:48.020 --> 00:58:57.830
+Carlos Fabian Descalzo: desde el principio de los años 2 000. Cuando arranca todo este tema de big data y empezamos con el tema de los celulares y cosas así por el estilo.
+
+506
+00:58:58.160 --> 00:59:05.690
+Carlos Fabian Descalzo: Hablábamos de de lo que era innovación y transformación digital.
+
+507
+00:59:06.980 --> 00:59:12.220
+Carlos Fabian Descalzo: en donde era muy usado como una un eslogan de marketing.
+
+508
+00:59:13.990 --> 00:59:22.650
+Carlos Fabian Descalzo: y yo por ahí instalaba una aplicación on premise. Digo, en mi datacenter, o estaba utilizando
+
+509
+00:59:23.470 --> 00:59:36.290
+Carlos Fabian Descalzo: una aplicación para para hacer un trabajo Uy. Eso es transformación digital. Y la realidad es que no. No es transformación digital. Estás usando un excel para armar una tabla de datos. Nada más que eso.
+
+510
+00:59:37.260 --> 00:59:39.789
+Carlos Fabian Descalzo: En cambio, con el tema de la pandemia
+
+511
+00:59:40.720 --> 00:59:53.719
+Carlos Fabian Descalzo: pasó de que de que realmente el negocio empezó a ver de que necesitaba transformarse digitalmente para poder tener cercanía con el cliente. El ejemplo más claro
+
+512
+00:59:54.000 --> 01:00:02.600
+Carlos Fabian Descalzo: es el en en como automatizar el on boarding a los servicios de un banco. Por ejemplo, ni siquiera el home banking
+
+513
+01:00:03.160 --> 01:00:13.869
+Carlos Fabian Descalzo: era transformación digital, Lo que hace que eso se convierta en transformación digital es el hecho de potenciar
+
+514
+01:00:14.360 --> 01:00:18.170
+Carlos Fabian Descalzo: la herramienta del home banking con la
+
+515
+01:00:18.370 --> 01:00:26.060
+Carlos Fabian Descalzo: determinado tipo de otras herramientas que dejo a disposición del usuario cliente
+
+516
+01:00:26.310 --> 01:00:36.840
+Carlos Fabian Descalzo: para que él pueda, a través de la automatización de un proceso determinado, tener acceso a los productos del banco o al banco mismo. Inclusive no
+
+517
+01:00:37.790 --> 01:00:43.410
+Carlos Fabian Descalzo: acá se refuerza no solamente este tema de
+
+518
+01:00:43.890 --> 01:00:50.320
+Carlos Fabian Descalzo: de que realmente me tengo que transformar digitalmente, sino que también
+
+519
+01:00:50.640 --> 01:01:02.140
+Carlos Fabian Descalzo: había ya un concepto respecto del tema de la identidad digital para poder acceder a estos recursos, etcétera.
+
+520
+01:01:02.970 --> 01:01:07.359
+Carlos Fabian Descalzo: que estaban asociados, por un lado, con lo que se llama Yam
+
+521
+01:01:07.480 --> 01:01:14.560
+Carlos Fabian Descalzo: Identity Access Management, que es lo que hago yo puertas adentro de de de mi empresa.
+
+522
+01:01:14.760 --> 01:01:29.320
+Carlos Fabian Descalzo: en donde yo a mis usuarios les doy una cuenta de usuario, una cuenta de correo, accesos y privilegios a determinado tipo de este herramientas, recursos o datos digitales, etcétera.
+
+523
+01:01:30.290 --> 01:01:44.070
+Carlos Fabian Descalzo: Lo otro que tuve que empezar a hacerle sintonía fina es a lo que se llama Siam Castomer Identity access management, que está asociado a la identidad digital de mis clientes.
+
+524
+01:01:44.820 --> 01:01:57.770
+Carlos Fabian Descalzo: ¿qué tipo de enfoque respecto del uso aplicativo y del acceso a datos y de los permisos para poder
+
+525
+01:01:58.650 --> 01:02:07.600
+Carlos Fabian Descalzo: tener los derechos de cambiar sus propios datos y todo, yo le voy a dar a mi cliente dentro de mis aplicaciones.
+
+526
+01:02:07.910 --> 01:02:24.669
+Carlos Fabian Descalzo: Es todo un tema, y seguramente de Richard, vos que estabas no con con temas de desarrollo, etcétera. Y alguno de los otros chicos que también estaba en desarrollo, seguramente tienen que haber en algún momento del proyecto en el que estuviesen.
+
+527
+01:02:25.170 --> 01:02:39.129
+Carlos Fabian Descalzo: si tenía que ver con algo de esto, que yo menciono haber hecho. Este tipo de análisis no solo ver cómo me entran los de adentro, sino también a nivel seguro, como me entran los de afuera. No no sé Richard, si es así.
+
+528
+01:02:42.520 --> 01:02:46.309
+RICARDO MORALES ORTIZ: Sí, más más o menos esa analogía, pero sí.
+
+529
+01:02:46.980 --> 01:02:53.200
+Carlos Fabian Descalzo: Pero vamos por ese lado, digo, no por ahí. No te tocó. En cuanto a la experiencia que que que hayas tenido, pero.
+
+530
+01:02:53.200 --> 01:02:57.719
+RICARDO MORALES ORTIZ: Claro, sí, sí, pero sí sí va encaminado exactamente.
+
+531
+01:02:57.840 --> 01:03:02.920
+Carlos Fabian Descalzo: Bien, perfecto. Entonces fíjense ustedes cómo.
+
+532
+01:03:03.350 --> 01:03:08.589
+Carlos Fabian Descalzo: en función de de estas cuestiones, ¿no? Y en donde
+
+533
+01:03:09.710 --> 01:03:16.710
+Carlos Fabian Descalzo: el el principal impacto que hubo en este ejemplo que les doy de lo que nos pasó en pandemia.
+
+534
+01:03:17.020 --> 01:03:24.469
+Carlos Fabian Descalzo: Hemos llegado a que se nos quintupliquen los incidentes a nivel de ciberseguridad y los fraudes.
+
+535
+01:03:24.840 --> 01:03:25.880
+Carlos Fabian Descalzo: ¿por qué?
+
+536
+01:03:26.580 --> 01:03:29.999
+Carlos Fabian Descalzo: Porque todo el mundo salió a ver de cómo se conectaba con el resto.
+
+537
+01:03:30.290 --> 01:03:33.069
+Carlos Fabian Descalzo: Pero nadie se fijó cómo hacerlo en forma segura.
+
+538
+01:03:33.280 --> 01:03:43.240
+Carlos Fabian Descalzo: Ni siquiera las empresas de servicios que se dedicaban a venderle productos a bancos y a otras empresas.
+
+539
+01:03:43.870 --> 01:03:53.229
+Carlos Fabian Descalzo: por ejemplo, con temas de autenticación biométrica y cosas así por el estilo. De hecho, fíjense ustedes cómo será
+
+540
+01:03:53.430 --> 01:03:56.860
+Carlos Fabian Descalzo: de que en esa época.
+
+541
+01:03:57.330 --> 01:04:05.260
+Carlos Fabian Descalzo: Seguramente aquellos que hayan estado por ahí un poco más cerca de la parte de de bancos o algo así por el estilo.
+
+542
+01:04:05.390 --> 01:04:18.070
+Carlos Fabian Descalzo: el banco central público o o o desarrolló, digamos, una comunicación específica respecto de incidentes de ciberseguridad
+
+543
+01:04:18.200 --> 01:04:22.420
+Carlos Fabian Descalzo: en donde iba a empezar a multar a los bancos
+
+544
+01:04:22.690 --> 01:04:33.269
+Carlos Fabian Descalzo: que tuviesen incidentes de fraude a clientes por razones de de ataques de ciberseguridad. Digamos no. Entonces
+
+545
+01:04:33.540 --> 01:04:36.549
+Carlos Fabian Descalzo: con esto lo que les quiero significar es que, además.
+
+546
+01:04:37.450 --> 01:04:41.969
+Carlos Fabian Descalzo: en aquello que ustedes estén trabajando, no importa si van a ser
+
+547
+01:04:42.590 --> 01:04:48.009
+Carlos Fabian Descalzo: principalmente si son auditores o van a estar dentro de algún área de
+
+548
+01:04:48.330 --> 01:05:04.150
+Carlos Fabian Descalzo: de control interno o ser analista de de seguridad, de ciberseguridad, etcétera. Pero también si yo soy desarrollador o si soy arquitecto de soluciones tecnológicas, etcétera.
+
+549
+01:05:04.510 --> 01:05:22.260
+Carlos Fabian Descalzo: Tengo que entender también cuál es el contexto de mi cliente. Si estoy en una empresa de servicios o de mi empresa, si es que estoy trabajando para mi empresa, no en entender qué regulaciones son las que tienen que le puede llegar a impactar aquello que se esté desarrollando
+
+550
+01:05:22.360 --> 01:05:29.339
+Carlos Fabian Descalzo: como producto como servicio tecnológico, en función de conocer la regulación.
+
+551
+01:05:29.410 --> 01:05:44.579
+Carlos Fabian Descalzo: por un lado, principalmente de conocer, desde el punto de vista contractual los los requerimientos y obligaciones que hay con clientes y con proveedores, por ejemplo, no como para poder ver si realmente
+
+552
+01:05:44.750 --> 01:05:55.790
+Carlos Fabian Descalzo: estoy en base a las normas y las regulaciones, Estoy llevando adelante un proyecto en forma adecuada, No, sí octa, cómo va.
+
+553
+01:05:56.460 --> 01:06:02.809
+OCTAVIO RIEGO: ¿cómo va? Sí, justo a eso que vos le querías agregar de tema normativa de esa cuestión. Yo trabajo en un banco.
+
+554
+01:06:03.620 --> 01:06:04.460
+Carlos Fabian Descalzo: Mhm.
+
+555
+01:06:04.460 --> 01:06:22.260
+OCTAVIO RIEGO: Y tiene. Vi, Viene mucho de la mano con lo que vos decis de la migración a lo digital, la inmigración digital. Justo cuando yo entré al banco, este está en un proceso de inmigración digital con Home Mankin y con muchos servicios que antes eran
+
+556
+01:06:22.350 --> 01:06:33.679
+OCTAVIO RIEGO: o no sé si presenciales necesariamente, pero que requerían papel. Y en todo este proceso queríamos mover muchos de los sistemas a la nube
+
+557
+01:06:34.210 --> 01:06:36.239
+OCTAVIO RIEGO: más que nada el coro bancario.
+
+558
+01:06:36.450 --> 01:06:46.999
+OCTAVIO RIEGO: y nos encontramos en una situación donde nosotros queríamos subir la base de datos a la nube para tener todo ahí y tener un un s q lloud como como sas.
+
+559
+01:06:47.090 --> 01:06:57.770
+OCTAVIO RIEGO: Y estamos teniendo problemas porque la persona que se encarga de revisar todas las normativas y todas esas cuestiones nos decía que
+
+560
+01:06:57.840 --> 01:07:08.910
+OCTAVIO RIEGO: por normativa del Becerreá, sí o sí, tienes que tener una copia de los datos en presencial o en premis no ese tipo de cuestiones. También hay que valorarlas.
+
+561
+01:07:09.850 --> 01:07:20.249
+Carlos Fabian Descalzo: Sí, sí. Y aparte está, bueno, la la mención que que haces en algún momento. Vamos a ahondar un poquito más con lo que tiene que ver con con servicios de nube.
+
+562
+01:07:20.710 --> 01:07:29.539
+Carlos Fabian Descalzo: Pero hoy por hoy y en esto, en este proceso en el que están
+
+563
+01:07:31.140 --> 01:07:37.749
+Carlos Fabian Descalzo: es el hecho de lo que van a ver que después voy a mostrar en las compañías.
+
+564
+01:07:38.070 --> 01:07:41.700
+Carlos Fabian Descalzo: Ya el año pasado estaba estimado
+
+565
+01:07:41.840 --> 01:07:47.940
+Carlos Fabian Descalzo: en que tuviesen un 80 por 100 de todos sus procesos automatizados de alguna manera.
+
+566
+01:07:48.700 --> 01:08:04.810
+Carlos Fabian Descalzo: en donde, y esto a los chicos que están con la materia mía de los lunes les va a resonar porque ya lo comenté, pero los proveedores ya no son proveedores. El que te vende un o al que vos le contratas
+
+567
+01:08:05.110 --> 01:08:12.550
+Carlos Fabian Descalzo: un servicio de nube de tipo Saas, por ejemplo, para aquellos que no estén con en conocimiento de esto.
+
+568
+01:08:12.670 --> 01:08:13.860
+Carlos Fabian Descalzo: Es una.
+
+569
+01:08:13.990 --> 01:08:17.769
+Carlos Fabian Descalzo: Es un tipo de servicio que te da
+
+570
+01:08:18.149 --> 01:08:35.009
+Carlos Fabian Descalzo: un servicio virtualizado en la nube, en donde te dan desde la infraestructura, o sea, el espacio físico, el Racc, el el generador, la Ups, el Firewall, el switch hasta
+
+571
+01:08:35.170 --> 01:08:39.119
+Carlos Fabian Descalzo: la aplicación de, de negocio, digamos no
+
+572
+01:08:39.500 --> 01:08:46.350
+Carlos Fabian Descalzo: en donde Fíjate que acá hay 2 temas que son importantes, al menos 2.
+
+573
+01:08:47.060 --> 01:08:48.720
+Carlos Fabian Descalzo: El El primero es.
+
+574
+01:08:49.149 --> 01:08:53.679
+Carlos Fabian Descalzo: yo estoy delegando en este proveedor que ya no es un proveedor, es un socio de negocios.
+
+575
+01:08:54.010 --> 01:08:57.140
+Carlos Fabian Descalzo: ¿por qué? Porque yo le estoy delegando
+
+576
+01:08:57.810 --> 01:09:04.590
+Carlos Fabian Descalzo: la operación de una parte de mi proceso en función de la tecnología que él me brinda.
+
+577
+01:09:05.890 --> 01:09:16.069
+Carlos Fabian Descalzo: Entonces esa persona, esa empresa pasó a ser responsable junto conmigo.
+
+578
+01:09:16.350 --> 01:09:19.330
+Carlos Fabian Descalzo: del resultado que da ese proceso.
+
+579
+01:09:19.870 --> 01:09:23.899
+Carlos Fabian Descalzo: para lo cual yo obviamente tengo que poner controles en donde
+
+580
+01:09:24.279 --> 01:09:34.660
+Carlos Fabian Descalzo: lo primordial que yo no tengo que olvidarme es que, por más que deleguen un tercero, la parte de la operación, la responsabilidad por sobre
+
+581
+01:09:34.790 --> 01:09:36.260
+Carlos Fabian Descalzo: los datos
+
+582
+01:09:36.560 --> 01:09:47.070
+Carlos Fabian Descalzo: y la responsabilidad final de todo. La tengo yo, no la tiene el otro. Lo que yo sí tengo que entender es que si el proveedor hace mal las cosas.
+
+583
+01:09:47.370 --> 01:09:54.750
+Carlos Fabian Descalzo: El problema lo voy a tener yo. Por eso digo que lo tengo como socio, ¿no? Y de alguna manera él me ayuda
+
+584
+01:09:55.090 --> 01:09:57.080
+Carlos Fabian Descalzo: a poder obtener un resultado.
+
+585
+01:09:57.390 --> 01:10:04.670
+Carlos Fabian Descalzo: Ustedes siempre tengan en cuenta de que cuando yo elijo tercerizar algo.
+
+586
+01:10:05.050 --> 01:10:09.270
+Carlos Fabian Descalzo: es porque el proveedor tiene capacidades que yo no tengo
+
+587
+01:10:09.720 --> 01:10:13.120
+Carlos Fabian Descalzo: y porque, además, me da un valor agregado
+
+588
+01:10:13.350 --> 01:10:18.259
+Carlos Fabian Descalzo: al proceso que yo actualmente estoy manejando. Se entiende
+
+589
+01:10:18.980 --> 01:10:38.589
+Carlos Fabian Descalzo: en entonces yo no voy a tercerizar porque sí. A eso le estoy sacando una ganancia. Le estoy siendo más rentable. Estoy generándole un valor agregado. Lo que no me tengo que olvidar es que hay un porcentaje de eso que lo tengo que aplicar a controles
+
+590
+01:10:38.880 --> 01:10:47.589
+Carlos Fabian Descalzo: que le voy a tener que hacer al proveedor en particular, Y el otro tema con la obtención de resultado
+
+591
+01:10:48.750 --> 01:11:06.620
+Carlos Fabian Descalzo: es que no solo se trata del resultado de negocio que tengo que cubrir, o tengo que tener tal rentabilidad o facturar tanto, etcétera. No hay un resultado de cumplimiento. También hay un resultado de control interno. En el caso que Vos comentas octavio.
+
+592
+01:11:07.550 --> 01:11:12.069
+Carlos Fabian Descalzo: el resultado que tiene que acompañar el proveedor
+
+593
+01:11:12.410 --> 01:11:15.330
+Carlos Fabian Descalzo: es que las auditorías del banco central salgan bien.
+
+594
+01:11:15.990 --> 01:11:24.650
+Carlos Fabian Descalzo: porque cuando te vayan a auditar el proceso en el que estás utilizando ese servicio, lo van a ir auditar al proveedor.
+
+595
+01:11:24.930 --> 01:11:29.210
+Carlos Fabian Descalzo: Y ahí hay situaciones, Eso después. Posiblemente lo veamos
+
+596
+01:11:29.610 --> 01:11:33.060
+Carlos Fabian Descalzo: cuando hablamos de gestión de proyectos, etcétera.
+
+597
+01:11:33.220 --> 01:11:44.120
+Carlos Fabian Descalzo: pero son situaciones que tienen que estar previstas previamente a contratar al proveedor y tienen que estar especificadas en el contrato con el proveedor, en donde
+
+598
+01:11:44.950 --> 01:11:55.330
+Carlos Fabian Descalzo: siempre tiene que haber una cláusula de auditabilidad. El proveedor no puede decir vos a mí no me podés auditar, y dentro de esa cláusula de auditabilidad.
+
+599
+01:11:56.280 --> 01:12:05.949
+Carlos Fabian Descalzo: Tiene que haber un alcance que esté incluido tanto las auditorías internas, o sea, mi propia auditoría. Yo voy y le hago una auditoría a él
+
+600
+01:12:06.080 --> 01:12:12.250
+Carlos Fabian Descalzo: como la de mis entes reguladores, porque no sólo está el Banco Central suponete
+
+601
+01:12:12.630 --> 01:12:19.720
+Carlos Fabian Descalzo: que el Banco, además sea procesador de tarjetas tendría que certificar Pci.
+
+602
+01:12:19.910 --> 01:12:25.160
+Carlos Fabian Descalzo: que es un estándar de de seguridad para medios de pago electrónico
+
+603
+01:12:25.530 --> 01:12:38.620
+Carlos Fabian Descalzo: que también lo vamos a ver durante la cursada, aunque sea brevemente, digamos, como para que ustedes tengan un un concepto general, pero yo tengo determinado. Suponete que tu banco. Inclusive esté certificado en un proceso. 27 000. Uno.
+
+604
+01:12:39.390 --> 01:12:48.669
+Carlos Fabian Descalzo: Todo es todas esas cuestiones de estándares, regulaciones y certificaciones de negocio, etcétera.
+
+605
+01:12:48.790 --> 01:12:50.919
+Carlos Fabian Descalzo: son las que hay que tener en cuenta
+
+606
+01:12:51.930 --> 01:12:58.120
+Carlos Fabian Descalzo: tanto en el desarrollo de un servicio o de un producto como en la contratación
+
+607
+01:12:58.320 --> 01:13:08.739
+Carlos Fabian Descalzo: hasta en la adecuación de lo que tiene que ver un proceso de negocio o un proceso tecnológico, no que yo entiendo ahí octa que que tien viene por ese lado, también todos los
+
+608
+01:13:08.930 --> 01:13:11.849
+Carlos Fabian Descalzo: temas que que están descubriendo ahora no.
+
+609
+01:13:12.000 --> 01:13:28.300
+OCTAVIO RIEGO: Sí, sí, por supuesto, por supuesto, y hay por ahí, siempre siempre sale algo nuevo. Igual este más que nada con el tema de de de datos, que es con lo que más lo que más piden. Siempre tenemos que generar un reporte mensual de de las operaciones que se realizan sobre la base y
+
+610
+01:13:28.540 --> 01:13:30.339
+OCTAVIO RIEGO: cada vez pide más cosas.
+
+611
+01:13:30.710 --> 01:13:35.710
+Carlos Fabian Descalzo: Mhm tal cual tal cual. Bien, ustedes fíjense lo aparte.
+
+612
+01:13:36.150 --> 01:13:48.920
+Carlos Fabian Descalzo: Yo sé que que todo lo que tenga que ver con Uy. Tengo que escribir una norma, un procedimiento. Todo lo que tenga que ver con marco normativo están de qué yo puede sonar bastante aburrido.
+
+613
+01:13:49.510 --> 01:13:59.610
+Carlos Fabian Descalzo: Pero fíjense que todavía no pasamos del primer slide de todas las cosas que hablamos, o sea, que dentro de todo, si le ponemos onda, nos divertimos un poco con con esto no.
+
+614
+01:14:00.020 --> 01:14:04.780
+Carlos Fabian Descalzo: Y Y como les digo, es un poco la el tema de la semilla
+
+615
+01:14:05.270 --> 01:14:12.670
+Carlos Fabian Descalzo: tanto sea que yo tenga que auditar algo como que tenga que desarrollar o diseñar algo en particular.
+
+616
+01:14:13.100 --> 01:14:18.010
+Carlos Fabian Descalzo: Porque si lo hago de esta manera y
+
+617
+01:14:18.500 --> 01:14:26.209
+Carlos Fabian Descalzo: y pensando en los resultados que tiene que dar la compañía es la la forma en la que lo voy a hacer más seguro, ¿no?
+
+618
+01:14:26.690 --> 01:14:43.629
+Carlos Fabian Descalzo: Bien. Entonces, con todo este tema de de de de lo que fue la pandemia fue el otro clic. Digamos que que tuvimos que hacer, de la misma manera que el ejemplo que les daba de a nivel de de lo que es la Segunda Guerra Mundial. No fíjense ustedes que hay
+
+619
+01:14:43.690 --> 01:14:53.340
+Carlos Fabian Descalzo: hitos bisagra importantes dentro de la historia que también obligan, digamos, de esta manera a estar atentos en
+
+620
+01:14:53.540 --> 01:14:56.490
+Carlos Fabian Descalzo: cuáles son los cambios y cómo me adapto al cambio.
+
+621
+01:14:56.960 --> 01:15:11.219
+Carlos Fabian Descalzo: porque eso es lo que hablo. Yo doy charlas en en direcciones de empresa, No, Entonces, muchas veces el directorio de una compañía me dice uy, Bueno, esto que le está pasando a Octavio del Banco, quiere pasar
+
+622
+01:15:11.490 --> 01:15:15.780
+Carlos Fabian Descalzo: de de estar acá a nivel terrenal, a tirar un cohete en la luna, y
+
+623
+01:15:16.410 --> 01:15:18.589
+Carlos Fabian Descalzo: podéis hacerlo y podéis hacerlo.
+
+624
+01:15:19.180 --> 01:15:38.149
+Carlos Fabian Descalzo: El tema es que si no entendés y no comprendes y no analizaste primero tu contexto desde el punto de vista de madurez desde el punto de vista cultural. Desde el punto de vista, van a ver ahora después qué vamos a hablar de lo que es la Estrategia Tecnológica de la organización, etcétera.
+
+625
+01:15:39.110 --> 01:15:42.960
+Carlos Fabian Descalzo: Posiblemente lo que vos quieras hacer en un año lo tenés que hacer en 5,
+
+626
+01:15:43.780 --> 01:15:48.499
+Carlos Fabian Descalzo: porque hay un montón de aristas como ustedes están escuchando.
+
+627
+01:15:48.730 --> 01:16:04.560
+Carlos Fabian Descalzo: que puedo llegar a tener que tener en cuenta para ver de cómo crecer de una manera en la cual la organización sea sostenible y no que por querer crecer en un año y ser diferente en en un año esté en en el mercado
+
+628
+01:16:04.600 --> 01:16:09.279
+Carlos Fabian Descalzo: termine quebrando 6 meses después, digamos, no porque un poco
+
+629
+01:16:09.380 --> 01:16:24.619
+Carlos Fabian Descalzo: el efecto de no aplicar tecnología en forma segura y en forma metodológica me lleva a esto a que yo posiblemente este me esté esté arriesgando mi negocio por no hacerlo de una manera ordenada, ¿no?
+
+630
+01:16:25.040 --> 01:16:34.440
+Carlos Fabian Descalzo: Y acá un poco esto que les comentaba antes, no de la misma manera que fue evolucionando
+
+631
+01:16:35.390 --> 01:16:37.600
+Carlos Fabian Descalzo: la la tecnología
+
+632
+01:16:37.900 --> 01:16:48.070
+Carlos Fabian Descalzo: y que fue evolucionando la relación entre nosotros y la tecnología. Metiendo los datos en el medio es que también hay
+
+633
+01:16:48.220 --> 01:16:52.759
+Carlos Fabian Descalzo: distintas entidades que se fueron creando
+
+634
+01:16:52.890 --> 01:17:02.279
+Carlos Fabian Descalzo: y estas entidades, a su vez, fueron creando estándares y regulaciones relacionadas con los temas de protección, etc. No.
+
+635
+01:17:02.550 --> 01:17:08.419
+Carlos Fabian Descalzo: Y más allá. Calculen ustedes que Isaka.
+
+636
+01:17:09.170 --> 01:17:10.830
+Carlos Fabian Descalzo: Si mal no recuerdo.
+
+637
+01:17:11.940 --> 01:17:28.860
+Carlos Fabian Descalzo: se crea en los años 60 y empezó siendo una entidad relacionada con la parte de lo que es auditoría Haití, como les decía antes, enfocado básicamente en auditar la parte de la operación de un data Center.
+
+638
+01:17:29.270 --> 01:17:43.300
+Carlos Fabian Descalzo: Sí, y de lo que pasaba desde el punto de vista de integridad del dato a nivel procesamiento que existiera un backup que el backup sea aprobado. Las cuestiones básicas que ya conocemos
+
+639
+01:17:43.550 --> 01:18:01.360
+Carlos Fabian Descalzo: de los años 70. En adelante es cuando el tema se empezó a complejizar un poco más. ¿sí? Emyst: no sé si todos lo conocen. Van a ver en el repositorio que les dejé varios documentos del Anís.
+
+640
+01:18:01.460 --> 01:18:10.460
+Carlos Fabian Descalzo: Es una oficina de de Estados Unidos del Gobierno de los Estados Unidos, que desarrolla
+
+641
+01:18:10.780 --> 01:18:19.939
+Carlos Fabian Descalzo: normas y estándares de gestión de tecnología y seguridad de la información, ciberseguridad
+
+642
+01:18:19.990 --> 01:18:36.580
+Carlos Fabian Descalzo: y, sobre todo aquellos que hoy, y actualmente de ustedes, de los que están trabajando seguramente escucharon hablar del anís 853, que es, digamos, la como la gran Guía relacionada con controles
+
+643
+01:18:36.580 --> 01:18:42.260
+Carlos Fabian Descalzo: de ciberseguridad, etc. Se las dejé también dentro del repositorio. No
+
+644
+01:18:43.080 --> 01:18:56.160
+Carlos Fabian Descalzo: empieza digamos con su este libro naranja, en donde establece las primeras pautas relacionadas con lo que es seguridad informática.
+
+645
+01:18:56.260 --> 01:18:57.129
+Carlos Fabian Descalzo: te es.
+
+646
+01:18:57.660 --> 01:19:11.640
+Carlos Fabian Descalzo: van a escuchar o habrán escuchado, que que, bueno, fuimos pasando por distintos estadios de de de de nombres, digamos, de de la parte técnica en donde en ese entonces era muy técnico.
+
+647
+01:19:12.250 --> 01:19:14.830
+Carlos Fabian Descalzo: O sea, no, no se pensaba
+
+648
+01:19:15.280 --> 01:19:23.819
+Carlos Fabian Descalzo: básicamente en que el problema podía llegar a estar en lo que tenía que ver la gestión, en particular no
+
+649
+01:19:25.390 --> 01:19:30.470
+Carlos Fabian Descalzo: cuando empezamos con el problema de lo que
+
+650
+01:19:30.930 --> 01:19:38.899
+Carlos Fabian Descalzo: debería de estar más asociado a nivel de gestión, todavía, ni siquiera gobernanza a nivel de gestión.
+
+651
+01:19:39.030 --> 01:19:44.580
+Carlos Fabian Descalzo: En mediados de los 80, la Schell.
+
+652
+01:19:44.960 --> 01:19:49.239
+Carlos Fabian Descalzo: que es, como saben ustedes, es una petrolera
+
+653
+01:19:49.880 --> 01:19:57.069
+Carlos Fabian Descalzo: con capitales ingleses del Reino Unido y Capitales holandeses.
+
+654
+01:19:57.390 --> 01:20:03.220
+Carlos Fabian Descalzo: En esta época, lo que tuvo fue
+
+655
+01:20:03.760 --> 01:20:15.790
+Carlos Fabian Descalzo: un gran impacto a nivel de negocio por la desprolijidad, por ponerle un nombre diplomático
+
+656
+01:20:16.100 --> 01:20:26.540
+Carlos Fabian Descalzo: en lo que era todo la la la gestión de datos e información dentro de la de la organización, no solamente desde el punto de vista
+
+657
+01:20:26.850 --> 01:20:30.199
+Carlos Fabian Descalzo: de lo que es la información digital, sino.
+
+658
+01:20:30.380 --> 01:20:37.790
+Carlos Fabian Descalzo: en general, de de datos e información, y por una cuestión
+
+659
+01:20:37.920 --> 01:20:42.459
+Carlos Fabian Descalzo: desde el punto de vista de seguridad, de la información
+
+660
+01:20:42.620 --> 01:20:49.419
+Carlos Fabian Descalzo: en cuanto a manejo de confidencialidad, integridad y disponibilidad de esos datos, no
+
+661
+01:20:49.860 --> 01:20:54.940
+Carlos Fabian Descalzo: entonces. El primer documento que se conoce
+
+662
+01:20:55.410 --> 01:21:03.920
+Carlos Fabian Descalzo: como como documento de de de seguridad de la información es el manual de políticas que creó Lachell
+
+663
+01:21:04.300 --> 01:21:11.139
+Carlos Fabian Descalzo: en estos años, en donde es la primera vez que se se ordena
+
+664
+01:21:11.840 --> 01:21:20.879
+Carlos Fabian Descalzo: en procesos todo lo que tenía que ver con el tratamiento o el ciclo de vida del dato dentro de una organización
+
+665
+01:21:21.150 --> 01:21:28.260
+Carlos Fabian Descalzo: tanto sea a nivel físico como a nivel digital, digamos no e electrónico.
+
+666
+01:21:29.130 --> 01:21:41.390
+Carlos Fabian Descalzo: Lo que pasó acá es que entre 1 985 y mediados de los 90, este manual.
+
+667
+01:21:42.130 --> 01:21:43.930
+Carlos Fabian Descalzo: como colaboración
+
+668
+01:21:44.450 --> 01:21:53.660
+Carlos Fabian Descalzo: al Gobierno del Reino Unido, la el se lo pasa a la Secretaría de Comercio del Reino Unido. Esto también para que ustedes sepan, es
+
+669
+01:21:54.430 --> 01:22:03.480
+Carlos Fabian Descalzo: y asocian que cuando yo digo que un sistema de gestión que 1 podría llegar a
+
+670
+01:22:04.390 --> 01:22:16.450
+Carlos Fabian Descalzo: a relacionar como algo tecnológico, como lo es la I, S, o 27 001 o la I S. O 20 000, por ejemplo, la hizo 20 000. Es el sistema de gestión de servicios de Ti.
+
+671
+01:22:17.780 --> 01:22:29.190
+Carlos Fabian Descalzo: Y, como saben, la 27 000. Uno es el sistema de gestión de seguridad de la información, ciberseguridad y privacidad de datos, de acuerdo a la nueva actualización del 20, 22
+
+672
+01:22:29.390 --> 01:22:34.610
+Carlos Fabian Descalzo: y 1 podría llegar a considerar de que es un tema técnico y para nada.
+
+673
+01:22:35.240 --> 01:22:43.069
+Carlos Fabian Descalzo: Tiene si aplicaciones de recursos técnicos y controles técnicos, sí,
+
+674
+01:22:43.520 --> 01:22:52.960
+Carlos Fabian Descalzo: pero la el la norma en sí es una norma de negocio y, de hecho, la la opción
+
+675
+01:22:53.090 --> 01:23:00.309
+Carlos Fabian Descalzo: de certificar una norma, un estándar es una decisión de negocio en particular.
+
+676
+01:23:01.830 --> 01:23:04.440
+Carlos Fabian Descalzo: Entonces, bajo este concepto.
+
+677
+01:23:05.050 --> 01:23:17.290
+Carlos Fabian Descalzo: Lacell le comparte a la Secretaría de Comercio del Reino Unido este Manual, y esa Secretaría, lo que hace es establece las primeras pautas
+
+678
+01:23:17.490 --> 01:23:22.400
+Carlos Fabian Descalzo: a nivel de seguridad de la información para poder rankear
+
+679
+01:23:23.880 --> 01:23:28.410
+Carlos Fabian Descalzo: desde el punto de vista reputacional a las empresas
+
+680
+01:23:28.810 --> 01:23:35.170
+Carlos Fabian Descalzo: y la que mejor puntaje tenía en función de seguridad de la información era como la empresa más preferida.
+
+681
+01:23:35.340 --> 01:23:50.999
+Carlos Fabian Descalzo: Esto se trasladó después a la British Estándar, donde van a ver que el primer documento que surge más cercano a lo que tiene que ver con con 27 000. Es la B. S. 77 99
+
+682
+01:23:51.210 --> 01:23:54.340
+Carlos Fabian Descalzo: que después la I S, o
+
+683
+01:23:54.650 --> 01:24:02.079
+Carlos Fabian Descalzo: lo que generó es una adaptación a la I S. O 17 799,
+
+684
+01:24:02.330 --> 01:24:21.769
+Carlos Fabian Descalzo: que es con la que la mayoría de los que peinamos canas entre las 77 y 99, y esta de la Iso, fuimos arrancando, digamos, con temas relacionados con con seguridad de la información. No, esa norma, Iso no era certificable
+
+685
+01:24:22.040 --> 01:24:25.000
+Carlos Fabian Descalzo: para que una norma sea certificable.
+
+686
+01:24:25.210 --> 01:24:39.549
+Carlos Fabian Descalzo: tiene que tener requisitos establecidos para su cumplimiento y controles con registros e indicadores asociados al cumplimiento de ese requisito. ¿sí?
+
+687
+01:24:39.670 --> 01:24:44.289
+Carlos Fabian Descalzo: Por eso la primer norma certificable es la 27. 1 000 Uno, 2 005
+
+688
+01:24:44.760 --> 01:24:49.989
+Carlos Fabian Descalzo: es donde el enfoque que tiene originalmente
+
+689
+01:24:50.290 --> 01:24:55.060
+Carlos Fabian Descalzo: está abordado a riesgo. En En general.
+
+690
+01:24:55.210 --> 01:25:01.820
+Carlos Fabian Descalzo: la 17 7 99 era una guía de buena práctica de seguridad en donde
+
+691
+01:25:02.410 --> 01:25:09.660
+Carlos Fabian Descalzo: se mencionan cuestiones relacionadas con gestión, pero sin
+
+692
+01:25:10.000 --> 01:25:14.819
+Carlos Fabian Descalzo: definiciones concretas a nivel de procesos o controles específicos.
+
+693
+01:25:15.370 --> 01:25:19.339
+Carlos Fabian Descalzo: Ya la 2 005 de la 27 000. Uno
+
+694
+01:25:19.510 --> 01:25:36.630
+Carlos Fabian Descalzo: está orientada a riesgos. De hecho, es la primera que menciona y define el rol del dueño de riesgo en en en particular, y después este va avanzando, digamos, y evolucionando en las otras 2 versiones adicionales
+
+695
+01:25:36.800 --> 01:25:50.819
+Carlos Fabian Descalzo: para los que no lo conocen. La 27 000. Uno es la norma que es certificable y que tiene los requisitos a cumplir. Y la Iso 27 002 es la que tiene los controles
+
+696
+01:25:51.140 --> 01:25:56.330
+Carlos Fabian Descalzo: que sirven para poder implementar la 27 000. Uno: sí,
+
+697
+01:25:56.470 --> 01:26:00.009
+Carlos Fabian Descalzo: la 27 001, 2 013.
+
+698
+01:26:00.800 --> 01:26:05.580
+Carlos Fabian Descalzo: Además de este tema de abordaje a riesgos. Lo que suma
+
+699
+01:26:05.680 --> 01:26:10.549
+Carlos Fabian Descalzo: es una visión de proceso de servicio a nivel de seguridad
+
+700
+01:26:10.880 --> 01:26:30.259
+Carlos Fabian Descalzo: es la que me sirve, digamos, como para poder instrumentar dentro de un área de seguridad cuáles son los distintos procesos de servicio y después, ya la versión 20, 22 que fue la última que se se actualizó suma
+
+701
+01:26:30.660 --> 01:26:35.339
+Carlos Fabian Descalzo: y se actualiza por una cuestión de necesidad, con controles
+
+702
+01:26:35.650 --> 01:26:39.170
+Carlos Fabian Descalzo: asociados a lo que es ciberseguridad
+
+703
+01:26:39.610 --> 01:26:43.170
+Carlos Fabian Descalzo: y lo que es privacidad de datos
+
+704
+01:26:43.280 --> 01:26:48.889
+Carlos Fabian Descalzo: que son atributos que oportunamente la 27 000. Uno no tenía en sí.
+
+705
+01:26:49.750 --> 01:26:58.350
+Carlos Fabian Descalzo: Vamos a ver después que existe una I S, o que es la 27 032, que es la de gobierno de ciberseguridad.
+
+706
+01:26:58.490 --> 01:27:05.869
+Carlos Fabian Descalzo: La 27 001. En esta versión toma algunos conceptos y requisitos de parte de la 27 032,
+
+707
+01:27:06.190 --> 01:27:11.339
+Carlos Fabian Descalzo: y, por el otro lado, los temas de privacidad. Sumó
+
+708
+01:27:11.460 --> 01:27:28.000
+Carlos Fabian Descalzo: algunas cosas relacionadas con la 27 000. 701 que es, la hizo de el sistema de gestión de privacidad de datos personales, digamos, no este. Pero Pero bueno, esa actualización tuvo que ver con con esto, en donde la 27 001
+
+709
+01:27:28.110 --> 01:27:35.229
+Carlos Fabian Descalzo: les diría que el cambio más significativo está en el nombre porque agrega ciberseguridad y privacidad.
+
+710
+01:27:35.460 --> 01:27:42.140
+Carlos Fabian Descalzo: y la que más cambio tuvo, obviamente, la 27 002 porque
+
+711
+01:27:43.280 --> 01:27:52.490
+Carlos Fabian Descalzo: se compensaron algunos controles con otros de 114. Se bajó a 94, pero dentro de los
+
+712
+01:27:52.600 --> 01:27:54.479
+Carlos Fabian Descalzo: 94.
+
+713
+01:27:55.420 --> 01:28:03.890
+Carlos Fabian Descalzo: Hay algunos que que se sacaron y otros que se agregaron respecto del tema de privacidad y ciberseguridad, sí,
+
+714
+01:28:04.060 --> 01:28:08.530
+Carlos Fabian Descalzo: chicos, siendo menos 20, y que hablé un montón
+
+715
+01:28:09.040 --> 01:28:15.439
+Carlos Fabian Descalzo: este. Con esto vienen bien. Se me están aburriendo mucho. ¿alguien quiere opinar algo.
+
+716
+01:28:19.250 --> 01:28:21.149
+FRANCISCO DAURAT: No, no, bien, venimos bien por ahora.
+
+717
+01:28:21.560 --> 01:28:22.250
+Carlos Fabian Descalzo: Sí.
+
+718
+01:28:22.430 --> 01:28:29.269
+Carlos Fabian Descalzo: Bien, Bien, A A veces, cuando les cuento todo esto, me siento como si estuviera. Cómo se llama en el
+
+719
+01:28:29.980 --> 01:28:35.750
+Carlos Fabian Descalzo: en el Discovery Channel, que te cuenta en el History Channel.
+
+720
+01:28:36.550 --> 01:28:39.789
+Carlos Fabian Descalzo: Pero bueno, es parte de la historia también para que sepamos
+
+721
+01:28:40.040 --> 01:28:46.599
+Carlos Fabian Descalzo: de dónde venimos y hacia dónde deberíamos tener que ir. En fin, Bueno, que hacemos un Break
+
+722
+01:28:46.770 --> 01:28:53.480
+Carlos Fabian Descalzo: Hasta 10. Les parece así. Distendemos un poco. Tomamos café.
+
+723
+01:28:56.670 --> 01:28:57.440
+CAROLINA OYARBIDE: Bueno, Profe.
+
+724
+01:28:58.030 --> 01:28:58.660
+Carlos Fabian Descalzo: Sí.
+
+725
+01:28:58.860 --> 01:28:59.330
+FRANCISCO DAURAT: Perfecto.
+
+726
+01:28:59.330 --> 01:29:02.470
+Carlos Fabian Descalzo: Bien, menos 10. Nos vemos chicos. Entonces
+
+727
+01:38:40.740 --> 01:38:44.180
+Carlos Fabian Descalzo: bien, están muy chicos.
+
+728
+01:38:45.090 --> 01:38:46.329
+FRANCISCO DAURAT: Estamos estamos, No.
+
+729
+01:38:46.730 --> 01:38:52.159
+Carlos Fabian Descalzo: Bien, buenísimo. Bueno, vamos a hacer una unos slime más
+
+730
+01:38:52.600 --> 01:39:04.789
+Carlos Fabian Descalzo: por ahí tipo, 9 y media. Por ahí ya estaríamos terminando es como para hacer una una intro. Bien, acá. Debajo van a encontrar
+
+731
+01:39:05.030 --> 01:39:17.329
+Carlos Fabian Descalzo: que hay, digamos, otro tipo de estándares que están relacionados, en particular, no en esto último que comentábamos respecto de lo que es la la nueva 27 001,
+
+732
+01:39:17.360 --> 01:39:31.659
+Carlos Fabian Descalzo: además de la 27 701 a nivel de privacidad, van a ver que también hay otra Iso relacionada con lo que es protección de datos personales en la nube, no que es la 27 018
+
+733
+01:39:32.650 --> 01:39:34.150
+Carlos Fabian Descalzo: en.
+
+734
+01:39:34.560 --> 01:39:43.920
+Carlos Fabian Descalzo: obviamente que que vamos a hablar de un montón de estándares y van a ver nombres y números por todos lados, porque estamos en la materia de estándares.
+
+735
+01:39:44.750 --> 01:39:46.320
+Carlos Fabian Descalzo: pero en general.
+
+736
+01:39:47.260 --> 01:40:00.920
+Carlos Fabian Descalzo: me gusta nombrar y asociar mucho de de de lo que hacemos con distintos estándares, guías, etcétera, porque una de las cosas que también les recomiendo es no que se llenen de documentos.
+
+737
+01:40:01.060 --> 01:40:04.219
+Carlos Fabian Descalzo: pero sí que sepan elegir
+
+738
+01:40:04.690 --> 01:40:15.140
+Carlos Fabian Descalzo: cuál va a ser el Framework con el que se van a armar para poder abordar tal tema en particular, digamos no como para que tengan conocimiento que hay.
+
+739
+01:40:15.280 --> 01:40:29.370
+Carlos Fabian Descalzo: digamos de alguna manera de todo para lo que estemos necesitando este en en lo que hacemos habitualmente. Bueno, acá este Slide es un refuerzo, nada más de lo que les contaba antes que que se los spoilee.
+
+740
+01:40:29.470 --> 01:40:30.549
+Carlos Fabian Descalzo: Así que no.
+
+741
+01:40:30.760 --> 01:40:41.399
+Carlos Fabian Descalzo: este, digamos, no tiene mucha más información adicional. Digamos a lo que les comentaba. Si, al igual que se Menciona acá.
+
+742
+01:40:41.400 --> 01:40:55.770
+Carlos Fabian Descalzo: Respecto de lo que es el primer manual de Covid. Vamos a ver también. Vamos a hablar un poquito de Covid que es el framework de gobierno de tecnología que tiene. Y saca. Sí,
+
+743
+01:40:55.850 --> 01:41:01.790
+Carlos Fabian Descalzo: el Covid, 1 orientado a, como les decía, la parte más
+
+744
+01:41:01.950 --> 01:41:15.580
+Carlos Fabian Descalzo: de de gobiernos de te y control desde el punto de vista de auditoría, pero más centrado también todavía, al igual que en que en los 70, dentro de de lo que tenía que ver con
+
+745
+01:41:16.030 --> 01:41:26.489
+Carlos Fabian Descalzo: el el datacenter en en particular, y a inicialmente, algunas cuestiones relacionadas con.
+
+746
+01:41:27.270 --> 01:41:36.480
+Carlos Fabian Descalzo: por ejemplo, el tema del privilegio de accesos que se le ha dado a los usuarios a determinado tipo de aplicaciones, etcétera. No, entonces recuerden
+
+747
+01:41:36.700 --> 01:41:47.280
+Carlos Fabian Descalzo: de que en esta época, y creo que es algo de lo que mencionamos en el Slide anterior, que es este, empezamos a
+
+748
+01:41:47.430 --> 01:41:49.179
+Carlos Fabian Descalzo: cambiar de tener
+
+749
+01:41:49.780 --> 01:42:08.450
+Carlos Fabian Descalzo: todos los datos y todos los sistemas en un solo punto en el Data Center a empezar a distribuirlo en las redes administrativas, empezamos a tener la la primer, digamos, la de de lo que sería networking a nivel de telecomunicaciones
+
+750
+01:42:08.450 --> 01:42:16.620
+Carlos Fabian Descalzo: por comunicaciones entre distintas plantas de una empresa o sucursales, por ejemplo, no en donde ya el usuario
+
+751
+01:42:17.050 --> 01:42:32.069
+Carlos Fabian Descalzo: empezaba a tener algún tipo de interacción con los sistemas y con los datos, en particular de la organización, no hoy, para que tengan una idea.
+
+752
+01:42:32.260 --> 01:42:41.259
+Carlos Fabian Descalzo: esto que nace en el 85 como Covid, Uno: Ya estamos en la versión Covid, 2 019
+
+753
+01:42:41.440 --> 01:42:58.070
+Carlos Fabian Descalzo: que, digamos, tiene un enfoque de de de gobierno, inclusive corporativo, algo vamos a estar viendo también en en relación a eso. Emm: Y y que está más ordenado a nivel de proceso
+
+754
+01:42:58.430 --> 01:43:08.119
+Carlos Fabian Descalzo: a nivel de relacionamiento de los procesos de servicios tecnológicos en función de lo que son procesos de negocio en en particular. Sí,
+
+755
+01:43:08.360 --> 01:43:10.340
+Carlos Fabian Descalzo: bien.
+
+756
+01:43:10.800 --> 01:43:19.010
+Carlos Fabian Descalzo: como les decía, bueno, y esto acá para graficar un poco lo que les comentaba. ¿no? Fíjense que lo que marco acá
+
+757
+01:43:19.210 --> 01:43:35.749
+Carlos Fabian Descalzo: son esos 2 grandes hitos, no, Lo que lo que tiene que ver con la Segunda Guerra Mundial, a partir del cual si googlean a Edward Deming fue el que creó, digamos, este concepto de calidad total en ese momento.
+
+758
+01:43:35.760 --> 01:43:47.530
+Carlos Fabian Descalzo: Hay, digamos, también una necesidad de empezar a abordar los temas de seguridad informática a partir de los primeros ataques que hubo a nivel corporativo
+
+759
+01:43:47.680 --> 01:44:06.679
+Carlos Fabian Descalzo: este de de lo que hoy conocemos como ciberseguridad que se dio alrededor de los años 85 en adelante es cuando se crean los antivirus. Es cuando sur surge Kaspersky y otro tipo de de de empresas, no en en en general
+
+760
+01:44:07.770 --> 01:44:12.890
+Carlos Fabian Descalzo: y después también en esta línea de tiempo.
+
+761
+01:44:13.240 --> 01:44:15.479
+Carlos Fabian Descalzo: Lo que van a encontrar es
+
+762
+01:44:15.720 --> 01:44:18.919
+Carlos Fabian Descalzo: el tema de de de como
+
+763
+01:44:20.440 --> 01:44:23.050
+Carlos Fabian Descalzo: es que empiece a evolucionar también
+
+764
+01:44:23.740 --> 01:44:31.939
+Carlos Fabian Descalzo: la importancia, o nos empezamos a sensibilizar en la importancia de los datos
+
+765
+01:44:33.180 --> 01:44:38.600
+Carlos Fabian Descalzo: y en tomar conciencia de la cantidad del gran volumen de datos
+
+766
+01:44:38.800 --> 01:44:44.739
+Carlos Fabian Descalzo: que empezamos a manejar, No, De hecho, van a encontrar que más allá
+
+767
+01:44:44.840 --> 01:44:47.020
+Carlos Fabian Descalzo: de que en los años 90,
+
+768
+01:44:47.250 --> 01:44:50.390
+Carlos Fabian Descalzo: con este tema de la virtualización.
+
+769
+01:44:50.640 --> 01:44:57.739
+Carlos Fabian Descalzo: las cuestiones relacionadas con machine learning que empiezan, digamos, dentro de esta época, etcétera.
+
+770
+01:44:58.270 --> 01:45:03.799
+Carlos Fabian Descalzo: Tenemos, digamos, este este tipo de de tecnología.
+
+771
+01:45:04.920 --> 01:45:17.809
+Carlos Fabian Descalzo: Por un lado, por una cuestión del del volumen en base a la gran cantidad de fuente de datos que vamos a tener, la principal fuente, nosotros mismos que somos los que volcamos toda la data en Internet.
+
+772
+01:45:19.480 --> 01:45:25.609
+Carlos Fabian Descalzo: van a ver que a partir de este momento empiezan a conocerse los primeros
+
+773
+01:45:26.390 --> 01:45:32.369
+Carlos Fabian Descalzo: estándares relacionados con gobierno de datos y también
+
+774
+01:45:33.590 --> 01:45:39.040
+Carlos Fabian Descalzo: empiezan a a identificarse los riesgos relacionados con privacidad.
+
+775
+01:45:39.190 --> 01:45:45.599
+Carlos Fabian Descalzo: De hecho, vamos a ver que en 1 998
+
+776
+01:45:46.410 --> 01:45:57.370
+Carlos Fabian Descalzo: es cuando se promulga el primer reglamento relacionado con porque todavía no era Gpr relacionado con privacidad de datos en la Comunidad Europea.
+
+777
+01:45:58.360 --> 01:46:01.240
+Carlos Fabian Descalzo: que se define en los 2 000,
+
+778
+01:46:01.630 --> 01:46:07.859
+Carlos Fabian Descalzo: 2 002 para ser más exacto, como G, D. P, R. Y en el 2 006,
+
+779
+01:46:08.490 --> 01:46:19.960
+Carlos Fabian Descalzo: hay una ingeniera canadiense que que crea un desarrolla una metodología
+
+780
+01:46:20.450 --> 01:46:23.979
+Carlos Fabian Descalzo: relacionada con lo que se llama privacidad por diseño
+
+781
+01:46:24.390 --> 01:46:28.509
+Carlos Fabian Descalzo: que ya lo vamos a ver también. Ahí los chicos que estuvieron conmigo el lunes.
+
+782
+01:46:28.660 --> 01:46:31.620
+Carlos Fabian Descalzo: Ya lo estuvimos viendo, pero que
+
+783
+01:46:31.800 --> 01:46:51.500
+Carlos Fabian Descalzo: desde donde la creas desde cuando 1 piensa la creación del desarrollo de un producto o servicio, Ya tenés que estar pensando en qué nivel de impacto tienes sobre la privacidad de datos que que podéis llegar a manejar, digamos, no con ese producto que estás creando, no en en particular.
+
+784
+01:46:51.780 --> 01:46:56.900
+Carlos Fabian Descalzo: Entonces todo esto, hacer relación
+
+785
+01:46:57.090 --> 01:47:03.569
+Carlos Fabian Descalzo: con lo que les comentaba antes, No, o sea, por un lado, la necesidad de desarrollar mejor tecnología
+
+786
+01:47:04.310 --> 01:47:19.170
+Carlos Fabian Descalzo: y de utilizarla más para diferenciarme, quedando muy atrasado con el tema regulatorio que que tengo que ver de cómo voy corriendo y con una falta de conciencia total sobre determinado tipo de riesgos. No. Esto es lo que les comentaba
+
+787
+01:47:19.450 --> 01:47:32.229
+Carlos Fabian Descalzo: respecto de de cómo crecieron. Y Y tiene lógica que entre el 20 21 y el 20 22 hayan pegado ese salto en donde fíjense
+
+788
+01:47:33.520 --> 01:47:39.470
+Carlos Fabian Descalzo: que, a pesar de todo de lo que fuimos trabajando
+
+789
+01:47:39.960 --> 01:47:47.040
+Carlos Fabian Descalzo: a partir de lo que tenía que ver con los distintos ataques y todo, nunca volvimos
+
+790
+01:47:47.790 --> 01:47:57.030
+Carlos Fabian Descalzo: al mismo nivel que estábamos en el 20 17 20, 18, por ejemplo, no ni siquiera al mismo nivel en el que estábamos en el 20 21.
+
+791
+01:47:57.520 --> 01:48:10.249
+Carlos Fabian Descalzo: Y esto tiene que ver porque obviamente, la tecnología ha crecido y y ha sido utilizada no solamente por nosotros que lo hacemos para el bien, sino también para aquellos que hacen el mal
+
+792
+01:48:10.250 --> 01:48:20.279
+Carlos Fabian Descalzo: y que tienen. Además, pareciera que tienen un día adicional al que nosotros tenemos. ¿no? Entonces, como que la vamos corriendo de atrás un poco la la la cuestión.
+
+793
+01:48:20.560 --> 01:48:28.139
+Carlos Fabian Descalzo: todo esto que hablamos y la necesidad de tener estándares. Seguramente alguno de ustedes esto ya lo conocen.
+
+794
+01:48:28.660 --> 01:48:35.090
+Carlos Fabian Descalzo: sobre todo que los chicos de del lunes.
+
+795
+01:48:35.590 --> 01:48:45.910
+Carlos Fabian Descalzo: Pero este es un mapa en tiempo real de ataques en línea.
+
+796
+01:48:46.040 --> 01:48:51.770
+Carlos Fabian Descalzo: Sí, denegación de servicio, ransomware phishing, etcétera.
+
+797
+01:48:51.970 --> 01:49:06.770
+Carlos Fabian Descalzo: en donde fíjense cómo se fue moviendo. Recién esto. Estaba en el puesto, 34, 35. Si mal. No vi el lunes, cuando entramos, estábamos en el 39, y ahora acabamos de pasar al puesto 41.
+
+798
+01:49:06.980 --> 01:49:10.900
+Carlos Fabian Descalzo: Estos ataques chicos son por segundo.
+
+799
+01:49:11.150 --> 01:49:13.739
+Carlos Fabian Descalzo: ¿por qué yo tengo que estar atento?
+
+800
+01:49:14.560 --> 01:49:20.919
+Carlos Fabian Descalzo: estandarizar mi operación a El hecho de
+
+801
+01:49:21.320 --> 01:49:36.890
+Carlos Fabian Descalzo: trabajar en forma metodológica, establecer controles, llevar anotaciones, tener todo registrado y tiqueteado, etcétera, porque yo no me puedo permitir. Hoy descansarme. Hablábamos el otro día
+
+802
+01:49:37.540 --> 01:49:50.490
+Carlos Fabian Descalzo: de que hoy por hoy yo ya no, no, no, no tengo permitido ni siquiera ser preventivo.
+
+803
+01:49:51.370 --> 01:50:01.960
+Carlos Fabian Descalzo: Yo ya tengo que ser proactivo. Yo tengo que estar anticipándome y generar acciones que estén relacionadas con la anticipación a las amenazas
+
+804
+01:50:02.180 --> 01:50:08.470
+Carlos Fabian Descalzo: a los distintos riesgos. ¿no? Y eso, más allá de herramientas de monitoreo
+
+805
+01:50:09.110 --> 01:50:16.429
+Carlos Fabian Descalzo: o distintos tipos de servicios, como el hecho de implementar un shock o tener un C I E, M, etcétera.
+
+806
+01:50:16.780 --> 01:50:24.939
+Carlos Fabian Descalzo: Lo hago principalmente estableciendo metodología dentro de la organización que se vea
+
+807
+01:50:25.330 --> 01:50:39.539
+Carlos Fabian Descalzo: no solamente desde como gestiono, la arquitectura y la operación de los sistemas. De cómo llevo adelante mis servicios de ciberseguridad, sino también en cómo llevo
+
+808
+01:50:41.000 --> 01:50:49.920
+Carlos Fabian Descalzo: o como me anticipo a cuestiones que estén relacionadas con la continuidad de negocio, en donde el principal foco
+
+809
+01:50:50.050 --> 01:50:58.240
+Carlos Fabian Descalzo: en ese sentido está en lo previo a lo que es una contingencia. Yo tengo que poder
+
+810
+01:50:58.450 --> 01:51:02.100
+Carlos Fabian Descalzo: llevar adelante actividades que me permitan
+
+811
+01:51:02.560 --> 01:51:06.330
+Carlos Fabian Descalzo: contener los riesgos desde el punto de vista de continuidad
+
+812
+01:51:06.430 --> 01:51:13.829
+Carlos Fabian Descalzo: anticiparme. Una de las cosas que hablábamos el lunes y que lo vamos a ver nosotros este, sobre todo
+
+813
+01:51:14.450 --> 01:51:15.979
+Carlos Fabian Descalzo: por el tema de
+
+814
+01:51:16.530 --> 01:51:35.719
+Carlos Fabian Descalzo: a nivel de proyectos, etcétera. De como yo puedo trabajar, si estoy en un área, o o tengo un rol de continuidad de negocio dentro de la gestión de proyectos para ya anticiparme, a determinado tipo de necesidades, etcétera. Entonces, una de las cosas que a mí me sirve, eso
+
+815
+01:51:35.890 --> 01:51:46.579
+Carlos Fabian Descalzo: es para poder hacer más resiliente a la organización, poder darle más anticuerpos, digamos, para poder defenderse frente a los distintos tipos de riesgos.
+
+816
+01:51:46.650 --> 01:51:59.340
+Carlos Fabian Descalzo: Pero los que no conocían esta página primero. Además de esta página. Hay otras. Sí, pueden buscar. O Googlear ponen mapa de ciberataques. Y van a ver que hay hay varias a mí en particular.
+
+817
+01:51:59.500 --> 01:52:05.179
+Carlos Fabian Descalzo: Una de las que más me gusta es esta, porque la que la que me resulta como que tiene mayor impacto, digamos, no.
+
+818
+01:52:05.940 --> 01:52:13.100
+Carlos Fabian Descalzo: Y esta gente de Kaspersky le pone bastante info porque además, bueno, te muestran un top
+
+819
+01:52:13.280 --> 01:52:17.480
+Carlos Fabian Descalzo: de distintos tipos de ataques que hay.
+
+820
+01:52:17.700 --> 01:52:26.719
+Carlos Fabian Descalzo: este, digamos, esté dentro del del ranking, tiene cuáles son las diferentes fuentes de información
+
+821
+01:52:26.870 --> 01:52:35.899
+Carlos Fabian Descalzo: que que podría llegar a a utilizar para poder hacer, inclusive mis análisis Acá ustedes piensen
+
+822
+01:52:36.060 --> 01:52:43.869
+Carlos Fabian Descalzo: de que yo puedo estar trabajando en mi empresa como como un analista en donde yo recibo
+
+823
+01:52:44.000 --> 01:52:56.500
+Carlos Fabian Descalzo: tanto del shock como del siem determinado tipo de reportes, etcétera. Y tengo que armar con eso un informe relacionado con qué es lo que le está pasando a la compañía ¿no?
+
+824
+01:52:57.270 --> 01:53:02.790
+Carlos Fabian Descalzo: Y acá hay otro tema que es importante, entendiendo de que
+
+825
+01:53:03.040 --> 01:53:07.800
+Carlos Fabian Descalzo: yo les estoy diciendo que esto pasa por segundo, o sea que.
+
+826
+01:53:08.420 --> 01:53:14.240
+Carlos Fabian Descalzo: y esto se lo digo también a la dirección de la empresa que en la empresa
+
+827
+01:53:14.480 --> 01:53:18.780
+Carlos Fabian Descalzo: no se enteren. No quiere decir que no nos estén atacando.
+
+828
+01:53:19.250 --> 01:53:26.710
+Carlos Fabian Descalzo: Ustedes Calculen. Y díganme si alguno tiene alguna estadística más certera que la mía.
+
+829
+01:53:26.810 --> 01:53:33.760
+Carlos Fabian Descalzo: pero ustedes calculan que si yo mal no recuerdo, hay algo así como de 1 200 ataques por segundo en un Firewall
+
+830
+01:53:34.520 --> 01:53:40.680
+Carlos Fabian Descalzo: en donde que no me entere. No quiere decir que no suceda. Quiere decir que no tuvieron éxito.
+
+831
+01:53:41.560 --> 01:53:43.220
+Carlos Fabian Descalzo: que es muy diferente.
+
+832
+01:53:44.010 --> 01:53:52.640
+Carlos Fabian Descalzo: Y gracias a que invertimos en ese tipo de herramientas es que digamos este post.
+
+833
+01:53:52.810 --> 01:54:02.649
+Carlos Fabian Descalzo: estamos teniendo esa sensación de que no estamos a 100 de que no estamos siendo atacados, pero la realidad es que es una sensación. No es la verdad.
+
+834
+01:54:03.230 --> 01:54:14.659
+Carlos Fabian Descalzo: y eso es lo que dentro de las organizaciones en las que trabajamos se debe de entender, digamos, ¿no? Pero bueno, nada sepan que tenemos este tipo de recursos como para
+
+835
+01:54:14.870 --> 01:54:23.589
+Carlos Fabian Descalzo: para poder manejarnos y y y tener más data, o o saber de de cómo presentar mejor este nuestros resultados
+
+836
+01:54:24.010 --> 01:54:31.110
+Carlos Fabian Descalzo: en relación a lo que tiene que ver en particular con lo que es inteligencia artificial.
+
+837
+01:54:32.960 --> 01:54:37.399
+Carlos Fabian Descalzo: Es esto que les comentaba y les spoileó, también. ¿no es algo nuevo
+
+838
+01:54:37.820 --> 01:54:45.679
+Carlos Fabian Descalzo: arranca ya digamos en en donde inclusive Alan Turing hizo los primeros
+
+839
+01:54:46.370 --> 01:54:52.979
+Carlos Fabian Descalzo: procesos a nivel de testeo de lo que tenía que ver con pruebas a máquinas
+
+840
+01:54:53.460 --> 01:54:58.770
+Carlos Fabian Descalzo: que que aprendían, digamos, máquinas pseudointeligentes.
+
+841
+01:54:59.180 --> 01:55:06.760
+Carlos Fabian Descalzo: Y después, en función de estas cuestiones a nivel de riesgo, que también les comentaba y en
+
+842
+01:55:07.720 --> 01:55:15.519
+Carlos Fabian Descalzo: satiana de la que es el CEO de Microsoft en 2 016. Creo
+
+843
+01:55:15.810 --> 01:55:29.930
+Carlos Fabian Descalzo: las primeras reglas respecto de lo que tenía que ver con el desarrollo de inteligencia artificial para sus propios desarrolladores, no en donde lo que hizo fue establecer reglas específicas
+
+844
+01:55:30.050 --> 01:55:38.600
+Carlos Fabian Descalzo: relacionadas con los temas principalmente de transparencia y privacidad en relación.
+
+845
+01:55:38.880 --> 01:55:52.999
+Carlos Fabian Descalzo: ¿Qué es lo que se puede hacer y qué es lo que no se puede hacer en inteligencia artificial, sí que va un poco atado de la mano con lo que les comentaba de esta ingeniera anne canadiense
+
+846
+01:55:53.190 --> 01:56:03.590
+Carlos Fabian Descalzo: que creo, como les decía el primer Reglamento relacionado o la primer metodología, mejor dicho, relacionado con los temas de privacidad desde el diseño.
+
+847
+01:56:03.990 --> 01:56:09.769
+Carlos Fabian Descalzo: A pesar de todo esto, de los primeros incidentes.
+
+848
+01:56:10.370 --> 01:56:16.749
+Carlos Fabian Descalzo: podríamos decir más actuales que tuvimos relacionados con inteligencia artificial.
+
+849
+01:56:17.080 --> 01:56:24.920
+Carlos Fabian Descalzo: Nuestro amigo Marc siempre metiendo la cuchara quiso
+
+850
+01:56:25.340 --> 01:56:37.430
+Carlos Fabian Descalzo: implementar inteligencia artificial en los chatbot de Facebook y tuvieron que discontinuar el proyecto porque entre 2 computadoras
+
+851
+01:56:37.720 --> 01:56:46.760
+Carlos Fabian Descalzo: se autoprogramaron y crearon un idioma propio, entre ellas en donde empezaron a procesar
+
+852
+01:56:47.770 --> 01:56:53.490
+Carlos Fabian Descalzo: ellas solas, sin ningún tipo de intervención humana
+
+853
+01:56:53.700 --> 01:57:00.870
+Carlos Fabian Descalzo: ni ni con posibilidad de supervisión, porque no se no se entendía de qué era lo lo que hablaban, digamos ¿no?
+
+854
+01:57:01.160 --> 01:57:10.210
+Carlos Fabian Descalzo: Y también habrán sabido de un incidente del 20 24
+
+855
+01:57:10.460 --> 01:57:23.280
+Carlos Fabian Descalzo: en donde también tuvieron que discontinuar un proyecto, ¿no? Y ahora recientemente pasó algo con antropic también que los equipos, los sistemas empezaron a autoprogramar.
+
+856
+01:57:23.340 --> 01:57:34.779
+Carlos Fabian Descalzo: Aprendieron su propio lenguaje de programación y empezaron a tomar decisiones por sí solos de de de de de como programarse, digamos, no.
+
+857
+01:57:35.650 --> 01:57:38.130
+Carlos Fabian Descalzo: Y acá también hay algo paradójico
+
+858
+01:57:38.490 --> 01:57:47.309
+Carlos Fabian Descalzo: en donde, para los que no los conozcan, los invito a ver un par de series y películas
+
+859
+01:57:47.640 --> 01:57:58.360
+Carlos Fabian Descalzo: que están relacionadas con esto, que podrían haber llegado a ser catalogadas como de ciencia ficción en su momento, pero no es así. No sé si ustedes vieron Díaz Cero.
+
+860
+01:57:58.470 --> 01:58:05.360
+Carlos Fabian Descalzo: en la que trabaja de niro, que la pasaron por Netflix. No sé si todavía está,
+
+861
+01:58:05.630 --> 01:58:20.490
+Carlos Fabian Descalzo: no la verdad que no, no la vi. Ya hace un montón el año pasado. Creo que la vi o el anterior, en donde es algo muy parecido a lo que nos pasó en el 2 017 con el Guanacaray
+
+862
+01:58:20.820 --> 01:58:29.179
+Carlos Fabian Descalzo: con otro tipo de expecta espectacularidad. Digamos no muy Hollywoodense, pero que no está nada alejado de la realidad.
+
+863
+01:58:29.500 --> 01:58:40.109
+Carlos Fabian Descalzo: Bueno, la película de Will Smith, de yo robot que les comentaba. Después hay una película que se llama Minority Report, que trabaja este chico
+
+864
+01:58:40.590 --> 01:58:42.170
+Carlos Fabian Descalzo: pua.
+
+865
+01:58:43.090 --> 01:58:44.010
+OCTAVIO RIEGO: Tom cruise.
+
+866
+01:58:44.010 --> 01:58:44.670
+CAROLINA OYARBIDE: Tom cruise.
+
+867
+01:58:44.670 --> 01:58:55.019
+Carlos Fabian Descalzo: Tom cruise Ahí va exactamente Ahí Sí, Sí, ven, esa película? Tiene que ver con cuestiones de predicción del delito, digamos no.
+
+868
+01:58:55.060 --> 01:59:11.350
+Carlos Fabian Descalzo: Y el concepto, por lo menos por lo que yo recuerdo de la película. Y lo que entendí tiene mucho que ver con esta cuestión de de predicción, desde desde el uso de inteligencia artificial, no como de autoaprender en función de determinado tipo de
+
+869
+01:59:12.260 --> 01:59:25.079
+Carlos Fabian Descalzo: de acciones, etcétera, y poder predecir. Y bueno, si 1 más 1 puede llegar a ser 2, 3, o sea, nada. Y bueno, pasa de que obviamente se equivocan.
+
+870
+01:59:25.370 --> 01:59:37.069
+Carlos Fabian Descalzo: Y bueno, esas Y después hay una que está buena para verla, viejísimo con Harrison Ford.
+
+871
+01:59:37.470 --> 01:59:44.680
+Carlos Fabian Descalzo: que se llama Firewall, que está bueno para tomar Tips
+
+872
+01:59:44.790 --> 01:59:49.629
+Carlos Fabian Descalzo: de concientización a nivel de de ingeniería social.
+
+873
+01:59:50.040 --> 01:59:54.310
+Carlos Fabian Descalzo: que que es una banda de terroristas políticos
+
+874
+01:59:54.800 --> 01:59:57.980
+Carlos Fabian Descalzo: que, como él es el Shiso de un banco.
+
+875
+01:59:58.130 --> 02:00:09.409
+Carlos Fabian Descalzo: Lo investigan y terminan extorsionándolo para para cobrar 1 000 000 de dólares y financiar sus cuestiones terroristas.
+
+876
+02:00:09.850 --> 02:00:15.900
+Carlos Fabian Descalzo: Y después había una película de Sandra Bullock que se llama la red.
+
+877
+02:00:16.970 --> 02:00:27.309
+Carlos Fabian Descalzo: Y está ahí. Richard a vos. Te va a interesar, supongo, y a los otros chicos que son los desarrolladores los que están en en el mundo del desarrollo.
+
+878
+02:00:27.850 --> 02:00:34.089
+Carlos Fabian Descalzo: La piba. Esta sandra Bullock era una tester de videojuegos.
+
+879
+02:00:35.030 --> 02:00:44.770
+Carlos Fabian Descalzo: y había un desarrollador que había plantado en un videojuego, un acceso de de espionaje
+
+880
+02:00:45.570 --> 02:00:51.690
+Carlos Fabian Descalzo: y, y, que, bueno, en función de todo este tema de espionaje que se yo. Hay toda una trama.
+
+881
+02:00:52.290 --> 02:01:02.650
+Carlos Fabian Descalzo: este que está bastante peor. Bueno, les tiré algunos títulos. Ahora que viene el finde como para que si lo buscan por Youtube o o en alguna plataforma, posiblemente lo
+
+882
+02:01:02.750 --> 02:01:05.999
+Carlos Fabian Descalzo: los vayan encontrando. Pero ustedes vean eso.
+
+883
+02:01:06.390 --> 02:01:10.629
+Carlos Fabian Descalzo: Yo suelo suelo revisar o ver esto cada tanto
+
+884
+02:01:10.870 --> 02:01:18.909
+Carlos Fabian Descalzo: para poder utilizar unas partecitas en las charlitas de concientización que las hacen un poco más dinámicas
+
+885
+02:01:19.700 --> 02:01:27.169
+Carlos Fabian Descalzo: y aparte, muestran cosas que ya no son tan de película. Digamos. No no sé ustedes qué opinan, pero
+
+886
+02:01:27.700 --> 02:01:29.510
+Carlos Fabian Descalzo: me parece que va por ese lado.
+
+887
+02:01:36.490 --> 02:01:46.390
+Carlos Fabian Descalzo: Bien, bueno, chicos. Con esto después viene un tema que vamos a hablar.
+
+888
+02:01:46.990 --> 02:01:54.540
+Carlos Fabian Descalzo: Los que estuvieron conmigo el lunes ya lo vieron. Lo vamos a ver nosotros desde el punto de vista de estándares de otra manera.
+
+889
+02:01:54.950 --> 02:02:07.929
+Carlos Fabian Descalzo: Pero hay en los quería compartirles, digamos cómo es que y se ve desde el negocio.
+
+890
+02:02:08.390 --> 02:02:13.329
+Carlos Fabian Descalzo: El tema de la tecnología y las distintas implicancias que puede llegar a tener
+
+891
+02:02:14.210 --> 02:02:18.360
+Carlos Fabian Descalzo: en el enfoque nuestro a nivel de estándares.
+
+892
+02:02:18.490 --> 02:02:21.840
+Carlos Fabian Descalzo: Se los voy a explicar desde el punto de vista
+
+893
+02:02:22.710 --> 02:02:34.309
+Carlos Fabian Descalzo: de la necesidad de entender la parte del cumplimiento, no de la la parte que tiene que ver con lo regulatorio que tiene que ver con lo formal, en particular
+
+894
+02:02:34.720 --> 02:02:43.019
+Carlos Fabian Descalzo: con los chicos de riesgo. Lo vimos más desde el punto de vista de la implementación de la tecnología en el proceso de negocio en donde
+
+895
+02:02:44.060 --> 02:02:49.510
+Carlos Fabian Descalzo: el el resultado puede ser el mismo. Pero lo tengo que pensar desde el punto de vista de
+
+896
+02:02:49.720 --> 02:02:56.670
+Carlos Fabian Descalzo: cuál es mi estrategia y cómo puedo complicarme si yo no tengo en cuenta un poco lo que decíamos antes, las cuestiones
+
+897
+02:02:56.910 --> 02:03:02.930
+Carlos Fabian Descalzo: en las cuestiones regulatorias, inclusive hasta de cumplimiento con mis accionistas, y
+
+898
+02:03:03.320 --> 02:03:08.119
+Carlos Fabian Descalzo: yo no tengo en cuenta de de de cuál es mi estrategia tecnológica en particular.
+
+899
+02:03:08.280 --> 02:03:10.900
+Carlos Fabian Descalzo: pero como esto todavía es más denso
+
+900
+02:03:11.070 --> 02:03:18.279
+Carlos Fabian Descalzo: de lo que les expliqué antes. Me parece oportuno que arranquemos con esto el próximo viernes. Sí.
+
+901
+02:03:21.570 --> 02:03:22.639
+CAROLINA OYARBIDE: Bueno, Profe.
+
+902
+02:03:23.660 --> 02:03:24.410
+Carlos Fabian Descalzo: Bien.
+
+903
+02:03:24.820 --> 02:03:29.579
+Carlos Fabian Descalzo: Así que, bueno, chicos, los invito a arrancar el fin de semana.
+
+904
+02:03:30.080 --> 02:03:37.979
+Carlos Fabian Descalzo: Espero que hayan tenido una linda experiencia por haber sido el primer día. No sé si linda, pero por lo menos buena
+
+905
+02:03:38.320 --> 02:03:46.219
+Carlos Fabian Descalzo: este y y bueno nada que que que se tomen estos días de descanso y y que la pasen lindo. Si.
+
+906
+02:03:49.120 --> 02:03:51.450
+CAROLINA OYARBIDE: Sí. Gracias. José.
+
+907
+02:03:51.450 --> 02:03:58.210
+Carlos Fabian Descalzo: Muy bien bárbaro. Bueno, chicos nos vemos gracias a ustedes. Un abrazo grande.
+
+908
+02:03:58.210 --> 02:03:58.700
+CAROLINA OYARBIDE: Lo que.
+
+909
+02:03:59.550 --> 02:03:59.940
+OCTAVIO RIEGO: De que ha.
+
+910
+02:03:59.940 --> 02:04:01.030
+NAHUEL DEVITO: No sé.
+
+911
+02:04:01.030 --> 02:04:02.409
+JUAN LOGUZZO: Hasta luego buen fin de.
+
+912
+02:04:02.410 --> 02:04:04.000
+Carlos Fabian Descalzo: Adiós buen fin de.
