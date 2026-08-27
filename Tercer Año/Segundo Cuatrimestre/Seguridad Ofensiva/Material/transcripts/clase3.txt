@@ -1,0 +1,4377 @@
+WEBVTT
+
+1
+00:00:04.860 --> 00:00:08.540
+Dario Rizzo: Buenas noches, gente remota, me escucha.
+
+2
+00:00:09.630 --> 00:00:10.340
+francisco daurat: Sí, Sí.
+
+3
+00:00:11.310 --> 00:00:17.079
+Dario Rizzo: Bueno, genial, Bueno, ahí. Bueno, ahora ahora no se el mejor momento. Pero bueno, está caído el
+
+4
+00:00:17.220 --> 00:00:23.250
+Dario Rizzo: la la plataforma, vieron que ahí está para están ahí en una etapa de grupos. Lo vieron en la plataforma.
+
+5
+00:00:23.900 --> 00:00:24.759
+francisco daurat: No se.
+
+6
+00:00:24.760 --> 00:00:30.649
+Dario Rizzo: En la solapa de grupos para que vayan, vayan agregando ustedes ahí en los grupos que van armando
+
+7
+00:00:31.130 --> 00:00:34.649
+Dario Rizzo: para el pitazo final. Bueno, ahora no lo podemos ver.
+
+8
+00:00:34.890 --> 00:00:43.320
+Dario Rizzo: Eso es importante. Así ya arman los grupos. Creo que no sé hasta qué fecha le voy a poner yo. Bueno, voy a tener una semana más para que se agreguen.
+
+9
+00:00:43.480 --> 00:00:49.889
+Dario Rizzo: No importa si son presenciales o virtuales o híbridos o lo que sea, no el problema total. La defensa es la misma.
+
+10
+00:00:50.030 --> 00:00:54.969
+Dario Rizzo: Lo van a van a exponer a cabo o virtual. Depende del caso de donde esté, cada 1,
+
+11
+00:00:55.960 --> 00:01:02.160
+Dario Rizzo: quién sabe quién se notó híbrido alguno. Nadie eligió híbridos.
+
+12
+00:01:02.810 --> 00:01:04.250
+francisco daurat: No estaba la opción.
+
+13
+00:01:04.900 --> 00:01:11.910
+Dario Rizzo: Creo que estoy online. Pero Ok, Ok,
+
+14
+00:01:12.800 --> 00:01:32.460
+Dario Rizzo: Bueno, porque el en teoría, en teoría, el híbrido es el que puede ir mutando en presencial sin ningún problema problema. Si, bueno, si son online, no no hay problema que pueden venir, acá, no hay problema. El que el único que tiene problema es el presencial. Si va a ser online, me avisa como para yo. Ya te vas a sentar lo que, como que lo curso online no hay problema igual.
+
+15
+00:01:32.590 --> 00:01:37.439
+Dario Rizzo: Tengan en cuenta eso lo de los grupos importantes. Los trabajos prácticos, como vienen los 2, que
+
+16
+00:01:37.600 --> 00:01:38.829
+Dario Rizzo: hasta el momento.
+
+17
+00:01:39.450 --> 00:01:44.990
+Dario Rizzo: Bien, al sur. Bien.
+
+18
+00:01:45.560 --> 00:01:51.209
+Dario Rizzo: La típica, Bueno, creo que me decía hoy, ¿no?
+
+19
+00:01:51.310 --> 00:01:54.350
+Dario Rizzo: Sí. Bueno, por subir al
+
+20
+00:01:55.420 --> 00:02:02.050
+Dario Rizzo: sí. también. Pero bueno, igual hay que entrar también por el otro, para entregar el el cómo se llama el reporte. Digamos
+
+21
+00:02:02.410 --> 00:02:03.819
+Dario Rizzo: qué tal buenas noches
+
+22
+00:02:04.990 --> 00:02:10.879
+Dario Rizzo: para entregar el Pero bueno, ahora ya extiendo un poquito más el vencimiento por una cuestión técnica.
+
+23
+00:02:11.690 --> 00:02:15.539
+Dario Rizzo: Bueno, ¿qué más alguna consulta duda de lo que vimos hasta ahora.
+
+24
+00:02:15.850 --> 00:02:17.620
+Dario Rizzo: Perfecto.
+
+25
+00:02:20.380 --> 00:02:21.679
+Dario Rizzo: Sí, no hay problema.
+
+26
+00:02:24.480 --> 00:02:31.559
+Dario Rizzo: ¿no? Siem, siempre, o sea, traten, digamos, cuando hacen así un un trabajo, lo que sea, siempre tra tratar de hacer una captura
+
+27
+00:02:31.690 --> 00:02:34.019
+Dario Rizzo: pegarla, no pegarla, porque me ha pasado.
+
+28
+00:02:34.330 --> 00:02:43.250
+Dario Rizzo: Me ha pasado el el anterior que cursada, que pegaban, tiraban capturas y no ponían nada abajo de lo que estaban haciendo
+
+29
+00:02:43.440 --> 00:02:45.329
+Dario Rizzo: medida es que hagan la captura
+
+30
+00:02:45.630 --> 00:02:52.300
+Dario Rizzo: como evidencia, aunque lo de lo que hicieron y vayan haciendo una breve reseña de lo que hicieron abajo o explicar qué es la imagen? Por lo menos
+
+31
+00:02:55.710 --> 00:02:58.999
+Dario Rizzo: decía inger, No, No, no, no, no.
+
+32
+00:02:59.870 --> 00:03:10.439
+Dario Rizzo: Claro lo que lo que el el el trabajo tiene un tiene un requisito. No sé hacer un en el creo que en el Este es ponerme más. Hacer un escaneo de un sitio bla, bla bla. Bueno.
+
+33
+00:03:11.490 --> 00:03:20.480
+Dario Rizzo: haces una captura del Nenemac que lo ejecutaste con los comandos. Ejecutaste o que hiciste varias varias varias consultas con el Emma, por ejemplo. Bueno, vas mostrando todas
+
+34
+00:03:21.430 --> 00:03:28.949
+Dario Rizzo: y explicando qué hiciste abajo de esa imagen, que es lo que trataste de hacer o qué qué tuviste como resultado, o lo que sea. También
+
+35
+00:03:29.700 --> 00:03:35.039
+Dario Rizzo: traten de armar un un trabajo así más más uniforme, más o menos acorde a
+
+36
+00:03:35.190 --> 00:03:44.420
+Dario Rizzo: a la algo algo universitario, digamos, porque tengan en cuenta que tengan hagan en cuenta que ese informe es el que ustedes entregan el día de mañana para un, No sé
+
+37
+00:03:45.040 --> 00:03:58.150
+Dario Rizzo: exactamente a un su a un superior o alguna evidencia, una auditoría. Lo que sea, saben, Traten de consumarse ya de hacerlo así. Así. Ya lo ya lo lo tienen, automatizado y hacen directamente así lo cualquier tipo de informe.
+
+38
+00:04:05.740 --> 00:04:15.260
+Dario Rizzo: No, Así se automatizan, digamos, la, o sea, los informes, son todos iguales. Prácticamente entonces, si ya empiezan a automat automatizar, o sea.
+
+39
+00:04:15.320 --> 00:04:29.459
+Dario Rizzo: ya se automatizan. El cómo es el uniforme. Entonces ya saben que tienen que tener la carátula bla, bla, el índice, lo que encontraron después una una brev, una breve conclusión. Y bueno, pero bueno que traten de hacerlo siempre igual. Así ya lo automatizan de cierta manera para
+
+40
+00:04:29.580 --> 00:04:32.530
+Dario Rizzo: toda la materia o también para el trabajo que tengan el día de mañana.
+
+41
+00:04:33.590 --> 00:04:34.270
+Dario Rizzo: Mhm.
+
+42
+00:04:36.350 --> 00:04:48.520
+Dario Rizzo: Sí, el tema que me me pasó el yo, en el anterior fui ayudante del profesor que era el titular de la de la de la cátedra.
+
+43
+00:04:48.650 --> 00:04:53.790
+Dario Rizzo: Entonces, claro, cuando me dice, bueno, corrí todos. Trabajo. Bueno, yo vi lo que pidió.
+
+44
+00:04:53.910 --> 00:05:02.749
+Dario Rizzo: Y bueno, empezó a corregir. Después él empezó a rebotar un montón de trabajos prácticos que yo ya las había probado por este tema y dice nada, entregaron. Pero bueno, pero no dice que hagas. Bueno.
+
+45
+00:05:03.160 --> 00:05:08.769
+Dario Rizzo: traten traten de hacerlo ya auto en forma automatizada, digamos el también.
+
+46
+00:05:10.860 --> 00:05:21.259
+Dario Rizzo: Pero bueno, digamos no es porque no es tirar imágenes y depende que que que, pero bueno, si bien si bien no detalla lo tiene que hacer así. Pero bueno, traten de hacerlo poco ordenado.
+
+47
+00:05:36.110 --> 00:05:36.780
+Dario Rizzo: Mhm.
+
+48
+00:05:37.480 --> 00:05:50.100
+Dario Rizzo: En teoría, si no, si no, si no, no falla la la tecnología después en eso, la segunda parte, digamos, de la de la clase, se va a conectar un un docente de otra materia para darles algo de práctica. Sobre esto
+
+49
+00:05:50.440 --> 00:05:51.230
+Dario Rizzo: está bien.
+
+50
+00:05:51.440 --> 00:05:55.360
+Dario Rizzo: Se llamaba Rubén Rubén Eibar. No sé si lo tuvieron, hay incluso auditoría.
+
+51
+00:05:56.180 --> 00:05:58.469
+Dario Rizzo: Bueno, es el docente de auditoría.
+
+52
+00:05:58.610 --> 00:06:05.790
+Dario Rizzo: Y Y si si creo que es media, media.
+
+53
+00:06:07.140 --> 00:06:10.330
+Dario Rizzo: creo que está en el tercer año.
+
+54
+00:06:10.890 --> 00:06:15.599
+Dario Rizzo: Pero, bueno, no sé si es de es del segundo cuatrimestre o del primero. No, No recuerdo cómo está en el
+
+55
+00:06:15.970 --> 00:06:17.159
+Dario Rizzo: en el cronograma.
+
+56
+00:06:18.100 --> 00:06:25.520
+Dario Rizzo: Bueno, vamos a arrancar con la clase 3, que es la tapa de reconocimiento. Se acuerda más o menos que vimos en la clase anterior
+
+57
+00:06:25.830 --> 00:06:27.060
+Dario Rizzo: alguno se animan.
+
+58
+00:06:34.190 --> 00:06:42.249
+Dario Rizzo: Vamos sin miedo que vimos la desgracia de la noche anterior. Que qué estuvimos viendo.
+
+59
+00:06:42.250 --> 00:06:48.199
+francisco daurat: Si no me equivoco, las metodologías del pentésting, no yo. Las etapas, perdón.
+
+60
+00:06:48.810 --> 00:06:52.799
+Dario Rizzo: Qué más se acuerda? ¿se acuerda.
+
+61
+00:06:52.800 --> 00:06:54.110
+Juan Pablo Sanabria: De los tiempos.
+
+62
+00:06:54.110 --> 00:06:54.490
+Dario Rizzo: De que.
+
+63
+00:06:54.490 --> 00:06:58.280
+Juan Pablo Sanabria: Y los tipos de atacantes. También.
+
+64
+00:06:58.620 --> 00:07:01.239
+Dario Rizzo: También cuál era cuál era la primera etapa.
+
+65
+00:07:01.930 --> 00:07:03.090
+francisco daurat: Reconocimiento a.
+
+66
+00:07:03.380 --> 00:07:04.679
+Dario Rizzo: Bien, Bien, ahí está.
+
+67
+00:07:05.490 --> 00:07:06.320
+Dario Rizzo: Bueno.
+
+68
+00:07:06.720 --> 00:07:25.390
+Dario Rizzo: reconocimiento. Me parece que son 5 etapas, básicamente. Pero bueno, dentro de cada etapa hay etapas acá en la materia. Lo que hacemos es tratar, digamos, de concentualizarlas, que son parecidas y definir esas 5 etapas, que son las más importantes dentro del proceso, digamos, de de un pentés o de un
+
+69
+00:07:25.530 --> 00:07:30.889
+Dario Rizzo: de un ataque. Está bien? Bueno, la etapa de conocimiento. ¿por qué piensan que es la más importante?
+
+70
+00:07:32.420 --> 00:07:36.280
+Dario Rizzo: O es muy importante hacer un buen reconocimiento.
+
+71
+00:07:37.160 --> 00:07:39.289
+francisco daurat: Y porque te mapea bien la superficie.
+
+72
+00:07:40.200 --> 00:07:44.150
+Dario Rizzo: Bien, ¿qué más exacto
+
+73
+00:07:48.420 --> 00:07:54.940
+Dario Rizzo: Sí. Bueno, ya funcionar para
+
+74
+00:07:55.110 --> 00:07:57.459
+Dario Rizzo: ¿Qué más? Algo más? ¿qué más?
+
+75
+00:07:58.310 --> 00:08:00.209
+Dario Rizzo: Mí también está bien eso también. ¿
+
+76
+00:08:02.050 --> 00:08:07.339
+Dario Rizzo: Que es algo que se van la semana pasada. Yo la he mandado un montón de cosas y ver ver qué más, aparte de lo técnico
+
+77
+00:08:08.590 --> 00:08:10.980
+Dario Rizzo: que que hay que ver, también mirar.
+
+78
+00:08:10.980 --> 00:08:12.059
+Juan Pablo Sanabria: El alcance.
+
+79
+00:08:12.770 --> 00:08:16.409
+Dario Rizzo: La gas, pero perfiles información de la compañía.
+
+80
+00:08:16.440 --> 00:08:27.669
+Dario Rizzo: Hay que hay que ver un montón de cosas, no solamente lo Tec no se sienten, se siente solamente, no técnico, también lo social de la manera de la empresa, quiénes trabajan, dónde trabajan.
+
+81
+00:08:27.670 --> 00:08:38.130
+Dario Rizzo: No sé si yo tengo acá una compañía, buscaría, no sé la gente de finanzas a ver quién deja las finanzas, quién s quién es el board, quién es el S I S, o está bien empezar a ver así y buscar, no sé
+
+82
+00:08:38.230 --> 00:08:44.540
+Dario Rizzo: perfiles. No sé de Linkedin, también, por favor.
+
+83
+00:08:46.270 --> 00:08:58.309
+Dario Rizzo: ten en cuenta que, por ejemplo, hoy en Linkedin, ustedes pueden buscar por compañía y van a verlo, realmente van a encontrar el perfil que tiene la persona dentro de la compañía. También. Entonces eso también le le da un indicio
+
+84
+00:08:58.620 --> 00:09:16.350
+Dario Rizzo: de el poder que tiene dentro de la compañía, ¿Qué información puede llegar a tener Y en base a eso? Bueno, si me sirve atacarlo o tratar de robar información, poder dirigir hacer una campaña de, no sé de phishing dirigido a esa persona. También
+
+85
+00:09:25.000 --> 00:09:37.870
+Dario Rizzo: a mí me a mí me me pasó cuando cuando automáticamente, cuando puse en Linkedin, que estaba como en ese momento, no sé si era puesto que estaba segundo jefe de seguridad informática de policía federal. Argentina automáticamente me empezó a sacar de phishing.
+
+86
+00:09:38.340 --> 00:09:44.239
+Dario Rizzo: me empezó a caer en el en el laboral y en el particular hasta que el particular me lo bloquearon.
+
+87
+00:09:44.670 --> 00:09:48.270
+Dario Rizzo: pues decía que era tuvo intentos o intentos, No sé de
+
+88
+00:09:48.590 --> 00:09:55.180
+Dario Rizzo: de que de intrusiones y demás. Y bueno, Joder también me lo bloqueo. Casi tuve como 30 días sin poder acceder al correo. Sabes.
+
+89
+00:09:56.400 --> 00:09:57.200
+Dario Rizzo: bueno.
+
+90
+00:09:57.400 --> 00:10:13.289
+Dario Rizzo: pero ¿por qué? Porque vieron que vieron, vieron y dijeron, bueno, este está ahí. Tratamos de robar la información o tratar. No sé una contraseña que me robaron a mí y pensaban que iba a ser algo importante. Obviamente, ¿Vos ves son informática? Sabes que tiene el shock. Tiene un montón de cosas que decir, trato de, digamos, si bajo el sol
+
+91
+00:10:13.290 --> 00:10:22.969
+Dario Rizzo: o llego a una herramienta de seguridad que yo tengo acceso, pueden ver todo el tráfico de la compañía. Las herramientas de seguridad de seguridad informática
+
+92
+00:10:22.990 --> 00:10:28.880
+Dario Rizzo: pueden llegar a los analistas y ver en tiempo real el ataque que pudo perpetrar yo después.
+
+93
+00:10:30.870 --> 00:10:35.580
+Dario Rizzo: Bueno, ahí van a ver que hay varias
+
+94
+00:10:37.050 --> 00:10:39.679
+Dario Rizzo: acciones en el sigle siglo, digamos, de
+
+95
+00:10:39.960 --> 00:10:52.049
+Dario Rizzo: del del ataque. ¿no? Bueno, siempre digo que siempre topología, identidad, exposición, sólo que estamos tratando de buscar esos 3 puntos también para ver que es lo que es la topología, que sería la topología que se les ocurre, que es
+
+96
+00:10:52.150 --> 00:10:54.410
+Dario Rizzo: lo que decía el compañero ahí atrás
+
+97
+00:10:56.870 --> 00:11:04.710
+Dario Rizzo: de la red, tratar de ver, digamos, si el el servidor que tengo está expuesto a Internet. Si es un sitio web en tal que que que que me interesaría saber el sitio web.
+
+98
+00:11:06.030 --> 00:11:13.069
+Dario Rizzo: Claro, qué puerto tengo abierto en base al puerto, voy a tratar de tratar de encontrar qué
+
+99
+00:11:13.810 --> 00:11:18.060
+Dario Rizzo: en box. Yo sé que tengo un puerto abierto. No sé el 4 4 4. ¿qué es
+
+100
+00:11:22.480 --> 00:11:25.020
+Dario Rizzo: el? No sé el 22.
+
+101
+00:11:26.260 --> 00:11:28.829
+francisco daurat: O sea, intentas enumerar los servicios.
+
+102
+00:11:29.150 --> 00:11:41.059
+Dario Rizzo: La S S. H, Entonces, por lo general por lo general también hay compañías que hay compañías que, si hacen las cosas bien lo que tratan de esos puertos de tratar de disfrazarlos. También hacen como una un enmascaramiento del puerto.
+
+103
+00:11:41.300 --> 00:11:54.079
+Dario Rizzo: ¿Para qué? Para que 1 hace hace hace algún reconocimiento, no pueda detectar fácilmente el servicio que yo tengo expuesto en base al puerto también porque nadie eso hacía lo que lo que deberíamos hacer.
+
+104
+00:11:54.680 --> 00:12:02.289
+Dario Rizzo: Hay lugares que no que lo lo lo lo comparten así. Entonces yo puedo ver qué servicios, tengo, Yo tengo expuestos a Internet por un simple mapeo. Está bien.
+
+105
+00:12:03.400 --> 00:12:05.260
+Dario Rizzo: ¿Qué más después identidades
+
+106
+00:12:06.530 --> 00:12:13.890
+Dario Rizzo: lo vi. Lo Lo que dijimos recién, no los perfiles que cucu puestos ocupan tratar, digamos, ver. No sé si yo
+
+107
+00:12:14.020 --> 00:12:23.370
+Dario Rizzo: veo, no sé un deporte que le gusta a la persona hacer en su perfil social. Puedo mandarle un fishing dirigido con propaganda de deporte? No sé veo
+
+108
+00:12:23.540 --> 00:12:37.670
+Dario Rizzo: lo si si veo que no sé la foto del del hijo que tienen. No sé la remera del colegio, puedo mandarle un p. D F con la cuota que tiene que estar vencida. Está bien que como papás, nos preocupamos de la cuota, decía, tengo que pagar la cuota.
+
+109
+00:12:37.870 --> 00:12:43.499
+Dario Rizzo: Entonces nos preocupamos y capaz que, a simple vista, caemos en el en la trampa, ¿no?
+
+110
+00:12:43.600 --> 00:12:45.070
+Dario Rizzo: Y después también.
+
+111
+00:12:46.140 --> 00:12:52.540
+Dario Rizzo: Esto importante que eso sería ya del lado de dónde la exposición
+
+112
+00:12:58.720 --> 00:13:02.919
+Dario Rizzo: que dice de editar configuraciones erróneas y servicios olvidado También.
+
+113
+00:13:03.520 --> 00:13:11.999
+Dario Rizzo: Claro, yo voy a tratar de ver si el servidor tiene alguna mala configuración, también algún servicio Legacy.
+
+114
+00:13:12.130 --> 00:13:18.019
+Dario Rizzo: algo expuesto también que me permita robar información o acceder al servidor. Básicamente, esta Bien.
+
+115
+00:13:22.140 --> 00:13:35.579
+Dario Rizzo: el reconocimiento no se detiene te hace el acceso inicial, también siempre reconocimiento, siempre, o sea, por más que yo acceda al servidor. Ahí no se no para el reconocimiento hay que seguir avanzando. Siempre hay que tratar de conocer más. Está bien. Entonces
+
+116
+00:13:38.110 --> 00:13:55.430
+Dario Rizzo: contiene internamente para trazar rutas de movimiento lateral y escalar privilegios siempre el reconocimiento. Si yo accedo a un servidor con un usuario X que yo lo puedo usar, bueno, escalar privilegios está bien para ir viendo o parar servicios, por ejemplo, o agregar servicios también
+
+117
+00:13:55.460 --> 00:14:06.510
+Dario Rizzo: en el servidor o si quiero ir en forma lateral. No sé, para empezar a moverme dentro de las carpetas compartidas o demás. Voy a tener también tener acceso a un a una cuenta de usuario, No, obviamente está bien.
+
+118
+00:14:07.880 --> 00:14:12.140
+Dario Rizzo: Tengan en cuenta que también, por ejemplo, lo que pasó en el en el complejo médico
+
+119
+00:14:13.400 --> 00:14:18.889
+Dario Rizzo: fue también por por un mala configuración también en versiones de Windows.
+
+120
+00:14:19.730 --> 00:14:23.079
+Dario Rizzo: Sí, Windows: Sí, seven.
+
+121
+00:14:23.690 --> 00:14:33.380
+Dario Rizzo: Hay un servicio que se llama S M. B, que es el que te comparte, comparte para que se usa, para compartir impresoras, carpetas y demás.
+
+122
+00:14:33.420 --> 00:14:45.689
+Dario Rizzo: Hay una versión. Creo que es la 1 1 que ya que es vulnerable. Y si tienen esa versión activada en Windows, yo me permite formar ir pasándome de forma lateral sin acceso. Está bien, Por ejemplo.
+
+123
+00:14:46.410 --> 00:14:57.780
+Dario Rizzo: eso en un caso de un caso de un Rassomware, es un es un peligro, porque Bueno, vieron que el caso afecta en forma. Empieza a pasar en forma horizontal de una una máquina a otra máquina. Está bien.
+
+124
+00:14:59.130 --> 00:15:13.859
+Dario Rizzo: Tengo esta máquina que tiene acceso a todas estas máquinas, automáticamente se encripta todos los discos. Vale, va pasando de máquina a máquina, y así sucesivamente pasas a máquina, esa máquina ve y otras 5 máquinas pasas a 5 máquinas. Y así se va dispersando por toda la red también.
+
+125
+00:15:15.570 --> 00:15:22.289
+Dario Rizzo: Y aunque tengan antivirus, también tengan en cuenta que, por ejemplo, cuando todo el hospital tenían todas las mallas y tenían ese.
+
+126
+00:15:22.420 --> 00:15:36.100
+Dario Rizzo: y automáticamente era como que vos veías el Lock después del del antivi del del virus, el antivirus. Y era como que que lo paraba lo iniciaba lo paraba en iniciaba parada. Y en un momento como que el Rossowell le ganó y lo paró automáticamente el antivirus, y se lo comió,
+
+127
+00:15:36.720 --> 00:15:41.410
+Dario Rizzo: así que también el antivirus tampoco te lo te lo para, de cierta manera.
+
+128
+00:15:42.570 --> 00:15:51.799
+Dario Rizzo: siempre conviene tener alguna herramienta instalada que sea un poco más poderosa que un antivirus común, un E, D, R o no sé alguno de aquí de guerra. Creo que también hay de ahora
+
+129
+00:15:51.900 --> 00:15:58.799
+Dario Rizzo: un montón de algunas herramientas que serán un poco más, son más costosas. Pero para un caso así los va a ayudar.
+
+130
+00:16:04.620 --> 00:16:05.940
+Dario Rizzo: Bueno.
+
+131
+00:16:07.020 --> 00:16:14.169
+Dario Rizzo: tenemos 2 conceptos, también tenemos el Fut Pring y el Finger Print Team. Fut Pring Team. El mapa no
+
+132
+00:16:16.150 --> 00:16:28.779
+Dario Rizzo: tiene una visión global y estratégica. Está bien. Yo tengo que definir una estrategia para hacer un reconocimiento. Está bien y del lado de este ya lo que es la táctica. ¿y qué voy a planificar para el ataque? Está bien
+
+133
+00:16:32.010 --> 00:16:48.299
+Dario Rizzo: importante, como decíamos antes, es conocer el perímetro completo de organización yo, con el cuando cuando hago la estrategia defino el alcance que voy a tener: el ataque o trato de definir de cierta manera el mapa de que voy a ejecutar para el ataque. Está bien.
+
+134
+00:16:50.690 --> 00:16:58.940
+Dario Rizzo: bueno, y acá podemos sacar dominios que tiene el sitio web, vieron que, por ejemplo, saben, por ejemplo, los conocen, pero es un subdominio.
+
+135
+00:16:59.270 --> 00:17:06.829
+Dario Rizzo: Sí saben lo que es un subdominio remoto.
+
+136
+00:17:07.810 --> 00:17:09.150
+Dario Rizzo: más bien con la.
+
+137
+00:17:09.150 --> 00:17:09.910
+francisco daurat: Sí.
+
+138
+00:17:10.619 --> 00:17:11.719
+Juan Pablo Sanabria: Sí, Sí, creo.
+
+139
+00:17:12.140 --> 00:17:17.670
+Dario Rizzo: Bueno, todo lo que vieron que tienen típico. W punto. X, dominio, punto.
+
+140
+00:17:17.880 --> 00:17:24.919
+Dario Rizzo: Algo bueno, todo lo que tengan del del punto para atrás. Al principio son su dominio. También. Lo general tienen tienen Mail. Punto. Com
+
+141
+00:17:25.470 --> 00:17:27.930
+Dario Rizzo: Palermo, punto de Edo.
+
+142
+00:17:28.109 --> 00:17:30.699
+Dario Rizzo: Sí. Apunto. Bueno.
+
+143
+00:17:31.960 --> 00:17:37.630
+Dario Rizzo: muchas vieron que los certificados digitales, ya saben cómo se generan los certificados digitales. Los S. S. L.
+
+144
+00:17:39.000 --> 00:17:46.160
+Dario Rizzo: Bueno, vieron que tiene el Http: S No es el S. ¿saben que es ¿de qué es? No,
+
+145
+00:17:46.390 --> 00:17:48.300
+Dario Rizzo: secure? Bueno.
+
+146
+00:17:48.600 --> 00:17:56.390
+Dario Rizzo: obviamente que bueno, la seguridad, la seguridad en nuestro rubro, Lamentablemente, no está 100 por 100 garantizada, ya eso lo sabían. ¿no? Bueno.
+
+147
+00:17:56.580 --> 00:18:05.450
+Dario Rizzo: esa S de Https es un certificado digital. Está bien, ustedes lo pueden generar para un solo dominio o para varios dominios. Está bien.
+
+148
+00:18:06.560 --> 00:18:09.780
+Dario Rizzo: Van a ver que las compañías que les venden los certificados digitales
+
+149
+00:18:10.260 --> 00:18:21.109
+Dario Rizzo: por lo general venden. Te venden un certificado digital por por dominio, pero tienen una opción que se llama Willcar. También esa Willcar. Lo que te hace es, te permite generar videojuegos digitales
+
+150
+00:18:21.340 --> 00:18:34.759
+Dario Rizzo: para todo lo que tengas atrás, o sea, para el W punto para el mail. No sé sistema. Punto Palermo, punto edu para un montón de dominios también. Entonces es como que sería un asterisco, punto el dominio
+
+151
+00:18:35.530 --> 00:18:36.760
+Dario Rizzo: de más. ¿saben?
+
+152
+00:18:37.890 --> 00:18:52.089
+Dario Rizzo: Ssl obviamente tiene un costo bueno y a veces muchas veces te conviene tener, necesitas tener un Ese tiene un costo y un tiempo de de para generar el Ssl muchas veces lo que pasa que tiene también un vencimiento, ¿no? Ssl: ¿Cuánto dura.
+
+153
+00:18:53.260 --> 00:18:54.350
+Dario Rizzo: ¿no?
+
+154
+00:18:55.850 --> 00:18:56.900
+Dario Rizzo: ¿cuánto dura
+
+155
+00:19:01.020 --> 00:19:18.089
+Dario Rizzo: un año exactamente antes era. Tenía antes lo pedías, pues vos lo podías comprar por 1, 2, 3, 4 o 5 lo que sea, pero Google se quejó, dijo. No queremos que sea un año por una cuestión de seguridad. Bueno, entonces el negocio de ellos ahora es lo renuevan. Cada Cada año lo tienen que ir renovando lo también.
+
+156
+00:19:19.020 --> 00:19:24.119
+Dario Rizzo: Una vez le pasó que nosotros le había pasado que se le mencionó el certificado Ssl
+
+157
+00:19:25.000 --> 00:19:29.029
+Dario Rizzo: se le a una de sus compañeras. Vieron un certificado vencido.
+
+158
+00:19:29.170 --> 00:19:33.600
+Dario Rizzo: Bueno, se te cae, se te cae todo automáticamente.
+
+159
+00:19:34.010 --> 00:19:44.799
+Dario Rizzo: Toda persona que quieran ingresar al sitio le va a decir que eso que se que se que está bueno, que no es noticia que está bien. Si no te dice que el certificado digital no es válido, te aparece un cartel así, entonces nadie entra prácticamente
+
+160
+00:19:45.140 --> 00:19:53.370
+Dario Rizzo: y los navegadores qué hacen? Te avisan y no te dicen, bueno, vas a entrar bajo tu responsabilidad. Así que el usuario. Cuando ve eso, No, no, no entra por lo general.
+
+161
+00:19:53.690 --> 00:19:56.679
+Dario Rizzo: Entonces bueno, pasa eso. Se te ven? C, S. Y se te caen todos
+
+162
+00:19:58.130 --> 00:20:07.119
+Dario Rizzo: nosotros en el hospital se nos venció el certificado una vez, porque, obviamente que cuando llega la fecha hay que hacer un trámite de renovación que eso dura 24 h. Está bien.
+
+163
+00:20:08.000 --> 00:20:14.639
+Dario Rizzo: Te generan nuevos, te genera el nuevo certificado que hace el certificado. Uno lo descarga, lo instala en el sitio nuevo. Y qué hace?
+
+164
+00:20:14.880 --> 00:20:21.649
+Dario Rizzo: ¿qué se ¿Qué es eso? Ocurre que tiene que hacer el S S, ese certificado que yo instalo tiene automáticamente validez.
+
+165
+00:20:23.450 --> 00:20:24.570
+Dario Rizzo: ¿con qué?
+
+166
+00:20:25.880 --> 00:20:26.860
+Dario Rizzo: ¿
+
+167
+00:20:28.300 --> 00:20:31.109
+Dario Rizzo: Bueno, ¿qué pasa? Se tiene que saber lo que es el D. N. S:
+
+168
+00:20:31.560 --> 00:20:37.780
+Dario Rizzo: Bueno, se tiene que replicar en todos los dness del mundo también, que es el certificado, es válido también, y el dominio es válido.
+
+169
+00:20:38.350 --> 00:20:46.809
+Dario Rizzo: entonces eso tarda un proceso también, Obviamente que empieza la aplicación de los D. N. S. Obviamente, primero en los D. N. S. U y s P. Automáticamente más rápido
+
+170
+00:20:46.940 --> 00:20:51.640
+Dario Rizzo: y después se va propagando por todo el mundo. No
+
+171
+00:20:52.460 --> 00:21:09.499
+Dario Rizzo: puede pasar que no sé si ustedes tienen, por ejemplo, estamos Acá No sé, no sé que tenemos acá para ponerle que tenemos Flow de o telecom. No sé televisión como quieran llamarlo de I, S. P. Puede ser que Isp lo tenga, ya lo tengan validado y tengan sitio le entre perfecto, entran por movistar
+
+172
+00:21:09.620 --> 00:21:18.979
+Dario Rizzo: y le va a tirar, que todavía no es válido. Entonces, bueno, eso se lleva un un tiempo de propagación en todos los daneses para poder que sea válido, certificado.
+
+173
+00:21:20.260 --> 00:21:30.469
+Dario Rizzo: Pero bueno, cuando sean, si sea 1 llega a tener la responsabilidad de tener contrarresente a su cargo, cuando tal el significado, ese ser está vencido. Van a querer matar. Gente está bien.
+
+174
+00:21:31.330 --> 00:21:40.680
+Dario Rizzo: Bueno, dominios rango de Ip es importante también saber ips públicas tienen o cuántas ip públicas tienen la compañía?
+
+175
+00:21:40.860 --> 00:21:43.060
+Dario Rizzo: ¿qué rango de Ip usan también
+
+176
+00:21:44.050 --> 00:21:47.649
+Dario Rizzo: la estructura correos de correos de empleados? ¿por qué correos de empleado.
+
+177
+00:21:48.790 --> 00:21:52.099
+Dario Rizzo: Es importante también saber recolectar correos de empleados
+
+178
+00:21:52.820 --> 00:21:57.519
+Dario Rizzo: o comprar comprar una lista de de datos hackeados
+
+179
+00:21:57.960 --> 00:22:01.329
+Dario Rizzo: con lista de correos poco es importante exactamente.
+
+180
+00:22:01.810 --> 00:22:02.590
+francisco daurat: Las fuerzas brutas.
+
+181
+00:22:03.860 --> 00:22:05.580
+Dario Rizzo: También por fuerza bruta.
+
+182
+00:22:05.870 --> 00:22:15.759
+Dario Rizzo: Vieron que por lo general, cuando ves, se venden, Hay un montón de lugares que venden base de datos con de de usuarios robados, también de correo.
+
+183
+00:22:15.800 --> 00:22:26.860
+Dario Rizzo: También te ven, te venden también contraseñas que ya una base de contraseña. Y bueno, pueden hacer un ataque de fuerza bruta también. Y tratar de entrar al correo también, como lo evitamos, El El ataque de fuerza bruta
+
+184
+00:22:29.160 --> 00:22:36.360
+Dario Rizzo: tiene un correo electrónico, ¿ Exactamente del 2 F, A. También
+
+185
+00:22:38.040 --> 00:22:48.279
+Dario Rizzo: es la única manera prácticamente de de tratar o salvo que tengan. No sé alguna también que otra cosa pueden aplicar, ponle que te que que eso lo tenga que ir ¿
+
+186
+00:22:50.240 --> 00:22:54.609
+Dario Rizzo: También, pero que pueden ustedes configurar como a mitad de correo para evitar eso.
+
+187
+00:22:56.040 --> 00:23:04.070
+Dario Rizzo: La fuerza bruta hamburguesa muy bien, totalmente. Pueden, con Pueden.
+
+188
+00:23:04.500 --> 00:23:11.890
+Dario Rizzo: no es una carrera. Pero, bueno, te voy a dar un mouse de regalo.
+
+189
+00:23:12.240 --> 00:23:20.539
+Dario Rizzo: pero bueno, eso puede pasar también. Ustedes pueden configurar el acceso también nosotros también. Ya saben que pueden también que no sé
+
+190
+00:23:20.940 --> 00:23:33.370
+Dario Rizzo: si yo tengo una compañía, no que sabes, yo sé que todos mis empleados se trasladan, por ejemplo, dentro del país, que puede que también se puede configurar dentro del correo para evitar un intento por salud de otro país
+
+191
+00:23:34.410 --> 00:23:39.329
+Dario Rizzo: exactamente se puede también filtrar por países, digamos, de
+
+192
+00:23:39.570 --> 00:23:49.960
+Dario Rizzo: nosotros. La policía, como el jefe de policía, depende de ese jefe. También es un vocal dentro de Interpol. Se nos complicaba configurar por países. Pero, bueno, dijimos, bueno, no va a ir a Rusia a hacer un
+
+193
+00:23:50.390 --> 00:23:57.699
+Dario Rizzo: A. Bueno. Entonces fuimos. Fuimos bloqueando países en los que Argentina no tiene convenio o no tiene. No sé,
+
+194
+00:23:57.920 --> 00:24:08.499
+Dario Rizzo: está enemistado. Entonces, bueno, estuvimos hablando de esos países, por lo menos para que les bloquee el acceso. Si quieren ingresar a la al correo de de ese desde ese país No, obviamente.
+
+195
+00:24:10.560 --> 00:24:16.540
+Dario Rizzo: Bueno, eso son 2. Son 2 opciones que, lamentablemente, bueno, hay que ir configurándolas, porque hoy en día.
+
+196
+00:24:18.910 --> 00:24:22.790
+Dario Rizzo: al correo van a querer ingresar constantemente.
+
+197
+00:24:24.090 --> 00:24:30.070
+Dario Rizzo: Bueno, y también esto importante, habló alguien no proveedores. ¿por qué proveedores?
+
+198
+00:24:32.330 --> 00:24:37.880
+Dario Rizzo: He sido también importante, Sí, Sí, exactamente
+
+199
+00:24:38.160 --> 00:24:56.479
+Dario Rizzo: hoy en día. También se me lo que se denomina ese el ataque a la cadena de suministro. Sí está el concepto, ese también que que pasa yo cuando firmo un convenio o tengo un no sé, una configuración con A, V P. N con otro organismo. Lamentablemente, ese ese organismo lo tengo que considerar como que está dentro de mi red, también
+
+200
+00:24:56.970 --> 00:24:59.780
+Dario Rizzo: por equis, por todos los motivos que sean necesarios
+
+201
+00:24:59.980 --> 00:25:10.010
+Dario Rizzo: tanto por información, por Po. Porque también puede venir un Ru, un un virus o un archivo, un ataque desde ahí desde de aquel lado, entonces también lo tengo que segurizar. Eso también está bien.
+
+202
+00:25:14.720 --> 00:25:17.860
+Dario Rizzo: Prácticamente lo tengo que tratar de tratar como un empleado.
+
+203
+00:25:18.230 --> 00:25:26.580
+Dario Rizzo: ¿qué está haciendo Huhon Office prácticamente que está dentro de mi red. Porque, bueno.
+
+204
+00:25:28.100 --> 00:25:37.020
+Dario Rizzo: objetivo iniciar la firma técnica salta de un activo. ¿por qué les parece eso que tengo que si yo, que es un activo nativo en informática, que es un activo.
+
+205
+00:25:40.930 --> 00:25:51.659
+Dario Rizzo: no sé ustedes ustedes agarran los nombro como como responsables de Data Center o de no sé de de de T, I, gente de T I, que que es lo primero que tienen que saber ustedes
+
+206
+00:25:53.220 --> 00:25:58.750
+Dario Rizzo: claro qué es lo que es un activo, una computadora, un servidor, también.
+
+207
+00:26:00.020 --> 00:26:02.239
+Dario Rizzo: ¿por qué es importante saber qué activos tengo.
+
+208
+00:26:05.670 --> 00:26:10.069
+Dario Rizzo: puedo identificar así claro
+
+209
+00:26:10.540 --> 00:26:25.350
+Dario Rizzo: exactamente. Tengo que saber qué activos tengo, cuáles son los más valiosos, también dentro no valiosos en costos, sino cuál es el más valioso dentro de, digamos, de la escala, esa información también. ¿qué servicios tiene también?
+
+210
+00:26:27.940 --> 00:26:32.369
+Dario Rizzo: Y bueno, acá? Dice, Bueno, yo tengo identifico, identifico el activo, también
+
+211
+00:26:32.970 --> 00:26:40.730
+Dario Rizzo: servidor web también. ¿qué qué tengo que saber, qué tengo que si yo, como atacante, qué me interesa saber que tiene que esa, que tiene eso ahí que que
+
+212
+00:26:41.060 --> 00:26:42.450
+Dario Rizzo: que me interesaría saber.
+
+213
+00:26:44.280 --> 00:26:45.230
+Dario Rizzo: ¿
+
+214
+00:26:46.220 --> 00:26:47.829
+Dario Rizzo: Datos tiene, qué más sí
+
+215
+00:26:53.210 --> 00:26:55.930
+Dario Rizzo: no
+
+216
+00:26:57.780 --> 00:27:03.319
+Dario Rizzo: que tiene instalado el So, el que tiene software instalado, que el sobre que que tiene, qué, qué qué características tiene un software
+
+217
+00:27:03.850 --> 00:27:11.440
+Dario Rizzo: instalado. No sé exactamente la versión, también. En base a la versión, yo que voy a buscar después
+
+218
+00:27:11.710 --> 00:27:30.599
+Dario Rizzo: exactamente, también van a ver que prácticamente todas las versiones. Ustedes van a ver, no sé. Van a buscar, no sé, apache, 7, Bueno, van a buscar que tiene vulnerabilidades, y muchas veces la gente no lo actualiza por equis motivos también. Entonces, después yo voy a buscar en base a esa versión de Apache que que yo descubrí
+
+219
+00:27:30.800 --> 00:27:34.950
+Dario Rizzo: que unidades tiene también y tratar de empezar a
+
+220
+00:27:35.460 --> 00:27:38.679
+Dario Rizzo: a ver cómo puedo entrar a ese servidor.
+
+221
+00:27:42.160 --> 00:27:45.520
+Dario Rizzo: O sea, yo tengo. Ese soft está al lado abajo del software que tengo.
+
+222
+00:27:46.250 --> 00:27:47.150
+Dario Rizzo: Bueno.
+
+223
+00:27:48.260 --> 00:27:57.029
+Dario Rizzo: exactamente también tengo que saber si que versión tiene sistema operativo. También me va a dar indicios de qué versión que que vulnerabilidad tiene el el sistema operativo está bien
+
+224
+00:27:58.470 --> 00:28:07.430
+Dario Rizzo: y importante también, tratar, digamos, de ver la arquitectura que tenga el digamos, el servidor, si puedo ver Sity tiene. No sé,
+
+225
+00:28:08.920 --> 00:28:21.769
+Dario Rizzo: tienen la base de datos, la tiene el mon en el mismo servidor la tiene alojada en otro servidor. Todo eso me va. Me va a ayudar a armar, ir, dibujando el mapa mapa mental de la arquitectura que tenga el lugar donde yo quiero atacar. También
+
+226
+00:28:26.760 --> 00:28:31.799
+Dario Rizzo: hay un marco de trabajo que se llama mitre. No sé si lo vieron. Mi te ataca. No lo conocen
+
+227
+00:28:42.530 --> 00:28:44.170
+Dario Rizzo: en matriz.
+
+228
+00:28:55.770 --> 00:28:57.420
+Dario Rizzo: Bueno, acá
+
+229
+00:29:00.760 --> 00:29:03.680
+Dario Rizzo: esto es un Framework, básicamente de
+
+230
+00:29:03.900 --> 00:29:06.070
+Dario Rizzo: que también, cómo cómo sirve como
+
+231
+00:29:06.840 --> 00:29:14.150
+Dario Rizzo: como para los que los que quieren un ataque, o sea, en realidad esto está más o menos pensado a ¿Cómo defenderte de, digamos, de no atacar, No, Obviamente no
+
+232
+00:29:14.420 --> 00:29:20.989
+Dario Rizzo: es un framework que te va bien acá arriba que dice: viene, acá ¿Qué dice acá
+
+233
+00:29:22.120 --> 00:29:27.010
+Dario Rizzo: exactamente. Bueno, si yo mucho inglés no sé, pero bueno, lo hice reconocimiento. Está bien.
+
+234
+00:29:27.610 --> 00:29:38.280
+Dario Rizzo: Bueno, acá arriba van a ver que hay un montón de etapas que muchas se solapan. También están, como estamos mucho más desployado. La cantidad de de fases
+
+235
+00:29:38.530 --> 00:29:42.740
+Dario Rizzo: también. Bueno, y acá dentro van a ver que dice 12 técnicas.
+
+236
+00:29:43.700 --> 00:29:44.640
+Dario Rizzo: Está bien.
+
+237
+00:29:45.270 --> 00:29:49.130
+Dario Rizzo: Bueno, ahí dice que hay 12 técnicas para lo que es el reconocimiento.
+
+238
+00:29:49.770 --> 00:29:53.239
+Dario Rizzo: acá y se activé un escaneo activo. También.
+
+239
+00:29:54.350 --> 00:30:05.689
+Dario Rizzo: Bueno, información del Victima dejó sostener víctima de victima, o sea, identidad de la víctima de la el información, también de la de la de la red de la víctima
+
+240
+00:30:06.580 --> 00:30:16.190
+Dario Rizzo: de la organización que más o menos lo que nos fuimos viendo información para hacer phishing cueria, los servicios
+
+241
+00:30:16.320 --> 00:30:26.320
+Dario Rizzo: públicos, amén qué más bueno se o buscar en fuentes de base de datos abiertas. También te dice.
+
+242
+00:30:26.860 --> 00:30:36.540
+Dario Rizzo: bueno, todas estas técnicas también son las que, en teoría se utilizan para hacer el reconocimiento, también tanto activo como pasivo.
+
+243
+00:30:37.410 --> 00:30:40.560
+Dario Rizzo: Entonces ingresan, van a ver que
+
+244
+00:30:41.380 --> 00:30:56.040
+Dario Rizzo: les empiezo a mostrar básicamente todo lo que corresponde dentro de esta metodología a ver. Vamos a de nada
+
+245
+00:31:00.620 --> 00:31:03.679
+Dario Rizzo: Bueno, acá. También. Lo que te dice, por ejemplo.
+
+246
+00:31:04.290 --> 00:31:07.309
+Dario Rizzo: o tener información de los D. N. S de la víctima. También
+
+247
+00:31:09.150 --> 00:31:12.099
+Dario Rizzo: saben cómo tener información de los de los D. N. S. De la víctima.
+
+248
+00:31:23.450 --> 00:31:26.500
+Dario Rizzo: Hay una página que se llama Mx Tool Box. También.
+
+249
+00:31:27.220 --> 00:31:29.939
+Dario Rizzo: Uno puede poner acá. No sé, el dominio
+
+250
+00:31:38.650 --> 00:31:40.639
+Dario Rizzo: en es
+
+251
+00:31:57.960 --> 00:32:01.000
+Dario Rizzo: bueno, no estaría funcionando en este momento.
+
+252
+00:32:05.310 --> 00:32:06.080
+Dario Rizzo: Muy bien.
+
+253
+00:32:07.920 --> 00:32:08.840
+Dario Rizzo: Cabotch.
+
+254
+00:32:13.240 --> 00:32:14.140
+Dario Rizzo: Bueno.
+
+255
+00:32:15.860 --> 00:32:22.929
+Dario Rizzo: acá lo que ponen ponen el dominio. También que quieren. Quieren. Quieren saber, por ejemplo, si tienen algún D, N, S. O algo activo, está bien.
+
+256
+00:32:25.540 --> 00:32:27.110
+Dario Rizzo: y acá le va a mostrar?
+
+257
+00:32:28.640 --> 00:32:33.469
+Dario Rizzo: Bueno, acá te dice que el D. N. S. Es que está costeado por este dominio. Es el closefar.
+
+258
+00:32:35.110 --> 00:32:37.130
+Dario Rizzo: y te muestra
+
+259
+00:32:39.160 --> 00:32:45.630
+Dario Rizzo: el C. N. I, M. Que se bueno el nombre del dominio que tiene registrado en el D. N. S. También.
+
+260
+00:32:46.780 --> 00:32:51.319
+Dario Rizzo: Y acá te muestra que tiene un registro de marca. También saben lo que es el de Marc.
+
+261
+00:32:54.700 --> 00:32:57.480
+Dario Rizzo: Vieron ustedes tienen un sello de correo
+
+262
+00:32:57.620 --> 00:33:06.479
+Dario Rizzo: y quieren enviar un correo a otro dominio. No, no sé, por ejemplo, de subvienestar en este caso, desde quieren mandar un correo a Palermo.
+
+263
+00:33:07.660 --> 00:33:13.930
+Dario Rizzo: ¿qué pasa hoy en día? Lo que se hace vieron que hoy en día es suplantar la identidad de un correo. Es muy fácil, saben.
+
+264
+00:33:14.460 --> 00:33:17.150
+Dario Rizzo: o enmascararlo. Básicamente está bien.
+
+265
+00:33:17.750 --> 00:33:26.140
+Dario Rizzo: Bueno, ¿qué hace el Lemark? Si yo lo tengo configurado lemar cuando se envía un sale un correo que sea. En este caso, por ejemplo.
+
+266
+00:33:26.270 --> 00:33:29.369
+Dario Rizzo: arroba subvienestar punto o punto Ar: a
+
+267
+00:33:29.760 --> 00:33:34.680
+Dario Rizzo: Palermo puntual, punto ar el correo que van a hacer los servidores de Correa se van a ¿Se van a fijar.
+
+268
+00:33:34.890 --> 00:33:44.760
+Dario Rizzo: se van a comunicar entre ellos y van a ver tenés el de marcativo o sí, a ver, corresponde con la con el I P que vos me estas mandando. Sí, es como es un protocolo que se usa para
+
+269
+00:33:45.050 --> 00:33:49.399
+Dario Rizzo: con verificar si realmente el correo es quien dice ser. Está bien.
+
+270
+00:33:50.440 --> 00:33:55.330
+Dario Rizzo: Bueno, esa es la hoy en día, si prácticamente si no lo tenés configurado.
+
+271
+00:33:55.440 --> 00:34:08.230
+Dario Rizzo: es muy posible que cualquier Co, cuando más te pones un correo te lo rebote automáticamente también por por las dudas te lo rebotan porque yo lo considero como que que que no, que no es, no es verídico. Entonces, ¿qué haces? Te lo te lo te lo te lo rechaza. Está bien.
+
+272
+00:34:10.170 --> 00:34:14.549
+Dario Rizzo: Si no, Si no lo hacen, hoy en día es prácticamente obligatorio tenerlo configurado también.
+
+273
+00:34:16.560 --> 00:34:22.439
+Dario Rizzo: Bueno, acá. Esta página también tiene un montón de cosas. Para pueden ver acá si el dominio está en la
+
+274
+00:34:24.260 --> 00:34:25.540
+Dario Rizzo: en lista negra.
+
+275
+00:34:29.520 --> 00:34:30.179
+Dario Rizzo: Mhm.
+
+276
+00:34:35.500 --> 00:34:39.440
+Dario Rizzo: Bueno, acá por suerte, Bueno, todos estos son.
+
+277
+00:34:40.500 --> 00:34:47.460
+Dario Rizzo: bueno, en ninguno de estos sitios está como lista negra el o sea que quiero decir que esté lista negra que
+
+278
+00:34:47.639 --> 00:34:56.030
+Dario Rizzo: cualquier vieron que no sé, ustedes tienen un si un subido de correo, un proveedor de correos, también se puede correo.
+
+279
+00:34:56.190 --> 00:35:00.369
+Dario Rizzo: Trabaja con listas también negras, con proveedores de lista negra.
+
+280
+00:35:00.610 --> 00:35:07.049
+Dario Rizzo: Si en alguno de los que trabajan, ellos está como lista negra acá figuraría como con X. ¿no?
+
+281
+00:35:08.140 --> 00:35:20.160
+Dario Rizzo: Si todo el correo que venga de ese correo lo va a tomar como lista negra, entonces te lo te lo va a rechazar por precaución. Te lo va a marcar como spam, el correo, entonces te lo puede ser que te lo rechace o que te lo ponga en una carpeta de spam. También
+
+282
+00:35:21.460 --> 00:35:25.640
+Dario Rizzo: a mí me ha me ha pasado que a ver de policía?
+
+283
+00:35:42.150 --> 00:35:49.129
+Dario Rizzo: Bueno, vosotros también. Bueno, a mí me ha pasado. Yo era administraba el ciudad de correos de policía en su momento.
+
+284
+00:35:49.380 --> 00:35:54.460
+Dario Rizzo: y me pasó que una vez estuve, estaba casi no sé por qué lo habían puesto en mi lista negra de varios proveedores
+
+285
+00:35:55.690 --> 00:35:59.500
+Dario Rizzo: de de listas negras está bien. Y bueno.
+
+286
+00:36:00.470 --> 00:36:18.759
+Dario Rizzo: me pasaba que todos los Pues que no sé el poder judicial usaba 1 de esos proveedores. Entonces lo que mandábamos de policía a poder jugar a P. J. N, que es el dominio de mail de policía del poder judicial y lo rebotaba automáticamente. Era un problema porque digamos, justicia, policía trabajaba. Bueno.
+
+287
+00:36:19.260 --> 00:36:28.070
+Dario Rizzo: entonces era como una persona muy odiada en ese momento, y me tuve que contactar con cada lista negra de estas
+
+288
+00:36:28.360 --> 00:36:30.060
+Dario Rizzo: y me decían, bueno a ver.
+
+289
+00:36:30.400 --> 00:36:40.499
+Dario Rizzo: demostrarme que vos sos el administrador del correo, Bueno, pone este Txt Crea un Txt dentro del sello de correos que tenga esta este hash tiene que hacerlo. Bueno.
+
+290
+00:36:41.120 --> 00:36:46.930
+Dario Rizzo: una vez que ellos verificaban que ese ese ese hash, yo ya lo había puesto en estudio. Programa. Yo me
+
+291
+00:36:47.060 --> 00:37:06.260
+Dario Rizzo: comprobaban que yo era el administrador de correos. Entonces para verificar mi identidad prácticamente y después, bueno, me hicieron hacer un par de pasos de de de respuesta, unas preguntas, todo lo que sea bueno y después te sacaban al tiempo de la lista negra. Y así, con todos tenías que hacer con cada 1, tienes que hacer un trámite también para sacarte la lista negra.
+
+292
+00:37:06.610 --> 00:37:11.910
+Dario Rizzo: Pero, bueno, puede ser que te pongan litera porque no sé capaz que usaron una cuenta para mandar phishing
+
+293
+00:37:12.100 --> 00:37:16.220
+Dario Rizzo: o y eso no estoy claro para bien.
+
+294
+00:37:16.700 --> 00:37:19.030
+Dario Rizzo: No, no te no te dicen, no, no, no dicen nada.
+
+295
+00:37:19.910 --> 00:37:30.219
+Dario Rizzo: Y yo. Cuando cuando Vos preguntaste, dicen, sí, estás en lista negra, y ahí empezaste todo el proceso. Así de levantarte, salir de la lista negra y pasar a la lista blanca.
+
+296
+00:37:32.620 --> 00:37:38.550
+Dario Rizzo: Pero bueno, no sé, acá. El más conocido. Este barracudas. Vieron que barracuda tiene unas soluciones de ciberseguridad.
+
+297
+00:37:39.200 --> 00:37:40.140
+Dario Rizzo: ¿qué más?
+
+298
+00:37:41.980 --> 00:37:48.400
+Dario Rizzo: Bueno, y también hay una apa. Creo que también a ver si
+
+299
+00:37:48.990 --> 00:37:52.420
+Dario Rizzo: en esta perdón gente, no. Bueno.
+
+300
+00:37:52.540 --> 00:37:53.910
+Dario Rizzo: un montón. No lo está viendo
+
+301
+00:37:57.810 --> 00:38:02.579
+Dario Rizzo: perdón, que el terremoto nos estábamos dando en la pantalla. No estaban viendo la pantalla de del mail.
+
+302
+00:38:05.420 --> 00:38:06.990
+Dario Rizzo: Ven ahí.
+
+303
+00:38:07.250 --> 00:38:08.459
+francisco daurat: Ahora, sí. Ahora, sí.
+
+304
+00:38:08.750 --> 00:38:18.339
+Dario Rizzo: Bueno esta página, Si quieren prevenir ustedes con algún dominio de su oficina, de su labor de su trabajo, lo que sea, pruébenlo. Van a ver que en teoría le van, le va a mostrar
+
+305
+00:38:18.980 --> 00:38:28.719
+Dario Rizzo: si el mail y su compañía en alguno de estos está como lista negra. Está bien e importante.
+
+306
+00:38:29.810 --> 00:38:35.770
+Dario Rizzo: Acá Sí, está. I P.
+
+307
+00:38:36.640 --> 00:38:45.729
+Dario Rizzo: Los simpson 100: 22 Bueno, quieren probarlo a ver si en alguna 1 sale con alguna liguita negra.
+
+308
+00:38:47.420 --> 00:38:50.749
+Dario Rizzo: Pruébenlo en M Mx, tulbox com
+
+309
+00:38:53.330 --> 00:38:55.710
+Dario Rizzo: y van a la parte de Blacklist. Ahí arriba
+
+310
+00:38:57.570 --> 00:39:00.200
+Dario Rizzo: tiene tiene Internet. Las máquinas no sí
+
+311
+00:39:08.850 --> 00:39:16.019
+Dario Rizzo: por esta puesta razón es que algunas veces, muchas veces, cuando ustedes mandan un correo o reciben un correo se lo marcan en spam, prácticamente puede ser por esto.
+
+312
+00:39:16.140 --> 00:39:23.060
+Dario Rizzo: o puede ser que alguien haya agregado a la cuenta de de ustedes en también en el pago no despano.
+
+313
+00:40:04.220 --> 00:40:12.270
+Dario Rizzo: ¿cómo Okay voy a jugar pa las 2 por Ip pública. Obviamente no
+
+314
+00:40:24.000 --> 00:40:27.559
+Dario Rizzo: salió alguno. El italiano. Todo bien. Todo verde. Guanavia.
+
+315
+00:40:27.720 --> 00:40:34.110
+Dario Rizzo: Bueno, otro comando. Bueno, este comando también usted lo pueden ejecutar desde la consola de Windows, también de terminal. Saben.
+
+316
+00:40:37.230 --> 00:40:38.809
+Dario Rizzo: remoto a vivir la consola.
+
+317
+00:40:39.980 --> 00:40:41.099
+francisco daurat: No, no, Ahora Sí.
+
+318
+00:40:41.100 --> 00:40:42.320
+Juan Pablo Sanabria: Ahora, sí. Ahora, sí.
+
+319
+00:40:42.320 --> 00:40:45.340
+Dario Rizzo: Bueno, si ustedes que ejecutan en ese local
+
+320
+00:40:46.550 --> 00:40:50.999
+Dario Rizzo: con el dominio que quieren investigar, van a ver que ejecutenlo
+
+321
+00:40:54.330 --> 00:41:11.010
+Dario Rizzo: a en la consola. Pone n. S en ese locke look de mirar up. App, Up
+
+322
+00:41:11.420 --> 00:41:17.420
+Dario Rizzo: cupeta en todos lados. Bueno, y el dominio que vos querés consultar
+
+323
+00:41:21.780 --> 00:41:25.220
+Dario Rizzo: ahí cuando lo ejecutan. ¿qué le va a aparecer que ven ahí?
+
+324
+00:41:33.040 --> 00:41:37.200
+Dario Rizzo: Miren, ahí. Ustedes ven, se está ejecutando.
+
+325
+00:41:38.010 --> 00:41:44.659
+Dario Rizzo: Bueno, a todos les dio. A alguno le tiró algo, algo, le tiró alguna información, algo
+
+326
+00:41:49.630 --> 00:41:54.750
+Dario Rizzo: la pública. Bueno, ya ahí ves
+
+327
+00:41:54.870 --> 00:41:57.790
+Dario Rizzo: acá en este. Ca: ¿En qué? Qué? ¿qué dominio absoluto haces? Vos?
+
+328
+00:41:58.190 --> 00:42:01.250
+Dario Rizzo: Bueno, bueno.
+
+329
+00:42:02.270 --> 00:42:10.700
+Dario Rizzo: a ustedes acá? Lo que van a saber que van a saber, las ip públicas que tiene el dominio. Entonces ya empiezan a armar un poco todo, sacar y empezar a sacar información también.
+
+330
+00:42:15.400 --> 00:42:21.499
+Dario Rizzo: Bueno, leía esto que podemos hallar de esta manera. Ustedes ya saben que I P pública tiene ese dominio. También
+
+331
+00:42:25.590 --> 00:42:35.700
+Dario Rizzo: puede ser. Puede ser que salgan 2, 3. Una, ninguna un montón por generar. Pero bueno, todo también depende de cómo esté configurado aquel del otro lado también que capaz, que lo puede bloquear también de alguna manera
+
+332
+00:42:37.510 --> 00:42:40.390
+Dario Rizzo: algunas. ¿qué? ¿qué? Qué? ¿qué ¿Qué ejecutaron Google? ¡qué más?
+
+333
+00:42:41.020 --> 00:42:43.040
+Dario Rizzo: dios mío!
+
+334
+00:42:43.160 --> 00:42:49.360
+Dario Rizzo: Una. Juve.
+
+335
+00:42:49.510 --> 00:42:53.439
+Dario Rizzo: Sí. Sí. Yo iba a disputar. Palermo a ver que a ver que me tiraba para el amo.
+
+336
+00:43:04.420 --> 00:43:13.650
+Dario Rizzo: Bueno, ahí está ahí tiró la de Palermo remoto. Ejecutaron.
+
+337
+00:43:14.170 --> 00:43:19.340
+Juan Pablo Sanabria: Sí, pero probé con Whatsapp con Google y no, no, no me sale nada.
+
+338
+00:43:19.340 --> 00:43:20.709
+francisco daurat: Yo probé con Youtube.
+
+339
+00:43:21.270 --> 00:43:22.530
+Dario Rizzo: Y te tiró.
+
+340
+00:43:24.360 --> 00:43:25.170
+francisco daurat: Sí, Sí.
+
+341
+00:43:26.560 --> 00:43:28.629
+Dario Rizzo: Vamos a tirar acá para que vean todos.
+
+342
+00:43:35.110 --> 00:43:41.639
+Dario Rizzo: Bueno, ahí ven, Se le tira un montón. Bueno, iba hasta.
+
+343
+00:43:42.140 --> 00:43:44.039
+Dario Rizzo: sí son varias.
+
+344
+00:44:16.580 --> 00:44:17.240
+Dario Rizzo: Ajá.
+
+345
+00:44:17.500 --> 00:44:18.340
+Dario Rizzo: Bueno.
+
+346
+00:44:19.700 --> 00:44:27.920
+Dario Rizzo: muchas veces van a ver que es capaz, que ejecutan 2 dominios o 2 subdominios y le va a dar la misma Ip: Porque piensan que puede ser eso.
+
+347
+00:44:29.720 --> 00:44:35.009
+Dario Rizzo: Holly: Sí. Pero vos pensar que si vos querés entrar
+
+348
+00:44:35.480 --> 00:44:39.439
+Dario Rizzo: también se caen los D. N. S. ¿saben cómo puedes ingresar al sitio
+
+349
+00:44:43.260 --> 00:44:48.839
+Dario Rizzo: exactamente por Ip públicas también. Pero si la Ip pública es la misma para 2 sitios. ¿qué pasa?
+
+350
+00:44:50.320 --> 00:44:52.869
+Dario Rizzo: Se sacó el 2 totalmente
+
+351
+00:44:53.660 --> 00:45:09.660
+Dario Rizzo: Antes estaba Ahora Ahora lo cambiaron. Acá Pero bueno, en la Ip pública antes de lo que era Mail Punto, policía federal y W punto. P Gerenard era una sola. La era la misma. Está bien y cómo cómo, cómo, O sea, como como cuando vos ingresabas mail entras a una parte. Y cómo cómo se piensan que entraban en en a cada una
+
+352
+00:45:11.640 --> 00:45:14.030
+Dario Rizzo: si era la misma? I, P: Vale, los D, N. S:
+
+353
+00:45:14.440 --> 00:45:21.940
+Dario Rizzo: Claro, como, como, como sabían, ¿cómo sabía el D. N. S. A donde mandarte acuerdo.
+
+354
+00:45:22.930 --> 00:45:29.530
+Dario Rizzo: qué más. Pero, ¿cómo? Lla ¿Qué era? ¿qué era lo la te, La la el que atendía la la petición? ¿cómo se llama?
+
+355
+00:45:31.710 --> 00:45:40.360
+Dario Rizzo: Bueno, había un proxy inverso también que lo que hace que es el prostabilización inmerso en funcionamiento. Saben, bueno.
+
+356
+00:45:40.490 --> 00:45:46.090
+Dario Rizzo: el post inverso lo que hace es, ¿tiene un caché de la, o sea, yo tengo el cost, Me olvido de los que iban
+
+357
+00:45:46.270 --> 00:45:47.020
+Dario Rizzo: bueno
+
+358
+00:45:47.150 --> 00:46:02.419
+Dario Rizzo: el próximo inverso. ¿qué hace recibe la petición también? Y adentro de la petición? ¿qué hace si sabe, viene para mail punto com Argentina? ¿qué hace te deriva a al I P. El puerto que está teniendo a ese servicio, también
+
+359
+00:46:03.000 --> 00:46:07.219
+Dario Rizzo: de lo que tiene bueno es el cost inverso Lo que tiene de interesante es: ¿qué pasa?
+
+360
+00:46:08.060 --> 00:46:19.290
+Dario Rizzo: ¿te hacen? Un the facement, por ejemplo, no de la la web. Son de fement ¿
+
+361
+00:46:19.880 --> 00:46:39.230
+Dario Rizzo: Esa agarrar el sitio está bien, y eso te hace. No sé, ustedes ingresan a Palermo, Punto. Edu. Le vienen a entrar en la página institucional de Palermo. Lo que pasa si yo hago un defaven desde eso, ¿qué hago? Me pongo una foto de no sé mía, por ejemplo, está bien punto de edo y van a ver mi foto. Está bien.
+
+362
+00:46:39.560 --> 00:46:47.080
+Dario Rizzo: Exactamente lo que hacen es cambiarle el todo la parte gráfica a la página como una especie de de hackeo.
+
+363
+00:46:49.900 --> 00:46:54.459
+Dario Rizzo: Hay un montón de un poco.
+
+364
+00:47:00.400 --> 00:47:07.480
+Dario Rizzo: ¡ay, Le habla. Le habían puesto senado.
+
+365
+00:47:08.550 --> 00:47:12.640
+Dario Rizzo: Bueno, una vez en la de policía cuando estaba
+
+366
+00:47:13.870 --> 00:47:17.439
+Dario Rizzo: y garré de mientras seguridad, Bueno, a ella
+
+367
+00:47:18.050 --> 00:47:28.960
+Dario Rizzo: eran. Tiene un pasado montonero. Entonces, bueno, Pusieron una foto de ella cuando era montonera, por ejemplo. Pero bueno, lo que pasa el Toxi inverso, lo que tiene, lo que tiene interesante también. ¿qué hace te guarda? ¿qué hace?
+
+368
+00:47:29.720 --> 00:47:33.370
+Dario Rizzo: Constantemente está consultando a los servidores? No.
+
+369
+00:47:34.170 --> 00:47:53.229
+Dario Rizzo: si detecta que algo cambió, lo que yo tengo, lo que tiene cacheado al servidor. El El proxy inverso tiene cachado, detecta que es distinto a lo que está en el servidor onda punta reemplaza el contenido del original y el cambio de caché. Entonces, ¿qué pasa si vas a un defenment?
+
+370
+00:47:53.730 --> 00:48:12.229
+Dario Rizzo: Primero, un minuto, 2 min, lo que tengamos configurado que consulta y actualiza el contenido desde el servidor original. También eso pasó nosotros en policía, por ejemplo, cuando hacía un defensa de famir hacía un The Fame sobre el caché a los 10 min o a los 5 se que se reemplazaba por el viejo por el que estaba en el otro lado también. Bueno, no.
+
+371
+00:48:13.560 --> 00:48:25.489
+Dario Rizzo: Por eso muchas veces pueden hacer que ustedes hagan, ejecuten este comando y la Ipe que les va a dar la Ip pública que le va a dar la misma para varios servicios también, pero bueno internamente tengan en cuenta. Sepan que esta
+
+372
+00:48:26.210 --> 00:48:36.870
+Dario Rizzo: indexado, un proxy lo está atendiendo y va dirigiendo en base. Sabe que si viene a mail punto policía lo mandó al puerto. Cuatro, 4, 5. C. X está bien.
+
+373
+00:48:55.220 --> 00:48:59.560
+Dario Rizzo: Le ponen 20 000 opciones al zoom Te vuelve loco. Bueno.
+
+374
+00:49:00.170 --> 00:49:07.949
+Dario Rizzo: vieron lo del villano de mitre. Vieron que ustedes pueden ver dentro de cada bueno buen y hurgando dentro de todas las
+
+375
+00:49:10.280 --> 00:49:12.080
+Dario Rizzo: estamos, acá ¿no?
+
+376
+00:49:13.110 --> 00:49:19.759
+Dario Rizzo: Salud: Bueno, acá. Tienen para divertirse el fin de semana. Si quieren.
+
+377
+00:49:21.140 --> 00:49:23.439
+Dario Rizzo: Y pueden ir viendo un montón de cosas también.
+
+378
+00:49:24.790 --> 00:49:31.319
+Dario Rizzo: Sí, mitratack y te va a llevar al framework. Seguramente hay un montón de esta que
+
+379
+00:49:31.430 --> 00:49:37.620
+Dario Rizzo: yo creo que de alguna manera lo van a ver más adelante. Creo, creo, creo que está bien.
+
+380
+00:49:38.060 --> 00:49:44.809
+Dario Rizzo: ¿no? Pero bueno, si en el en alguna materia le tienen que demostrar los marcos de ciberseguridad. El N I S. Me mostraron a hablar
+
+381
+00:49:46.230 --> 00:49:47.760
+Dario Rizzo: muy, muy genérico. ¿no?
+
+382
+00:49:49.460 --> 00:49:54.799
+Juan Pablo Sanabria: Seguridad en redes de instrucción hacia seguridad. Yo he visto los marcos de sensibilidad.
+
+383
+00:49:55.520 --> 00:49:56.080
+Dario Rizzo: Bueno.
+
+384
+00:49:56.080 --> 00:49:56.439
+Juan Pablo Sanabria: Un de los.
+
+385
+00:49:56.440 --> 00:50:04.350
+Dario Rizzo: Bueno, fundamentos sí, Pues como se llama fundamento de Queira.
+
+386
+00:50:04.990 --> 00:50:10.539
+Dario Rizzo: ¿y qué ven ahí, Lo básico muy por arriba.
+
+387
+00:50:10.720 --> 00:50:13.220
+Dario Rizzo: y que nada quiero saludar, saben, de acuerdo?
+
+388
+00:50:14.020 --> 00:50:15.040
+Dario Rizzo: No solo para
+
+389
+00:50:17.500 --> 00:50:22.500
+Dario Rizzo: así. Hablo así. Hablo con él, y bueno, trato, digamos de hacer una continuidad a lo que está dando él.
+
+390
+00:50:22.800 --> 00:50:23.710
+Dario Rizzo: Bueno.
+
+391
+00:50:24.440 --> 00:50:33.679
+Dario Rizzo: Bueno, a ver Gaby Inicial acces ejecución, persistencia, declaración de privilegio, bueno, salud credencial de acceso a Discovery tiene un montón de cosas más para ver.
+
+392
+00:50:33.900 --> 00:50:34.890
+Dario Rizzo: Está bien ahí.
+
+393
+00:50:36.330 --> 00:50:46.220
+Dario Rizzo: Pero bueno, este Framework se usa, se usa muchísimo. Lo van a ver que muchas muchos se lo van a ir nombrando. Y bueno, por lo menos para que sepan que existe y pueden buscar ahí adentro también
+
+394
+00:50:47.590 --> 00:50:48.390
+Dario Rizzo: salud.
+
+395
+00:50:48.840 --> 00:50:59.340
+Dario Rizzo: Y también hay una parte que que debe estar por ahí matrices que si bien te dice
+
+396
+00:51:17.460 --> 00:51:19.990
+Dario Rizzo: bueno, en teoría, acá.
+
+397
+00:51:20.390 --> 00:51:26.690
+Dario Rizzo: Cuando ves, no sé, buscan escanean vulnerabilidades. También les explica un poco de lo que sea. Y acá. Les muestra todo lo que
+
+398
+00:51:27.600 --> 00:51:32.610
+Dario Rizzo: pueden ir ustedes usando para ejecutar ese ese ataque, digamos, de esa
+
+399
+00:51:32.790 --> 00:51:38.380
+Dario Rizzo: Esa es esa fase cómo migrarlo. También les explica la táctica de cómo migrarlo?
+
+400
+00:51:40.470 --> 00:51:45.330
+Dario Rizzo: ¿cómo detectarlo? Y bueno, acá? Les hace toda la referencia. Todo lo que usa
+
+401
+00:51:46.030 --> 00:51:49.939
+Dario Rizzo: vieron, y luego también no saben lo que se el lobos lo conocen en Lowass.
+
+402
+00:51:52.990 --> 00:51:54.929
+Dario Rizzo: Nunca vieron el dibujito este de la
+
+403
+00:51:59.180 --> 00:52:07.330
+Dario Rizzo: este. No lo vieron el uas. Bueno, en Denia, esto lo que hacen es, se juga. Es un organismo que se juntan todos los años. Y, bueno, van tomando las 10 lunaridades más
+
+404
+00:52:07.880 --> 00:52:14.729
+Dario Rizzo: el top de Diez Navidades. Bueno, en base a esto se usa mucho la información, digamos, de los de los frameworks.
+
+405
+00:52:14.740 --> 00:52:29.960
+Dario Rizzo: herramientas de seguridad. Usan esto para bueno, para hacer un topeo, digamos, de las unidades que van encontrando. Cuando ustedes hacen herramientas. También vieron que hemos visto otras veces herramientas para ejecutar el análisis vulnerabilidades. Tuvieron que mostrar el reporte del Nexus y demás.
+
+406
+00:52:30.060 --> 00:52:39.810
+Dario Rizzo: Bueno, usan este el o What C P para en base a eso, basarse y buscar las modalidades más y poner los colores rojo, amarillo, verde.
+
+407
+00:52:40.930 --> 00:52:46.100
+Dario Rizzo: Pero bueno, este este lo que tiene de bueno que es
+
+408
+00:52:46.520 --> 00:52:55.420
+Dario Rizzo: opensource. Es una iniciativa de open surf, o sea, se va actualizando todos los años y básicamente se usa como base para todo tipo de análisis también.
+
+409
+00:52:56.670 --> 00:53:07.239
+Dario Rizzo: Y lo que nombran acá como dentro del tope. Ese de ahí una vida más más más más complejas o más usadas en que encontradas en todo la como que ya un medio, como una biblia para
+
+410
+00:53:08.470 --> 00:53:09.880
+Dario Rizzo: para las herramientas.
+
+411
+00:53:15.710 --> 00:53:17.880
+Dario Rizzo: ¿qué mazagala es.
+
+412
+00:53:21.200 --> 00:53:22.800
+Raybar: Hola, darío cómo estás.
+
+413
+00:53:24.410 --> 00:53:25.840
+Dario Rizzo: Hola. Rubén, ¿Cómo estás.
+
+414
+00:53:26.320 --> 00:53:27.709
+Raybar: Todo yendo bien.
+
+415
+00:53:27.710 --> 00:53:31.710
+Dario Rizzo: Po: tranquil Bueno, todo oyente.
+
+416
+00:53:32.070 --> 00:53:33.150
+Raybar: Divergente: Che.
+
+417
+00:53:33.420 --> 00:53:35.430
+Dario Rizzo: El profe Rubén Aybar.
+
+418
+00:53:38.130 --> 00:53:42.159
+Raybar: No sé si alguno lo tengo en auditoría de sistemas.
+
+419
+00:53:43.940 --> 00:53:49.159
+Dario Rizzo: No creo que no, no, Pero bueno, no se pierda esa madera con el docente que es un crack.
+
+420
+00:53:57.850 --> 00:54:03.480
+Dario Rizzo: Pues bueno, ahí seguimos con la representación. Todavía nos fuimos al recreo.
+
+421
+00:54:03.800 --> 00:54:12.090
+Raybar: Excelente. Excelente. Sí, yo estoy escuchando muy bueno ahí. Déjame comentarte justo. Vi que tocaste. Owas y.
+
+422
+00:54:12.090 --> 00:54:12.750
+Dario Rizzo: Bueno.
+
+423
+00:54:12.750 --> 00:54:14.059
+Raybar: Tenés, la.
+
+424
+00:54:15.010 --> 00:54:15.899
+Dario Rizzo: La página.
+
+425
+00:54:15.900 --> 00:54:18.450
+Raybar: Sí. La página ahí para para.
+
+426
+00:54:24.270 --> 00:54:25.480
+Dario Rizzo: Esa.
+
+427
+00:54:25.480 --> 00:54:27.570
+Raybar: Sí, Ahí andás Charters.
+
+428
+00:54:29.440 --> 00:54:31.190
+Dario Rizzo: Espera acá Charter: Así.
+
+429
+00:54:31.480 --> 00:54:34.120
+Raybar: Si si vas al último Sudamérica.
+
+430
+00:54:34.430 --> 00:54:34.760
+Dario Rizzo: Sí.
+
+431
+00:54:34.760 --> 00:54:35.229
+Raybar: Tiene que.
+
+432
+00:54:35.230 --> 00:54:35.760
+Dario Rizzo: No, no.
+
+433
+00:54:35.760 --> 00:54:36.820
+Raybar: Argentina.
+
+434
+00:54:37.090 --> 00:54:38.340
+Dario Rizzo: Vas a hacer propaganda?
+
+435
+00:54:38.510 --> 00:54:39.500
+Dario Rizzo: Mhm.
+
+436
+00:54:39.500 --> 00:54:43.180
+Raybar: Y ya que lo estás presentando ahí está Sudamérica ahí arriba.
+
+437
+00:54:43.180 --> 00:54:44.830
+Dario Rizzo: Acá a Sudamérica.
+
+438
+00:54:45.060 --> 00:54:45.510
+Raybar: Y.
+
+439
+00:54:45.510 --> 00:54:46.240
+Dario Rizzo: Los abuelos.
+
+440
+00:54:46.770 --> 00:54:47.650
+Raybar: Sí,
+
+441
+00:54:48.280 --> 00:55:01.009
+Raybar: ahí muy bien. Lo estaba explicando darío. Bueno, yo tengo el placer y el honor de ser el el líder del capítulo de aguas Buenos Aires.
+
+442
+00:55:01.120 --> 00:55:08.270
+Raybar: junto a germán Borda Martín Villalba, Martín Rojas
+
+443
+00:55:08.960 --> 00:55:19.260
+Raybar: y emanuel de amico que no no no aparece todavía no le terminaron de hacer la la la cuenta.
+
+444
+00:55:19.400 --> 00:55:32.179
+Raybar: pero venimos llevando adelante el capítulo de aguas Buenos Aires ahí para agregar a lo que les comentó. Darío o aguas es una fundación.
+
+445
+00:55:32.360 --> 00:55:35.269
+Raybar: Es un proyecto a nivel
+
+446
+00:55:35.400 --> 00:55:46.740
+Raybar: mundial. Entonces van a encontrar. Vieron ahí Charter en Sudamérica. Creo que decía que había 39 si si mal no vi
+
+447
+00:55:46.780 --> 00:56:00.860
+Raybar: 30 35 en Norteamérica, 77 en Oceanía. Cuatro en Asia 122 se hacen eventos de forma global. Y no solo
+
+448
+00:56:01.600 --> 00:56:09.570
+Raybar: es los top. Diez. No, Hoy tenemos o Whastop 10 de web.
+
+449
+00:56:10.020 --> 00:56:18.480
+Raybar: o Whastop, Diez de Apis o Whastop. Diez de L. L. Ms se.
+
+450
+00:56:18.480 --> 00:56:18.840
+Dario Rizzo: No es.
+
+451
+00:56:18.840 --> 00:56:20.750
+Raybar: Yo sí darío.
+
+452
+00:56:20.750 --> 00:56:24.989
+Dario Rizzo: Saben lo que es una A, P, I, Y eso sí. Ah, ¿cuál es la duda. Viste.
+
+453
+00:56:25.200 --> 00:56:28.030
+Raybar: Sí, Sí. Sí. Excelente. Excelente. Bueno.
+
+454
+00:56:28.600 --> 00:56:36.580
+Raybar: esos son Auwastop. Diez las 10 vulnerabilidades que en base a lo que va comentando la industria
+
+455
+00:56:36.810 --> 00:56:43.619
+Raybar: lo que se va sacando de la industria. Los datos luego se entrecruzan y se forma
+
+456
+00:56:43.860 --> 00:56:53.000
+Raybar: o se crea el informe. Eso es una parte, pero dentro de los proyectos también se generan proyectos.
+
+457
+00:56:54.420 --> 00:57:09.449
+Raybar: por poner ejemplo, para soluciones que se practiquen. Lo que está explicando darío, entonces tenemos una solución llamada aguas
+
+458
+00:57:10.710 --> 00:57:12.880
+Raybar: Joyce Jois.
+
+459
+00:57:13.320 --> 00:57:22.760
+Raybar: que es un carrito de compra, y 1 puede practicar las 10 vulnerabilidades de Lowastop, 10 y algunas cositas. Más
+
+460
+00:57:23.250 --> 00:57:27.520
+Raybar: Todo en base, pongo de manifiesto esa
+
+461
+00:57:27.650 --> 00:57:30.259
+Raybar: ese proyecto en particular porque es
+
+462
+00:57:30.540 --> 00:57:44.689
+Raybar: justo en base a tecnologías modernas como microservicios, como contenedores Docker, bases de datos modernas relacionales, no relacionales.
+
+463
+00:57:44.750 --> 00:57:52.050
+Raybar: Entonces van a encontrar todo un ecosistema que va mucho más allá de lowastop 10,
+
+464
+00:57:52.430 --> 00:57:57.920
+Raybar: sino de que hay proyectos de vinculación con Niz
+
+465
+00:57:58.210 --> 00:58:05.370
+Raybar: para generar a nivel ya no tanto quizás de herramientas sino fundacional de
+
+466
+00:58:05.970 --> 00:58:10.320
+Raybar: implementación de ya dentro de las organizaciones.
+
+467
+00:58:10.620 --> 00:58:18.549
+Raybar: Entonces es muy bueno esto de Iowa. Si los vinculan con Nis con sisa.
+
+468
+00:58:19.450 --> 00:58:28.450
+Raybar: con fiers con los diferentes grandes jugadores que hay en el ecosistema de la ciberseguridad hoy en día.
+
+469
+00:58:29.450 --> 00:58:30.160
+Raybar: y el.
+
+470
+00:58:30.160 --> 00:58:33.319
+Dario Rizzo: Y ahí hay un evento. Ahora, el 25 del 8.
+
+471
+00:58:33.680 --> 00:58:51.849
+Raybar: Sí va a haber un evento donde vamos a presentar, yo voy a hacer una charla sobre modelado de amenaza junto a germán borda y estábamos viendo si se podía sumar un
+
+472
+00:58:52.080 --> 00:59:02.350
+Raybar: un especialista en lo que es, advanti en lo que es aplicaciones web.
+
+473
+00:59:02.390 --> 00:59:18.190
+Raybar: buscar vulnerabilidades en aplicaciones web. Quizás alguno de ustedes lo conozca. Se llama Nahuel Grisolia. No sabemos si va a estar justo para la próxima semana o, si no en el próximo evento. Pero
+
+474
+00:59:18.220 --> 00:59:26.029
+Raybar: lo que estamos tratando de hacer es un evento por mes. Los eventos son totalmente gratis. Uno va
+
+475
+00:59:26.360 --> 00:59:32.819
+Raybar: se sienta, escucha, hace Networking con demás
+
+476
+00:59:32.870 --> 00:59:51.980
+Raybar: colegas y se genera un un lindo ambiente desde el desarrollo seguro. La búsqueda de vulnerabilidades. Nada, esto seguridad ofensiva, seguridad defensiva. Así que todos bienvenidos para los que se quieran sumar
+
+477
+00:59:52.050 --> 01:00:02.120
+Raybar: Esto es proyecto aguas Y ahí estaba muy bueno porque darío se los vinculó con mitre, no con la matriz de mitra tak.
+
+478
+01:00:03.280 --> 01:00:09.190
+Raybar: Así que es una excelente vinculación, lo que hizo darío. No.
+
+479
+01:00:11.690 --> 01:00:27.170
+Dario Rizzo: Bueno, acá, bueno, la acuérdese que la ma la matriz existe, que bueno, ya tendríamos después de también ir mirando últimamente, seguramente cuando veamos más etapas. Más adelante, seguramente vamos a volver. Acá y vamos a ver en cada fase lo que va recomendado, la el framework, este de mi Tetrac.
+
+480
+01:00:27.560 --> 01:00:46.949
+Dario Rizzo: básicamente los frameworks. La idea de la idea de los framers, que es tener un framer que se puede aplicar en cualquier tipo de industria organización para, poder, digamos, venderles herramientas a la gente, trabaja en ciberseguridad, no tratar de aplicarlo. Así? Bueno, necesito aplicar este marco de trabajo. Bueno, de Framework, bueno y trato de aplicarlo, y sigo los pasos que tenga para aplicarlo. Está bien.
+
+481
+01:00:50.930 --> 01:00:52.409
+Dario Rizzo: Volvemos a la presentación.
+
+482
+01:00:54.320 --> 01:01:00.610
+Dario Rizzo: Bueno, reglas de compromiso roe
+
+483
+01:01:00.960 --> 01:01:18.770
+Dario Rizzo: el concepto. Ahí habla del alcance. Límites de Egipto, sobre qué decisiones Ip y sistemas están autorizados para interactuar. Vimos que recién con el comando en ese local pudimos encontrar las Ip públicas que tenía la organización, o sea, tenía un servicio en la s. I P. Pública que tenemos ahí no
+
+484
+01:01:19.330 --> 01:01:24.150
+Dario Rizzo: horarios permitidos para no interrumpir la operatividad del negocio, siempre tengan en cuenta que
+
+485
+01:01:24.860 --> 01:01:37.900
+Dario Rizzo: hay momentos en los que digamos el traje. Yo trabajo en un banco, Sé que, por lo general, el horario bancario de 10 a 15 y de 10 a a 17, tengo que tratar desde el momento de esos servicios, no bajarlos y no no estar
+
+486
+01:01:38.070 --> 01:01:45.359
+Dario Rizzo: haciendo ningún tipo de autorización, porque es un horario central de trabajo, por ejemplo, no en el caso de
+
+487
+01:01:45.690 --> 01:01:56.559
+Dario Rizzo: del hospital, porque no sabemos que el horario de trabajo de la mañana es el lugar donde vienen más afilados y tratamos, digamos, desde ese momento desde ese tiempo, no estar haciendo ninguna tarea ni nada por el estilo. No
+
+488
+01:01:57.940 --> 01:02:10.960
+Dario Rizzo: y tengan en cuenta que si ustedes van a hacer un reconocimiento sobre ese 1, o sea, tú tienes que saber. No sé si yo voy a atacar un banco, como dijimos recién, no voy a hacer un reconocimiento capaz que me voy a hacer un reconocimiento en el horario bancario, que yo sé que
+
+489
+01:02:10.960 --> 01:02:21.329
+Dario Rizzo: es el horario que más la gente que más interactúa con el home banking, por ejemplo. Entonces digamos de cierta manera puedo escabullirme o meterme como un cliente más también. Si lo hago de noche.
+
+490
+01:02:21.540 --> 01:02:26.439
+Dario Rizzo: es más factible que el el que el en la lista del Soc o lo que sea que esté mirando la
+
+491
+01:02:26.690 --> 01:02:44.120
+Dario Rizzo: legalmente ha sido seguridad, que monitoriza el sitio, Solamente va a haber algún tipo que está a esta hora. Está haciendo un reconocimiento, un un Pin, un Slukap sobre la Ip pública está bien, pues llama más la atención cambio si lo hago sobre un horario bancario capaz que pasa más desapercibido también.
+
+492
+01:02:46.380 --> 01:02:57.299
+Dario Rizzo: y límites de intrusión, Procedimientos claros sobre manejo de datos sensibles descubiertos durante el escaneo. Tengan en cuenta que si yo hago un escaneo y encuentro con información sensible por X motivo.
+
+493
+01:02:57.510 --> 01:03:17.119
+Dario Rizzo: tengan en cuenta que esa información sensible, Digamos ya encubrir un delito. Está bien, y eso esa información no la puedo divulgar ni ni hacer uso de nada si la encuentro la encuentro y ya está. Y es, obviamente, si soy un soy delincuente, le voy a tratar de vender lo que sea, No, obviamente, pero bueno, Ten en cuenta que todo tipo de información es sensible, no
+
+494
+01:03:17.560 --> 01:03:23.480
+Dario Rizzo: puede llegar a tener un compromiso penal legal si lo detectan como
+
+495
+01:03:23.630 --> 01:03:28.699
+Dario Rizzo: el organismo al que ustedes fueron escaneando o tratando de vulnerar.
+
+496
+01:03:29.180 --> 01:03:32.870
+Dario Rizzo: Ten en cuenta que puede hacer acciones legales. A ustedes.
+
+497
+01:03:34.560 --> 01:03:48.119
+Dario Rizzo: Bueno, Ahí habla de janeo de técnicas clave activo, vulnerabilidades. Vieron que ahí tiene un numerito técnica, 15 90. Y 5, bueno, esas esas esas técnicas, ese código que corresponde con la matriz que vimos recién
+
+498
+01:03:48.120 --> 01:03:55.909
+Dario Rizzo: van a ver que eso eso, en cada fase que ustedes van ingresando, van a van a encontrar técnicas de ataque o técnicas de de, de.
+
+499
+01:03:55.940 --> 01:04:04.799
+Dario Rizzo: digamos, de mitigación. Bueno, cada una tiene un código. Bueno, ese es el código que le estamos dando en esta esta en este resumen de de técnicas.
+
+500
+01:04:08.370 --> 01:04:15.669
+Dario Rizzo: Bueno, tenemos 2 tipos de reconocimiento, siempre teniendo en cuenta que es el reconocimiento pasivo y reconocimiento activo. Está bien.
+
+501
+01:04:18.380 --> 01:04:21.609
+Dario Rizzo: ¿cuál es la diferencia que es la diferencia de los 2?
+
+502
+01:04:24.030 --> 01:04:30.760
+Dario Rizzo: Ah, no, no Lean, no lean, no lean, no lean, piensen, piensen, sí,
+
+503
+01:04:33.610 --> 01:04:35.719
+Dario Rizzo: ¿qué? ¿qué? Cuál? ¿qué se piensa más de la diferencia?
+
+504
+01:04:39.150 --> 01:04:40.520
+Dario Rizzo: No.
+
+505
+01:04:41.330 --> 01:04:51.399
+Dario Rizzo: claro. Bueno, el el el Pas. El pasivo es muy, es muy por arriba también. Y ya el activo es más más intenso, más ya más agresivo, exactamente.
+
+506
+01:04:51.650 --> 01:05:03.260
+Dario Rizzo: obviamente, que en un en capaz que en un regimiento pasivo, paso, o sea, lo que estoy haciendo, va a pasar desapercibido. En cambio, ya en el activo ya me pueden ir. Yo voy a ir dejando huellas. Está bien.
+
+507
+01:05:08.170 --> 01:05:20.440
+Dario Rizzo: Sí, O, bueno, van a ver que más adelante que con algunas herramientas, van a ejecutar algunos comandos que eso sí van van a dejar huellas salud, van a dejar? ¿van a dejar? ¿van a dejar? ¿van a dejar huellas en el otro lado? Está bien
+
+508
+01:05:20.770 --> 01:05:24.900
+Dario Rizzo: cuando hablamos de huellas que se piensan que es una huella digital.
+
+509
+01:05:25.450 --> 01:05:41.549
+Dario Rizzo: Sí, exactamente. Y eso después se te te traduce o se traduce a que a que en el 100 o en el aliser. Ese escaneo se detecte y lo vea. Si 1 tiene una analita,
+
+510
+01:05:42.660 --> 01:05:50.400
+Dario Rizzo: Sí, exactamente puede bloquear. Veo que esa Ip, la bloqueo Ip: Y entonces todo lo que me venga, ese Ip lo va a rebotar también.
+
+511
+01:05:51.950 --> 01:05:52.900
+Dario Rizzo: Bueno.
+
+512
+01:05:53.460 --> 01:06:05.450
+Dario Rizzo: interacción, van a ver que acá muestran la comparativa. La interacción dice nula e inetectable por el bloque del objetivo, porque es un pasivo. Ya cuando voy al activo directo, genera tráfico y registros
+
+513
+01:06:06.380 --> 01:06:09.429
+Dario Rizzo: n f futura del objetivo. Como dijimos anteriormente.
+
+514
+01:06:09.560 --> 01:06:29.379
+Dario Rizzo: tiempo y riesgo, o sea, realmente que el pasivo requiere paciencia, ¿no? Porque, bueno, vamos a empezar a buscar en todos lados fuentes abiertas, perfiles. Lo que hicimos recién, o sea, llevo un tiempo armar El es como que ustedes, la usted, que estudió, criminalista, que que ¿qué hago con eso, que que querría haciendo un perfil, de qué
+
+515
+01:06:31.760 --> 01:06:34.580
+Dario Rizzo: cuando hago esto?
+
+516
+01:06:34.740 --> 01:06:42.279
+Dario Rizzo: Bueno, yo estoy haciendo, digamos, el pasivo, como si yo lo comparo con, digamos, con lo que es la criminalística criminalística
+
+517
+01:06:42.490 --> 01:06:44.730
+Dario Rizzo: que es creciendo el perfil de que el perfil de
+
+518
+01:06:46.810 --> 01:06:54.409
+Dario Rizzo: de la víctima del asesino también depende de lo que estoy investigando. Está bien. Estoy armando, digamos, la el perfil de la víctima también.
+
+519
+01:06:55.140 --> 01:06:57.830
+Dario Rizzo: Bueno, obviamente, que las fuentes van a ser Google.
+
+520
+01:06:58.470 --> 01:07:06.719
+Dario Rizzo: registros públicos como el que vivimos recién vivimos, que vimos, el de la parte de D. N. S. La parte, digamos, de la I P, pública.
+
+521
+01:07:06.880 --> 01:07:11.290
+Dario Rizzo: redes sociales y metadatos. Todo eso va a ser información que vamos a ir recolectando. Con
+
+522
+01:07:11.770 --> 01:07:25.079
+Dario Rizzo: simplemente vi lo que recién lo que hicimos y Limpiamos a un navegador, una Url y ejecutamos comandos por la consola terminal que vieron que no necesitamos ningún tipo de conocimiento extraño como para poder ir
+
+523
+01:07:25.210 --> 01:07:32.469
+Dario Rizzo: poniendo información? Bueno, y acá. Hablan de bueno, esta también la vamos a ver. Jodam. ¿alguno la conoce.
+
+524
+01:07:33.550 --> 01:07:46.439
+Dario Rizzo: esta, no la conozco y mateo mateo. Es una. Es una herramienta que también está buena, que esa ya no sé quién dice que es paga mal. Teo que permite hacer o tener información sobre fuentes abiertas también
+
+525
+01:07:46.850 --> 01:07:50.929
+Dario Rizzo: lo que se denomina el famoso o zin. También. No sé si escucharon la palabra.
+
+526
+01:07:53.420 --> 01:07:54.320
+Dario Rizzo: Bueno.
+
+527
+01:07:54.890 --> 01:08:03.810
+Dario Rizzo: esto es esto. No se usa mucho también la parte de investigación. La parte de investigación, cuando lo personal policial o de investigaciones, o
+
+528
+01:08:03.900 --> 01:08:17.670
+Dario Rizzo: usa mucho los Sim para poder armar el perfil del, digamos, de, no sé, estoy tratando de dedicar una una banda. No sé de X de X cosa también. Y con esas raíces de herramientas que son como que están autorizados para hacer inteligencia, también. Lo que eso sin
+
+529
+01:08:17.850 --> 01:08:30.149
+Dario Rizzo: como al Gobierno, No, no, no estoy entrando a ningún lado. Lo uso como para recoger información, también haga lo mismo de no tener información de, digamos, de un delincuente. Estoy obteniendo la información de la víctima. Este caso no
+
+530
+01:08:31.840 --> 01:08:40.449
+Dario Rizzo: también está bueno del lado, digamos del que está cuidando la infraestructura, poder usar estas herramientas para ver que tengo expuesto también. No.
+
+531
+01:08:40.689 --> 01:08:42.819
+Dario Rizzo: Yo voy buscando voy buscando, buscando. Buscando.
+
+532
+01:08:43.649 --> 01:08:51.539
+Dario Rizzo: Y puedo ir ir viendo que tengo expuestos en Internet también. Entonces, obviamente que esa información que yo encuentro, la va a encontrar. Cualquiera que me quiera atacar, Obviamente no.
+
+533
+01:08:53.600 --> 01:09:01.739
+Dario Rizzo: Bueno, acá obviamente, que cuando hago representativo el tiempo es más corto. Otra herramienta consulto me devuelve información también.
+
+534
+01:09:02.180 --> 01:09:09.769
+Dario Rizzo: Pero el riesgo de bloqueo por fallo o validez y Vips es mucho más alto, también automáticamente, Si hago un pin. No no sé
+
+535
+01:09:10.200 --> 01:09:24.860
+Dario Rizzo: con de forma consecutiva o ejecutar la herramienta que le pegue y darle al servidor. Van a Van a detectar que ese Ipm y no tantas veces un requerimiento que la van a bloquear por equis equis tiempo, entonces me cortan el el comando no
+
+536
+01:09:25.819 --> 01:09:38.110
+Dario Rizzo: fuentes servidores y objetivo, puertos abiertos, Respuesta de lo que fuimos viendo antes, que la idea es escanear y encontrar puertos, servicios, versiones de software, también sistemas operativos. Y acá van a ver que
+
+537
+01:09:38.250 --> 01:09:46.810
+Dario Rizzo: las herramientas cinemap que se vende después. En la práctica esta esta unidad no podemos ver el No sé si ya se ya levantó La: no.
+
+538
+01:09:46.990 --> 01:09:50.640
+Dario Rizzo: Bueno, hay un ciberataque. Tenemos y
+
+539
+01:09:50.960 --> 01:09:55.769
+Dario Rizzo: con enemap. Van a poder escribir. Bueno, la cocina de la cocina, de de la
+
+540
+01:09:56.070 --> 01:10:05.759
+Dario Rizzo: de la cómo se llama el trabajo de esta unidad? Es ese con agarrar un sitio con el mapa, ejecutarlo. Tengan en cuenta que van a dejar registros de aquel lado. Obviamente tengan en cuenta
+
+541
+01:10:06.560 --> 01:10:18.210
+Dario Rizzo: y van a tener información con ese comando. Van a ver que ese comando tiene un montón de modificadores que ustedes pueden ir ir haciendo que la búsqueda la pueden hacer un poco más lenta, un poco más agresiva.
+
+542
+01:10:18.460 --> 01:10:25.679
+Dario Rizzo: buscar equis versiones, versiones. Van a ver, tiene un montón de modificadores, ese comando que lo van a ir ejecutando
+
+543
+01:10:26.500 --> 01:10:29.800
+Dario Rizzo: en la plataforma. También tienen un
+
+544
+01:10:29.990 --> 01:10:43.759
+Dario Rizzo: por un Pdf con 2 o 3 slide que tienen L map con todos un montón de modificadores que les va a decir que que que que es lo que van a tener como respuesta también
+
+545
+01:10:43.960 --> 01:10:48.929
+Dario Rizzo: después. Si lo po, si si levantan nuevamente la plataforma, lo vemos a ver.
+
+546
+01:10:49.500 --> 01:10:55.480
+Dario Rizzo: Pero bueno, tengan en cuenta eso que deja registros, obviamente no.
+
+547
+01:10:55.830 --> 01:10:57.950
+Dario Rizzo: Y pues lo pueden bloquear. Saben.
+
+548
+01:10:58.760 --> 01:11:11.249
+Dario Rizzo: bueno, acá. Vino bueno, el deporte que yo les mostré otra vez, el del que le hicieron el escaneo a las I p públicas del de policía. Y bueno, lo habían hecho con nesus te acuerdas que le había mostrado. Bueno.
+
+549
+01:11:11.660 --> 01:11:27.360
+Dario Rizzo: acuérdese, que en eso puede ser, lo puede instalar en su computadora y ejecutarlo una licencia o una licencia de uso online. Una Url escaneo y listo y open, vas, que es una versión como el Nexus, pero de código libre.
+
+550
+01:11:31.670 --> 01:11:36.860
+Dario Rizzo: quieres hacer un Break, Pues ya veo que hay un par de caras de era habitado, se está visitando.
+
+551
+01:11:37.550 --> 01:11:44.560
+Dario Rizzo: Bueno, vamos a vamos, donde creo. Hacemos 25 min de recreo y volvemos. Está bien, ¿Toma lista. Te parece.
+
+552
+01:11:48.680 --> 01:11:49.910
+Dario Rizzo: Ay, bueno, tengo un plano.
+
+553
+01:11:57.960 --> 01:12:00.939
+Dario Rizzo: Vamos a tomar lista de forma convencional.
+
+554
+01:12:02.070 --> 01:12:06.010
+Dario Rizzo: Y alguna
+
+555
+01:12:11.510 --> 01:12:21.439
+Dario Rizzo: Ah, vos eras, el que tenías 2 docentes no puede ser, no sí. A justo. Adriana me dijo preguntas si vas a seguir viniendo o si no a joyo?
+
+556
+01:12:21.610 --> 01:12:26.819
+Dario Rizzo: No, no, no por no por nada apreciar, si no, El problema dice que si falta mucho.
+
+557
+01:12:27.870 --> 01:12:34.680
+Dario Rizzo: no, en realidad con 4 quedas libre. El tema es que después a lo último es un lío para hacer el latas.
+
+558
+01:12:35.210 --> 01:12:36.140
+Dario Rizzo: ¿no? Problema.
+
+559
+01:12:37.910 --> 01:12:40.340
+Dario Rizzo: Kanki Sa Sánchez
+
+560
+01:12:43.440 --> 01:12:44.950
+Dario Rizzo: Daurad.
+
+561
+01:12:45.900 --> 01:12:46.920
+francisco daurat: Cada Presidente.
+
+562
+01:12:47.410 --> 01:12:50.449
+Dario Rizzo: Por ejemplo, dije, se fue a comer.
+
+563
+01:12:51.730 --> 01:12:52.970
+francisco daurat: No, No, Acá estamos.
+
+564
+01:12:53.310 --> 01:12:55.740
+Dario Rizzo: Bien. Bien. Bien. Así me gusta. Figueroa.
+
+565
+01:12:57.520 --> 01:12:58.430
+Juan Figueroa: Presente.
+
+566
+01:13:00.980 --> 01:13:02.310
+Dario Rizzo: Sanabria.
+
+567
+01:13:03.370 --> 01:13:04.250
+Juan Pablo Sanabria: Es de.
+
+568
+01:13:09.580 --> 01:13:15.070
+Dario Rizzo: Jalil Barberiiz maturano.
+
+569
+01:13:18.770 --> 01:13:25.620
+Dario Rizzo: Michelle Sochi no está mal
+
+570
+01:13:30.950 --> 01:13:33.160
+Dario Rizzo: bombicino.
+
+571
+01:13:36.540 --> 01:13:41.970
+Dario Rizzo: Poggio sasago.
+
+572
+01:13:46.520 --> 01:13:52.880
+Dario Rizzo: barros fiore
+
+573
+01:13:55.900 --> 01:13:57.220
+Dario Rizzo: luna.
+
+574
+01:13:57.620 --> 01:13:59.300
+Augusto Fiore: Presente fiebre, presente.
+
+575
+01:14:00.540 --> 01:14:01.550
+Dario Rizzo: E Fiore.
+
+576
+01:14:02.100 --> 01:14:03.010
+Augusto Fiore: Sí.
+
+577
+01:14:04.220 --> 01:14:05.550
+Dario Rizzo: Perfecto.
+
+578
+01:14:06.390 --> 01:14:07.630
+Dario Rizzo: Mac: viva.
+
+579
+01:14:07.790 --> 01:14:09.440
+Dario Rizzo: Bicarbo, mi carro, perdón.
+
+580
+01:14:10.260 --> 01:14:11.859
+Dario Rizzo: Listo, Vamos a recreo.
+
+581
+01:14:14.820 --> 01:14:20.700
+Dario Rizzo: Ah, no estás acá. ¿cómo es tu apellido Pereira.
+
+582
+01:14:23.730 --> 01:14:25.829
+Juan Pablo Sanabria: Profe? Disculpe una pregunta.
+
+583
+01:14:26.110 --> 01:14:26.910
+Dario Rizzo: Sí.
+
+584
+01:14:27.070 --> 01:14:35.050
+Juan Pablo Sanabria: Después puedo armar un grupo exclusivo para exclusivo para virtual. Porque yo pregunto, y como nadie responde, digo bueno.
+
+585
+01:14:35.610 --> 01:14:36.370
+Juan Pablo Sanabria: a veces.
+
+586
+01:14:36.370 --> 01:14:41.580
+Dario Rizzo: Ah, pero votas en el Blackbock. No, perdón en el pronto.
+
+587
+01:14:41.580 --> 01:14:43.910
+Juan Pablo Sanabria: Dos. Sí, Sí, sí. Yo pregunté por ahí por eso.
+
+588
+01:14:44.720 --> 01:14:55.099
+Dario Rizzo: Si quieren. Yo la yo no creo que para mí, lo lógico, te lo bueno estaría bueno que digamos que se mezclen virtual presencial viste. Pero bueno, también en cabeza. También entiendo que es medio complicado.
+
+589
+01:14:55.460 --> 01:14:55.880
+Juan Pablo Sanabria: Claro.
+
+590
+01:14:55.990 --> 01:15:00.650
+Dario Rizzo: O si quieren hacer todos los virtuales. Un grupo 0 dra.
+
+591
+01:15:00.650 --> 01:15:03.430
+Juan Pablo Sanabria: Sí, esa esa era mi intención, porque
+
+592
+01:15:03.680 --> 01:15:10.910
+Juan Pablo Sanabria: para no complicar a nadie de curso presencial. Pero por eso yo pregunté, y nadie respondió entonces de de.
+
+593
+01:15:32.130 --> 01:15:34.890
+Dario Rizzo: Gente remota están por ahí. No me abandonaron.
+
+594
+01:15:39.680 --> 01:15:40.350
+Augusto Fiore: A cambio.
+
+595
+01:15:40.350 --> 01:15:41.929
+Juan Pablo Sanabria: Sí. Sí. Ja: Ja: Ja.
+
+596
+01:15:43.530 --> 01:15:48.250
+Dario Rizzo: Bueno, bien, bien, falta falta poquito.
+
+597
+01:15:49.640 --> 01:15:51.110
+Dario Rizzo: Bueno, continuamos.
+
+598
+01:15:52.890 --> 01:15:55.200
+Dario Rizzo: Bueno, ¿qué es un D, N, S,
+
+599
+01:15:56.750 --> 01:15:57.910
+Dario Rizzo: D, E, F, I, N, I, C, ión.
+
+600
+01:16:01.760 --> 01:16:03.850
+Dario Rizzo: ¿qué gua que guarda? ¿qué guarda.
+
+601
+01:16:05.350 --> 01:16:10.210
+Juan Pablo Sanabria: Direcciones de dominio. Las 13 direcciones I, p.
+
+602
+01:16:10.610 --> 01:16:12.969
+Dario Rizzo: También una base de datos que guarda
+
+603
+01:16:14.350 --> 01:16:19.660
+Dario Rizzo: el el I P con el dominio y bueno, ahora aguantando información más. Obviamente no
+
+604
+01:16:21.270 --> 01:16:22.880
+Dario Rizzo: se cae el D. N. S.
+
+605
+01:16:23.250 --> 01:16:24.310
+Dario Rizzo: ¿qué va a pasar?
+
+606
+01:16:25.200 --> 01:16:26.040
+Dario Rizzo: No.
+
+607
+01:16:26.580 --> 01:16:42.519
+Dario Rizzo: ya es algo que sepas la Ip, la Ip pública, Bueno, y puedas acceder también. Muchas veces lo que pasa también, que no sé, 1 tiene en su yo, por ejemplo, por lo general siempre lo que hago es, me configuro como, según secundario el de Google
+
+608
+01:16:43.530 --> 01:16:49.180
+Dario Rizzo: de Dm, Ese Entonces, si se cae el N. S de mi s. P. Salvo por el de Google, y puedo seguir navegando.
+
+609
+01:16:49.500 --> 01:16:50.390
+Dario Rizzo: Saben.
+
+610
+01:16:51.440 --> 01:17:07.749
+Dario Rizzo: vieron el de Google, es 80, 80, 80, 80, lo ponen, y si se les cae, obviamente que ustedes van a ver con ficción de red, van a ver que seguramente tienen 1 primario y secundario. Pero bueno, si quieren modificar alguno, modifican el secundario que pongan el de Google, que el de Google no se va a quedar nunca.
+
+611
+01:17:08.220 --> 01:17:11.750
+Dario Rizzo: dice la teoría. Pero bueno, pueden salir por ahí también.
+
+612
+01:17:12.130 --> 01:17:18.320
+Dario Rizzo: Bueno, van a ver qué los daneses van a tener mucha mucha información también.
+
+613
+01:17:20.110 --> 01:17:33.220
+Dario Rizzo: Bueno, ahí tenemos, por ejemplo, el registro a el registro de A. De cuando hacen ustedes un L D. M. S. Que le devuelve, le devuelve papel dominio principal en una dirección. I, P, B, Cuatro. Pero ahora tenemos Ipb: 4 también. Y ahora creo, estaba. I, p. B, 7,
+
+614
+01:17:33.470 --> 01:17:38.569
+Dario Rizzo: no 6, y viene la y ya miró como que ya murió antes, que simplemente las 6, prácticamente
+
+615
+01:17:38.830 --> 01:17:43.519
+Dario Rizzo: creo que venía. No sé si venía la I, P, 7 o 10. No sé con qué versión era de I, P, I, P,
+
+616
+01:17:43.640 --> 01:17:46.949
+Dario Rizzo: ¿Qué es lo que te haría lo que lo que hacía supuestamente lo que hacía era.
+
+617
+01:17:47.130 --> 01:17:52.260
+Dario Rizzo: Vieron que la Edip 6. Esto hexadecimal. Bueno.
+
+618
+01:17:52.290 --> 01:18:08.920
+Dario Rizzo: en teoría, con el I, el este y P. B, Que no me acuerdo. ¿cuál era que lo que escuché Decían que iban a iba, Iban a agregarle la ley P de 4 le agregan otro segmento más de red. Entonces, bueno, por eso multiplicaban las I P. Vale, vieron que la adopción de I, P. C: Creo que andaban un 30 por 100.
+
+619
+01:18:08.920 --> 01:18:12.949
+Dario Rizzo: Nada más, muy poco. Y esto hace bastante, digamos, pero bueno.
+
+620
+01:18:13.190 --> 01:18:16.160
+Dario Rizzo: primero, como que ya nació muerto ahí, que.
+
+621
+01:18:18.340 --> 01:18:30.920
+Dario Rizzo: bueno, el registro a le va a devolver la Ipb, 4 del dominio del del servidor que está usted consultando. Si el registro Mx devuelve del Med Exchange.
+
+622
+01:18:31.250 --> 01:18:33.690
+Dario Rizzo: ¿qué devuelve? ¿qué ¿Qué van a saber con esto?
+
+623
+01:18:35.370 --> 01:18:39.169
+Dario Rizzo: El Mx: El registro mx que devuelve Mail Exchange te indica.
+
+624
+01:18:39.460 --> 01:18:42.260
+Dario Rizzo: revela que ese dominio, ¿Qué tiene
+
+625
+01:18:44.850 --> 01:18:55.049
+Dario Rizzo: antes? Hablamos que tenía? Había subdominios. Saben, Bueno, con este registro, el registro mx de ese dominio que yo estoy consultando, que me va a devolver.
+
+626
+01:18:55.950 --> 01:18:57.190
+Dario Rizzo: Mail Exchange.
+
+627
+01:18:59.210 --> 01:19:04.840
+Dario Rizzo: Si tiene un mail configurado, también me va a devolver el dominio de mail.
+
+628
+01:19:08.680 --> 01:19:18.070
+Dario Rizzo: el citrones. Ese el ameserver, va a devolver el nombre del servidor básicamente, y el Txt Tsp.
+
+629
+01:19:18.840 --> 01:19:20.030
+Dario Rizzo: Este.
+
+630
+01:19:21.120 --> 01:19:35.400
+Dario Rizzo: ese que yo, que dijimos, el de Marc. Bueno, esto también lo usa el de Marc. También para esto es ese precio. Es muy importante lo que va a decir que, ante un tercero va a certificar que el dominio también sea válido. Está bien
+
+631
+01:19:35.610 --> 01:19:45.169
+Dario Rizzo: el Lemarcus, L, También el S. P. F y el de King son todas herramientas. Digamos que se pueden confiar en el servidor para ofrecer más seguridad ante un tercero, también
+
+632
+01:19:46.950 --> 01:19:57.270
+Dario Rizzo: el el el vino que antes vimos, lo del de Marc. Bueno, el de Mark, también se lleva configurado obligado anteriormente. El S. P F del servidor está bien un parámetro que lo tiene que tener configurado también.
+
+633
+01:19:58.340 --> 01:20:03.379
+Dario Rizzo: Y E. T. T. Quiste es el registro también del del servidor.
+
+634
+01:20:09.440 --> 01:20:15.490
+Dario Rizzo: Bueno, ahí antes vieron que esto lo ejecutamos antes. ¿te acuerdas. Bueno, si acá le agregan
+
+635
+01:20:16.270 --> 01:20:26.249
+Dario Rizzo: medio, query punto Mx nos va a devolver. De si yo del dominio que tengo, me va a devolver el mail que que tiene asignado ese ese
+
+636
+01:20:26.500 --> 01:20:28.090
+Dario Rizzo: ese servidor está bien.
+
+637
+01:20:31.240 --> 01:20:35.359
+Dario Rizzo: Vi vi caras que me decían, No le creo Profe. Vamos a probarlo.
+
+638
+01:20:36.330 --> 01:20:41.570
+Dario Rizzo: Y llevo 10 días, e Mail o Wow.
+
+639
+01:20:41.780 --> 01:20:46.340
+Dario Rizzo: ¿Me mataste ese No, No, No sé que que devolvería. Vamos a probarlo.
+
+640
+01:20:49.130 --> 01:20:51.540
+Dario Rizzo: Hay que ver si el dominio
+
+641
+01:21:01.920 --> 01:21:03.320
+Dario Rizzo: no no volveré nada
+
+642
+01:21:18.870 --> 01:21:23.979
+Dario Rizzo: de a el típico Cuando 1 le quiere, le quiere probar, no anda. Ve.
+
+643
+01:21:25.760 --> 01:21:32.000
+Dario Rizzo: Por eso siempre hay que grabar las cosas cuando andan así, ya me creen después, si no a ver.
+
+644
+01:21:45.690 --> 01:21:47.920
+Dario Rizzo: Ohh: no sé que por esto
+
+645
+01:21:49.800 --> 01:21:57.279
+Dario Rizzo: ahí está, no estaba. Capa 8 vieron ahí que volvió a ver. Acabo de poner.
+
+646
+01:21:59.040 --> 01:22:00.989
+Juan Pablo Sanabria: Yo no lo estaría viendo, por ejemplo.
+
+647
+01:22:01.380 --> 01:22:02.400
+Dario Rizzo: Pero
+
+648
+01:22:05.820 --> 01:22:07.080
+Dario Rizzo: ahí ves la consola.
+
+649
+01:22:09.500 --> 01:22:10.760
+Juan Pablo Sanabria: Sí. Ahora, sí.
+
+650
+01:22:11.900 --> 01:22:12.580
+Dario Rizzo: Pues no.
+
+651
+01:22:18.950 --> 01:22:23.860
+Dario Rizzo: Bueno, ahí ahí le volvió. Vieron el root punto Texas, punto bravo, punto e mail
+
+652
+01:22:25.020 --> 01:22:28.840
+Dario Rizzo: en barremo burdeo que íbamos a ver. Google no era que devuelven
+
+653
+01:22:33.480 --> 01:22:43.410
+Dario Rizzo: en ese punto de mail de nessiguion admin uve com a ver sin el
+
+654
+01:22:47.990 --> 01:22:50.460
+Dario Rizzo: lo mismo la punta que molaba.
+
+655
+01:22:51.330 --> 01:22:56.300
+Dario Rizzo: o sea, que te puede ser que tenga internamente un prost inverso y lo derive directamente para allá,
+
+656
+01:22:56.670 --> 01:23:04.149
+Dario Rizzo: Pero bueno, básicamente, lo que demuestra es eso. Vieron el si el dominio que ustedes consultando tiene un mail asignado o configurado, está bien
+
+657
+01:23:07.150 --> 01:23:12.439
+Dario Rizzo: alguno que te a ver algún dominio de una de algún trabajo del trabajo de ustedes.
+
+658
+01:23:12.540 --> 01:23:24.390
+Dario Rizzo: Un dominio algo igual. ¿cómo se escribe rx? Sí, guión. Soluciones.
+
+659
+01:23:30.290 --> 01:23:32.910
+Dario Rizzo: Está bien. Necesites gmail. Punto.
+
+660
+01:23:33.380 --> 01:23:37.819
+Dario Rizzo: Bueno, hay fibra de mail, corre Corres con X
+
+661
+01:23:37.960 --> 01:23:50.150
+Dario Rizzo: guión, soluciones. Punto. Com es el domingo Bueno, ahí está. Ahí. Está ahí. También pueden ver la Ip que tiene al costado a la derecha. Está bien, pero, bueno, son cosas que también sirven para ir obteniendo información, ¿no?
+
+662
+01:24:00.150 --> 01:24:04.810
+Dario Rizzo: Y lo mismo con arriba con huis. Ese es el lo ejecutamos, no
+
+663
+01:24:21.220 --> 01:24:22.970
+Dario Rizzo: acaban huir.
+
+664
+01:24:28.790 --> 01:24:30.360
+Dario Rizzo: aunque Pablo no lo tiene.
+
+665
+01:24:39.940 --> 01:24:43.260
+Dario Rizzo: no lo tiene instalado el comando. Pero bueno, básicamente
+
+666
+01:24:43.960 --> 01:24:51.809
+Dario Rizzo: te muestra también información del dominio, también la Ip. ¿de ¿A quién depende Esto lo podemos también sacar mucha información.
+
+667
+01:24:54.510 --> 01:25:00.029
+Dario Rizzo: Conocen ¿Cómo se registra un dominio en Argentina, un dominio web
+
+668
+01:25:02.170 --> 01:25:06.479
+Dario Rizzo: el que regula todos los nombres de dominio es el organismo. Se llama Nick Punto Art.
+
+669
+01:25:12.360 --> 01:25:14.160
+Dario Rizzo: A. A.
+
+670
+01:25:15.270 --> 01:25:18.280
+Dario Rizzo: Están viendo la pantalla remoto, la página web.
+
+671
+01:25:18.280 --> 01:25:19.230
+Juan Pablo Sanabria: Sí, Sí.
+
+672
+01:25:21.770 --> 01:25:36.480
+Dario Rizzo: Ustedes, si quieren ustedes llamen y dicen, necesito registrar un nombre de dominio. ¿qué tienen que hacer? Tienen que hacer? Tiene que entrar acá y tienen que bueno dar de alta como. Y bueno, acá lo que pueden Bu, buscar, Si el dominio que ustedes van a quitar está disponible. También vamos a ponerle Palermo.
+
+673
+01:25:38.950 --> 01:25:44.849
+Dario Rizzo: Punto. Hagan árabe que tiene un montón de un montón de su de Are punto com. Gob: 1 000
+
+674
+01:25:45.590 --> 01:25:47.029
+Dario Rizzo: no te ha ido.
+
+675
+01:25:47.640 --> 01:25:59.630
+Dario Rizzo: Bueno, ¿qué raro sí. Lo mismo que el que el 1 000 y el Go.
+
+676
+01:26:00.160 --> 01:26:03.949
+Dario Rizzo: pero a veces alta figura. Eso es raro. No sé por qué.
+
+677
+01:26:07.930 --> 01:26:15.550
+Dario Rizzo: Bueno, igual Acá dice que no es lo mismo. Obviamente no está disponible porque obviamente lo requistó. Palermo, ¿no? Pero bueno que raro no aparezca el
+
+678
+01:26:32.600 --> 01:26:33.580
+Dario Rizzo: bueno
+
+679
+01:26:33.800 --> 01:26:46.820
+Dario Rizzo: dominio. Van a ver si está disponible No, si está disponible pueden iniciar el trámite. Lleva Lleva un costo. Lleva. No sé si te saldrá. No sé cuántos a la hora salida. Creo que 160 pesos o quitar el dominio.
+
+680
+01:26:47.560 --> 01:26:57.829
+Dario Rizzo: Muchos lo que hacen es, registran, el digamos, punto ar puntocom punto ar por una cuestión, digamos, de digital, el dominio en forma precautoria, no para usar todos esos punto. X,
+
+681
+01:26:59.380 --> 01:27:13.120
+Dario Rizzo: Lo que son punto bot work, 1 000 punto ar Edu, son todos, obviamente, que son todos de tarjetas registrados para usos particulares También un dominio común va a ser punto com, punto. Ar.
+
+682
+01:27:13.290 --> 01:27:24.099
+Dario Rizzo: Esto es solamente para que son todos punto. Art, No, obviamente, si quieren hacerlo digital en punto com afuera, hay un montón de organismos como este, pero que son internacionales también, que mantienen ese registro.
+
+683
+01:27:24.950 --> 01:27:26.350
+Dario Rizzo: Para hacer esto.
+
+684
+01:27:27.200 --> 01:27:41.319
+Dario Rizzo: ustedes tienen que también demostrar que son parte del organismo, no cuando van a quitar un organismo de que sea educación, gobierno o lo que sea, tienen que el responsable máximo de la autoridad competente de ese organismo
+
+685
+01:27:41.320 --> 01:27:48.330
+Dario Rizzo: los tiene que ustedes designar como representantes legales ante N i C. También esto es un trámite que hay que hacerlo
+
+686
+01:27:48.650 --> 01:28:07.010
+Dario Rizzo: y después también te valida con lo el en dentro de la vieron que usted tiene en el acceso para la F, I, P, Bueno, Arca hoy en día. Mira que ustedes se lo vean y tiene un nivel de y servicios que pueden vincular. Bueno, hay 1 de los servicios que para vincular ya dentro es para Nick también dentro de la Fib de Arca.
+
+687
+01:28:07.350 --> 01:28:26.949
+Dario Rizzo: tienen que tener ese servicio asignado y el la parte, no sé administrativa contable del organismo. Los tiene que usted designar la potestad para manejar ese dominio y ahí pueden asimilar el trámite. Pueden dar de alta el dominio. Lo pueden renovar. Y esto, obviamente, los dominios tienen vencimiento.
+
+688
+01:28:27.110 --> 01:28:38.980
+Dario Rizzo: No sé si será un año o 2 años. Pero bueno, cada año se tiene que hacer renovar. Tienen que pagar la renovación también lleva un costo, pero no es mínimo. Básicamente no es, no es mucho, pero bueno para que sepan que eso existe. ¿no?
+
+689
+01:28:39.630 --> 01:28:41.580
+Dario Rizzo: Bueno. Impor Importante.
+
+690
+01:28:41.720 --> 01:28:52.399
+Dario Rizzo: Cuando ustedes hagan el registro. Obviamente. Bueno, el ese comando Is le va a mostrar esta información. Está en Nic más un montón de información más
+
+691
+01:28:54.290 --> 01:29:12.030
+Dario Rizzo: ustedes cuando hacen de alta el el registro ni tiene que poner un montón de datos. Y también tiene que poner los registros D. N. S, que tienen asignados a ustedes para para ese dominio. Porque así, cuando lo busca el el N, ese saben que la I, P. D es la que va a ir a ese dominio. También
+
+692
+01:29:13.180 --> 01:29:20.880
+Dario Rizzo: exactamente. Tiene que poner claro exactamente tiene que poner la I, P, la I, P, y tiene la misma configurar las adherencia que usted tiene asignado a ese servidor para que los encuentre
+
+693
+01:29:21.100 --> 01:29:24.839
+Dario Rizzo: y para que quede también registrado también en Mic.
+
+694
+01:29:32.640 --> 01:29:42.060
+Dario Rizzo: Pero, bueno, después, si ustedes ponen en su computadora o capaz que acá quieren ejecutar estos comandos ejecutanlos este más que nada para que vean que les muestra un montón de información. Está bien.
+
+695
+01:29:42.370 --> 01:29:48.819
+Dario Rizzo: Cuis, ¿Quién es básicamente en inglés y el dominio en forma correlativa.
+
+696
+01:29:53.390 --> 01:29:58.510
+Dario Rizzo: Bueno, ¿cuál es la ¿Cuál es la
+
+697
+01:29:58.890 --> 01:30:10.840
+Dario Rizzo: por qué usamos ejecutados el bono Nma en el Map? No, también nosotros, lo que vamos a ver es qué puertos está abierto en X Servidor? Está bien o X, dominio. Está bien? Bueno, acá van a encontrar a
+
+698
+01:30:12.270 --> 01:30:14.690
+Dario Rizzo: el comando. Nemap es ene Map.
+
+699
+01:30:14.830 --> 01:30:31.520
+Dario Rizzo: Obviamente, si lo van a tener, lo van a tener, lo van a ejecutar desde cali lo van a tener instalado el N Map como la herramienta de la consola para poder ejecutar salud para poder ejecutar. Ese comando. Está bien. Es en el Map, los no todos los multiladores que quieren poner también.
+
+700
+01:30:32.920 --> 01:30:41.099
+Dario Rizzo: Y la Ip o el nombre de dominio de lo que ustedes quieren saber que que tiene. Tengan en cuenta que esto sí
+
+701
+01:30:41.290 --> 01:30:42.160
+Dario Rizzo: es
+
+702
+01:30:42.500 --> 01:30:53.719
+Dario Rizzo: altamente invasivo. Está bien. Altamente ¿Van a quedar, ¿Va a quedar, van a quedar esclados claramente en si hacen ese ese eso, o sea, tengan en cuenta que es muy posible que lo ejecuten.
+
+703
+01:30:53.930 --> 01:30:59.600
+Dario Rizzo: lo ejecutan 5 veces. Y en la quinta le va a devolver que no puede tener nada porque se lo bloquearon.
+
+704
+01:31:01.550 --> 01:31:17.380
+Dario Rizzo: Obviamente, si yo tengo del otro lado, estoy, tengo, tengo que hacer un escaneo de puertos de forma si no forma consecutiva, 5 veces de un I, P, C y P. S. El Habaneo y ya la bloqueo para el próximo intento. No, pues esas son medidas de prevención de la que del otro lado. No.
+
+705
+01:31:18.510 --> 01:31:20.630
+Dario Rizzo: salud.
+
+706
+01:31:20.990 --> 01:31:23.880
+Dario Rizzo: Sí, no, no pasa nada.
+
+707
+01:31:24.110 --> 01:31:25.710
+Dario Rizzo: En
+
+708
+01:31:26.510 --> 01:31:33.849
+Dario Rizzo: hay muchos, muchos modificadores de ese comando que son muy interesantes, no que le va? Le va a dar mucha información también
+
+709
+01:31:35.480 --> 01:31:36.860
+Dario Rizzo: este, por ejemplo.
+
+710
+01:31:37.610 --> 01:31:46.869
+Dario Rizzo: el S. S. El Ls B B, corta más mayúscula, es muy invasivo va a ver el tiempo. Va a llevar mucho tiempo el escaneo
+
+711
+01:31:47.310 --> 01:31:53.269
+Dario Rizzo: y le va a traer mucha información. También. Cuanto más tarda, obviamente es porque está buscando más información. ¿no?
+
+712
+01:31:53.970 --> 01:32:06.680
+Dario Rizzo: Y tengan en cuenta que siempre en el medio va a haber un firewall entre ustedes, van consultando. En teoría, lo que dice, y este es el que le usted le va después, le va a bloquear o le va a dejar pasar en base a lo que están haciendo. ¿no?
+
+713
+01:32:09.030 --> 01:32:16.000
+Dario Rizzo: Bueno, otra herramienta que tenemos. Vieron que en Google como buscador. Obviamente, hoy buscamos. Bueno.
+
+714
+01:32:17.340 --> 01:32:19.499
+Dario Rizzo: claro, también hay hay una
+
+715
+01:32:20.040 --> 01:32:29.690
+Dario Rizzo: Google, Dorkin, y también, o sea, Google, Indexa Indexa, Indexa Indexa. Y de esa cosa buena cosa, mala. Todo también
+
+716
+01:32:29.780 --> 01:32:47.099
+Dario Rizzo: capaz, que ustedes dejan. No sé, vieron que muchas veces, por ejemplo, no sé el el sitio barra, algo muchas veces. No debería todo lo que está en la barra para el otro lado no debería estar visible. Desde el lado afuera está bien, es un error. Tú te pones barra, no sé. Y empiezan a probar.
+
+717
+01:32:47.240 --> 01:32:51.790
+Dario Rizzo: y les muestra algo. Es un error de la configuración de Webserver también
+
+718
+01:32:52.040 --> 01:32:59.980
+Dario Rizzo: no debería mostrar nada capaz que 1 se pone en barra. Php Info, por ejemplo, que le gusta todo un bueno, un error cardio
+
+719
+01:33:00.540 --> 01:33:12.289
+Dario Rizzo: catastrófico de seguridad. Bueno, dentro de Google ustedes pueden buscar ir buscando por muchos parámetros como estos y le vamos a buscar todo lo que está indexado? No, por ejemplo. Ahí lo que dice
+
+720
+01:33:12.420 --> 01:33:18.380
+Dario Rizzo: interesante este, por ejemplo, possword Txt: Bueno, va a buscar
+
+721
+01:33:18.890 --> 01:33:25.420
+Dario Rizzo: en todo lo que tenga indexado, que tenga poco el punto de vista y lo van a abrir, van a abrir para abrir lo van a encontrar password también.
+
+722
+01:33:25.660 --> 01:33:34.290
+Dario Rizzo: O punto. S. Q. L, capaz que encuentran un archivo de S. Q. L, Ustedes lo pueden descargar, lo levantan en una base de datos en su base de datos. Y pueden?
+
+723
+01:33:34.490 --> 01:33:35.469
+Dario Rizzo: En go.
+
+724
+01:33:37.170 --> 01:33:38.120
+Dario Rizzo: Claro.
+
+725
+01:33:40.430 --> 01:33:41.439
+Dario Rizzo: Sí.
+
+726
+01:33:42.850 --> 01:33:44.700
+Dario Rizzo: Claro. Sí.
+
+727
+01:33:47.450 --> 01:33:49.200
+Dario Rizzo: Donde esa piedra se da positivo.
+
+728
+01:33:50.430 --> 01:34:06.440
+Dario Rizzo: te dijeron, gracias. O ah, bueno, bueno, a ver eso de lo que hizo él es, digamos lo que se denomina Batmanti y por lo general encuentra algún error? Bueno, lo tiene que aparecer ahí de algún premio, por lo menos mínimamente.
+
+729
+01:34:07.420 --> 01:34:14.790
+Dario Rizzo: Pero bueno, o muchas las empresas, por ejemplo, de las empresas privadas. Lo que hacen es, Te dan un premio importante. Si no estás una buena bebida
+
+730
+01:34:15.190 --> 01:34:19.730
+Dario Rizzo: demostrable para eso, mucho logro de cerrarlo.
+
+731
+01:34:20.000 --> 01:34:35.890
+Dario Rizzo: incluso los mensajes que rock, a veces más atrás.
+
+732
+01:34:36.050 --> 01:34:43.959
+Dario Rizzo: Claro, eso también está bueno, enmascararse. El El error para que la persona que lo detecta a este lado no sepa que sea que se a qué se referencia. También está. Bueno, eso también
+
+733
+01:34:44.090 --> 01:34:48.650
+Dario Rizzo: son parte de las técnicas de desarrollo seguro y y demás, no.
+
+734
+01:34:49.060 --> 01:34:53.340
+Dario Rizzo: Y, Pero bueno, esto está bueno porque, bueno, esto es
+
+735
+01:34:53.510 --> 01:34:58.620
+Dario Rizzo: es libre, es un Deu. Esto es lo que buscan. Ustedes Acá no van a quedar ningún lado registrado.
+
+736
+01:34:58.720 --> 01:35:01.409
+Dario Rizzo: Va a quedar en el ustedes buscan y encuentran
+
+737
+01:35:03.650 --> 01:35:10.180
+Dario Rizzo: bueno, acá. Al mismo mundo. Login también pueden encontrar una página de logueo. Bueno, habrá que fuerza bruta pueden ingresar.
+
+738
+01:35:13.780 --> 01:35:22.409
+Dario Rizzo: Sí, Ah, sí, la gente.
+
+739
+01:35:23.530 --> 01:35:26.830
+Dario Rizzo: Miércoles el viernes, El de Microsoft. No, mi no.
+
+740
+01:35:27.130 --> 01:35:43.220
+Dario Rizzo: Sí. Ay, qué son en miércoles, Ah, miércoles, lo lo voy a probar
+
+741
+01:35:43.330 --> 01:35:48.270
+Dario Rizzo: y lo uso. Nadie lo usa
+
+742
+01:35:49.890 --> 01:35:57.240
+Dario Rizzo: bueno para hacer, o para ser así, está la piola en el Bueno, acá
+
+743
+01:35:57.920 --> 01:36:04.400
+Dario Rizzo: cámaras Ipe, fallos, seguidores, archivos que quedan expuestos sin que no debieran quedar expuestos.
+
+744
+01:36:05.580 --> 01:36:11.880
+Dario Rizzo: Todo esto es importante sin tocar el servidor, no objetivo. Todo esto es por arriba.
+
+745
+01:36:12.310 --> 01:36:15.040
+Dario Rizzo: ¿cómo se llama este? Este escaneo
+
+746
+01:36:16.330 --> 01:36:20.859
+Dario Rizzo: tipo de escaneo. ¿qué parte de mira había Había 2 exactamente pasivo. ¿
+
+747
+01:36:23.770 --> 01:36:31.030
+Dario Rizzo: Bueno, los metadatos, también. Yo tengo un P. D F, También que puedo tener los metadatos a ver. Acá
+
+748
+01:36:31.730 --> 01:36:34.040
+Dario Rizzo: Hay varias varias herramientas con una herramienta llamada foca.
+
+749
+01:36:34.150 --> 01:36:41.959
+Dario Rizzo: Es Exit Tool, Exit Tool. Bueno, que puedo sacar datos del del archivo y puedo ir sabiendo. No sé, acá. Veo, por ejemplo.
+
+750
+01:36:42.050 --> 01:36:55.970
+Dario Rizzo: J Pérez J Pérez. También. Ya sé que en ese ese servidor o en una máquina está el usuario, o sea, en un dominio, puede ser usuario. J Punto Pérez también lo puede usar para tratar de buscar algún
+
+751
+01:36:56.110 --> 01:37:04.060
+Dario Rizzo: logueo o intento de logueo para poder entrar, no, obviamente coordenadas Gps incrustadas también.
+
+752
+01:37:05.240 --> 01:37:06.480
+Dario Rizzo: No
+
+753
+01:37:06.670 --> 01:37:12.920
+Dario Rizzo: puedo encontrar con el G. P. S. Puedo saber las ubicaciones dentro de las imágenes documentos, lo que sea no
+
+754
+01:37:15.170 --> 01:37:25.859
+Dario Rizzo: importante, la la la huella del software. Puedo encontrar versiones de software que están utilizando. Y bueno, ver si ese software que están utilizando. Tiene alguna buena idea, y puedo ir por ese lado también. No.
+
+755
+01:37:26.230 --> 01:37:32.130
+Dario Rizzo: obviamente, que siempre el a el adobe. No sé, siempre tienen alguna superposición vieja y el y me mandas un
+
+756
+01:37:32.270 --> 01:37:37.970
+Dario Rizzo: un archivo. P, D, F, Y bueno, pues de alguna manera hacer que lo ejecuten, ¿no?
+
+757
+01:37:42.130 --> 01:37:55.420
+Dario Rizzo: Bueno, el osim. Tenemos varias varias formas de hacerlo, ingeniería social o scrapping. Obviamente, lo que vimos anteriormente, los perfiles de Linkedin son tienen información importante.
+
+758
+01:37:55.850 --> 01:37:57.200
+Dario Rizzo: Y
+
+759
+01:37:57.590 --> 01:38:08.649
+Dario Rizzo: vieron que ustedes, Linkedin, la gente publica, no sé los cursos que hizo. No sé hacer una actividad, Saca la fotito. Entonces, bueno, con todo eso ayuda a armar un perfil también.
+
+760
+01:38:08.760 --> 01:38:16.099
+Dario Rizzo: Yo muchas veces hablo con mi hija, que también que que se cuide la foto, que sube, que notas de vamos a ver la foto y que se vea el No sé
+
+761
+01:38:16.290 --> 01:38:20.150
+Dario Rizzo: partes de la casa, o sea, todo.
+
+762
+01:38:20.680 --> 01:38:32.680
+Dario Rizzo: No sé yo cuando era chico, Bueno, nos íbamos de vacaciones, me dijo, salimos a las 2 de la mañana en el auto, vamos a bajar la voz. No grité, dejás la radio prendida. Bueno, hoy en día ¿qué hacemos? Salimos a la puerta y el selfie pucu
+
+763
+01:38:32.850 --> 01:38:41.269
+Dario Rizzo: No voy de vacaciones en el aeropuerto, Entonces, bueno, todo eso también ayuda a que el delincuente. Bueno, la persona que está haciendo sin
+
+764
+01:38:41.720 --> 01:38:43.890
+Dario Rizzo: recopile información también
+
+765
+01:38:47.270 --> 01:38:57.440
+Dario Rizzo: bueno, obviamente también foros la la de deep web también. Bueno, ahí también encontramos también bases de datos compartidas cuando fue
+
+766
+01:38:58.800 --> 01:39:13.770
+Dario Rizzo: el jaqueo policial que sacaron un montón de información. Bueno, creo destacado, como casi como no sé si eran 100 gigas de información de de Personal de la edición personal tenía una base de datos alternativa a la oficial, y esa base de datos fue la que levantaron.
+
+767
+01:39:15.220 --> 01:39:26.559
+Dario Rizzo: Tienen información de fotos de mi D. N. I fotos de todo mi legajo, lo tenían publicado en la deep web, O sea, tenía mi foto, la foto de mis hijos donde vivía. Pero bueno.
+
+768
+01:39:26.700 --> 01:39:35.140
+Dario Rizzo: el tema que la ge hay gente, digamos, lugares o oficinas dentro del organismo que no le dan val importancia a la información. Y, bueno, pasan estas cosas. ¿no?
+
+769
+01:39:36.700 --> 01:39:45.950
+Dario Rizzo: Bueno, importante. También esto también lo que lo que se colección de colección de correos, ir pshing dirigido
+
+770
+01:39:46.070 --> 01:39:50.620
+Dario Rizzo: tema de también de de buscar. Creo que debemos hablar de otra vez currar la basura.
+
+771
+01:39:50.740 --> 01:40:04.889
+Dario Rizzo: entonces eso también, papeles de información sobre general. Cuando rompo un resumen de tarjeta o algo que tenga mis datos. Lo que hago es por lo general o lo mojo todo para que quede ilegible o lo prendo para el asado, luego el asado tipo. Lo prendo está bien.
+
+772
+01:40:04.890 --> 01:40:11.569
+Dario Rizzo: Bueno, capaz. Soy mío, psicótico, pero bueno, cada 1, cada 1 con sus locuras, ¿no?
+
+773
+01:40:11.600 --> 01:40:19.360
+Dario Rizzo: Pero bueno, si 1, yo la verdad, 1 agarra la basura y empieza a buscar papeles. Se encuentra, te digo la verdad, que podes armar
+
+774
+01:40:19.550 --> 01:40:21.179
+Dario Rizzo: un montón de cosas de la
+
+775
+01:40:21.750 --> 01:40:25.150
+Dario Rizzo: del de la de la de la persona, también
+
+776
+01:40:25.550 --> 01:40:42.520
+Dario Rizzo: sabe qué come, qué no come que le gusta. No sé la punto de limpieza que usa un montón de cosas. Puedes ir y ir buscando también que 1 lo lo ve como algo cotidiano, y después se da cuenta que en base a eso, pueden reconstruir el perfil, nuestro, no de de como consumimos que donde compramos.
+
+777
+01:40:42.590 --> 01:40:50.279
+Dario Rizzo: No sé. Sé que el agua, esa basura que que 1 tira capaz de usarla del supermercado y sabe que compran de al lado, Y así un montón de cosas también.
+
+778
+01:40:54.150 --> 01:41:03.579
+Dario Rizzo: Bueno, hay Jodam ahí este. Si quieren entrar para ver la página, jodan a ver si la conocen.
+
+779
+01:41:08.640 --> 01:41:12.900
+Dario Rizzo: En el en el Chrome. Sí, Sí,
+
+780
+01:41:15.940 --> 01:41:16.630
+Dario Rizzo: sí.
+
+781
+01:41:24.820 --> 01:41:26.060
+Dario Rizzo: Mierda.
+
+782
+01:41:28.050 --> 01:41:36.780
+Dario Rizzo: Bueno, ahí está esta página. Ustedes pueden. Al principio, esto era era gratuito. Después empezaron a hacerlo. Viste a cobrarlo. Pero ahora
+
+783
+01:41:37.150 --> 01:41:42.550
+Dario Rizzo: 1 busca algo que se cuele. Vamos.
+
+784
+01:41:43.340 --> 01:41:47.909
+Dario Rizzo: Bueno, yo busqué ese ql ahí y empiezan a Mo a
+
+785
+01:41:48.110 --> 01:41:52.990
+Dario Rizzo: todo lo que tiene ahí ahí por e por ejemplo, acá encontró esta página. Bueno, Vietnam.
+
+786
+01:41:54.320 --> 01:42:00.570
+Dario Rizzo: instancia. Names Sq. L Express: ¿Ven versión? Bueno, y hay un montón de cosas. Pueden buscar
+
+787
+01:42:01.100 --> 01:42:09.000
+Dario Rizzo: si buscan al Mean a ver 2 coches de Bueno, acá. Encontraron.
+
+788
+01:42:18.300 --> 01:42:26.019
+Dario Rizzo: bueno, Pero con esta página lo que pueden ir buscando, ustedes pueden empezar a buscar un montón de cosas. No sé quién. Php: Secu: L
+
+789
+01:42:26.370 --> 01:42:36.580
+Dario Rizzo: no sé, puntos, extensiones. Xl: s archivos. Esto busca todo lo que está expuesto a Internet, mira como también lo que hace el Google Locking. Pero bueno, este lo hace en una interfaz un poco más más linda.
+
+790
+01:42:37.580 --> 01:42:51.139
+Dario Rizzo: esta página también. Lo que bueno creo que tiene. Si 1 se loguea, se queda un usuario. Bueno, puede comprar la versión pro y tiene mejores mejores herramientas o más búsquedas que la gratuita. Pero bueno, esto es la versión gratuita. Pueden buscar un montón de cosas acá también.
+
+791
+01:42:51.510 --> 01:42:53.429
+Dario Rizzo: A ver acá si tenemos suerte.
+
+792
+01:42:54.390 --> 01:43:00.709
+Dario Rizzo: Bueno, acá. Por ejemplo, encontró. Yo busqué que he buscado
+
+793
+01:43:00.880 --> 01:43:04.699
+Dario Rizzo: al mismo punto. V. H. P: No acá. Me muestra un I P,
+
+794
+01:43:04.990 --> 01:43:13.080
+Dario Rizzo: y te muestra información, ven, acá. Te muestra también las unidades que tiene el servidor. Por ejemplo, tiene que este Ssd
+
+795
+01:43:15.450 --> 01:43:18.680
+Dario Rizzo: tiene. Bueno, acá hay 1 1 rojito, O sea, este
+
+796
+01:43:19.110 --> 01:43:25.259
+Dario Rizzo: fue incapaz que te dice que encontraron una buena edad y dice gomando inyección
+
+797
+01:43:25.900 --> 01:43:33.079
+Dario Rizzo: en Windows Application directamente depende de Bueno, y así sucesivamente. Le va mostrando un montón de Ssd que tiene para encontrar
+
+798
+01:43:33.590 --> 01:43:39.869
+Dario Rizzo: acá. Demuestra todos los puertos que tienen abiertos. Dice: tiene puerto abierto, el 22 que es el Ssh
+
+799
+01:43:40.030 --> 01:43:43.259
+Dario Rizzo: y el 80 88 och 88 80,
+
+800
+01:43:43.780 --> 01:43:53.890
+Dario Rizzo: que es el de Enginex. Está bien, bueno. Y ahí pueden ir armando un perfil, digamos también del lugar a donde van a. Es una herramienta más para para encontrar más información también.
+
+801
+01:43:54.910 --> 01:43:57.020
+Dario Rizzo: Y ojo, te encuentras que dice que
+
+802
+01:43:57.640 --> 01:44:04.060
+Dario Rizzo: la moneda que tiene tiene 2 rojitas. Y bueno, ahí tienen las 2 rojas que son salud, critican.
+
+803
+01:44:05.960 --> 01:44:14.990
+Dario Rizzo: Bueno, que tiene una versión on 1, 13 punto, 6 de Enginex que seguramente debe tener alguna buena bebida
+
+804
+01:44:15.170 --> 01:44:30.729
+Dario Rizzo: también y que, acá bueno, puede ejecutar una inyección de Windows y demás también. Pero bueno, son todos. Esto es información que le ofrece sobre este Ip que encontró solamente con ese capaz, que pueden empezar a buscar y capaz, que encuentran alguna buena idea para poder
+
+805
+01:44:31.050 --> 01:44:32.200
+Dario Rizzo: explotarla.
+
+806
+01:44:50.120 --> 01:44:57.240
+Dario Rizzo: Bueno, hay yo, bueno, el buscador y o T, lo que vimos recién alteo. Ese está bueno, porque
+
+807
+01:44:57.430 --> 01:45:02.540
+Dario Rizzo: te arma todo como una especie de grafos de toda la lo que va encontrando en base
+
+808
+01:45:03.320 --> 01:45:12.400
+Dario Rizzo: automatizado, 1 ejecuta y bueno, llevamos tanto como un árbol genealógico con todas las vinculaciones que tiene esa herramienta.
+
+809
+01:45:13.650 --> 01:45:31.930
+Dario Rizzo: Y esto no lo conozco. Estudiar Food y se estén basados en hueco. Son la protagonizada, Este lo que tiene de bueno. Se ve que usa Apis un montón de Apis que se conectan a un montón de servicios disponibles de para 0 sin y 1 ejecuta y buscan todos esos y le trae toda la información centralizada también.
+
+810
+01:45:32.250 --> 01:45:50.810
+Dario Rizzo: Por ejemplo, no sé, puede puede tener, se puede conectar a la a P I de Yodam. Por ejemplo, si ustedes pagan, Joan tiene una A. P. I disponible que para para cargarlo en una herramienta y desde una herramienta sola. Una consola ejecutan una consulta a todas las Apis que ustedes tengan configuradas en su herramienta es mío. ¿cómo vas a centralizar
+
+811
+01:45:50.830 --> 01:45:52.560
+Dario Rizzo: la búsqueda? Digamos.
+
+812
+01:45:56.010 --> 01:45:58.559
+Dario Rizzo: bueno, vieron que
+
+813
+01:46:00.750 --> 01:46:12.689
+Dario Rizzo: fuimos viendo herramientas de todas formas separadas. Y Bueno, eso en conjunto arma todo un perfil que eso lo voy a usar para para encontrar lo que sería el vector de compromiso. No, Obviamente
+
+814
+01:46:13.680 --> 01:46:21.489
+Dario Rizzo: vimos, vimos que podemos hacer por Ozin, encontramos unas herramientas por John. Podemos encontrar también vulnerabilidades. Muestra C. C. B
+
+815
+01:46:22.050 --> 01:46:37.750
+Dario Rizzo: qué más ahí Google Dorkin para la parte de metadatos. Lo vimos el comando de Nemap con Yodam y montando así como siguieron armando todo un perfil que no va a a, digamos, a armar todo un perfil de la etapa de reconocimiento también
+
+816
+01:46:38.720 --> 01:46:50.430
+Dario Rizzo: que eso va a servir de input para la siguiente etapa: todas las etapas son secuenciales formas secuencial y la salida de una la entrada de la siguiente fase para poder seguir avanzando?
+
+817
+01:46:53.620 --> 01:47:01.409
+Dario Rizzo: Bueno, también desde el lado del cómo mitigamos todo esto. Como dijimos anteriormente, minimizar la exposición pasiva, tenemos que tener, digamos
+
+818
+01:47:01.680 --> 01:47:16.460
+Dario Rizzo: lo menos posible que mostrar lo menos posible, obviamente, configurar los seguidores como corresponde para que esta información que no se pone en el mapa, que no podamos responder, confiar en el servidor que no responda cuando se hace un en el mapa
+
+819
+01:47:16.500 --> 01:47:22.670
+Dario Rizzo: bloquear, como dijimos antes. No sé, yo Co desde una misma Ip. Me hacen 5 consultas. Lo bloqueo también
+
+820
+01:47:23.940 --> 01:47:33.110
+Dario Rizzo: importante: concientizar concientizar al personal o a los empleados del organismo siempre fundamental fundamental. Siempre
+
+821
+01:47:33.610 --> 01:47:43.069
+Dario Rizzo: concientizar. Hay que ser. No sé por qué hay muchas herramientas que si lo que se hacen o se contratan, que hacen pruebas difícil. No mandan phishing
+
+822
+01:47:43.210 --> 01:47:44.930
+Dario Rizzo: y
+
+823
+01:47:45.660 --> 01:47:55.120
+Dario Rizzo: medio automatizado y ven cuánta gente cae en el phishing y cuánta gente no la gente que cae en el phishing. Nos mandan a concientizar. Le hacen un cursito de de bueno, mira.
+
+824
+01:47:55.260 --> 01:47:58.960
+Dario Rizzo: no el iphone, 20 no existe o si te clics lo compraste bueno.
+
+825
+01:47:59.110 --> 01:48:02.520
+Dario Rizzo: y así sucesivamente, no con un montón de cosas. ¿no?
+
+826
+01:48:04.160 --> 01:48:11.860
+Dario Rizzo: Bueno, configurar los D. N. S. De tener herramientas de detención nativa. ¿no?
+
+827
+01:48:12.220 --> 01:48:12.880
+Dario Rizzo: Mhm.
+
+828
+01:48:13.390 --> 01:48:23.890
+Dario Rizzo: Los fireware también configurados. I: P. S, Tener un montón de herramientas que deten el digamos, lo que sería no vieron que sobre el
+
+829
+01:48:24.080 --> 01:48:29.200
+Dario Rizzo: sobre el pasivo tenemos poco control también porque digamos de todo lo que está expuesto.
+
+830
+01:48:29.670 --> 01:48:36.880
+Dario Rizzo: perfiles y demás. Eso se puede limitar en cierta manera, pero bueno, no es impor No es. No nos podemos limitar al 100 por 100, pero en el caso.
+
+831
+01:48:37.910 --> 01:48:53.940
+Dario Rizzo: cuando hacemos esto de nativa, sí es parte de nuestro lado. Queremos tener las herramientas configuradas como corresponden para poder detectar si un escaneo pasivo. También hay, si ya es por donativo. Ya es parte de nuestro com nuestras responsabilidades. Está bien, como
+
+832
+01:48:54.010 --> 01:49:01.249
+Dario Rizzo: como estamos en la parte de la parte defensiva, tema de configurar y configurar herramientas, comprar herramientas.
+
+833
+01:49:01.380 --> 01:49:08.270
+Dario Rizzo: capacitar a la gente para que todo lo que son escaneos activos pararlos. De cierta manera, está bien.
+
+834
+01:49:11.850 --> 01:49:26.030
+Dario Rizzo: Bueno, reconocimiento axioma cuando hablamos de axioma que sabe el axioma, que es Exactamente.
+
+835
+01:49:26.660 --> 01:49:32.160
+Dario Rizzo: Bueno, es asimético es elástico y continuo también. Siempre. Lo que es la
+
+836
+01:49:33.420 --> 01:49:36.559
+Dario Rizzo: El conocimiento siempre siempre es, está activo.
+
+837
+01:49:37.600 --> 01:49:55.869
+Dario Rizzo: es elástico. Bueno, Obviamente que podemos buscar. Lo que lo que busquemos va a estar disponible también es continuo. Siempre las redes evolucionan ahí. Habla de la evolución constante de la tecnología, Obviamente que hoy capaz, que no sé, tenemos una versión de software que
+
+838
+01:49:56.000 --> 01:50:10.320
+Dario Rizzo: tienen, No sé, me muestra una diversión y no se actualiza y cambia de versión y oculta. Una cosa muestra otra cosa. Siempre tenemos que estar constantemente viendo que estamos nosotros demostrando hacia afuera está bien. Siempre está bien. No.
+
+839
+01:50:13.570 --> 01:50:25.420
+Dario Rizzo: La ventaja siempre es de quién tiene el mapa más detallado. Está bien. Cuanto más información tengo sobre lo que yo tengo expuesto a Internet. Voy a saber por dónde me pueden atacar y qué tengo que proteger. Está bien.
+
+840
+01:50:28.990 --> 01:50:30.460
+Dario Rizzo: Rubén está por ahí.
+
+841
+01:50:33.080 --> 01:50:34.789
+Raybar: Estoy acá. Estoy.
+
+842
+01:50:35.660 --> 01:50:37.159
+Dario Rizzo: Te doy el control. Te. C, Dos.
+
+843
+01:50:38.440 --> 01:50:40.690
+Raybar: Me das el control que peligroso que es eso.
+
+844
+01:50:41.090 --> 01:50:47.390
+Dario Rizzo: Ajá, pero a ver como hacer anfitrión. El cofi tite nata Tiqui.
+
+845
+01:50:47.390 --> 01:50:48.930
+Raybar: Lástima que no los veo.
+
+846
+01:50:50.020 --> 01:50:52.539
+Dario Rizzo: Pero No tengo la la gala.
+
+847
+01:50:53.790 --> 01:50:56.320
+Raybar: Van a poder ver los que están ahí presentes.
+
+848
+01:50:57.470 --> 01:51:01.659
+Dario Rizzo: En teoría, deberían ver si vos presentas. Ven todos por la ven acá. En televisión.
+
+849
+01:51:01.660 --> 01:51:03.599
+Raybar: Tengo para presentar.
+
+850
+01:51:03.830 --> 01:51:06.510
+Dario Rizzo: Ahí te puse como anfitrión.
+
+851
+01:51:07.670 --> 01:51:12.110
+Raybar: Cojos. Perfecto, pues, como.
+
+852
+01:51:12.110 --> 01:51:12.730
+Dario Rizzo: Sí.
+
+853
+01:51:13.700 --> 01:51:15.240
+Raybar: Postols.
+
+854
+01:51:17.400 --> 01:51:22.770
+Raybar: Ya Ya perfecto, screen 2.
+
+855
+01:51:24.350 --> 01:51:25.710
+Raybar: Ahí vamos.
+
+856
+01:51:29.180 --> 01:51:31.749
+Raybar: O sea, que vuelvo a poner esto por acá
+
+857
+01:51:32.780 --> 01:51:36.309
+Raybar: ahora. Acá están viendo mi pantalla, el Windows.
+
+858
+01:51:36.650 --> 01:51:37.120
+Raybar: Ah, Claro.
+
+859
+01:51:37.120 --> 01:51:39.899
+Dario Rizzo: Presenciales presenciales y virtuales.
+
+860
+01:51:39.900 --> 01:51:41.080
+Juan Pablo Sanabria: Sí, sí, sí, pero.
+
+861
+01:51:41.080 --> 01:51:42.020
+francisco daurat: Sí, Sí.
+
+862
+01:51:42.020 --> 01:51:50.689
+Raybar: Bien, Bueno, ahora sí buenas noches. A a todos últimos 20 min. Tenemos 15 min. No darío.
+
+863
+01:51:50.890 --> 01:51:51.490
+Dario Rizzo: Sí.
+
+864
+01:51:51.630 --> 01:51:52.580
+Raybar: Más o menos.
+
+865
+01:51:52.750 --> 01:52:04.969
+Raybar: Bien, Bueno, hay estuvieron viendo esta clase con darío donde es una clase.
+
+866
+01:52:05.130 --> 01:52:18.480
+Raybar: sobre todo lo que es una de las primeras etapas de el ciclo de vida de la seguridad ofensiva.
+
+867
+01:52:19.420 --> 01:52:29.710
+Raybar: donde, como estuvieron hablando con darío durante esta noche, hablaron sobre
+
+868
+01:52:31.000 --> 01:52:42.480
+Raybar: reconocimiento ofensivo, superficie de ataque. Hablaron de Ozzin Food Prim Team.
+
+869
+01:52:42.720 --> 01:52:48.849
+Raybar: enumeración, estuve escuchando ahí diferentes herramientas.
+
+870
+01:52:49.310 --> 01:52:51.929
+Raybar: Detección de vulnerabilidades.
+
+871
+01:52:52.760 --> 01:53:00.780
+Raybar: Hablaron un poquito de todos esos temas que son.
+
+872
+01:53:00.970 --> 01:53:04.339
+Raybar: Yo tenía un profesor Fabián calvete
+
+873
+01:53:04.490 --> 01:53:11.609
+Raybar: cuando yo cursé hace muchísimos años atrás, él en esta etapa, puntualmente.
+
+874
+01:53:11.810 --> 01:53:17.579
+Raybar: Siempre me quedó en la mente. Él decía, es el afilar el hacha.
+
+875
+01:53:18.140 --> 01:53:19.270
+Raybar: ¿por qué?
+
+876
+01:53:19.720 --> 01:53:22.859
+Raybar: Porque si voy a talar el árbol
+
+877
+01:53:23.620 --> 01:53:35.119
+Raybar: antes de talar el árbol al filo, el hacha para luego poder talarlo de una forma correcta. Entonces esta etapa es fundamental
+
+878
+01:53:35.360 --> 01:53:45.070
+Raybar: para luego movernos en las diferentes etapas y llegar el objetivo esperado
+
+879
+01:53:45.930 --> 01:53:50.470
+Raybar: para esto hablaron de toda la teoría con darío.
+
+880
+01:53:51.650 --> 01:54:07.780
+Raybar: Somos tocayos, tú. También soy rubén darío yo. Lo que armé es una pequeña arquitectura en la cual
+
+881
+01:54:09.340 --> 01:54:10.730
+Raybar: se está viendo ahí.
+
+882
+01:54:12.030 --> 01:54:14.269
+Juan Pablo Sanabria: No, No, me parece que no.
+
+883
+01:54:15.650 --> 01:54:18.490
+Raybar: Todos ven el el Word.
+
+884
+01:54:21.220 --> 01:54:21.940
+Juan Pablo Sanabria: Ahora, Sí.
+
+885
+01:54:23.360 --> 01:54:24.640
+Raybar: Se está viendo. El World.
+
+886
+01:54:25.100 --> 01:54:25.890
+Dario Rizzo: Sí, Sí, Sí.
+
+887
+01:54:26.730 --> 01:54:34.140
+Raybar: Bien, una pequeña arquitectura con 2 máquinas virtuales. Una es un calilinox.
+
+888
+01:54:35.620 --> 01:54:49.820
+Raybar: La otra es una máquina sola que es un ubuntu server 22 0, 4 en la cual tiene
+
+889
+01:54:50.870 --> 01:55:03.029
+Raybar: una parte de infraestructura y una parte desplegada de servicios Web Cms Web en esta infraestructura.
+
+890
+01:55:03.880 --> 01:55:12.969
+Raybar: Como ven, tienen un servicio D. N. S. Tienen un servidor web y un servidor samba para
+
+891
+01:55:13.260 --> 01:55:18.410
+Raybar: compartir archivos y por el lado de
+
+892
+01:55:19.340 --> 01:55:25.860
+Raybar: los servicios web, un Wordpress, el C. M. S. Vulnerable y
+
+893
+01:55:26.130 --> 01:55:31.629
+Raybar: la base de datos de ese Wordpress, Maria de B
+
+894
+01:55:32.950 --> 01:55:37.339
+Raybar: Esta es la pequeña red. Esto está
+
+895
+01:55:38.470 --> 01:55:50.609
+Raybar: realizado con microservicios a través de un docker compost, desplegando la infraestructura de microservicios. Cada 1 de estos van a ser diferentes
+
+896
+01:55:51.360 --> 01:55:52.860
+Raybar: contenedores.
+
+897
+01:55:53.530 --> 01:56:01.170
+Raybar: Utilizando Dockers y Docker Swans, perdón y Docker compos.
+
+898
+01:56:08.500 --> 01:56:12.250
+Raybar: Mhm, un segundito
+
+899
+01:56:30.450 --> 01:56:32.070
+Raybar: Mhm
+
+900
+01:56:43.050 --> 01:56:51.830
+Raybar: yo tengo mi máquina con los contenedores si podemos ingresar?
+
+901
+01:57:00.100 --> 01:57:02.340
+Raybar: Bueno, hice toda la instalación.
+
+902
+01:57:04.860 --> 01:57:09.330
+Raybar: Lo que sí. Sí.
+
+903
+01:57:09.680 --> 01:57:11.170
+Raybar: Docker.
+
+904
+01:57:18.350 --> 01:57:22.879
+Raybar: punto de con todos.
+
+905
+01:57:27.150 --> 01:57:28.350
+Raybar: Mhm.
+
+906
+01:57:38.530 --> 01:57:39.879
+Raybar: Y a lo mal.
+
+907
+01:57:47.860 --> 01:57:48.690
+Raybar: Mhm.
+
+908
+01:57:55.920 --> 01:57:59.629
+Raybar: Bueno, acá. Está la la infraestructura.
+
+909
+01:58:00.060 --> 01:58:01.870
+Raybar: Y.
+
+910
+01:58:05.000 --> 01:58:05.970
+Raybar: Y.
+
+911
+01:58:06.890 --> 01:58:07.750
+Raybar: Mhm.
+
+912
+01:58:20.470 --> 01:58:23.330
+Raybar: Bueno, no importa. Quiero ser rápido.
+
+913
+01:58:23.890 --> 01:58:33.669
+Raybar: despliegue de toda la infraestructura que les mostré por el otro lado, pues no tenemos mucho tiempo.
+
+914
+01:58:37.330 --> 01:58:40.740
+Raybar: Tengo un Cali
+
+915
+01:58:48.870 --> 01:58:49.930
+Raybar: Linux
+
+916
+01:58:59.380 --> 01:59:12.920
+Raybar: en donde podemos ejecutar varias acciones. Como vieron con darío, puedo abrir un Tap.
+
+917
+01:59:13.390 --> 01:59:27.800
+Raybar: No tenemos mucho tiempo ahora, pero quizás la próxima clase podemos ver un poquito más. No tenemos herramientas
+
+918
+01:59:27.960 --> 01:59:33.149
+Raybar: ahí. Creo que esta. No sé si la vieron con darío. Esta es
+
+919
+01:59:33.320 --> 01:59:36.380
+Raybar: la I P de el otro servidor.
+
+920
+01:59:37.660 --> 01:59:46.320
+Raybar: Vamos a ver si podemos detectar si tiene sitios web, herramienta.
+
+921
+01:59:49.250 --> 01:59:52.989
+Raybar: Ahí se está viendo. ¿no? La herramienta es what web.
+
+922
+01:59:53.300 --> 02:00:08.949
+Raybar: Le pongo Http, 2 barra en este caso, la Ip. Si estoy desde un entorno por fuera, puedo utilizar
+
+923
+02:00:09.270 --> 02:00:13.869
+Raybar: también el el registro D. N. S.
+
+924
+02:00:17.930 --> 02:00:21.720
+Raybar: Esta es una forma para poder enumerar
+
+925
+02:00:22.060 --> 02:00:28.350
+Raybar: los servicios web que nos devuelve también versiones.
+
+926
+02:00:29.320 --> 02:00:37.999
+Raybar: Por lo tanto, está configurado para que nos devuelva este tipo de información. El servidor, o sea, esto es un banner
+
+927
+02:00:39.450 --> 02:00:42.910
+Raybar: tan pri bueno.
+
+928
+02:00:43.240 --> 02:00:46.680
+Raybar: Http. Server, Debian Linux.
+
+929
+02:00:46.860 --> 02:01:00.759
+Raybar: la versión que acá nos decía: 4, 2, 4, 38 238 en un debían. Entonces, todo esto está configurado. No tiene bien hecho un jardin
+
+930
+02:01:01.130 --> 02:01:11.900
+Raybar: Esto también podríamos, desde el lado defensivo, pensarlo en limitar los banners que devuelva solo apache
+
+931
+02:01:12.950 --> 02:01:19.999
+Raybar: o que no devuelva nada. Pero ya con que diga apache, también no sabríamos qué versión. Tenemos.
+
+932
+02:01:20.210 --> 02:01:25.810
+Raybar: Bueno, nos dice la Ip. Nos dice que tiene instalado
+
+933
+02:01:25.970 --> 02:01:30.320
+Raybar: un lenguaje de programación Php. La versión
+
+934
+02:01:31.680 --> 02:01:36.990
+Raybar: a dónde redirecciona y acá ya nos empezamos a dar cuenta. Wp.
+
+935
+02:01:37.300 --> 02:01:47.010
+Raybar: y donde el medio Admin Starl entonces tiene una instancia de Wordpress
+
+936
+02:01:48.970 --> 02:02:04.150
+Raybar: por acá abajo, también. No acá dio un redirect, 302 y acá dio un 200. Uno. Ok.
+
+937
+02:02:06.850 --> 02:02:14.229
+Raybar: y porque acá hace una redirección, no por eso nos da el 302, y acá es el 200 efectivo.
+
+938
+02:02:19.230 --> 02:02:23.060
+Raybar: Yo puse Acá varios comandos.
+
+939
+02:02:27.040 --> 02:02:33.510
+Raybar: Otra forma, utilizando Endmap. Tarda un poquito más con Edmark.
+
+940
+02:02:37.710 --> 02:02:42.199
+Raybar: Vamos a abrir. Vamos a dejarlo ejecutando.
+
+941
+02:02:43.410 --> 02:02:45.000
+Raybar: También. Podemos
+
+942
+02:02:48.260 --> 02:02:53.510
+Raybar: y Acá no, No Lo comenté.
+
+943
+02:02:53.820 --> 02:03:01.010
+Raybar: Perdón que voy rápido. No tenemos mucho tiempo, pero estamos utilizando diferentes modificadores.
+
+944
+02:03:01.180 --> 02:03:11.129
+Raybar: menos p Le indico los puertos que quiero. Yo si pongo menos p o o guión del medio p guión del medio.
+
+945
+02:03:11.470 --> 02:03:14.849
+Raybar: Me escanearía los 65 000
+
+946
+02:03:15.290 --> 02:03:26.780
+Raybar: puertos no arriba del 60, y 5 000 acá con menos p o guión del medio. P Le estoy indicando que está en el 80, Al 443 y el 80 80,
+
+947
+02:03:27.490 --> 02:03:37.999
+Raybar: entonces también puedo empezar a combinar diferentes herramientas, le pasó menos menos script.
+
+948
+02:03:38.740 --> 02:03:50.840
+Raybar: que es un modificador para pasarle luego los nombres de los script que yo quiero que ejecute acá como ya detecte que tengo un Wordpress
+
+949
+02:03:51.660 --> 02:04:00.980
+Raybar: también, que me haga una enumeración de usuarios de temas.
+
+950
+02:04:03.120 --> 02:04:07.389
+Raybar: entonces le puedo poner diferentes modificadores y la I P.
+
+951
+02:04:07.840 --> 02:04:13.330
+Raybar: Eso, pues, no lo había explicado, acá. Habría otra.
+
+952
+02:04:15.290 --> 02:04:26.310
+Raybar: Puedo utilizar también herramientas. Ahora que conozco que esto es un Wordpress como doble de pescar
+
+953
+02:04:27.220 --> 02:04:30.190
+Raybar: modificador, menos menos u R. L,
+
+954
+02:04:30.520 --> 02:04:39.500
+Raybar: La u R. L, o en este caso, pongo la Ip que me enumere los usuarios.
+
+955
+02:04:40.560 --> 02:04:44.700
+Raybar: Y si tiene temas.
+
+956
+02:04:46.110 --> 02:04:46.980
+Dario Rizzo: Rubén.
+
+957
+02:04:46.980 --> 02:04:48.430
+Raybar: Sí.
+
+958
+02:04:48.430 --> 02:04:51.809
+Dario Rizzo: Esto que es parte del escaneo, pasivo o activo.
+
+959
+02:04:52.580 --> 02:04:57.769
+Raybar: Perdón, No, no lo dije. Acá. Estamos interactuando con los servidores.
+
+960
+02:04:58.100 --> 02:05:01.299
+Raybar: Esto es parte del escaneo activo.
+
+961
+02:05:02.070 --> 02:05:04.860
+Raybar: Nos está devolviendo el servidor.
+
+962
+02:05:06.600 --> 02:05:13.490
+Raybar: Y como bien dijiste vos Emma acá. Terminó.
+
+963
+02:05:13.980 --> 02:05:25.190
+Raybar: Acá. Hizo la interacción contra el servidor y deja rastro Esto pasamos por
+
+964
+02:05:26.820 --> 02:05:32.859
+Raybar: Firewall. Pasamos quizás por un I P, S, por un I D, S,
+
+965
+02:05:33.870 --> 02:05:39.620
+Raybar: Hicimos la consulta y eso va a quedar en los logos.
+
+966
+02:05:40.110 --> 02:05:48.689
+Raybar: Por eso no es pasivo. Esto es activo. Estamos interactuando contra los diferentes servidores.
+
+967
+02:05:49.490 --> 02:06:00.590
+Raybar: Acá. Está lo habíamos dejado el resultado. Encontró en el puerto 80 que está abierto. Servicio. Http enumeró,
+
+968
+02:06:02.460 --> 02:06:20.740
+Raybar: encontró un barra rítmica, un barra. Wp Incluid Emailge, una imagen Png Bueno, diferentes cositas acá enumeró los temas.
+
+969
+02:06:21.420 --> 02:06:22.430
+Raybar: los temps.
+
+970
+02:06:23.290 --> 02:06:33.459
+Raybar: Y acá encontró también el puerto 443 que está filtrado y el 80 80 también está abierto.
+
+971
+02:06:33.630 --> 02:06:44.100
+Raybar: Http Proxi. Entonces el 80, 80, seguramente, como indicó darío que yo lo escuché en un momento
+
+972
+02:06:44.280 --> 02:07:01.049
+Raybar: de de de su clase que consultó si sabían lo que era un proxy reverso. Seguramente este Wordpress está por detrás de un proxy reverso. Yo voy a interactuar con el proxy reverso
+
+973
+02:07:01.500 --> 02:07:06.280
+Raybar: y por detrás está el servidor.
+
+974
+02:07:10.510 --> 02:07:13.689
+Raybar: Así que vamos detectando diferentes cositas.
+
+975
+02:07:13.890 --> 02:07:22.140
+Raybar: Ya estamos casi en hora, acá habíamos ejecutado dobletes Kahn con W, pescan.
+
+976
+02:07:22.840 --> 02:07:33.920
+Raybar: Yo. Lo que estoy viendo es que me dice The West side is not full, le configuras.
+
+977
+02:07:34.120 --> 02:07:35.640
+Raybar: está el mou.
+
+978
+02:07:36.090 --> 02:07:37.360
+Raybar: Esto.
+
+979
+02:07:38.160 --> 02:07:40.989
+Raybar: Entonces, si yo voy a buscar
+
+980
+02:07:41.530 --> 02:07:45.190
+Raybar: que suele pasar, suele pasar un montón de veces.
+
+981
+02:07:47.760 --> 02:07:56.990
+Raybar: Ahí está abriendo el browser directamente. Si yo pongo H, T, T, P: Está cargando?
+
+982
+02:08:00.550 --> 02:08:05.990
+Raybar: H, T, T, P, Perdón, que está lento porque está cargando 2 puntos.
+
+983
+02:08:06.600 --> 02:08:16.430
+Raybar: barra, barra, 192 100, 68 8 0 97.
+
+984
+02:08:19.310 --> 02:08:29.160
+Raybar: Fíjense que no me enumeró usuarios, sino de que esto parece una tontera.
+
+985
+02:08:30.470 --> 02:08:38.930
+Raybar: Muchas veces dejan los Wordpress para que se ha instalado.
+
+986
+02:08:39.890 --> 02:08:42.429
+Raybar: Todavía no lo terminaron de configurar.
+
+987
+02:08:42.600 --> 02:08:48.229
+Raybar: Yo acá. Podría venir ponerle un site el
+
+988
+02:08:48.600 --> 02:08:55.740
+Raybar: el título del sitio, un Username, un password, un email.
+
+989
+02:08:57.250 --> 02:09:05.289
+Raybar: Y podría terminar la configuración, instalar el Wordpress.
+
+990
+02:09:05.450 --> 02:09:13.490
+Raybar: que mi idea era hacer eso en vivo. Pero, bueno, no nos da tiempo a hacer eso, volver a ejecutar.
+
+991
+02:09:14.850 --> 02:09:23.930
+Raybar: Y cuando volvamos a ejecutar ahí, si yo le pedí enumeramos los usuarios. Si el usuario admin lo crea
+
+992
+02:09:24.430 --> 02:09:29.699
+Raybar: por defecto, si mal no recuerdo, lo crea por defecto Wordpress.
+
+993
+02:09:29.850 --> 02:09:35.879
+Raybar: entonces yo, si acá le pongo un usuario raibar un usuario, raibar
+
+994
+02:09:36.000 --> 02:09:40.230
+Raybar: el primer usuario no admin cuando ejecute.
+
+995
+02:09:40.940 --> 02:09:44.319
+Raybar: Nos vamos a encontrar con la numeración de usuarios.
+
+996
+02:09:46.600 --> 02:09:52.830
+Raybar: Así, podemos empezar interactuar. No quise ir tanto para
+
+997
+02:09:53.030 --> 02:10:00.929
+Raybar: el lado de pasivo, porque fue lo que explicó. Darío vi que hicieron un juicio.
+
+998
+02:10:01.280 --> 02:10:13.269
+Raybar: Se puede hacer un tic Ahí es pasivo, porque yo no estoy interactuando directamente con el servidor. Estoy interactuando
+
+999
+02:10:13.500 --> 02:10:16.610
+Raybar: con los registros D. N, S.
+
+1000
+02:10:17.290 --> 02:10:22.940
+Raybar: Entonces ahí yo puedo hacer consultas y obtener información.
+
+1001
+02:10:26.960 --> 02:10:35.240
+Raybar: Algo también interesante es cómo podemos descubrir archivos sensibles.
+
+1002
+02:10:37.940 --> 02:10:39.990
+Raybar: Tenemos varias herramientas.
+
+1003
+02:10:40.640 --> 02:10:51.130
+Raybar: me lo puso algún tipo de espacio. Una de ellas es God Buster, una de ellas donde
+
+1004
+02:10:51.330 --> 02:11:02.280
+Raybar: te decidimos que queremos descubrir directorios. Le pasamos la Url: Le pasamos un
+
+1005
+02:11:02.660 --> 02:11:05.880
+Raybar: diccionario. Fíjense que es un txt.
+
+1006
+02:11:06.610 --> 02:11:16.869
+Raybar: No le voy a hacer un Vi ahora porque por cuestiones de tiempo, pero Fíjense que acá. Tengo la ruta Useryard Warlis's de Air B
+
+1007
+02:11:17.090 --> 02:11:24.000
+Raybar: Barra Com Txt, yo puedo generar mi propio diccionario. Puedo utilizar los diccionarios
+
+1008
+02:11:24.100 --> 02:11:26.059
+Raybar: hay 1 que se llama Rock You
+
+1009
+02:11:26.260 --> 02:11:31.270
+Raybar: gigante. Es una base, Es un diccionario gigante.
+
+1010
+02:11:31.530 --> 02:11:40.859
+Raybar: Le pasó diferentes modificadores en este caso que quiero encontrar Ehh: de variables de entorno
+
+1011
+02:11:41.030 --> 02:11:55.940
+Raybar: archivos que sean Dams de bases de datos, archivos de Backup, archivo Txt que ahí también estaba viendo que darío les comentaba. Ustedes pueden utilizar de forma pasiva
+
+1012
+02:11:56.800 --> 02:12:08.859
+Raybar: lo que es Google Dort estarían utilizando como medio Google, o también se puede utilizar yoda para detectar.
+
+1013
+02:12:09.690 --> 02:12:18.280
+Raybar: pero saber que dentro de lo que es, cali también tenemos este tipo de herramientas y
+
+1014
+02:12:18.740 --> 02:12:27.210
+Raybar: qué queremos excluir en este caso, los códigos 404 o 403
+
+1015
+02:12:27.660 --> 02:12:31.740
+Raybar: códigos de error de que de protocolo Http.
+
+1016
+02:12:33.100 --> 02:12:47.600
+Raybar: entonces yo lo puedo ejecutar. Fíjense que es un diccionario. Entonces esto va a tardar porque esta es la cantidad de registro que tiene, pero fíjense, me detectó backups
+
+1017
+02:12:48.050 --> 02:12:58.719
+Raybar: index Html: acá tiene un 301, los códigos 300. En Http es redirecciones.
+
+1018
+02:12:59.850 --> 02:13:06.060
+Raybar: Index. H, T. M. L, Tengo un 200 otra de las herramientas.
+
+1019
+02:13:06.600 --> 02:13:07.530
+Raybar: Es
+
+1020
+02:13:12.990 --> 02:13:13.980
+Raybar: sufús
+
+1021
+02:13:15.080 --> 02:13:26.899
+Raybar: que también tiene. Fíjense, es muy similar. Yo le hice un compendio de diferentes herramientas. Acá empieza. Fíjense que es mucho más
+
+1022
+02:13:27.080 --> 02:13:38.960
+Raybar: extenso, mucho más extenso, pero también le indique que sea sobre archivos puntuales
+
+1023
+02:13:39.420 --> 02:13:45.040
+Raybar: o extensiones en S. Q. L. Y punto. Bak.
+
+1024
+02:13:46.270 --> 02:13:56.670
+Raybar: Así podemos ejecutar diferentes herramientas. Tenemos Deserge. Es otra herramienta, y
+
+1025
+02:13:57.300 --> 02:14:03.490
+Raybar: pero Ferox Bufter es otra herramienta. Las más conocidas
+
+1026
+02:14:03.540 --> 02:14:18.230
+Raybar: son estas 3 primeras que les comenté ¿no? Y las que más se utilizan nos dan un sitio web. Y es lo primero que ejecutamos y ahí ponemos diferentes extensiones para ver que detectamos.
+
+1027
+02:14:18.940 --> 02:14:22.480
+Raybar: y también no sirve.
+
+1028
+02:14:22.820 --> 02:14:34.199
+Raybar: Deserch Por poner un ejemplo, nos sirve para ver si detectamos directos directorios, no.
+
+1029
+02:14:37.300 --> 02:14:40.830
+Dario Rizzo: Esa viene rubén. Esa viene entonces instalada por defecto en Cali.
+
+1030
+02:14:41.010 --> 02:14:43.629
+Raybar: Si fijate que yo las ejecuté
+
+1031
+02:14:44.060 --> 02:14:50.620
+Raybar: y no, no tuve que instalar nada. Por eso no hice paso previo de instalación.
+
+1032
+02:14:51.300 --> 02:15:00.060
+Raybar: Esto ya viene. Por eso es bueno tener una distribución como cali que es un súper arsenal lleno de herramientas.
+
+1033
+02:15:01.180 --> 02:15:17.430
+Raybar: Eso es lo que tiene. De interesante. Fíjense, como no sabía ten perdón, que ahí está. Yo tengo ustedes no lo están viendo, pero acá tengo un icono, yo de del propio Sun. Fíjense que acá me detectó backup también.
+
+1034
+02:15:18.800 --> 02:15:20.469
+Raybar: Y acá el punto M.
+
+1035
+02:15:21.720 --> 02:15:29.950
+Raybar: El punto M. Entonces las herramientas también me sirven para consolidar estatus. 200 este punto. M
+
+1036
+02:15:30.310 --> 02:15:33.399
+Raybar: Y este backup 301.
+
+1037
+02:15:33.880 --> 02:15:42.170
+Raybar: Entonces, una vez que yo tengo esto, ya nos vamos. Perdón, chicos, ya los dejo la próxima
+
+1038
+02:15:42.890 --> 02:15:52.640
+Raybar: juro que empezamos. Lo voy a retar al aire. Empezamos más temprano, fíjense que
+
+1039
+02:15:53.910 --> 02:15:57.860
+Raybar: ah, en este caso, ¿no? Pero a ver, ah, no
+
+1040
+02:16:00.710 --> 02:16:05.650
+Raybar: vamos a verlo. Acá Lo lo tengo. Por me quiero apurar perdón.
+
+1041
+02:16:06.140 --> 02:16:13.409
+Raybar: y ahí es donde entra a fallar todo siempre, no una consola nueva.
+
+1042
+02:16:14.830 --> 02:16:17.160
+Raybar: Vale, Ahí está
+
+1043
+02:16:20.250 --> 02:16:24.320
+Raybar: porque lo pegué y obvio tiene el kur adelante.
+
+1044
+02:16:24.580 --> 02:16:29.929
+Raybar: ¿no? Pero Fíjense, encontramos un punto en que tengo acá.
+
+1045
+02:16:30.300 --> 02:16:43.059
+Raybar: En como comenté antes. Es un archivo donde se guardan variables de entorno para que no sé, vamos a suponer. Yo les dije, armé este laboratorio con Docker.
+
+1046
+02:16:43.600 --> 02:16:52.830
+Raybar: Entonces Docker trabaja con archivos. Em: Para pasarle diferentes variables
+
+1047
+02:16:53.549 --> 02:16:58.529
+Raybar: como parámetros en los archivos de configuración. Y acá. Fíjense
+
+1048
+02:16:59.000 --> 02:17:08.809
+Raybar: la conexión a la base de datos My Sequel el Host, el puerto.
+
+1049
+02:17:09.129 --> 02:17:12.659
+Raybar: el nombre de la base. Un Username
+
+1050
+02:17:13.840 --> 02:17:28.309
+Raybar: esto. Todo ficticio, no los armes ficticio. Pero un Password Claves o Kiss de acceso a W s.
+
+1051
+02:17:29.170 --> 02:17:42.789
+Raybar: Un Jackson, web, un Jason, perdón, un jason Webtoken. Podemos encontrar entonces todo eso. Lo detectamos en este archivo. Y lo mismo que detectamos que había un archivo
+
+1052
+02:17:43.930 --> 02:17:45.220
+Raybar: que era Bakup.
+
+1053
+02:17:45.809 --> 02:17:54.849
+Raybar: Entonces yo lo puedo leer. Fíjense acá un backup donde me dice otra vez la versión del servidor.
+
+1054
+02:17:55.030 --> 02:18:05.570
+Raybar: Bueno, me dice título: vaca, el nombre del archivo, entonces yo puedo ir a buscar esto.
+
+1055
+02:18:06.070 --> 02:18:12.250
+Raybar: Este nombre de archivo, que ya sé que es un backup de la base de datos de
+
+1056
+02:18:12.610 --> 02:18:17.969
+Raybar: el Wordpress podría llegar a hacer esto Bien.
+
+1057
+02:18:18.440 --> 02:18:28.330
+Raybar: hay muchísimo. Yo tenía preparado más porque como les mostré, Lo vamos a seguir. Esto darío si te parece solo lo que hay.
+
+1058
+02:18:28.330 --> 02:18:29.230
+Dario Rizzo: Por supuesto.
+
+1059
+02:18:29.230 --> 02:18:39.259
+Raybar: Luego, si ustedes se fijan 2 min y ya nos vamos nuevamente. Tenemos también para lo que es transferencia de zonas.
+
+1060
+02:18:39.400 --> 02:18:43.540
+Raybar: Entonces ver ahí cómo
+
+1061
+02:18:43.830 --> 02:18:55.670
+Raybar: trabajamos con la transferencia de zonas y está mal configurada, algo que parece también algo tonto y muchas veces no está bien configurado. Es un parámetro súper chiquito.
+
+1062
+02:18:57.000 --> 02:19:06.260
+Raybar: pero nos deja transferir la zona. Nos deja adquirir la información con simplemente 2 comandos
+
+1063
+02:19:06.709 --> 02:19:13.350
+Raybar: Bueno, Apache, que algo estuvimos viendo Samba, también podemos trabajar.
+
+1064
+02:19:16.799 --> 02:19:22.849
+Raybar: Tenemos tenemos para trabajar bastante con este. Es un mini laboratorio.
+
+1065
+02:19:23.600 --> 02:19:41.689
+Raybar: pero está bueno para ir trabajando y ver diferentes herramientas. No que es lo interesante. A partir de diferentes herramientas, después, ustedes hasta pueden crear las suyas pro las propias, no las suyas.
+
+1066
+02:19:41.750 --> 02:19:44.900
+Raybar: Fíjense que acá. Volvió a detectar el punto M,
+
+1067
+02:19:46.450 --> 02:19:53.040
+Raybar: y esto continúa y continúa, y continúa así hasta pasar por todo
+
+1068
+02:19:53.260 --> 02:20:01.059
+Raybar: los 882 240 registros que tiene el diccionario que está utilizando.
+
+1069
+02:20:02.000 --> 02:20:06.529
+Raybar: Yo lo puedo cortar ya detecte esto? Bueno, me pongo a trabajar en eso.
+
+1070
+02:20:07.510 --> 02:20:15.110
+Raybar: Así también es como trabajamos haciendo pentecting etical hacking y
+
+1071
+02:20:15.920 --> 02:20:25.090
+Raybar: los que hoy en día hacen backbanty No van buscando en base al Target que tienen.
+
+1072
+02:20:25.400 --> 02:20:30.700
+Raybar: Bueno, me pasé 10 min, 1 000 perdones por ello, y
+
+1073
+02:20:31.100 --> 02:20:36.429
+Raybar: nada, muchísimas gracias por escucharme. No sé si quedó alguna duda alguna consulta.
+
+1074
+02:20:36.780 --> 02:20:37.919
+Raybar: Sé que se quieren ir.
+
+1075
+02:20:38.500 --> 02:20:42.209
+Dario Rizzo: Sí, Sí. Sí. Sí. Sí. Sí, preguntas. Ahí la gente remota algo.
+
+1076
+02:20:45.190 --> 02:20:53.270
+Juan Pablo Sanabria: No, no. No sé si este laboratorio está público o lo o es más de él del profesor. No sé si.
+
+1077
+02:20:54.110 --> 02:21:02.070
+Raybar: Todavía no, no lo no lo liberé, pero la idea es y
+
+1078
+02:21:02.410 --> 02:21:05.420
+Raybar: ir haciendo este tipo de laboratorios
+
+1079
+02:21:05.610 --> 02:21:14.300
+Raybar: que son más abarcativos que lo que tienen hoy en día ustedes en la presentación, que son
+
+1080
+02:21:14.450 --> 02:21:21.690
+Raybar: más chiquitos, no más acotados. Esto. Fíjense por la arquitectura es como más integral.
+
+1081
+02:21:21.810 --> 02:21:36.760
+Raybar: Entonces la idea es también a futuro disponibilizarse, disponibilizarse los a a ustedes y que practiquen con este tipo de entorno. Son 2 o 3 comandos.
+
+1082
+02:21:37.300 --> 02:21:50.100
+Raybar: Tienen que instalar dockers y luego se despliega la infraestructura. Y ustedes, desde el cali ya interactúan con esa infraestructura doctorizada, no a través de container.
+
+1083
+02:21:50.330 --> 02:22:01.369
+Raybar: pero sí la idea es disponibilizárselos a ustedes. Es algo que estamos trabajando para mejorar esta esta materia con con darío. No
+
+1084
+02:22:02.330 --> 02:22:07.889
+Raybar: este tipo de laboratorios más realistas, mucho más realistas.
+
+1085
+02:22:11.480 --> 02:22:15.319
+Juan Pablo Sanabria: Está muy bueno. El laboratorio, gracias.
+
+1086
+02:22:16.510 --> 02:22:18.899
+Raybar: No a a Vos Juan Pablo.
+
+1087
+02:22:20.830 --> 02:22:29.010
+Dario Rizzo: Bueno, muchas gracias. Rubén. Ahí va. Vas vas dejalo corriendo así la la casa que viene mostramos todo como como terminó.
+
+1088
+02:22:29.820 --> 02:22:39.680
+Raybar: Sí, yo no llegué después en la clase que viene. Lo vemos. Pero ven, yo acá ya tenía todas las ejecuciones.
+
+1089
+02:22:39.900 --> 02:22:59.760
+Raybar: acá varias de ellas. Este sigue corriendo porque les iba a mostrar con diferentes modificadores. Algunos tardan más, otros tardan menos. Bueno, tenemos la próxima clase. Vamos a ver si podemos continuar, no con todo esto y hacemos el laboratorio completo.
+
+1090
+02:23:00.730 --> 02:23:02.130
+Dario Rizzo: Bueno, muchas gracias.
+
+1091
+02:23:03.040 --> 02:23:03.980
+Raybar: No a ustedes.
+
+1092
+02:23:05.100 --> 02:23:09.519
+Dario Rizzo: Chao. Buenas, noches, mucha gente remota.
+
+1093
+02:23:10.350 --> 02:23:11.350
+Raybar: Chao hasta luego chao.
+
+1094
+02:23:11.350 --> 02:23:16.090
+Dario Rizzo: Demostrar por Mhm.
