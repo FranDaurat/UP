@@ -1,0 +1,23 @@
+1. Especificar el hash del archivo analizado. ¿Cúal es la arquitectura del archivo? ¿Cúal es la fecha de compilación?
+
+2. Listar las secciones que posee el archivo
+
+3. Listar los strings relevantes contenidos en el archivo
+
+4. ¿Está empaquetado?
+
+5. Listar los imports relevantes
+
+6. Describir la detonación inicial
+
+¿Funciona el programa?
+
+¿Hay algo extraño durante la ejecución? 
+
+7. Transcribir la información importante encontrada en procmon
+
+8. Transcribir la información importante encontrada en wireshark
+
+9. Transcribir la información importante encontrada en tcp view
+
+10. ¿Que tipo de malware es? Agregar cualquier otro tipo de hallazgo.

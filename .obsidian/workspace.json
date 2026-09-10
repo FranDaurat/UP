@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etc.md",
+                "file": "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Repaso primer parcial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Etc"
+              "title": "Repaso primer parcial"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etc.md",
+                "file": "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Repaso primer parcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,19 +185,28 @@
   },
   "active": "7f17a3abf7249011",
   "lastOpenFiles": [
-    "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa/Material/transcripts/clase2.txt",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Material/Moulo2-2-SO_virtualizados_virtualizadores.pdf",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Material/Moulo2-1-VDI.pdf",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Material/Modulo1-1-Historia_evolicion_sisops.pdf",
     "Etc.md",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Repaso primer parcial.md",
+    "fullrecon-infra-memory.md",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/FPNZxGGc.jpeg",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 1 - Historia y evolucion de SO.md",
+    "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa/primer-parcial/Respuestas Primer Parcial.txt.tmp.3752867.5dba08341242",
+    "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa/primer-parcial/Respuestas Primer Parcial.txt.tmp.3752867.941360f36bc1",
+    "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa/primer-parcial/Respuestas Primer Parcial.txt",
+    "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa/primer-parcial/Respuestas Primer Parcial.txt.tmp.3752867.d44c518b07e9",
+    "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa/primer-parcial/Respuestas Primer Parcial - Ingenieria Inversa.docx",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 5 - Encriptacion.md",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 4 - Mecanismos de seguridad.md",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 3 - Sistema de archivos.md",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 2 - Virtualizacion (VDI y virtualizadores).md",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/TP.pdf",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Material/Consigna-TP-Grupal.pdf",
+    "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas/Material/transcripts/charlas/gobernanza_responsabilidad_alta_direccion.md",
+    "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas/Material/transcripts/charlas/privacidad_seguridad_como_respuesta.md",
+    "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas/Material/transcripts/charlas/goberanza_responsabilidad_alta_direccion.txt",
+    "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas/Material/transcripts/charlas/privacidad_seguridad_como_respuesta.txt",
+    "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas/Material/transcripts/charlas",
     "Cuarto Año/Informatica Forense/Informatica Forense.md",
-    "Cuarto Año/Informatica Forense",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/TP_Herramientas_Kali_Pentest.pdf",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/transcripts/clase2.txt",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/transcripts",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo2-1-Conceptos_basicos.pdf",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo1-1-Introduccion.pdf",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material",
     "TP_Seguridad_Ofensiva/_ct.png",
     "TP_Seguridad_Ofensiva/_pg2.png",
     "TP_Seguridad_Ofensiva/_pg1.png",
@@ -216,20 +225,11 @@
     "Material/sistemas_operativos/final/final-2025/WhatsApp Image 2026-07-01 at 10.29.29 AM.jpeg",
     "Material/sistemas_operativos/final/final-2025/WhatsApp Image 2026-07-01 at 10.29.28 AM (2).jpeg",
     "Material/sistemas_operativos/final/final-2025/WhatsApp Image 2026-07-01 at 10.29.28 AM (1).jpeg",
-    "Material/sistemas_operativos/final/final-2025/WhatsApp Image 2026-07-01 at 10.29.28 AM.jpeg",
     "Cuarto Año/Informatica Forense.md",
     "Cuarto Año/Planeamiento estrategico/Banco de preguntas.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Oral.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 7 - Estrategias de Testing.md",
     "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Coass.md",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 1 - Fundamentos e Introduccion..md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 6 - Diseños de casos de tests.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 4 - Administracion de Configuracion.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 5 - Fundamentos de Testing.md",
-    "Tercer Año/Primer Cuatrimestre/Administracion de proyectos/Modulo 6  - Dominio de desempeño de la entrega.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 2 - Calidad del Software.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 1 - Atributos de calidad del software.md",
-    "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 3 - Certificacion del software.md"
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md"
   ]
 }

@@ -1,0 +1,1240 @@
+
+[música]
+0:08
+[música] al primer panel
+0:16
+que tendrá como temática gobernanza corporativa y responsabilidad de la alta
+0:22
+dirección en materia de privacidad. Para la intervención en este primer
+0:27
+panel, invitaremos como moderador a invitaremos como moderadora a María del
+0:35
+Pilar Sánchez, Asociada Senior de Santiváñez y Abogados. Un fuerte voto de aplausos, por favor.
+0:47
+Así también eh [carraspeo] Armando Castillo Ramos, oficial corporativo en protección de datos personales del grupo
+0:53
+Santander. Un fuerte voto de aplauso, por favor,
+1:03
+a Jimena Samayoa Manusi, oficial de datos personales de
+1:10
+Goldfields. Un fuerte voto de aplausos, por favor. Bienvenida.
+1:17
+a Renato Jesús Mellares del Águila, oficial de Protección de Datos Corporativo de Vesco.
+1:25
+Un fuerte voto de aplausos, por favor.
+1:39
+Y una vez más tendremos el gusto de contar con la intervención de Fabián
+1:45
+Descalzo. [carraspeo] Un fuerte voto de aplausos, por favor.
+2:07
+Bienvenidos. Puedes comenzar. Buenas tardes. Bienvenidos a este primer panel en donde nos toca hablar de un
+2:13
+tema super relevante que es la gobernanza corporativa y el rol de la alta dirección en materia de privacidad.
+2:20
+Eh, bueno, eh, bienvenidos. saludarlos a aquí a los panelistas
+2:25
+en un contexto donde vemos que la protección de datos ha pasado de ser un elemento, digamos, teórico legal, a un
+2:33
+elemento esencial de la gestión de riesgos y de reputación y de gobernanza
+2:39
+empresarial. Podemos decir que la privacidad es eh sinónimo de confianza, ¿no? Y la
+2:47
+confianza se construye no solamente en papeles, no solamente en manuales, en
+2:53
+políticas, sino que se construye a través de la toma de decisiones. Eh, no
+2:58
+solamente la toma de decisiones, sino también a través de una cultura organizacional
+3:04
+y de liderazgo eh real y concreto en las organizaciones. En ese sentido, aquí
+3:10
+tenemos a los panelistas que representan a sectores importantes en la economía
+3:16
+peruana y bueno, ABDO. Eh, y nada, eh,
+3:22
+vamos a pasar a hacerles algunas preguntas. Primero una ronda de preguntas. E a ver, [carraspeo] tenemos
+3:30
+a Armando, Armando Castillo de del grupo Santander.
+3:39
+Armando, desde tu experiencia en una organización del sector financiero con estructura corporativa, múltiples líneas
+3:45
+de negocio, alta exposición regulatoria y una gestión intensiva de información personal y patrimonial,
+3:51
+¿qué condiciones deben darse para que la protección de datos personales no quede confinada a una función de cumplimiento,
+3:59
+sino que sea asumida realmente por la alta dirección como una materia de gobierno corporativo, gestión de riesgos
+4:05
+y toma de decisiones estratégicas? Y en esa lógica, ¿qué meis resultan claves para alinear a negocio, a las áreas de
+4:12
+negocio legal, compliance, tecnologías y riesgos bajo un mismo estándar institucional?
+4:19
+¿Qué tal? Buenas tardes con todos. A ver, para que esto no quede en una función, en un checklist de
+4:24
+cumplimiento, e lo referido a protección de datos personales, vemos que esto tiene que verse desde una visión
+4:30
+transversal, ¿ya? Y las instituciones deben considerar el dato como un pilar fundamental, como parte de la estrategia
+4:37
+de la organización. Cuando la alta dirección entiende esto, va a ver los múltiples beneficios que conlleva eh
+4:44
+ver el la protección de datos de una manera eh rentable. Ya vemos de que hoy
+4:50
+en día muchas organizaciones están eh apostando por implementar modelos de cumplimiento en privacidad, justamente
+4:57
+porque estos modelos de cumplimiento conllevan a cierto ahorro dentro de las
+5:02
+organizaciones y además pues promueve eh y fortalece la cultura dentro de la
+5:07
+organización para que la los colaboradores puedan cumplir a cabalidad o de repente tener una una
+5:15
+concientización referente a la privacidad. Entonces sí es importante de que la alta dirección entienda los
+5:21
+beneficios que puede conllevar ello, ¿no?, la privacidad y verlo también desde un enfoque basado en riesgo. ¿Por
+5:27
+qué? Porque hoy en día pues nuestra regulación nos pide dentro de de repente
+5:33
+cuando sale un proyecto o cuando se quiere hacer una evaluación general
+5:38
+de los riesgos dentro de la organización, incluir a la a la privacidad, porque vemos de que
+5:45
+cuando se esto se gestiona adecuadamente desde el diseño, va conllevar a que no
+5:51
+existan pues escenarios contingentes ante un incumplimiento regulatorio y eso obviamente eh conlleva a la no
+5:58
+materialización de una sanción. Entonces, ese es un punto importante que la alta dirección debe entender de que
+6:04
+si se si se gestiona adecuadamente eh los riesgos relacionados a privacidad, no va a conllevar a una a una sanción. Y
+6:10
+lo más importante dentro de es que la cultura ya de cumplimiento también tiene
+6:17
+que estar enfocada en todo lo relacionado a privacidad. Eso te podría comentar.
+6:23
+Perfecto, Armando. Me quedo con el tema de la rentabilidad. Creo que a la alta
+6:28
+gerencia la eh la agarramos eh por así decirlo, por ese lado, ¿no? Por la
+6:34
+rentabilidad. A veces, digamos, los abogados en mi caso, entramos un poco por las normas, por el cumplimiento,
+6:42
+pero creo que lo primero que debemos presentar a la alta gerencia es la rentabilidad que como beneficio que les
+6:49
+va traer. Incluso solo para agregar, hace más o menos, bueno, yo ya tengo la actividad como oficial de protección de
+6:55
+datos 5 años y antes era un poco difícil ya hacerle entender de que eso podría
+7:02
+generar pues un ahorro, una rentabilidad dentro de las organizaciones. Cuando yo implemento mi primer programa de
+7:07
+cumplimiento y ya tengo ya más o menos siete programas implementados ya en las
+7:12
+organizaciones donde yo estuve y me ha llevado a un ahorro de casi 10 millones de soles. muchos procesos han sido
+7:19
+cerrados en la etapa de la fiscalización y eso pues si lo ves desde una perspectiva de implementación de un
+7:25
+modelo de gobierno, de un programa de cumplimiento, entonces sí es efectivo los programas de cumplimiento. Entonces
+7:31
+eso es lo que nosotros debemos vender dentro de la alta gerencia, ¿no? de que esto no solamente va a generar el ahorro
+7:36
+en tema de multa, sino va a generar un impacto positivo a nivel reputacional por el lado del consumidor, porque si un
+7:42
+consumidor tiene esa percepción de que sus datos están protegidos correctamente con las medidas tanto legales, técnicas
+7:49
+y organizativas implementadas, esto va a llevar pues a a poder optar por algún producto un servicio que se pueda ofrecer dentro del mercado.
+7:56
+Correcto. Ahora, Jimena, eh, a ver,
+8:02
+Jimena. La pregunta que tenemos para ti es, en una industria como la Minera, donde la operación involucra entornos complejos,
+8:09
+coordinación entre sede corporativa y operación, interacción con contratistas y terceros y múltiples procesos que
+8:16
+pueden implicar tratamiento de datos personales, ¿qué me de gobernanza consideras indispensables para que la
+8:23
+alta dirección supervise de manera efectiva esta agenda y asegure que los lineamientos de privacidad no se queden
+8:29
+en el plano documental, sino que realmente se traduzcan en decisiones controles y prácticas sostenibles en
+8:35
+operación. Gracias por la pregunta. Buenas tardes nuevamente con todos. Eh, y felicitar
+8:40
+también la iniciativa por este evento aquí en Perú. sé que es el primer foro peruano, así que qué bueno poder estar en este espacio compartiendo con todos
+8:46
+ustedes. E la pregunta es una pregunta bien amplia y bien compleja por por la
+8:52
+naturaleza per sé de lo que implica en realidad un entorno minero.
+8:57
+Quienes hemos podido tener algún tipo de contacto, ya sea en House o de manera externa con minería, sabemos que es de
+9:03
+alguna manera no menor tener que entrelazar todos los stakeholders, los contratistas, aliados que están
+9:10
+vinculados de alguna manera todo el proceso productivo minero. En cuanto a prácticas de gobernanza que
+9:16
+yo creo que pueden volver eficientes, digamos, internalizar este tipo de formato de cumplimiento un poco más
+9:22
+asociado a datos personales, creo que es mirar todo desde el paraguas de un buen gobierno corporativo. Yo creería que el
+9:28
+punto de partida es que la alta dirección eh esté convencida de manera
+9:34
+suficiente y convenza o persuada también al resto del entorno de la dirección que lo acompaña y esto vaya cascadeando una
+9:42
+suerte de cultura de que el tema de datos, por ejemplo, no solamente es un tema meramente legal, como solemos ver
+9:48
+muchas veces los abogados, sino que es un tema que realmente tiene que estar internalizado
+9:55
+de manera tal que venga desde el presidente presidente, vicepresidente corporativo de la organización, los
+10:00
+demás directores o directivos, en este caso del sector, pero también vaya
+10:05
+bajando a quienes están estrechamente vinculados en el tratamiento individual diario, porque definitivamente y de
+10:12
+todas maneras no vamos a tener a un BP tratando datos personales de manera directa. vamos a tener personas
+10:18
+específicamente comisionadas tratando los datos, que ni siquiera va a ser el oficial de cumplimiento o el o el
+10:23
+oficial de datos personales como tal, sino que van a ser individualmente las personas que están en contacto con el
+10:29
+negocio todos los días, ¿no? Y tratar datos en realidad es tan cosustancial, como se comentaba hace un momento, como
+10:37
+el solo hecho de que el negocio exista. ¿Por qué? Porque el negocio está vinculado a personas y las personas somos los titulares de los datos por el
+10:43
+solo hecho de serlos. Desde el momento en que tratamos el nombre, el DNI, las imágenes en los campamentos mineros,
+10:50
+yendo un poco más a la parte operativa del negocio, al momento de ingresar, si tenemos cámaras de vigilancia
+10:55
+e si tenemos un registro de contratistas, terceros proveedores, contratos, en absolutamente todo el foco
+11:01
+del negocio está el tema de datos personales. Ahora, ¿cómo generar además otra
+11:07
+práctica de gobernanza que se sume al buen gobierno corporativo y a que el líder más alto de la organización esté
+11:13
+convencido de que hay que aplicarlo y cascadear a la vez en la organización directamente? Es generar alianzas
+11:19
+seguramente con los principales proveedores, porque un eje [carraspeo] sustancial y crítico de la gobernanza
+11:25
+para efectos del cumplimiento va vinculado a contratistas. Las contratistas seguramente son en mayoría
+11:31
+quienes ocupan físicamente el el modelo del negocio operativamente un campamento minero. Entonces, hay que estar
+11:38
+convencidos de que esto no solamente pasa por meter cláusulas contractuales lo suficientemente duras, robustas,
+11:44
+sostenibles en los contratos, que sería lo que de pronto se nos ocurre primero para poder alcanzar a las contratistas
+11:51
+en este despliegue de esfuerzos, sino también hacer un du diligence antes, conocer qué tipo de política de
+11:57
+tratamiento de datos personales hacen estas contratistas, saber si van a tratar datos fuera del país, por
+12:03
+ejemplo, el flujo transfronterizo, que es un tema bien importante y que Aún cuando hoy día todavía la autoridad de
+12:09
+datos no nos ha dicho a nivel Perú en qué países podemos confiar de que el tratamiento ya es el adecuado, por lo
+12:15
+menos tener una aproximación a la legislación extranjera de los países donde nuestras contratistas,
+12:20
+proveedores, terceros, aleos estratégicos y nosotros mismos vamos a alojar información que esté fuera de
+12:26
+Perú y que por lo menos nos puedan garantizar que frente a un ataque, un ciberataque o una incidencia de datos
+12:32
+van a estar en la suficiente capacidad de respuesta como lo haríamos nosotros. ¿Y eso por qué? Porque los plazos son
+12:37
+bastante exprés, son plazos de 48 horas en los que nosotros como organización tendríamos que reportar a la autoridad
+12:42
+de datos, ponerle paños fríos al tema y reportar qué medidas de control vamos a implementar, comunicar a los titulares
+12:49
+de los datos de sustracción. Entonces es un tema de generar esta suerte de articulación con las contratistas,
+12:55
+asegurándonos de manera permanente que esto va a fluir. Y un tema adicional que yo diría, y
+13:01
+tomando un poco las palabras de de mi compañero que me predecesó, del predecesor, es que hay que hay que
+13:08
+generar también accountability, ¿no? accountability, ver esto como un cambio de mindset también, porque
+13:14
+definitivamente es distinto cumplir por cumplir la norma, que es como muchas veces actuamos de manera reactiva para
+13:22
+convertirnos en un agente preventivo y yo diría que hasta estratégico, o sea, no esperar a que venga el problema, sino
+13:29
+anticiparnos al problema y no solo anticiparnos, sino desde el buen gobierno corporativo, así como tenemos
+13:34
+un modelo de cumplimiento y una política de compliance, alinear el tema de datos personales. Eso es lo que podría
+13:41
+compartir. Gracias, Jimena. Muy interesante lo dos temas que mencionas. El primero, eh, que
+13:49
+el líder tiene que estar convencido, ¿no? El líder tiene que estar convencido de los beneficios que tiene implementar
+13:55
+un programa de de protección de datos para poder hacer este esta cascada que
+14:00
+tú mencionas, ¿no? Y el otro punto importante que que me pareció superinesante es esta alianza con
+14:06
+proveedores. A veces nos enfocamos solo en la empresa, ¿no? En que estén
+14:11
+capacitados hasta el último eslabón. Sin embargo, no nos ponemos a pensar en los
+14:16
+proveedores, que son, como tú dices, parte importante de toda esta cadena. Eh, con lo cual hay que pensar también
+14:22
+capacitaciones para proveedores. Es super importante que ellos estén al tanto de estos temas.
+14:28
+Eh, a ver, bueno, seguimos con Renato.
+14:33
+Renato, e a ti, este te hacemos la siguiente pregunta. en un grupo
+14:38
+empresarial donde conviven decisiones comerciales, operativas y corporativas y donde distintas áreas pueden tener
+14:45
+necesidades diversas de tratamiento de información. Uno de los grandes retos es evitar que
+14:50
+la privacidad se gestione de manera fragmentada. Desde tu experiencia, ¿qué prácticas, estructuras o espacios de
+14:57
+coordinación permiten que la alta dirección impulse una gestión transversal de la protección de datos
+15:02
+personales? alíneae a las distintas áreas criterios consistentes y evite vacíos o fricciones que terminen
+15:09
+debilitando la gobernanza interna. Buenas tardes con todos. Gracias, Marel Pilar por la pregunta. Eh, como bien
+15:16
+mencionas, en un grupo empresarial y en las empresas en realidad cada área tiene necesidades de tratamiento distinto de
+15:23
+datos, ¿no? Esto va a depender de la función que tenga cada una de las áreas dentro de la organización, del tipo de
+15:28
+datos que necesite también para cumplir este tipo de funciones o también de la relación que tengan con los titulares de
+15:34
+los datos, ya sea clientes, trabajadores, proveedores, [resoplido] etcétera. Y justamente ahí este reto,
+15:39
+¿no?, de que cada área, digamos, realice un tratamiento, gestione la privacidad de manera independiente con base a
+15:45
+criterios aislados, ¿no? Entonces, eh el punto de partida ahí es eh establecer
+15:50
+una un marco de gobernanza con criterios transversales, ¿no? Poner las reglas de
+15:55
+del juego claro, ¿no? Y y para eso es necesario pues primero asignar roles,
+16:01
+¿no? roles desde el directorio, la gerencia general, el oficial de datos personales, los responsables también de
+16:07
+los bancos de datos, entender justamente eh qué información se trata, qué información necesitas para llevar a cabo
+16:14
+tus actividades, con qué terceros compartes o no compartes información, qué áreas internas intervienen, qué
+16:20
+tecnologías usas. Entonces, eso es muy importante como punto de partida. Adicionalmente, tener políticas,
+16:25
+procedimientos claros, ¿no? Una política de general de protección de datos, una política de escritorios limpios,
+16:31
+pantallas bloqueadas, procedimientos para gestionar incidentes de seguridad, por ejemplo, eh procedimientos para
+16:37
+atender los derechos arco, quién hace qué, en qué momento se reporta, con qué plazos. Entonces, digamos que eh primero
+16:45
+establecer todo el marco normativo con líneas generales con las reglas del juego. Claro, y luego establecer mecanismos de supervisión interna, ¿no?
+16:52
+Pero en [carraspeo] la práctica sabemos que quien propone este marco de gobernanza viene a ser el oficial de
+16:57
+datos personales, ¿no? Entonces, es importante que el oficial también ahí conozca muy bien el negocio, tenga
+17:04
+bastante interacción con las áreas de negocio para conocer sus necesidades y con base a eso hacer una propuesta
+17:10
+eficiente de un marco de gobernanza. ¿Y cómo es que impulsa la alta dirección este marco de gobernanza? No, primero a
+17:15
+través de su aprobación formal, ¿no? La aprobación a través del máximo órgano de la empresa y además dando la pauta. Es
+17:22
+importante que la alta dirección de la pauta a los líderes, ¿no? Desde la gerencia general, los gerentes de línea,
+17:27
+las jefaturas y finalmente a todos los colaboradores. Entonces, una vez que tenemos el marco de gobernanza bien
+17:33
+definido, existe otra tarea muy importante que es que el mensaje baje y
+17:38
+llegue de manera adecuada a todos los colaboradores, porque podemos tener una estructura de gobernanza perfecta, muy
+17:44
+bien definida. con roles correctamente asignados, pero si la organización no conoce las reglas de juego,
+17:50
+definitivamente no nos va a servir. Y ahí justamente es otro reto trabajar en la cultura organizacional, ¿no? En la
+17:56
+práctica eh sí eh he sentido, digamos, mucho que que por más que propongamos un
+18:03
+marco de gobernanza muy sólido, si no trabajamos en la cultura organizacional, no nos sirve de mucho. Entonces, algunas
+18:09
+prácticas que se han servido y que también la alta dirección impulsa. es
+18:15
+justamente eh darle ese respaldo al oficial de datos para tener estos espacios de interacción con las áreas,
+18:20
+¿no? No solamente capacitaciones generales, porque ¿qué sucede en la práctica con las capacitaciones generales? El 100% de los conectados, un
+18:28
+pequeño porcentaje solamente está prestando atención o de repente al inicio de la relación laboral los
+18:33
+colaboradores reciben toda la documentación regulatoria de cumplimiento, splaff, protección de
+18:39
+datos personales, depende del sector, pero finalmente cumplirse con entregar
+18:44
+las políticas, los documentos, pero no lo entienden. Entonces es muy importante también tener este tipo de espacios.
+18:50
+¿Por qué? Porque cada línea de negocio tiene necesidades distintas, casuísticas de tratamientos distintos. Entonces, es
+18:57
+importante tener estos eh espacios de interacción. También como recomendación trabajar mucho de la mano con el área de
+19:03
+recursos humanos, ¿no? El área de comunicación interna para generar espacios de activaciones, boletines,
+19:10
+comunicados, o sea, que en realidad la protección de datos personales se vea desde todos los frentes y se entienda
+19:15
+esta importancia, porque muchas veces eh no se tiene mucho conocimiento sobre si
+19:20
+estamos o no estamos tratando datos personales o por ejemplo si estamos realizando tratamiento, ¿no? dice, "Ah,
+19:26
+no, pero solamente consulté la información. No he tratado información porque no la almacené." O de repente considero que esta este esta
+19:32
+característica no es un dato personal. Entonces es muy importante saber eso porque si entendemos muy bien cuándo
+19:38
+existe un dato personal, cuándo hay tratamiento, vamos a tener, digamos, otro tipo de de cuidado. Eh, también es
+19:45
+importante que el directorio, que la alta dirección en realidad eh genere espacios de interacción entre el oficial
+19:52
+y las líneas de negocio, porque muchas veces pasa que se tiene alguna iniciativa, por ejemplo, y desde el
+19:58
+inicio no se involucraron a las áreas regulatorias, por ejemplo, de compliance, ¿no? incluyendo el oficial de datos personales y uno se entera,
+20:05
+obviamente, cuando ya la propuesta está en marcha y y comienzas a identificar los riesgos, pero cómo resuelves en ese
+20:11
+momento cuando ya digamos la iniciativa salió al mercado. Entonces es importante generar este tipo de espacios también,
+20:17
+¿no? Como comités interdisciplinarios al momento de que se revisen nuevas iniciativas, iniciativas de innovación,
+20:23
+de de nuevos proyectos, nuevos negocios, [resoplido] también bueno de de que el directorio también esté informado a
+20:29
+través de periódicamente, ¿no? Informes periódicos. saber qué se trabajó en cierto periodo, qué riesgos se han
+20:35
+identificado y si también eh es necesaria la intervención del directorio para justamente impulsar los planes de
+20:40
+acción. Y finalmente considero que también es muy importante la asignación de recursos necesarios, ¿no?, de personal especializado, no solamente en
+20:47
+temas de datos personales, también en temas de ciberseguridad, seguridad de la información, eh y también asignación de
+20:53
+recursos para herramientas, digamos, que ayuden justamente a prevenir todo este tipo de incidentes y también realizar
+20:59
+auditorías, ¿no? Es muy importante porque la única forma de de entender si es que tu modelo viene funcionando o no
+21:05
+es que sea evaluado constantemente. Con base a eso se digamos se proponen las oportunidades de mejora y se elevan al
+21:13
+directorio. Entonces yo creo que esos factores son fundamentales para que la alta dirección impulse una gobernanza y
+21:18
+criterios transversales. Y y ya solamente para para cerrar, yo creo que también y lo que me he dado cuenta es
+21:24
+que el cambio de mentalidad empieza cuando la alta dirección busca eh
+21:30
+retribuir la confianza que todas las partes interesadas de sus clientes, proveedores, trabajadores, depositaron
+21:36
+al entregar los datos personales y los retribuye, digamos, cuidando y protegiendo bien esta información,
+21:42
+siendo transparente información, estableciendo medidas de seguridad adecuadas para protegerla. Entonces, yo
+21:47
+creo que ahí comienza, digamos, el cambio y es un y es un impulso que da la alta dirección justamente este para que
+21:54
+se realice una adecuada gestión en tema de protección de datos personales.
+22:00
+Gracias, Renato. Este último punto, de hecho, había anotado varios puntos interesantes de de tus comentarios, pero
+22:06
+creo que este último punto es muy relevante. Comenzamos con el tema de la rentabilidad, pero creo que este punto
+22:12
+de la responsabilidad social, ¿no?, que que es la sostenibilidad finalmente que
+22:19
+tienen las empresas de cuidar los datos y de cuidar de la identidad en sí de las
+22:24
+personas. Creo que debería ser lo más relevante y de donde debe partir esta protección. [carraspeo]
+22:30
+Otro punto, este que me parece eh también importante es este tema que mencionas de que el DPO, que finalmente
+22:38
+es el encargado de expandir esta cultura de protección de datos en la organización conozca el negocio. Esto es
+22:45
+sumamente importante porque si nosotros como digamos como los encargados de
+22:50
+estos temas no conocemos del negocio, va a ser difícil que podamos interiorizarlo en la cultura de la organización.
+22:57
+Gracias, Renato. Ahora pasamos con Fabián. Gracias por acompañarnos. Eh, la pregunta que tengo
+23:04
+para ti es, ¿qué diferencias fundamentales ves entre las empresas que construyen una cultura de prevención y
+23:10
+gestión y entre aquellas que solo responden a contingencias?
+23:15
+Bueno, la primer gran diferencia es el hecho de que no estamos hablando de
+23:22
+empresas que a lo largo de su camino se transformen en empresas resilientes,
+23:28
+digamos, ¿no? O sea, yo creo que independientemente de la práctica, digo,
+23:33
+puedo hablar de privacidad de datos, puedo hablar de seguridad de la información, gestión tecnológica,
+23:40
+etcétera, todo requiere de alguna manera un tratamiento metodológico de de alguna
+23:45
+forma. Lo lo que a mí me asegura el tratamiento metodológico
+23:52
+es el hecho de fortalecer a la organización también, no solamente desde el punto de
+23:57
+vista de la resiliencia, sino del hecho de que crezca en su madurez y asegure
+24:05
+cultura dentro de la organización. Sí, que es un poco lo que comentabas, perdón, era ahí va [resoplido] este e
+24:14
+que es necesario, digamos, este tema de de reforzar el tema cultural dentro de
+24:20
+la organización porque de alguna manera es lo que va a asegurar el negocio, ¿se
+24:26
+entiende? y la única forma que tengo de asegurar esto es estableciendo
+24:32
+políticas, como decía Renato, políticas, normas, procedimientos,
+24:37
+roles bien definidos, eh funciones bien definidas en donde haya
+24:43
+responsabilidades y alcances dentro de esas funciones, digamos, ¿no? en en donde yo pueda
+24:50
+establecer de alguna manera también puntos de control. Eh, hay una,
+24:58
+en este sentido hay una forma de poder llevar adelante un marco normativo dentro de una organización en donde está
+25:05
+asociado, sobre todo, a nivel de procedimiento, es tener bien en claro para qué hago cada documento, ¿no? una
+25:12
+política me define lo que debo de hacer. Tengo una normativa que me dice cuál es
+25:18
+el enfoque de alcance de eso que debo de hacer y después un procedimiento me establece hitos que va a tener el
+25:25
+proceso documentado y por cada hito tengo un responsable y un registro y yo
+25:32
+para poder obtener ese registro tengo que poner un control. Entonces, de alguna manera, si también soy
+25:38
+metodológico en en eso, eh todo decanta de de forma sencilla, tanto para quien
+25:46
+opera como para quien controla, digo, ¿no? Entonces yo creo que que principalmente la la gran difer y que
+25:54
+hace a a que una organización persista a lo largo del tiempo, digamos, ¿no?
+26:01
+Perfecto, muchas gracias, Fabián. Exacto. Eh, creo que lo que mencionas es
+26:07
+real. La madurez y la resiliencia que puedas este que que deban deben tener
+26:13
+las empresas nace de ahí, ¿no? De tener una cultura eh de cumplimiento, de ética
+26:18
+y de cumplimiento respecto de la protección de datos y no solo ir parchando este contingencias que que
+26:25
+puedan presentarse en el camino. Bueno, gracias a todos por por las respuestas a esta ronda de preguntas. Ahora vamos a
+26:32
+ir este a un poco a dialogar sobre la base de lo que hemos eh comentado hasta
+26:38
+el momento y este con algunas ideas principales y
+26:43
+ahí vamos a ir este interviniendo de acuerdo a lo que ustedes consideren. ¿Sí? Entonces, a ver, eh la primera idea
+26:51
+que tenemos es cuando hablamos de protección de datos personales dentro de una organización, ¿qué resulta más
+26:56
+determinante en la práctica para que esta agenda que se consolide realmente? La existencia de políticas y estructuras
+27:03
+formales o el involucramiento visible y sostenido de la alta dirección en las decisiones clave desde las distintas
+27:10
+industrias donde están. ¿Cómo han visto que ese liderazgo marca una diferencia
+27:15
+real? de repente nos pueden ahí compartir algunos ejemplos que prácticos
+27:20
+que hayan tenido de su experiencia. Eh, ¿quién quiere comar?
+27:27
+Yo yo quería apuntar en adción a lo que ya hemos eh comentado y que tiene vinculación con este compromiso de la
+27:33
+alta dirección a un factor que creo que no es menor, sino que creo que más bien es bien relevante, que es esta suerte de
+27:40
+independencia que tiene que tener el oficial de datos. ¿Por qué? Porque a veces eh se designa como oficial de
+27:47
+datos. Si van en buena cuenta, la norma no nos dice que el oficial no puede ser ya un trabajador de la organización o un
+27:54
+trabajador que cumpla cierto perfil, por ejemplo, como el encargado de TI que ya está gestionando temas de seguridad de
+28:00
+la información, no te pone ese candado, más bien te da un perfil distinto, algunas características un poco más de
+28:05
+formación, de expertiz. Eh, algo que sí creo que es bien importante y esto es parecido al si
+28:12
+hacemos un símil al oficial de cumplimiento, es que tiene que hacer una persona que tenga independencia para que
+28:17
+pueda implementar de manera limpia, muy prolija, todas estas políticas que se necesita y sobre todo es una persona que
+28:23
+va a rendirle cuentas probablemente a la alta dirección de todo el trabajo que viene haciendo con su venia, con su
+28:28
+autorización, con su empuje, impulso, etcétera. E pero además alguien que
+28:33
+quiere hacer las cosas bien. ¿Por qué? Porque al final del día el oficial de datos probablemente en todo este esquema
+28:39
+de liderazgo que va que va a tener detrás de la implementación de las políticas, revisiones, auditorías, etcétera, es probablemente la persona
+28:47
+que más va a conocer de cómo es que a nivel interno se está tratando estos datos
+28:52
+y de hecho es el punto de contacto también con la autoridad. O sea, si el día de mañana hay algún tema, y esto
+28:59
+creo que lo he visto en un par de casos en minería, ahora conversando con algunos colegas, en que la autoridad de
+29:04
+datos va a tener algún acceso a información vinculada a este tema, va a ser a través del oficial de datos.
+29:09
+Entonces tiene que ser una persona independiente, una persona con recursos, una persona con la suficiente
+29:14
+confiabilidad para que la alta dirección, la empresa y en general esté bien representada y pueda estar en la
+29:20
+capacidad también de filtrar adecuadamente información tanto hacia adentro como hacia afuera, la autoridad
+29:26
+de datos si es que esto fuera requerido. [carraspeo] Entonces, a veces decimos que sea el gerente legal, ¿no? o que sea
+29:33
+de pronto el encargado de seguridad de la información y no hay compatibilidad en compartir roles. Ojo, esto no es
+29:40
+nuestra no está proscrito en la norma, pero sí creo que el gerente legal, por ejemplo, que está más abocado a temas de
+29:46
+cumplimiento como tal, desde un enfoque un poco más integral, no va a tener de pronto el tiempo, el margen de dedicarse
+29:54
+a una materia que no es menor. A veces pensamos en en temas de datos personales y decimos, "Ah, bueno, es como cumplir
+30:00
+un eslleón más de la normativa." Y no, en realidad el tema de datos personales, si es que revisamos la norma, es un tema
+30:06
+bien complejo, bien amplio, que como han dicho hace rato mi mis compañeros, eh demanda una mirada bien integral de todo
+30:13
+el negocio. Y en minería, por lo menos, como creo que suele pasar, creo que esto
+30:19
+es un fenómeno bien común de todos los profesionales de áreas de soporte en minería, hay que conocer a mucho detalle
+30:25
+el negocio porque así como mañana comunicación interna sale a la comunidad a lanzar un programa de becas, por decir
+30:32
+algo, y documenta eh a las personas beneficiarias con las becas y luego
+30:37
+lanza en en la página web de la empresa como imagen a estas personas, tiene que
+30:43
+saber que tiene Hay que pedir un consentimiento a esas personas para poder vincular sus imágenes en la en la plataforma web, ¿no? O como si el día de
+30:50
+mañana, por ejemplo, queremos implementar algún programa de inteligencia artificial. Hoy día, justamente conversaba con con el encargo
+30:56
+de ciberseguridad de la empresa donde trabajo. Eh, tenemos que saber que esta empresa, esta app, esta IA que queremos
+31:02
+utilizar, por lo menos tiene las garantías necesarias para que los los datos que se van a tratar y que van a
+31:08
+estar vinculados en ese soporte eh virtual van a ser los mínimos, pero para
+31:14
+que el oficial de datos estén todas esas tiene que tener una interacción muy de tú a tú, muy del día a día, muy del
+31:19
+negocio y estar en todas en realidad, ¿no? Entonces, hay que saber diversificar un poco también y por eso
+31:26
+yo si diría que tiene que ser una persona que tenga la posibilidad real e
+31:32
+de poder tener acceso a esta información, que conozca muy de cerca los líderes del negocio, que esté muy metido en las actividades y que tenga la
+31:39
+capacidad no solamente de levantar la mano cuando ve una incidencia, sino una capacidad de acompañar. ¿Por qué? Porque
+31:46
+en el Perú, lamentablemente, aunque esta norma no es realmente nueva, se ha modificado hace no mucho, pero ya tiene
+31:52
+sus años, eh, no hay mucho conocimiento y la gente te suele escuchar hablar de
+31:58
+datos y te dice, "Pero, ¿qué es esto?", ¿no? O sea, sin sin ir muy lejos y saliendo quizá un poco del del rubro
+32:04
+minero, y eso se discutió hace unos unas semanas, me parece, con la autoridad.
+32:09
+Cuando uno va a visitar a una persona a su casa o va a un edificio y el vigilante nos solicita llenar el formato
+32:15
+de visitas, está tratando datos y el hombre no se entera de que está tratando datos. Entonces es un nivel que va en
+32:22
+realidad de lo cotidiano a los procesos más complejos y sí creo que hay que tener mucho tacto para acompañar este
+32:29
+proceso para hacerlo eficaz y eficiente. Gracias Jimena. ¿Alguien más que quiera
+32:35
+compartir su experiencia? Bueno, complementando un poco lo que
+32:40
+menciona [carraspeo] Jimena y también justamente atendiendo a la pregunta, yo creo que ambos factores se complementan,
+32:45
+¿no? Porque si bien por un lado es muy importante, como lo mencioné hace un momento, tener una estructura sólida,
+32:50
+[carraspeo] ¿no? Tanto de políticas, procedimientos, guías, responsabilidades correctamente asignadas, si es que tú
+32:56
+tienes todo ese marco, pero no existe un involucramiento de la alta dirección en impulsar que se ejecuten
+33:02
+[resoplido] mucho, ¿no? Entonces, yo creo que ambos factores son complementarios y también
+33:09
+es importante que justamente se le dé ese refuerzo y esa importancia al oficial de datos personales, ¿no? Que
+33:15
+cuando el oficial de datos personales identifique riesgos que se tomen en cuenta, ¿no? Y en realidad eh poder
+33:22
+vender la idea también es muy importante de que el oficial de datos personales es un aliado, es quien en en líneas
+33:29
+generales va a cuidar en cierta medida la a la organización y a los datos personales de todos los titulares que la
+33:35
+empresa ha recopilado, porque valgan verdades, pues las empresas eh subsisten por sus clientes, entonces tienes que
+33:42
+cuidar adecuadamente esa información, pero si no se tiene en claro ese concepto y esa importancia, simplemente
+33:49
+eh las recomendaciones no se van a tomar en cuenta. Y si bien eh a veces eh este
+33:54
+no es la idea chocar con el negocio, porque no puede chocar con la rentabilidad del negocio, es importante
+33:59
+proponer salidas también. Si bien a veces la norma te puede dar ciertas salidas y no simplemente decir, "¿Sabes
+34:05
+qué? Esto no se puede hacer porque estás vulnerando la norma y la sanción es esta." O sea, si llegas con ese mensaje,
+34:10
+ya tienes un punto en contra, ¿no? Tú tienes que ver qué alternativas este puedes ofrecerle al negocio para que
+34:17
+pueda implementar adecuadamente esas iniciativas. Y en realidad es muy importante también conocer no solamente
+34:23
+la ley reglamento, sino todas las opiniones consultivas que emite la autoridad, porque a veces uno cree que está realizando muy bien las cosas hasta
+34:30
+que sancionaron a al vecino y te das cuenta qué criterio ha utilizado la autoridad para sancionar y a veces hasta
+34:36
+algunos pueden ser contradictorios. Entonces es muy importante eso también,
+34:41
+¿no? Entonces yo creo que que eso también es es [carraspeo] una digamos un aporte fundamental que el la alta
+34:48
+dirección eh también de ese soporte y ese apoyo en las decisiones y recomendaciones que da el oficial de
+34:54
+datos, ¿no? Excelente. Fabián, creo que querías compartir algo tú o pasamos a la
+35:00
+siguiente. No, no, si si querés pasamos a la siguiente. Los chicos [risas] completarán bastante. Sí. Bueno, este, gracias Jimena Renato,
+35:07
+de hecho e es muy importante, todos los puntos que he mencionado son bastante
+35:13
+relevantes, pero el tema de conocer bien eh la regulación desde desde el DPO, que
+35:21
+es quien se se encarga de implementar, es super importante. Como dices, no basta la ley al reglamento, hay este
+35:28
+directivas, también hay e digamos guías que presenta la autoridad de Protección
+35:34
+de Datos, que muchos no la conocen. De hecho, yo yo me me sorprendo cuando personas que se dedican a la protección
+35:40
+de datos no conocen que existe la guía, por ejemplo, del deber de informar que está hace muchos años. Entonces creo que
+35:46
+es importante y como mencionabas tú, Jimena, que le demos la relevancia que
+35:51
+tiene la protección de los datos en el sentido de que, a ver, yo yo he sido oficial de cumplimiento normativo en un
+35:57
+banco, no creo que Armando también has estado oficial de cumplimiento normativo y son muchas aristas, ¿no? en un banco
+36:04
+tiene ese gestión operacional de riesgo operacional, de riesgo de crédito, lado de activos, o sea, son son demasiadas
+36:10
+aristas que tú dices, una persona, la verdad no se va a dar abasto para el cumplimiento de todas esas áreas. Y
+36:17
+cuando le pones además el tema de protección de datos, es un mundo
+36:23
+totalmente distinto, ¿no? En donde de repente todos piensan de nuevo en la ley y el reglamento, okay, cumplamos la ley
+36:29
+del reglamento. Pero no, e es un mundo de responsabilidad que tiene la empresa
+36:34
+respecto de la identidad, no solamente de sus clientes, no siempre hablamos de los clientes, pero también están los
+36:40
+empleados. Hay empresas que tienen muchísimos empleados que a los que tienen que cuidar y respecto a los
+36:46
+cuales tienen que cuidar la identidad, eh inclusive proveedores que son personas naturales, todos los
+36:51
+stakeholders, personas naturales, ¿no? Entonces creo que esos puntos son super importantes. Pasamos a la siguiente
+36:57
+idea. E en sectores con realidades tan distintas como el sistema financiero, la
+37:02
+minería o o los grupos empresariales, ¿cuáles son los principales obstáculos que enfrenta la alta dirección para
+37:09
+incorporar la privacidad como parte del gobierno? corporativo y no solo como una obligación legal o técnica, donde suelen
+37:15
+aparecer las mayores resistencias o brechas. Creo que este es un punto importante. No sé de repente, Armando o
+37:23
+Fabián nos pueden comentar. [carraspeo]
+37:28
+breve arrango, digamos, un poco. Yo creo que la [resoplido] la principal
+37:34
+dificultad es el hecho de la falta de involucramiento, digamos, ¿no? Eh, hay
+37:39
+una cuestión que creo que tiene más que ver con el hecho de no entender que los datos es
+37:46
+parte del negocio, digamos, ¿no? Y y un poco lo que les comentaba cuando les hablaba de gestión de proyectos en
+37:52
+general y es el hecho de no entender de que yo quiero ser operativo, quiero
+37:57
+ganar dinero, etcétera, pero si no miro y no abordo todos los riesgos que están alrededor de mi negocio, mi negocio va a
+38:04
+durar nada, digamos, ¿no? Y posiblemente pierda más de lo que pensaba ganar.
+38:10
+Entonces, eh ahí es donde yo creo que principalmente está la deficiencia y
+38:16
+tiene que ver con una cuestión de deficiencia, de falta de liderazgo por no entender el problema principalmente.
+38:22
+ustedes piensen que en relación a a los datos y yendo al punto más operativo,
+38:30
+eh yo venía haciendo históricamente clasificación de información en función
+38:36
+de lo que me decía la vieja 27001, confidencialidad, integridad, disponibilidad y hoy por hoy y por eso
+38:44
+también lo que mencionaba de los diferentes roles, ¿no? Ciso, el DPO y el CDO.
+38:50
+Si yo no entiendo que necesito un CDO para poder entender los atributos que a
+38:57
+su vez tienen esos datos, no solamente una clasificación básica, me va a ser
+39:03
+complicado poder entender cuál es la forma en la cual los tengo que tratar, digamos, ¿no? Cuando hablamos de
+39:10
+atributos, yo hoy por hoy, más allá de lo que me pide la ley también para poder
+39:15
+entender como tengo que protegerlo, una de las cosas que tengo que entender es cuál es la fuente del dato, si proviene
+39:22
+o no de una fuente legal o no, cuál es el el atributo en cuanto en cuanto al
+39:27
+formato del dato, ¿sí? cómo es que voy a trabajar el metadato, la información del
+39:34
+dato para poder aplicar, por ejemplo, eh algún tipo de herramienta. El DLP ya
+39:41
+quedó viejo, ¿no? El datal prevention, los sistemas para para poder gestionar de en forma automatizada datos ya
+39:48
+quedaron medio viejos, pero yo necesito estructurar un metadato para poder
+39:55
+trabajar con los datos en ese tipo de herramientas. para todo eso es un poco lo que yo les mostraba, ¿no?, de lo que
+40:01
+cuelga de ese CDO en donde hay una definición estratégica también de del
+40:06
+tema de los datos. Entonces, este nivel de abstracción que estamos haciendo muy difícilmente a nivel
+40:14
+[carraspeo] de dirección se se pueda llegar a ver y porque el mundo de ellos corre por
+40:21
+otro lugar, digamos, [carraspeo] ¿no? Y ahí es donde un poco
+40:27
+es que abordamos este tema de la concientización en todos los niveles de la organización y hacemos mucho hincapié
+40:35
+en que la dirección, hay una estadística que hicimos en una evaluación que hicimos hace un par de años, la
+40:43
+dirección y la alta gerencia son los usuarios menos concientizados en
+40:50
+cualquier organización de cualquier tipo Industria. Pregunta, ¿quién toma las tomalas del
+40:56
+centro de la compañía? Chan.
+41:02
+Gracias, Joyan. Armando, a ver, no sé si tienes algún comentario.
+41:07
+Y justo yo había iniciado la la intervención diciendo de que esto tiene que verse de una manera transversal,
+41:14
+holística y bastante integradora y que está en constante cambio. ¿Por qué? Porque no solamente basta con tener
+41:20
+políticas claras y que sea un checklist del área de legal o de cumplimiento, sino hay que verlo de una manera eh que
+41:27
+esto va constantemente evolucionar. ¿Por qué? Porque los negocios cambian. Todos sabemos y estamos convencidos que todos
+41:33
+los negocios funcionan con datos. Entonces, si eso se llega a internalizar y se llega a aterrizar a la alta dentro
+41:39
+de la alta dirección y en toda la estructura de la organización, vemos de que se va a crear una verdadera cultura
+41:44
+de cumplimiento. Entonces, si yo capacito correctamente y concientizo a mi colaborador sobre un adecuado uso de
+41:50
+la información, vemos que va a haber menos exposición a que mi colaborador haga un adecuado tratamiento de la
+41:56
+información o incumpla su obligación de confidencialidad. ¿Por qué? porque ya tiene conocimiento exactamente de cuáles
+42:01
+son las consecuencias que podría cargar pues un incumplimiento de ello. Entonces también la alta dirección tiene que
+42:08
+enfocarse de y velar por la reputación de la marca. Entonces, si cumple no
+42:14
+solamente con el tema regulatorio, sino también eh lo ve así como lo estoy mencionando, entonces va a haber una
+42:20
+mayor eh confianza por el lado del consumidor con respecto a la marca que de las empresas en general, ¿no?
+42:27
+Perfecto, gracias, Armando. E super importante lo que mencionan ambos. De
+42:33
+hecho, Fabián, e el punto que tocas es bien eh interesante porque claro, como
+42:39
+tú dices, la alta gerencia está en el día a día en otro lado, ¿no? No está no está en el tecnicismo, no está en
+42:46
+entender qué está pasando, cómo cómo tratas los datos. Entonces, justamente y
+42:51
+ahí un poco lo que mencionaba Jimena antes, era darle esa autonomía a las
+42:57
+personas encargadas de esto, ¿no? ¿A quién? al DPO, al Chief Data Officer, a
+43:02
+todos los que están involucrados y que tienen la tarea de aterrizar y esto y de
+43:10
+expandirlo a la organización, ¿no? Eh, si bien es cierto, la alta gerencia también debería estar involucrada, como
+43:15
+tú mencionas, y debería entenderlo para comprar justamente este el digamos la
+43:22
+implementación de esto en la organización. Creo que eh también es tarea de esta alta dirección darle esa
+43:28
+autonomía, autonomía no solamente funcional, sino inclusive económica al a
+43:34
+los encargados para que puedan implementar correctamente y adecuadamente esto en las organizaciones, ¿no?
+43:41
+Eh, vamos, creo que con una todavía tenemos algo más de tiempo e con una
+43:47
+tercera idea. La protección de datos exige hoy una coordinación mucho más estrecha entre negocio, legal,
+43:53
+compliance, tecnología, seguridad y operación. Desde su experiencia, ¿qué prácticas o mecanismos consideran más
+43:59
+efectivos para evitar una gestión fragmentada y lograr que la privacidad se gobierne con criterios consistentes
+44:05
+en toda la organización? Aquí de repente podemos, creo que Fabián quiere comenzar
+44:11
+eh para no, [carraspeo]
+44:16
+de repente los podemos ayudar con un poco de ejemplos. Sí. Eh eh breve, chicos. Así les paso
+44:23
+también la data. Em, yo creo que la integración
+44:30
+o o el hecho de de cómo evitar esa fragmentación [resoplido] está asociada a poder
+44:37
+identificar cuál es el rol de cada uno de los responsables de área dentro de
+44:44
+distintas gestiones dentro de la compañía. ejemplo, y para mí hay al
+44:50
+menos tres o cuatro gestiones básicas. Una, la gestión de proyectos
+44:57
+tiene que ser un evento multidisciplinario. Yo no puedo, suponganse, yo gerente de
+45:03
+negocio, me siento únicamente con el gerente de sistemas a desarrollar un
+45:09
+producto o un servicio tecnológico en donde no le pregunto al de compliance,
+45:15
+no le pregunto al al DPO, al CISO, temas relacionados con no ni siquiera me fijo
+45:23
+en los riesgos. digo, no consulto ni al área de riesgos. [carraspeo] En el mismo sentido, la
+45:29
+gestión del cambio también es un lugar en donde se encuentran este tipo de
+45:34
+situaciones. Sí. Y en aquellas gestiones en donde yo
+45:41
+debería de estar preparándome en forma preventiva,
+45:46
+como lo es la gestión de incidentes, la gestión de crisis y la gestión de continuidad,
+45:52
+que es donde yo hago como una especie de cónclave con los distintos responsables
+45:58
+y definimos cuál es la forma de actuar frente a determinado tipo de escenarios, digamos, ¿no? Entonces, e esto también
+46:07
+requiere metodología, como lo hablábamos antes, es imposible hacerlo en en un
+46:12
+espacio en donde no tengo ya una práctica de la metodología, pero bueno, habría que abordar, digamos, en cómo
+46:19
+participa dentro de estos procesos que mencioné cada uno de los responsables, ¿no? En particular.
+46:28
+Bueno, yo quería complementar este mencionando la importancia justamente
+46:33
+para que para generar esta sinergia entre las áreas y que vean la la privacidad en conjunto de establecer
+46:39
+comités multidisciplinarios para nuevas iniciativas, nuevos negocios. Eso por un lado, como ya lo había comentado. Y
+46:45
+también eh que el oficial de datos personales pueda entrar en ciertos
+46:50
+procesos que involucren tratamiento de datos, ¿no? O sea, poder identificarlos es clave. ¿Por qué? Porque ahí tú puedes
+46:57
+coordinar con el dueño del proceso y hacer ajustes. Ya. Bueno, si acá hay involucramiento de datos, coordinas con
+47:03
+el oficial de datos personales o realizas la consulta. Entonces, uno se da cuenta porque ya a las áreas que
+47:08
+inicialmente de repente hacían cada quien sus actividades y no te no te tomaban en consideración, te das cuenta
+47:13
+porque comienzan a despertar distintos tipos de consultas. Oye, ¿puedo hacer esto? Actualmente en la práctica realizo
+47:19
+ABC. Está bien. Ah, okay. Entonces, se comienzan a realizar los ajustes eh correspondientes. Y también, por
+47:25
+ejemplo, un tema muy importante es la gestión con proveedores, ¿no? Porque recordemos que no todos los proveedores
+47:31
+van a tener acceso a datos, pero hay proveedores que pueden ser encargados de tratamiento y esos encargados de
+47:36
+tratamiento tienen obligaciones específicas que cumplir de cara a la regulación que establece actualmente la
+47:42
+norma. Si tú no conoces cuál es tu relación de proveedores de terceros, quiénes son encargados o no, cómo sabes
+47:48
+o cómo haces cumplir, digamos, ciertas obligaciones que te exige la norma o cómo le informas al titular de los datos
+47:53
+con quién estás compartiendo su información, cómo evalúa si es que la información se va a trasladar a un país
+47:59
+seguro de destino o no. Entonces, la única forma es conocer y conocer los procesos y que el oficial de datos
+48:05
+personales esté involucrado en todos esos procesos, procedimientos para justamente poder generar esta sinergia y
+48:11
+este trabajo de privacidad conjunto entre todas las áreas de negocio, ¿no? Gracias, Renato. Jimena, Armando, no sé
+48:18
+si ustedes tienen algún alguna idea. Solo para cerrar las ideas, creo que
+48:23
+esto es un trabajo en pared, ¿no? Es un trabajo de ida y vuelta porque al final
+48:29
+del día, como han dicho mi, bueno, mis compañeros antes, e no hay posibilidad
+48:35
+de que esto se centralice en una sola persona. Esto es es una tarea que tiene
+48:41
+que estar bien metida en el chip, en la mentalidad de todos los que están involucrados. E y si bien el oficial de datos puede
+48:47
+ser un una suerte como de actor orientativo, como decíaso, al final del
+48:53
+día no es directamente quien trata en el día a día, ni ni quien ejecuta directamente los procedimientos de los
+48:59
+tratamientos, ¿no? Más bien es quien acompaña, quien ayuda, quién facilita, pero definitivamente es un ping pong,
+49:05
+¿no? Es un trabajo de vuelta. Perfecto. Gracias. Gracias a todos.
+49:12
+Dos ideas más para para ir cerrando un poco el panel. La primera, ¿qué
+49:17
+experiencias tienen respecto de el gobierno corporativo, que es del que venimos hablando a nivel de grupos
+49:25
+empresariales? No sé si alguien nos nos quiera compartir este un poco su visión,
+49:30
+eh cuáles son los retos [carraspeo] que hay, ¿no? Porque si bien es cierto estamos hablando de los retos a nivel de
+49:35
+una organización, también hay retos en aquellas organizaciones este en donde
+49:41
+está involucrada una matriz o diferentes miembros que conforman un grupo empresarial. No sé si alguien nos quiera
+49:48
+dar su input compartir algo al respecto. [carraspeo] Sí, definitivamente es un reto. Nosotros
+49:54
+pertenecemos a una matriz corporativa global en donde desde la matriz bajan diversas eh políticas normativas, pero
+50:02
+igual eso tenemos que tropicalizarlo y aterrizarlo a la geografía, a nuestra realidad local, en donde tiene que aplicarse de por sí nuestra regulación.
+50:09
+Pero nosotros tomamos como buenas prácticas eh en lo particular en protección de datos personales el GDPR
+50:15
+que es la regulación europea, ya que es una norma muy garantista, bastante alineada a nuestra regulación actual, al
+50:21
+nuevo reglamento de protección de datos personales y eso ha hecho de que de manera preventiva nosotros eh
+50:29
+a nivel corporativo lo podamos implementar tanto en todas las empresas que conforman al grupo local. Entonces,
+50:36
+si ha sido un reto, ¿por qué? porque ha tenido que hacer un proceso de primero orientativo, después materializarlo
+50:43
+dentro del documento en sí y después en la práctica, ver cómo funciona, cómo lo vamos a aplicar. Eh, y eso lo hacemos a
+50:50
+través de un trabajo en conjunto. Por eso que yo había mencionado que eso esto se tiene que ver desde una manera
+50:55
+transversal y holística, en donde todos participamos, desde la alta dirección hasta los colaboradores que tratan datos
+51:01
+personales, ¿no? Y bueno, nosotros lo vemos desde diversas
+51:07
+perspectivas el modelo de gobierno en en lo relacionado a protección de datos personales. Tenemos un modelo de
+51:12
+gobierno normativo, ya que están todas las normativas internas y también las externas.
+51:17
+Bueno, no normativas externas, sino políticas. ¿Qué es lo que te pide la regulación? Por ejemplo, tener la política de privacidad publicada en la
+51:24
+web de la política de cookies, el informativo de vigilancia paracar al cliente o prospecto del cliente, pero
+51:29
+internamente también tenemos nuestras políticas internas que va más enfocado a cómo nosotros como organización vamos a
+51:35
+actuar para realizar un adecuado tratamiento de la información que pueden ser normativas en protección de datos personales, para realizar las
+51:42
+transferencias internacionales, para gestionar los incidentes de seguridad. Entonces, tenemos un modelo de gobierno
+51:48
+referido a normas. Después también tenemos otro modelo referido a todo lo que son los registros, actividades y
+51:53
+tratamientos, que es más un tema operativo que va enfocado a cómo toda la organización trata los datos personales,
+52:01
+lo tenemos monitoreado los bancos de datos y quiénes son los responsables como tal, ¿no? Y como último tenemos ya
+52:07
+el modelo de gobierno de todo lo relacionado a capacitaciones, concientizaciones a los colaboradores,
+52:13
+cultura, ya en donde nosotros de manera periódica y de manera reiterativa
+52:19
+trimestralmente pues estamos lanzando píldoras, hacemos capacitaciones no solamente anuales, sino también nos
+52:25
+enfocamos en las áreas de negocio donde hay una mayor criticidad en tratamiento de datos, por ejemplo, eh inteligencia
+52:32
+comercial, la parte comercial en sí para hacer una una capacitación directa para en sí internalizar dentro del
+52:38
+colaborador, pues un adecuado tratamiento de la información y también pues saber bueno y que el colaborador
+52:44
+sepa exactamente qué respuesta darle a un cliente cuando eh quiere saber
+52:50
+respecto a los tratamientos de datos que realizan sobre ellos, ¿no? Y eso de esa manera lo venimos gestionando a nivel
+52:56
+corporativo, ¿no? Perfecto. Modelo de gobierno. Gracias. ¿Alguien más? Renato, de
+53:01
+repente, bueno, mi en mi caso la figura es es
+53:06
+similar, ¿no? Es un grupo de empresas del sector construcción inmobiliaria. La matriz está en Chile. En Chile recién ha
+53:12
+entrado en vigencia una nueva ley de protección de datos personales. Es más, hace poco vino [carraspeo] la persona encargada ya para entender un poquito
+53:19
+cómo es que está funcionando aquí la implementación de esta regulación, ¿no? Si bien también hay hay criterios
+53:25
+generales, mucho también nos remitimos a Reglamento General de Protección de Datos eh de la Unión Europea, pero sí,
+53:31
+en definitiva, en en grupos de empresas es todo un reto, ¿no? Y en realidad eh es importante sentar criterios generales
+53:39
+primero y transversales, ¿no? Basándonos principalmente en los principios que te establece la norma, ¿no? Desde el
+53:45
+principio de finalidad, principio de consentimiento. Son criterios muy comunes en realidad, o sea, si lo vas a aplicar eh es muy es en legislación
+53:54
+comparada no vas a encontrar criterios que de repente tengan mucha diferencia. Entonces, para digamos dejar los
+54:00
+lineamientos claros en grupos de empresas, es importante partir desde lo general y luego ya voltear a lo
+54:06
+específico, ¿no? En mi caso, eh luego ya tuve que que ver con cada empresa cuál eran las necesidades, digamos, del
+54:12
+negocio para con base a eso ir haciendo ajustes, crear procedimientos, ¿no? Pero el punto de partida es establecer
+54:18
+criterios generales, ¿no? Desde los principios generales que te establece la normativa, cuáles son las obligaciones y
+54:24
+también dejar claro definitivamente qué prácticas no debes realizar. ¿no? Como por ejemplo la obtención de datos
+54:29
+personales a través de fuentes ilícitas. O sea, hay cosas que son criterios muy generales y que si los tienes en políticas y los bajas a la organización,
+54:37
+vas a establecer, digamos, un panorama más claro y te va a ayudar mucho ya cuando aterrices a políticas y
+54:43
+procedimientos específicos, ¿no? Entonces, desde mi experiencia en grupos empresariales y cómo se gestiona la
+54:49
+privacidad es lo que yo podría aportar, ¿no? Perfecto, gracias Renato.
+54:55
+Bueno, y para terminar esta última idea dice, "Mirando hacia los próximos años y considerando la
+55:01
+transformación digital, el aumento del escrutinio regulatorio y las crecientes expectativas de clientes, ciudadanos y
+55:07
+usuarios, ¿cómo visualizan la evolución del rol de la alta dirección en materia de privacidad? Para no escapar de del
+55:14
+[carraspeo] tema que nos convoca, ¿qué decisiones creen que las organizaciones deberían empezar a priorizar desde hoy
+55:20
+para fortalecer su madurez en esta materia? Y además si es que ven que si
+55:27
+es que las normas necesitan algún cambio o si es simplemente cumplirlas como
+55:32
+están. Creo que esta la pueden responder todos.
+55:38
+Mira, esta pregunta en realidad nos lleva a pensar en predictibilidad porque algo que que ha sido muy frecuente, al
+55:44
+menos esto lo hemos conversado en los foros de oficiales de datos que tenemos, creo que ha sido un tema bien
+55:49
+recurrente, por ejemplo, ha sido el momento en el que la autoridad ha
+55:55
+puntualizado ha ido en el en el camino sobre la marcha clarificando algunos criterios sobre, por ejemplo, el perfil
+56:01
+del oficial de datos. No, tuvimos una exigencia, seguramente se acordarán todos de que al 30 de noviembre, el año
+56:08
+pasado, tuvimos que informarle a la autoridad la persona designada. No obstante, no se tenía claridad muy
+56:14
+específica sobre un perfil exigido que salió después en una opinión consultiva, una guía que que que la autoridad fue
+56:21
+compartiendo y seguramente en la marcha ya con con esta información la mayor
+56:27
+cantidad de oficiales de datos que de hecho creo ninguno, por decir algo real
+56:33
+cumplía con con la especificación técnica y las capacidades técnicas que la norma pedía ese momento y ya estaba
+56:39
+designado, ha tenido que ir acomodando and en el tiempo un poco esto, ¿no? Pero lo otro es que eh como la norma en
+56:46
+realidad ha empezado a ser auditada no hace mucho, sino que recientemente ya la Autoridad Nacional de Datos ha empezado
+56:52
+como a mirar un poco más a detalle con con los lentes del cumplimiento también esto, creo que esto va a permitir que a
+56:59
+futuro tengamos mucha casuística, mucha experiencia en el en el sector.
+57:04
+Inclusive ya las personas o profesionales que sean dedicados o abocados a temas de cumplimiento de
+57:09
+datos van a tener un norte muchísimo más claro sobre algunas dudas que subyacen en el camino todavía.
+57:16
+[carraspeo] Entonces sí creo que ahora la tarea va a ser un poco irnos acomodando todos hacia
+57:22
+un criterio un poco más predecible a futuro. Es medianamente complejo porque los abogados perfectamente sabemos que
+57:29
+ni siquiera en el tema jurisprudencial o legal hay una predicilidad un 100%.
+57:34
+Pero ahí es donde tomo e las palabras de de Armando Renato, que hace un momento
+57:41
+nos decía e esto es un tema de de no negociables, ¿no? O sea, hay cosas que
+57:46
+tú puedes interpretar o que te dan margen a la interpretación, ya sea en tu empresa internamente o en un holding,
+57:51
+donde sea que estés, pero hay situaciones que definitivamente te marcan la pauta como los principios.
+57:57
+Entonces sí creo que ahí es donde hay que ir construyendo un poco e esa tarea
+58:03
+que tiene la alta dirección de de peregnizar un poco las buenas prácticas, dejándose guiar por los expertos
+58:10
+necesarios en el camino, porque como también comentábamos hace un momento, la alta dirección no se va a sentar en el
+58:16
+día a día a tomar las decisiones, ¿no? Entonces decir un poco eso, ¿no? seguir internalizando que el tema de datos
+58:22
+personales es un tema más de buenas prácticas y una cultura de cumplimiento de la empresa, no es un tema menor,
+58:28
+seguir le dando la relevancia y destinar los recursos necesarios para que a futuro podamos tener un sistema un poco
+58:33
+más articulado y que Perú eh no sea conocido necesariamente por las
+58:38
+vulneraciones que tenemos en algún sector, sino más bien conocido por las buenas prácticas que podamos seguir
+58:44
+acumulando en el camino. Gracias, Fabián. un
+58:51
+para comentar y redondear un cachetín lo que comentaba Jime, ¿no? Eh, ustedes
+58:57
+tengan en cuenta que uno espera o tienen la cabeza de que la dirección, la alta
+59:03
+gerencia hagan algo y lo que tenemos que entender es cuál es el rol. El rol de la dirección es liderar. ¿Cómo lidera? Como
+59:12
+decías, a partir de dar recursos, poner los recursos necesarios a disposición
+59:17
+para quien es responsable tenga la posibilidad de poder hacerlo. Y la alta gerencia, el rol que tiene es el de
+59:24
+supervisar, no el de hacer. Entonces, desde el lugar que nos pueda llegar a
+59:30
+tocar a nosotros es mostrar grados de avance a la alta gerencia y mostrar
+59:36
+informes y resultados a la dirección. Es una cuestión comunicacional. Volvemos
+59:42
+otra vez al tema de comunicación que hablábamos hoy. No es entender eso básicamente.
+59:48
+Gracias Renato. Bueno, yo también considero [carraspeo] que sí se nos vienen eh retos grandes,
+59:56
+principalmente en regulación. Creo que todavía falta complementar los aspectos relacionados
+1:00:02
+al uso de sistemas de inteligencia artificial, que hoy por hoy, digamos, hay una ley, hay un reglamento, pero
+1:00:07
+todavía hay aspectos por ahí que ajustar. también cómo se usan internamente eh conocer un poco más
+1:00:15
+acerca de las funcionalidades, porque son aspectos que en realidad son muy técnicos y que todavía digamos los que
+1:00:20
+tenemos un perfil legal tratamos de de entenderlo, pero también poner reglas claras de de juego de manera interna,
+1:00:26
+¿no? Hoy por hoy es es una realidad que tod todos los trabajadores utilizan
+1:00:31
+herramientas de inteligencia artificial de versión gratuita, por ejemplo, para redactar correos, para cargar políticas.
+1:00:38
+Entonces, eh cargar información, datos personales, ¿cómo manejas eso? ¿Cómo controlas? todavía no tenemos un
+1:00:43
+panorama claro. Primero establecer criterios, ¿no? O sea, desde que la organización apruebe al menos un listado
+1:00:49
+de herramientas corporativas, ¿no? Que que en base a necesidades identificables, etcétera. Entonces, por
+1:00:55
+ahí yo creo que que es que es un es un gran reto y también eh aspectos relacionados a la ciberseguridad, que
+1:01:01
+son aspectos más técnicos, ¿no? Yo tuve la oportunidad de estar muchos años en el sector financiero, también fui
+1:01:07
+oficial de cumplimiento normativo y vi que existe un reglamento de gestión de seguridad de la información,
+1:01:12
+ciberseguridad, pero hay muchos sectores que regulación sectorial previa no han tenido no han tenido esa
+1:01:17
+concientización. Entonces, eh si bien hoy por hoy existe la obligación de
+1:01:23
+contar con un documento de seguridad, con reglas claras que que son bastante ligadas, digamos, a al área de ETI, eh
+1:01:30
+existe un reto bastante grande, digamos, en establecer criterios generales para estar preparados, porque si bien todas
+1:01:35
+las empresas cada vez buscan ser más eficientes a nivel de recursos, los elementos eh maliciosos también hacen lo
+1:01:42
+mismo. Los ciberdelincuentes se van preparando en ser más eficientes, en vulnerar sistemas, en de enfraudar empresas, en atacar a través de
+1:01:48
+ingeniería social a los colaboradores. Entonces ahí hay un reto bastante grande que creo que que todavía a nivel de
+1:01:55
+regulación nos espera, ¿no? Correcto, Renato. Armando, [carraspeo]
+1:02:01
+sí, dos puntos eh super importantes que ya los había mencionado también. Uno, eh cambiar el la mentalidad un poco de la
+1:02:07
+alta dirección y entender de que el dato verlo desde un punto de vista
+1:02:13
+fundamental y estratégico como un pilar para que de una u otra manera se puedan implementar programas dentro de la
+1:02:19
+organización preventivos. ¿Para qué? Para no solamente esperar de que cuando ocurra cualquier escenario contingente
+1:02:25
+recién actuar, sino hacerlo de una manera del diseño e implementar los controles pertinentes para evitar pues
+1:02:31
+eh cualquier contingencia regulatoria. Perfecto. Muchas gracias a todos por su
+1:02:39
+participación. Creo que nos llevamos algunas ideas como para redondear un poco este panel eh
+1:02:46
+sobre gobernanza. E vemos que la protección de datos, como dije en un inicio, no se trata solamente
+1:02:53
+de cumplimiento, sino que se trata más de gobernanza y de estrategia de las
+1:02:58
+empresas. Sí. E como segundo punto, que es importante eh que la alta dirección
+1:03:04
+se involucre para que se puedan implementar correctamente los programas, no solamente en beneficio de la empresa,
+1:03:10
+sino sobre todo en beneficio de las personas. Y eh nos queda como gran reto, como
+1:03:16
+ustedes lo han dicho, tratar de tener eh una gestión integrada y articulada a
+1:03:21
+nivel de país y, por lo tanto a nivel organizacional y e implementar también
+1:03:27
+criterios de ciberseguridad a nivel nacional, que creo que es algo que todavía eh nos falta. Gracias a todos y
+1:03:35
+gracias a ustedes por estar aquí.
+1:03:44
+No todas las amenazas hacen ruido. Algunas crecen silenciosamente, incluso
+1:03:49
+en sistemas que parecen protegidos. El fishing, el ransonware o la guía maliciosa no siempre son el primer
+1:03:56
+síntoma, muchas veces son la consecuencia. Por eso, la verdadera fortaleza está en detectar
+1:04:02
+vulnerabilidades antes de que se conviertan en un problema. Con una visión de negocio, la ciberseguridad
+1:04:07
+deja de ser solo reacción para transformarse en prevención estratégica. En BDO somos especialistas en
+1:04:14
+fortalecer, mitigar y asegurar la continuidad de tus operaciones, acompañándote en cada decisión crítica
+1:04:20
+para construir una organización ciberresente. Cuando una empresa cuida su salud corporativa, evoluciona con
+1:04:26
+confianza hasta alcanzar su inmunidad digital. BDO Cyber, la fórmula perfecta
+1:04:31
+entre visión de negocio y defensa digital.

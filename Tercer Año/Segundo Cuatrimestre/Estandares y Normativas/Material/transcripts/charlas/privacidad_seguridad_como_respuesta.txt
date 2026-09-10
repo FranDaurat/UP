@@ -1,0 +1,1262 @@
+
+[música]
+0:09
+Bueno, eh desde ya mil gracias a a todos por estar compartiendo este este espacio
+0:15
+con nosotros. Eh, y bueno, lo que les queríamos
+0:21
+presentar en en el día de hoy es un poco cuál es nuestra visión
+0:27
+respecto de eh un tema que hasta el
+0:32
+momento o hasta hace un par de años, digamos, este se trataba como como desde
+0:39
+un punto de vista muy este a nivel eh legal,
+0:45
+regulatorio, digamos. no sin tener eh por ahí una visión clara respecto de
+0:52
+cómo es que hay distintos tipos de prácticas que confluyen en el tema de
+1:00
+resolver una situación este como lo que es el hecho de ver comprometidos datos
+1:07
+personales, ya sea de nuestros clientes, proveedores o o este colaboradores
+1:14
+inclusive de de la compañía. No, ese es un poco la idea que tiene eh esta charla
+1:22
+que queríamos compartir con ustedes eh desde el punto de vista de la visión en
+1:27
+particular y de cómo resolverlo, ¿no?, de cuáles son las distintas herramientas
+1:33
+tanto a nivel de gestión como tecnológicas que que en a partir de lo cual podemos empezar a este construir
+1:41
+una una forma de de poder abordar esta esta problemática, ¿no? E nosotros somos
+1:49
+eh BDO. BDO, como eh ustedes saben, es eh la quinta consultora a nivel global,
+1:57
+en donde dentro de las prácticas habituales que que ya conocen que que
+2:02
+tenemos eh nos dedicamos también a lo que tiene que ver con eh ciberseguridad
+2:09
+y eh abordaje eh legal, ¿no? Para eso me acompaña mi socio Juan Martín Morando,
+2:17
+el doctor Juan Martín Morando, este responsable de nuestra práctica legal
+2:23
+dentro de del estudio. Solange Gal, nuestra supervisora de
+2:30
+protección de datos personales y Giordano Delgado, que es este nuestro
+2:37
+responsable tecnológico este y que nos apoya con este una herramienta a partir
+2:43
+de la cual e eh brindamos y y soportamos todo lo que tiene que ver con eh lo que
+2:50
+se requiere tanto a nivel legal como regulatorio en los temas de de
+2:55
+protección de datos. También van a estar acompañándonos este Candelaria y y Gastón, que son eh
+3:05
+abogados este con conocimientos en ciberseguridad y que forman parte del
+3:11
+del equipo de de Solange, ¿no? La idea también es a partir de esta charla
+3:16
+compartirles a ustedes experiencias de de lo que ellos este hacen en la diaria
+3:23
+a partir de de este tipo de problemática. Yo simplemente le les voy a dar como una especie de introducción
+3:29
+como para ver cómo eh
+3:35
+se plantea esta necesidad de de tener una visión más holística, más completa
+3:42
+en relación a a este tema de visto desde el punto de vista de de la necesidad de
+3:49
+proteger la privacidad de las personas, ¿no? Acá confluyen dos dos temas. Por un
+3:57
+lado, tener en cuenta desde el punto de vista de seguridad de
+4:02
+la información a nivel de ciberseguridad con con lo que es protección del dato,
+4:09
+sabiendo de que hay una diferencia, hay un atributo adicional que hay que
+4:15
+agregarle a esto que está relacionado con la privacidad. Y la privacidad lo que tiene como enfoque es proteger la
+4:23
+identidad de las personas, ¿no? Por eso el complemento, este atributo adicional
+4:29
+que se le da al tema de la protección del dato, porque no es un dato cualquiera, es un dato personal en donde
+4:36
+lo que yo tengo que hacer es proteger la identidad y proteger a las personas que
+4:41
+son dueñas de esos datos en sí. Esto lo lo fuimos viendo
+4:46
+a lo largo del tiempo en cómo fue variando eh en función de eh necesidades de
+4:55
+mayores requisitos y prestarle mayor atención a lo que tiene que ver con la
+5:01
+evolución desde el punto de vista eh legal, cómo fue evolucionando a lo largo
+5:06
+del tiempo eh eh este tema de ver eh
+5:12
+determinado tipo de derecho hechos relacionados con la privacidad y cómo se fueron complicando y fue necesario este
+5:20
+ir evolucionándolo también en la medida en la que fue evolucionando la tecnología principalmente, ¿no?
+5:28
+Hay en este sentido una
+5:34
+un enfoque con vistas entre cómo utilizo los datos y la tecnología que voy
+5:39
+involucrando, en donde eh se disparó principalmente
+5:47
+a partir de los años 80 en donde hubo, digamos este toda esta explosión
+5:53
+respecto del uso del internet al hacerlo más popular, más cercano o al usuario y
+5:59
+en donde el usuario empezó a interactuar con distintos tipos de plataformas, el crecimiento, digamos,
+6:07
+de lo que tenía que ver con redes sociales, etcétera, y en donde yo empecé
+6:13
+no solamente desde el punto de vista organizacional, sino principalmente desde el punto de vista personal, a
+6:20
+exponerme en en determinado tipo de eh eh plataformas eh a partir de la la
+6:27
+comunicación con internet, ¿no? En este en este quiebre en particular
+6:35
+hubo personas que que se dieron cuenta de esta fragilidad que íbamos teniendo
+6:42
+respecto del cuidado de nuestros datos, como eh le pasó a la ingeniera Anco Bán,
+6:49
+una ingeniera canadiense, en donde a partir del 2006 y apoyada en
+6:56
+lo que tiene que ver con eh lo que fue la primer este
+7:03
+promulgación de de lo que es GDPR como reglamento de protección de datos
+7:08
+personales de la Unión Europea, tomó el concepto de lo que se llama privacidad por diseño, ¿no? O sea, el hecho de
+7:14
+pensar previo en en el momento en el que estoy
+7:19
+diseñando un producto, un servicio, un proceso que trate datos personales,
+7:27
+pensar ya en ese momento qué tipo de controles y qué tipo de riesgos puedo
+7:32
+llegar a tener en función de una necesidad de cumplimiento y de protección de las personas respecto de
+7:39
+sus datos, ¿no? Y todo esto a su vez se fue complejizando aún más, para lo cual
+7:46
+se requiere tener esto que que les comentaba al principio, ¿no?, una visión más completa
+7:53
+y el hecho de entender de que ya no es un área en forma específica la que está
+8:02
+como responsable de abordar esta necesidad de de protección, sino que se
+8:09
+termina convirtiendo de alguna manera en un proceso relacionado con la
+8:14
+privacidad. E para aquellos que he visto que que están
+8:20
+más cercanos a lo que tiene que ver con tecnología y ciberseguridad, este es un
+8:25
+poco el enfoque que plantea también la actualización de
+8:31
+la ISO 27001 en su versión 2022, ¿no? en donde integramos ciberseguridad con
+8:39
+requisitos de de privacidad este traídos desde la ISO 27,701,
+8:46
+que es la normativa ISO específica a nivel de privacidad. Y acá van a ver de
+8:51
+que más allá de de tener que mejorar una política de seguridad
+8:58
+respecto de este nuevo atributo que que se le está poniendo a nivel de protección, etcétera, también hay
+9:05
+determinado tipo de gestiones que se van a ver impactadas y que es un poco lo que los chicos nos van a contar, digamos, de
+9:13
+de cómo se adecúa y y cuál es el enfoque que tiene, ¿no? Por un lado, la atención
+9:18
+a nivel de de riesgos, ya inclusive desde el punto de vista tecnológico a
+9:25
+nivel de ciberseguridad, etcétera, requiero integrar eh eh cuestiones que
+9:31
+estén relacionadas inclusive con la privacidad y el riesgo regulatorio que
+9:38
+tiene el uso de datos en la tecnología en sí. De la misma [carraspeo] manera
+9:46
+que me pasa con la gestión de incidentes. El título de esta charla no
+9:52
+es una cuestión menor, sino que está casualmente enfocado a esto. Yo hoy
+9:58
+tengo tiempos determinados por la regulación y por las leyes en los cuales
+10:05
+yo tengo que abordar incidentes de ciberseguridad en donde estén involucrados.
+10:12
+este datos personales y en donde ya esos incidentes de ciberseguridad no son
+10:18
+únicamente tratados por gente con conocimiento de la tecnología. Tengo que
+10:24
+tener el apoyo de Juan Martín, por ejemplo, para poder llevar adelante mi
+10:29
+trabajo y viceversa. Esto es un trabajo en equipo y es lo que ahora los chicos
+10:35
+ahí, Cande y Gastón nos van a empezar a contar.
+10:41
+Sí, gracias, Fabián. Bueno, volviendo un poco en la diapositiva anterior, lo que
+10:46
+vemos nosotros son dos momentos, si podemos decirlo así. Primero, eh la gestión de riesgos eh antes de que
+10:53
+ocurra un problema, incorporando la privacidad justamente en nuestra en nuestra gestión de riesgos. Y en segundo
+11:00
+lugar, cuando el problema ya ocurrió, incorporando la privacidad e en nuestra
+11:05
+gestión de incidentes. Yo lo que les voy a hablar un poco brevemente es sobre la gestión de riesgos. Cuando hablamos de
+11:12
+gestión de riesgos, el primer cambio es incorporar la privacidad al mapa general de riesgos de la organización, como dijo
+11:18
+Fabián, que no es un tema exclusivo de legales o de seguridad de la información, sino que tiene que estar
+11:24
+presente en cada proceso que utilice de datos personales. Podemos pensarlo en un ejemplo concreto con el área de recursos
+11:30
+humanos en donde encontramos información ya sea identificatoria, salarial,
+11:35
+bancaria, médica, incluso datos biométricos, que además de preguntarnos si el sistema es seguro, lo que tenemos
+11:42
+que saber desde la desde la privacidad es necesitamos realmente todos esos datos, para qué los vamos a utilizar,
+11:49
+quién puede acceder, a dónde se van a almacenar y con qué terceros los vamos a compartir y también, obviamente, qué
+11:56
+consecuencias tendría una exposición o un uso indebido de esos datos. Todas estas preguntas nos permiten identificar
+12:02
+y priorizar los riesgos porque obviamente no va a presentar el mismo impacto la exposición de una dirección
+12:07
+comercial que la de una información médica, financiera, biométrica. Y esto también nos permite adoptar controles
+12:14
+más sólidos, asignar responsabilidades claras, tomar mejores decisiones antes de contratar un proveedor, implementar
+12:21
+inteligencia artificial o lanzar un nuevo servicio. Un caso real es el caso de Meta, por ejemplo, eh y la
+12:27
+transferencia de datos que hicieron de usuarios europeos hacia Estados Unidos. En 2023, este caso derivó en una multa
+12:35
+muy grande de 100 millones de euros y también se ordenó adecuar esas
+12:40
+transferencias. La enseñanza que nosotros tenemos es que nuestro mapa de riesgos no va a terminar únicamente en
+12:47
+nuestro sistema, sino también que hay que mostrar qué información sale de la organización, a qué proveedores la
+12:53
+entregamos, a dónde se procesa y además, como también mencionó Fabi Fabián, frente a estos reguladores no va a
+13:00
+alcanzar únicamente decir, "Tengo una política o un procedimiento." sino que también es poder demostrar qué
+13:06
+riesgos conocemos, cuáles son las decisiones que vamos a tomar y qué controles estamos implementando. Es el
+13:11
+principio de la responsabilidad proactiva o acantability de poder demostrar. En síntesis, en la gestión de
+13:18
+riesgos, deberíamos permitirnos responder cuatro preguntas. ¿Qué datos tenemos? ¿Por qué los tenemos? ¿A dónde
+13:25
+están? ¿Y quiénes pueden acceder a ellos? Y lo importante es poder responder esas preguntas antes de que
+13:31
+suceda un incidente, porque cuando el incidente ocurrió, ya estamos tarde y ya no hay tiempo para comenzar a construir
+13:38
+el inventario o buscar quiénes son los responsables. Y bueno, sobre este segundo momento de la gestión de
+13:43
+incidentes, eh va a continuar mi compañero Gastón. Sí. Bueno, gracias Cande por lo que
+13:50
+comentaste y todo esto que también mencionó Fabián, el la parte anterior
+13:55
+durante la gestión de riesgos se pone a prueba al momento de que cuando detectamos un incidente, si entramos en
+14:02
+un desafío que es detectarlo y reportarlo a tiempo. Entonces, sin embargo, hay ocasiones que es muy
+14:09
+posible que una violación de datos no siempre comienza con una alerta, un evento de ciberseguridad, sino que puede
+14:15
+surgir a partir de un correo que enviamos a un destinatario equivocado, perder un equipo también o quizás una
+14:21
+notificación de un proveedor eh o un reclamo de un cliente que quizás recibió otra información de alguien más.
+14:28
+Entonces, todo esto es fundamental que venimos eh fomentando para toda la organización sepa reconocer estas
+14:35
+situaciones y conozca también cómo reportarlas, que más allá lo vamos a hablar un poco mejor. Eh, si una alerta
+14:41
+nos llega, ¿no?, rápidamente a quienes deben evaluarla y que también pueden perderse ciertas horas críticas para
+14:47
+llevar a cabo las tareas necesarias. A partir de todos estos reportes que
+14:53
+venimos hablando, el siguiente desafío siempre lo vamos a encontrar en dimensionar ese incidente, entender qué
+14:59
+ocurrió, qué datos pueden llegar a estar comprometidos y también cuántas personas podrían verse afectadas, si esta
+15:06
+información capaz estaba eh cifrada o contaba con otras medidas de protección
+15:11
+en ese sentido. Entonces, como bien mencionó Candelaria, hay que disponer de inventarios, hay que disponer de
+15:17
+registros actualizados, ¿sí? [resoplido] y que nos permitan responder todas estas preguntas con mayor rapidez y también eh
+15:25
+poder enfrentar un evento de menor sí cuantía o frente a una situación que
+15:30
+requiere una intervención más inmediata. Todo esto que venimos hablando, debemos evaluar siempre el impacto real sobre
+15:37
+todas las personas afectadas y no alcanza a comedir ciertos costos para la empresa, que también tiene su
+15:44
+importancia. Es necesario analizar si esta exposición podría llegar a generar
+15:49
+algún tipo de fraude o su plantación de identidad también por parte de los afectados o si estamos haciendo un uso
+15:56
+indebido de información médica o financiera. Y todo esto nos va a permitir esta evaluación definir ciertas
+16:03
+medidas de protección y las comunicaciones que vamos a considerar necesarias, pero también siempre
+16:10
+documentar lo ocurrido identificando las causas y las lecciones aprendidas en nuevos controles. Un caso muy
+16:17
+interesante que pasó y lo lo menciono brevemente hace un tiempo fue el caso Marriot que demostró toda esta
+16:23
+importancia en el proceso, ya que ocurrió un ataque a comienzos del 2014
+16:28
+en lo que eran los sistemas de Starwood. Sí. Y continuó después de que Marriot adquiriera la compañía en 2016. ¿Qué
+16:36
+pasó? Esto se fue detectado recién en 2018. Entonces, la toda esta exposición,
+16:42
+sí, todo este tiempo de exposición que hubo afectó una gran cantidad de registro de huéspedes y derivó una
+16:49
+sanción millonaria en el Reino Unido. Y nos deja dos enseñanzas importantes esto
+16:54
+que primero siempre al incorporar una empresa, por ejemplo, un proveedor, algún tipo de sistema, también debemos
+17:01
+heredar o vamos a heredar, sí, ciertos riesgos de privacidad que no fueron tratados o que no conocemos. Y en una
+17:09
+segunda instancia es que una detección tardía amplía esta exposición y nos va a
+17:14
+dificultar eh con precisión el alcance, ¿no? Mismo del incidente. Entonces, una
+17:20
+respuesta efectiva no se improvisa cuando aparece la alerta, se prepara con anticipación mediante todas estas
+17:27
+actualizaciones, registro, documentación y concientización con los responsables
+17:33
+definidos y demás. En definitiva, para finalizar, sí, Fabi, perdón.
+17:38
+Sí, no, perdón. Acá importante, Gastón, en esto que comentas es tener en cuenta el tipo de industria, ¿no? O sea, hoy no
+17:47
+necesariamente eh una entidad de salud, una entidad
+17:53
+bancaria está eh digamos este expuesta con respecto al tema de los
+18:00
+datos. Fíjense que estamos hablando de una industria en donde de repente el
+18:05
+nivel de madurez respecto de de estos temas, tanto a nivel de riesgos
+18:12
+tecnológicos como de riesgos regulatorios e es bastante débil, ¿no?
+18:18
+Ahí, chicos. Sí, totalmente. Por eso mismo eh está
+18:24
+bueno todo esto que estamos comentando, porque la gestión de riesgos nos va a permitir conocer, priorizar y prevenir
+18:31
+en gran manera todo esto que venimos mencionando y la gestión de incidentes nos va a permitir también detectar,
+18:37
+responder y aprender sobre los mismos. No sé si Cande puede Sí, sí. Por eso el mensaje central de
+18:44
+esta diapositiva es que la privacidad tiene que estar en nuestro mapa de riesgos antes de estar en nuestro registro de incidentes para prevenir eh
+18:52
+antes que curar. Y bueno, en el siguiente slide podemos hablar un poco de lo que es el dato personal como para
+19:00
+explicar, digamos, sobre lo que estamos hablando de de privacidad, definir qué es dato personal. Tanto la ley
+19:08
+argentina, la 25326, como el GDPR o el RGPD de la Unión Europea, definen qué dato personal es
+19:16
+aquel que permite identificar o hacer identificable a una persona. Sin
+19:21
+embargo, hay algunas diferencias en Argentina. Eh, la hay una particularidad de que la definición es más amplia
+19:27
+porque alcanza también a personas de existencia ideal o jurídica, es decir, que datos personales también podrían
+19:34
+referirse a personas jurídicas, mientras que el GDPR solamente habla de personas físicas. Además, ambas normativas
+19:42
+otorgan una protección reforzada a lo que son los datos sensibles, como que que son los datos de salud, como
+19:48
+mencionaba Fabián, los datos biométricos, opiniones políticas, creencias religiosas, datos sobre el
+19:54
+origen racial. ¿Y por qué estos datos eh digamos sensibles tienen una mayor
+19:59
+protección? Bueno, es porque el impacto que podría generar su uso indebido es
+20:04
+mayor a los datos, por ejemplo, identificatorios. Otro aspecto relevante es que hay una
+20:10
+evolución en el marco argentino hacia los estándares internacionales. Por ejemplo, Argentina adhirió al convenio
+20:17
+108 Plus y por tanto incorpora la obligación de notificar incidentes que
+20:23
+puedan afectar significativamente los derechos y las libertades de las personas sin demora injustificada. Y
+20:28
+esto se va acercando al enfoque europeo que establece la referencia de las 72
+20:34
+horas desde que se toma el conocimiento de la violación. Algo más que se incorpora en nuestra legislación son los
+20:40
+derechos fundamentales de los titulares, que son conocidos como los famosos derechos arco, que son los derechos de
+20:45
+acceso, rectificación, cancelación y oposición. Y en definitiva, o sea, lo que se observa es una tendencia común,
+20:52
+una mayor responsabilidad en las organizaciones, mayor transparencia y una protección mucho más activa de los
+20:58
+datos personales. Y bueno, ahora sí le voy a ceder la palabra a Solange, que les va a hablar específicamente de lo
+21:04
+que son los incidentes de datos personales. Gracias, Cande. Bueno, ya vimos que es un dato personal, cómo lo tratan
+21:10
+Argentina y Europa. Ahora quiero dar un pasito más y ponernos de acuerdo en lo que parece obvio, pero que en la
+21:16
+práctica a veces genera mucha confusión, ¿si? ¿Qué es exactamente un incidente de datos personales y por qué de cómo lo
+21:23
+definamos? También va a depender todo lo que hagamos después. Y lo primero que se quiero que se lleve es que no todo lo
+21:30
+que pasa en un sistema es un incidente de datos. Fíjense en la pantalla que separa dos conceptos que muchas veces se
+21:36
+usan eh erróneamente como sinónimos y no lo son. Sí, el primero es el evento. Un
+21:41
+evento es cualquier suceso observable en un sistema o en un proceso que traiga un
+21:46
+servidor, que un antivirus salte con una alerta, que alguien intente entrar y no
+21:52
+pueda. Todos esos son eventos. Y acá la clave, un evento no siempre va a comprometer datos personales. El segundo
+21:58
+concepto, ¿sí? Ya es el de el que nos importa hoy, el de violación de datos personales, ¿sí? y que es una violación
+22:04
+de seguridad que ocasiona la destrucción, pérdida, alteración, divulgación o el acceso no autorizado
+22:11
+datos personales. ¿Sí? Es decir, acá ya hay datos personales comprometidos y esto es lo que dispara, obligaciones,
+22:18
+plazos, notificaciones que estuvimos hablando. Entonces, el primer mensaje práctico es cuando salta una alarma, la
+22:24
+primer pregunta no es notificamos. La primer pregunta va a ser, ¿es un evento o es una violación de datos? Eh, porque
+22:31
+si es solo un evento, lo gestionamos técnicamente y si hizo una violación de datos, ya se activa toda la maquinaria que vamos a ver después. Y ahora, ¿cómo
+22:38
+sabemos qué tan grave es esa violación? Y para eso prestemos atención a la parte derecha donde habla de tres dimensiones,
+22:44
+tres dimensiones que muchos hemos visto en la facultad o en diferentes cursos, confidencialidad, ¿sí? Que se afecta
+22:50
+cuando hay un acceso o una divulgación no autorizada. Es decir, alguien vio o alguien recibió datos que no tenía que
+22:57
+ver. el mail que se manda a la persona equivocada, el intruso que entra y copia una base, eso es un problema eh típico
+23:05
+de confidencialidad. Después tenemos integridad que se afecta cuando hay una alteración no autorizada de los datos, o
+23:12
+sea, que los datos siguen ahí, pero alguien los modificó eh sin permiso. Ya no son íntegros. Piensen en un atacante
+23:18
+que cambia unos números de cuenta, altera algunos registros. El dato dejó de ser confiable para mis operaciones. Y
+23:25
+la tercera es la disponibilidad, ¿sí? que afecta cuando hay una pérdida, destrucción o directamente la
+23:31
+imposibilidad de acceder a esos datos. El caso típico de hoy en día, el más
+23:36
+conocido es el Rasonware. Los datos están, pero están secuestrados, cifrados, no podes acceder a ellos.
+23:43
+Bueno, también puede ser un un backup que no funcionó o un borrado accidental. Sí. Eh, es identificar cuál o cuáles se
+23:52
+afectaron, ¿sí? de estos pilares eh es lo que después define el riesgo para las personas y las obligaciones que tenemos.
+23:59
+Por eso eh nos detenemos en estos conceptos y los y los destacamos. Sí, no es lo mismo que se hayan llevado una
+24:04
+copia de de seguridad eh que un razonware que nos dejó sin sistema. Eh
+24:10
+cada uno se maneja distinto y se notifica de diferentes maneras. Eh, así que resumiendo, evento no es lo mismo
+24:17
+que violación de datos, ¿no? Y cuando hay violación, lo primero es entender en cuál de las
+24:23
+tres dimensiones nos pegó o nos. Gastón nos va a contar un poquito. Sí,
+24:28
+agrego este tema de que además de la inscripción, digo, en muchos eventos que
+24:34
+nos tocó este compartir y tratar de resolver el tema de la exfiltración,
+24:40
+¿no? Normalmente el ransongware viene asociado a la exfiltración y exposición
+24:47
+de de esos datos, ¿no? Son Sí, sí, sí. Nos han pasado en ocasiones
+24:52
+que además del ataque y dejar todo encriptado, se llevaron los datos y bueno, fueron publicados en la web y
+24:59
+demás. Es algo muy común hoy en día. Sí, sí, totalmente. Bien, Gastón nos va a
+25:04
+contar un poquito de cómo de por qué elegimos eh este nombre en el webinar, ¿no? De las 72 horas.
+25:11
+Sí, totalmente. Y aparte referenciando a todo esto anterior que se ha mencionado, cuando nosotros decimos de 72 horas,
+25:19
+primero lo más importante es de identificar, ya como mencionó Fabián,
+25:25
+situaciones que nos han ocurrido. Hay que identificar qué normativa nos va a resultar aplicable, porque eso también
+25:31
+va a depender del país, ¿sí? La industria y el tipo, ¿no?, de de incidente que se puede llegar a haber
+25:38
+detectado luego de la investigación. Nosotros tenemos dos posiciones, una que es eh bajo el reglamento general de eh
+25:46
+de protección de datos europeos, ¿sí? Que menciona que el responsable va a notificar a la autoridad de ser posible
+25:52
+dentro de las 72 horas desde que tomamos conocimiento, salvo que, bueno, sea improbable que
+25:58
+exista algún tipo de riesgo y si el riesgo resulta que es es alto para las
+26:04
+personas, también va a comunicarlo a los afectados sin demora. Y después tenemos
+26:10
+como posición en Argentina la ley 25326, que no establece un plazo obligatorio,
+26:15
+¿no?, de 72 horas, aunque la resolución 47218, que habla de las medidas de seguridad
+26:21
+que son recomendadas para el tratamiento y conservación de los datos personales, ya sean en medios informatizados y no
+26:27
+informatizados, eh lo va a recomendar. ¿Si? este plazo esta lo hace la lo publica es una
+26:34
+comunicación de la Agencia de Acceso a la Información Pública que es la autoridad de control. Entonces acá el
+26:40
+mensaje va a ser clave en que primero verificamos la norma, el contrato también que nosotros vamos a firmar con
+26:46
+el C proveedor o quienes brindamos servicio, el sector que nos va a aplicar y ahí activar el reloj correspondiente
+26:53
+dentro de una gestión de de incidentes. Y una vez activado ese reloj, el siguiente desafío va a ser entender
+26:59
+cuánto puede llegar a costarnos. Sí, reaccionar tarde, ¿cierto?
+27:05
+Bien. Sí. ¿Qué pasa si se me escapa ese reloj? ¿Qué me cuesta en concreto? Eh,
+27:10
+Fabi, si quieres pasar a la otra slide. Eh, esta slide para mí es como una de
+27:18
+las más importantes y no porque la la tenga que presentar yo, sino porque le pone un número, algo que muchas veces
+27:25
+vemos como un riesgo abstracto, algo que no logramos ver bien. Sí. Eh, y antes de
+27:30
+arrancar estos números no los inventamos nosotros, son todos trazables. Sí. Eh, y
+27:36
+obviamente el costo real de esto va a depender del país, como decía Fabián, hoy del sector, del alcance, del
+27:41
+incidente, pero las magnitudes hablan solas, ¿no? Empezamos por el número más grande, que es el de 4,44 millones dó.
+27:50
+Ese es el costo promedio global de una brecha de datos el año pasado. Promedio, o sea, que hubo algunas que fueron
+27:56
+muchísimo más altas. Sí. Eh, y bueno, y cuando uno mira, por ejemplo,
+28:02
+Estados Unidos, el número se dispara a 10,2 millones de dólares, eh el más alto
+28:08
+entre todas las regiones que fueron analizadas en este reporte. Pero estamos eh hablando de cifras eh
+28:16
+que bueno, que para muchas empresas son directamente la diferencia entre seguir operando o no. Y ahora bajemos a nuestra
+28:23
+región porque claro, dicen, "Sí, pero eso es Estados Unidos está lejos otra cosa." En Latinoamérica el costo
+28:28
+promedio de una brecha eh fue de 3,81 millones de dólares, menos que Estados
+28:34
+Unidos, sí, obviamente, pero sigue siendo una cifra enorme eh sobre todo por el tamaño de nuestras empresas,
+28:40
+teniendo en cuenta eh también esto es lo que un incidente afecta
+28:46
+reputacionalmente. Y ahora quiero prestar atención un dato que para mí es muy revelador, ¿no? Sobre
+28:52
+todo para el momento que estamos viviendo hoy en día con lo que es la inteligencia artificial. El 97% de las
+28:59
+organizaciones que sufrieron brechas vinculadas a IA no tenían los controles
+29:04
+apropiados eh de acceso a estas herramientas de inteligencia artificial. El 97% es prácticamente la totalidad.
+29:11
+Sí, estamos metiendo ya en todos lados a una velocidad enorme, eh, pero sin
+29:17
+ponerle los controles de acceso mínimos y ahí se abre una puerta enorme, gigante. Eh, y para poder dimensionar
+29:25
+ese riesgo, el 60% de estos incidentes de seguridad relacionados con IA terminó comprometiendo datos. Y no fueron
+29:31
+solamente sustos ni eventos. Eh, seis de cada 10 hubo datos que se comprometieron
+29:37
+de verdad. Bueno, y para cerrar, sí, perdón, Fabi, ahí con esto que comentabas Sol, eh, van
+29:45
+a ver que en las fuentes principales figura el FBI y no es un tema menor.
+29:50
+Tengan en cuenta de que estos volúmenes de dinero y de porcentajes de de
+29:58
+materialidad, digamos, de de los incidentes, está muy atrás el el FBI respecto de eh
+30:07
+que estos fondos se utilizan principalmente para lo que tiene que ver con eh la financiación de guerras, de
+30:16
+compra de armas, de atentados, etcétera, ¿no? Entonces, hay detrás de esto no
+30:23
+simplemente una cuestión eh desde el punto de vista
+30:28
+económico, sino que también hay eh lo que se llama la parte activista, ¿no?,
+30:36
+en relación a lo que tenga que ver con política, etcétera.
+30:41
+Sí, bien. Sí, sí, sí. Bueno, y que es la conclusión o por ahí lo que quería que se llene de esto, que reaccionar tarde o
+30:47
+directamente no estar preparado tiene un precio concreto, ¿sí? Medible en dólares, eh, pero prepararse bien
+30:54
+también tiene un retorno concreto y medible, no es un gasto, es una inversión que se paga sola el día que
+31:00
+que la necesit, ¿no? Eh, bueno, y si preparar se rinde tanto, la pregunta que
+31:06
+sigue es obvia, ¿cómo se reacciona bien? ¿Cuál es el método? Y de eso eh se trata el próximo slide. Paví,
+31:13
+ahí ya lo puse. Eh, vengo con él ahí. [risas]
+31:19
+Tranqu. eh reaccionar no es una cuestión de suerte, obviamente es es cuestión de
+31:24
+método. Parece mal todo. Voy a hablar rápidamente porque queda poquito tiempo, pero bueno, el paso uno es detectar, sí
+31:31
+que eh pero es donde siempre se pierde un poquito más de tiempo, detectar, darse cuenta de que algo pasó y sobre
+31:37
+todo confirmarlo. Sí, no toda alarma va a ser un incidente real. Y acá entonces
+31:42
+el objetivo es doble, confirmar que efectivamente hay una violación de datos y activar todo el equipo de respuesta.
+31:50
+Evaluar si una vez que confirmamos que hay un incidente tenemos que entender la dimensión, ¿sí? Hacer preguntas de, por
+31:57
+ejemplo, qué tipo de datos se comprometieron. ¿Son datos de contacto? ¿Son datos sensibles? ¿Son datos de salud financieros? ¿Cuántos titular
+32:04
+afecta? No es lo mismo que afecte a 10 que a 100,000 personas. si el alcance es un sector o toda la base eh y sobre todo
+32:12
+eh verlo desde cuál es el riesgo eh real que están corriendo esas personas. El
+32:18
+paso tres es contener, que no es lo mismo que borrar, por favor, es cortar el acceso del atacante, deshabilitar la
+32:25
+cuenta comprometida, aislar el el servidor infectado, pero siempre
+32:30
+preservando esa evidencia. Eh, el cuarto es decidir, que este es el paso más
+32:36
+incómodo porque hay que tomar decisiones con información que quizás al momento esté incompleta, con el reloj corriendo.
+32:43
+Notificamos, le avisamos a a los afectados que le decimos, cómo se lo decimos. Y esto obviamente no lo puede
+32:51
+tomar estas decisiones las puede tomar una sola persona, legales, negocio, eh
+32:56
+muchas veces la alta dirección, una gran mesa, todos al mismo tiempo, ¿no? Y por
+33:02
+último, el de recuperar, que es volver a la normalidad, restablecer los sistemas, reforzar lo que falló y documentar las
+33:08
+lecciones aprendidas. Sí, porque el incidente que no se estudia se vuelve a repetir y la pregunta siempre va a ser
+33:15
+que es eh qué habría evitado esto y sí, porque no lo teníamos
+33:22
+eh en el minuto cero de un incidente real con el teléfono sonando de
+33:27
+constantemente preguntando qué pasó, eh si no tenés un mapa claro y ensayado, la
+33:33
+gente improvisa y un incidente improvisar es carísimo. nos ha pasado muchas veces eh por experiencia que eh
+33:40
+nos llaman luego de que pasó todo esto y bueno, es en plata y en reputación es
+33:45
+carísimo. Así que bien, si querés, Fabi, pasamos directamente Juan Martín que nos cuente un poquito de su intervención de
+33:53
+legales. Bien, un solo comentario que quiero hacer y que
+33:59
+acá es donde hay una de las cuestiones que decíamos al principio donde confluyen los dos mundos, ¿no? Aquellos
+34:06
+que que estén en la parte de legales dicen, "Bueno, está bien, pero ¿cómo detecto?" Acá es donde aparece la
+34:12
+ciberseguridad. Parte de la detección puede ser a partir de un servicio de SOC, por ejemplo, ¿no? un security eh
+34:21
+este operation center en donde yo lo que hago es estar monitoreando 7x 24
+34:28
+aquellos este sistemas, bases de datos, etcétera, que tengan datos personales en
+34:35
+donde yo ahí es donde detecto, digamos, por ejemplo, lo que pueda llegar a tener
+34:40
+que ver con este prevención ante ransware, etcétera, o cualquier tipo de
+34:46
+ataque o exfiltración de datos, ¿no? Entonces, fíjense como de alguna manera voy confluyendo en esto en dos mundos y
+34:54
+en donde también la gente de legales, y ahora ya te dejo, Juanma, para que vos también lo lo expongas,
+35:02
+requieren conocer qué tipo de herramientas tecnológicas a nivel de prevención necesitamos. No
+35:12
+está muteado, Juan. Ahí va. Bien. Eh, bueno, muchas gracias. Yo más que
+35:19
+nada eh me quiero centrar, lo mío va a ser un poco retomar alguna de las cosas
+35:26
+que que se estuvieron diciendo, porque nosotros lo podemos ver también desde la
+35:31
+perspectiva desde la perspectiva legal. Y acá eh lo lo importante es pensar que
+35:42
+como venimos diciendo desde un principio, si bien existen responsabilidades, acá tenemos tenemos
+35:47
+responsabilidades que corresponden a a distintos equipos, todos estos equipos tienen que trabajar de forma coordinada.
+35:53
+Entonces, eh no basta con que reaccione solo eh por ejemplo el SISO, si no hay
+35:59
+también un acompañamiento de la perspectiva legal, un acompañamiento de la perspectiva técnica. Eh, y además eh
+36:07
+existe, por lo menos debiera existir algún comité de crisis que opere eh en
+36:12
+relación con eh cada uno de los incidentes. Eh, yo te pediría, Fabi, si
+36:17
+pasamos a la a la a la diapositiva siguiente. Sí, porque un poco la la idea que que
+36:25
+quiero transmitir es que en lo que toca específicamente a no la
+36:31
+parte técnica, por supuesto, no, sino la parte legal, es que no no se busca
+36:37
+garantizar que no va a haber un incidente. De hecho, si ustedes analizan las normas, las normas dan por sentado que va a haber incidentes. Lo que
+36:43
+importa es ver que se hizo antes, es decir, que se obró con debida diligencia
+36:49
+antes, durante y después. Y esto de la debida diligencia es algo que si bien se
+36:55
+utiliza hace bastante tiempo en nuestro país, empieza a aparecer como un estándar eh transversal a partir de la
+37:04
+reforma del Código Civil y Comercial de la Nación. Ahí aparece est de la debida diligencia, que la debida diligencia es
+37:11
+más o menos en criollo decir, bueno, obré de una forma razonable
+37:17
+y que nadie va a poder imputarme a mí, que fui negligente en la preparación de
+37:23
+los eventuales ataques en la durante la ejecución y una vez que cesan o que
+37:28
+logró contener los ataques. Eh, ¿podríamos pasar a la a la diapositiva
+37:34
+siguiente, Fabi? Eh, como verán, hay tres este tres
+37:41
+tiempos y tres acciones, ¿no?, relacionadas con cada una de estos
+37:47
+tiempos. Eh, yo les diría que inicialmente hay un
+37:53
+mito que hay que tratar de romper, que es todo ataque
+37:58
+eh genera automáticamente responsabilidad. Eso no es cierto. No necesariamente todo ataque genera
+38:04
+automáticamente responsabilidad. Tampoco podemos verlos al otro extremo, ¿no? Y pensar que como es un tercero el que
+38:12
+realiza el ataque, como por ejemplo se atacó algún tipo de eh de banco de datos
+38:18
+de un tercero, nosotros no somos responsables de nada. No, no, no hay que ser tan drástico, no hay que ser tan
+38:25
+tampoco este digamos tan tampoco pensante.
+38:31
+Es eh cada caso es un caso único. Eh, no son todos casos fortuitos cuando se está
+38:37
+tercero, no son todos casos de nuestra responsabilidad, pero por eso es importante eh poder demostrar qué es lo
+38:44
+que se hizo, qué es lo que se hizo en cada uno de los momentos.
+38:49
+Y les decía, inicialmente, lo primero que uno tiene que hacer es construir un
+38:54
+esquema de prevención que no necesariamente es un esquema que no va a ser violado, que no puede ser violado,
+39:00
+sino solamente este es demostrar que uno tomó todos los recaudos necesarios con
+39:07
+anterioridad. Fíjense que eh la misma ley 25326 obliga a los responsables de
+39:12
+base de datos a a este adoptar medidas técnicas y organizativas para la para
+39:18
+garantizar la seguridad y confidencialidad de los datos. Y fíjense que no dice o no se lo pone este
+39:25
+sombrero a un área específica, dice organizativa, con lo cual uno entiende que todas las áreas relacionadas con una
+39:32
+determinada industria están o deben estar involucradas en esto de adoptar
+39:39
+medidas técnicas y organizativas para garantizar la seguridad de datos. Vamos pensar no solo en los departamentos de
+39:45
+tecnología, sino gobiernos, contratos, procesos, eh todo, todo estos sistemas,
+39:51
+sistemas de capacitación, todo hace este a generar de alguna forma, por una parte
+39:59
+algún esquema de poder deslindar responsabilidades y por otra parte generar también evidencia de que los
+40:05
+controles funcionan o no. Y como les decía, alguna de las cosas eh
+40:11
+ya las estuvieron adelantando los chicos, pero yo les diría que lo primero que uno tiene que hacer en materia de
+40:16
+prevención es elaborar un mapa de obligaciones.
+40:22
+Y cuando digo un mapa de obligaciones, es decir, bueno, esta industria en particular, esto un poco lo dijo Fabián,
+40:28
+esta industria en particular tiene alguna regulación específica en
+40:34
+relación con los datos que que manejo y uno puede pensar, por ejemplo, en la industria financiera. financiera tiene regulaciones específicas con
+40:40
+obligaciones particulares. Entonces, no es solo la ley eh la ley de
+40:46
+protección de datos personales, sino también las regulaciones particulares de los distintos sectores.
+40:53
+Y no solo eso, también hay que pensar, podemos llegar, esto también lo dijo, lo
+40:59
+dijo Gastón en su momento, podemos pensar en que pueden quedar involucradas algunas jurisdicciones extranjeras y
+41:06
+todo eso a mí me va a dar un mapa acerca de cuáles son mis obligaciones y además
+41:13
+qué relojes pueden estar corriendo en cada situación particular.
+41:20
+Imagínese que lo peor que nos puede llegar a pasar a nosotros es una vez que ocurre el incidente empezar a pensar en
+41:27
+todas estas cosas. ¿A quién le tengo que informar? ¿Qué qué qué corresponde? No, este, por lo menos no estaríamos obrando
+41:34
+con eh debida diligencia. La otra es eh regular adecuadamente proveedores. ¿Y
+41:41
+por qué digo esto? Bueno, no necesariamente los incidentes se verifican dentro de mi propia base de
+41:49
+datos, sino muchas veces hay uno tiene datos en, por ejemplo, en la nube.
+41:55
+Nosotros hace poco estuvimos trabajando en un en un caso eh así, la empresa que
+42:00
+brindaba servicios de nube a otros tipos de empresas. Entonces, eh la el otro tema es eh
+42:09
+pensar en alguna herramienta contractual
+42:14
+que la que nos vincula, por supuesto, con estos proveedores que genere algunas obligaciones particulares. por ejemplo,
+42:20
+aviso inmediato en caso de verificarse un incidente, algún protocolo de preservación de registros, el compromiso
+42:29
+de eh cooperar con todo lo que tiene que ver con el resguardo de la información,
+42:36
+eh el compromiso de eh transmitir toda la información que sea
+42:42
+necesaria para evaluar el tipo de riesgo, controles, reglas caras de responsabilidad, es decir, deslindar
+42:49
+responsabilidad. Todo esto es importante eh tenerlo en cuenta cuando uno eh
+42:55
+contrata con algún tipo de proveedor, porque la respuesta de esta de Bart Simpson yo no fui no sirve. En este
+43:02
+caso, este uno sigue siendo responsable.
+43:08
+Candelaria en un momento habló de esto de la minimización, la idea de que toda la información que está dando vuelta y
+43:15
+que y que tengo guardada es información útil y a veces no, a veces no. Por eso
+43:20
+también como un mecanismo de protección está bueno pensar en minimizar. Todo
+43:25
+esto que no voy a usar lo hago desaparecer. Todo esto que no necesito más lo puedo hacer desaparecer. Esto lo
+43:31
+que hace es limita un poco la cantidad de información y además este evita que
+43:37
+se pueda acceder a ella. Y además eh también es importante
+43:43
+caso de que por supuesto ocurra un incidente, eh poder demostrar esta
+43:48
+debida diligencia durante la prevención, porque a veces con solo generar estas esta este estos esquemas no es
+43:56
+necesario, sino también poder demostrarlo, por ejemplo, que las políticas eran conocidas, por ejemplo,
+44:01
+que si se capacitó al personal se registran las capacitaciones. a veces no solo alcanza con con capacitar, sino
+44:07
+también registrar que esas capacitaciones fueron dadas. Eh, todas las evaluaciones de riesgo, las que estaban hablando hace un momento los
+44:14
+chicos, ejercicios de respuesta, revisiones de proveedores, todo tipo de decisiones en cuanto a la mejora.
+44:22
+Si nosotros tenemos políticas que nadie conoce, si nosotros tenemos capacitaciones que no podemos demostrar
+44:28
+que se dieron, es muy difícil llegar a defendernos.
+44:34
+Entonces, la debida diligencia en esto es decir, bueno, nosotros razonablemente
+44:40
+pensamos en este problema, razonablemente consideramos que el riesgo era x y tomamos las medidas
+44:48
+necesarias para por lo menos evitar razonablemente este tipo de eh de
+44:56
+ataque. [resoplido] Pasando al segundo, al segundo tipo de
+45:01
+acción, la decisión, estaban hablando hace un momento e Solange y decía,
+45:09
+"Bueno, no es solo prevenir, no es solo actuar, sino hay que tomar decisiones."
+45:15
+Y esas decisiones se toman, como bien decía Solang, con información absolutamente incompleta. Eh, no es
+45:22
+completa. La información que uno tiene inicialmente no necesariamente es real, solamente tiene una una este información
+45:30
+parcial de lo que está pasando y hay que pensar en
+45:36
+los relojes, qué riesgo existen para las personas y también como decía Stanch a quién tengo
+45:43
+que comunicar. Hay obligación de comunicar a quién tengo que comunicar. En general no hay un único reloj, ¿no?
+45:49
+Les decía hace un momento que eh, por ejemplo, en el sector financiero hay una
+45:54
+norma eh particular, comunicación del Banco Central 8280, que dice que tiene
+46:00
+que comunicarse todo tipo de disidente de dentro de la primera. Fíjense como
+46:07
+este está dando un reloj diferente al que nosotros estaremos pensando que
+46:13
+existe de acuerdo a la resolución eh 47 20 2018, ¿no?
+46:20
+Acá uno de los grandes errores es siempre activar el mismo reloj, ¿no? Pero sí vas a decir algo, Fabi
+46:26
+no tal cual. A ver, diste un paneo super completo, digamos, de
+46:33
+cómo es que hay que interactuar entre las áreas, ¿no? esto que contaron los chicos a nivel de riesgos e incidentes y
+46:41
+lo que bien mencionaste a nivel de proveedores, tiene que haber una gestión
+46:46
+de riesgos e incidentes compartida, bien alineada y bien
+46:53
+estipulada a través de protocolos con nuestros este proveedores, que ya hoy no
+46:58
+son proveedores, son partners, son socios nuestros a nivel de cumplimiento,
+47:05
+este Absolutamente [resoplido] Sí, sí, sí, sí. Y bueno, brevemente digo
+47:11
+lo último que que lo importante como como decía en un principio, es el tema
+47:17
+también de la preservación, ¿no? Este, que es que es fundamental, ¿sí? Eh,
+47:23
+porque a veces uno dice, "Bueno, lo soluciono a lo a lo salvaje, ¿no? Eh,
+47:29
+desenchufo, eh, borro el disco. Bueno, no, todo eso
+47:34
+este lo que hace es destruir la evidencia forense que nosotros obramos en forma diligente, ¿no? Sí. Y y ahí eh Juanma,
+47:43
+un tema que que no es menor es que no se trata de que nosotros lo digamos, sino
+47:48
+que te lo pide la ley. La ley te pide que vos guardes evidencias y tengas
+47:56
+evidencia forense. Cuando hablamos de evidencia forense es algo que un
+48:01
+escribano pueda certificar y que uno pueda validar a nivel de la trazabilidad
+48:07
+para poder comunicar al ente regulador de datos personales este eh cómo es que se fue tratando el
+48:14
+incidente, digamos, ¿no? Y esto tiene que ver con lo que comentaba Sol
+48:20
+e en con diferentes países. Cada país tiene su particularidad. nos ha tocado
+48:26
+este tema de de tener que responder a esto y y de ahí también un poco lo que
+48:34
+eh tiene que ver con el hecho de cómo transformarse en este tema de gestión, ¿no? Nosotros junto con Juanma tenemos
+48:44
+esta posibilidad de poder gestionar a través de de nuestro servicio de digital
+48:49
+dpo [resoplido] e en lo que tiene que ver con todo este contexto, el armarnos
+48:55
+en forma resiliente, por así decirlo, de de preveer todos estos tipos de de
+49:01
+riesgos que que comentaban los chicos, pero también necesitamos trazabilidad, necesitamos documentar, etcétera. Y para
+49:08
+eso Gio es de la forma en la que él nos muestra cómo necesitamos transformarnos
+49:16
+a partir de inclusive el uso de de la tecnología en en particular, ¿no? Gio,
+49:25
+hola, ¿qué tal? Buenos días con todos. Si me permiten voy a proyectar y pasamos
+49:32
+directamente a el tema. A ver, un segundo.
+49:40
+Muy bien. Que tal vez me extienda algunos minutos adicionales, pero creo que eh va a valer la pena. Continuando
+49:48
+con la exposición, creo que yo eh ahora la pregunta es eh cómo llevar esto a la
+49:54
+práctica, ¿no? Típicamente [carraspeo] la gestión de cumplimiento se lleva en carpetas compartidas, en SharePoints, en
+50:00
+Exconectados. Eso hace que la gestión sea muy lenta, insostenible.
+50:07
+Y la idea de hoy es mostrarles justamente una herramienta cuya gran fortaleza es su capacidad de adaptarse,
+50:14
+digitalizar y consolidar en un solo ecosistema integrado procesos que por su naturaleza viven
+50:21
+dispersos o no tienen un soporte digital nativo. Justamente acá estoy en Goldenbert.
+50:28
+Cuando uno ingresa, el sistema reconoce quién soy y me muestra un tablero de mando
+50:36
+personalizado. En este caso, como oficial de protección de datos, me va a mostrar directamente
+50:43
+cuáles son mis procesos de privacidad documentados, cuáles son los documentos que utilizo,
+50:50
+las políticas que me aplican, los riesgos que están bajo mi gestión
+50:56
+y los procesos que se hayan digitalizado y que puedo gatillar. Es una vista
+51:02
+personalizada que se crea automáticamente para cada persona y que
+51:07
+la conecta con su operación diaria, con su día a día y a la vez con la
+51:12
+estrategia. En Goldenbelt entendemos que cada
+51:17
+organización de su mundo. Es suele ser un error tener una caja cerrada que nos
+51:23
+obliga a adaptarnos a un sistema. Justamente la fortaleza de Goldenbelt es
+51:28
+que es flexible. se puede adaptar y puede digitalizar y consolidar todos
+51:34
+estos procesos que antes, como les mencionaba, se manejan a través de archivos, repositorios, correo.
+51:42
+Para mostrarles esto, quiero que vean lo sencillo que es
+51:48
+digitalizar un proceso. Para eso vamos a utilizar el módulo de
+51:54
+flujos de trabajo. Es un módulo de automatización que tiene el sistema. Acá yo puedo crear cualquier tipo de de
+52:03
+proceso, podría ser de cualquier tipo, ¿no? Una solicitud de compras, una solicitud del
+52:11
+ejercicio de derechos arco, un registro de incidentes como en este caso. Y básicamente son tres pasos los que hay
+52:17
+que seguir. Primero, diseñar el proceso,
+52:23
+el paso a paso, conectar las tareas, identificar si es
+52:28
+que hay algún tipo de regla de negocio, compuertas de decisión, los roles.
+52:35
+La idea acá es que podamos ejecutar ese proceso de la forma en que
+52:40
+se diseñó, ¿no? Ya sea por el equipo de procesos o por el equipo de de cumplimiento.
+52:47
+El segundo paso básicamente es
+52:52
+definir o identificar toda esa información que va a fluir por el proceso que se va a
+52:58
+capturar en cada una de las etapas. En lugar de utilizar formularios genéricos en Goldenbelt, pueden crearlos de forma
+53:05
+personalizable, pueden incluso estructurar fórmulas y crear campos tantos como necesiten. Es
+53:13
+decir, no hay un no hay un límite. Si hay cierta información que la regulación
+53:18
+nos pide, tranquilamente se puede incorporar y ya sea por la ley o por algún una
+53:26
+normativa o un estándar interno que nosotros manejamos. Y el tercer paso
+53:32
+básicamente va a ser configurar el comportamiento del work, ¿no? Por ejemplo, acá yo puedo definir
+53:40
+quiénes van a ocupar cada uno de los roles, incluso puedo
+53:45
+por acá hacer un vínculo directo hacia la organización, es decir, hacia el
+53:50
+organigrama, que también es información que está en el sistema, es decir, no tengo que estar
+53:55
+configurando persona por persona. Luego también, bueno, acá se pueden
+54:02
+agregar varias cosas, ¿no? Podemos definir SLAS, podemos definir, por ejemplo,
+54:08
+notificaciones, definir que una tarea gatilla, una
+54:14
+notificación. Si una tarea está por vencerse, el sistema envía un correo de alerta, envía
+54:21
+recordatorios y si fuese necesario también escala de forma automática.
+54:28
+Con estos tres pasos el flujo se publica
+54:33
+y ya cualquier persona de su tablero podría ejecutarlo, ¿no? Con toda la
+54:39
+trazabilidad que necesitamos. Para que un ejemplo de un proceso ya
+54:47
+gatillado. Por acá tengo uno que ya ejecuté.
+54:54
+Esto es un tablero de mando más una vista de administración donde puedo ver cuáles son las solicitudes que se han
+55:00
+hecho. Acá tengo, por ejemplo,
+55:06
+quiero mostrarles esta vista. Esta vista es super interesante. Acá lo que nos muestra el sistema es que eh pone en
+55:15
+verde, bueno, todo el camino que seó el caso, ¿no? Vamos a ver exactamente por qué pasos
+55:21
+pasó. el requerimiento, la solicitud. Por acá, por ejemplo,
+55:27
+sabemos específic específicamente cuál es la tarea, quién la ejecutó,
+55:33
+fechas y horas de inicio, e incluso podemos ver todo el detalle.
+55:40
+Acá veo el formulario que completó la persona con toda la información
+55:51
+sobre el proceso, sobre el evento, sobre el incidente y toda la evidencia.
+55:57
+En resumen, acá la idea es que pasamos de gestionar la crisis de forma
+56:02
+reactiva, de forma desordenada por chats o por correo a tener ya un
+56:10
+proceso digitalizado, gobernado, ágil y como ven 100%
+56:17
+auditable, ¿no? Muy bien. Y y también ahí GO 100%
+56:25
+customizable, ¿no? Porque no es que la empresa tiene que adecuarse
+56:31
+a nuestra forma, digamos, sino que al contrario, nosotros lo que hacemos es
+56:37
+entender la también la cultura y la forma en la que tiene la compañía de
+56:42
+llevar esto adelante, ¿no? Y no también no se necesita saber de
+56:47
+programación. Esto es 100% funcional.
+56:53
+Muy bien. Ante cualquier incidente, obviamente la autoridad nos va a preguntar qué datos específicos se
+57:00
+comprometieron, bajo qué finalidad los trataban. en una organización tradicional donde no
+57:06
+hay un sistema de por medio como este tipo, buscar todo eso va a tomar un tiempo regular, ¿no? En Goldenpo, lo
+57:13
+resolvemos con un módulo que se llama colecciones.
+57:19
+Este es el módulo de colecciones. Es un módulo que nos permite crear matrices. En este módulo podríamos crear el
+57:26
+registro de actividades de tratamiento, el el rato o el ropa.
+57:31
+Básicamente sería una matriz viva con columnas también personalizables que se
+57:37
+pueden adaptar a cualquier tipo de de regulación.
+57:44
+Y esos datos Shi también se pueden traer desde las evaluaciones de impacto, ¿no?
+57:50
+Correcto. De los PIA. Correcto.
+57:55
+Por ejemplo, acá les muestro ya cómo se ve la matriz. La vista anterior era más una vista de
+58:01
+configuración y por ejemplo acá tenemos el proceso de
+58:07
+de liquidación de averes. Acá podemos ver quién es el responsable
+58:12
+del tratamiento. Podemos ver la finalidad. Podríamos ver también un poco más a la
+58:19
+derecha cuáles son los datos sensibles.
+58:25
+Podemos ver también el plazo, las medidas de seguridad asociadas.
+58:31
+Si se detecta una vulnerabilidad, bueno, de inmediato sabemos cruzando la información en el ropa o en el RAT, que
+58:38
+datos específicos de la empresa están en peligro inminente. No, no adivinamos,
+58:43
+podemos actuar con precisión. Y justamente todo lo que eh mapeamos en el
+58:49
+ropa a la vez va a alimentar a nuestra matriz de riesgos. Se puede también crear una
+58:56
+matriz de riesgos personalizable. Aquí he cargado una que amablemente SCH
+59:01
+me me compartió con su equipo. Eso también es producto de la evaluación del
+59:06
+impacto. Y básicamente acá lo que podemos hacer es hacer la configuración
+59:12
+de las distintas columnas, incluso los cálculos que hay de por medio para finalmente obtener el nivel de riesgo.
+59:19
+Pero lo más importante, diría yo, que es esto que está a la derecha,
+59:25
+que son justamente los planes de acción mitigantes. Eh, Goldenbes
+59:32
+de acción directamente a los riesgos, a los controles, a los procesos.
+59:40
+Por acá, por ejemplo, tengo un reporte de planes de acción, un dashboard. Ya lo
+59:45
+puedo ver por fecha de compromiso, por estado, por responsable. Incluso esto es
+59:50
+interactivo. Puedo dar un doble clic y ver esos seis que vencían en noviembre en qué estado están. Hay uno que está en
+59:57
+standby. Puedo ir dando un doble clic. Llego hasta acá, veo cuál es el plan de acción y tengo una lupa que el darle
+1:00:02
+clic me lleva hacia el formulario del plan de acción. Entonces, si yo soy el responsable, puedo
+1:00:09
+entrar a través del gráfico, llegar hasta el plan de acción, indicar que ya lo terminé, indicar que ya avancé,
+1:00:16
+colgar algún tipo de evidencia. El sistema tiene notificaciones, me avisa cuando algo está por vencerse, cuando
+1:00:22
+algo ya venció, eh, envía recordatorios, todo lo que antes tal vez era hitos
+1:00:28
+donde se hacían las revisiones correspondientes. Bueno, acá es automático, el sistema me ayuda a a
+1:00:34
+saber en qué voy, en cómo van avanzando las cosas y aparte todos pueden participar, ¿no? Porque la persona, el
+1:00:41
+usuario final, el que es responsable del plan de acción, puede entrar directamente la herramienta y hacer
+1:00:46
+cualquier tipo de actualización que se requiera es configurable los permisos que puede tener la persona dentro de del
+1:00:53
+sistema. Eh, muy bien. Eh, solo para finalizar,
+1:00:58
+disculpen que les estoy robando tiempo adicional, pero me parece esto también importante. Eh, como saben, la
+1:01:05
+privacidad no es un esfuerzo de un solo departamento, requiere el involucramiento de toda la organización,
+1:01:11
+implica también conversar con otro tipo de gestiones. En Goldenbel podemos soportar todo ese ecosistema. Por
+1:01:17
+ejemplo, si hablamos de gestión documental, rápidamente les muestro acá que se puede encargar toda la
+1:01:22
+documentación interna de la empresa, documentación normativa, incluso externa. Por ejemplo, acá tengo la ley,
+1:01:31
+que es básicamente un PDF. Ahora, acá, ¿qué es lo distinto? que yo en vez de solo tener el PDF también
+1:01:37
+podría interactuar con el documento. Por ejemplo, podría preguntarle
+1:01:43
+que es un dato sensible.
+1:01:52
+Y básicamente acá lo que hace el sistema es lee el documento, la lee el documento y me da una respuesta en el natural
+1:02:00
+respondiéndome pregunta, ¿no? Entonces también facilitamos el la interacción
+1:02:05
+que puedan tener los usuarios con la información del sistema, información que necesiten eh consultar en su día a día.
+1:02:13
+Y termino solamente mostrándoles que no solamente se pueden manejar PDFs, sino que también podríamos
+1:02:22
+podríamos también generar documentos desde cero dentro del sistema, ¿no? Por ejemplo, un proceso crítico, la atensión
+1:02:28
+de ejercicios de derechos arco. se puede directamente la herramienta documentar
+1:02:34
+el diagrama de flujo y ese diagrama en automático genera el procedimiento
+1:02:43
+y esta información está directamente relacionada al puesto de la persona. Entonces, el sistema ya sabe qué cosa
+1:02:49
+mostrarle a cada persona, no hay que configurar qué cosa ve cada una.
+1:02:55
+Y bueno, eso era lo que quería mostrarles. En conclusión, la transformación de la gestión de la
+1:03:02
+privacidad no se logra acumulando, como les decía al inicio, archivos de
+1:03:08
+distinto tipo Excel o redactando políticas que podrían quedar archivadas.
+1:03:13
+se logra justamente integrando la metodología probada que describía
+1:03:18
+Solanch con una plataforma tecnológica robusta, flexible y de fácil adopción
+1:03:25
+como como Golden Muchas gracias.
+1:03:32
+Buenísimo. Ahí nos preguntaban Giordano, perdón, perdón Javi, si era una solución, Cloud, ya lo contestamos.
+1:03:38
+¿Alguna otra pregunta o algo por el estilo? Es un SAS Correcto.
+1:03:46
+Diego, si hay alguna este definición técnica que quieras darle a los chicos
+1:03:54
+respecto de cómo utilizar la herramienta, cómo se implementa, etcétera.
+1:04:01
+Es un software de service, es un alquilar mensual, es una solución en la nube. Utilizamos la nube de Amazon con
+1:04:09
+toda la seguridad de por medio. Es una herramienta que se implementa muy rápido. Eh, tiene en total 15 módulos.
+1:04:18
+Son varios temas los que se gestionan dentro de la herramienta. Es una herramienta que puede ser aprovechada por toda la organización.
+1:04:24
+No se implementan todos los módulos en un inicio. Normalmente son cinco, seis y esos cinco, seis demoran unas 12, 14
+1:04:31
+semanas. Entonces es muy rápida de de implementar. Bien. Y tenemos todos los niveles de
+1:04:37
+protección de datos, obviamente. Este [risas] este sí a quienes ya tiene nuestro a quienes
+1:04:42
+ya tiene nuestro servicio de digital, esta herramienta, perdón, esta herramienta se acopla eh
+1:04:49
+perfectamente a nuestro servicio digital. Eh, quienes ya lo tienen pueden
+1:04:56
+adquirirlo, obviamente. Tal cual. Tal cual. Bien. Excelente.
+1:05:01
+Bueno, eh nada, les agradecemos muchísimo este tiempo adicional que que
+1:05:06
+nos han brindado. Esperamos que siempre tratamos de dar este tipo de de charlas,
+1:05:13
+este, independientemente de mostrar alguna de nuestras fortalezas y y
+1:05:20
+nuestras cuestiones, eh, principalmente en dejar en esto e lo que está relacionado con el hecho
+1:05:27
+de entender de cómo abordar e la la parte de cumplimiento, digamos, ¿no? O
+1:05:33
+sea, que que esto ustedes vean independientemente de distintos tipos de
+1:05:38
+de de herramientas, gestión, etcétera, que se vea, digamos, que hay eh eh una
+1:05:46
+forma de de poder abordar eh los requerimientos y las necesidades
+1:05:52
+que tenemos hoy por hoy en base al eh la creciente evolución
+1:06:01
+de la tecnología en donde muchas veces no Juanma, la parte legal viene como
+1:06:07
+tratando de correrla de atrás como para que no se nos escape, ¿no?
+1:06:12
+Por supuesto. Sí, sí, si ese es uno de los grandes problemas que tenemos, es que todas estas cosas las empezamos a pensar una vez que sufrimos una
+1:06:19
+intrusión o cuando tenemos algún tipo de ciberataque o cuando nos damos cuenta de que hubo exfiltración de información.
+1:06:25
+Entonces, ese es uno de los grandes problemas. Hay que tratar de de Yo creo que esta herramienta es es este
+1:06:32
+como la debida diligencia este materializada. Entonces es muy es muy importante pensar en en algo si no es
+1:06:40
+esta herramienta, en algo similar para para poder evitar estos problemas. Tal cual. Tal cual. Así que bueno,
+1:06:47
+sí. Muy bien. Sí, perfecto. Bueno,
+1:06:52
+mil gracias. Entonces si no preguntas los despo. Gracias.
+1:06:58
+Un buen día. Chao. Adiós. Chao. Chao. Adiós.
+1:07:04
+No todas las amenazas hacen ruido. Algunas crecen silenciosamente, incluso
+1:07:09
+en sistemas que parecen protegidos. El fishing, el ransonware o la maliciosa no
+1:07:15
+siempre son el primer síntoma, muchas veces son la consecuencia. Por eso, la verdadera fortaleza está en detectar
+1:07:21
+vulnerabilidades antes de que se conviertan en un problema. Con una visión de negocio, la ciberseguridad
+1:07:27
+deja de ser solo reacción para transformarse en prevención estratégica. En BDO somos especialistas en
+1:07:33
+fortalecer, mitigar y asegurar la continuidad de tus operaciones, acompañándote en cada decisión crítica
+1:07:39
+para construir una organización ciberresente. Cuando una empresa cuida su salud corporativa, evoluciona con
+1:07:45
+confianza hasta alcanzar su inmunidad digital. BDO Cyber, la fórmula perfecta
+1:07:51
+entre visión de negocio y defensa digital.
