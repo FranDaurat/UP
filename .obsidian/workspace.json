@@ -187,6 +187,11 @@
   "lastOpenFiles": [
     "Etc.md",
     "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Repaso primer parcial.md",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo6-5-CVE-2017-7494.pdf",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo6-4-CVE-2003-0818.pdf",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo6-3-CVE-2019-0708.pdf",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo6-2-info_Adicional.pdf",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo6-1-Buffer_overflow.pdf",
     "fullrecon-infra-memory.md",
     "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/FPNZxGGc.jpeg",
     "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 1 - Historia y evolucion de SO.md",
@@ -199,13 +204,8 @@
     "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 4 - Mecanismos de seguridad.md",
     "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 3 - Sistema de archivos.md",
     "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 2 - Virtualizacion (VDI y virtualizadores).md",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/TP.pdf",
-    "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Material/Consigna-TP-Grupal.pdf",
     "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas/Material/transcripts/charlas/gobernanza_responsabilidad_alta_direccion.md",
     "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas/Material/transcripts/charlas/privacidad_seguridad_como_respuesta.md",
-    "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas/Material/transcripts/charlas/goberanza_responsabilidad_alta_direccion.txt",
-    "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas/Material/transcripts/charlas/privacidad_seguridad_como_respuesta.txt",
-    "Tercer Año/Segundo Cuatrimestre/Estandares y Normativas/Material/transcripts/charlas",
     "Cuarto Año/Informatica Forense/Informatica Forense.md",
     "TP_Seguridad_Ofensiva/_ct.png",
     "TP_Seguridad_Ofensiva/_pg2.png",
@@ -229,7 +229,6 @@
     "Cuarto Año/Planeamiento estrategico/Banco de preguntas.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Oral.md",
     "Tercer Año/Primer Cuatrimestre/Testing y QA/Modulo 7 - Estrategias de Testing.md",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Coass.md",
-    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Modulo 2 - Gobierno Corporativo y estandares relacionados I.md"
+    "Tercer Año/Primer Cuatrimestre/Auditoria de sistemas/Coass.md"
   ]
 }

@@ -11,6 +11,7 @@
 - [[#Módulo 4 — Mecanismos de seguridad]]
 - [[#Módulo 5 — Encriptación y auditoría]]
 - [[#Módulo 6 — Hardening de sistemas operativos]]
+- [[#Primer Parcial — Casos resueltos]]
 
 ---
 
@@ -757,3 +758,103 @@
 
 > [!success]- Respuesta
 > Porque el entorno cambia: aparecen **vulnerabilidades nuevas** (0-day y CVE recién publicados), se instalan aplicaciones y servicios que **vuelven a ampliar la superficie de ataque**, y las configuraciones se degradan con el tiempo (*configuration drift*). Por eso las medidas deben **revisarse, auditarse y actualizarse periódicamente**.
+
+---
+
+# Primer Parcial — Casos resueltos
+
+> [!tip] Sobre esta sección
+> Transcripción del **Primer Parcial** rendido, con las respuestas entregadas. Nota por caso entre paréntesis. La **3c** está corregida según el material del Módulo 2.
+
+**Caso 1 (2/2).** Un administrador de sistemas debe seleccionar un sistema operativo para un servidor corporativo que prioriza seguridad y estabilidad.
+
+**1a.** Analice las ventajas de utilizar UNIX como sistema operativo en un entorno de alta seguridad.
+
+> [!success]- Respuesta
+> UNIX ofrece mayor **estabilidad y robustez**. Su diseño **modular y minimalista** brinda una mayor transparencia. Su naturaleza orientada al **multiusuario** facilita la separación de permisos y accesos, brindando un mejor **aislamiento** entre ellos y evitando que uno afecte el entorno del otro.
+
+**1b.** Compare las diferencias clave entre sistemas operativos centralizados y distribuidos.
+
+> [!success]- Respuesta
+> - **Centralizado:** un único equipo físico o servidor contiene todos los elementos de hardware necesarios. Facilita la administración, pero tiene **menor tolerancia a fallos**: si el equipo falla no se puede continuar operando hasta resolver el inconveniente.
+> - **Distribuido:** compuesto por **varios nodos** ubicados en diferentes lugares. Dificulta la administración (hay que gestionar más equipos), pero brinda **mayor tolerancia a fallos**, permitiendo continuar la operativa del negocio ante la falla de alguno.
+
+**1c.** Explique qué características debería considerar el administrador respecto a multitarea y multiusuario.
+
+> [!success]- Respuesta
+> - **Multitarea:** debe ser **preventiva y eficiente**, es decir, poder procesar varias peticiones para mejorar la productividad, pero a su vez dar **prioridad a los procesos críticos** para evitar fallos y problemas de seguridad.
+> - **Multiusuario:** se requieren **controles de acceso robustos**, **aislamiento de sesiones** y **auditoría de actividades**, evitando que un usuario afecte el entorno del otro.
+
+**Caso 2 (2/2).** Se requiere implementar un sistema de almacenamiento de archivos eficiente y confiable en un entorno Linux.
+
+**2a.** Explique la función principal de un sistema de archivos.
+
+> [!success]- Respuesta
+> Un sistema de archivos **organiza y gestiona el almacenamiento en disco**, facilitando el acceso, recuperación y seguridad de datos mediante estructuras como los **directorios, bloques e inodos**.
+
+**2b.** Analice el papel de un inodo en la organización del almacenamiento.
+
+> [!success]- Respuesta
+> El inodo funciona como un **índice**: almacena **metadatos** como el propietario, tamaño, fecha de creación y modificación, etc. Permite acceder al contenido **sin recorrer toda la estructura de directorios**, ya que todos los inodos de un mismo sistema de archivos tienen un **número de inodo único** para identificar archivos y directorios.
+
+**2c.** Proponga un sistema de archivos adecuado (ext4, ZFS, etc.) y justifique su elección.
+
+> [!success]- Respuesta
+> Para un servidor Linux la mejor opción es **ext4** por su confiabilidad, estabilidad y **journaling**, que minimiza la corrupción ante fallos, brindando un equilibrio entre rendimiento y confiabilidad.
+
+**Caso 3 (1/2).** Un equipo de TI está considerando introducir virtualización en su infraestructura para optimizar recursos.
+
+**3a.** Defina qué es la virtualización de hardware y su ventaja principal.
+
+> [!success]- Respuesta
+> La virtualización de hardware consiste en **emular mediante software** memoria RAM, CPU, almacenamiento en disco, etc., permitiendo contar con **varios sistemas operativos en una misma máquina host** o anfitrión. Su principal ventaja radica en la **optimización de recursos**, el abaratamiento de costos y el **aislamiento** de equipos de la red principal, ya que también se pueden emular redes.
+
+**3b.** Describa el papel de un hipervisor en la virtualización.
+
+> [!success]- Respuesta
+> El hipervisor actúa como **intermediario entre el hardware y las máquinas virtuales**: asigna y quita recursos, gestiona el **aislamiento** y se encarga de la administración de las distintas máquinas *guest* o invitadas.
+
+**3c.** Analice un desafío específico relacionado con la virtualización de CPU.
+
+> [!success]- Respuesta
+> El desafío principal es la **sobrecarga de virtualización (overhead)**. Para que varias VM compartan el mismo procesador físico, el hipervisor debe hacer:
+> - **Traducción de direcciones:** traduce las direcciones de memoria y de E/S de cada VM al espacio de direcciones físicas del procesador. Evita conflictos y garantiza el aislamiento, pero cuesta ciclos.
+> - **Planificación de CPU:** reparte el tiempo de procesador entre las VM asignando ciclos de reloj de forma equitativa.
+> - **Interrupciones virtuales:** las interrupciones que generan las VM no pueden ir directo al hardware; se **redirigen al hipervisor** para que las procese.
+>
+> Esa sobrecarga es **mínima**, pero debe considerarse en **entornos de alto rendimiento**. Un desafío complementario es la **gestión de recursos**: asignar la CPU de forma equitativa y administrar bien la asignación para evitar que una VM monopolice el procesador o aparezcan problemas de rendimiento.
+
+**Caso 4 (2/2).** Una empresa necesita garantizar la confidencialidad de datos sensibles almacenados y transmitidos.
+
+**4a.** Defina la diferencia entre encriptación de datos en reposo y en tránsito.
+
+> [!success]- Respuesta
+> - **En reposo:** protege los datos almacenados de manera "estática", como los que se encuentran en discos, archivos o dispositivos extraíbles. Evita acceder al contenido sin contar con la clave de descifrado. Ejemplos: **LUKS** en Linux, **BitLocker** en Windows.
+> - **En tránsito:** protege los datos "en movimiento" cifrando los **canales de comunicación**. Ejemplos: **HTTPS, SSH, TLS**.
+
+**4b.** Explique el propósito principal del journaling en sistemas de archivos.
+
+> [!success]- Respuesta
+> El journaling consiste en **registrar las operaciones antes de aplicarlas al disco**, permitiendo recuperar el sistema rápidamente tras un fallo o apagado repentino y reduciendo el riesgo de **corrupción de datos**.
+
+**4c.** Analice el impacto de la compresión con pérdida en la integridad de archivos multimedia.
+
+> [!success]- Respuesta
+> La compresión con pérdida **elimina datos** del archivo original para reducir su tamaño. Es común en multimedia (**MP3, JPG**), que sigue siendo utilizable pero con **menor calidad** que el original. Es un problema cuando se requiere **confiabilidad de la información**, como en **peritajes digitales** o la reconstrucción de archivos o estructuras críticas.
+
+**Caso 5 (2/2).** Durante la planificación de la seguridad en sistemas operativos, se considera implementar prácticas de auditoría y monitoreo.
+
+**5a.** Explique qué es una auditoría de seguridad en sistemas operativos.
+
+> [!success]- Respuesta
+> Es el proceso de **registrar, analizar y evaluar** las actividades del sistema para **detectar incidentes**, garantizar el **cumplimiento de políticas** y mejorar la protección ante amenazas.
+
+**5b.** Analice el rol de un SIEM (Security Information and Event Management) en la detección de amenazas.
+
+> [!success]- Respuesta
+> Un SIEM **centraliza logs** de múltiples fuentes, **correlaciona eventos** y aplica **reglas** para detectar amenazas **en tiempo real**.
+
+**5c.** Describa el concepto de hardening de sistemas operativos y su importancia en entornos críticos.
+
+> [!success]- Respuesta
+> El hardening es el proceso de **reforzar un sistema operativo reduciendo la superficie de ataque**: se deshabilitan puertos o servicios innecesarios, se aplican parches, se configuran permisos y firewalls y se aplican políticas estrictas. En entornos críticos es vital porque **minimiza vulnerabilidades, previene intrusiones y asegura la continuidad operativa**.
