@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Repaso primer parcial.md",
+                "file": "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Repaso Final.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repaso primer parcial"
+              "title": "Repaso Final"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Repaso primer parcial.md",
+                "file": "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Repaso Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,10 @@
   },
   "active": "7f17a3abf7249011",
   "lastOpenFiles": [
-    "Etc.md",
     "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Repaso primer parcial.md",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Repaso Final.md",
+    "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo1-1-Introduccion.pdf",
+    "Etc.md",
     "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo6-5-CVE-2017-7494.pdf",
     "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo6-4-CVE-2003-0818.pdf",
     "Tercer Año/Segundo Cuatrimestre/Seguridad Ofensiva/Material/Modulo6-3-CVE-2019-0708.pdf",
@@ -199,7 +201,6 @@
     "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa/primer-parcial/Respuestas Primer Parcial.txt.tmp.3752867.941360f36bc1",
     "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa/primer-parcial/Respuestas Primer Parcial.txt",
     "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa/primer-parcial/Respuestas Primer Parcial.txt.tmp.3752867.d44c518b07e9",
-    "Tercer Año/Segundo Cuatrimestre/Ingenieria inversa/primer-parcial/Respuestas Primer Parcial - Ingenieria Inversa.docx",
     "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 5 - Encriptacion.md",
     "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 4 - Mecanismos de seguridad.md",
     "Tercer Año/Segundo Cuatrimestre/Seguridad en SisOps/Modulo 3 - Sistema de archivos.md",
