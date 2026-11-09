@@ -1,0 +1,2757 @@
+WEBVTT
+
+1
+00:00:13.940 --> 00:00:17.620
+Carlos Fabian Descalzo: Hola, ¿qué haces turquito.
+
+2
+00:00:20.720 --> 00:00:22.609
+Alberto H. Saul: ¿cómo anda? Señor.
+
+3
+00:00:22.610 --> 00:00:24.890
+Carlos Fabian Descalzo: Todo en orden. Vos.
+
+4
+00:00:25.190 --> 00:00:28.890
+Alberto H. Saul: Bien buscando los auriculares que me olvidé.
+
+5
+00:00:28.890 --> 00:00:32.519
+Carlos Fabian Descalzo: Bien. Muy bien. Ahí están empezando a entrar los chicos.
+
+6
+00:00:32.689 --> 00:00:38.620
+Carlos Fabian Descalzo: Así que pero manejate tranqui nero, mateo.
+
+7
+00:00:40.060 --> 00:00:41.090
+MATEO VALENZUELA: Lo vemos.
+
+8
+00:00:41.400 --> 00:00:43.519
+Carlos Fabian Descalzo: Bien negro, todo en orden.
+
+9
+00:00:44.510 --> 00:00:45.150
+MATEO VALENZUELA: Bueno.
+
+10
+00:00:50.480 --> 00:00:51.640
+Carlos Fabian Descalzo: Ahí estamos.
+
+11
+00:00:53.570 --> 00:00:54.920
+MATEO VALENZUELA: Fue a la eco Profe.
+
+12
+00:00:55.770 --> 00:01:06.939
+Carlos Fabian Descalzo: ¿cómo no sabés que no, no llegué a ir? Che, No, No, Lamentablemente no me dio el tiempo. Tenía reuniones vistes y eso. Y la verdad. Este año me quedé afuera.
+
+13
+00:01:07.520 --> 00:01:11.070
+Carlos Fabian Descalzo: Pero estuve viendo comentarios, estuvo muy bueno. Vos fuiste.
+
+14
+00:01:11.950 --> 00:01:15.019
+MATEO VALENZUELA: Sí fui los 3 días. Por suerte en el laburo, me lo dieron.
+
+15
+00:01:15.270 --> 00:01:22.709
+Carlos Fabian Descalzo: Ohh: ¿Qué? Bueno, qué? Bueno, Y algo en particular que te haya llamado la atención o algo.
+
+16
+00:01:22.710 --> 00:01:27.439
+MATEO VALENZUELA: Hay una charla de Windows que estuvo muy buena de
+
+17
+00:01:27.680 --> 00:01:34.110
+MATEO VALENZUELA: de un jonda de de spectrerops de de Ladderhound que estuvo zarpada charla.
+
+18
+00:01:34.550 --> 00:01:37.680
+MATEO VALENZUELA: No me pareció. No me mataran igual. Las charlas.
+
+19
+00:01:38.080 --> 00:01:38.660
+Carlos Fabian Descalzo: Ajá.
+
+20
+00:01:38.660 --> 00:01:46.939
+MATEO VALENZUELA: Las tía muy básicas, como muy tipo Hacking wano One. No sé Bluetid mono one todo tipo muy, muy
+
+21
+00:01:47.900 --> 00:01:50.220
+MATEO VALENZUELA: para principiante. Entonces, como que no
+
+22
+00:01:50.340 --> 00:01:52.330
+MATEO VALENZUELA: por ahí no le saqué mucho jugo.
+
+23
+00:01:52.730 --> 00:02:04.570
+MATEO VALENZUELA: Pero había una charla muy divertida que ahora creo que le empiezan a hacer todos los años, que es hacer llamadas de Beisjing, llamar a lugares y tener ciertos flages como para conseguir, Y eso.
+
+24
+00:02:06.680 --> 00:02:07.430
+MATEO VALENZUELA: claro.
+
+25
+00:02:07.430 --> 00:02:08.250
+Carlos Fabian Descalzo: Digamos, de.
+
+26
+00:02:08.259 --> 00:02:09.959
+MATEO VALENZUELA: Sí, Sí, sí, sí, claro.
+
+27
+00:02:10.099 --> 00:02:14.709
+MATEO VALENZUELA: Tenías 2 modalidades. Una que era llamada en Jodam. Y tenías que, como
+
+28
+00:02:14.909 --> 00:02:28.119
+MATEO VALENZUELA: a mí, fue justo. Yo participé y me tocó llamar a una cancha de fútbol y alquilar una cancha, pero pedir que haya una ambulancia, porque Tengo un amigo viejo, por ejemplo, Boludes, así.
+
+29
+00:02:28.409 --> 00:02:39.849
+MATEO VALENZUELA: Y después había la otra modalidad que era llamar a una empresa e intentar de sacar, No sé. Emails, teléfono, proveedor de Internet contraseña de Internet. Tenía diferentes flags como para intentar conseguir.
+
+30
+00:02:40.460 --> 00:02:40.900
+Carlos Fabian Descalzo: Mira.
+
+31
+00:02:40.900 --> 00:02:42.669
+MATEO VALENZUELA: Estaba. Estaba Estaba muy al día.
+
+32
+00:02:43.160 --> 00:02:51.049
+Carlos Fabian Descalzo: Bueno, vieron que yo siempre hago como una línea de tiempo con las cosas. Y siempre digo de que nada de lo que estamos haciendo ahora.
+
+33
+00:02:51.650 --> 00:02:54.950
+Carlos Fabian Descalzo: Digo, ya está todo inventado. Sí.
+
+34
+00:02:55.840 --> 00:03:04.860
+Carlos Fabian Descalzo: Esto que vos estás comentando de las llamadas de teléfono Google en Internet tanga, langa?
+
+35
+00:03:05.910 --> 00:03:06.840
+Carlos Fabian Descalzo: No sé si lo sé.
+
+36
+00:03:06.840 --> 00:03:07.370
+MATEO VALENZUELA: De la.
+
+37
+00:03:07.370 --> 00:03:09.270
+Carlos Fabian Descalzo: Nombrar, se.
+
+38
+00:03:09.270 --> 00:03:15.940
+Alberto H. Saul: No puedo creer que trajiste esto tanga langa buenísimo.
+
+39
+00:03:16.410 --> 00:03:20.449
+Carlos Fabian Descalzo: Sí, sabes por qué mate.
+
+40
+00:03:20.450 --> 00:03:21.930
+Alberto H. Saul: Por el bishing.
+
+41
+00:03:22.930 --> 00:03:24.320
+Carlos Fabian Descalzo: Claro esto que vo.
+
+42
+00:03:24.320 --> 00:03:24.700
+Alberto H. Saul: A ver.
+
+43
+00:03:24.700 --> 00:03:30.010
+Carlos Fabian Descalzo: Contando. ¿qué hicistes con con la cancha de fútbol?
+
+44
+00:03:30.390 --> 00:03:32.640
+Carlos Fabian Descalzo: Es lo que hacía tanga galanga.
+
+45
+00:03:33.160 --> 00:03:34.830
+Alberto H. Saul: Sí, claro.
+
+46
+00:03:34.930 --> 00:03:38.230
+Carlos Fabian Descalzo: Por por por teléfono, digamos no.
+
+47
+00:03:38.960 --> 00:03:39.490
+MATEO VALENZUELA: Digo.
+
+48
+00:03:39.490 --> 00:03:43.169
+Carlos Fabian Descalzo: Bueno, vieron que yo
+
+49
+00:03:44.130 --> 00:04:00.869
+Carlos Fabian Descalzo: entiendo que que laburo mucho con el tema de asociación de de distintas cuestiones, también un poco como para entender en algunas oportunidades, la dinámica, no en la que 1 va haciendo, inclusive ingeniería social y cosas así por el estilo
+
+50
+00:04:00.880 --> 00:04:14.039
+Carlos Fabian Descalzo: y vos fíjate cómo esto que yo te estoy hablando decime ahí. Este Albert, si si me equivoco, pero creo que es tipo entre los 70 y los 80. Esto que yo les comento
+
+51
+00:04:14.610 --> 00:04:18.529
+Carlos Fabian Descalzo: de un tipo que se hizo recontra re famoso
+
+52
+00:04:19.040 --> 00:04:22.460
+Carlos Fabian Descalzo: haciendo chistes por teléfono con estas cuestiones, no
+
+53
+00:04:22.830 --> 00:04:28.270
+Carlos Fabian Descalzo: en donde vos lo podés aplicar, como si fuera ingeniería social
+
+54
+00:04:28.640 --> 00:04:31.549
+Carlos Fabian Descalzo: desde el punto de vista nuestro hoy por hoy.
+
+55
+00:04:32.150 --> 00:04:36.980
+Carlos Fabian Descalzo: pero en su momento él lo hacía para sacar de quicio a alguien simplemente.
+
+56
+00:04:36.980 --> 00:04:37.960
+Alberto H. Saul: Era buenísimo.
+
+57
+00:04:38.240 --> 00:04:45.650
+Carlos Fabian Descalzo: Se entiende, pero va por ese lado ahí. Albert: No sé si quieres aportar algo más o mate.
+
+58
+00:04:45.650 --> 00:04:53.160
+Alberto H. Saul: Sí era. Era Era humorista, tan galanga entonces hacía llamadas. Pero, claro, no había forma de validar nada. Antes existía el tema.
+
+59
+00:04:53.160 --> 00:04:53.590
+Julian Massa: A la.
+
+60
+00:04:53.590 --> 00:04:54.540
+Alberto H. Saul: Niña: nomás.
+
+61
+00:04:54.900 --> 00:04:57.070
+Julian Massa: Bue. Buenas tardes a todos. ¿cómo están.
+
+62
+00:04:57.070 --> 00:04:57.910
+Alberto H. Saul: Sí.
+
+63
+00:04:57.910 --> 00:04:59.180
+Carlos Fabian Descalzo: Holi, ¿Cómo.
+
+64
+00:04:59.180 --> 00:05:07.929
+Julian Massa: ¿cómo está? Fabian? Hola, un gusto gusto estar acá está la famosa broma que tangalanga le hace a de la Rúa. En ese momento.
+
+65
+00:05:07.930 --> 00:05:12.050
+Alberto H. Saul: Jaja, Claro, Por eso no es tan anterior. Es más contemporáneo. Sí, sí.
+
+66
+00:05:12.300 --> 00:05:13.820
+Carlos Fabian Descalzo: Sí, Sí, es cierto.
+
+67
+00:05:13.820 --> 00:05:14.410
+Alberto H. Saul: Sí
+
+68
+00:05:14.540 --> 00:05:29.829
+Alberto H. Saul: es buenísimo, pero bueno, claramente no tenía un fin malicioso. Era como decís sacarlo de quicio al tipo a quien estaba llamando. Y bueno, después terminaban con subida de todas las charlas, pero era muy divertido. Era muy divertido. Debe estar en tu en Youtube, está seguro.
+
+69
+00:05:30.050 --> 00:05:37.070
+Carlos Fabian Descalzo: Sí, Sí, sí. De hecho, creo, si mal no recuerdo, hay este
+
+70
+00:05:37.700 --> 00:05:42.840
+Carlos Fabian Descalzo: este grabaciones más allá de que lo comprabas en el tipo llegó a sacar
+
+71
+00:05:43.560 --> 00:05:48.869
+Carlos Fabian Descalzo: perdón el viejazo también cassette grabados con los chistes que él hacía
+
+72
+00:05:49.220 --> 00:05:53.650
+Carlos Fabian Descalzo: este. Y bueno, en Youtube, como dice. Albert, lo lo lo pueden encontrar.
+
+73
+00:05:54.210 --> 00:06:01.590
+Carlos Fabian Descalzo: Pero fíjate cómo, como inclusive hoy por hoy, podría analizar
+
+74
+00:06:02.390 --> 00:06:09.379
+Carlos Fabian Descalzo: perdón, pero se me empieza a volar la peluca. Digo cómo no hacer analogías de este tipo. En alguna charla de Cyber
+
+75
+00:06:11.250 --> 00:06:12.020
+Carlos Fabian Descalzo: es que.
+
+76
+00:06:12.020 --> 00:06:18.659
+MATEO VALENZUELA: Hubo un par de charlas, y ahora está entrando bastante fuerte lo beajing con todo lo que es. I. A.
+
+77
+00:06:18.770 --> 00:06:24.580
+MATEO VALENZUELA: Había una charla en el Main Track, justo eso, de cómo están empezando a usar billinconía y los modelos.
+
+78
+00:06:24.580 --> 00:06:24.930
+Carlos Fabian Descalzo: Es un.
+
+79
+00:06:24.930 --> 00:06:25.750
+MATEO VALENZUELA: La bola.
+
+80
+00:06:26.660 --> 00:06:33.130
+Carlos Fabian Descalzo: Ahí va. Sí, señor. Sí, señor, si ahí, bueno, volviendo un poco a lo que comentabas
+
+81
+00:06:33.850 --> 00:06:36.960
+Carlos Fabian Descalzo: yo, una de las cosas que que veo
+
+82
+00:06:37.600 --> 00:06:43.029
+Carlos Fabian Descalzo: y parecido a lo que creo que hoy puede llegar a estar pasando con la Eco party.
+
+83
+00:06:43.290 --> 00:06:50.159
+Carlos Fabian Descalzo: Y yo, en particular, soy más de la época de un segurínfo, digamos no
+
+84
+00:06:51.470 --> 00:06:55.319
+Carlos Fabian Descalzo: en donde una de las cosas que que.
+
+85
+00:06:55.610 --> 00:07:03.620
+Carlos Fabian Descalzo: sobre todo por la expectativa de de lo que nosotros pretendemos escuchar o encontrarnos con con este tipo de eventos
+
+86
+00:07:04.000 --> 00:07:10.880
+Carlos Fabian Descalzo: es como que se vayan superando, pero llega un punto en el cual entran en en una
+
+87
+00:07:11.800 --> 00:07:21.039
+Carlos Fabian Descalzo: en una vorágine o en algo en donde es complicado encontrar una una dinámica
+
+88
+00:07:22.140 --> 00:07:24.660
+Carlos Fabian Descalzo: que no caiga en lo comercial
+
+89
+00:07:26.420 --> 00:07:30.749
+Carlos Fabian Descalzo: o que no caiga en en algo redundante. Digamos, no
+
+90
+00:07:31.030 --> 00:07:37.099
+Carlos Fabian Descalzo: sé cómo explicarlo, pero creo esto. El la sensación con la que vos te quedaste ahí. Con esto al mate, no.
+
+91
+00:07:38.060 --> 00:07:38.570
+MATEO VALENZUELA: Sí.
+
+92
+00:07:40.480 --> 00:07:49.240
+Carlos Fabian Descalzo: Este es tipo lle Llega un punto en el cual, bueno, hay que hay que ver de cómo renovar
+
+93
+00:07:50.050 --> 00:07:57.009
+Carlos Fabian Descalzo: y lo lo que estamos queriendo explicar y mu en mucho tiene que ver.
+
+94
+00:07:57.410 --> 00:08:03.160
+Carlos Fabian Descalzo: Bueno, lo que decía primero, no el tema de del que no se vuelva tan comercial.
+
+95
+00:08:04.070 --> 00:08:15.580
+Carlos Fabian Descalzo: sino que sea mayormente información para la Comunidad, no algo que sea más comunitario y
+
+96
+00:08:16.250 --> 00:08:23.679
+Carlos Fabian Descalzo: y en donde a su vez nos podamos mostrar
+
+97
+00:08:25.470 --> 00:08:34.770
+Carlos Fabian Descalzo: como de una forma en lo que queremos compartir es conocimiento y la experiencia que 1 tiene
+
+98
+00:08:37.230 --> 00:08:41.599
+Carlos Fabian Descalzo: desde el punto de vista de realmente compartir
+
+99
+00:08:42.070 --> 00:08:52.459
+Carlos Fabian Descalzo: y no de querer escatimar información para que no nos copien. No, esto no que eso no lo otro. No sé si se entiende un poco el el enfoque, no como que
+
+100
+00:08:52.650 --> 00:08:57.150
+Carlos Fabian Descalzo: debería de haber algo mucho más comunitario, algo que sea
+
+101
+00:08:58.310 --> 00:09:01.669
+Carlos Fabian Descalzo: mucho más de de de de compartir, algo
+
+102
+00:09:01.850 --> 00:09:09.490
+Carlos Fabian Descalzo: que no se nos convierta en en comercial o que, por una cuestión de egos y
+
+103
+00:09:09.790 --> 00:09:13.299
+Carlos Fabian Descalzo: en querer esconder información, porque me creo que es.
+
+104
+00:09:13.300 --> 00:09:14.660
+MATEO VALENZUELA: Que no te compitan. Pero claro.
+
+105
+00:09:15.190 --> 00:09:31.679
+Julian Massa: Coincido. Fabian ahí. Yo creo que la clave está también en en en los contenidos que se dan, por ejemplo, el hace 2 años, No, El año pasado estuve en la Black Hat de que se hace todos los años.
+
+106
+00:09:32.020 --> 00:09:32.500
+Carlos Fabian Descalzo: Mhm.
+
+107
+00:09:32.840 --> 00:09:39.490
+Julian Massa: Vos tenés el los días de más apuntados al negocio y
+
+108
+00:09:39.490 --> 00:09:56.050
+Julian Massa: y a y a ver a los stand de las marcas, a ver qué está haciendo cada marca que que está haciendo cada vez nuestro referido antes, tenés una semana entera de talleres y de charlas y de y de producción de conocimiento real, no en En al fin y al cabo, lo que pasa, que también
+
+109
+00:09:56.050 --> 00:10:02.480
+Julian Massa: me parece que hay una cuestión de estructura más difícil de soportar. Una cuestión lógica, no de de me imagino.
+
+110
+00:10:04.050 --> 00:10:09.609
+Carlos Fabian Descalzo: Sí. Lo que pasa es que también ahí sabes cuál es el tema? Juli
+
+111
+00:10:09.850 --> 00:10:12.700
+Carlos Fabian Descalzo: que lo que tenemos que ver.
+
+112
+00:10:14.110 --> 00:10:24.509
+Carlos Fabian Descalzo: Y yo les digo, les comento esto porque, bueno, oportunamente yo formé parte de la Comisión directiva de Isaca, por ejemplo.
+
+113
+00:10:24.930 --> 00:10:33.890
+Carlos Fabian Descalzo: de la I triple e etcétera. Y siempre lo que comento en estos lugares donde puedo hacer enanchamp también.
+
+114
+00:10:34.030 --> 00:10:45.259
+Carlos Fabian Descalzo: Y es que nosotros tenemos, si estamos participando de ese tipo de de comunidades de instituciones.
+
+115
+00:10:45.860 --> 00:10:55.249
+Carlos Fabian Descalzo: De alguna manera tenemos que despersonalizarnos. Por ejemplo, yo de ser socio de video o o de alguna otra compañía, etcétera.
+
+116
+00:10:55.660 --> 00:11:03.860
+Carlos Fabian Descalzo: y volcarlo más como una reitero, no como una cuestión comunitaria. Si yo, como Fabian, ¿qué es lo que puedo aportar
+
+117
+00:11:05.240 --> 00:11:13.759
+Carlos Fabian Descalzo: para poder crecer en equipo, no porque de alguna manera, una de las cosas que pienso yo, sobre todo
+
+118
+00:11:14.070 --> 00:11:15.980
+Carlos Fabian Descalzo: en nuestra práctica.
+
+119
+00:11:16.250 --> 00:11:23.830
+Carlos Fabian Descalzo: lo que tenemos que hacer es no comportarnos en equipo solamente entre los que estamos dentro de una compañía trabajando.
+
+120
+00:11:24.280 --> 00:11:35.879
+Carlos Fabian Descalzo: sino que de alguna forma. También hay una cuestión ciudadana entre comillas en donde todos nosotros formamos parte de una comunidad de Cyber
+
+121
+00:11:36.290 --> 00:11:41.090
+Carlos Fabian Descalzo: para para poder compartir estas experiencias y todo
+
+122
+00:11:41.540 --> 00:11:48.879
+Carlos Fabian Descalzo: más allá. Reitero del tipo de cuestiones que tengan que ver con el ego o con la
+
+123
+00:11:49.850 --> 00:12:00.610
+Carlos Fabian Descalzo: la retribución comercial que pueda llegar a tener si no, no sé si se comprende lo lo que digo, pero eso falta desde el lado de la institución
+
+124
+00:12:00.950 --> 00:12:09.900
+Carlos Fabian Descalzo: y en muchas oportunidades a nivel de comunidad de comité perdón de estas instituciones.
+
+125
+00:12:10.460 --> 00:12:23.599
+Carlos Fabian Descalzo: Aquellos que la dirigen deberían de ver de cómo promover esto no que independientemente de la marca que vos representes, donde labures y qué sé yo, Lo que nosotros compartimos es desde la institución
+
+126
+00:12:23.990 --> 00:12:33.100
+Carlos Fabian Descalzo: y experiencias en donde yo te elijo, para que estés en la institución para que puedas transmitir eso.
+
+127
+00:12:33.560 --> 00:12:36.730
+Carlos Fabian Descalzo: no para que te vendas, se entiende.
+
+128
+00:12:38.830 --> 00:12:42.300
+Carlos Fabian Descalzo: Y y creo que, bueno, es algo complicado.
+
+129
+00:12:42.860 --> 00:12:47.189
+Carlos Fabian Descalzo: porque no todo el mundo por ahí lo entiende de esta manera.
+
+130
+00:12:47.350 --> 00:12:51.899
+Carlos Fabian Descalzo: No sé qué opinan ustedes, pero me parece que un poco puede ir por este lado, no.
+
+131
+00:12:54.700 --> 00:13:01.019
+Alberto H. Saul: Sí tal cual es como que el sentido de Comunidad también se se entrecruza, como dijiste con el tema de ego y de competencia.
+
+132
+00:13:01.510 --> 00:13:04.749
+Alberto H. Saul: pero sí sí se ve mucho en el mercado. Eso también.
+
+133
+00:13:05.120 --> 00:13:15.129
+Carlos Fabian Descalzo: Sí tal cual tal cual. Así que, bueno, esto no quiere decir a ver. Segurí info eco party como cualquier otro tipo de actividad. Está buenísimo.
+
+134
+00:13:15.360 --> 00:13:21.160
+Carlos Fabian Descalzo: Lo que tendremos que saber es elegir a qué charlas.
+
+135
+00:13:21.460 --> 00:13:27.400
+Carlos Fabian Descalzo: qué es lo que consumimos, etcétera. Ser un poco más selectivos, pero están buenos. Están buenas como
+
+136
+00:13:27.830 --> 00:13:38.680
+Carlos Fabian Descalzo: como actividades en en general. Así que bien, alguien más fue a la Ecoparty. Alguien que quiera compartir algún comentario, además de mate. Y lo que comentó Juli.
+
+137
+00:13:40.450 --> 00:13:47.839
+PRISCILA PALACIOS: Hola, sí, soy pri Yo fui con mi equipo de trabajo y sinceramente, estuvo muy linda.
+
+138
+00:13:48.370 --> 00:13:48.850
+Carlos Fabian Descalzo: Qué? Bueno.
+
+139
+00:13:48.850 --> 00:13:53.779
+PRISCILA PALACIOS: He estado algunos fans bastante interesantes y fue bastante lindo
+
+140
+00:13:54.280 --> 00:13:56.360
+PRISCILA PALACIOS: pasar a ver caras conocidas también.
+
+141
+00:13:56.940 --> 00:14:00.120
+Carlos Fabian Descalzo: Exactamente. Bueno, es un lugar de encuentro, No principio.
+
+142
+00:14:01.550 --> 00:14:02.760
+PRISCILA PALACIOS: Exactamente.
+
+143
+00:14:03.360 --> 00:14:21.779
+Carlos Fabian Descalzo: Tal cual tal cual. Así que, bien, bueno, chicos, entiendo que más o menos estamos la la mayoría. Primero que nada. Les agradezco un montón. El aguante de estos últimos días que que anduve medio complicado en algunos temas de salud hubo complicado de laburo.
+
+144
+00:14:21.790 --> 00:14:24.759
+Carlos Fabian Descalzo: Espero que hayan tenido oportunidad de ver.
+
+145
+00:14:24.910 --> 00:14:35.849
+Carlos Fabian Descalzo: Yo le subí algunos vídeos. Si alguno no detectó que yo subí algo en la plataforma, etcétera. Por favor, avísenme después, les muestro un poco
+
+146
+00:14:35.960 --> 00:14:37.950
+Carlos Fabian Descalzo: lo lo que les compartí,
+
+147
+00:14:38.250 --> 00:14:49.169
+Carlos Fabian Descalzo: que en sí completa algunas de las cosas que ya estuvimos viendo y otras que que no. En
+
+148
+00:14:49.590 --> 00:14:55.600
+Carlos Fabian Descalzo: hay una. Hay una charla que su subí en la plataforma en donde me hicieron
+
+149
+00:14:56.240 --> 00:15:12.439
+Carlos Fabian Descalzo: como una especie de entrevista, digamos, no de de lo que tiene que ver con el rol del suizo y que yo creo que va mucho en en relación a esto, que que vamos comentando, no de de lo que hablábamos recién y de cuál es.
+
+150
+00:15:12.910 --> 00:15:21.469
+Carlos Fabian Descalzo: Y en el caso, nuestro de la materia de de hoy, que es a nivel de estándares, normativas, etc.
+
+151
+00:15:22.230 --> 00:15:26.909
+Carlos Fabian Descalzo: de cómo se debe de construir de alguna manera
+
+152
+00:15:27.960 --> 00:15:47.039
+Carlos Fabian Descalzo: la práctica de ciberseguridad dentro de una compañía con un buen entendimiento de parte del Ciso, en lo que tiene que ver con temas de conocer el negocio, etcétera. Las cosas que ustedes ya los tengo, recontra re aburridos desde que arrancamos con este tema, no
+
+153
+00:15:47.470 --> 00:15:49.590
+Carlos Fabian Descalzo: un poco en función de esto
+
+154
+00:15:50.440 --> 00:15:56.729
+Carlos Fabian Descalzo: es que hoy nos visitan y tenemos como invitados.
+
+155
+00:15:56.940 --> 00:16:05.419
+Carlos Fabian Descalzo: Hemos a al Albert por un lado, y a Juli maza por el otro.
+
+156
+00:16:05.620 --> 00:16:11.590
+Carlos Fabian Descalzo: Ellos son representantes de tren en en Argentina.
+
+157
+00:16:11.790 --> 00:16:30.360
+Carlos Fabian Descalzo: Decime después Albert y Juli. Si los estoy presentando bien y también me gustaría que ustedes comenten un poco quiénes, quiénes son, etcétera. Ellos son representantes en Argentina de tren micro hoy llamado tren e Ai.
+
+158
+00:16:30.850 --> 00:16:44.260
+Carlos Fabian Descalzo: y que tienen una compañía que ofrece soluciones relacionadas con temas de ciberseguridad y en donde.
+
+159
+00:16:45.360 --> 00:16:56.370
+Carlos Fabian Descalzo: respecto de lo que tiene que ver particularmente a nivel de estándares y ellos acompañan con su entendimiento
+
+160
+00:16:56.860 --> 00:17:01.559
+Carlos Fabian Descalzo: en cómo traducir técnicamente todo lo que nosotros.
+
+161
+00:17:01.720 --> 00:17:06.100
+Carlos Fabian Descalzo: suponiendo que somos analistas de ciberseguridad.
+
+162
+00:17:06.869 --> 00:17:16.810
+Carlos Fabian Descalzo: documentamos y ponemos dentro de una norma, etcétera, a nivel de requisitos de controles, etcétera. Ellos lo traducen
+
+163
+00:17:16.970 --> 00:17:34.750
+Carlos Fabian Descalzo: en lo que tiene que ver realmente con la representación técnica, digamos no con los registros, con el monitoreo, con el hecho de poder asesorar a las compañías con la mejor solución para poder responder o a una industria en particular
+
+164
+00:17:34.870 --> 00:17:47.460
+Carlos Fabian Descalzo: o algún nivel de requerimiento en particular que que que tenga esa empresa. No ahí inicialmente. Me me parecería
+
+165
+00:17:47.870 --> 00:17:53.800
+Carlos Fabian Descalzo: interesante en función de esto, si los chicos me lo permiten y están de acuerdo.
+
+166
+00:17:54.110 --> 00:18:04.220
+Carlos Fabian Descalzo: este que por ahí, Julin nos pueda mostrar desde el punto de vista técnico, y
+
+167
+00:18:04.590 --> 00:18:08.700
+Carlos Fabian Descalzo: cómo es que qué herramientas son las que tiene tren
+
+168
+00:18:08.870 --> 00:18:15.640
+Carlos Fabian Descalzo: para poder responder a distintos tipos de requisitos que nosotros ponemos
+
+169
+00:18:15.780 --> 00:18:18.119
+Carlos Fabian Descalzo: desde el lado del marco normativo
+
+170
+00:18:18.550 --> 00:18:29.119
+Carlos Fabian Descalzo: y después Albert nos va a dar algunos ejemplos desde experiencias que ha tenido en proyectos, nos va a comentar en eso.
+
+171
+00:18:29.620 --> 00:18:37.780
+Carlos Fabian Descalzo: Y Albert tiene una experiencia de vida con la ciberseguridad que me parece interesantísimo que ustedes lo conozcan.
+
+172
+00:18:38.220 --> 00:18:50.570
+Carlos Fabian Descalzo: porque Albert es abogado y es un referente y salido de la cantera de la Universidad de Palermo.
+
+173
+00:18:50.740 --> 00:18:58.550
+Carlos Fabian Descalzo: O sea, que nadie mejor que Albert para contarles su experiencia con con con nuestra institución.
+
+174
+00:18:59.960 --> 00:19:03.140
+Carlos Fabian Descalzo: Así que, bien, nada chicos ahí. Juli Albert.
+
+175
+00:19:03.710 --> 00:19:05.609
+Carlos Fabian Descalzo: El tema es de ustedes.
+
+176
+00:19:05.930 --> 00:19:11.700
+Alberto H. Saul: Bueno, me primero, 1 000 gracias. Fabian por la invitación. La verdad es un honor
+
+177
+00:19:11.830 --> 00:19:27.670
+Alberto H. Saul: más conociéndote. O sea, está bien esta parte la de las flores, pero pero sí la verdad que estamos agradecidísimos de poder estar compartiendo un espacio con vos. Si trabajamos en entrar en Argentina. Sí, somos representantes exclusivos de de la marca acá en el país.
+
+178
+00:19:27.730 --> 00:19:35.849
+Alberto H. Saul: Trabajamos con ciberseguridad y es verdad que nos encontramos y nos chocamos con el complliance a cada paso que damos. De hecho.
+
+179
+00:19:36.130 --> 00:19:50.009
+Alberto H. Saul: hay una ya una una cosa prácticamente trillada que decimos que las cuestiones de tecnología exceden ya al departamento de sistemas y hoy les compete incluso a los departamentos legales, incluso a los a las estructuras de gobierno de una organización
+
+180
+00:19:50.010 --> 00:20:05.550
+Alberto H. Saul: y la verdad que meterse en lo que es estándares y normativas es como una especie de Discovery de vulnerabilidades y requisitos y y necesidades que pueda tener una empresa o un organismo de gobierno es una excelentísima excusa. Entonces, a partir de esos requisitos
+
+181
+00:20:05.550 --> 00:20:16.409
+Alberto H. Saul: y esas normativas o estándares que seguramente estuvieron viendo en profundidad. Con Fabian se desprenden un montón de cuestiones de tipo multidisciplinario, no, o sea, por ejemplo, hace un artículo de una norma que.
+
+182
+00:20:16.700 --> 00:20:27.079
+Alberto H. Saul: básicamente trasversal a todas las normativas que son esto de adoptar medidas de ciberseguridad conforme al estado del arte o la técnica o las necesarias, no que nunca se dice cuáles son.
+
+183
+00:20:27.220 --> 00:20:41.410
+Alberto H. Saul: Este Bueno, eso dispara, por otro lado, poder nutrirse y estudiar y capacitarse en cuestiones de amenazas cibercriminales y las herramientas tecnológicas que existen hoy en día para controlarlas o mitigarlas. Entonces.
+
+184
+00:20:41.410 --> 00:20:52.760
+Alberto H. Saul: después del departamento de legales, también pueden ir. Miren, tenemos que firmar un tipo de contrato porque acá. De la norma I S o 27 000. Uno, supongamos, o el A, G, D, P, R, o la 25 36 de datos
+
+185
+00:20:52.760 --> 00:21:05.120
+Alberto H. Saul: exige que nosotros firmemos una especie de convenio o contrato de confidencialidad con otra parte. Supongamos, no, Bueno, eso también surge de la norma después, cuestiones con empleados, cuestiones con recursos humanos.
+
+186
+00:21:05.120 --> 00:21:14.119
+Alberto H. Saul: cuestiones de políticas de privacidad, entonces vemos que quizás desde un estándar normativo surgen un montón de requisitos de distintas disciplinas.
+
+187
+00:21:14.320 --> 00:21:32.620
+Alberto H. Saul: La pregunta es: ¿nos sirve, por ejemplo, a Julian y a mí para ofrecer, además de todo lo que les estoy contando las soluciones de tren? ¿sí? Y la otra respuesta es que, como para ir acotando y dándole un poquito el paso a Julián. Y después, bueno, le contaré alguna anécdota.
+
+188
+00:21:32.630 --> 00:21:41.649
+Alberto H. Saul: También. Estas herramientas se están desarrollando una forma tal que también excedan información que proveen exceda a los departamentos de sistemas.
+
+189
+00:21:41.650 --> 00:21:47.509
+Alberto H. Saul: De hecho, ahora todo está orientado a gobernanza gobernanza en sentido amplio. No por ahora hablamos de
+
+190
+00:21:47.510 --> 00:22:03.749
+Alberto H. Saul: incluso de gobierno de riesgo, ya ya de riesgo, ya como que ya ha saturado, Pero la verdad que hablamos de gobierno hablamos de como ejercer esa gobernanza. O sea, es todo muy lindo, complejo y lindo. Escribir las políticas y definir las directrices.
+
+191
+00:22:03.750 --> 00:22:23.409
+Alberto H. Saul: Pero después, ¿cómo ejecutamos las medidas para poder hacerlas eficientes. Esas políticas, no entonces muchísimas herramientas de ciberseguridad están orientadas a proveer esa información y alinearse a los requisitos de las normativas estándares internacionales, entonces nos sirve muchísimo también trabajar en tren.
+
+192
+00:22:23.410 --> 00:22:26.469
+Alberto H. Saul: porque esos módulos, esa estrategia, la verdad, que
+
+193
+00:22:26.470 --> 00:22:32.809
+Alberto H. Saul: que es una viva voz de de esta de esos estándares o normativas. Entonces, si en el diálogo con los clientes ya no es.
+
+194
+00:22:32.810 --> 00:22:49.509
+Alberto H. Saul: te voy a ofrecer una plataforma de ciberseguridad que mitigue un malware, sino nos estamos asociando a tu línea de negocio. Nos estamos metiendo en tu core en tu cargo y te estamos ayudando a sacar tu proyecto adelante. Entonces es un diálogo mucho más enriquecedor.
+
+195
+00:22:49.590 --> 00:22:54.510
+Alberto H. Saul: Y bueno, Juli también trabaja. Yo hace 20 años que estoy en tren.
+
+196
+00:22:54.540 --> 00:23:12.069
+Alberto H. Saul: Tenía pelo cuando entré, y Julian, creo que hace un poc un poco menos, pero también es más de 10 años que está, con lo cual tenemos un montón de experiencias para contarles. Y para no hablar solo si ustedes pueden preguntar muchísimo mejor. Así que Juli, te paso un poco
+
+197
+00:23:12.140 --> 00:23:13.459
+Alberto H. Saul: un poco la palabra.
+
+198
+00:23:13.970 --> 00:23:24.220
+Carlos Fabian Descalzo: Tal cual ahí ahí. Perdón, antes de de de Juli Perdón, Julia. Pero en esto que comentaba Albert.
+
+199
+00:23:24.590 --> 00:23:36.580
+Carlos Fabian Descalzo: fíjense ustedes que algo que era impensado. No sé por lo menos ustedes, Díganme como lo vieron, pero hoy por hoy, hasta un área de marketing consume ciberseguridad.
+
+200
+00:23:37.620 --> 00:23:47.330
+Carlos Fabian Descalzo: ¿por qué un área de marketing? Una de las cosas que hoy está protegiendo con nuestro trabajo
+
+201
+00:23:47.560 --> 00:23:51.850
+Carlos Fabian Descalzo: y con las soluciones que ofrece tren, por ejemplo.
+
+202
+00:23:51.990 --> 00:24:06.399
+Carlos Fabian Descalzo: es lo que tiene que ver con protección de marca, en no solamente a nivel de lo que es exposición en Internet, o lo que se hace en la dark web con una marca para poder generar un ataque de phishing.
+
+203
+00:24:06.400 --> 00:24:12.049
+Carlos Fabian Descalzo: sino también en lo que tiene que ver con el uso de inteligencia artificial, por ejemplo. ¿no?
+
+204
+00:24:12.150 --> 00:24:15.840
+Carlos Fabian Descalzo: Entonces fíjense como algo que
+
+205
+00:24:16.530 --> 00:24:22.489
+Carlos Fabian Descalzo: les diría hace acá a la vuelta 10 años que no es tanto tiempo. Hoy por hoy.
+
+206
+00:24:23.020 --> 00:24:31.480
+Carlos Fabian Descalzo: ni siquiera estaba pensado y nosotros estamos ofreciéndole a áreas de marketing soluciones de ciberseguridad.
+
+207
+00:24:32.910 --> 00:24:36.950
+Carlos Fabian Descalzo: Creo que algo impensado, no albert oportunamente.
+
+208
+00:24:36.950 --> 00:24:43.959
+Alberto H. Saul: No seguro aparte de otra cosa, porque ya me puse a hablar y me agarra la verborragia, pero 1 cuando agarra un estándar claro
+
+209
+00:24:43.980 --> 00:24:58.389
+Alberto H. Saul: en un estándar. Se cruzan a su vez un montón de normativas locales, por ejemplo, en el de N D, a que es el más clásico de todos. O sea, ahí tenemos la ley de secreto comercial. Tenemos la ley de privacidad de datos, tenemos cuestiones de jurisdicción.
+
+210
+00:24:58.400 --> 00:25:13.090
+Alberto H. Saul: Si, por ejemplo, en N A está firmado entre, digamos, empresas, de distintos países, tenemos una cuestión de que resolver de normativa aplicable, o sea, de de competencia, de arbitraje, incluso para suplir algún litigio, entonces
+
+211
+00:25:13.090 --> 00:25:21.359
+Alberto H. Saul: de de un solo punto del requerimiento de la norma se pueden cruzar incluso 8 tipos de leyes. Y digo 8 en un solo país.
+
+212
+00:25:21.480 --> 00:25:33.409
+Alberto H. Saul: no digo bastante interesante todas estas cuestiones y la que decía Fabian recién Claramente, la parte de secreto comercial está muy abrasado, lo que es propiedad intelectual y marcas y, de hecho patentes.
+
+213
+00:25:33.410 --> 00:25:44.660
+Alberto H. Saul: entonces tema de secreto comercial. No solamente son prototipos en diseños gráficos o arquitectura, sino que también cuestiones de marca, de divulgación de secretos
+
+214
+00:25:44.670 --> 00:25:57.919
+Alberto H. Saul: que eso hace a la a la a la buena fe entre las partes. También entonces tengo cosas: contrato. El código nuestro y comerciales se mezcla absolutamente todo. Y en ese medio metemos a tren o la plataforma de ciberseguridad que.
+
+215
+00:25:57.920 --> 00:25:58.300
+Carlos Fabian Descalzo: Mhm.
+
+216
+00:25:58.300 --> 00:25:59.640
+Alberto H. Saul: Que nosotros sigamos.
+
+217
+00:26:00.370 --> 00:26:00.720
+Carlos Fabian Descalzo: El es.
+
+218
+00:26:00.720 --> 00:26:01.180
+Alberto H. Saul: Que no.
+
+219
+00:26:01.180 --> 00:26:04.699
+Carlos Fabian Descalzo: En ciberseguridad, un amigo abogado, chicos.
+
+220
+00:26:04.700 --> 00:26:06.720
+Alberto H. Saul: Eso es verdad.
+
+221
+00:26:06.720 --> 00:26:07.540
+Carlos Fabian Descalzo: Sí.
+
+222
+00:26:07.540 --> 00:26:25.399
+Alberto H. Saul: Trato, viste. Trato de no decir que soy abogado de vendedor porque a veces te juega en contra. Prefiero decir que soy músico y que que también he estudiado, abogacía. Julián, también es músico, toca el bajo yo la guitarra. Pero bueno, es como que que tenemos la parte humana. Soy un abogado que que que tiene sentimientos, viste.
+
+223
+00:26:25.400 --> 00:26:33.740
+Carlos Fabian Descalzo: Claro está. Bueno, está bueno, bien que le damos espacio a Juli, que tiene mucho también para contarles.
+
+224
+00:26:33.970 --> 00:26:51.409
+Julian Massa: Dale. Bueno, primero que nada, gracias a todos por por estar acá por por participar. Para mí, la verdad, que es un un honor. Mi idea, un poco es meterme puntualmente lo que estamos haciendo hoy con la plataforma, solo para que lo conozcan y vean un poco
+
+225
+00:26:51.490 --> 00:26:56.990
+Julian Massa: cuáles son los desafíos y cuáles son las cosas en las que entramos en en la diaria de
+
+226
+00:26:57.130 --> 00:27:19.940
+Julian Massa: con esto con nuestros clientes y, por otro lado, también que sea lo más interactivo posible. Me refiero específicamente a que cualquier feedback que ustedes cualquier comentario o pregunta va a ser más que bienvenido y y que lo vayamos teniendo. Vayamos teniendo esa dinámica en este ratito que que les voy a mostrar.
+
+227
+00:27:19.940 --> 00:27:28.470
+Julian Massa: Yo voy a mostrar puntualmente qué es lo que estamos haciendo hoy en día con con tren, acompañando
+
+228
+00:27:28.470 --> 00:27:47.600
+Julian Massa: principalmente al ciso en su en su gestión del riesgo. Pero, como como decía recién Alberto Cross a toda la organización, no departamentos de departamentos de legales, departamentos de recursos humanos con campañas de phishing, asistidas y demás.
+
+229
+00:27:47.600 --> 00:27:58.339
+Julian Massa: Pero el foco principal hoy en día está determinado por ayudar a los equipos de seguridad, a poder ver cuál es el riesgo
+
+230
+00:27:58.410 --> 00:28:22.639
+Julian Massa: propio de la organización. Sin duda, hay un poco. Creo que ya hubo una breve introducción sobre eso. El desafío principal hoy está en el desarrollo de políticas de ya 1 de los grandes problemas que tienen las organizaciones, y creo que es lo que más hemos estado hablando este año, es el uso de Showe ya de Shaway a I. Cuáles son los desafíos, que que es lo que están haciendo
+
+231
+00:28:22.640 --> 00:28:24.489
+Julian Massa: los usuarios con
+
+232
+00:28:24.490 --> 00:28:36.209
+Julian Massa: con la inteligencia artificial, qué datos están compartiendo con con con las distintas con las distintas marcas que que información suben. Hay información sensible que se divulga. Bueno.
+
+233
+00:28:36.330 --> 00:28:55.199
+Julian Massa: tener una gobernanza sobre eso y nosotros, lógicamente, nos apoyamos en las herramientas de tren para eso, así que no no voy a meterme mucho más con eso, sino vamos a ir directamente a compartir pantalla que creo que no lo tengo permitido. Puede ser.
+
+234
+00:28:57.960 --> 00:29:01.380
+Carlos Fabian Descalzo: Espérame. Juli. Ahí te habilito. Sí, perdón.
+
+235
+00:29:01.930 --> 00:29:02.400
+Julian Massa: Vale.
+
+236
+00:29:02.400 --> 00:29:07.020
+Alberto H. Saul: Bueno, es por un un tema de cumpleaños. Te deshabilitamos el.
+
+237
+00:29:07.020 --> 00:29:08.360
+Carlos Fabian Descalzo: ¿hay alguien.
+
+238
+00:29:08.360 --> 00:29:17.120
+Julian Massa: Si alguien quiere contar, si si conoce algún tipo de esta herramienta, estamos hablando de tren, pero ¿ha hay alguna otra también en el mercado que seguramente conocen. Hay.
+
+239
+00:29:17.120 --> 00:29:20.419
+Carlos Fabian Descalzo: Algunos de los chicos que laburan en shock.
+
+240
+00:29:21.020 --> 00:29:21.570
+Julian Massa: Okay.
+
+241
+00:29:21.570 --> 00:29:26.149
+Carlos Fabian Descalzo: Posiblemente ahí aquellos que estén más cercanos a esto que comenta Juli.
+
+242
+00:29:27.890 --> 00:29:35.769
+Julian Massa: Okay, ¿Qué ¿Qué alguno quiere contar? Qué herramientas usa, ¿Qué que está que está viendo con con con esas herramientas mientras tanto.
+
+243
+00:29:37.850 --> 00:29:43.789
+MATEO VALENZUELA: Nosotros. Todo lo que da riego. Lo manejamos. Sin house no consumimos herramientas de terceros.
+
+244
+00:29:44.050 --> 00:29:44.490
+Alberto H. Saul: Mira.
+
+245
+00:29:44.490 --> 00:29:49.590
+Julian Massa: Claro y cómo cómo lo gestionan, ¿Cómo lo
+
+246
+00:29:50.060 --> 00:29:56.960
+Julian Massa: cómo recopilan información, cómo la confluyen, digamos, en un y
+
+247
+00:29:57.360 --> 00:30:03.719
+Julian Massa: en una medida organizacional, digamos, tienen alguna manera de de gestionar eso o.
+
+248
+00:30:04.570 --> 00:30:05.040
+Carlos Fabian Descalzo: Como los.
+
+249
+00:30:05.040 --> 00:30:06.380
+MATEO VALENZUELA: Anterior, pero.
+
+250
+00:30:06.710 --> 00:30:07.290
+Carlos Fabian Descalzo: Juli.
+
+251
+00:30:08.820 --> 00:30:09.390
+Julian Massa: S: Sí, vamos.
+
+252
+00:30:09.390 --> 00:30:29.129
+MATEO VALENZUELA: Si por el lado de de va, te hablo más de los riesgos de seguridad después fraude, tiene sus sus propias maneras de medir el riesgo. Y entonces ahí más tableros. Me imagino que a nivel organización, pero por lo menos por el lado de seguridad es: ¿tenemos lo que serían los K. R y y mediciones con cada equipo.
+
+253
+00:30:29.310 --> 00:30:31.080
+MATEO VALENZUELA: y
+
+254
+00:30:31.830 --> 00:30:40.610
+MATEO VALENZUELA: y cada equipo lo que hace es cargar dependiendo la franja de tiempo que definan. Si es una métrica semanal diaria.
+
+255
+00:30:40.770 --> 00:30:45.300
+MATEO VALENZUELA: depende, va cargando sus métricas, y con eso va calculando el riesgo y
+
+256
+00:30:45.640 --> 00:30:48.889
+MATEO VALENZUELA: y asociado a un control, obviamente de seguridad. No.
+
+257
+00:30:49.870 --> 00:31:01.149
+Julian Massa: Okay Okay. Bueno, gra gracias. Mateo por la por el feedback y el comentario. Bien, Bueno, asumo que están viendo pantalla y
+
+258
+00:31:01.300 --> 00:31:20.649
+Julian Massa: sí, y un poco para contar. Para hacer una muy breve introducción. Tres micro existe hace más de 30 años. Se posicionó como como un líder en En En su principio, lo que era anti malware, soluciones de protección de correo electrónico, soluciones de de protección de navegación y demás.
+
+259
+00:31:20.700 --> 00:31:45.539
+Julian Massa: Y con el advenimiento de las nuevas tecnologías, la aparición del Ldr, principalmente el X D. R. Aparece esta plataforma que estamos viendo, el dashware principal que se llama Bicho One con una plataforma integral de ciberseguridad en la cual confluyen todo el universo de protección. A mí me gusta como para explicarla de manera más lo más sintética posible.
+
+260
+00:31:45.840 --> 00:32:04.310
+Julian Massa: comentar que se compone de 2 partes: una parte más reactiva que hoy no la vamos a ver en profundidad, que probablemente esté más relacionada a una herramienta usada por un shock, por ejemplo, en la cual vemos la correlación de eventos, vemos eventos de detección y respuesta y demás.
+
+261
+00:32:04.310 --> 00:32:14.870
+Julian Massa: Y otra parte, que es la que la que vamos a hacer foco en estos minutos, que está referida específicamente a una una gestión proactiva del ciber riesgo.
+
+262
+00:32:15.120 --> 00:32:32.029
+Julian Massa: Entonces, este apartado principal. Lo que nos muestra es un índice de riesgo que va de 0 a 100 si en el cual nos indica el riesgo total de la organización.
+
+263
+00:32:32.280 --> 00:32:41.489
+Julian Massa: Ahora vamos a ver un poco cuáles son los factores que contribuyen a ese nivel de riesgo. Por ejemplo, nosotros
+
+264
+00:32:41.810 --> 00:32:56.319
+Julian Massa: sabemos que o tenemos en base a este Dashboard que estamos viendo en pantalla que el riesgo o el estado de riesgo actual de esta organización que estamos viendo es de 58 8 catalogado por la herramienta en un riesgo medio
+
+265
+00:32:56.650 --> 00:33:16.609
+Julian Massa: que básicamente este riesgo se compone por las distintas capas o las distintas superficies de ataque que estamos viendo. Por un lado, tenemos los dispositivos. Sí, los dispositivos, los Deckstop, las Work Seations, los servidores, los contenedores, también
+
+266
+00:33:16.610 --> 00:33:24.519
+Julian Massa: los activos que están expuestos a Internet, Ip públicas dominios y cualquier otra cosa que esté publicada en Internet
+
+267
+00:33:24.800 --> 00:33:39.949
+Julian Massa: las cuentas de usuarios, los usuarios propios de de la organización. Las aplicaciones que es donde nos vamos a meter ahora un poco más a ver el tema de de cuáles son las aplicaciones y, específicamente, las aplicaciones de inteligencia artificial
+
+268
+00:33:40.330 --> 00:33:52.399
+Julian Massa: y, finalmente, los activos en nube, no los que activos que tengamos en nuestro clow provider a W s. Alibaba el que sea que que estemos utilizando entonces.
+
+269
+00:33:52.400 --> 00:34:08.859
+Alberto H. Saul: Una una pequeña cosa, Juli, porque nosotros estamos acostumbrados a hablar de equis R, Hablar de un montón de tecnicismos o superficie de ataque. Si tiene alguna duda, que obviamente pueden estar o ser ajenos a este mundillo terminológico. Pregunten pregunten, porque.
+
+270
+00:34:08.860 --> 00:34:13.249
+Alberto H. Saul: porque, está, Bueno, digo, no va estas cosas que estamos viendo ahora que que
+
+271
+00:34:13.250 --> 00:34:26.300
+Alberto H. Saul: que vemos en tren, digamos, en realidad aplican a cualquier plataforma, más menos funcionalidades o más menos eficiencia, más o menos alguna característica de calidad. Los conceptos prácticamente son cross a todas las marcas.
+
+272
+00:34:26.300 --> 00:34:31.770
+Alberto H. Saul: Entonces digo, pregunten, por eso le estamos contando algo que solamente aplica para para tren, ya.
+
+273
+00:34:31.770 --> 00:34:49.990
+Carlos Fabian Descalzo: Claro, acá. Chicos, refuerzo lo que les digo siempre estamos para aprender, inclusive yo. Así que interrumpan, pregunten y sáquense las dudas que necesiten este para para poder llegar a entender esto que estamos hablando no.
+
+274
+00:34:50.670 --> 00:35:06.550
+Julian Massa: Sí, sí, incluso si tienen también comentarios, experiencias con con soluciones similares, como mencionaba anteriormente recontra, bienvenidas. También. Bueno, continúo un poco contando esto, no
+
+275
+00:35:07.130 --> 00:35:09.189
+Julian Massa: hoy en día. Para
+
+276
+00:35:09.270 --> 00:35:23.070
+Julian Massa: Para gestionar bien la la la la ciberseguridad, es importante tener la mayor cantidad o le mayor conocimiento de nuestra superficie de ataque. Si no sabemos que protegemos.
+
+277
+00:35:23.070 --> 00:35:46.879
+Julian Massa: no vamos a poder proteger bien. Entonces es muy importante poder conocer cuál es nuestra superficie de ataque, ¿Cuál es el riesgo que compone nuestra superficie de ataque? No es lo mismo una World Station de de un usuario que de otro, por ejemplo. No. Entonces es importante poder computar y mensurar el riesgo para luego poder mitigarlo
+
+278
+00:35:46.880 --> 00:36:11.860
+Julian Massa: o, en algunos casos, aceptarlo, porque sabemos también que el riesgo 0 es imposible. Entonces nosotros tratamos de hablar de riesgo residual que que ese riesgo residual. Bueno, el riesgo, que es aceptado porque no se puede mitigar o que es aceptado, porque, por ejemplo, tenemos un servidor crítico que tiene vulnerabilidades. No podemos parchearlo. Bueno, es un riesgo que se acepta, no
+
+279
+00:36:11.860 --> 00:36:23.699
+Julian Massa: siempre el objetivo. En cuanto a gestión del riesgo, se trata es poder reducir el nivel de riesgo hasta que el riesgo residual sea lo más bajo posible. Me pasa mucho que
+
+280
+00:36:24.000 --> 00:36:48.789
+Julian Massa: muchos clientes me dicen, ché, pero tengo el riesgo muy alto. Está mal. Esto Digo, bueno, si es una es una manera de verlo, la otra es bueno, por lo menos lo estás conociendo, por lo menos lo estás sabiendo porque se se se realmente ve. Veo esa situación de de que los clientes se interesan y empiezan una campaña de reducción del riesgo, que es nuestro objetivo, es lo que queremos lograr.
+
+281
+00:36:48.860 --> 00:37:03.559
+Julian Massa: Pero empieza como esta cosa de Che. Bueno, Pero si yo sumo la visibilidad a estos activos, me va a subir el riesgo y sí, porque lo estás viendo justamente. Entonces, es muy interesante esa esa esa discusión. Bien, a.
+
+282
+00:37:03.560 --> 00:37:16.109
+Alberto H. Saul: Además, además, otra cosa que parece básica, pero esto del apetito por el riesgo también es asumir que cuando nosotros tenemos contacto de la infraestructura tecnológica. Tiene contacto con el mundo digital. Ya se asume que un riesgo hay
+
+283
+00:37:16.110 --> 00:37:32.700
+Alberto H. Saul: y que ninguna plataforma de ciberseguridad, o ninguna política de ciberseguridad es completamente infalible, entonces eso también forma parte de del riesgo de negocio. Como bien decía Juli, hay que tratar de reducirlo. La mayor cantidad posible, ¿no? Y obviamente, después atraer los estándares o políticas que
+
+284
+00:37:32.800 --> 00:37:43.680
+Alberto H. Saul: que ustedes vayan a ver con fabian o que ya vieron en la misma en los mismos lineamientos. Se asume que cantidad de riesgo están dispuestos a asumir incluso a nivel de de policía.
+
+285
+00:37:44.800 --> 00:37:52.620
+Julian Massa: ¿sí? ¿correcto? Correcto, turquito. Bien, bueno, este dashware nos indica el nivel de riesgo. Como veíamos, recién
+
+286
+00:37:52.860 --> 00:38:03.239
+Julian Massa: tenemos algunas cuestiones que pueden llegar a ser interesantes. Nosotros tenemos la posibilidad de mens medir o comparar nuestro riesgo, por ejemplo, con
+
+287
+00:38:03.490 --> 00:38:12.630
+Julian Massa: otras organizaciones que estén en nuestro mismo en el mismo data Center, en este caso el Data Center de de esta plataforma. Estamos viendo, está costeado en Estados Unidos.
+
+288
+00:38:12.820 --> 00:38:36.120
+Julian Massa: entonces podemos comparar el nivel de riesgo con regional, por así decirlo. Por otro lado, podemos hacer una comparación con el riesgo de del tipo de industria no es lo mismo. El riesgo para un para el sector de salud, por ejemplo, que para una manufactura, como es en el caso de la consola que estamos viendo actualmente y también poder
+
+289
+00:38:36.120 --> 00:38:55.380
+Julian Massa: ver el riesgo a nivel organización, sí al nivel tamaño de organización. Una organización de como la que estamos viendo de entre 1 000 y 2 000 empleados no va a tener los mismos desafíos que una organización que, por ejemplo, tiene 500 empleados o una que tiene 5 000. Son otros los desafíos.
+
+290
+00:38:55.920 --> 00:39:01.710
+Julian Massa: Otra cosa interesante que que que se puede hacer con esta herramienta.
+
+291
+00:39:02.130 --> 00:39:17.330
+Julian Massa: ver o subdividir el índice de riesgo. Según departamento, esto quizás viene un poco relacionado al al comentario que que hacía Mateo hace un ratito, pero, por ejemplo, nosotros podemos preguntarnos
+
+292
+00:39:17.330 --> 00:39:42.280
+Julian Massa: cuál es nuestro nivel de riesgo por departamento y entender que, por ejemplo, tenemos un riesgo mayor en el área de finanzas que en el área de Item o en el área de ventas y marketing. No, esto sirve bastante justamente para poder entender donde están los activos críticos de cada de de cada departamento donde hay que ajustar los niveles de riesgo donde hay que aplicar mi tipo
+
+293
+00:39:42.280 --> 00:39:55.600
+Julian Massa: de de dicho riesgo. Esta esta este subíndice se va actualizando diariamente. Lógicamente, pero tenemos esa posibilidad En base a la cantidad de de activos en base a la cantidad de usuarios y demás.
+
+294
+00:39:56.020 --> 00:40:01.200
+Julian Massa: vamos a meternos un poco de lleno, quizás en en lo
+
+295
+00:40:02.600 --> 00:40:09.989
+Julian Massa: en lo más jugoso, si se quiere o en o quizás en lo en en lo el paradigma o L o la
+
+296
+00:40:10.040 --> 00:40:11.480
+Julian Massa: y
+
+297
+00:40:11.490 --> 00:40:34.599
+Julian Massa: o el Kiwi un poco de la cuestión, y esto que estábamos hablando, que es el riesgo en las aplicaciones y específicamente en las aplicaciones de de de ya hoy en día, nosotros, en nuestros clientes tratamos de ser un un un partner estratégico donde nosotros podamos acompañar a a los clientes, por ejemplo, en su diseño de política de uso de Ia.
+
+298
+00:40:34.820 --> 00:40:45.430
+Julian Massa: Entonces, ¿qué estamos haciendo con nuestros clientes. Por ejemplo, si nos vamos al apartado de aplicaciones, podemos observar
+
+299
+00:40:45.570 --> 00:41:03.350
+Julian Massa: cuáles son las aplicaciones que están usando nuestros usuarios en la organización, entender cuál es la reputación que tiene esa aplicación, cuáles son los usuarios y cuáles son los dispositivos que la están utilizando actualmente. Entonces nosotros podemos, podemos, por ejemplo.
+
+300
+00:41:03.800 --> 00:41:10.250
+Julian Massa: ver ahí. Veo que Fabian levantó la mano adelante. Fabián.
+
+301
+00:41:10.540 --> 00:41:20.360
+Carlos Fabian Descalzo: Si y Juli Perdón no tenía el ánimo de interrumpirte. Pero lo que quiero es que presten especial atención en esto que nos comenta juli.
+
+302
+00:41:21.040 --> 00:41:24.190
+Carlos Fabian Descalzo: porque también ustedes tengan en cuenta
+
+303
+00:41:24.350 --> 00:41:31.049
+Carlos Fabian Descalzo: que, independientemente de las herramientas que utilicemos, tiene mucho que ver
+
+304
+00:41:31.950 --> 00:41:43.499
+Carlos Fabian Descalzo: nuestro conocimiento y nuestra experiencia y nuestra curiosidad en investigar y ver de cómo mostrar el resultado de lo que te da una herramienta.
+
+305
+00:41:44.920 --> 00:41:49.590
+Carlos Fabian Descalzo: La realidad de esto es que
+
+306
+00:41:50.490 --> 00:41:57.199
+Carlos Fabian Descalzo: el verdadero valor agregado de lo que yo pretendo, de una de un análisis
+
+307
+00:41:57.510 --> 00:42:02.340
+Carlos Fabian Descalzo: es lo que Juli o el turquito nos den.
+
+308
+00:42:03.260 --> 00:42:08.229
+Carlos Fabian Descalzo: como como su experiencia de lo que este tipo de herramientas saque
+
+309
+00:42:08.360 --> 00:42:12.600
+Carlos Fabian Descalzo: Hay una cuestión de interpretación. Es como la inteligencia artificial.
+
+310
+00:42:12.800 --> 00:42:16.040
+Carlos Fabian Descalzo: Hay una cuestión de interpretación nuestra.
+
+311
+00:42:16.270 --> 00:42:19.910
+Carlos Fabian Descalzo: que es lo que le da el real, valor ¿no?
+
+312
+00:42:20.110 --> 00:42:27.010
+Carlos Fabian Descalzo: Y el hecho de conocer en profundidad una herramienta y saber el potencial que tiene a nivel de datos
+
+313
+00:42:27.290 --> 00:42:31.339
+Carlos Fabian Descalzo: es que nosotros convirtamos esos datos en información.
+
+314
+00:42:32.510 --> 00:42:34.929
+Carlos Fabian Descalzo: y lo hacemos nosotros, ¿no? Juli.
+
+315
+00:42:35.280 --> 00:42:49.620
+Julian Massa: Me diste. Me diste un pie excelente. Fabian porque no, Nosotros ahora estamos mostrando mostrando una herramienta y atrás de esta herramienta está el trabajo que hacemos nosotros. Entonces, por ejemplo, con con este tema del show Veíai.
+
+316
+00:42:49.620 --> 00:42:59.030
+Julian Massa: ¿qué estamos haciendo nosotros, de desde etsi tren en Argentina. Bueno, toda esta información que nos da la consola. La estamos
+
+317
+00:42:59.030 --> 00:43:23.999
+Julian Massa: la estamos compaginando en un reporte mensual que se lo entregamos a nuestros clientes, donde tienen métricas. Por ejemplo, cuáles son las aplicaciones nuevas de Ida que se usua? ¿se usaron cuáles son las aplicaciones de ya que, por ejemplo, tienen un alto tráfico y se usan en pocos dispositivos, lo cual es, po, Podría estar indicando una fuga de datos. Todo ese todo ese trabajo que viene después de la información que te provee
+
+318
+00:43:24.000 --> 00:43:32.269
+Julian Massa: la herramienta es lo que realmente aporta aporta valor, ¿no? Entonces, por ejemplo, cuando
+
+319
+00:43:32.290 --> 00:43:56.710
+Julian Massa: por ahí yo hablo con algún con algún sison, la idea es acercarle un documento, acercarle un un valor agregado a lo que ya le da la herramienta que es bueno justamente el cruce de datos, la información que pueda ser relevante y demás. Así que me diste un pie excelente como para mencionar un poco cuál es el nuestra tarea del día a día. Si mateo ahí, veo que tienes la mano.
+
+320
+00:43:56.710 --> 00:43:57.340
+Julian Massa: Anda.
+
+321
+00:43:57.340 --> 00:44:15.709
+MATEO VALENZUELA: Julita, Una pregunta acá. Mencionas por ahí métricas de uso de cantidad de archivos por ahí fuera de datos. Pero cómo te te das cuenta como detectan. Si de verdad es algo legítimo que están us subiendo archivos o están subiendo por ahí archivos confidenciales que no se deberían estar mandando la vida.
+
+322
+00:44:16.580 --> 00:44:17.309
+Julian Massa: Buenísima aprender.
+
+323
+00:44:17.310 --> 00:44:18.679
+Alberto H. Saul: Buena pregunta. Sí.
+
+324
+00:44:19.000 --> 00:44:28.130
+Julian Massa: Pregunta. Bueno, primero que todo va a estar alineado a la política empresarial, es decir, ¿qué es lo que va a estar homologado o no, Pero después nosotros
+
+325
+00:44:28.130 --> 00:44:48.329
+Julian Massa: tenemos herramientas o y no, no, no lo vamos a a llegar a ver. Pero, por ejemplo, hay herramientas que serían más similares a lo que es un D. L. P. Un data. Lost prevention que nos permiten determinar cuáles son nuestros datos sensibles, ¿Cuál es la información sensible? ¿qué es lo que se puede compartir hacia afuera y qué es lo que no se puede compartir porque
+
+326
+00:44:48.330 --> 00:45:06.799
+Julian Massa: de nuevo, lógicamente, en los desarrollos con la el desarrollo de políticas de de inteligencia artificial, probablemente haya una herramienta corporativa con la cual sí se puede trabajar, interactuar y y subir cierta cierto tipo de datos.
+
+327
+00:45:06.800 --> 00:45:20.349
+Julian Massa: Obviamente, los que son confidenciales no deberían salir a Internet. Pero hay ciertas herra. Hay cierto tipo de datos que sí se con el cual, si se puede trabajar y cual cierto tipo con con el cual no. Pero sí tenemos herramientas
+
+328
+00:45:20.350 --> 00:45:32.290
+Julian Massa: propiamente de seguridad para bloquear o para impedir el la El la suba de datos sensibles. No sé más o menos si respondí tu pregunta o o o iba, Por otro lado.
+
+329
+00:45:33.540 --> 00:45:35.030
+MATEO VALENZUELA: Sí sí va por ahí.
+
+330
+00:45:35.830 --> 00:45:51.470
+Alberto H. Saul: Yo una una pequeña aclaración, porque, claro, Julia y lo contestó del lado de la herramienta, pero en realidad, la clasificación de de que es confidencial o no depende de cada área. Y cada organización, eso por un lado, o sea, una vez que está hecho el trabajo de de clasificación de documentos.
+
+331
+00:45:51.470 --> 00:45:58.320
+Alberto H. Saul: Lo van a poder plasmar en la herramienta, entonces ahí sí poder auditar, porque, de hecho un claro ejemplo de
+
+332
+00:45:58.320 --> 00:46:08.939
+Alberto H. Saul: poder sacar de una organización, un dato confidencial y estar, y que sea completamente lícito, es, por ejemplo, una propuesta comercial de de ciberseguridad que eso estamos acostumbrados con Julián.
+
+333
+00:46:08.940 --> 00:46:32.749
+Alberto H. Saul: Entonces, por ejemplo, yo en esa. En ese documento tengo información sensible o confidencial que hace a tren y el cliente no, o sea, si se divulgase qué tipo de herramientas de ciberseguridad tiene implementada una infraestructura y cae en manos de cibercriminales, quizás sabrían qué analizaron, dónde están las flaquezas de de esos puntos de protección, Pero si nosotros estamos autorizados a poder manipular ese tipo de información por el rol que cumplimos en esa actividad.
+
+334
+00:46:33.090 --> 00:46:37.490
+Alberto H. Saul: Entonces lo que sí se puede hacer a través de estas herramientas es, primero auditar
+
+335
+00:46:37.530 --> 00:46:48.549
+Alberto H. Saul: que hacen los usuarios con esa información ya preclasificada por la organización y después tomar determinado tipo de acciones, por ejemplo, permitir al departamento comercial manipular y enviar
+
+336
+00:46:48.550 --> 00:47:00.599
+Alberto H. Saul: ese tipo de información y a otros departamentos no ya y la que es sensible, obviamente o secreto comercial, como lo que estaba contando al principio. Eso directamente, bloquearlo y avisarle al administrador.
+
+337
+00:47:01.740 --> 00:47:13.720
+Carlos Fabian Descalzo: Sí, ahí agrego a lo que comentan los chicos. ¿y qué? Bueno, que lo lo había puesto ahí en el chat. Esto refuerza la idea de que primero mínimamente requiero algo
+
+338
+00:47:13.840 --> 00:47:17.729
+Carlos Fabian Descalzo: básico como práctica, que es clasificar información
+
+339
+00:47:18.300 --> 00:47:24.280
+Carlos Fabian Descalzo: desde la 27 001, 2 005 que vengo clasificando información
+
+340
+00:47:24.960 --> 00:47:28.300
+Carlos Fabian Descalzo: y es lo mínimo que que se requiere
+
+341
+00:47:28.540 --> 00:47:37.870
+Carlos Fabian Descalzo: y sobre todo, en los temas que tienen que ver con inteligencia artificial, big data, etc. Ya pensar en un gobierno de datos
+
+342
+00:47:38.210 --> 00:47:47.250
+Carlos Fabian Descalzo: que es como un doble clic, digamos algo algo adicional en en particular este. Pero lo que
+
+343
+00:47:47.400 --> 00:47:50.780
+Carlos Fabian Descalzo: a mí me interesa que también vayan relacionando
+
+344
+00:47:50.910 --> 00:47:56.829
+Carlos Fabian Descalzo: es que, por más que estemos hablando de inteligencia artificial, Si no tenemos como base
+
+345
+00:47:57.020 --> 00:48:00.160
+Carlos Fabian Descalzo: de nuestra casa para poder crecer
+
+346
+00:48:00.860 --> 00:48:06.890
+Carlos Fabian Descalzo: cuestiones tradicionales de lo que manejamos a nivel de datos y de tecnología.
+
+347
+00:48:07.050 --> 00:48:09.620
+Carlos Fabian Descalzo: tampoco podríamos estar hablando de esto. No
+
+348
+00:48:09.920 --> 00:48:17.369
+Carlos Fabian Descalzo: eso por un lado. Después. Tadeo: Ahí estaba comentando algo. No sé. Albert: vos. Creo que le respondiste.
+
+349
+00:48:18.040 --> 00:48:32.190
+Alberto H. Saul: Claro. Vos. Preguntaba si teníamos si era una herramienta nuestra, o o si era de Gadway o bueno, y y me medio que si era a las 2, porque tenemos, digamos, el concepto de data a los prevention o auditoría de documentos.
+
+350
+00:48:32.190 --> 00:48:43.449
+Alberto H. Saul: lo tenemos implementados en distintos puntos o sensores, sea en el Endpoint, incluso en servicios integrados de de correo o de borde. O sea, eso lo podemos ir integrando en varios puntos.
+
+351
+00:48:46.880 --> 00:48:52.270
+Julian Massa: Sí, correcto. Ahí Yo no, no. Como estoy compartiendo pantalla. No veo si hay preguntas en el chat, así que ahí.
+
+352
+00:48:52.270 --> 00:48:55.049
+Alberto H. Saul: No. Yo te yo te aviso por ahí, como.
+
+353
+00:48:55.050 --> 00:48:55.380
+Julian Massa: A la.
+
+354
+00:48:55.380 --> 00:48:57.400
+Alberto H. Saul: Hablando. Está hablando? Fabian. Le contesté yo de un.
+
+355
+00:48:57.400 --> 00:48:59.840
+Carlos Fabian Descalzo: Bien buenísimo, excelente.
+
+356
+00:48:59.840 --> 00:49:00.520
+Julian Massa: Que.
+
+357
+00:49:00.600 --> 00:49:08.860
+Julian Massa: bueno, continúo un poquito contándoles un poco. ¿qué es lo que nos está mostrando este dashboard o esta o este
+
+358
+00:49:08.860 --> 00:49:23.940
+Julian Massa: esta imagen, que es esto que les mencionaba. No estamos viendo cuáles son las aplicaciones a las cuales de inteligencia artificial, a las cuales nuestros usuarios acceden e interactúan, ¿no? Entonces
+
+359
+00:49:24.020 --> 00:49:31.470
+Julian Massa: esto es una consola. Demo Vemos que hay nada más 6. Ojalá fueran 6. Cada vez que tenemos que revisar esto en un cliente. Hay un montón.
+
+360
+00:49:31.810 --> 00:49:44.179
+Julian Massa: pero más de las que yo me imaginaba. De hecho, entonces nosotros, por ejemplo, podemos agarrar o tomar como referencia a Copailet, No Copailot, la la guía de de Microsoft.
+
+361
+00:49:44.180 --> 00:50:07.909
+Julian Massa: y nosotros podemos ver, por ejemplo, cuál es el nivel de riesgo de de de esa aplicación y ese riesgo va a estar basado específicamente por diversas cuestiones. La reputación, obviamente, en este caso, la edad, tren, micro o trene, y hay y la y se compone de distintas cuestiones. Por ejemplo.
+
+362
+00:50:08.910 --> 00:50:19.459
+Julian Massa: tú alguna vez una brecha de datos. Esta Esta herramienta, lógicamente una herramienta que haya tenido una brecha de datos va a tener una reputación menor a la
+
+363
+00:50:19.480 --> 00:50:44.069
+Julian Massa: a una que no la tuvo. No hubo alguna noticia. Por ejemplo, está a punto de ser ven, fue vendida, ¿Está cambió de normativa. ¿tiene alguno algún otro cambio sustancial de dicha aplicación? Y después, algo muy importante que entiendo para ustedes es el Complayance de Dicha herramienta que bueno. Copa Ilot está alineado con G. P. R. Con
+
+364
+00:50:44.070 --> 00:50:52.740
+Julian Massa: Koppilot está alineado a 27 001. Todas esas cuestiones también van a componer la reputación propia de dicha aplicación.
+
+365
+00:50:52.970 --> 00:51:09.820
+Julian Massa: Además, va a tener va a computar para el nivel de reputación las características de seguridad, Es decir, no sé, tiene inscripción de de data de data en tránsito, tiene inscripción de data en Rest.
+
+366
+00:51:09.970 --> 00:51:34.179
+Julian Massa: Tiene la posibilidad de integrar con Single Cynón tiene la posibilidad de implementar un Mfa. Y además, por otro lado, los Equirity Headers. No, todo eso va a componer la reputación que tren le da a a una herramienta. Además, bueno, ¿hay alguna información adicional? ¿qué categoría es? Dónde están los head Quarters
+
+367
+00:51:34.180 --> 00:51:59.119
+Julian Massa: tiene encriptación. Tl: S. Una descripción propia de la compañía. Y acá vamos a tener un botón que en este que en este caso es una consola, demo pero nosotros podríamos sancionar o no sancionar la la herramienta. Cuando hablo de sancionar o no sancionar. No estoy hablando de prohibirla, que eso lo hacemos desde otro lado, sino de que esta herramienta me va a computar a mi nivel de riesgo, o nosotros la tenemos
+
+368
+00:51:59.120 --> 00:52:09.300
+Julian Massa: homologada como una aplicación de guía corporativa, lo cual no contribuiría a nuestro nivel de riesgo.
+
+369
+00:52:09.660 --> 00:52:19.039
+Julian Massa: Otra cosa que podemos ver es el uso. Básicamente es desde dónde están accediendo nuestros usuarios alrededor del globo?
+
+370
+00:52:19.430 --> 00:52:23.999
+Julian Massa: Justamente, qué usuarios estuvieron interactuando con dicha aplicación
+
+371
+00:52:24.520 --> 00:52:31.280
+Julian Massa: y cuáles fueron los dispositivos que accedieron a la misma? No todo esto que estamos viendo? A:
+
+372
+00:52:31.410 --> 00:52:49.549
+Julian Massa: Estamos hablando de aplicaciones Cloud. ¿qué ¿Qué estoy diciendo con aplicaciones Cloud. ¿qué es lo que tren considera como aplicaciones Cloud? Porque el término puede ser un poco an ambiguo. Es aplicaciones que accedemos a través del navegador. También podríamos ver, por ejemplo, cuáles son las aplicaciones
+
+373
+00:52:49.900 --> 00:52:56.130
+Julian Massa: de que que a las cuales los usuarios usuarios acceden de forma local, es decir.
+
+374
+00:52:56.190 --> 00:53:13.059
+Julian Massa: que están instaladas en nuestros dispositivos. No sé cómo cómo venimos de tiempos. Si queda unos minutos, muestro un poco de dispositivos de se de reputación de dispositivos y de usuarios, sino ya le después.
+
+375
+00:53:13.660 --> 00:53:17.569
+Carlos Fabian Descalzo: Juli tranquilo, tenemos tiempo, no no quedas por.
+
+376
+00:53:18.070 --> 00:53:30.249
+Julian Massa: Bien. Bien. Bueno, ya saliendo un poquito del mundo de de las aplicaciones, ha ha hasta acá igual. Venimos bien, no más o menos, queda en claro
+
+377
+00:53:30.250 --> 00:53:39.120
+Julian Massa: qué uso le damos a la herramienta y cuál es el valor agregado que era lo que mencionábamos anteriormente que le damos después por ahí venimos. Venimos, bien.
+
+378
+00:53:39.860 --> 00:53:40.870
+Alberto H. Saul: Buenísimo
+
+379
+00:53:41.020 --> 00:53:52.710
+Alberto H. Saul: una una pequeña aclaración ahí cuando Julian. Bueno, él se puso en modo técnico. Yo me pongo modo abogado, Pero la parte de entender, claro, viste, nos jugamos variando.
+
+380
+00:53:52.710 --> 00:54:01.500
+Alberto H. Saul: Pero esto de entender también las cuestiones de reputación de del del servicio al que vamos a acceder tiene mucho que ver también con la parte de cumpleaños.
+
+381
+00:54:01.600 --> 00:54:12.819
+Alberto H. Saul: Uno de los puntos más álgidos que tenemos hoy en ciberseguridad y tratamiento de datos. ¿es esto de la transferencia de datos internacional, es decir, con quién voy a transferir mis datos y con qué país
+
+382
+00:54:12.820 --> 00:54:21.689
+Alberto H. Saul: y si, obviamente, el el principal criterio que tengo que pensar es si ese país al que estoy transfiriendo mediatos, o o lo estoy haciendo encargado.
+
+383
+00:54:21.690 --> 00:54:26.689
+Alberto H. Saul: También tiene los niveles normativos adecuados en materia de protección de datos.
+
+384
+00:54:26.840 --> 00:54:42.599
+Alberto H. Saul: entonces también está bueno entender cuestiones de reputación y cuestiones de características que, obviamente, una empresa de esa información la pone a disposición de la infraestructura del usuario, el cliente, para que obviamente también pueda servir al criterio de con qué aplicaciones trabajar y cuáles no.
+
+385
+00:54:43.710 --> 00:54:46.320
+Carlos Fabian Descalzo: Esto que comenta Albert
+
+386
+00:54:46.620 --> 00:55:02.030
+Carlos Fabian Descalzo: refuerza el tema de de la cercanía hoy por hoy, en temas de ciberseguridad, controles de ciberseguridad, con lo que es la parte de complayance y el cumplimiento legal y regulatorio no.
+
+387
+00:55:06.500 --> 00:55:12.150
+Julian Massa: Bien, voy a continuar viendo un poco
+
+388
+00:55:12.990 --> 00:55:25.180
+Julian Massa: la la parte de dispositivos, Sí, la parte de de devices es que, como decía anteriormente, están incluidos lo que son las World Station, el work World Sesions, y también los servidores.
+
+389
+00:55:25.530 --> 00:55:26.710
+Julian Massa: como
+
+390
+00:55:26.800 --> 00:55:45.929
+Julian Massa: como veíamos anteriormente en el Dashboard, ese que nos mostraba el riesgo general de nuestra organización, todos nuestros assets que componen nuestra toda nuestra superficie de ataque también van a estar computados por el nivel de riesgo o por un nivel de riesgo categorizado, No, Entonces.
+
+391
+00:55:46.050 --> 00:55:52.440
+Julian Massa: por ejemplo, no yo puedo tomar algún activo, algunas de estos que vemos acá
+
+392
+00:55:52.440 --> 00:56:06.310
+Julian Massa: y rápidamente ver cuál es el nivel de riesgo que tiene dedicado específicamente ese aset. En este caso vemos un riesgo muy alto. 95, pero
+
+393
+00:56:06.310 --> 00:56:11.990
+Julian Massa: rápidamente podemos entender que, bueno, pero porque este
+
+394
+00:56:11.990 --> 00:56:36.439
+Julian Massa: este equipo tiene este nivel de riesgo? Bueno, básicamente la herramienta, a través de sus sensores instalados en los dispositivos y en las work stations computa distintas cuestiones que van a van a darnos el nivel de riesgo de dicho dispositivo. ¿no? Entonces, por ejemplo, si vemos el gráfico, este de torta que que vemos acá vemos que la mayor porción
+
+395
+00:56:36.440 --> 00:56:42.159
+Julian Massa: de el nivel de riesgo de este dispositivo está compuesto por vulnerabilidades.
+
+396
+00:56:42.690 --> 00:56:48.420
+Julian Massa: Otra parte está compuesta por la detección de amenazas.
+
+397
+00:56:48.640 --> 00:57:02.869
+Julian Massa: Otra parte está compuesta por la detección de amenazas correlacionadas. Es decir, tuvimos tuvo eventos de detecciones de amenazas que tienen una relación 1 con otro. Recordemos que en un incidente de seguridad lo lo único que
+
+398
+00:57:02.870 --> 00:57:23.640
+Julian Massa: lo un no es lo único que sucede la ejecución de un malware o la inscripción de un archivo, sino que hay todo un camino, desde el acceso inicial hasta la exfiltración que nos dan la pauta de que estamos en un incidente. ¿no? Entonces, cuando hablamos de una detección de X D, R es la correlación de eventos que refieren a a a un incidente de seguridad.
+
+399
+00:57:24.090 --> 00:57:32.049
+Julian Massa: Por otro lado, las configuraciones. Una mala configuración
+
+400
+00:57:32.090 --> 00:57:45.219
+Julian Massa: puede denotar una brecha de datos o puede denotar una brecha de seguridad, perdón, no brecha de datos, una brecha de de seguridad, no no tener tener instalado una solución de anti malware, pero no tenerla correctamente configurada.
+
+401
+00:57:45.220 --> 00:57:53.489
+Julian Massa: casi como de no tener nada. No, entonces los problemas de configuración también suponen o computan a nivel de riesgo de un dispositivo
+
+402
+00:57:53.980 --> 00:57:57.650
+Julian Massa: y, por otro lado, las aplicaciones.
+
+403
+00:57:57.960 --> 00:58:22.390
+Julian Massa: Las aplicaciones era lo que veíamos anteriormente ¿Cuál es el uso de las aplicaciones en dicho dispositivo? Cuáles son las aplicaciones? ¿qué tan riesgosas son tu o brecha de datos? ¿tiene algún tipo de cifrado de datos. Todo eso va a componer el nivel de riesgo de dicha aplicación en dicho dispositivo. Además, hay algunos otros factores adicionales que
+
+404
+00:58:22.390 --> 00:58:47.370
+Julian Massa: no, no están catalogados, acá pero que podrían existir, como, por ejemplo, la posibilidad de hacer una un análisis predictivo. ¿a qué me refiero con un análisis predictivo? Bueno, entender que si este dispositivo tiene acceso, por ejemplo, a un domain controller o algún activo altamente crítico va a tener más riesgo que, por ejemplo, un dispositivo que se conecta a una red de invitados, no como para citar un ejemplo
+
+405
+00:58:47.370 --> 00:59:05.229
+Julian Massa: bien amplio, No, no es lo mismo El dispositivo de un usuario admin de una organización que un usuario que no tiene los mismos permisos, entonces también la herramienta tiene la posibilidad de detectar a
+
+406
+00:59:05.230 --> 00:59:11.330
+Julian Massa: cuáles activos se puede conectar a un dispositivo, y eso también va a computar un nivel de riesgo.
+
+407
+00:59:11.560 --> 00:59:13.619
+Julian Massa: Si miramos un poquito hacia abajo.
+
+408
+00:59:14.020 --> 00:59:38.830
+Julian Massa: tenemos ya en formato de lista todos los eventos de de riesgo propiamente dicho. Acá Por ejemplo, estamos viendo un evento de riesgo generado por una vulnerabilidad de Windows, 10 versión 22 H. Dos, L, lo cual hay una descripción del evento del evento propiamente dicho, cata catalogado como alto por el nivel de criticidad de la
+
+409
+00:59:38.830 --> 00:59:40.030
+Julian Massa: vulnerabilidad
+
+410
+00:59:40.390 --> 00:59:58.559
+Julian Massa: la vulnerabilidad propiamente dicha, ¿Cuál es su C, V D, su identificador? ¿cuál es la versión del sistema operativo, cuál es el nombre del sistema operativo y su versión, cuál es el parche mínimo que tiene instalado necesario que necesite y cuál es el parche mínimo que tiene instalado
+
+411
+00:59:58.850 --> 01:00:00.020
+Julian Massa: además
+
+412
+01:00:00.370 --> 01:00:15.880
+Julian Massa: alguna algún comentario adicional respecto a cuáles son los cabes necesarios que necesita para la actualización de de dicho de dicha de dicho parche para mitigar X vulnerabilidad. Además.
+
+413
+01:00:16.520 --> 01:00:23.750
+Julian Massa: un poco esto que les comentaba no tener un gráfico que nos muestre rápidamente
+
+414
+01:00:23.750 --> 01:00:46.440
+Julian Massa: cuáles son los activos cercanos a dicho dispositivo? No, Cuáles son los usuarios que se lo vean en en en dicho dispositivo, Cuáles Si alguna vez un usuario Admin se lo vio a esa a esa computadora, por ejemplo. Y si ese equipo se puede conectar como vemos, acá por ejemplo, a un D C,
+
+415
+01:00:46.440 --> 01:00:50.959
+Julian Massa: como también generando un perfil de riesgo.
+
+416
+01:00:51.430 --> 01:01:06.590
+Julian Massa: Una, algunas métricas respecto a al uso de las aplicaciones. Lo que veíamos anteriormente, vemos que se lo vea en Estados Unidos. Vemos la cantidad de aplicaciones a las que accede duran durante durante alrededor un mes.
+
+417
+01:01:07.020 --> 01:01:09.629
+Julian Massa: Podemos cambiar la métrica que sea menor o mayor.
+
+418
+01:01:10.120 --> 01:01:20.320
+Julian Massa: Cuáles son las aplicaciones que tiene instalada? Bueno, en este caso se trata de una demo y no hay. Pero acá veríamos listadas las las aplicaciones propiamente dichas, los usuarios.
+
+419
+01:01:20.650 --> 01:01:26.150
+Julian Massa: los certificados, en el caso de que tuviese certificados expirados y demás
+
+420
+01:01:26.350 --> 01:01:42.710
+Julian Massa: puertos abiertos y servicios que que no estemos detectando. Y una última, un último resumen con información más sobre el software, si tiene espacio libre en memoria y demás
+
+421
+01:01:43.650 --> 01:01:46.780
+Julian Massa: para pasar, sí. Fabian.
+
+422
+01:01:48.470 --> 01:01:59.259
+Carlos Fabian Descalzo: Sí. Perdón. Estos chicos que mostró Juli? Y es pregunta Albert, para que ustedes lo aniden
+
+423
+01:01:59.790 --> 01:02:05.690
+Carlos Fabian Descalzo: en cómo es importante el cómo elegir una herramienta que nos deje esta info.
+
+424
+01:02:06.120 --> 01:02:11.490
+Carlos Fabian Descalzo: Si nosotros tuviésemos un incidente de ciberseguridad
+
+425
+01:02:11.670 --> 01:02:17.280
+Carlos Fabian Descalzo: con inteligencia artificial en donde están involucrados datos personales.
+
+426
+01:02:17.970 --> 01:02:23.160
+Carlos Fabian Descalzo: Las agencias de protección de datos personales nos piden
+
+427
+01:02:23.430 --> 01:02:27.749
+Carlos Fabian Descalzo: en un formulario específico que tenemos que completar
+
+428
+01:02:28.080 --> 01:02:35.200
+Carlos Fabian Descalzo: determinado tipo de información con cuál es el vector de ataque identificado? ¿cuál es
+
+429
+01:02:35.400 --> 01:02:40.140
+Carlos Fabian Descalzo: de alguna manera el tipo de datos que se vieron involucrados.
+
+430
+01:02:40.460 --> 01:02:52.579
+Carlos Fabian Descalzo: cuestiones relacionadas con el contexto del del ataque, en particular que si yo no tuviera este tipo de herramientas y no supiera la información que me está compartiendo, Juli
+
+431
+01:02:52.870 --> 01:02:55.910
+Carlos Fabian Descalzo: no podría responder, no ahí. Albert.
+
+432
+01:02:56.100 --> 01:03:09.129
+Alberto H. Saul: Tal cual sí, porque incluso hay Bueno, esto sabe muchísimo más que yo. Fabian, Pero hay 2 tipos de de notificación. Primero, que sufriera un incidente, notifican así de manera temprana y después amplían esa notificación
+
+433
+01:03:09.130 --> 01:03:16.440
+Alberto H. Saul: comentando, el digamos, el alcance y la naturaleza del ataque e incluso la duración, porque no siempre es que es un instante, o sea.
+
+434
+01:03:16.440 --> 01:03:34.219
+Alberto H. Saul: de hecho, las amenazas que hoy vemos en día tienen más características de aptx, entonces perduran en en la infraestructura todo eso hay que informarlo y, y, por el contrario, incluso si no tenemos estas herramientas que vamos al al libre criterio de la autoridad de control.
+
+435
+01:03:34.220 --> 01:03:50.940
+Alberto H. Saul: ¿qué significa esto? Quizá nosotros de manera temprana, Llamamos a Julián y le y como hace 2 años atrás, antes del incidente, implementamos estas tecnologías y tenemos todas las medidas de ciberseguridad y logramos incluso contener la amenaza y que no llegue a nuestros servicios críticos.
+
+436
+01:03:51.340 --> 01:04:06.729
+Alberto H. Saul: Pero lo que es evidencia disruptiva es que una porción del parque tuvo un incidente. Entonces, si nosotros no tenemos demostrar incluso que pudimos frenar ese ese ataque y que, por ejemplo, los servidores donde nosotros teníamos la información confidencial, los atacantes no llegaron a acceder.
+
+437
+01:04:06.730 --> 01:04:27.329
+Alberto H. Saul: No tenemos forma de decirle a la autoridad de control que nosotros no violamos ningún tipo de norma en materia de protección de datos. No entonces digo tanto como para defendernos de la autoridad de control, por así decirlo, como para reportar un incidente. Este tipo de métricas sirven. Y una un último comentario que lo tenía atragantado desde que empezó hablar. Julián, todo este tipo de índices de riesgos
+
+438
+01:04:27.460 --> 01:04:45.379
+Alberto H. Saul: que incluso hace. También está alineado a las normativas que siempre nos dicen que bueno, que las auditorías y las capacitaciones y todos se hagan de manera continua. Bueno, este tipo de herramientas también está alineado a eso. Estos índices de riesgo. Estos valores de riesgo se hacen en tiempo real. Es decir, supongamos que un usuario
+
+439
+01:04:45.380 --> 01:04:53.569
+Alberto H. Saul: tiene un índice de riesgo 30 y de repente descargó una aplicación o de repente se descubrió una vulnerabilidad en una aplicación que él ya tenía instalada.
+
+440
+01:04:53.570 --> 01:05:11.229
+Alberto H. Saul: Su índice de riesgo automáticamente cambia. O sea, de nada sirve que este tipo de de valores sean de carácter estático o se hagan una vez por semana, una vez por mes, una vez cada 6 meses se actualizan en tiempo real. Y ese monitoreo de vulnerabilidades y de riesgos también se hace en tiempo real.
+
+441
+01:05:12.210 --> 01:05:24.859
+Carlos Fabian Descalzo: Pregunta chicos. Y esto sí. En mi desconocimiento con esto último, que comentaste, viste que siempre cuando nos reportan un incidente
+
+442
+01:05:25.220 --> 01:05:27.219
+Carlos Fabian Descalzo: de estas características.
+
+443
+01:05:27.690 --> 01:05:34.779
+Carlos Fabian Descalzo: Che. Quiero que me ayudes a resolver el tema porque me atacaron con un ransomware listo. Caemos en el cliente
+
+444
+01:05:34.960 --> 01:05:39.849
+Carlos Fabian Descalzo: Lo primero que preguntamos es ¿qué evidencias tenés a no. Yo
+
+445
+01:05:40.130 --> 01:05:47.579
+Carlos Fabian Descalzo: contraté al quiosquito de acá a la vuelta, me formatearon todos los servidores me instalaron todo de nuevo.
+
+446
+01:05:48.120 --> 01:05:57.990
+Carlos Fabian Descalzo: Digo: si yo tuviese la previsión de tener este tipo de herramientas, Ese tipo de situación
+
+447
+01:05:58.880 --> 01:06:04.090
+Carlos Fabian Descalzo: o frente a un ataque, me permitiría de alguna manera
+
+448
+01:06:04.430 --> 01:06:11.699
+Carlos Fabian Descalzo: poder tener evidencias, independientemente de que yo actúe rápidamente en resolver el tema. Juli.
+
+449
+01:06:12.080 --> 01:06:30.949
+Julian Massa: Sí, Sí, De hecho, no, no, no, no, lo no lo vimos hoy. Pero hay un apartado propio en la en la plataforma espe específicamente pensado para forenses que te permite esto, crear una especie de War Room donde vos puedas volcar evidencia
+
+450
+01:06:31.310 --> 01:06:41.100
+Julian Massa: evidencia puede ser snapshots cualquier tipo de información que se compute específicamente como evidencia para poder.
+
+451
+01:06:41.480 --> 01:06:54.949
+Julian Massa: por un lado, ocuparse de la vuelta a producción o de la vuelta a al servicio de del negocio, y mientras poder continuar con la investigación, porque, bueno, como todos sabemos, durante un incidente de seguridad.
+
+452
+01:06:55.200 --> 01:07:19.500
+Julian Massa: Por un lado, se tiene que tomar la investigación para justamente poder responder ante normativas o ante o ante leyes o ante las partes interesadas que sean y, por otro lado, necesitamos rápidamente volver a a poner el negocio operativo, Digamos ¿no? Entonces estas herramientas suelen tener al menos la de tren, pero creo que algunas otras también lo tienen.
+
+453
+01:07:19.550 --> 01:07:25.699
+Julian Massa: Un apartado específico para todo lo que esté referido a Forense, sí, si.
+
+454
+01:07:25.700 --> 01:07:46.730
+Alberto H. Saul: Eso eso que dijo Juli no es menor porque, de hecho, la solución no es nada más forense. Es digital forensics in singa response. O sea, es como una mezcla de las 2 disciplinas, o sea, por un lado, nos permite. Lo primero que nos nace es aislar un equipo y formatearlo cuando tenemos suficiente ranking bueno, Pero claro, si lo formateamos, perdemos toda la evidencia digital después para presentar la autoridad de control.
+
+455
+01:07:46.890 --> 01:07:53.050
+Alberto H. Saul: Entonces lo que nos permite esto es obtener la evidencia digital, preservarla, incluso, digamos.
+
+456
+01:07:53.330 --> 01:08:08.199
+Alberto H. Saul: tiene valor probatorio, porque toda la parte de cadena de custodia se hace del lado de la plataforma, con lo cual la parte de integridad y autenticidad, y lo puedes demostrar. Y además, como decía Julián, en simultáneo, atender al incidente, no sin perder o malversar la evidencia.
+
+457
+01:08:08.890 --> 01:08:12.740
+Carlos Fabian Descalzo: Tal cual. Esto que acaba de comentar Albert Chicos, es
+
+458
+01:08:12.940 --> 01:08:24.109
+Carlos Fabian Descalzo: fundamental el hecho de mantener cadena de custodia, porque ustedes piensen que un ataque de estas características puede ser
+
+459
+01:08:24.970 --> 01:08:39.239
+Carlos Fabian Descalzo: una cuestión de defensa. Si es un ransomware a través de un grupo activista, etcétera, para prevenirme de juicios que me puedan hacer mis clientes, por ejemplo.
+
+460
+01:08:39.560 --> 01:08:45.370
+Carlos Fabian Descalzo: o puede ser judicializable en función de alguien persona
+
+461
+01:08:45.800 --> 01:08:51.270
+Carlos Fabian Descalzo: física, por así decirlo, no jurídica. Este persona física.
+
+462
+01:08:51.330 --> 01:09:08.800
+Carlos Fabian Descalzo: en donde quisieron generar un fraude a partir de determinado tipo de actividad, Digamos no, entonces yo lo puedo judicializar y poner de alguna manera este a a alguien en el banquillo.
+
+463
+01:09:09.810 --> 01:09:14.040
+Carlos Fabian Descalzo: digamos este culpándolo de algo que lo tengo registrado
+
+464
+01:09:14.200 --> 01:09:22.170
+Carlos Fabian Descalzo: y que lo tengo con una cadena de custodia demostrable de que esa evidencia no fue modificada. No, Albert.
+
+465
+01:09:25.290 --> 01:09:29.840
+Alberto H. Saul: Sí tal cual tal cual. Un paréntesis, pues si no digo esto, me va a olvidar
+
+466
+01:09:30.149 --> 01:09:33.179
+Alberto H. Saul: incluso con con lo que estamos viendo hoy ya generativa.
+
+467
+01:09:33.390 --> 01:09:39.859
+Alberto H. Saul: adquiere mucha importancia el tema de la autenticidad de la prueba. Digo, en general, ahora sabemos un segundo de esto, porque
+
+468
+01:09:39.979 --> 01:09:50.439
+Alberto H. Saul: si 1 no no puede velar por la cadena de custodia, decir, esta prueba es legítima. Es íntegra y es auténtica. Hoy en el mundo de la inteligencia artificial, yo puedo generar incluso evidencias falsas.
+
+469
+01:09:50.720 --> 01:09:59.990
+Alberto H. Saul: Eso también bastante interesante. Digo, hay un paréntesis, porque quizás se codicia, pero no tanto con esto, pero yo puedo presentar en un litigio y producir evidencia digital falsa.
+
+470
+01:10:00.410 --> 01:10:17.320
+Alberto H. Saul: entonces hoy la parte de cadena de custodia, integridad y documentación de todos los pasos, desde la obtención de la prueba de cómo se preservó la cadena de custodia y después el análisis en laboratorio adquiere muchísima más relevancia que antes para que tenga fuerza probatoria en un litigio o frente a una autoridad de control.
+
+471
+01:10:19.210 --> 01:10:24.079
+Carlos Fabian Descalzo: Exacto tal cual puli perdón. Te interrumpimos un montón de veces negro.
+
+472
+01:10:24.080 --> 01:10:34.070
+Julian Massa: No, no me me encanta. Pre Prefiero Prefiero que sea en ida y vuelta. Si se se se vuelve un poco más dinámico que por ahí. Yo, estar hablando 2 h y y dormirlos a todos.
+
+473
+01:10:34.070 --> 01:10:50.819
+Julian Massa: Bien igual. Ya me meto con lo último con la última parte como para tampoco ocupar todo el tiempo en esto. Y por ahí tener algún espacio de de de pregunta y respuesta o o de acotaciones, y y y de nuevo, para no ser yo el que habla todo el tiempo
+
+474
+01:10:50.820 --> 01:10:59.300
+Julian Massa: que es con las cuentas de usuario. Podríamos ver también la parte de activos publicados en Internet o de activos en Cloud, pero me parece
+
+475
+01:10:59.400 --> 01:11:07.709
+Julian Massa: interesante poder hacer un poco de foco en en la parte del del usuario, así como en los dispositivos, así como en las aplicaciones.
+
+476
+01:11:07.930 --> 01:11:12.169
+Julian Massa: y así como en el nivel de riesgo organizacional.
+
+477
+01:11:12.410 --> 01:11:18.040
+Julian Massa: Los usuarios también van a estar computados por un nivel de riesgo
+
+478
+01:11:18.750 --> 01:11:33.309
+Julian Massa: en la parte de usuarios Hay algunas otras cosas que también se agregan, como, por ejemplo, cuál es la posición o el Shottyle? ¿cuál es el puesto que ocurre que ocupa un usuario en una organización.
+
+479
+01:11:33.310 --> 01:11:45.240
+Julian Massa: No es lo mismo el riesgo o o se va a computar de la misma manera el riesgo de un director de de finanzas que el riesgo de cualquier otro usuario no. Por ejemplo, entonces
+
+480
+01:11:45.240 --> 01:11:51.160
+Julian Massa: nosotros, dentro de esta herramienta, podemos marcar mediante Tags o etiquetas.
+
+481
+01:11:51.260 --> 01:12:04.679
+Julian Massa: Cuáles son los títulos? Y por ejemplo, si ven que tenemos unas estrellitas sobre algunos usuarios, esos usuarios están marcados ya en la consola como críticos, no por
+
+482
+01:12:05.360 --> 01:12:30.000
+Julian Massa: puede ser por nosotros o porque mismo la consola le da un cómputo en base a los permisos que tiene la la cantidad de dispositivos en las que está logueado, cuales, de nuevo, ¿cuál es su título o cuál es su puesto dentro de una organización. Todo eso va a computar un poco ese nivel de riesgo. Entonces, si nosotros hacemos un poco de foco
+
+483
+01:12:30.660 --> 01:12:38.930
+Julian Massa: en las métricas del usuario propiamente dicho. Vamos a ver el mismo gráfico que tenían los dispositivos
+
+484
+01:12:38.930 --> 01:12:51.620
+Julian Massa: con las mis con los mismos indicadores, en este caso con eventos distintos, por un lado, problemas de configuraciones de sistema y, por otro lado, un evento de compromiso de usuarios
+
+485
+01:12:52.020 --> 01:13:15.320
+Julian Massa: vean. Podemos ver un poco la actividad propia del usuario donde tuvo los efectivos sí donde se lo vio satisfactoriamente y donde no lo hizo. Esto, por ejemplo, nos podría marcar que hay algún atacante Ut intentando loguearse con esas credenciales. Una de 1 de los eventos que vemos muchísimo en
+
+486
+01:13:15.320 --> 01:13:20.489
+Julian Massa: en la consola de vision One. Es un evento catalogado como atypical. Travell ¿Qué quiere decir esto
+
+487
+01:13:21.330 --> 01:13:27.619
+Julian Massa: hoy? Te logueaste en a las 12 del mediodía, te logueaste en Buenos Aires y a las
+
+488
+01:13:27.620 --> 01:13:41.370
+Julian Massa: 4 de la tarde te estás logueando. Moscú: Bueno, es y es es atípico como menos, como mínimo. ¿no? Muchas veces en el medio hay una V P. N. Hay cuestiones que pueden enmascarar un poco esa información, pero
+
+489
+01:13:41.390 --> 01:13:44.770
+Julian Massa: es un evento al cual por lo menos le deberíamos prestar atención.
+
+490
+01:13:45.050 --> 01:13:46.759
+Alberto H. Saul: Juli: Tenés una pregunta.
+
+491
+01:13:47.120 --> 01:13:47.440
+Julian Massa: Sí.
+
+492
+01:13:47.440 --> 01:13:48.750
+Alberto H. Saul: De Carolina.
+
+493
+01:13:49.070 --> 01:13:49.570
+Julian Massa: Sí.
+
+494
+01:13:49.570 --> 01:13:51.230
+Alberto H. Saul: Si levantás micrófono que veníamos a.
+
+495
+01:13:51.230 --> 01:13:52.049
+CAROLINA OYARBIDE: Bueno.
+
+496
+01:13:52.050 --> 01:13:52.550
+Alberto H. Saul: Muy divertido.
+
+497
+01:13:52.550 --> 01:13:59.000
+CAROLINA OYARBIDE: Cuando justo estaba perdón, cuando justo estaba escribiendo, lo había contestado. Así que si era.
+
+498
+01:13:59.000 --> 01:13:59.839
+Alberto H. Saul: Lo que que.
+
+499
+01:13:59.840 --> 01:14:05.499
+CAROLINA OYARBIDE: Preguntado Julian de que cuando hablabas de la exposición, era que no le digo que sea un empleado.
+
+500
+01:14:05.600 --> 01:14:06.330
+CAROLINA OYARBIDE: no sé
+
+501
+01:14:06.460 --> 01:14:13.599
+CAROLINA OYARBIDE: en una empresa que un C o que sea el que vos estés este evaluando todos estos incidentes que puedan llegar a tener, y la exposición que tenga no.
+
+502
+01:14:14.560 --> 01:14:31.510
+Julian Massa: Claro, claro, ¿correcto? ¿correcto? Carolina, 1 por la criticidad del del del del usuario en sí y otro por la criticidad de los activos a los cuales a los cuales tiene acceso. También eso va a computar exactamente el nivel de riesgo. Sí, exacto. Gracias.
+
+503
+01:14:31.510 --> 01:14:42.869
+Carlos Fabian Descalzo: Perdón Juli completo, algo con lo que comentaban recién con caro. Esto caro es lo que vos definís, inclusive a nivel de estándares y normas.
+
+504
+01:14:44.330 --> 01:14:45.460
+Carlos Fabian Descalzo: ¿por qué?
+
+505
+01:14:45.560 --> 01:14:52.550
+Carlos Fabian Descalzo: Porque vos deberías estar tipificando dentro de una norma?
+
+506
+01:14:53.510 --> 01:15:02.599
+Carlos Fabian Descalzo: ¿qué es lo que estás haciendo o cómo vas a monitorizar la identidad digital vip de la compañía.
+
+507
+01:15:04.140 --> 01:15:12.440
+Carlos Fabian Descalzo: Volvemos al tema de protección de marca protección del Directorio de la Organización. Se entiende no a dónde voy.
+
+508
+01:15:13.280 --> 01:15:19.520
+Carlos Fabian Descalzo: en donde esto técnicamente nos ayuda un montón. Si, claro, perdón que te interrumpí.
+
+509
+01:15:19.520 --> 01:15:35.850
+CAROLINA OYARBIDE: No, no. Si inclusive. Bueno, yo, a nivel donde trabajo este, si yo llego a entrar, me lo me logueo en intranet que manejamos intranet este. Desde si estoy de va, estoy de vacaciones, y en otra parte del mundo enseguida hacen un reporte de incidentes, y yo tengo que.
+
+510
+01:15:35.850 --> 01:15:36.600
+Carlos Fabian Descalzo: Perfecto.
+
+511
+01:15:36.820 --> 01:15:37.300
+Alberto H. Saul: Claro.
+
+512
+01:15:37.300 --> 01:15:38.730
+CAROLINA OYARBIDE: Así.
+
+513
+01:15:39.600 --> 01:15:49.819
+Julian Massa: Claro bue buena buena buen ejemplo para esto. Gracias. Carolina Bien, y ya un poco más. Para finalizar.
+
+514
+01:15:49.820 --> 01:16:02.820
+Julian Massa: hay algunas otras características. Por ejemplo, veíamos el nivel del cómputo de riesgo y veíamos que se componía de 2 factores principales: que 1 era la cuenta comprometida y otro, un problema de configuración hacia abajo. Tenemos
+
+515
+01:16:02.820 --> 01:16:26.539
+Julian Massa: la explicación de cuál es el problema de de de configuración en este caso es que no hay una política de expiración de password, Es decir, el usuario nunca tiene rotación de claves, con lo cual marca una debilidad en en la autenticación del usuario? Sí. Y, por otro lado, que esto es bastante interesante.
+
+516
+01:16:27.730 --> 01:16:45.220
+Julian Massa: Este evento de riesgo que marca que la cuenta está comprometida, que que está diciendo específicamente esto? O bueno, que a través de la inteligencia, amenazas que tiene tren, se detectaron que estas credenciales estaban publicadas en la Dark Web. Esto hoy en día está pero
+
+517
+01:16:45.220 --> 01:16:56.780
+Julian Massa: super útil. Sí que está diciendo, básicamente, es efectivamente encontramos tus credenciales o las credenciales de ese usuario expuestas en la en la Dark Web.
+
+518
+01:16:57.210 --> 01:17:20.529
+Julian Massa: Hay una información lógica de de donde de que brecha fue cuál fue el dominio que que que fue comprometido, cuál fue la la fecha de de la brecha específicamente y las acciones de remediación, porque algo que no dije es que para cada evento Trend nos propone las acciones de remediación específicas, no, por ejemplo, notificar a Lowner
+
+519
+01:17:20.530 --> 01:17:28.400
+Julian Massa: de de la cuenta y verificar si esas credenciales efectivamente fueron comprometidas y inmediatamente.
+
+520
+01:17:28.400 --> 01:17:38.089
+Julian Massa: cambiar la contraseña propia del usuario y además crear alguna regla de acceso como acción sugerida. Si Mateo.
+
+521
+01:17:38.900 --> 01:17:49.410
+MATEO VALENZUELA: Sí te hago una pregunta ahí. Justo en la remediación: ¿por qué sería notificar al al usuario y confirmar estarías dejando las credenciales expuestas.
+
+522
+01:17:49.830 --> 01:17:54.750
+Julian Massa: Sí. S. Yo ahí en entiendo que
+
+523
+01:17:55.730 --> 01:18:05.960
+Julian Massa: como hacer una segunda validación para mí lo menciona específicamente por con eso a ver. Normalmente, cuando hay un evento de este estilo en en un cliente, el cliente me dice listo.
+
+524
+01:18:05.960 --> 01:18:21.930
+Julian Massa: ya sí o sí lo mandó a forzar un cambio de credenciales. De hecho, Vos desde la consola podés, integrar el active Directory y forzar una un cambio de credenciales específicamente, o sea, la verdad que es una posible remediación.
+
+525
+01:18:21.930 --> 01:18:25.630
+Julian Massa: La reme la remediación más lógica es che directamente
+
+526
+01:18:25.630 --> 01:18:33.010
+Julian Massa: refuerzo al usuario, a a cambiar la clave, ¿no? Pero es buena. Esta observación es verdad.
+
+527
+01:18:33.010 --> 01:18:52.499
+MATEO VALENZUELA: Ahí te da una pregunta. Además, ¿cómo se hace? ¿cómo se dan cuenta que es una credencial de verdad? Y no es un refrito viejo de un lic viejo o es una credencial no válida, pues si si no estamos rotando credenciales y generando ruido. Y por ahí sólo fue un atacante que dijo listo. Esto rotan cada vez que
+
+528
+01:18:52.710 --> 01:18:59.910
+MATEO VALENZUELA: que que es el Ikea, algo en este sitio. Así que le liquido todas las todos los emails de toda la empresa, y todos quedan con la contraseña rota.
+
+529
+01:19:00.360 --> 01:19:21.449
+Julian Massa: Bueno, buena. Muy buena. Pregunta. Mateo, ¿Hay una posi ¿Hay una posibilidad dentro de la consola de hacer un tratamiento lógico de los eventos del riesgo en los cuales, por ejemplo, si a vos te aparece la información sobre este evento específico del Ikedo acaba un identification Vos Podés cerrar el caso, como
+
+530
+01:19:21.450 --> 01:19:45.690
+Julian Massa: por ejemplo, un falso positivo o cerrarlo como que ya fue remediado para que, lógicamente, vos, no tengas todos los días que lidiar con ese evento que genere ruido en la consola que te aumente el nivel de riesgo. Entonces, si hay una brecha y la y el tren intelligence de tren encuentra esa esa publicación o ese link en la dark web.
+
+531
+01:19:45.830 --> 01:20:03.389
+Julian Massa: obviamente lo va a notificar una vez que vol una vez que está notificado. Nosotros, como administradores de la herramienta, tomamos alguna acción sobre eso para que justamente ese evento de riesgo no vuelva a aparecer. Y no tengamos un ruido constante por una
+
+532
+01:20:03.390 --> 01:20:11.040
+Julian Massa: credencial que ya fue cambiada, Digamos no. Ese es el tratamiento, o ese es el circuito de gestión de este tipo de eventos.
+
+533
+01:20:12.290 --> 01:20:14.180
+MATEO VALENZUELA: Juli, te pregunto: ¿todo esto es manual?
+
+534
+01:20:14.500 --> 01:20:18.240
+MATEO VALENZUELA: ¿o tienen algún automatismo para poder hacer play books o algo.
+
+535
+01:20:19.120 --> 01:20:41.560
+Julian Massa: Otra otra gran pregunta: si tiene un automatismo de play books, tanto playbooks como de respuesta ante ante ante eventos aislar un endpoint forzar un password reset forzar un bloqueo de un usuario, iniciar un shell remoto con con el dispositivo o directamente cerrar la alerta. No
+
+536
+01:20:41.560 --> 01:20:56.649
+Julian Massa: que bueno necesito automatizar el cierre de estas alertas, porque tengo muchas. Nuestro shock está saturado de alertas y necesito reducir el ruido. Bueno, podemos generar un playbook específico para cerrar tipo cierto tipo de eventos.
+
+537
+01:20:57.450 --> 01:21:03.819
+Alberto H. Saul: Se pusieron ¿de acuerdo? Ustedes no te hace todas las preguntas que queremos que nos hagan.
+
+538
+01:21:04.150 --> 01:21:05.010
+Carlos Fabian Descalzo: Tal cual no.
+
+539
+01:21:05.010 --> 01:21:11.790
+MATEO VALENZUELA: Y te hago una última pregunta, y no molesto más por 5 min.
+
+540
+01:21:12.120 --> 01:21:17.240
+MATEO VALENZUELA: Esto corre en la infraestructura del del cliente o corre en infraestructura, Suya.
+
+541
+01:21:17.880 --> 01:21:31.980
+Julian Massa: Bueno, la consola está posteada, digamos, si están data Center propios de de a W. S. Hay una pata local, O sea, nosotros podemos implementar un tipo de gateway local
+
+542
+01:21:32.090 --> 01:21:55.400
+Julian Massa: por distintas cuestiones, distintas, soluciones que son sigon prem y que necesitamos conectar a visión One para hacer una ingesta de datos. Y después están los sensores que puede ser el sensor que instalamos en el Lendpoint. La integración propia con el activirtory, un sensor propio de red que funciona como un I, D, S. O un Y Ps, dependiendo el caso.
+
+543
+01:21:55.400 --> 01:21:58.330
+Julian Massa: todo ese tipo. ¿de
+
+544
+01:21:59.020 --> 01:22:08.209
+Julian Massa: dónde está costeado? Bueno, la plataforma está costeada en nube, pero hay siempre hay alguna pata un premio dependiendo la necesidad del caso. No.
+
+545
+01:22:09.280 --> 01:22:17.189
+Alberto H. Saul: Sí. Por lo general de la respuesta. Quizás si te hubieses ido más genérico, es híbrido, o sea, nosotros, por lo general nos integramos a
+
+546
+01:22:17.190 --> 01:22:34.159
+Alberto H. Saul: incluso. Por ejemplo, si hablamos de Data Center, protegemos en todos los estadios data Center, o sea, si lo tenés a un premio virtualizado o incluso en la nube. Lo mismo Lo transpolamos el concepto a a todos los puntos de protección, salvo que la otra parte de la pregunta es: o la respuesta? Perdón
+
+547
+01:22:34.160 --> 01:22:42.620
+Alberto H. Saul: es que está está todo yendo a la nube, viste más más? Es porque hay una parte de inteligencia mucho más temprana en nube que un premio.
+
+548
+01:22:43.560 --> 01:22:56.430
+MATEO VALENZUELA: Los llevaba más por el ¿Quién maneja el riesgo? Pues si ustedes asumen el riesgo de guardar toda esta información confidencial del cliente o es el cliente costea su infra riesgo de cliente. Si llegan a liquidar toda esa data.
+
+549
+01:22:56.530 --> 01:22:57.020
+Julian Massa: Bueno.
+
+550
+01:22:57.020 --> 01:23:17.290
+Alberto H. Saul: Eso no sé. Parece que nos hubiese hecho. Fabian la pregunta esa llama de cumpleaños. Pero si, digamos claro, todas las, por lo general, todos los organismos o las empresas privadas que que detentan datos obviamente tienen un interés legítimo en el tratamiento del mismo, porque es defender las infraestructuras. Entonces, por ese lado, es un punto a favor de de de estos servicios.
+
+551
+01:23:17.290 --> 01:23:23.890
+Alberto H. Saul: por otro. Imagínate que cumplen con una infinidad de de de normativas
+
+552
+01:23:23.890 --> 01:23:39.419
+Alberto H. Saul: y atendiendo a que trabajan en un esquema de nubes. También hacen compañía con cada una de las regiones donde están operando, entonces esta parte y obvio, y también otro dato de color que es hasta la finalización o la mientras o mientras dure la vigencia del contrato del servicio.
+
+553
+01:23:39.420 --> 01:23:49.729
+Alberto H. Saul: Después tiene todo un procedimiento de destrucción de la información confidencial del cliente. Entonces, por ese lado, a nivel de cumpleaños está al menos nosotros estamos estamos cubiertos.
+
+554
+01:23:49.980 --> 01:23:53.360
+Julian Massa: Sí. Y a nivel a nivel
+
+555
+01:23:53.560 --> 01:24:00.329
+Julian Massa: lógico, digamos, o obviamente, hay un modelo de responsabilidad compartida. No nos olvidemos que.
+
+556
+01:24:00.330 --> 01:24:01.240
+Alberto H. Saul: También.
+
+557
+01:24:01.240 --> 01:24:07.439
+Julian Massa: El último responsable, o la última contability de los activos es el lawner del activo. No.
+
+558
+01:24:07.530 --> 01:24:22.710
+Julian Massa: obviamente son modelos de responsabilidad compartida y tren cumple con todos los estándares, como así lo cumple la Ws o los cumple cualquier otro otro vendor, ¿no? Pero se trata siempre de un modelo de de responsabilidad compartida.
+
+559
+01:24:23.380 --> 01:24:40.770
+Alberto H. Saul: Me me río porque estamos por certificar. Si entonces está con todo eso, Julita a Full, pero y también otra otra que también esto lo sacan de los estándares, que también la diferencia de roles entre el responsable, haciendo más refuerzo de lo que dice Juli, el responsable es el encargado del tratamiento.
+
+560
+01:24:40.860 --> 01:24:56.360
+Alberto H. Saul: o sea, siempre la responsabilidad va a recaer de quien obviamente cede los datos y el encargado se hará responsable si es una brecha, una brecha negligente, y después veremos en el estudio cómo lo resolvemos, pero digo, ¿están los roles bastante bien compartidos
+
+561
+01:24:56.360 --> 01:25:01.900
+Alberto H. Saul: y es inevitable este tipo de tratamiento de datos para, obviamente, hacer operativa la función de ciberseguridad.
+
+562
+01:25:02.550 --> 01:25:03.220
+Carlos Fabian Descalzo: Mhm
+
+563
+01:25:03.470 --> 01:25:16.179
+Carlos Fabian Descalzo: tal cual. Si yo vuelvo un poquito para atrás y ahí mate viste que vos hacías la pregunta de ¿Por qué se le avisa a la persona, digamos no A.
+
+564
+01:25:16.970 --> 01:25:22.239
+Carlos Fabian Descalzo: Y acá? Alvarez decime si me equivoco o lo reforzas, Pero
+
+565
+01:25:22.750 --> 01:25:30.580
+Carlos Fabian Descalzo: vos pensás que todos los datos que están relacionados con lo que es
+
+566
+01:25:31.640 --> 01:25:44.090
+Carlos Fabian Descalzo: la identidad digital de las personas son propietarias de las personas por regulación G de pr las leyes de protección de datos personales. La.
+
+567
+01:25:44.090 --> 01:25:47.310
+Alberto H. Saul: Nuestra claro Sí, sí. Tal cual es el titular del dato.
+
+568
+01:25:47.630 --> 01:26:02.749
+Carlos Fabian Descalzo: Exactamente. Entonces, si vos tenés un tema en donde está involucrada la identidad digital de una persona. Si la tenés que comunicar que mirá. Yo vi tu cuenta
+
+569
+01:26:02.860 --> 01:26:13.210
+Carlos Fabian Descalzo: con tus credenciales de acceso de determinada forma que están comprometidas En tal lado. Tengo que comunicarlo y, además.
+
+570
+01:26:13.590 --> 01:26:18.320
+Carlos Fabian Descalzo: dentro de los procesos internos que hay en una compañía
+
+571
+01:26:18.450 --> 01:26:27.780
+Carlos Fabian Descalzo: respecto del cumplimiento de las leyes, tenés que ver como tratarlo no. Y esto nos ayuda de alguna manera a poder detectar esto
+
+572
+01:26:28.160 --> 01:26:40.709
+Carlos Fabian Descalzo: decime Julia, si me equivoco, pero tal como vos comentaste en algún momento a través no solo de Internet, sino de la Dark web, etcétera, como para que también la persona sepa
+
+573
+01:26:41.100 --> 01:26:48.460
+Carlos Fabian Descalzo: de que su identidad está está comprometida, digamos no, y que hay que enfrentar el tema.
+
+574
+01:26:49.400 --> 01:26:50.070
+Alberto H. Saul: Tal cual.
+
+575
+01:26:51.400 --> 01:26:52.200
+Julian Massa: ¿correcto?
+
+576
+01:26:52.510 --> 01:26:54.710
+Julian Massa: Bueno.
+
+577
+01:26:54.900 --> 01:27:08.019
+Julian Massa: Creo que con esto ya hay un pantallazo bastante general. Vimos aproximadamente, creo yo, un 20, 30 por 100 de la plataforma. A A mí me divierte esto, pero me parece que es.
+
+578
+01:27:08.890 --> 01:27:11.280
+Alberto H. Saul: Pero me dice que es viernes.
+
+579
+01:27:11.280 --> 01:27:30.010
+Julian Massa: Parece que es viernes, me parece que es la información que por ahí más de más utilidad les va a hacer a ustedes. Y además, nada Quiero escuchar un poco también cualquier comentario. Cualquier pregunta. No sé también Alberto, si quieres agregar algo.
+
+580
+01:27:30.600 --> 01:27:38.380
+Alberto H. Saul: No yo. La verdad que que que estoy en Disney, la verdad que la pasé bárbaro en la clase y Y de nuevo, está bueno
+
+581
+01:27:38.540 --> 01:27:57.619
+Alberto H. Saul: lo lo que pero esto, más allá de de un elogio y demás, aprovechen a Fabian porque lo que sabe, es es impresionante. Y lo humilde que es lo humilde que es. Nosotros. Estamos hiperagradecidos por por la invitación. De hecho, Bueno, cuando cuando Fabian me me invita a participar de una manera en su clase.
+
+582
+01:27:57.620 --> 01:27:59.870
+Alberto H. Saul: Yo le comento justo, me recibí en la Upper
+
+583
+01:27:59.870 --> 01:28:08.959
+Alberto H. Saul: y le conté un poco la historia de que ya había empezado a trabajar en tren que me recibí, abogado que en el medio aparecieron estas cuestiones de derecho informático. Y pude conjugar
+
+584
+01:28:08.960 --> 01:28:27.879
+Alberto H. Saul: esas 2 pasiones que tenía entonces nada como que estuvo muy, muy buena la invitación y personalmente, la pasé genial y nada. El mensaje que le queremos dejar un poco más allá de mi latiguillo. El designada es que hoy el tratamiento de este tipo de cuestiones es completamente multidisciplinario
+
+585
+01:28:27.880 --> 01:28:48.170
+Alberto H. Saul: y mínimamente, si no se van a dedicar puntualmente a una cuestión como, por ejemplo, qué sé yo evidencia digital. Bueno, saber que existen las herramientas, saber qué se puede hacer con eso y tener un gran pantallazo para después mañana. Poder tomar decisiones o dirigir una compañía es, es es bastante importante no conocer al menos las herramientas y lo que existe
+
+586
+01:28:48.170 --> 01:29:00.480
+Alberto H. Saul: en el mercado a nivel de amenazas a nivel de con playas, como que al lado del clarín que le vemos todos los domingos. Bueno, nutrirnos un poco de estas últimas tecnologías que que además nos apasiona. Y por eso estamos estudiando Esto no.
+
+587
+01:29:01.490 --> 01:29:07.049
+Carlos Fabian Descalzo: Sí, ahí. Albert, Lo Lo que yo digo habitualmente es el hecho de.
+
+588
+01:29:07.300 --> 01:29:10.849
+Carlos Fabian Descalzo: por lo menos entender de que esto es un proceso, no
+
+589
+01:29:10.960 --> 01:29:24.369
+Carlos Fabian Descalzo: digo, yo puedo no estar participando en una parte del proceso en particular, pero tengo que entender que hay algo que existe para saber qué pedir o qué dar exacto de alguna manera.
+
+590
+01:29:24.490 --> 01:29:34.099
+Carlos Fabian Descalzo: Ese es un poco el tema, No, no, las cosas no terminan en nuestro metro cuadrado, por así decirlo. Así que me.
+
+591
+01:29:34.100 --> 01:29:34.789
+Alberto H. Saul: El Gol.
+
+592
+01:29:34.790 --> 01:29:35.180
+Carlos Fabian Descalzo: Y demás.
+
+593
+01:29:35.180 --> 01:29:37.340
+Alberto H. Saul: Había una pregunta de Santiago, Creo, no.
+
+594
+01:29:37.340 --> 01:29:49.659
+Julian Massa: La pregunta de Santiago, que es bueno, pues dice estos reportes simétricas. Se los comparten a los clientes. Me da curiosidad saber cómo se toman los malos reportes los clientes. Bueno.
+
+595
+01:29:49.660 --> 01:29:52.480
+Alberto H. Saul: Es buena en serio.
+
+596
+01:29:52.480 --> 01:29:52.820
+Carlos Fabian Descalzo: ¿cuál es.
+
+597
+01:29:52.820 --> 01:30:02.410
+Julian Massa: Como mencionaba antes yo, nosotros, con la información, tratamos de hacer algún tratamiento y darle algún valor agregado, pero ellos también. To
+
+598
+01:30:02.630 --> 01:30:22.149
+Julian Massa: cuando me pasa no que por ahí entra inciso, que no, no está todo el día al día con la herramienta y una alguna vez le toca entrar o quiere entrar a ver algo. Y y a veces realmente se se toman, se preocupan por las métricas. Y ahí es donde, como mencionaba antes yo, por ahí intento, como
+
+599
+01:30:22.270 --> 01:30:39.800
+Julian Massa: no, no no tranquilizarlo, sino, bueno, ya sabés, por lo menos por donde tenés que accionar listo, Esto te está seteando un poco, cuáles tienen que ser tus pros próximas acciones, atender que el crítico y poder priorizar lo que es más crítico y separar lo que es crítico y lo que no.
+
+600
+01:30:39.800 --> 01:30:50.479
+Alberto H. Saul: Hasta hace poco tren usaba como una metáfora perdón, julio y justo te interrumpí. Pensé que habías terminado, pero usa una una metáfora como de brújula, no, O sea, muchas veces estos informes
+
+601
+01:30:50.480 --> 01:31:00.469
+Alberto H. Saul: indican el norte hacia donde tiene que ir el consejo de ciberseguridad, entonces supongo que no tienen, No, no. En el mejor de los casos, se van siempre que tienen implementadas todas las las tecnologías.
+
+602
+01:31:00.470 --> 01:31:04.040
+Alberto H. Saul: Entonces quizás la tecnología no está tomando acción, pero puede auditar
+
+603
+01:31:04.040 --> 01:31:22.169
+Alberto H. Saul: y decirle al al Consejo de ciberseguridad o a la dirección che mirá. Tienen que proteger más. Los adyacentes no tienen que hacer un hincapié más en la parte de identidades o contenedores, o la parte de ya entonces está bueno que que sirva de de, como decía Julián, que acciones futuras próximas no muy lejanas, debería
+
+604
+01:31:22.170 --> 01:31:24.949
+Alberto H. Saul: encarar la la organización.
+
+605
+01:31:25.940 --> 01:31:31.639
+Carlos Fabian Descalzo: Mhm tal cual tal cual, y esto es un poco del de de lo que hablamos.
+
+606
+01:31:31.880 --> 01:31:38.320
+Carlos Fabian Descalzo: En general, cuando mencionamos el tema de gobierno de ciberseguridad, no, o sea.
+
+607
+01:31:38.570 --> 01:31:47.690
+Carlos Fabian Descalzo: la posición del S I S o en donde convertirse en un alquimista
+
+608
+01:31:48.480 --> 01:31:58.220
+Carlos Fabian Descalzo: de que ¿Qué hago con el dato duro para convertirlo en información que le sirva al directorio para tomar decisiones.
+
+609
+01:31:59.420 --> 01:32:01.720
+Carlos Fabian Descalzo: Es como un es complejo.
+
+610
+01:32:02.190 --> 01:32:07.960
+Carlos Fabian Descalzo: Es fácil decirlo. Es complejo, pero no es difícil
+
+611
+01:32:08.130 --> 01:32:11.469
+Carlos Fabian Descalzo: tomar herramientas cuando sé que tengo
+
+612
+01:32:11.960 --> 01:32:20.059
+Carlos Fabian Descalzo: profesionales como los chicos que nos ayudan, nos ponen en una guía con distintos tipos de herramientas.
+
+613
+01:32:20.890 --> 01:32:30.389
+Carlos Fabian Descalzo: Cuando conocemos que tenemos estándares, tenemos distintos tipos de normas, etc. Que nos ayudan. Como les decía.
+
+614
+01:32:30.390 --> 01:32:36.730
+Carlos Fabian Descalzo: yo quiero convertir esto en verde. Como cuantificarlo, voy a la 27 016.
+
+615
+01:32:36.730 --> 01:32:51.560
+Carlos Fabian Descalzo: Me voy a una metodología faire a nivel de riesgos para poder cuantificar el tema de riesgos, etcétera. Entonces lo que tengo que aprender es a conocer qué fuentes son las que tengo.
+
+616
+01:32:52.270 --> 01:32:56.129
+Carlos Fabian Descalzo: Y reitero lo mismo. La herramienta me da datos.
+
+617
+01:32:56.600 --> 01:33:02.140
+Carlos Fabian Descalzo: Los únicos que convertimos los datos en información somos nosotros
+
+618
+01:33:02.540 --> 01:33:05.399
+Carlos Fabian Descalzo: en base a este tipo de conocimiento
+
+619
+01:33:05.780 --> 01:33:08.369
+Carlos Fabian Descalzo: y lo que nos puedan dar
+
+620
+01:33:08.720 --> 01:33:12.279
+Carlos Fabian Descalzo: gente que conoce el tema como los chicos.
+
+621
+01:33:13.080 --> 01:33:18.500
+Carlos Fabian Descalzo: para ver de qué hacemos con toda esa información, con todos esos datos.
+
+622
+01:33:20.180 --> 01:33:26.629
+Carlos Fabian Descalzo: Y esto lo recalco porque tengan en cuenta que tener un dato no es tener información.
+
+623
+01:33:27.450 --> 01:33:32.620
+Carlos Fabian Descalzo: Tener información. Significa saber qué hago con los datos.
+
+624
+01:33:33.510 --> 01:33:41.540
+Carlos Fabian Descalzo: a quién lo tengo que presentar, ¿De qué manera, como lo quiero mostrar ahí turquito. No sé si vos querés comentar algo, pero.
+
+625
+01:33:41.950 --> 01:33:45.240
+Julian Massa: Yo quería agregar porque.
+
+626
+01:33:45.240 --> 01:33:46.199
+Carlos Fabian Descalzo: Perdón, Vamos.
+
+627
+01:33:46.650 --> 01:33:58.989
+Julian Massa: Quería agregar que este tipo de herramientas justamente hablabas del Cis o como una especie de alquimista. Muchas veces el trabajo propio de un siso
+
+628
+01:33:58.990 --> 01:34:08.259
+Julian Massa: consiste en explicar hacia arriba hacia el borde o hacia la gerencia o a la junta directiva o incluso a los socios de una organización.
+
+629
+01:34:08.890 --> 01:34:32.530
+Julian Massa: ¿cuál Cuáles son los los riesgos justamente o cuál es el impacto que puede tener la un incidente? Por ejemplo, no hay una herramienta dentro de la consola de tren que está en preview. Por eso no la vimos hoy, que lo que hace es bueno. Muchas veces las juntas directivas no conocen de de métricas, sino conocen de métricas financieras. ¿no? Entonces
+
+630
+01:34:32.530 --> 01:34:47.400
+Julian Massa: hay una hay un previo, una herramienta que lo que hace es transformar cada activo en una cuantificación monetaria. Para poder explicar más fácilmente hacia arriba cuál es el impacto de una brecha de seguridad, por ejemplo. Entonces.
+
+631
+01:34:47.830 --> 01:34:57.979
+Julian Massa: si yo voy y le digo por ahí a a un socio Chets, hay riesgo que se comprometa la actividad director. Y Y a mí que me importa, te puedes decir, no o no sé
+
+632
+01:34:58.010 --> 01:35:15.790
+Julian Massa: eso qué implica? ¿no? Bueno, mira en base a esta herramienta. Te puedo. Te puedo mostrar que frenar la producción de nuestro servidor core productivo del banco, por ejemplo, por un día puede llegar a tener una pérdida. Podemos llegar a tener una pérdida de un 1 000 000 de dólares, no como
+
+633
+01:35:16.320 --> 01:35:19.219
+Julian Massa: como una herramienta de comunicación.
+
+634
+01:35:19.220 --> 01:35:19.990
+Carlos Fabian Descalzo: Tal cual
+
+635
+01:35:20.380 --> 01:35:32.440
+Carlos Fabian Descalzo: ahí ahí yo, para que ustedes sepan chicos, yo yo les comentaba de esta asociación a los chicos entre lo que es coso y los Center Prize, Richs Management
+
+636
+01:35:32.540 --> 01:35:49.130
+Carlos Fabian Descalzo: en realidad, y con el cuadro de mando, digamos, de una compañía a nivel de riesgo corporativo, etcétera. Y lo que hago a nivel de Covid como gobierno de tecnología, no de donde descolgamos todo lo nuestro, hay un paralelismo ahí
+
+637
+01:35:49.580 --> 01:35:57.390
+Carlos Fabian Descalzo: y en donde, principalmente hoy que en vebo tecnología no es que uso tecnología.
+
+638
+01:35:57.770 --> 01:36:00.190
+Carlos Fabian Descalzo: Esto es fundamental.
+
+639
+01:36:00.580 --> 01:36:08.050
+Carlos Fabian Descalzo: Así que les agradezco un montón, la verdad, lo que nos han compartido.
+
+640
+01:36:08.350 --> 01:36:13.799
+Carlos Fabian Descalzo: Chicos como podrán ver, espero que les haya
+
+641
+01:36:14.330 --> 01:36:24.090
+Carlos Fabian Descalzo: este parecido interesante, porque la verdad que todo el expertise que tienen tanto Juli como Albert en en estos temas.
+
+642
+01:36:25.490 --> 01:36:34.270
+Carlos Fabian Descalzo: Y yo entiendo que con la claridad que lo han explicado inclusive hasta un no técnico.
+
+643
+01:36:34.820 --> 01:36:39.589
+Carlos Fabian Descalzo: podría llegar a a a a entender. Digamos, lo que ellos nos quisieron.
+
+644
+01:36:39.930 --> 01:36:51.729
+Carlos Fabian Descalzo: Este proponer como solución, no veamos esto como una solución. Y para aquellos que hoy por hoy, estén
+
+645
+01:36:51.850 --> 01:36:59.139
+Carlos Fabian Descalzo: trabajando en estos temas, lo lo tengan como referencia.
+
+646
+01:36:59.250 --> 01:37:09.209
+Carlos Fabian Descalzo: está grabado. Así que si lo pueden volver a ver para ver este ver alguna cuestión que les haya quedado por ahí en.
+
+647
+01:37:09.490 --> 01:37:14.930
+Alberto H. Saul: Alguna capaz que nos mandamos. Julia. Si queda grabado, podemos volver.
+
+648
+01:37:14.930 --> 01:37:15.619
+Carlos Fabian Descalzo: ¿por qué no.
+
+649
+01:37:15.970 --> 01:37:22.539
+Julian Massa: Aprovecho. Aprovecho como como último y por el chat, dejé mi correo por si alguien quiere escribirme hacer.
+
+650
+01:37:22.540 --> 01:37:23.320
+Carlos Fabian Descalzo: Excelente.
+
+651
+01:37:23.680 --> 01:37:35.220
+Julian Massa: Pueden buscarme también por Linkedin a mí. Yo no soy muy amigo de Linkedin, pero lo u lo uso digo si si quieren contactarme por algo, lo que necesiten. Siéntense.
+
+652
+01:37:35.220 --> 01:37:40.619
+Carlos Fabian Descalzo: Amigo Juli, que tenés mucha experiencia y conoces. Un montón no.
+
+653
+01:37:40.620 --> 01:37:52.940
+Julian Massa: Me cuesta un poco. Me cuesta un poco Linkedin. Pero bueno, entiendo que para para generar vínculos está bueno. Así que nada, cualquier cosa que quieran. Me me escriben por ahí. Quedamos más que a disposición.
+
+654
+01:37:53.350 --> 01:37:54.559
+Carlos Fabian Descalzo: Tal cual tal cual.
+
+655
+01:37:54.560 --> 01:37:54.900
+Alberto H. Saul: Lo mismo.
+
+656
+01:37:54.900 --> 01:38:01.339
+Carlos Fabian Descalzo: Canal quede abierto para que consulten ahí. Albert. No sé si vos querés agregar algo adicional y.
+
+657
+01:38:01.340 --> 01:38:16.939
+Alberto H. Saul: No pobres chicos. Ya no puedo agregar más nada. No nos van a matar, Nos van a matar, pero no más que nada. De nuevo, reforzar un poco lo que dijimos fue un placer estar con ustedes hiper Fue un privilegio compartir esta clase con vos. Fabian y con los chicos
+
+658
+01:38:16.940 --> 01:38:22.960
+Alberto H. Saul: y nos hicimos, nos hicieron sentir muy cómodos, también con las preguntas y la participación hace que todo sea
+
+659
+01:38:22.980 --> 01:38:30.100
+Alberto H. Saul: mucho más ameno. Así que hiper agradecidos, Hablo por los 2. En este sentido. Seguramente Juli se siente igual que yo.
+
+660
+01:38:30.510 --> 01:38:32.619
+Julian Massa: Recontra recontra. Gracias.
+
+661
+01:38:32.620 --> 01:38:42.780
+Carlos Fabian Descalzo: Bien, Bien, chicos antes de terminar con la charla. No sé si alguien tiene alguna pregunta ¿Algún comentario adicional
+
+662
+01:38:43.000 --> 01:38:46.650
+Carlos Fabian Descalzo: que quieran compartir con Juli y con Albert.
+
+663
+01:38:50.570 --> 01:38:51.420
+Carlos Fabian Descalzo: No.
+
+664
+01:38:51.800 --> 01:38:59.980
+Carlos Fabian Descalzo: Bien. Perfecto. Bueno, cerramos lo del día de hoy.
+
+665
+01:39:00.120 --> 01:39:09.329
+Carlos Fabian Descalzo: Yo voy a ver de compartir por ahí este Albert, Si. Y Juli. Si podemos ver si hay información
+
+666
+01:39:09.440 --> 01:39:14.089
+Carlos Fabian Descalzo: de las herramientas que estuvimos viendo, viste algún Flyer.
+
+667
+01:39:14.640 --> 01:39:15.020
+Alberto H. Saul: Sí.
+
+668
+01:39:15.020 --> 01:39:32.689
+Carlos Fabian Descalzo: El estilo como para compartir con los chicos, compártanmelo por mail. Y yo me comprometo con ustedes chicos a subirlo a la plataforma para que ustedes también tengan, digamos, este info de de todo lo que estuvimos hablando hoy a
+
+669
+01:39:32.790 --> 01:39:33.610
+Carlos Fabian Descalzo: y de.
+
+670
+01:39:33.610 --> 01:39:41.770
+Alberto H. Saul: Que había una una, una herramientita que creo que te la había comentado alguna vez que hablaba de todas las normativas que cumplen como chequear la sede de cumpleaños. Desde la consulta.
+
+671
+01:39:41.770 --> 01:39:42.709
+Carlos Fabian Descalzo: Muy bien.
+
+672
+01:39:42.710 --> 01:39:45.290
+Alberto H. Saul: Eso está bueno, casi que venir bien para la clase como un.
+
+673
+01:39:45.290 --> 01:39:54.019
+Carlos Fabian Descalzo: Me parece bueno, está. Está Está buenísimo, ¿sí? Este, Así que bueno, nada, chicos. Espero que les haya
+
+674
+01:39:54.360 --> 01:39:58.289
+Carlos Fabian Descalzo: resultado provechosa. La clase de hoy
+
+675
+01:39:58.590 --> 01:40:03.350
+Carlos Fabian Descalzo: y nos estamos viendo el próximo viernes. Sí.
+
+676
+01:40:05.190 --> 01:40:06.350
+SANTIAGO QUINELLI: Muchas gracias.
+
+677
+01:40:06.480 --> 01:40:07.119
+SOFIA LIBERTAD VELAZCO MONTAGNA: En el.
+
+678
+01:40:07.120 --> 01:40:07.650
+Alberto H. Saul: Ahora.
+
+679
+01:40:07.650 --> 01:40:09.820
+CAROLINA OYARBIDE: Gracias. Gracias. Julian.
+
+680
+01:40:10.530 --> 01:40:12.309
+Julian Massa: Gracias. Chicos, chicos.
+
+681
+01:40:12.540 --> 01:40:13.060
+Alberto H. Saul: Hay un.
+
+682
+01:40:13.060 --> 01:40:13.979
+JUAN LOGUZZO: Hasta luego. Muchas gracias.
+
+683
+01:40:13.980 --> 01:40:16.680
+Carlos Fabian Descalzo: Gracias, Albert y Julia.
+
+684
+01:40:16.680 --> 01:40:17.880
+Alberto H. Saul: Por favor, por favor.
+
+685
+01:40:17.880 --> 01:40:19.239
+Julian Massa: Un gustazo, siempre.
+
+686
+01:40:19.670 --> 01:40:20.010
+Alberto H. Saul: Es de.
+
+687
+01:40:20.010 --> 01:40:20.510
+Carlos Fabian Descalzo: Okay.
+
+688
+01:40:20.510 --> 01:40:20.890
+Julian Massa: Hasta luego.
+
+689
+01:40:20.890 --> 01:40:21.610
+Carlos Fabian Descalzo: Chao, chao.

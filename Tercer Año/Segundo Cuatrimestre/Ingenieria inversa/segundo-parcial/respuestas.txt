@@ -1,0 +1,377 @@
+SEGUNDO PARCIAL - INGENIERÍA INVERSA
+Análisis de la muestra SegundoExamen_exe
+Alumno: Francisco Daurat
+Fecha: 31/10/2026
+
+IDENTIFICACIÓN DE LA MUESTRA
+Archivo analizado: SegundoExamen_exe. Para ejecutarlo se copió como SegundoExamen.exe, porque el archivo original no tiene extensión.
+Tipo: PE32+ x86-64, subsistema consola, 6 secciones, 15.872 bytes.
+SHA-256: 961a8d0a307798c1259117583a763aec2b23ce65522d73a9cace480bba79bacd
+SHA-1: caa7a1dc7b5a37fb8154cb0edcf12f9c28ce541c
+MD5: d30e159e2dfb09999302841ddf7db2c0
+Fecha de compilación: 2025-11-05 18:45:52 UTC.
+Compilador: Microsoft Visual C++ (linker 14.44 / Visual Studio), runtime VCRUNTIME140.dll y UCRT.
+
+METODOLOGÍA
+El análisis se dividió en dos partes. La estática se realizó con PEStudio y strings, y se complementó con el desensamblado del entry point y del stub decodificador. La dinámica se realizó en la máquina virtual FlareVM, en una red aislada, ejecutando la muestra y observando el proceso, el puerto y la shell obtenida. La muestra no se ejecutó en el host.
+
+RESUMEN EJECUTIVO
+La muestra es un cargador de 64 bits que lleva oculto un shellcode dentro de 138 cadenas con formato IPv4. Al ejecutarse, decodifica ese shellcode, lo ejecuta en memoria, intenta persistir en el registro de Windows y queda a la escucha en el puerto TCP 1443. Cuando alguien se conecta, entrega una consola de cmd.exe. No inicia conexiones salientes, no descarga archivos y no se autoborra. Su objetivo es dejar una puerta trasera interactiva en el equipo.
+
+========================================================================
+1. LENGUAJE EN EL QUE SE ENCUENTRA DESARROLLADO, ARQUITECTURA DEL BINARIO Y CATEGORÍA DEL MALWARE (5 puntos)
+========================================================================
+
+Síntesis: es un programa de Windows de 64 bits, escrito en C++, que funciona como cargador de una puerta trasera. No es un virus ni un ransomware: su tarea es abrir una consola remota y dejar una forma de volver a ejecutarse.
+
+Desarrollo:
+- Lenguaje: C++ compilado con Microsoft Visual C++ (linker 14.44 / Visual Studio). Se observa el runtime VCRUNTIME140.dll, las DLL del UCRT (api-ms-win-crt-*) y el manejo de excepciones de C++ (__C_specific_handler, __current_exception). No es .NET.
+- Arquitectura: PE32+ para x86-64, little-endian, subsistema consola. Image base 0x140000000, entry point RVA 0x1560. Tiene 6 secciones y no tiene overlay.
+- Categoría: dropper/loader (etapa 0) que ejecuta en memoria un backdoor tipo bind shell (etapa 1) y agrega persistencia. El comportamiento final es el de un troyano/backdoor: queda oculto, espera una conexión y entrega una shell. No se reproduce solo, no cifra archivos y no roba información de forma automática.
+
+Justificación: la muestra no contiene el backdoor como un archivo aparte ni lo descarga. Lo lleva codificado dentro del mismo ejecutable y lo ejecuta en memoria, que es la definición práctica de un loader. La función de la etapa 2 es abrir un socket y adjuntarle cmd.exe, que es la definición práctica de un bind shell.
+
+========================================================================
+2. ENUMERAR LOS STRINGS, IMPORTS Y SECTIONS RELEVANTES (5 puntos)
+========================================================================
+
+Síntesis: el archivo tiene las secciones normales de un programa de Visual Studio. Lo llamativo está en unas cadenas que parecen direcciones IP y en unas pocas funciones de Windows que permiten reservar memoria ejecutable, escribir el registro y ocultar la consola.
+
+Secciones:
+
+  Sección   RVA      Tamaño virtual   Tamaño en disco   Entropía   Para qué sirve
+  .text     0x1000   0x113c           0x1200            5.905      Código del cargador.
+  .rdata    0x3000   0x1a8e           0x1c00            4.314      Strings, imports y datos de solo lectura.
+  .data     0x5000   0x0ad0           0x0600            2.407      Variables globales y datos inicializados.
+  .pdata    0x6000   0x01c8           0x0200            3.434      Información de excepciones de Windows.
+  .rsrc     0x7000   0x01e0           0x0200            4.702      Recursos; solo contiene el manifiesto asInvoker.
+  .reloc    0x8000   0x014c           0x0200            3.852      Relocalizaciones.
+
+No hay una sección con permisos de escritura y ejecución al mismo tiempo. La muestra crea esa condición en tiempo de ejecución con VirtualAlloc y VirtualProtect. Tampoco se observan nombres de sección de packers conocidos (por ejemplo UPX) ni tamaños anómalos. La entropía de .text es 5.905, normal para código compilado, por lo que no hay evidencia de empaquetado.
+
+Strings relevantes:
+- RtlIpv4StringToAddressA: API que el cargador resuelve dinámicamente y usa para convertir cada cadena IPv4 en cuatro bytes.
+- NTDLL (UTF-16): módulo del que obtiene esa API.
+- Software\Microsoft\Windows\CurrentVersion\Run: clave de registro usada para la persistencia.
+- 138 cadenas con formato IPv4, por ejemplo 72.49.201.72, 129.233.192.255 y 92.3.190.144. No son direcciones de servidores C2: son la representación textual de los bytes del shellcode.
+- No hay URLs, nombres de archivos, comandos, mutex ni nombres de servicios.
+
+Imports relevantes y justificación:
+- VirtualAlloc, VirtualProtect y CreateThread (KERNEL32): reservan memoria, la marcan como ejecutable y lanzan el shellcode en un hilo nuevo. Son relevantes porque explican la ejecución en memoria.
+- GetModuleHandleW y GetProcAddress (KERNEL32): resuelven RtlIpv4StringToAddressA sin dejarla en la tabla de imports. Son relevantes porque ocultan la dependencia con NTDLL.
+- HeapAlloc, GetProcessHeap y HeapFree (KERNEL32): administran el buffer temporal donde se arman los 552 bytes del shellcode.
+- GetModuleFileNameA (KERNEL32): obtiene la ruta completa del ejecutable para usarla como dato de persistencia.
+- RegOpenKeyExA, RegSetValueExA y RegCloseKey (ADVAPI32): abren, escriben y cierran la clave Run de HKLM. Son relevantes porque implementan la persistencia.
+- GetConsoleWindow (KERNEL32) y ShowWindow (USER32): obtienen y ocultan la ventana de consola. Son relevantes porque explican por qué el proceso no muestra una ventana visible.
+- Sleep (KERNEL32): mantiene vivo el hilo principal con esperas de un segundo.
+- VCRUNTIME140.dll y api-ms-win-crt-*: runtime de C++ y UCRT. No son maliciosos; están presentes por el compilador.
+
+No hay imports de red en el PE. El socket no se crea desde la tabla de imports: se resuelve dentro del shellcode con LoadLibraryA("ws2_32") y funciones buscadas por hash. Ese es un dato importante para el análisis.
+
+========================================================================
+3. EXPLICAR QUÉ SUCEDE LUEGO DE EJECUTARLO (5 puntos)
+========================================================================
+
+Síntesis: al ejecutarlo no aparece una ventana. El programa decodifica una segunda pieza que lleva adentro, la ejecuta en memoria, intenta dejar una clave para volver a arrancar con Windows y se queda esperando una conexión en el puerto 1443. Cuando alguien se conecta, le entrega una consola de cmd.exe.
+
+Desarrollo, en orden:
+1. Arranca el runtime de Visual C++ y llega a la función principal, ubicada en RVA 0x1000.
+2. Obtiene el handle de NTDLL con GetModuleHandleW(L"NTDLL") y la dirección de RtlIpv4StringToAddressA con GetProcAddress.
+3. Reserva 0x228 bytes en el heap y recorre las 138 cadenas IPv4. Cada cadena se convierte en 4 bytes. El resultado son 552 bytes (0x228) de shellcode.
+4. Reserva 0x228 bytes con VirtualAlloc y protección PAGE_READWRITE, copia los 552 bytes y cambia la protección a PAGE_EXECUTE_READWRITE con VirtualProtect.
+5. Crea un hilo con CreateThread que apunta a esa región. Ahí comienza la etapa 2.
+6. El hilo principal obtiene su propia ruta con GetModuleFileNameA, abre HKLM\Software\Microsoft\Windows\CurrentVersion\Run y escribe el valor de persistencia. Si no tiene permisos, ignora el error y continúa.
+7. Oculta la consola con ShowWindow(GetConsoleWindow(), SW_HIDE) y entra en un bucle de Sleep(1000). Por eso el proceso sigue vivo pero no muestra ventana.
+8. La etapa 2 se descifra con XOR, resuelve funciones por hash, carga ws2_32, crea un socket TCP, hace bind en 0.0.0.0:1443, listen y accept. Cierra el socket de escucha y lanza cmd.exe con el socket aceptado como entrada, salida y error.
+
+Validación en FlareVM:
+- El proceso SegundoExamen.exe quedó en ejecución con PID 2444.
+- La consulta de puertos mostró TCP 0.0.0.0:1443 en estado LISTENING, asociado a ese PID.
+- Desde el host de laboratorio se realizó una conexión entrante al puerto 1443 y se obtuvo una consola. Los comandos whoami y hostname devolvieron desktop-e8ddk86\ingrev y DESKTOP-E8DDK86.
+- No se abrió ninguna ventana visible y no fue necesario interactuar con el programa.
+
+========================================================================
+4. ¿SE BORRA? ¿BAJO QUÉ CONDICIONES? (5 puntos)
+========================================================================
+
+Síntesis: no. El programa no tiene ninguna rutina para borrarse a sí mismo.
+
+Desarrollo:
+- No se observan llamadas a DeleteFile, DeleteFileW, MoveFileEx, SetFileInformationByHandle ni a un cmd /c del. Tampoco hay una copia en otra ruta que luego se elimine.
+- Después de ejecutar la muestra y terminarla con taskkill /f /im SegundoExamen.exe, el archivo C:\Users\ingrev\Desktop\SegundoExamen.exe siguió existiendo.
+- No hay una condición que dispare el borrado: no depende de la fecha, de la cantidad de ejecuciones, de la presencia de un depurador ni del resultado de la persistencia. Si la persistencia falla, el programa simplemente oculta la consola y sigue durmiendo.
+- Tampoco borra el valor de registro que intenta crear. La limpieza debe hacerla el analista o el antivirus.
+
+Conclusión: la muestra es persistente en disco y no tiene autoborrado. El archivo solo desaparece si el usuario, el antivirus o una herramienta de limpieza lo eliminan.
+
+========================================================================
+5. ¿GENERA PERSISTENCIA? ¿CÓMO? (10 puntos)
+========================================================================
+
+Síntesis: sí, intenta que Windows lo vuelva a ejecutar cada vez que un usuario inicie sesión. Lo hace agregando un valor en la clave Run de HKLM. Como esa clave es del sistema, el intento solo funciona si el programa se ejecutó con permisos de administrador.
+
+Desarrollo:
+- Obtiene la ruta completa del ejecutable con GetModuleFileNameA.
+- Abre la clave HKLM\Software\Microsoft\Windows\CurrentVersion\Run con RegOpenKeyExA. El acceso solicitado es 0x20006 (READ_CONTROL, KEY_SET_VALUE y KEY_CREATE_SUB_KEY).
+- El nombre del valor es el nombre del archivo, obtenido con strrchr(ruta, '\\') + 1. En la copia analizada sería SegundoExamen.exe.
+- El dato es la ruta completa, por ejemplo C:\Users\ingrev\Desktop\SegundoExamen.exe, con tipo REG_SZ. La longitud que pasa RegSetValueExA es strlen(ruta) + 1, por lo que incluye el byte nulo.
+- Cierra la clave con RegCloseKey.
+- No usa HKCU, ni servicios, ni tareas programadas, ni WMI. Toda la persistencia está en esa clave Run de HKLM.
+- Si el proceso no es administrador, RegOpenKeyExA o RegSetValueExA fallan con acceso denegado. El código no verifica el resultado y continúa con la ocultación de la consola y el bucle de Sleep. En la prueba sin elevación, la clave no se creó, lo que confirma el requisito de privilegios. El análisis estático muestra que, ejecutado como administrador, el valor queda creado.
+
+Conclusión: la persistencia es de tipo Run key en HKLM, basada en el nombre y la ruta del ejecutable, y depende de que la muestra se ejecute con privilegios elevados.
+
+========================================================================
+6. ¿CREA ARCHIVOS? ¿DÓNDE? (5 puntos)
+========================================================================
+
+Síntesis: no crea archivos. La segunda etapa no se guarda en el disco: se ejecuta directamente en memoria.
+
+Desarrollo:
+- No hay imports de creación o escritura de archivos (CreateFile, CreateFileW, WriteFile, WriteFileEx). Tampoco hay rutas de archivos en los strings.
+- El shellcode decodificado se copia a una región de memoria reservada con VirtualAlloc y se ejecuta desde ahí. No se escribe en %TEMP%, %APPDATA%, System32 ni en el directorio actual.
+- El único artefacto que escribe la muestra es el valor de registro de la clave Run, que no es un archivo.
+- cmd.exe es un proceso hijo, no un archivo creado por el malware.
+- Windows puede generar artefactos normales de ejecución, como Prefetch o Amcache, pero no son creados por la lógica del programa.
+- Si un atacante se conecta a la shell, puede crear archivos con comandos. Eso sería una acción del operador, no una función incorporada de la muestra.
+
+Conclusión: el loader no dropea archivos. Su etapa 2 vive en memoria y el único cambio persistente que intenta es el valor de registro.
+
+========================================================================
+7. ¿REALIZA CONEXIONES A ALGÚN SITIO EXTERNO? (10 puntos)
+========================================================================
+
+Síntesis: no sale a Internet. Se queda esperando que alguien se conecte a él en el puerto 1443. Es un bind shell, no un reverse shell.
+
+Desarrollo:
+- Dentro del shellcode se resuelven WSAStartup, WSASocketA, bind, listen, accept y closesocket. No se resuelve connect.
+- Crea un socket TCP con WSASocketA(AF_INET, SOCK_STREAM, 0) y llama a bind con la dirección 0.0.0.0 y el puerto 1443. Es decir, escucha en todas las interfaces del equipo.
+- Llama a listen y a accept. Cuando llega una conexión, cierra el socket de escucha y usa el socket aceptado como entrada, salida y error de cmd.exe.
+- No hay resolución DNS, HTTP, HTTPS ni comunicación con un servidor C2. Los 138 strings IPv4 no son direcciones de servidores: son los bytes del shellcode.
+- La conexión es entrante. El equipo infectado no inicia el contacto; espera que el atacante se conecte.
+- Si el Firewall de Windows bloquea el puerto, la shell no funciona. En la VM de laboratorio funcionó porque la red estaba controlada.
+
+Validación: la consulta de puertos mostró TCP 0.0.0.0:1443 en LISTENING. Una conexión entrante desde el host de laboratorio devolvió una consola de cmd.exe.
+
+Conclusión: no hay conexión saliente ni beacon. La muestra abre una puerta de entrada en el puerto 1443/TCP y entrega una shell al primero que se conecte.
+
+========================================================================
+8. ¿DESCARGA ARCHIVOS? ¿DÓNDE? (5 puntos)
+========================================================================
+
+Síntesis: no. La muestra no tiene código para descargar archivos.
+
+Desarrollo:
+- No hay imports de WinINet, WinHTTP, BITS, URLDownloadToFile ni InternetOpen.
+- No hay URLs, nombres de dominio ni rutas de descarga en los strings.
+- El shellcode solo carga ws2_32 para crear el socket de la shell. No usa la red para traer una segunda etapa: la etapa 2 ya está dentro del ejecutable, codificada como 138 cadenas IPv4.
+- El archivo no se descarga ni se guarda en disco. Se decodifica y se ejecuta en memoria.
+- Un atacante conectado a la shell podría ejecutar certutil, PowerShell, bitsadmin o cualquier otro comando para descargar algo. Eso sería una acción manual del atacante, no una capacidad incorporada de la muestra.
+
+Conclusión: no hay descarga automática ni dropper de archivos. La única etapa 2 es la que ya viene codificada en el binario.
+
+========================================================================
+9. ¿EXFILTRA INFORMACIÓN? ¿QUÉ INFORMACIÓN? ¿CÓMO? (10 puntos)
+========================================================================
+
+Síntesis: no exfiltra información por sí sola. Lo que hace es entregar una consola remota; el atacante decide qué información leer y cómo sacarla.
+
+Desarrollo:
+- No hay rutinas de recolección de archivos, credenciales, teclas, capturas de pantalla ni información del sistema. Tampoco hay envío por HTTP, DNS, correo o un servidor C2.
+- La etapa 2 solo crea el socket, acepta una conexión y adjunta cmd.exe. La shell corre con los privilegios del usuario que ejecutó la muestra. En la prueba, whoami devolvió desktop-e8ddk86\ingrev.
+- A través de esa shell, un atacante puede leer cualquier archivo o salida de comandos a la que tenga acceso ese usuario, y enviarla por el mismo socket TCP 1443. La información exfiltrable depende de los permisos del usuario y de lo que el atacante decida ejecutar.
+- El canal es TCP plano, sin TLS ni cifrado propio. La etapa 2 no cifra la sesión; el XOR solo protege el shellcode antes de ejecutarlo.
+- No hay una etapa de staging ni un archivo temporal con datos robados.
+
+Conclusión: la muestra no tiene exfiltración automática. Su capacidad es una shell interactiva que permite exfiltración manual, en texto plano, sobre el puerto 1443.
+
+========================================================================
+10. ¿TIENE ALGÚN TIPO DE CIFRADO PARA LA INFORMACIÓN? ¿QUÉ ALGORITMO UTILIZA? (TEA, RC4, 3DES, AES) ¿CUÁL ES LA CLAVE DE DESCIFRADO? (10 puntos)
+========================================================================
+
+Síntesis: sí, pero no usa TEA, RC4, 3DES ni AES. Usa un XOR de 64 bits para desempaquetar el shellcode que lleva adentro. La clave es 0xBE035C7C68CB7C80.
+
+Desarrollo:
+- El stub decodificador está en texto plano al inicio del shellcode.
+- A partir del offset 0x27, toma 64 qwords, es decir 512 bytes, y aplica XOR con la clave de 64 bits 0xBE035C7C68CB7C80.
+- En little-endian, la clave se representa con los bytes 80 7C CB 68 7C 5C 03 BE.
+- El pseudocódigo es:
+    uint64_t key = 0xBE035C7C68CB7C80;
+    for (int i = 0; i < 0x40; i++)
+        ((uint64_t *)(shellcode + 0x27))[i] ^= key;
+- No hay llamadas a CryptEncrypt, CryptDecrypt, BCryptEncrypt ni a bibliotecas de AES, TEA, RC4 o 3DES. La clave está embebida en el propio stub, no se negocia ni se recibe por red.
+- El cifrado protege únicamente la etapa 2 antes de ejecutarla. La sesión de cmd.exe sobre el puerto 1443 no está cifrada.
+- Las cadenas IPv4 no son cifrado: son una codificación de los bytes. Se pueden revertir sin clave, con la misma API RtlIpv4StringToAddressA o con un script.
+
+Conclusión: el algoritmo es XOR de 64 bits, no uno de los algoritmos de la lista. La clave de descifrado es 0xBE035C7C68CB7C80 (bytes 80 7C CB 68 7C 5C 03 BE).
+
+========================================================================
+11. ¿TIENE ALGÚN TIPO DE OFUSCACIÓN EL CÓDIGO? ¿TIENE CLAVE? (10 puntos)
+========================================================================
+
+Síntesis: sí. El código está ofuscado para que no se vea a simple vista qué hace. La clave principal es la misma del XOR: 0xBE035C7C68CB7C80. Además usa hashes para esconder los nombres de las funciones que llama.
+
+Desarrollo:
+- Ofuscación 1: el shellcode está partido en 138 cadenas con formato IPv4. A simple vista parecen direcciones de red, pero son bytes. Se decodifican en runtime con RtlIpv4StringToAddressA.
+- Ofuscación 2: la etapa 2 está cifrada con XOR de 64 bits. Sin la clave no se puede leer directamente, aunque la clave está embebida en el stub.
+- Ofuscación 3: dentro del shellcode, las APIs se resuelven por hash ROR13 en lugar de usar nombres. No hay imports de ws2_32, CreateProcessA, bind, listen ni accept en el PE. La constante del hash es ROR 13 (0xD).
+- Ofuscación 4: RtlIpv4StringToAddressA no está en la tabla de imports. Se resuelve con GetModuleHandleW(L"NTDLL") y GetProcAddress.
+- Ofuscación 5: el path del PDB está en cero, por lo que no se puede recuperar el nombre del proyecto ni la ruta de compilación.
+- No hay packer ni UPX. Los nombres de sección son los estándar de Visual Studio y la entropía de .text es 5.9, normal. La ofuscación es lógica, no de empaquetado.
+- No se observa una comprobación anti-debug o anti-VM explícita en la función principal. IsDebuggerPresent aparece en la tabla de imports por el runtime de C++, no como parte de la lógica del loader.
+
+Claves:
+- XOR de la etapa 2: 0xBE035C7C68CB7C80.
+- ROR13 para los hashes de APIs: 0xD. No es una clave secreta, es la función de hash.
+- La lista IPv4 no tiene clave: es una codificación reversible.
+
+Conclusión: la ofuscación combina codificación IPv4, XOR, resolución dinámica de APIs y hashes ROR13. La clave relevante es la del XOR.
+
+========================================================================
+12. DESCRIBIR LA CADENA DE EJECUCIÓN DEL MALWARE (10 puntos)
+========================================================================
+
+Síntesis: la muestra tiene dos etapas. La primera es un cargador que decodifica y ejecuta la segunda. La segunda es un shellcode que abre un puerto, espera una conexión y entrega una consola de Windows.
+
+Esquema general:
+
+  SegundoExamen.exe
+      |
+      | 1. Resuelve RtlIpv4StringToAddressA en NTDLL
+      | 2. Convierte 138 strings IPv4 en 552 bytes
+      | 3. VirtualAlloc + VirtualProtect RWX
+      | 4. CreateThread -> etapa 2
+      |
+      +--> Hilo principal:
+      |      5. GetModuleFileNameA
+      |      6. RegOpenKeyExA / RegSetValueExA en HKLM\...\Run
+      |      7. ShowWindow(SW_HIDE)
+      |      8. Sleep(1000) en bucle
+      |
+      +--> Etapa 2 (shellcode):
+             9. XOR con clave 0xBE035C7C68CB7C80
+             10. Resolución de APIs por hash ROR13
+             11. LoadLibraryA("ws2_32") + WSAStartup
+             12. WSASocketA + bind(0.0.0.0:1443) + listen + accept
+             13. CreateProcessA("cmd") con el socket como stdin/stdout/stderr
+             14. WaitForSingleObject
+
+Paso a paso:
+1. El runtime de Visual C++ ejecuta el arranque y llama a la función principal en RVA 0x1000.
+2. La función principal pide el handle de NTDLL y la dirección de RtlIpv4StringToAddressA. No usa la IAT para esa API.
+3. Reserva 0x228 bytes en el heap. Recorre las 138 cadenas IPv4 y convierte cada una en 4 bytes. El buffer final tiene 552 bytes.
+4. Reserva 0x228 bytes con VirtualAlloc, copia el buffer y cambia la protección a PAGE_EXECUTE_READWRITE. Crea un hilo con CreateThread que apunta a esa región.
+5. El hilo principal obtiene la ruta del ejecutable con GetModuleFileNameA. Abre HKLM\Software\Microsoft\Windows\CurrentVersion\Run y escribe el nombre del archivo con la ruta completa como dato REG_SZ.
+6. Si la escritura falla, no se detiene. Oculta la consola con ShowWindow(GetConsoleWindow(), SW_HIDE) y queda en un bucle de Sleep(1000).
+7. La etapa 2 empieza con el stub decodificador. Aplica XOR a 64 qwords (512 bytes) desde el offset 0x27 con la clave 0xBE035C7C68CB7C80.
+8. El shellcode ya descifrado camina la lista de módulos del proceso, calcula hashes ROR13 y resuelve las funciones que necesita. Carga ws2_32 con LoadLibraryA.
+9. Llama a WSAStartup(0x101), crea un socket TCP con WSASocketA(AF_INET, SOCK_STREAM, 0) y hace bind en 0.0.0.0:1443.
+10. Llama a listen y accept. Cuando llega una conexión, cierra el socket de escucha y arma un STARTUPINFOA con el socket aceptado como stdin, stdout y stderr.
+11. Llama a CreateProcessA con "cmd" y espera a que el proceso termine con WaitForSingleObject. El resultado es una consola remota.
+12. La muestra queda viva por el hilo principal, que duerme en bucle. El puerto 1443 queda a la escucha mientras el proceso exista.
+
+Hashes de APIs usados por la etapa 2:
+  LoadLibraryA        0x0726774C
+  WSAStartup          0x006B8029
+  WSASocketA          0xE0DF0FEA
+  bind                0x6737DBC2
+  listen              0xFF38E9B7
+  accept              0xE13BEC74
+  closesocket         0x614D6E75
+  CreateProcessA      0x863FCC79
+  WaitForSingleObject 0x601D8708
+  ExitProcess         0x56A2B5F0
+
+Conclusión: el loader decodifica y ejecuta en memoria un bind shell. El hilo principal agrega persistencia y oculta la consola; el hilo secundario abre el puerto 1443 y entrega cmd.exe.
+
+========================================================================
+13. ENUMERAR LOS INDICADORES DE COMPROMISO (CON REGLA DE YARA TIENE MEJOR PUNTAJE) (10 puntos)
+========================================================================
+
+Síntesis: los indicadores permiten reconocer el archivo, la clave de registro que intenta crear y el puerto que abre. La regla YARA permite detectar el binario y, con una variante, el shellcode ya descifrado en memoria.
+
+Indicadores de archivo:
+- Nombre observado: SegundoExamen.exe (el original es SegundoExamen_exe, sin extensión).
+- Tamaño: 15.872 bytes.
+- SHA-256: 961a8d0a307798c1259117583a763aec2b23ce65522d73a9cace480bba79bacd
+- SHA-1: caa7a1dc7b5a37fb8154cb0edcf12f9c28ce541c
+- MD5: d30e159e2dfb09999302841ddf7db2c0
+- Fecha de compilación: 2025-11-05 18:45:52 UTC.
+- Strings: RtlIpv4StringToAddressA, NTDLL (UTF-16), Software\Microsoft\Windows\CurrentVersion\Run, 138 cadenas IPv4 (primera 72.49.201.72, última 92.3.190.144).
+- Secciones: .text, .rdata, .data, .pdata, .rsrc y .reloc. Sin UPX ni packer conocido.
+
+Indicadores de registro:
+- Clave: HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+- Valor: SegundoExamen.exe
+- Dato: C:\Users\ingrev\Desktop\SegundoExamen.exe (REG_SZ)
+- El valor solo aparece si la muestra se ejecutó con permisos de administrador.
+
+Indicadores de red:
+- TCP 0.0.0.0:1443 en estado LISTENING.
+- Sin conexiones salientes ni resolución DNS.
+- Una conexión entrante al puerto 1443 recibe una consola de cmd.exe.
+- El canal es TCP plano, sin TLS.
+
+Indicadores de proceso y memoria:
+- Proceso SegundoExamen.exe con la consola oculta.
+- Hilo ejecutando una región RWX de 0x228 bytes.
+- Proceso hijo cmd.exe con los handles del socket aceptado.
+- Shellcode descifrado de 552 bytes. SHA-256 del shellcode descifrado: 2482b0ddf2f064a61c3d744840ead0f2f735d86a3c9e70b2e55ee8a830086eb2.
+
+Regla YARA principal (archivo en disco):
+
+import "pe"
+
+rule SegundoExamen_Loader_BindShell_2026
+{
+    meta:
+        description = "PE64 loader que decodifica 138 strings IPv4 en shellcode XOR y ejecuta un bind shell; persistencia HKLM Run"
+        author = "Francisco Daurat"
+        date = "2026-10-31"
+        sha256 = "961a8d0a307798c1259117583a763aec2b23ce65522d73a9cace480bba79bacd"
+        reference = "Ingenieria inversa - segundo parcial"
+
+    strings:
+        $rtl       = "RtlIpv4StringToAddressA" ascii fullword
+        $run       = "Software\\Microsoft\\Windows\\CurrentVersion\\Run" ascii fullword
+        $ntdll     = "NTDLL" wide
+        $ip_first  = "72.49.201.72" ascii
+        $ip_second = "129.233.192.255" ascii
+        $ip_last   = "92.3.190.144" ascii
+        $ip_re     = /([0-9]{1,3}\.){3}[0-9]{1,3}/ ascii
+
+    condition:
+        uint16(0) == 0x5a4d and
+        pe.machine == pe.MACHINE_AMD64 and
+        pe.number_of_sections == 6 and
+        filesize < 100KB and
+        pe.imports("KERNEL32.dll", "VirtualAlloc") and
+        pe.imports("KERNEL32.dll", "VirtualProtect") and
+        pe.imports("KERNEL32.dll", "CreateThread") and
+        pe.imports("ADVAPI32.dll", "RegSetValueExA") and
+        $rtl and $run and $ntdll and
+        $ip_first and $ip_second and $ip_last and
+        #ip_re > 100
+}
+
+Regla YARA complementaria (shellcode descifrado en memoria):
+
+rule SegundoExamen_Stage2_BindShell_Memory
+{
+    strings:
+        $stub     = { 48 31 C9 48 81 E9 C0 FF FF FF 48 8D 05 EF FF FF FF 48 BB 80 7C CB 68 7C 5C 03 BE }
+        $sockaddr = { 02 00 05 A3 00 00 00 00 }
+        $bind     = { 41 BA C2 DB 37 67 }
+        $listen   = { 41 BA B7 E9 38 FF }
+        $accept   = { 41 BA 74 EC 3B E1 }
+        $cmd      = "cmd" ascii
+
+    condition:
+        $stub and $sockaddr and
+        2 of ($bind, $listen, $accept) and
+        $cmd
+}
+
+Validación de las reglas: se compilaron y probaron con yara-python 4.5.4. La regla principal dio match sobre la muestra. La regla de memoria dio match sobre el shellcode descifrado de 552 bytes.
+
+Conclusión: la muestra se puede detectar por sus hashes, por la combinación de RtlIpv4StringToAddressA con la clave Run y las 138 IPs, por el puerto 1443 y por el shellcode descifrado en memoria. La regla YARA principal es la más útil para el archivo en disco; la complementaria sirve para memoria o para una muestra ya desempaquetada.

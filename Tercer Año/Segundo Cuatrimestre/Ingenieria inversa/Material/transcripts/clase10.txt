@@ -1,0 +1,1837 @@
+WEBVTT
+
+1
+00:03:28.280 --> 00:03:29.610
+nicolas mile: Por no.
+
+2
+00:14:25.240 --> 00:14:26.459
+Dario Rizzo: No, por ejemplo.
+
+3
+00:14:34.390 --> 00:14:35.020
+Dario Rizzo: pues, como.
+
+4
+00:14:35.020 --> 00:14:36.159
+FRANCISCO DAURAT: Profe también.
+
+5
+00:14:42.630 --> 00:14:44.080
+Dario Rizzo: Buenas, buenas tardes.
+
+6
+00:14:46.020 --> 00:14:46.469
+FRANCISCO DAURAT: Que da la.
+
+7
+00:14:46.470 --> 00:14:47.290
+AUGUSTO FIORE: La Profe.
+
+8
+00:14:47.970 --> 00:14:48.569
+Juan Farid Jalil Barberis: En el.
+
+9
+00:14:48.570 --> 00:14:49.410
+Maxi Barros: Bueno.
+
+10
+00:14:56.310 --> 00:14:56.960
+Dario Rizzo: Y bien, sí.
+
+11
+00:15:14.740 --> 00:15:15.640
+Dario Rizzo: Sí.
+
+12
+00:15:29.790 --> 00:15:30.660
+Dario Rizzo: Puf.
+
+13
+00:15:40.250 --> 00:15:44.950
+Dario Rizzo: Bueno.
+
+14
+00:15:56.500 --> 00:15:57.310
+Dario Rizzo: Mhm.
+
+15
+00:16:05.820 --> 00:16:10.740
+Dario Rizzo: Los compañeros.
+
+16
+00:16:12.200 --> 00:16:28.020
+Dario Rizzo: Mhm: Volvemos a Sí. Whatsapp: Bueno, buenas tardes. Nosotros hoy os voy a explicar lo que fue el Link
+
+17
+00:16:29.060 --> 00:16:44.250
+Dario Rizzo: Emily. Es una empresa de mensajería con una trayectoria en la casa matriz en Buenos aires y nacional aplausos
+
+18
+00:16:44.330 --> 00:16:54.729
+Dario Rizzo: también tiene como infraestructura. Una Web institucional
+
+19
+00:16:54.740 --> 00:17:04.869
+Dario Rizzo: también tiene unas camisetas. Con todos estos con su infraestructura que está expuesta a Internet y además tiene, es director. Y para la gestión de usuarios.
+
+20
+00:17:05.260 --> 00:17:12.700
+Dario Rizzo: Luego, para descubrir un poco lo que fue el subjetivo y realizamos con fuerza en objetivos. Principalmente
+
+21
+00:17:12.819 --> 00:17:27.379
+Dario Rizzo: era evaluar el número de seguridad y el tipo de. Revisamos el tipo de información
+
+22
+00:17:27.510 --> 00:17:46.719
+Dario Rizzo: credencial de 500 sodios, tests remoto, estructura de tracking y el artic electory.
+
+23
+00:17:46.720 --> 00:17:56.809
+Dario Rizzo: Esto está más que nada relacionado a ver si en las fases dependes pudimos encontrar algún usuario.
+
+24
+00:17:57.360 --> 00:18:08.049
+Dario Rizzo: Luego, en lo excluido, tenemos diferentes. Tampoco tenemos el imperio social ni ataques sin ser.
+
+25
+00:18:08.340 --> 00:18:21.729
+Dario Rizzo: Y, bueno, como una franquicia a 6 de la mañana, más que nada para evitar cualquier disrupción dentro del sistema productivo de lo que era.
+
+26
+00:18:22.020 --> 00:18:30.790
+Dario Rizzo: Y una vez, ya dentro, cuando lo explotáramos, no voy a ocupar ningún tipo de datos y las protesco directamente para demostrar el acceso.
+
+27
+00:18:30.810 --> 00:18:42.840
+Dario Rizzo: la metodología que utilizamos los fondos súper adhesivos de 5 padres, la cualidad de evolución. No hay acceso más buena de acceso y
+
+28
+00:18:42.890 --> 00:18:58.180
+Dario Rizzo: para iniciar con la explicación tenemos la primera fase, que es la fase de conocimiento de unidad de parte el reconocimiento pasivo y reconocimiento al pie. El reconocimiento pasivo, utilizamos técnicas de auxilio buscando información pública
+
+29
+00:18:58.330 --> 00:19:07.880
+Dario Rizzo: y herramientas que siguieron estos lineamientos, como lo fue Uys, que a partir del dominio que tiene la empresa, pudimos determinar información sobre su poquito
+
+30
+00:19:07.880 --> 00:19:20.840
+Dario Rizzo: luego con la herramienta, dejar de ser una herramienta que nos permitió y está alineada con anteriormente explicada
+
+31
+00:19:21.020 --> 00:19:27.820
+Dario Rizzo: que es Directory, en donde pudimos encontrar 2 correos corporativos, digamos expuestos.
+
+32
+00:19:27.920 --> 00:19:37.089
+Dario Rizzo: que nos permitió identificar una manera y una nomenclatura que es sostenido, por ejemplo, de iniciar.
+
+33
+00:19:37.430 --> 00:19:51.400
+Dario Rizzo: Luego están el área de los profesores. Y aparte de un dominio, encontramos 4 asuntos mismas de la empresa, como el de Ftp, el de webmail y el sistema central.
+
+34
+00:19:51.900 --> 00:20:06.169
+Dario Rizzo: Y, por último, para terminar, el reconocimiento pasivo, versiones de celulares que estaban desactualizados actualizado, como en el
+
+35
+00:20:06.340 --> 00:20:10.889
+Dario Rizzo: en el portal del Bene. También tenía una versión descentralizada.
+
+36
+00:20:11.260 --> 00:20:14.160
+Dario Rizzo: También encontramos un puerto de Tech
+
+37
+00:20:14.270 --> 00:20:20.419
+Dario Rizzo: Exhorto y una razón de este 9, Creo también como sirus de granudio.
+
+38
+00:20:20.990 --> 00:20:36.550
+Dario Rizzo: Luego pasamos el reconocimiento activo donde utilizamos los aránguitos después, y primero identificamos aquellos Coach que estuvieron activos. Nos encontramos
+
+39
+00:20:36.550 --> 00:20:47.960
+Dario Rizzo: correo un celular, Legacy sucursal.
+
+40
+00:20:48.020 --> 00:21:02.330
+Dario Rizzo: Y luego hicimos un análisis más profundo. También encontramos versiones de esos 2 que estaban. P. Y en segundo lugar.
+
+41
+00:21:02.740 --> 00:21:11.190
+Dario Rizzo: hoy lo que me llamó la atención en esta parte es que encontramos 2 puertos que estaban expuestos a Internet por una confrontación local.
+
+42
+00:21:11.390 --> 00:21:22.340
+Dario Rizzo: que era el cuarto cuarto, 4 de Windows, Y de repente.
+
+43
+00:21:22.500 --> 00:21:31.980
+Dario Rizzo: Y por último, en la segunda web. Analizamos el sistema, Identificó desactualizado sobre un Linux
+
+44
+00:21:32.040 --> 00:21:49.060
+Dario Rizzo: que, además de esto, la cabecera, digamos, exponía la versión exponiendo totalmente a la empresa. Cualquier atacante podría identificar esa versión del servidor y encontrar técnicas.
+
+45
+00:21:49.190 --> 00:21:52.740
+Dario Rizzo: así como era mi terias.
+
+46
+00:21:54.560 --> 00:21:59.160
+Dario Rizzo: Bueno, la siguiente fase en el nivel 3 enumeración
+
+47
+00:21:59.340 --> 00:22:08.850
+Dario Rizzo: la fase exterior. Si se respondía ¿qué hay en esta fase, podemos confirmar y tener como organizado el catálogo de lo que encontramos
+
+48
+00:22:09.010 --> 00:22:14.939
+Dario Rizzo: y poder identificar la versión y la vulnerabilidad asociada a cada servicio.
+
+49
+00:22:15.770 --> 00:22:21.079
+Dario Rizzo: En mi caso, encontramos 3 vulnerabilidades, 4 críticas 3 altas
+
+50
+00:22:21.460 --> 00:22:38.479
+Dario Rizzo: y utilizamos de acuerdo al tipo de seguridad. Las herramientas no se utilizan para cualquier servicio. Depende de cada 1. Elegimos la herramienta. En este caso, utilizamos Telemav para los servicios Windows
+
+51
+00:22:38.820 --> 00:22:46.860
+Dario Rizzo: Session, también en el caso de Mitos Dough, Scent y Javiera, también para
+
+52
+00:22:47.190 --> 00:22:52.150
+Dario Rizzo: servicios de Windows y mito para servidores web en general
+
+53
+00:22:52.420 --> 00:23:06.390
+Dario Rizzo: y una herramienta más cross que Google más. Esta nos sirve para confirmar los resultados. Y nos genera como el reporte final, aunque con las anteriores también pudimos probar esos pañales
+
+54
+00:23:06.970 --> 00:23:25.649
+Dario Rizzo: para el deporte consolidado. En este caso tenemos primero el servidor Legacy. Este tenía 2 vulnerabilidades: una asociada a el servermestre, explore como todo mapu en el servidor. Cuatro, 4, 5.
+
+55
+00:23:25.940 --> 00:23:32.199
+Dario Rizzo: Este servidor es vulnerable a tenerlo, que es un explore que
+
+56
+00:23:32.500 --> 00:23:45.360
+Dario Rizzo: lo creó. La crisis hubiera Estados Unidos en realidad, pero logró un equipo de hackers y se apropiaron de ese Floyd para hacer ilegales contra esta vulnerabilidad del S M. B.
+
+57
+00:23:45.480 --> 00:23:52.349
+Dario Rizzo: Puntualmente. Este Este M B tenía el error del vaho, pero
+
+58
+00:23:52.480 --> 00:24:00.229
+Dario Rizzo: que no. En realidad, el tamaño de la memoria que le comunicaba los paquetes.
+
+59
+00:24:00.410 --> 00:24:09.170
+Dario Rizzo: Y por esto el Internet aprovechaba de esa vulnerabilidad. Y lo que hacía era inyectar el código. Cuando se desbordaba la remolque.
+
+60
+00:24:10.300 --> 00:24:17.119
+Dario Rizzo: Otra de las vulnerabilidades que existe, el servidor Legacy es el de lalow session
+
+61
+00:24:17.650 --> 00:24:26.210
+Dario Rizzo: por tener habilitado el parámetro de restring Anonymous permitía conectarse de manera hasta luego.
+
+62
+00:24:26.680 --> 00:24:45.080
+Dario Rizzo: y esto lo hacía vulnerable para acceder al sistema y obtener información. En este caso, la naturaleza de las vulnerabilidades son 2. Una es ejecución de coin y la otra es obtención extraer información. El profe puso.
+
+63
+00:24:46.780 --> 00:24:52.989
+Dario Rizzo: Tenemos la de web del servidor web que es Bonapache. También es vulnerable.
+
+64
+00:24:53.210 --> 00:25:01.799
+Dario Rizzo: En este caso, el la vulnerabilidad en sí era que no estaba mirando
+
+65
+00:25:01.940 --> 00:25:15.139
+Dario Rizzo: la el V A. S. En las peticiones, y esto hacía que se pudiera explotar con el Bast, que era una herramienta para poder subir de nivel en el en el directorio.
+
+66
+00:25:15.190 --> 00:25:27.970
+Dario Rizzo: Esto se hace porque es el Itus, y en este caso se puede confirmar acceder a una dirección distinta. Y ya con eso, saber que se puede acceder a otras direcciones
+
+67
+00:25:28.060 --> 00:25:35.929
+Dario Rizzo: y posiblemente ejecutar algún archivo electrónico que en este caso sería el primer grupo de exclusivo.
+
+68
+00:25:36.680 --> 00:25:41.419
+Dario Rizzo: Y después también tenemos otro tipo de vulnerabilidad
+
+69
+00:25:41.850 --> 00:25:48.350
+Dario Rizzo: que en este caso, la naturaleza de la vulnerabilidad en sí es código que se inyectó en el programa.
+
+70
+00:25:48.650 --> 00:26:06.420
+Dario Rizzo: es decir, no estaba configurado, no tenía un error en desarrollo. Fue un error de de la cadena de suminister. Entonces vulneraron el sistema donde estaba el el software, y ahí lo inyectaron y lo descargaba. Ya tenía el olor en el sistema.
+
+71
+00:26:07.520 --> 00:26:19.940
+Dario Rizzo: En este caso, ese código era barcos que era poder habilitarlo en sexo de alguna manera. Y ellos habilitaron que se pudiera conectar con una carita feliz.
+
+72
+00:26:20.040 --> 00:26:28.120
+Dario Rizzo: Así que cualquier usuario que tuviera que ver esta película tenía un sistema y habría un puerto, Y por eso algunas
+
+73
+00:26:29.320 --> 00:26:34.909
+Dario Rizzo: después tenemos otras vulnerabilidades que no son de la misma naturaleza
+
+74
+00:26:35.100 --> 00:26:39.280
+Dario Rizzo: de band perversa el look in que es muy parecido al de Datland Book.
+
+75
+00:26:39.710 --> 00:26:47.010
+Dario Rizzo: Y estos 2, que son en sí también the Bast perversal y
+
+76
+00:26:47.720 --> 00:26:51.669
+Dario Rizzo: lo que permiten es obtener información de los chips.
+
+77
+00:26:52.000 --> 00:26:56.530
+Dario Rizzo: información de la credencial o de la configuración de la de Gustavo.
+
+78
+00:26:58.470 --> 00:27:05.090
+Dario Rizzo: Bueno, a continuación va a contar de las redes sociales.
+
+79
+00:27:06.400 --> 00:27:16.669
+Dario Rizzo: Bueno, después de lo que fueron las etapas de emulación y reconocimiento donde empezamos ir detectando lo que es hacer activos, servicios servidores que maneja la
+
+80
+00:27:16.670 --> 00:27:28.939
+Dario Rizzo: la empresa en su red. Vamos a pasar a lo que es la etapa de la galaxias o explotación. O sea, vamos a probar a ver si alguien de lo que fuimos encontrando recopilando de repente nos puede dar acceso al sistema.
+
+81
+00:27:29.410 --> 00:27:31.740
+Dario Rizzo: Seleccionamos 3 vulnerabilidades.
+
+82
+00:27:31.900 --> 00:27:40.129
+Dario Rizzo: La que dijo mi compañera recién enterrada, Blue, el banco de u T. S. P. D y el par transversal en
+
+83
+00:27:40.430 --> 00:27:47.409
+Dario Rizzo: lo que viene haciendo ser el sonido bueno de saqueo de los mismos. Voy a empezar a explicar más o menos como explotamos el Mediterráneo.
+
+84
+00:27:47.590 --> 00:27:51.740
+Dario Rizzo: Esta vulnerabilidad afecta más que nada a
+
+85
+00:27:53.470 --> 00:28:00.360
+Dario Rizzo: el servidor legacy perdón, el cual usa una versión de Windows que se lo pudo usar en el 2 008,
+
+86
+00:28:00.480 --> 00:28:22.260
+Dario Rizzo: que tenía esta vulnerabilidad conocida en el tercer blue. Y al estar desactualizado y no tener los parques de seguridad correspondientes o tenemos tanta actualización es vulnerable a la Internet, luz que afecta principalmente al servidor al servicio S M. B. De Windows que se encarga de lo que es la compartición de recursos y archivos dentro de una red.
+
+87
+00:28:22.260 --> 00:28:30.769
+Dario Rizzo: El problema, acá cuál era que tenía el puerto 4, 4, 5, que es el que utiliza este servicio: pago de mencionar, expuesto directamente a la red
+
+88
+00:28:31.170 --> 00:28:46.949
+Dario Rizzo: cuando lo tenía que tener protegido dentro de la red interna. Entonces, al tenerlo expuesto directamente a Internet, lo que se pudo hacer fue mediante Metafloid, que es una herramienta que nos permite tratar vulnerabilidades conocidas
+
+89
+00:28:46.950 --> 00:28:52.880
+Dario Rizzo: utilizando Meta Interpretter se pudo lograr la conexión
+
+90
+00:28:53.230 --> 00:28:59.790
+Dario Rizzo: sesión remota con privilegios Sistems, que es básicamente tener el control total del sistema operativo. No.
+
+91
+00:28:59.920 --> 00:29:06.959
+Dario Rizzo: Un detalle importante de esta vulnerabilidad que se descubrió fue que, al ganar el acceso
+
+92
+00:29:07.140 --> 00:29:26.599
+Dario Rizzo: sesión remota, vimos la posibilidad de poder hacer movimientos laterales, o sea, lo que quiere decir movernos a otros dispositivos dentro de la misma red donde se podría haber concedido acceso a otras zonas de la red. Obviamente, esto no lo hicimos. No se ejecutó ningún tipo de movimiento lateral porque no estaba especificado en el contrato, entonces no.
+
+93
+00:29:26.770 --> 00:29:30.179
+Dario Rizzo: no, no se aprovechó de esa vulnerabilidad y se explotó.
+
+94
+00:29:31.100 --> 00:29:46.469
+Dario Rizzo: Pasamos al servidor Fttp, el cual está alojado en la zona desmilitarizada, o sea, la zona donde se alojan los servicios que necesitan comunicarse con el Internet externo están recibiendo comunicación algún dato desde afuera
+
+95
+00:29:46.970 --> 00:29:58.280
+Dario Rizzo: y tenemos una vulnerabilidad relacionada a otra vez
+
+96
+00:29:59.760 --> 00:30:06.770
+Dario Rizzo: a un mayorista, el barco que sale de una versión de P. S. F, T. P. D,
+
+97
+00:30:06.820 --> 00:30:21.419
+Dario Rizzo: que tenía un valor conocido. En este caso puntual, lo que permitía hacer el Background era obtener una sesión root. Este sistema estaba muy top. ¿no? Entonces Ruth sería como el administrador
+
+98
+00:30:21.540 --> 00:30:28.919
+Dario Rizzo: y nos permitía tener una una consola de Root sin ningún tipo de credencial.
+
+99
+00:30:29.110 --> 00:30:40.090
+Dario Rizzo: mi usuario válium. O sea, nos estamos saltando el sistema de autenticación. Estamos consiguiendo tener privilegios de administrador sin verificar nuestra identidad en el sistema.
+
+100
+00:30:40.370 --> 00:30:43.279
+Dario Rizzo: Y como dije, esto estaba en el servidor F, T, P.
+
+101
+00:30:43.580 --> 00:30:56.060
+Dario Rizzo: El que normalmente es utilizado para que la empresa pueda compartir recursos, archivos de información con socios logísticos, como pueden ser proveedores, clientes grandes o importantes
+
+102
+00:30:56.170 --> 00:31:14.679
+Dario Rizzo: y demás. Entonces, ¿qué quiere decir que nosotros tengamos forma de acceder sin credenciales a esta zona de la red que podemos mandarle archivos a socio logísticos a proveedores, o también podemos esparcir el ataque para la red interna de quien sea que comparta
+
+103
+00:31:14.730 --> 00:31:16.509
+Dario Rizzo: en el servidor F T. P:
+
+104
+00:31:17.470 --> 00:31:25.070
+Dario Rizzo: Por último, voy a explicar la vulnerabilidad que afecta a la página web, al sever del hackeo de envíos
+
+105
+00:31:25.540 --> 00:31:34.599
+Dario Rizzo: que particularmente esta está relacionada con un servidor Apache. Si no me equivoco, era 2, 4, 49, sí,
+
+106
+00:31:34.800 --> 00:31:45.269
+Dario Rizzo: el cual tenía una vulnerabilidad conocida como pa transversal que para aplicarla Así, rápidamente. Normalmente un servidor web funciona
+
+107
+00:31:45.270 --> 00:31:59.740
+Dario Rizzo: permitiéndote acceder a ciertos archivos que están dentro de directorios autorizados previamente autorizados, donde está la información que se muestra en la web. Lo que hace llamar transversal es permitir modificar la
+
+108
+00:31:59.740 --> 00:32:17.130
+Dario Rizzo: la dirección a la cual 1 apunta y posiblemente accederá a archivos que no están autorizados a ser leídos o accedido por gente que accede a la web, o sea, posibles clientes. No saben quién es.
+
+109
+00:32:17.820 --> 00:32:35.020
+Dario Rizzo: Entonces, mediante una prueba. Con el comando Culp, Esta prueba fue manual. No se utilizó ninguna herramienta, pudimos acceder a un archivo que es barra, etc. Wd, que es un archivo de Linux que por lo general contiene información de usuarios y credenciales.
+
+110
+00:32:35.220 --> 00:32:41.990
+Dario Rizzo: y luego un hallazgo bastante importante también fue que se pudo ejecutar comando de manera remota.
+
+111
+00:32:42.430 --> 00:32:55.870
+Dario Rizzo: Entonces, Desde el servidor web estábamos pudiendo acceder a credenciales internas del servidor y también estábamos pudiendo ejecutar comandos sin ningún tipo de permiso o autorización.
+
+112
+00:32:56.060 --> 00:33:12.410
+Dario Rizzo: Bueno, luego explicar cómo fueron los tratando las vulnerabilidades como cerrada la etapa de diclotación. Más o menos así fue como nos fuimos manejando para ganar el acceso al servidor y pasamos a la etapa de mantener el acceso
+
+113
+00:33:13.600 --> 00:33:26.900
+Dario Rizzo: buenas. Yo le voy a explicar la fase de invento de acceso, que consiste básicamente en mantener una forma de ingresar al sistema víctima
+
+114
+00:33:26.900 --> 00:33:35.509
+Dario Rizzo: sin la necesidad de tener que repetir los pasos previos de muchos compañeros. Así. Obviamente, levantar las menores sospechas posibles
+
+115
+00:33:35.740 --> 00:33:45.579
+Dario Rizzo: y bueno, no causaron. Nosotros, lo que llevamos a cabo en 2 de los 3 servidores que dispone
+
+116
+00:33:45.980 --> 00:34:04.189
+Dario Rizzo: la empresa. Primero que nada en el servidor Leacy, en donde podemos ver que empleamos nercar, que para aquel que no la conozca es considerada Suiza en un T, C, P: Porque nos permite leer y escribir datos
+
+117
+00:34:04.280 --> 00:34:09.750
+Dario Rizzo: mediante conexiones, te. T, S, P. O V, P: Y
+
+118
+00:34:09.949 --> 00:34:16.650
+Dario Rizzo: bueno, lo que hicimos básicamente fue subir un archivo, un ejecutable de malicioso
+
+119
+00:34:16.800 --> 00:34:24.219
+Dario Rizzo: al servidor, y disfrazamos un puerto en escucha
+
+120
+00:34:24.480 --> 00:34:42.860
+Dario Rizzo: haciéndose pasar por un un registro de Windows y así poder conectarnos con el momento en el momento que queramos, que es también lo que conocemos como una winesel en donde el sistema victima nos ofrece a nosotros una consola interactiva
+
+121
+00:34:42.949 --> 00:34:54.499
+Dario Rizzo: y, bueno, haciendo así más fácil de tener el trabajo. Y luego empleamos también otra herramienta llamada Powersar Empire.
+
+122
+00:34:54.739 --> 00:35:05.700
+Dario Rizzo: que se destaca más que nada justamente en el sistema operativo, en la versión a la cual comprometimos que es el Windows 2 008,
+
+123
+00:35:05.970 --> 00:35:09.000
+Dario Rizzo: o sea, que
+
+124
+00:35:09.100 --> 00:35:27.649
+Dario Rizzo: justamente se aprovecha más que nada de la vulnerabilidad de tenerlo y se caracteriza porque emplea una técnica llamada failes que se destaca porque no deja archivos en el disco, haciéndola así más difícil aún de detectar.
+
+125
+00:35:28.410 --> 00:35:32.590
+Dario Rizzo: Y lo que hicimos fue armar un Liffer
+
+126
+00:35:32.730 --> 00:35:41.100
+Dario Rizzo: que es básicamente dejar un puerto en escucha. Nosotros elegimos el puerto 80 80 y
+
+127
+00:35:41.360 --> 00:35:55.330
+Dario Rizzo: en donde así poder subir un stater que Unger es básicamente una porción pequeña de código, la cual va a disparar justamente a una acción más grande que en este caso sería
+
+128
+00:35:55.330 --> 00:36:01.920
+Dario Rizzo: poder entablarnos una conexión mediante una intelectiva a nosotros.
+
+129
+00:36:02.270 --> 00:36:07.550
+Dario Rizzo: Y Y bueno, una vez una vez el
+
+130
+00:36:07.730 --> 00:36:22.670
+Dario Rizzo: una vez dentro dentro del sistema. Lo que lo que hicimos fue emplear Mimicats, que es otro software de post explotación. Ambos son robos de postre y pose explotación.
+
+131
+00:36:22.880 --> 00:36:24.180
+Dario Rizzo: en
+
+132
+00:36:24.290 --> 00:36:38.199
+Dario Rizzo: la cual nos permitió extraer credenciales y analizar toda toda la red interna del del sistema sin la necesidad de realizar un movimiento lateral.
+
+133
+00:36:38.870 --> 00:36:50.629
+Dario Rizzo: Y por otro lado, nos encontramos con el servidor St. P el cual, como mencionó Juan Álvar. Y eso también es Linux.
+
+134
+00:36:50.780 --> 00:37:07.030
+Dario Rizzo: Y acá el enfoque fue un poco distinto, ya que ganamos acceso mediante la vulnerabilidad que contó Isa y bueno y Juani, a la cual se caracteriza por
+
+135
+00:37:07.450 --> 00:37:15.669
+Dario Rizzo: por ingresar 2 puntos y y un paréntesis simulando una una carita feliz.
+
+136
+00:37:15.970 --> 00:37:20.240
+Dario Rizzo: Y esto lo que hace es activar un valor
+
+137
+00:37:20.400 --> 00:37:26.010
+Dario Rizzo: instantáneamente con lo con los máximos, los privilegios.
+
+138
+00:37:26.140 --> 00:37:31.180
+Dario Rizzo: Y lo que hicimos fue generar un pelo con Ms febeno.
+
+139
+00:37:31.680 --> 00:37:50.849
+Dario Rizzo: en el cual lo subimos justamente al servidor F, T, T, P, Y así voy a disfrazarlo nuevamente mediante una crond para que se ejecute constantemente y por más de que se reinicie el sistema operativo, nosotros seguimos manteniendo el acceso.
+
+140
+00:37:51.070 --> 00:38:00.500
+Dario Rizzo: Así que una vez terminado de explicar esto, que voy a pasar con mi compañero para que les explique la siguiente fase.
+
+141
+00:38:02.330 --> 00:38:17.779
+Dario Rizzo: Bueno, yo soy el liCEO de hablar de la quinta fase, que sería borrado de rastros. En esta etapa, lo que buscamos es eliminar todos los elementos que introdujimos y demostrar cómo un atacante podría ocultar su presencia en los servidores.
+
+142
+00:38:18.460 --> 00:38:29.700
+Dario Rizzo: Primero, lo que hicimos fue borrar rastros en el servidor Legacy que a este habíamos ganado acceso a través de Eternal Blue y mantuvimos el acceso a través de Net Cat y Powers, el Empire
+
+143
+00:38:29.980 --> 00:38:40.309
+Dario Rizzo: primero con Netcat. Lo que hicimos fue eliminar el ejecutable. Finalizamos todos los procesos. Y, por último, borramos la entrada de registros de Windows.
+
+144
+00:38:40.830 --> 00:38:53.669
+Dario Rizzo: Luego, con Power, el Empire, hicimos lo mismo de borrar las entradas de de los de los mecanismos de Windows y finalizamos las tareas programadas que habíamos dejado
+
+145
+00:38:54.330 --> 00:39:05.839
+Dario Rizzo: y, por último, con el agente no interpreter para que no quedara finalizamos todos los procesos y para que no quedara registro de la conexión.
+
+146
+00:39:06.380 --> 00:39:16.759
+Dario Rizzo: Luego limpiamos los eventos de Windows Security System y application que para esto utilizamos meter Preter y comandos de Windows A
+
+147
+00:39:17.310 --> 00:39:22.350
+Dario Rizzo: y luego para el servidor F, T. P. Que para este ganamos acceso a través del Taylord
+
+148
+00:39:22.860 --> 00:39:32.360
+Dario Rizzo: Primero, lo que hicimos fue eliminar todas las tareas programadas que dejamos y el archivo del Paylord, eliminamos todos los logs de Barlow
+
+149
+00:39:32.390 --> 00:39:45.309
+Dario Rizzo: limpiamos el historial de comandos de Bash y modificaciones de los Tenstat y chequeamos, que no quedaron mecanismos de persistencia en ninguno de los 2 sistemas.
+
+150
+00:39:45.930 --> 00:39:56.000
+Dario Rizzo: Lo importante de esta etapa es demostrar que es un atacante. Podría entrar al sistema y no dejar ningún rastro para luego investigar el el acceso.
+
+151
+00:39:56.930 --> 00:40:01.339
+Dario Rizzo: Y bueno, Con esto finalizamos las 5 etapas de nuestro ataque
+
+152
+00:40:02.000 --> 00:40:10.190
+Dario Rizzo: y a través de esto generamos una serie de recomendaciones que sería actualizar los servidores tanto Legacy como Apachem.
+
+153
+00:40:10.390 --> 00:40:19.210
+Dario Rizzo: corregir las configuraciones de firmware, monitorear los sistemas y reforzar las credenciales.
+
+154
+00:40:20.150 --> 00:40:31.129
+Dario Rizzo: Y como conclusión, tenemos que un atacante a través de herramientas gratuitas y libres podría entrar a cualquier sistema y sin ser detectado.
+
+155
+00:40:31.460 --> 00:40:42.570
+Dario Rizzo: y que la empresa podría resolver estos inconvenientes que, sin necesidad de invertir mucho dinero solamente actualizando sistemas y mejorando los controles de Firware
+
+156
+00:40:44.450 --> 00:41:02.119
+Dario Rizzo: Ohh, Gracias y alguna pregunta, 2 008. Antes de eso o a hotel, porque todo el día especializado.
+
+157
+00:41:05.440 --> 00:41:09.820
+Dario Rizzo: pequeña curación mediante Sport
+
+158
+00:41:10.140 --> 00:41:23.270
+Dario Rizzo: No sé si se escucha ahora nuestra seguridad social
+
+159
+00:41:23.320 --> 00:41:34.360
+Dario Rizzo: y feroz que son de vida.
+
+160
+00:41:35.150 --> 00:41:51.270
+Dario Rizzo: Dos 1 008 por tema de todo bien implementado. La producción sí,
+
+161
+00:41:51.430 --> 00:41:58.729
+Dario Rizzo: sí, porque eran como sesos de empleados.
+
+162
+00:41:59.650 --> 00:42:09.409
+Dario Rizzo: El plazo afirmado serían para remediar todo el sí
+
+163
+00:42:10.570 --> 00:42:24.190
+Dario Rizzo: y no lo lo más rápido posible, porque no sería un retiro de gente que pone todas las herramientas que
+
+164
+00:42:24.460 --> 00:42:43.510
+Dario Rizzo: que dependen de eso, pero de inmediato y cerrar puertos de pepe.
+
+165
+00:42:45.260 --> 00:42:52.499
+Dario Rizzo: Esa versión justamente no cumplió con el informe.
+
+166
+00:42:52.730 --> 00:42:57.340
+Dario Rizzo: Bueno, muchas gracias.
+
+167
+00:43:02.750 --> 00:43:07.180
+Dario Rizzo: Muy, muy gracias.
+
+168
+00:43:11.240 --> 00:43:20.300
+Dario Rizzo: No gracias.
+
+169
+00:43:21.030 --> 00:43:25.279
+Dario Rizzo: Buenas está el próximo grupo ahí virtual.
+
+170
+00:43:26.490 --> 00:43:33.860
+JUAN SANABRIA: Si creo que éramos nosotros más, veníamos después de 2 presenciar. Por eso.
+
+171
+00:43:34.410 --> 00:43:37.350
+Dario Rizzo: ¿qué pasa para otro día.
+
+172
+00:43:38.020 --> 00:43:39.210
+JUAN SANABRIA: Bien. Bien.
+
+173
+00:43:39.370 --> 00:43:40.470
+JUAN SANABRIA: Hay muestro.
+
+174
+00:43:41.100 --> 00:43:52.029
+Dario Rizzo: El pedido por mail del certificado. Si lo reenvío a la gente de alumnos, chao hasta luego.
+
+175
+00:43:53.140 --> 00:43:55.240
+JUAN SANABRIA: Necesito que me habilite profe.
+
+176
+00:43:55.500 --> 00:43:58.239
+Dario Rizzo: Aquí le comparto el Departamento.
+
+177
+00:44:00.110 --> 00:44:01.699
+JUAN SANABRIA: Y a mí. Juan Pablo Sanabria.
+
+178
+00:44:01.700 --> 00:44:02.310
+MATEO POGGIO CATALANO: Con no.
+
+179
+00:44:06.910 --> 00:44:09.609
+JUAN SANABRIA: Chico avísame para pasar la diapositiva. Sí.
+
+180
+00:44:09.950 --> 00:44:10.530
+SANTIAGO MARTÍN PEREYRA: Dale.
+
+181
+00:44:17.160 --> 00:44:17.990
+JUAN SANABRIA: Esta. Gracias.
+
+182
+00:44:20.170 --> 00:44:21.300
+MATEO POGGIO CATALANO: Y.
+
+183
+00:44:21.740 --> 00:44:23.109
+SANTIAGO MARTÍN PEREYRA: Me escucha bien. No profe.
+
+184
+00:44:23.370 --> 00:44:24.390
+Dario Rizzo: Sí. Perfecto.
+
+185
+00:44:25.190 --> 00:44:25.840
+MATEO POGGIO CATALANO: Mhm.
+
+186
+00:44:26.370 --> 00:44:32.470
+JUAN SANABRIA: Bien, No, no, no vendo mi la barra del suelo. Ahí está.
+
+187
+00:44:34.080 --> 00:44:43.260
+JUAN SANABRIA: Bueno, empezamos el la en nuestro caso es básicamente
+
+188
+00:44:43.690 --> 00:44:46.970
+JUAN SANABRIA: una empresa que es española, pero
+
+189
+00:44:47.110 --> 00:44:49.040
+JUAN SANABRIA: tiene una sucursal en Buenos Aires.
+
+190
+00:44:49.500 --> 00:44:57.409
+JUAN SANABRIA: Esta sucursal tiene 2 empleados, 12 empleados, y entre ellos, bueno, hay un Dba, un D Admin
+
+191
+00:44:58.300 --> 00:45:08.639
+JUAN SANABRIA: que básicamente la empresa se encarga más que nada de lo que es paleontología, arqueología, no investigación del patrimonio histórico
+
+192
+00:45:09.530 --> 00:45:16.850
+JUAN SANABRIA: y una Acá una en esto es una red.
+
+193
+00:45:17.030 --> 00:45:20.960
+JUAN SANABRIA: No se un repaso en la red de la empresa.
+
+194
+00:45:21.550 --> 00:45:32.360
+JUAN SANABRIA: Tiene su su Firewall, su respectiva base de datos no, y también tiene como medida de seguridad, pues lo que puede ser un un u P. S o un Nas.
+
+195
+00:45:34.660 --> 00:45:39.339
+JUAN SANABRIA: En cuanto a lo que es el objetivo de Petest.
+
+196
+00:45:39.510 --> 00:45:44.979
+JUAN SANABRIA: principalmente es lo que es evaluar el nivel de seguridad de la empresa
+
+197
+00:45:45.290 --> 00:45:49.550
+JUAN SANABRIA: y detectar vulnerabilidades que no puedan ser explotadas por terceros, no.
+
+198
+00:45:50.830 --> 00:45:53.550
+JUAN SANABRIA: Y dentro de lo que es el alcance.
+
+199
+00:45:54.230 --> 00:45:58.779
+JUAN SANABRIA: por un lado, esta lo permitido que son poder interactuar con los servidores
+
+200
+00:45:59.110 --> 00:46:02.220
+JUAN SANABRIA: con los servicios de expuestos en la red.
+
+201
+00:46:02.530 --> 00:46:08.339
+JUAN SANABRIA: Lo que no está permitido está fuera del alcance es básicamente de efectuar ataques de ingeniería social
+
+202
+00:46:08.980 --> 00:46:16.520
+JUAN SANABRIA: o ataques de acción de servicio y, además, también tener acceso físico a los servidores de la empresa.
+
+203
+00:46:18.310 --> 00:46:26.250
+JUAN SANABRIA: Por otro lado, el pente se hace bajo la modalidad de brack box, que quiere decir que
+
+204
+00:46:26.520 --> 00:46:32.029
+JUAN SANABRIA: representa un atacante que no tiene conocimiento previo de la infraestructura de la empresa.
+
+205
+00:46:34.250 --> 00:46:41.630
+JUAN SANABRIA: Bueno, un resumen de lo que es, los 5 pasos de un pen test que se van a realizar a continuación.
+
+206
+00:46:42.260 --> 00:46:52.800
+JUAN SANABRIA: Bueno, en la primera etapa, que es reconocimiento, se utilizó la herramienta Nemap, y además
+
+207
+00:46:52.920 --> 00:47:01.020
+JUAN SANABRIA: con el parámetro menos a lo que hace básicamente una aglomeración de los principales comandos
+
+208
+00:47:01.440 --> 00:47:11.699
+JUAN SANABRIA: que, por ejemplo, puede ser S, C, B, o S C es para para utilizar scripts, no
+
+209
+00:47:12.090 --> 00:47:23.570
+JUAN SANABRIA: para poder mapear mejor los servicios o menos o para poder identificar el sistema operativo o en el comando menos a engloba todo eso. Y en una sola salida, te te dice todo
+
+210
+00:47:24.570 --> 00:47:32.769
+JUAN SANABRIA: dentro de lo que se identificó, se identificó 23 puertos abiertos de los 1 000 escaneados.
+
+211
+00:47:33.140 --> 00:47:39.740
+JUAN SANABRIA: En cuanto al sistema operativo, se sabe que es un carnet de Linux de la versión 2, 6
+
+212
+00:47:39.940 --> 00:47:50.010
+JUAN SANABRIA: y más específicamente, un sistema operativo ubuntu, de versión 8 0, 4 que resalta no que está
+
+213
+00:47:50.210 --> 00:48:02.290
+JUAN SANABRIA: completamente desactualizado el sistema operativo bueno entre los principales servicios, lo que es control remoto, aeropuerto, 22 Tenemos Ssh.
+
+214
+00:48:02.950 --> 00:48:09.800
+JUAN SANABRIA: Lo que es servicios web por el puerto 80 está apache y por 445 está Zamba
+
+215
+00:48:10.020 --> 00:48:15.220
+JUAN SANABRIA: Tomcav. También es bastante bastante importante, bastante utilizado el servicio
+
+216
+00:48:15.840 --> 00:48:23.690
+JUAN SANABRIA: y lo que es datos y control ¿Deben los lenguajes de administración base datos como pueden ser May Sql o postre.
+
+217
+00:48:26.060 --> 00:48:32.669
+JUAN SANABRIA: y ahora pasamos con el compañero que va a resumir lo que es etapa de numeración.
+
+218
+00:48:33.560 --> 00:48:44.049
+SANTIAGO MARTÍN PEREYRA: Sí. Después del reconocimiento pasamos a la etapa de numeración. Bueno, en este caso queríamos simular un un entorno, un que tenga un sistema desangrizado que sea una empresa chiquita
+
+219
+00:48:44.210 --> 00:48:50.370
+SANTIAGO MARTÍN PEREYRA: que reflejen el por qué tendrían tantas vulnerabilidades. En este caso, la numeración
+
+220
+00:48:50.480 --> 00:49:03.790
+SANTIAGO MARTÍN PEREYRA: la hacemos a través de Nesus, el N, el N Map. Solo te lista los puertos, los servicios que están abiertos en esos se fijan estos servicios y
+
+221
+00:49:03.980 --> 00:49:11.540
+SANTIAGO MARTÍN PEREYRA: busca diferentes vulnerabilidades asociadas conocidas y a ver si detecta en este caso en nuestro análisis Detek, 72
+
+222
+00:49:11.960 --> 00:49:18.760
+SANTIAGO MARTÍN PEREYRA: de las cuales, bueno, ahí dice: 10 críticas, 7 altas, 25 medias y 9 bajas
+
+223
+00:49:19.190 --> 00:49:28.650
+SANTIAGO MARTÍN PEREYRA: de esas vulnerabilidades. Nosotros vamos a a enfocarnos en 4. Primeramente gracias a la siguiente.
+
+224
+00:49:32.560 --> 00:49:41.740
+SANTIAGO MARTÍN PEREYRA: la siguiente acción de bueno de esas de esos hallazgos, Bueno, también importante. Obviamente, la categorización
+
+225
+00:49:42.010 --> 00:49:52.189
+SANTIAGO MARTÍN PEREYRA: indica cuál es la cripticidad indica a cuáles tendrías que atacar primeramente principalmente a resolver en orden de sacristicidad.
+
+226
+00:49:52.470 --> 00:50:01.999
+SANTIAGO MARTÍN PEREYRA: De Bueno, de esas de decidimos investigar la sociedad Samba, que es la C. V: 2 007, 2, 4, 7,
+
+227
+00:50:02.600 --> 00:50:15.709
+SANTIAGO MARTÍN PEREYRA: que permite o permitiría ejecución remota sin comandos de autenticación, no tener esa autenticación y te permite ejecutar directamente en el en la víctima.
+
+228
+00:50:15.880 --> 00:50:16.790
+SANTIAGO MARTÍN PEREYRA: el doncat.
+
+229
+00:50:16.790 --> 00:50:17.660
+MATEO POGGIO CATALANO: Manera, Root.
+
+230
+00:50:18.500 --> 00:50:27.440
+SANTIAGO MARTÍN PEREYRA: Sí. En este caso, como usuario Ruth el Tomcut tenía detectado ponerle sus credenciales conocidas.
+
+231
+00:50:27.770 --> 00:50:37.340
+SANTIAGO MARTÍN PEREYRA: Así que eso es un error de configuración las versiones fuera de soporte. Cuanto dijo Juan sin soporte desacturizadas
+
+232
+00:50:37.460 --> 00:50:44.709
+SANTIAGO MARTÍN PEREYRA: y en el B N C en una identificación de una contraseña débil en este caso Password.
+
+233
+00:50:45.170 --> 00:50:48.019
+SANTIAGO MARTÍN PEREYRA: también así conocida como similar al de tomgat.
+
+234
+00:50:48.870 --> 00:50:51.399
+SANTIAGO MARTÍN PEREYRA: Después, pasando ya directamente con zamba.
+
+235
+00:50:52.460 --> 00:51:00.239
+SANTIAGO MARTÍN PEREYRA: hicimos el el la simulación bajo el ataque del a la víctima.
+
+236
+00:51:01.070 --> 00:51:07.500
+SANTIAGO MARTÍN PEREYRA: En el caso de Samba, el bueno, el de la
+
+237
+00:51:08.510 --> 00:51:13.200
+SANTIAGO MARTÍN PEREYRA: el C. B. Ese es el indicado, el 2 007, 200, 47.
+
+238
+00:51:13.370 --> 00:51:18.619
+SANTIAGO MARTÍN PEREYRA: Bueno, se a se ataca con el
+
+239
+00:51:19.190 --> 00:51:28.069
+SANTIAGO MARTÍN PEREYRA: seleccionamos el el uservascript, seleccionamos, Esto es importante también como el L Host.
+
+240
+00:51:28.340 --> 00:51:37.159
+SANTIAGO MARTÍN PEREYRA: Nuestro sistema, porque va a ser a través de un Revergel, entonces atacado. Estamos usando Metafloid.
+
+241
+00:51:37.290 --> 00:51:46.929
+SANTIAGO MARTÍN PEREYRA: Ejecutamos los comandos. Eso abre la conexión desde la víctima hacia nosotros, y eso ya permite la ejecución remota de
+
+242
+00:51:47.030 --> 00:51:53.420
+SANTIAGO MARTÍN PEREYRA: una serie de comandos. En este caso, hicimos el juego maíz Who Yang y
+
+243
+00:51:53.710 --> 00:51:58.640
+SANTIAGO MARTÍN PEREYRA: es el permiso de Root. Así que sería un
+
+244
+00:51:59.360 --> 00:52:10.309
+SANTIAGO MARTÍN PEREYRA: una vulnerabilidad muy crítica a resolver cerrando actualizando. En realidad, la versión de Zamba por el lado de Tomcat no es una vulnerabilidad como tal. Es.
+
+245
+00:52:11.040 --> 00:52:13.849
+SANTIAGO MARTÍN PEREYRA: Tiene el error de una mala configuración.
+
+246
+00:52:13.970 --> 00:52:26.369
+SANTIAGO MARTÍN PEREYRA: Primero, en este caso son 2 Floyd que tenemos que ejecutar primero la búsqueda de credenciales. A ver si alguna conocida detectada que es el el tokend login.
+
+247
+00:52:26.780 --> 00:52:34.179
+SANTIAGO MARTÍN PEREYRA: Y como muestra la captura, muestra que la las credenciales son Toncap, Toncap, medio predeterminadas.
+
+248
+00:52:34.330 --> 00:52:39.800
+SANTIAGO MARTÍN PEREYRA: Y después ya así. El segundo Sployd que ejecutamos es la
+
+249
+00:52:40.030 --> 00:52:43.119
+SANTIAGO MARTÍN PEREYRA: la conexión también remota por meter preterr
+
+250
+00:52:45.410 --> 00:52:56.350
+SANTIAGO MARTÍN PEREYRA: lo importante. También es eso es comparar que, si bien son 2 vulnerabilidades diferentes. Ambas con conexión remota discusión
+
+251
+00:52:57.040 --> 00:53:07.070
+SANTIAGO MARTÍN PEREYRA: En el caso de Samba. En esta versión de Samba, con ese esa vulnerabilidad asociada nos permite el todo el permiso de super usuario de todos los privilegios.
+
+252
+00:53:07.180 --> 00:53:13.450
+SANTIAGO MARTÍN PEREYRA: así que podrías escalar, hacer cualquier cosa. En el caso de Tomcat te da el loser ese tomcat, 55.
+
+253
+00:53:13.700 --> 00:53:26.559
+SANTIAGO MARTÍN PEREYRA: Habría que después hacer otro otro protocolo para seguir escalando permisos, pero no deja de ser igualmente grave para el caso de Tomcat. Esta vulnerabilidad está asociada al
+
+254
+00:53:27.000 --> 00:53:36.150
+SANTIAGO MARTÍN PEREYRA: a la Tonkat. Ahí no me acuerdo el nombre, pero es que es donde te permiten exployar, subir todos los sistemas. El manager, el manager de Toncad.
+
+255
+00:53:36.150 --> 00:53:49.590
+SANTIAGO MARTÍN PEREYRA: y ahí es donde está esta vulnerabilidad. Entonces, a través de ahí puedes ingresar con este usuario con esta con este nivel de privilegio. Pero bueno, eso sigue siendo una vulnerabilidad y
+
+256
+00:53:49.720 --> 00:53:52.500
+SANTIAGO MARTÍN PEREYRA: no bastaría con solucionar una u otra.
+
+257
+00:53:52.840 --> 00:53:56.479
+SANTIAGO MARTÍN PEREYRA: porque tendrías que hacerte cargo de todas, porque son igual de críticas
+
+258
+00:53:56.650 --> 00:54:00.030
+SANTIAGO MARTÍN PEREYRA: sin importar tanto. Obviamente, el Rot es más importante, pero
+
+259
+00:54:00.290 --> 00:54:02.309
+SANTIAGO MARTÍN PEREYRA: no deja de ser un una entrada.
+
+260
+00:54:05.990 --> 00:54:07.600
+MATEO POGGIO CATALANO: Hay que disculpar
+
+261
+00:54:08.150 --> 00:54:20.659
+MATEO POGGIO CATALANO: ya. Hola ya, sabiendo que si ya tenemos el samba para como como Root, no tenemos que en realidad hicimos. Hicimos esto porque ya tenemos el Root de Samba.
+
+262
+00:54:20.850 --> 00:54:29.930
+MATEO POGGIO CATALANO: Copiamos La hicimos la la aquí en el propio Cali en sí mismo, porque ya, ya, al tener el propio acceso root, ¿Vos ¿puedes directamente copiarla aquí y meterla aquí en el
+
+263
+00:54:30.060 --> 00:54:38.949
+MATEO POGGIO CATALANO: en el S H barra punto y acceso, porque vamos a identification. Crees
+
+264
+00:54:39.270 --> 00:54:47.460
+MATEO POGGIO CATALANO: instalarla y poner la conexión en sí como Root de Ch: Porque como ya lo tienes en los poros abiertos y vos y y aparece la
+
+265
+00:54:47.850 --> 00:55:05.960
+MATEO POGGIO CATALANO: como sería tu conexión, como como alguien que que entra normalmente, sí estaría bueno, pero lo digo como, guau, configurar para hacer. No sé una Prousthan y tener como 3, 3, 7 diferentes, pero eso ya de de de de de de placer y puro, puro y duro.
+
+266
+00:55:06.270 --> 00:55:17.200
+MATEO POGGIO CATALANO: Ojalá puedes y verificamos, obviamente, que el zamba, ya cuando detengamos el samba con los pasos previos hechos
+
+267
+00:55:17.300 --> 00:55:26.679
+MATEO POGGIO CATALANO: tenés, hecha la sesión y vos solamente conectó el propio society. Y se puede ver que en la foto también. S. Que entramos.
+
+268
+00:55:27.020 --> 00:55:32.260
+MATEO POGGIO CATALANO: Sí, bueno, podés. Gracias.
+
+269
+00:55:33.650 --> 00:55:46.480
+MATEO POGGIO CATALANO: Lo que hicimos fue hacer, Me Me pasó que cuando estaba haciendo la el en el avión de registro nos estaba haciendo 1 1, y me estaba dando cuenta que me tardaba mucho tiempo y no y no tenés.
+
+270
+00:55:46.590 --> 00:56:01.159
+MATEO POGGIO CATALANO: y en en un caso real, no podrías tener de no sé, una hora para para cada registro cada 1. Por eso decidí hacer un pequeño ash primitivo en el sentido que tenga todos los comandos hechos y vas a hacer el shooters rápido, y no tienes que estar escribiendo cada 1.
+
+271
+00:56:01.440 --> 00:56:03.969
+MATEO POGGIO CATALANO: Y se puede ver que si borré los
+
+272
+00:56:04.250 --> 00:56:18.139
+MATEO POGGIO CATALANO: los de autenticación, los del chrome y también los del mail, también, porque me pareció siempre que tenía un mail nuevo. Así que dije, bueno, cualquier cosa. Si si aparezco en el mail, lo borro también.
+
+273
+00:56:18.600 --> 00:56:23.979
+MATEO POGGIO CATALANO: Eso eso está? Bueno, se me viene, usé el S. S. P. Porque me pareció más cómodo en sí
+
+274
+00:56:24.150 --> 00:56:25.460
+MATEO POGGIO CATALANO: superfums.
+
+275
+00:56:29.280 --> 00:56:45.679
+MATEO POGGIO CATALANO: Lo que se recomienda mayoritariamente es que se actualice la el untu que se elimine los servicios, los seres innecesarios, como en en vez de tener el postgre y el maxi Uql: Solamente tener, no sé el maíz Square o el postgress, cerrar
+
+276
+00:56:45.780 --> 00:56:56.929
+MATEO POGGIO CATALANO: cambiar completamente las credenciales también, pero te primetizar el en el sentido de
+
+277
+00:56:57.980 --> 00:57:07.370
+MATEO POGGIO CATALANO: reforzar, mejor dicho, lo que sería lo lo los remotos también, que no sea tan fácil poder borrar y
+
+278
+00:57:07.610 --> 00:57:24.999
+MATEO POGGIO CATALANO: y minimizar tu huella en la propia máquina. También. Algunos de esos por la mayor mayoría de los puertos que están abiertos, restringidos a que sí, o sí, tengan credenciales cada 1 y vos tener que hacer un un hand cheque, cada 1 decir, bueno, soy yo la persona, y así
+
+279
+00:57:25.270 --> 00:57:33.889
+MATEO POGGIO CATALANO: ha sido así y también, obviamente, sin sin sin contar que hagan pestes pe periódicos y no, y que no, y que cualquier
+
+280
+00:57:34.050 --> 00:57:39.240
+MATEO POGGIO CATALANO: vulnerabilidad nueva sea previamente o posteriormente parchada.
+
+281
+00:57:40.190 --> 00:57:41.110
+MATEO POGGIO CATALANO: Lo hizo.
+
+282
+00:57:42.120 --> 00:57:42.880
+MATEO POGGIO CATALANO: Sí,
+
+283
+00:57:44.380 --> 00:57:58.529
+MATEO POGGIO CATALANO: bueno, ya hice la conclusión en sí, pero bueno, sí también es que no que se cierre el que se cambie el samba, tener otro objetivo que no sea el tomcat. Y
+
+284
+00:57:59.860 --> 00:58:03.460
+MATEO POGGIO CATALANO: por qué Bueno, puedes pasarle culpa. Me estoy siendo malísimo en esto.
+
+285
+00:58:05.110 --> 00:58:09.359
+MATEO POGGIO CATALANO: Gracias. Lo siento triste. Es un desastre.
+
+286
+00:58:11.000 --> 00:58:11.819
+JUAN SANABRIA: Muchas gracias.
+
+287
+00:58:11.820 --> 00:58:22.470
+Dario Rizzo: Mhm: Ya hola. Bien, ahí ustedes encontraron supuestamente 10 Quintas.
+
+288
+00:58:22.470 --> 00:58:24.900
+JUAN SANABRIA: Pero profe, Te puedes acercar un poco con.
+
+289
+00:58:24.900 --> 00:58:27.280
+MATEO POGGIO CATALANO: No se escucha también.
+
+290
+00:58:27.280 --> 00:58:27.870
+Dario Rizzo: Mhm.
+
+291
+00:58:29.690 --> 00:58:34.069
+SANTIAGO MARTÍN PEREYRA: No se escucha lejos. Puede ser que se esté tomando de la compu capaz.
+
+292
+00:58:34.610 --> 00:58:36.479
+Dario Rizzo: No, no. El micrófono de.
+
+293
+00:58:36.480 --> 00:58:41.590
+MATEO POGGIO CATALANO: Puede acercar más el micrófono. Por favor, que es esto. Parece que se escuche lejos, aunque el que está cerca.
+
+294
+00:58:42.200 --> 00:58:43.429
+Dario Rizzo: 55 000.
+
+295
+00:58:43.960 --> 00:58:44.910
+MATEO POGGIO CATALANO: Y Cofre.
+
+296
+00:58:45.980 --> 00:58:48.569
+Dario Rizzo: Encontrar a un diese de crítica, no.
+
+297
+00:58:49.050 --> 00:58:49.590
+JUAN SANABRIA: Sí.
+
+298
+00:58:50.230 --> 00:59:03.160
+Dario Rizzo: Bueno establecer un un plazo de, digamos, de mediación algo o tiempo establecido, programa programa para cada cada hallazgo.
+
+299
+00:59:04.880 --> 00:59:09.160
+SANTIAGO MARTÍN PEREYRA: No hicimos un cronograma para la resolución. Yendo el informe, no
+
+300
+00:59:09.340 --> 00:59:14.390
+SANTIAGO MARTÍN PEREYRA: sí. Hicimos el informe donde las clasificábamos.
+
+301
+00:59:14.910 --> 00:59:20.150
+SANTIAGO MARTÍN PEREYRA: y ahí sí, digamos, se demuestra la la prioridad, no un un cronograma.
+
+302
+00:59:21.250 --> 00:59:25.549
+Dario Rizzo: Lo lo establecieron. No.
+
+303
+00:59:26.610 --> 00:59:30.809
+JUAN SANABRIA: Claro, usted dice el riesgo que que.
+
+304
+00:59:30.810 --> 00:59:35.870
+Dario Rizzo: La recomendación para cada una como subsanar.
+
+305
+00:59:35.870 --> 00:59:41.200
+JUAN SANABRIA: Sí, sí, eso está en el informe. Eso está en el informe. No sé, no lo mencionamos, acá pero sí está.
+
+306
+00:59:41.850 --> 00:59:47.620
+Dario Rizzo: Los comandos recordaron sobre una manera individual. Fue algo ficticio.
+
+307
+00:59:48.740 --> 00:59:49.240
+SANTIAGO MARTÍN PEREYRA: No de.
+
+308
+00:59:49.240 --> 00:59:57.729
+JUAN SANABRIA: Sí usábamos la cali básicamente y lo corríamos hacia una Metafloyd, 2 que era la víctima.
+
+309
+00:59:58.170 --> 00:59:58.750
+MATEO POGGIO CATALANO: Mhm.
+
+310
+01:00:00.220 --> 01:00:02.539
+Dario Rizzo: Bueno, genial, muchas gracias. Gracias.
+
+311
+01:00:03.050 --> 01:00:04.340
+MATEO POGGIO CATALANO: Bueno, Gracias.
+
+312
+01:00:04.340 --> 01:00:04.750
+SANTIAGO MARTÍN PEREYRA: De la.
+
+313
+01:00:04.750 --> 01:00:05.520
+JUAN SANABRIA: No profe.
+
+314
+01:00:05.520 --> 01:00:08.479
+Dario Rizzo: Pero toda la el trabajo y la presentación.
+
+315
+01:00:09.010 --> 01:00:10.300
+JUAN SANABRIA: Y.
+
+316
+01:00:10.590 --> 01:00:13.350
+SANTIAGO MARTÍN PEREYRA: Todavía no cambiamos.
+
+317
+01:00:13.810 --> 01:00:17.950
+Dario Rizzo: Colocó a cada 1 con el trabajo y una sola presentación.
+
+318
+01:00:18.650 --> 01:00:19.330
+SANTIAGO MARTÍN PEREYRA: Okay.
+
+319
+01:00:19.330 --> 01:00:20.219
+MATEO POGGIO CATALANO: okay.
+
+320
+01:00:20.670 --> 01:00:21.340
+Dario Rizzo: Muchas gracias.
+
+321
+01:00:21.340 --> 01:00:28.130
+JUAN SANABRIA: Yo tengo una pregunta del trabajo, 11, pues no sé si le puedo preguntar ahora, o espero hasta más tarde.
+
+322
+01:00:28.340 --> 01:00:28.870
+JUAN SANABRIA: Mhm.
+
+323
+01:00:28.870 --> 01:00:30.150
+Dario Rizzo: Sí me sirve.
+
+324
+01:00:30.580 --> 01:00:35.389
+JUAN SANABRIA: El dragón se no, que era de de descifrar los hashes.
+
+325
+01:00:35.660 --> 01:00:40.930
+JUAN SANABRIA: Hay 1. Hay 1 que no sé si todos se tienen que encontrar.
+
+326
+01:00:41.110 --> 01:00:49.500
+JUAN SANABRIA: pero hay una que no me lo encuentra, y eso que probé con varias herramientas. No sé si y.
+
+327
+01:00:49.810 --> 01:00:53.640
+Dario Rizzo: Por pronto, o por plataforma dice.
+
+328
+01:00:54.160 --> 01:00:56.920
+Dario Rizzo: decime, igual, no, no apareció. Y lo daré.
+
+329
+01:00:56.920 --> 01:00:58.749
+JUAN SANABRIA: Estaré ahí mando por pronto después?
+
+330
+01:00:59.250 --> 01:00:59.960
+JUAN SANABRIA: ¿sí? Sí.
+
+331
+01:01:00.650 --> 01:01:01.660
+Dario Rizzo: Gracias.
+
+332
+01:01:04.160 --> 01:01:09.150
+Dario Rizzo: Mhm: Vámonos Chao: hasta luego.
+
+333
+01:01:10.270 --> 01:01:14.840
+Dario Rizzo: Bueno, el próximo grupo está todo. No
+
+334
+01:01:15.770 --> 01:01:19.049
+Dario Rizzo: ahí. Doy a gusto. Te doy.
+
+335
+01:01:19.050 --> 01:01:19.700
+AUGUSTO FIORE: A mí.
+
+336
+01:01:19.990 --> 01:01:22.429
+Dario Rizzo: Y para compartir o algún alquiler, prefiere otro.
+
+337
+01:01:27.290 --> 01:01:29.780
+Juan Farid Jalil Barberis: No sé si alguno más quiere. Si no, no tengo drama.
+
+338
+01:01:30.500 --> 01:01:31.920
+TOBIAS NICANOR ALMUNA: A Fiore a Fire está bien.
+
+339
+01:01:32.700 --> 01:01:33.250
+Dario Rizzo: Sí, claro.
+
+340
+01:01:34.280 --> 01:01:35.310
+Juan Farid Jalil Barberis: Bueno, dale Fire.
+
+341
+01:01:37.190 --> 01:01:38.630
+AUGUSTO FIORE: Tengo el sol coso.
+
+342
+01:01:39.210 --> 01:01:42.920
+Dario Rizzo: Ahí ya tenés el control total de la sala.
+
+343
+01:01:44.640 --> 01:01:46.659
+AUGUSTO FIORE: Lo voy a echar a a Toy.
+
+344
+01:01:47.790 --> 01:01:51.320
+Dario Rizzo: Con capucha, todavía.
+
+345
+01:01:52.880 --> 01:01:53.850
+AUGUSTO FIORE: Estamos.
+
+346
+01:01:54.960 --> 01:01:56.040
+Dario Rizzo: A la de.
+
+347
+01:01:56.510 --> 01:02:01.450
+AUGUSTO FIORE: Bueno, nosotros somos el grupo 4, y trabajamos con
+
+348
+01:02:01.590 --> 01:02:10.080
+AUGUSTO FIORE: una empresa llamada distribuidora andina. Esta empresa se ubica en la provincia de Mendoza.
+
+349
+01:02:10.310 --> 01:02:18.850
+AUGUSTO FIORE: y cuenta con una sucursal en la ciudad de Mendoza y en San Rafael.
+
+350
+01:02:18.940 --> 01:02:37.799
+AUGUSTO FIORE: Esta sucursal de San Rafael está conectada al servidor por una V p. N, La empresa se dedica mayormente a vender productos de librería y tecnología a otras empresas
+
+351
+01:02:37.830 --> 01:02:55.060
+AUGUSTO FIORE: en y maneja los le las ventas por por Whatsapp y por una tienda online y mayormente nosotros
+
+352
+01:02:55.520 --> 01:03:00.490
+AUGUSTO FIORE: para el cliente, queríamos revisar que están expuesta está la empresa desde afuera.
+
+353
+01:03:00.830 --> 01:03:07.639
+AUGUSTO FIORE: ver si desde adentro un atacante podría llegar a los datos de cliente o de facturación.
+
+354
+01:03:07.820 --> 01:03:20.490
+AUGUSTO FIORE: probar si, al entrar a un equipo, se puede saltar a otros, o sea, hacer movimientos laterales. Y bueno, entregar un informe con los hallazgos y las cosas a corregir.
+
+355
+01:03:21.600 --> 01:03:30.330
+AUGUSTO FIORE: En bueno la red hablar Maxi. Creo que está.
+
+356
+01:03:30.330 --> 01:03:32.810
+Maxi Barros: Sí, sí no podía funcionar. Perdón.
+
+357
+01:03:33.170 --> 01:03:45.280
+Maxi Barros: Bueno, el análisis se va a ser sobre esta red. Lo que notamos es que es una red plana, por así decirlo, que es que todos los
+
+358
+01:03:47.450 --> 01:03:55.740
+Maxi Barros: no me sale la palabra. Bueno, está todo, como no tiene bifurcación no está separada, entonces
+
+359
+01:03:56.100 --> 01:04:02.130
+Maxi Barros: esto, pues, permite los movimientos laterales de una manera más fácil.
+
+360
+01:04:02.320 --> 01:04:08.600
+Maxi Barros: Después, los puertos que tenemos son el 80, el 4, 4, 3,
+
+361
+01:04:09.080 --> 01:04:23.519
+Maxi Barros: el 100, 39. El 400. 44, 45 y el 3, 3, 8 9, que es el que encontramos que está abierto al público, por así decirlo, o sea, que está expuesto en el router.
+
+362
+01:04:23.830 --> 01:04:32.309
+Maxi Barros: que permite la ejecución de un escritorio remoto desde el Internet. Entonces, eso es un problema muy grande
+
+363
+01:04:33.060 --> 01:04:34.750
+Maxi Barros: hasta te une.
+
+364
+01:04:36.770 --> 01:04:37.450
+Maxi Barros: Bueno.
+
+365
+01:04:37.640 --> 01:04:52.720
+Maxi Barros: el ciclo del ten test. Vamos a hacer las 5 fases clásicas, que es el reconocimiento que es la junta de información sin afectar los equipos, sin hacer nada detectable, prácticamente la enumeración.
+
+366
+01:04:52.720 --> 01:05:03.539
+Maxi Barros: que es para el escaneo de puertos, las versiones y encontrar las vulnerabilidades. Después, el ganar acceso que es explotar las vulnerabilidades que encontramos.
+
+367
+01:05:03.550 --> 01:05:12.029
+Maxi Barros: el 4, que es mantener el acceso y 5, el bos, borrar los rastros y terminando con uniforme
+
+368
+01:05:14.090 --> 01:05:22.209
+Maxi Barros: hasta el 30. Y 1 ahí está las herramientas que usamos fueron Huyz, que lo usamos con el
+
+369
+01:05:23.040 --> 01:05:31.469
+Maxi Barros: con el dominio de la página con distribuidora andina puntocom punto Ar: y encontramos el titular, el contacto y el D N S.
+
+370
+01:05:32.060 --> 01:05:35.870
+Maxi Barros: Después dejarlo estar.
+
+371
+01:05:36.180 --> 01:05:47.049
+Maxi Barros: Lo usamos para claro como herramienta de o s. I N para rastrear fuentes públicas buscando correos y subdominios
+
+372
+01:05:47.170 --> 01:05:50.490
+Maxi Barros: que gracias a eso se puede hacer un ataque de phishing.
+
+373
+01:05:50.590 --> 01:05:55.850
+Maxi Barros: otro otro ataque. Y después el showán.
+
+374
+01:05:56.720 --> 01:06:05.400
+Maxi Barros: Lo usamos para en para reportar.
+
+375
+01:06:06.570 --> 01:06:08.950
+Maxi Barros: Se nos fue la parada en la cabeza, perdón
+
+376
+01:06:10.000 --> 01:06:15.209
+Maxi Barros: para ver qué servicios están expuestos a la ip pública de la empresa.
+
+377
+01:06:15.390 --> 01:06:16.719
+Maxi Barros: Ahí está perdón.
+
+378
+01:06:18.400 --> 01:06:26.609
+TOBIAS NICANOR ALMUNA: Bueno, después del reconocimiento, pasamos a la parte de la enumeración, donde acá ya básicamente consultamos los
+
+379
+01:06:26.880 --> 01:06:39.859
+TOBIAS NICANOR ALMUNA: los equipos para saber que bueno, que servicios, como dijo Maxi, que servicios y versiones usaban con N Map, identificamos que los servicios que corrían era samba, 4, 6, 3 en el servidor de archivos
+
+380
+01:06:40.040 --> 01:06:43.989
+TOBIAS NICANOR ALMUNA: y H. F. S. S. Dos, punto, 3, el de gestión.
+
+381
+01:06:44.180 --> 01:07:00.439
+TOBIAS NICANOR ALMUNA: También habíamos bueno, detectado, como dijo Maxi, un R D. P. Abierto hacia Internet, y bueno, Open, Vas señaló 3 alertas de seguridad alta en el escaneo. Básicamente nos dice donde investigar, pero todavía no demuestra que hayamos entrado
+
+382
+01:07:00.750 --> 01:07:04.920
+TOBIAS NICANOR ALMUNA: siguiente fiore la 8. Eso.
+
+383
+01:07:05.480 --> 01:07:12.190
+TOBIAS NICANOR ALMUNA: Las fallas de Samba y H. F. S, básicamente permiten ejecutar
+
+384
+01:07:12.250 --> 01:07:30.029
+TOBIAS NICANOR ALMUNA: código a distancia bajo ciertas condiciones. En este caso, por ejemplo, Samba Cry, que es la vulnerabilidad que detecta que detectó openbas afecta al servidor de archivos donde están los datos importantes. Y bueno, H. F. S. Al de gestión. Bueno, también apareció una alerta que era la de Bluequip.
+
+385
+01:07:30.180 --> 01:07:41.510
+TOBIAS NICANOR ALMUNA: que está asociada al R. D. P. Expuesto, aunque bueno, básicamente, que para confirmarla había que verificar que el equipo reciba esta esta conexión.
+
+386
+01:07:41.620 --> 01:07:54.789
+TOBIAS NICANOR ALMUNA: Las medidas que pusimos, las recomendaciones básicamente son actualizar Zamba, reemplazar Hfs y cerrar el puerto. 33 89 público usando una VPN para el acceso remoto a las computadoras
+
+387
+01:07:55.380 --> 01:07:56.570
+TOBIAS NICANOR ALMUNA: siguiente.
+
+388
+01:07:58.410 --> 01:08:14.040
+TOBIAS NICANOR ALMUNA: Y bueno, con autorización del cliente, básicamente probamos las fallas de Hfs y Zamba, con Metaployd. Y bueno, en gestión, obtuvimos una sesión remota y en el servidor de archivos, la Consola mostró mostró permisos de root y acceso a
+
+389
+01:08:14.040 --> 01:08:21.490
+TOBIAS NICANOR ALMUNA: a carpetas con datos de clientes y facturación. Entonces, bueno, ahí pasamos de alertas a ya demostrar impacto en 2 servidores.
+
+390
+01:08:21.600 --> 01:08:29.519
+TOBIAS NICANOR ALMUNA: Bueno, R. D. P. No se explotó y bueno. A continuación se analiza que podía ser un atacante una vez adentro.
+
+391
+01:08:32.819 --> 01:08:46.099
+Juan Farid Jalil Barberis: Bueno, una vez que ganamos acceso las siguientes fases, según lo que se acordó con el cliente es demostrar el tema de las pote, la poste explotación en la parte que sería de mantener el acceso y borrar los rastros.
+
+392
+01:08:46.319 --> 01:09:06.159
+Juan Farid Jalil Barberis: Lo mantuvimos simple, para, obviamente no hacerlo muy destructivo. Simplemente para demostrar lo que se puede hacer es por la parte de mantener acceso. Se hicieron 3 cosas: primero que nada se emigró la sesión de Metropletter a otro proceso para que si se cayera el programa o si lo cerraban, no se pierdan la la sesión.
+
+393
+01:09:06.249 --> 01:09:20.089
+Juan Farid Jalil Barberis: Después se dejó una tarea configurada que levanta de vuelta la conexión cada vez que se inicia el equipo. Y por último, creamos lo que sería una grabadora. Creamos un usuario con permiso de administrador
+
+394
+01:09:20.099 --> 01:09:29.989
+Juan Farid Jalil Barberis: para tener otra forma de entrar. Y para el borrado de rastros. Usamos clearer de meter preter también y
+
+395
+01:09:30.289 --> 01:09:42.239
+Juan Farid Jalil Barberis: nada más salir El comando es el de Time Timestan Timestan Timesto, para cambiar la fecha de 1 de los archivos que creamos para que levanten menos sospechas
+
+396
+01:09:44.119 --> 01:10:08.539
+Juan Farid Jalil Barberis: y bueno, Resumiendo, hasta ahora lo que conseguimos se utilizaron vulnerabilidades de hace años con herramientas que son de acceso público, y con eso entramos a 2 servidores con permiso de administrador. Llegamos a datos de los clientes que debería ser privado, y pudimos borrar las cuentas, borrar las huellas y borrar perdón, crear una back, 2 o un acceso alternativo que no depende de las vulnerabilidades.
+
+397
+01:10:11.990 --> 01:10:22.249
+nicolas mile: Bueno. Y después de todas estas pruebas que hicimos, básicamente pudimos concluir que la empresa, si presenta muchas debilidades importantes en en su infraestructura, Digamos
+
+398
+01:10:22.420 --> 01:10:37.990
+nicolas mile: ahí podemos ver en la tabla que tenemos los 5 programas principales que tenemos, 3 de la de alta y 2 de la Edad Media. Los 3 más graves son los que ya hablamos más en profundidad, que son acceso remoto: el samba y el H. F. S.
+
+399
+01:10:38.230 --> 01:10:49.279
+nicolas mile: Y estos problemas son 100 por 100 más preocupantes porque S Sí, son los que representan las posibles puertas de entradas para el atacante. De hecho, conseguimos entrar a a 2 de esos servidores
+
+400
+01:10:49.420 --> 01:11:00.120
+nicolas mile: y, por otro lado, tenemos estos problemas de la Edad Media, que no es que te permiten ingresar directamente, pero si no que te pueden agravar muchísimo las consecuencias de un ataque.
+
+401
+01:11:00.660 --> 01:11:18.399
+nicolas mile: el Primero, justamente es como había hablado maxi antes, que la falta de segmentación en la red que facilita todo esto el movimiento lateral, y El segundo es la ausencia de registros realizados, que lo que hace es básicamente dificultar el detectar las actividades sospechosas que que hubo.
+
+402
+01:11:19.020 --> 01:11:28.150
+nicolas mile: Por eso, nuestra conclusión es que la empresa necesita priorizar las vulgaridades más graves, pero después también seguir con asesoría interna Con las 2 de regla media
+
+403
+01:11:29.670 --> 01:11:37.930
+nicolas mile: Pasamos Y bueno. Para terminar, lo que hicimos fue un informe ejecutivo que tiene un enfoque diferente al informe técnico que veníamos presentando.
+
+404
+01:11:38.290 --> 01:11:46.780
+nicolas mile: Este informe está dirigido principalmente al dueño de la distribuidora andina, que no no necesariamente tiene estos conocimientos de informática o seguridad.
+
+405
+01:11:46.900 --> 01:11:53.899
+nicolas mile: Por eso, en vez de centrarnos en nombre de herramientas, buscamos aplicar los resultados de una manera que permita tomar decisiones.
+
+406
+01:11:54.320 --> 01:11:57.749
+nicolas mile: Este informe, lo que hace es responder 4 preguntas principales.
+
+407
+01:11:57.920 --> 01:12:05.189
+nicolas mile: Primero, es el que hicimos, que es el Realizamos una evaluación de seguridad para conocer que tan protegido está el sistema de la empresa.
+
+408
+01:12:05.490 --> 01:12:17.039
+nicolas mile: Segundo es que encontramos que detectamos fallas que nos permite, Nos permitieron acceder a 2 servidores y llegar a información importante, como los datos del cliente o los datos de la facturación
+
+409
+01:12:17.580 --> 01:12:36.999
+nicolas mile: después? Tercero, ¿qué significa esto para el negocio que probablemente es lo que más le interesa al dueño que si un atacante real aprovechara esas fallas que podría robar información o dejar la empresa sin acceso a sus archivos. Esto podría ser que no pueda facturar procesar pedidos, etcétera. No seguir con su funciona funcionamiento del día a día.
+
+410
+01:12:37.330 --> 01:12:51.440
+nicolas mile: Y, finalmente, es el que recomendamos hacer y qué conviene hacer. Y nuestra propuesta, básicamente, es comenzar con con estas 3 correcciones urgentes de los errores más graves y después avanzar con estas mejoras internas de de la Edad Media que hablamos antes.
+
+411
+01:12:52.520 --> 01:13:00.639
+FRANCISCO DAURAT: Claro. Nosotros decidimos darle una serie de recomendaciones ordenadas según la prioridad, como dijo anteriormente Eniko.
+
+412
+01:13:00.640 --> 01:13:14.120
+FRANCISCO DAURAT: y las dividimos en, por así decir, 2 segmentos, que sería lo que es urgente, lo cual además tiene bajo costo y después lo que sería el siguiente, que quizás tendría un poco más de costo, pero el costo no sería económico, sino sería
+
+413
+01:13:14.170 --> 01:13:31.799
+FRANCISCO DAURAT: de implementación, o sea, de de de alguien que se siente y lo haga básicamente. Por Primero y principal, recomendamos cerrar el escritorio remoto del Rdpa hacia Internet este y que se utiliza solamente por VPN para evitar los típicos intentos de fuerza bruta
+
+414
+01:13:31.920 --> 01:13:45.399
+FRANCISCO DAURAT: y así evitar una posible infiltración de alguien. Un atacante malicioso. Básicamente, después Recomendamos, por supuesto, actualizar el el servidor samba no con un parche para que le rece no sea mas reproducible.
+
+415
+01:13:45.440 --> 01:13:53.970
+FRANCISCO DAURAT: Y lo y lo mismo con el H A con el Hfs, 2, 3 y reemplazarlo con un software con soporte, justamente para no tener tanta exposición innecesaria
+
+416
+01:13:54.280 --> 01:14:07.300
+FRANCISCO DAURAT: después de forma siguiente. Lo que recomendamos encarecidamente también es separar la red interna para que, claramente, si un equipo es comprometido, no dé acceso a todo. Recomendamos principalmente el uso de Dylance
+
+417
+01:14:07.700 --> 01:14:21.429
+FRANCISCO DAURAT: y después, por último, recomendaríamos centralizar todos los de todos los logs y registros de todo lo que ocurre dentro de la infraestructura, en un servidor aparte, para poder tener trazabilidad e investigar todos los incidentes y sucesos que puedan ocurrir
+
+418
+01:14:24.140 --> 01:14:29.149
+FRANCISCO DAURAT: después. Acá Dejamos anotadas una serie de herramientas que utilizamos para cada etapa.
+
+419
+01:14:29.380 --> 01:14:38.690
+FRANCISCO DAURAT: principalmente para la parte de reconocimiento, usamos wiz y Deg, no para ver todos los datos del dominio y resolver los nombres a direcciones Ip.
+
+420
+01:14:38.940 --> 01:14:45.250
+FRANCISCO DAURAT: usamos también de Harvester para juntar todos los correos que haya expuestos en Internet y los subdominios públicos.
+
+421
+01:14:45.860 --> 01:14:54.039
+FRANCISCO DAURAT: y después utilizamos también yodan para ver justamente que servicios exponía la ip pública, los subdominios y los puertos.
+
+422
+01:14:54.270 --> 01:15:02.390
+FRANCISCO DAURAT: Después utilizamos Emma para hacer escaneo a estas Ips básicamente, y ver las versiones y los servicios expuestos.
+
+423
+01:15:02.690 --> 01:15:11.740
+FRANCISCO DAURAT: Usamos después. Open Bass para, básicamente hacer una búsqueda de vulnerabilidades conocidas que hayan expuestas.
+
+424
+01:15:11.950 --> 01:15:26.310
+FRANCISCO DAURAT: Y una vez las identificamos utilizamos Metasployd para hacer un acceso para ganar un acceso de forma inicial, no que es lo que usamos para explotar las vulnerabilidades del samba y el Http file system
+
+425
+01:15:26.680 --> 01:15:37.480
+FRANCISCO DAURAT: y, por último, utilizamos meter preter para justamente sostener ese acceso, no ganar la back door y así ganar persistencia en el sistema.
+
+426
+01:15:40.000 --> 01:15:40.880
+FRANCISCO DAURAT: Y bueno.
+
+427
+01:15:41.280 --> 01:15:57.260
+FRANCISCO DAURAT: Por último, lo que le dimos a entender, no al cliente, es que ninguna de las correcciones es clara ni complicada. No, no es nada del otro mundo. Las implementaciones que hay que hacer y con poco costo. La verdad, tanto económico como operativo, se disminuye muchísimo el riesgo.
+
+428
+01:15:57.430 --> 01:16:11.759
+FRANCISCO DAURAT: Así que, bueno, para terminar, el objetivo del cliente era ese saber justamente que tan expuesto estaba a que a tener un suceso informático malo? ¿no? Y ahora lo sabe, y en incluso tiene un plan concreto sobre por dónde empezar.
+
+429
+01:16:12.080 --> 01:16:14.510
+FRANCISCO DAURAT: Así que esto sería todo. Muchas gracias.
+
+430
+01:16:16.400 --> 01:16:26.389
+Dario Rizzo: Bueno. Muy bien si en el caso de que diéramos para avanzar con las remediaciones, 4 estiman
+
+431
+01:16:26.850 --> 01:16:33.199
+Dario Rizzo: de tiempo realizar las correcciones que son necesarias para para cubrir la acción urgente.
+
+432
+01:16:33.640 --> 01:16:34.450
+FRANCISCO DAURAT: Todas.
+
+433
+01:16:35.450 --> 01:16:36.779
+Dario Rizzo: Las urgente, por lo menos.
+
+434
+01:16:36.780 --> 01:16:41.979
+FRANCISCO DAURAT: Ah, las urgentes, no las urgentes. Menos de una semana. Tendría que estar
+
+435
+01:16:42.530 --> 01:16:45.690
+FRANCISCO DAURAT: en principio si quieres salirte de la
+
+436
+01:16:45.700 --> 01:17:03.839
+FRANCISCO DAURAT: Bueno, quizás la primera sería la más complicada, porque tendrías que hacer la implementación de la VPN, darle el acceso a los empleados todo ese tema, pero por ejemplo, los Rc E. S, en principio, sería aplicar el parche y listo, que eso sería
+
+437
+01:17:03.970 --> 01:17:07.990
+FRANCISCO DAURAT: 5 10 min, una actualización, quizás reiniciar el servicio y listo.
+
+438
+01:17:08.160 --> 01:17:12.960
+FRANCISCO DAURAT: y después, bueno, sería lo del A, V, P. N, Pero las urgentes no tendrá que ser más de una semana.
+
+439
+01:17:15.000 --> 01:17:22.260
+Dario Rizzo: Y la empresa de calidad estaba en la serie. Están trabajando la empresa de calidad
+
+440
+01:17:22.710 --> 01:17:26.110
+Dario Rizzo: disponible, o sea, para comercializar algo, o
+
+441
+01:17:26.760 --> 01:17:29.760
+Dario Rizzo: podrían hacerlo en forma simultánea de ocio.
+
+442
+01:17:30.560 --> 01:17:33.270
+FRANCISCO DAURAT: Cómo, cómo no, Escu: No, No, no lo escucho bien. Profe.
+
+443
+01:17:33.750 --> 01:17:35.119
+Maxi Barros: No nos escuchó mucho.
+
+444
+01:17:35.850 --> 01:17:38.789
+Dario Rizzo: Hola. Hola y escuchas bien, mejor.
+
+445
+01:17:39.350 --> 01:17:40.800
+FRANCISCO DAURAT: Un poco mejor, sí.
+
+446
+01:17:41.590 --> 01:17:47.940
+Dario Rizzo: Y no. Lo que me preguntaba era si que ustedes van a trabajar en las inmediaciones.
+
+447
+01:17:48.100 --> 01:17:55.180
+Dario Rizzo: si la empresa va a quedar fuera de línea o va a poder seguir operando de forma simultánea su trabajo.
+
+448
+01:17:55.720 --> 01:18:05.980
+FRANCISCO DAURAT: No, no debería de poder simplemente a lo sumo, como mucho, hay una interrupción del servicio de algunos servicios, porque a lo mejor reiniciaste justo el servidor para que corra la versión nueva.
+
+449
+01:18:06.100 --> 01:18:09.679
+FRANCISCO DAURAT: y no tendrían que ser más de 2 o 3 min levantar el servicio.
+
+450
+01:18:12.510 --> 01:18:16.490
+Dario Rizzo: Bueno, me gusta mucho el optimismo de de su trabajo.
+
+451
+01:18:17.050 --> 01:18:22.729
+Dario Rizzo: Bueno, Tito, por ningún lado. No tuve la pregunta, así que muchas gracias por todo y
+
+452
+01:18:22.900 --> 01:18:24.809
+Dario Rizzo: fue un claro anticipación.
+
+453
+01:18:24.940 --> 01:18:26.779
+AUGUSTO FIORE: No se olvide de ser profe.
+
+454
+01:18:27.140 --> 01:18:32.500
+Dario Rizzo: No te voy a subir mi trabajo todos y cada 1 es una sola representación.
+
+455
+01:18:33.290 --> 01:18:34.140
+AUGUSTO FIORE: Bueno.
+
+456
+01:18:34.330 --> 01:18:35.449
+FRANCISCO DAURAT: Dale Profe: Gracias.
+
+457
+01:18:36.090 --> 01:18:38.459
+nicolas mile: Gracias. Buenas noches. Gusto.
+
+458
+01:18:38.460 --> 01:18:39.250
+TOBIAS NICANOR ALMUNA: Ya sea por referencias.
+
+459
+01:18:39.250 --> 01:18:39.970
+AUGUSTO FIORE: Claro.

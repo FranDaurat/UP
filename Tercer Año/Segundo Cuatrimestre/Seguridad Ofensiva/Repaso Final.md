@@ -180,11 +180,50 @@
 > [!success]- Respuesta
 > **Correcta: B.** **Footprinting** = reconocimiento **pasivo/semi-pasivo** desde fuentes públicas (sin enviar paquetes al target). Enviar paquetes para descubrir hosts es **Scanning** (activo).
 
-Definir vulnerabilidad, CVE, CVSS
-Definir ataque, diferencia entre penetration test y analisis de vulnerabilidades, y las fases de penetration test
-Definir Escaneo SYN, Banner Grabbing y OS Fingerprinting 
-Obj principal de la fase de reconocimiento, técnicas de footpirnting y diferencia entre reconocimiento pasivo y activo
-Definir seg ofensiva, diferencia entre amenaza y vulnerabilidad y objetivo principal de la evaluación de seguridad.
+**18. (Definición)** Definir vulnerabilidad, CVE y CVSS.
+
+> [!success]- Respuesta
+> - **Vulnerabilidad:** debilidad o fallo en un sistema, aplicación o proceso que puede ser explotado por una amenaza para comprometer confidencialidad, integridad o disponibilidad.
+> - **CVE (Common Vulnerabilities and Exposures):** identificador único y estandarizado (ej. CVE-2024-1234) que cataloga públicamente una vulnerabilidad conocida, permitiendo referenciarla de forma consistente entre herramientas y organizaciones.
+> - **CVSS (Common Vulnerability Scoring System):** sistema estandarizado que asigna un puntaje numérico (0-10) a la severidad de una vulnerabilidad, en base a métricas como vector de ataque, complejidad, privilegios requeridos e impacto.
+
+**19. (Definición)** Definir ataque, diferencia entre penetration test y análisis de vulnerabilidades, y las fases del penetration test.
+
+> [!success]- Respuesta
+> - **Ataque:** acción deliberada que explota una vulnerabilidad para comprometer la seguridad de un sistema (confidencialidad, integridad o disponibilidad).
+> - **Diferencia:** el **análisis de vulnerabilidades** identifica y clasifica debilidades (generalmente con escaneo automatizado) sin explotarlas. El **penetration test** va más allá: explota activamente las vulnerabilidades para demostrar impacto real, simulando a un atacante.
+> - **Fases del pentest:** 1) Reconocimiento (footprinting), 2) Escaneo/enumeración, 3) Obtención de acceso (explotación), 4) Mantenimiento de acceso (post-explotación), 5) Cubrir huellas (si el scope lo permite), 6) Reporte.
+
+**20. (Definición)** Definir Escaneo SYN, Banner Grabbing y OS Fingerprinting.
+
+> [!success]- Respuesta
+> - **Escaneo SYN (half-open scan):** envía un paquete SYN al puerto objetivo; si responde SYN-ACK el puerto está abierto (se envía RST para no completar el handshake), si responde RST está cerrado. Es sigiloso porque nunca completa la conexión TCP.
+> - **Banner Grabbing:** técnica que consiste en conectarse a un servicio y capturar el banner que devuelve (ej. nombre y versión del software) para identificar qué aplicación corre en un puerto.
+> - **OS Fingerprinting:** técnica para identificar el sistema operativo del objetivo analizando particularidades de su pila TCP/IP (TTL, tamaño de ventana, opciones TCP). Puede ser **activo** (envío de paquetes especiales, ej. `nmap -O`) o **pasivo** (análisis de tráfico ya capturado).
+
+**21. (Definición)** Objetivo principal de la fase de reconocimiento, técnicas de footprinting y diferencia entre reconocimiento pasivo y activo.
+
+> [!success]- Respuesta
+> - **Objetivo principal:** recopilar la mayor cantidad de información posible sobre el objetivo (infraestructura, empleados, tecnologías, dominios) antes de atacar, para maximizar las chances de éxito y minimizar la detección.
+> - **Técnicas de footprinting:** motores de búsqueda (Google dorking), whois, consultas DNS, ingeniería social, redes sociales, metadatos de documentos públicos, Shodan, análisis del sitio web del objetivo.
+> - **Pasivo vs. activo:** el reconocimiento **pasivo** recolecta información sin interactuar directamente con el objetivo (fuentes públicas, OSINT), por lo que no deja rastro. El **activo** implica interacción directa con los sistemas del objetivo (ping, escaneo de puertos), lo cual puede ser detectado.
+
+**22. (Definición)** Definir seguridad ofensiva, diferencia entre amenaza y vulnerabilidad y objetivo principal de la evaluación de seguridad.
+
+> [!success]- Respuesta
+> - **Seguridad ofensiva:** enfoque proactivo de la seguridad que simula ataques reales (pentesting, red teaming, ethical hacking) para identificar y explotar debilidades antes de que lo haga un atacante real.
+> - **Amenaza vs. vulnerabilidad:** la **amenaza** es cualquier actor, evento o circunstancia con potencial de causar daño explotando una debilidad; la **vulnerabilidad** es la debilidad en sí misma. Sin vulnerabilidad, la amenaza no se concreta en un riesgo real.
+> - **Objetivo principal de la evaluación de seguridad:** identificar, cuantificar y priorizar las debilidades de una organización para reducir el riesgo, aportando información accionable para remediar antes de que un atacante real las explote.
+
+**23. (Ensayo)** ¿Cuál es la ética que debe llevar adelante un profesional que se dedica al ethical hacking?
+
+> [!success]- Respuesta
+> - Actuar siempre con **autorización explícita y por escrito** (scope definido en contrato); nunca exceder los límites acordados.
+> - Mantener la **confidencialidad** de la información y los hallazgos del cliente.
+> - **No causar daño** intencional a sistemas ni datos del objetivo.
+> - **Reportar con honestidad** todos los hallazgos, sin ocultar ni exagerar resultados.
+> - Respetar la **legalidad** vigente y detener la actividad de inmediato si se excede el alcance autorizado (ej. sistemas de terceros).
+> - No usar el conocimiento o acceso obtenido para **beneficio personal**.
 
 ---
 

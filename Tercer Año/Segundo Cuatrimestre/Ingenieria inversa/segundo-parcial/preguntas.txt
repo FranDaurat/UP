@@ -1,0 +1,64 @@
+Lenguaje en el que se encuentra desarrollado, arquitectura del binario y categoría del malware
+	
+
+5
+
+Enumerar los strings, imports y sections relevantes
+	
+
+5
+
+Explicar qué sucede luego de ejecutarlo
+	
+
+5
+
+¿Se borra? ¿Bajo qué condiciones?
+	
+
+5
+
+¿Genera persistencia? ¿Cómo?
+	
+
+10
+
+¿Crea archivos? ¿Dónde?
+	
+
+5
+
+¿Realiza conexiones a algún sitio externo?
+	
+
+10
+
+¿Descarga archivos? ¿Dónde?
+	
+
+5
+
+¿Exfiltra información? ¿Qué información? ¿Cómo?
+	
+
+10
+
+¿Tiene algún tipo de cifrado para la información? ¿Qué algoritmo utiliza? (TEA, RC4, 3DES, AES) ¿Cuál es la clave de descifrado?
+	
+
+10
+
+¿Tiene algún tipo de ofuscación el código? ¿Tiene clave?
+	
+
+10
+
+Describir la cadena de ejecución del malware
+	
+
+10
+
+Enumerar los indicadores de compromiso (con regla de yara tiene mejor puntaje)
+	
+
+10

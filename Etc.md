@@ -22,9 +22,12 @@ Cudek ---> alto profesor
 - Fabio Dellarosa
 - Marcela Toba
 
-## Parciales: 
-Seguridad en SO --> semana del 14/09/2026
-Seguridad Ofensiva --> 16/09/2026
+## Parciales y orales: 
+Ingenieria inversa ---> 29/10 (se libera) /  5 de noviembre se entrega
+Entrega final tp Seg Ofensiva --> 4/11
+Parcial Seg Ofensiva --> 11/11
+Parcial Seguridad en SisOps ---> 13/11
+Tecnologias de la informacion --> 19/11
 
 -- -
 
