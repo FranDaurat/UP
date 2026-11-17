@@ -1,0 +1,1221 @@
+WEBVTT
+
+1
+00:00:11.720 --> 00:00:20.109
+Sibler Bárbara: Bueno, somos poquitos, pero la idea es que les quede la clase grabada ¿sí? Para que después quien no se pudo conectar pueda verla.
+
+2
+00:00:20.540 --> 00:00:24.850
+Sibler Bárbara: Las cas Las clases quedan grabadas por un mes. Sí, recuerden esto.
+
+3
+00:00:25.050 --> 00:00:30.469
+Sibler Bárbara: Esperen que quiero chequear algo antes de seguir.
+
+4
+00:00:31.760 --> 00:00:36.260
+Sibler Bárbara: Qué en algún chiquia?
+
+5
+00:00:37.820 --> 00:00:38.930
+Sibler Bárbara: Bueno.
+
+6
+00:00:40.400 --> 00:00:56.570
+Sibler Bárbara: Bueno, mi nombre es Bárbara. S Siebler. Sí, soy la docente de esta materia. Acá Me van a encontrar en distintas materias depende del cuatrimestre. Las materias que doy. Por lo general doy sistemas y métodos.
+
+7
+00:00:56.570 --> 00:01:04.440
+Sibler Bárbara: tecnología de la información y trabajo final de grado ya el último, casi el último cuatrimestre que tienen ustedes
+
+8
+00:01:05.349 --> 00:01:17.529
+Sibler Bárbara: en la carrera, los sábados. La doy así que, bueno, cualquier cosa que tengan a lo largo de la carrera, cualquier consulta. Me pueden escribir siempre por pronto, me encuentran ahí,
+
+9
+00:01:17.700 --> 00:01:29.780
+Sibler Bárbara: ya sea consultas de esta materia o de otras. Yo los ayudo, soy licenciada en sistemas y gestión resida en esta universidad ya hace varios años.
+
+10
+00:01:29.890 --> 00:01:37.950
+Sibler Bárbara: Tengo un posgrado hecho en educación superior, también en esta universidad y una maestría que
+
+11
+00:01:38.540 --> 00:01:49.370
+Sibler Bárbara: tengo algunas certificaciones hechas en Scrum Master, en Product Onner, trabajo actualmente liderando proyectos en una empresa
+
+12
+00:01:49.510 --> 00:02:01.239
+Sibler Bárbara: y hace muchos años que trabajo en lo que es gestión de proyectos, que es mi fuerte. Lo que lo que más me me gusta laboralmente eso y y dar clases.
+
+13
+00:02:01.470 --> 00:02:17.470
+Sibler Bárbara: Bueno, eso es un poquito de mí de la materia. Vamos a ir hablando. La materia tiene 2 parciales, como pueden ver en el calendario. Si eso es lo que tienen disponible.
+
+14
+00:02:17.770 --> 00:02:26.810
+Sibler Bárbara: el primer parcial va a ser el 29 de septiembre, se habilita a las 8 de la mañana y
+
+15
+00:02:26.960 --> 00:02:32.490
+Sibler Bárbara: hasta las 8 de la noche, siempre hora argentina lo van a tener disponible
+
+16
+00:02:32.870 --> 00:02:42.610
+Sibler Bárbara: desde que ingresan, tienen una hora para completarlo. Es más que suficiente. Sí, no se preocupen por eso.
+
+17
+00:02:43.390 --> 00:02:51.190
+Sibler Bárbara: Si llegan a tener algún inconveniente cuando ingresan, No sé, se les corta la luz, por ejemplo.
+
+18
+00:02:51.500 --> 00:03:00.619
+Sibler Bárbara: o algo por el estilo. Me avisan por pronto para ver el caso y evaluarlo. ¿cómo podemos solucionarlo?
+
+19
+00:03:00.700 --> 00:03:04.539
+Sibler Bárbara: ¿me escriben por mensaje privado? Sí,
+
+20
+00:03:04.560 --> 00:03:15.490
+Sibler Bárbara: salvo que le salga un error general o algo por el estilo en el examen parcial, sino algo particular. Un inconveniente me escribe en forma particular
+
+21
+00:03:15.510 --> 00:03:33.059
+Sibler Bárbara: y lo evaluamos Si una vez que ingresan ustedes, el tiempo ya empieza a ejecutarse, Sí, por más que salgan y vuelvan a entrar. Ya el tiempo siguió corriendo. Sí, entonces los minutos siguen corriendo y se les van descontando de la hora, sí que tienen. Entonces tengan en cuenta eso.
+
+22
+00:03:33.060 --> 00:03:38.919
+Sibler Bárbara: Por eso les Hago hincapié, por ejemplo, si se les corta la luz, sí
+
+23
+00:03:38.930 --> 00:03:51.360
+Sibler Bárbara: que me ha pasado casos de de gente que por ahí está en algún lugar se les corta la luz y bueno, nada. Tenemos que que hacer algo para para solucionarlo, para
+
+24
+00:03:51.890 --> 00:03:55.300
+Sibler Bárbara: para ayudarlo
+
+25
+00:03:55.720 --> 00:04:06.020
+Sibler Bárbara: después. El examen parcial consta de preguntas a desarrollar y de preguntas múltiple opción o verdadero falso. Si
+
+26
+00:04:06.220 --> 00:04:19.709
+Sibler Bárbara: las preguntas múltiple, opción o verdadero falso por lo general son el entre el 30 y el 20 por 100 del examen y el resto son preguntas a desarrollar? Sí,
+
+27
+00:04:20.070 --> 00:04:30.249
+Sibler Bárbara: presten atención a las preguntas a desarrollar si dicen, describa nombres, Sí, sí sé,
+
+28
+00:04:31.040 --> 00:04:38.779
+Sibler Bárbara: describa si no, no no solo nombren, si hagan una breve descripción de lo que se pide
+
+29
+00:04:40.100 --> 00:04:46.890
+Sibler Bárbara: para que se considere todo el puntaje que tienen asignado. Si no se les considere menos.
+
+30
+00:04:47.020 --> 00:04:57.820
+Sibler Bárbara: si tienen múltiple opción, tengan en cuenta y lean todas las opciones. Puede ser que haya más de una opción verdadera. Sí, no necesariamente tiene que ser una
+
+31
+00:04:57.930 --> 00:05:08.730
+Sibler Bárbara: Así que lean todas las opciones. Eso ténganlo en cuenta, y el examen parcial o los exámenes parciales
+
+32
+00:05:09.050 --> 00:05:16.570
+Sibler Bárbara: van a ser corregidos una vez que se terminen de completar todos y se procesan todo lo que son las grabaciones
+
+33
+00:05:16.780 --> 00:05:30.679
+Sibler Bárbara: y aproximadamente demoran unas 3 h en procesarse las grabaciones. Y ahí, una vez que me llegan yo los corrijo. Así que aproximadamente al otro día van a recibir la nota, sí,
+
+34
+00:05:30.860 --> 00:05:38.340
+Sibler Bárbara: del examen parcial van a ver en calificaciones una carpetita que va a decir notas del primer examen parcial.
+
+35
+00:05:38.580 --> 00:05:52.579
+Sibler Bárbara: Van a entrar. Ahí, van a ver la nota de ustedes, ¿no? Si entran al parcial. Lo van a ver ya bloqueado. Sí, a partir de las 8 de la noche del veinti, lo van a haber bloqueado, No se asusten. No es que se perdió.
+
+36
+00:05:52.840 --> 00:05:56.810
+Sibler Bárbara: Es que se bloquea
+
+37
+00:05:57.380 --> 00:06:08.990
+Sibler Bárbara: Si hay algún inconveniente, tienen dudas sobre la corrección, cualquier cosa. Lo mismo me escriben un mensajito por pronto privado.
+
+38
+00:06:09.360 --> 00:06:20.859
+Sibler Bárbara: Me dicen que quieren hacer una corrección del examen parcial y lo miramos en este examen parcial, en el otro, en los recuperatorios, en cualquier instancia. Lo podemos hacer
+
+39
+00:06:21.010 --> 00:06:30.500
+Sibler Bárbara: y revisamos lo que es la corrección del examen parcial, sí, para que se queden tranquilos. Si se genera algún alguna duda.
+
+40
+00:06:30.810 --> 00:06:40.370
+Sibler Bárbara: después tienen 2 recuperatorios en la cursada, 1 dentro de la cursada y 1 fuera de cursada.
+
+41
+00:06:40.650 --> 00:06:48.390
+Sibler Bárbara: ¿esto ¿qué quiere decir que si usan el recuperatorio fuera de cursada, no van a poder rendir el final. En diciembre
+
+42
+00:06:48.490 --> 00:06:53.539
+Sibler Bárbara: van a tener que rendir el final recién en febrero, pero en caso de aprobar
+
+43
+00:06:54.130 --> 00:06:59.150
+Sibler Bárbara: aprobarían la materia. Sí es que eso es importante
+
+44
+00:06:59.430 --> 00:07:14.549
+Sibler Bárbara: si no lo tienen que usar mejor. Si, obviamente, si usan un solo recuperatorio, si pueden rendir la el final. En diciembre, en cualquiera de las fechas que va a haber en diciembre, que va a haber 3 fechas A
+
+45
+00:07:15.770 --> 00:07:17.460
+Sibler Bárbara: en
+
+46
+00:07:17.850 --> 00:07:34.799
+Sibler Bárbara: y los exámenes recuperatorios siguen la misma condiciones de los exámenes parciales y en cuanto a la distribución de las preguntas a desarrollar y múltiple opción, sí, o verdadero falso.
+
+47
+00:07:34.990 --> 00:07:48.220
+Sibler Bárbara: más o menos 70 y 30, sí, y tienen una hora para desarrollarlo siempre tengan en cuenta lo que es las el contenido que tienen que tener
+
+48
+00:07:48.310 --> 00:07:57.279
+Sibler Bárbara: en un examen a recuperar o en otro, si, en caso de que tengan que recuperar alguno de los exámenes o los 2 sí tengan en cuenta eso
+
+49
+00:07:57.670 --> 00:08:08.019
+Sibler Bárbara: contenido. Sí que se va a estar evaluando. Fíjense que semanalmente se les habilita
+
+50
+00:08:08.890 --> 00:08:26.089
+Sibler Bárbara: una carpeta con el nombre. Sí, de del módulo que se habilita esa semana, tienen una actividad, tienen el el contenido. Si tienen una bibliografía sugerida
+
+51
+00:08:26.310 --> 00:08:33.100
+Sibler Bárbara: que pueden ustedes profundizar la lectura en caso de que tengan dudas
+
+52
+00:08:33.260 --> 00:08:38.410
+Sibler Bárbara: o les interese el tema o se les genere alguna inquietud.
+
+53
+00:08:38.429 --> 00:08:51.240
+Sibler Bárbara: Eso tienen los libros disponibles en la biblioteca. Eso no hay ningún inconveniente, pero las preguntas van a salir de los contenidos que se habilitan semanalmente
+
+54
+00:08:51.240 --> 00:09:01.310
+Sibler Bárbara: en los módulos de la materia. De ahí salen las preguntas de los exámenes parciales y o de los recuperatorios, Sí,
+
+55
+00:09:01.310 --> 00:09:12.900
+Sibler Bárbara: de esos módulos salen lo que son las preguntas de los exámenes. Así que ese contenido es el mínimo que se tienen que saber si eso es importante, que se lo sepan
+
+56
+00:09:13.190 --> 00:09:17.760
+Sibler Bárbara: hasta acá alguna consulta alguna pregunta.
+
+57
+00:09:22.920 --> 00:09:24.420
+Sibler Bárbara: No todo claro.
+
+58
+00:09:24.850 --> 00:09:29.139
+CESAR HECTOR MATIAS MAMANI: Disculpa de bárbara, porque justo cuando dijiste la fecha del examen.
+
+59
+00:09:29.240 --> 00:09:33.249
+CESAR HECTOR MATIAS MAMANI: se se me bloqueó el lodo auricular. No no.
+
+60
+00:09:33.250 --> 00:09:35.500
+Sibler Bárbara: Se escucha medio cortado. No sé si soy yo.
+
+61
+00:09:37.150 --> 00:09:37.900
+CESAR HECTOR MATIAS MAMANI: Y.
+
+62
+00:09:37.900 --> 00:09:38.340
+Franco Lombroni: No le.
+
+63
+00:09:38.340 --> 00:09:46.950
+CESAR HECTOR MATIAS MAMANI: No, no, no, no es el 29 y 30, o solo el 29.
+
+64
+00:09:46.950 --> 00:09:50.469
+Sibler Bárbara: Me voy a conectar a los datos del celular
+
+65
+00:10:25.970 --> 00:10:28.150
+Sibler Bárbara: a ver. Ahora. César: Sí, decime.
+
+66
+00:10:29.460 --> 00:10:32.369
+CESAR HECTOR MATIAS MAMANI: Sí, Sí, el examen era 29 y 30.
+
+67
+00:10:32.700 --> 00:10:36.189
+CESAR HECTOR MATIAS MAMANI: O solo el 29, porque figura así en
+
+68
+00:10:37.220 --> 00:10:39.099
+CESAR HECTOR MATIAS MAMANI: en el calendario de la materia.
+
+69
+00:10:41.020 --> 00:10:45.679
+Sibler Bárbara: Ya lo chequeo, pero me parece que es solo el 29
+
+70
+00:10:55.340 --> 00:10:59.970
+Sibler Bárbara: 29 y 30. Sí, se habilita el 29
+
+71
+00:11:00.190 --> 00:11:02.520
+Sibler Bárbara: a las 8 de la mañana
+
+72
+00:11:02.650 --> 00:11:10.219
+Sibler Bárbara: y lo tienen hasta el 30 a las 8 de la noche, si 2 días lo tienen muy bien.
+
+73
+00:11:10.920 --> 00:11:19.989
+CESAR HECTOR MATIAS MAMANI: Después. Bueno, el resto me quedó claro. Tengo una una observación ahí del ex de la no hay nombres.
+
+74
+00:11:19.990 --> 00:11:21.080
+Sibler Bárbara: Compartí otra vez.
+
+75
+00:11:22.570 --> 00:11:27.059
+CESAR HECTOR MATIAS MAMANI: Hola. Tengo ahí una observación de la autoevaluación.
+
+76
+00:11:29.110 --> 00:11:30.470
+CESAR HECTOR MATIAS MAMANI: No te escucho bien.
+
+77
+00:11:34.030 --> 00:11:36.180
+CESAR HECTOR MATIAS MAMANI: no sé. Anda bien el teléfono.
+
+78
+00:11:38.580 --> 00:11:43.909
+CESAR HECTOR MATIAS MAMANI: Bueno, te decía que en.
+
+79
+00:11:43.910 --> 00:11:45.460
+Sibler Bárbara: Crear Internet, pero no.
+
+80
+00:11:45.790 --> 00:11:47.900
+CESAR HECTOR MATIAS MAMANI: En la evaluación.
+
+81
+00:11:48.870 --> 00:11:50.410
+Sibler Bárbara: No te escucho.
+
+82
+00:11:51.020 --> 00:11:52.530
+Sibler Bárbara: Querés escribirme.
+
+83
+00:11:53.830 --> 00:11:56.780
+CESAR HECTOR MATIAS MAMANI: Para que se acople los pilares.
+
+84
+00:11:57.720 --> 00:11:58.580
+CESAR HECTOR MATIAS MAMANI: Y.
+
+85
+00:12:05.590 --> 00:12:09.710
+CESAR HECTOR MATIAS MAMANI: Ahí me escuchas.
+
+86
+00:12:10.310 --> 00:12:11.820
+Sibler Bárbara: Sí. Perfecto.
+
+87
+00:12:12.180 --> 00:12:19.730
+CESAR HECTOR MATIAS MAMANI: Bueno, en los Mhm en la autoevaluación del T I.
+
+88
+00:12:20.050 --> 00:12:21.790
+Sibler Bárbara: No.
+
+89
+00:12:22.590 --> 00:12:25.330
+Sibler Bárbara: Los chicos me están diciendo que me escuchan Bien.
+
+90
+00:12:31.430 --> 00:12:32.439
+CESAR HECTOR MATIAS MAMANI: Lo escribo por el chat.
+
+91
+00:12:33.760 --> 00:12:37.820
+Sibler Bárbara: Bueno, ahí te escuché ahí. Te escuché bien. No sé por qué es la verdad.
+
+92
+00:12:38.370 --> 00:12:42.350
+CESAR HECTOR MATIAS MAMANI: En la autoevaluación de los Ti y el proceso de los negocios.
+
+93
+00:12:42.500 --> 00:12:48.159
+CESAR HECTOR MATIAS MAMANI: Hay unos puntos que dicen para responder.
+
+94
+00:12:49.290 --> 00:12:59.000
+CESAR HECTOR MATIAS MAMANI: opción B y C, verdadera o correctas, Bien, pero están desordenados los los ítems y en
+
+95
+00:13:00.410 --> 00:13:08.240
+CESAR HECTOR MATIAS MAMANI: yo lo hice 2 veces al examen para poderlo enganchar bien en otro.
+
+96
+00:13:08.240 --> 00:13:11.130
+Sibler Bárbara: Es muy bien si querés escribirme.
+
+97
+00:13:11.940 --> 00:13:19.510
+Sibler Bárbara: Me parece que es algo que me estás diciendo de la autoevaluación, pero no te escucho bien
+
+98
+00:13:37.820 --> 00:13:42.309
+Sibler Bárbara: a ver si me saco el vídeo, si si funciona mejor.
+
+99
+00:14:05.500 --> 00:14:14.209
+Sibler Bárbara: Bueno, si querés después, César escribime o pásame lo que las dudas que tenés. No hay problema.
+
+100
+00:14:17.440 --> 00:14:18.560
+Sibler Bárbara: Me avisas.
+
+101
+00:14:19.170 --> 00:14:21.360
+Sibler Bárbara: Recuerden, siempre
+
+102
+00:14:21.480 --> 00:14:32.750
+Sibler Bárbara: la autoevaluación y procesos tiene una opción que dice opción B y A correcta, pero están desordenadas. Ok. Ahora después las miro bien
+
+103
+00:14:33.450 --> 00:14:41.940
+Sibler Bárbara: en a ver qué es y cualquier cosa las las corrijo y te aviso, sí.
+
+104
+00:14:43.310 --> 00:14:49.409
+Sibler Bárbara: Quédate tranquilo, no te preocupes En caso de que las hayas hecho, se te corrige la nota. Sí,
+
+105
+00:14:50.520 --> 00:14:52.499
+Sibler Bárbara: no hay problema. Por eso
+
+106
+00:14:53.030 --> 00:15:12.600
+Sibler Bárbara: tengan en cuenta también que las actividades en caso de que se les venzan entreguenlas igual vencidas es distinta la nota, pero es dis es diferente a tener la actividad con un 0 ¿sí? Así que las actividades entreguenlas, aunque se les venzan.
+
+107
+00:15:13.220 --> 00:15:14.670
+Sibler Bárbara: ¿sí?
+
+108
+00:15:14.860 --> 00:15:17.380
+Sibler Bárbara: Bueno.
+
+109
+00:15:18.700 --> 00:15:31.499
+Sibler Bárbara: genial, Yo ahora voy a presentar lo que es la presentación de la clase de esta semana. Sí, todo lo que es proceso de negocios
+
+110
+00:15:31.570 --> 00:15:41.929
+Sibler Bárbara: no es muy extenso, pero bueno, es importante y es una de las partes importantes que se evalúan en los exámenes, ya sea parcial y o final.
+
+111
+00:15:41.930 --> 00:15:56.599
+Sibler Bárbara: Así que por eso siempre hago la clase seguro en esta en esta instancia. Así que si se pueden quedar, son bienvenidos y si no? Bueno, después escucharán la clase grabada. Sí,
+
+112
+00:16:00.040 --> 00:16:01.989
+Sibler Bárbara: voy a ir compartiendo.
+
+113
+00:16:06.020 --> 00:16:12.579
+Sibler Bárbara: Bueno, primero vamos a empezar con un concepto general que es sistemas empresariales, sí,
+
+114
+00:16:12.770 --> 00:16:28.870
+Sibler Bárbara: básicamente, sistemas empresariales engloba sí a los sistemas que son de gran escala amplios que son interfundales.
+
+115
+00:16:29.980 --> 00:16:38.739
+Sibler Bárbara: dale genial, no te preocupes. Sebastián andá tranquilo. Después, miras la clase, cualquier cosa me escribís por pronto, sí,
+
+116
+00:16:39.360 --> 00:16:41.230
+Sibler Bárbara: y
+
+117
+00:16:42.090 --> 00:16:53.449
+Sibler Bárbara: que están consti constituidos alrededor de un paquete de software empresarial. Si dentro de estos sistemas empresariales, 1 de los sistemas que vamos a estar viendo si
+
+118
+00:16:53.450 --> 00:17:03.890
+Sibler Bárbara: es el sistema de planificación de recursos empresariales o conocido como I R. P: Sí que hoy en día se siguen usando mucho en las empresas
+
+119
+00:17:04.150 --> 00:17:18.850
+Sibler Bárbara: que son sistemas de información gerencial que integran y están enfocados en todo lo que son los procesos de negocios y se adaptan al proceso de negocio de la compañía sí
+
+120
+00:17:18.849 --> 00:17:27.539
+Sibler Bárbara: tienen objetivos que facilitan la gestión de todos los recursos de la empresa y
+
+121
+00:17:27.700 --> 00:17:32.850
+Sibler Bárbara: tienen una facilidad que actúan como parte de la columna vertebral
+
+122
+00:17:33.360 --> 00:17:41.960
+Sibler Bárbara: de la organización. Sí, ¿Por qué? Porque se enfocan en todo lo que son los procesos de negocios de la organización sí
+
+123
+00:17:42.770 --> 00:17:51.880
+Sibler Bárbara: están formados por módulos. Esto facilita mucho lo que es la implementación de estos sistemas.
+
+124
+00:17:51.980 --> 00:18:01.299
+Sibler Bárbara: Fíjense que Acá en este grafito se diferencia entre lo que es el sistema empresarial
+
+125
+00:18:01.300 --> 00:18:15.850
+Sibler Bárbara: de los módulos que son core, sí que son los de acá arriba, sí que son los básicos que se deberían implementar, como es la parte de recursos humanos, como es la parte de producción.
+
+126
+00:18:15.920 --> 00:18:27.930
+Sibler Bárbara: como es la parte contable o los módulos extensivos que son estos. Por ejemplo, el C. R. N. Sí. Customer Relationship
+
+127
+00:18:28.130 --> 00:18:45.560
+Sibler Bárbara: Management que Ahora después lo vamos a ver suplencia, change management business, intellitice y otros tantos que se pueden poner como extensivo. Si no son necesarios implementarlos
+
+128
+00:18:45.640 --> 00:18:57.970
+Sibler Bárbara: se pueden hacer una integración con sistemas propios que tenga la empresa y son extensivos a la al I R P, Si vienen
+
+129
+00:18:58.070 --> 00:19:07.389
+Sibler Bárbara: disponibles y se pueden extender si en la mayoría de los I, R, P: Pero no son los módulos básicos.
+
+130
+00:19:07.660 --> 00:19:12.280
+Sibler Bárbara: Bueno, algunas de las características que tienen, Esto es importante
+
+131
+00:19:12.760 --> 00:19:28.760
+Sibler Bárbara: puede ser una de las preguntas del examen parcial, paquetes de software que son modulares, Sí, como vimos recién sí arquitectura de módulos integrados y los módulos se integran y se comunican entre ellos
+
+132
+00:19:29.100 --> 00:19:40.120
+Sibler Bárbara: los sistemas y tecnologías de Haití orientado a los negocios. Esto es lo que vimos que estaban orientados a todos los procesos de negocios de las compañías.
+
+133
+00:19:40.330 --> 00:19:52.920
+Sibler Bárbara: producto semiterminado con capacidad de configuración o customización, si bien el listo como para ya implementarlo y darle la última adaptación para la empresa.
+
+134
+00:19:53.300 --> 00:19:56.450
+Sibler Bárbara: adaptación a la estructura de la empresa
+
+135
+00:19:56.940 --> 00:20:05.440
+Sibler Bárbara: online y en tiempo real. Si esto es, a medida que va sucediendo, van generando información.
+
+136
+00:20:05.580 --> 00:20:09.769
+Sibler Bárbara: integración con otras aplicaciones u otros sistemas.
+
+137
+00:20:10.400 --> 00:20:17.100
+Sibler Bárbara: dan cumplimiento a los requisitos legales de la organización o de cada país.
+
+138
+00:20:17.790 --> 00:20:26.759
+Sibler Bárbara: capacidad de acceso a la información, porque esto en los distintos áreas pueden acceder a la información de la empresa
+
+139
+00:20:26.970 --> 00:20:33.330
+Sibler Bárbara: evolucionan al ritmo de los cambios de la industria y y
+
+140
+00:20:34.330 --> 00:20:43.719
+Sibler Bárbara: son compatibles con todo lo que es, Obviamente, Internet Extranet y comercio electrónico? Obviamente.
+
+141
+00:20:44.330 --> 00:20:56.860
+Sibler Bárbara: Bueno, algunos beneficios que vamos a ir viendo. Los los beneficios operativos de gestión estratégicos, infraestructura y organizacionales
+
+142
+00:20:57.920 --> 00:21:03.910
+Sibler Bárbara: los beneficios son operativos. Algunos de ellos son reducción de costos, porque
+
+143
+00:21:04.240 --> 00:21:16.270
+Sibler Bárbara: si bien hay que implementarlo y lleva ciertos costos al principio, después todo se hace más llevadero y se hace una reducción de costos al reducir los tiempos.
+
+144
+00:21:16.590 --> 00:21:20.449
+Sibler Bárbara: reducción de tiempo en los ciclos. Sí, todo es más rápido.
+
+145
+00:21:20.730 --> 00:21:32.419
+Sibler Bárbara: mejora la productividad Al hacerse todo más rápido, la productividad es más rápida y se genera ese mejora lo que es la información que se brinda
+
+146
+00:21:32.570 --> 00:21:41.810
+Sibler Bárbara: mejora la calidad, porque la información está disponible en tiempo más rápido si
+
+147
+00:21:41.930 --> 00:21:48.030
+Sibler Bárbara: y mejora la atención al cliente, porque tenemos todo disponible en el sistema
+
+148
+00:21:48.210 --> 00:21:53.130
+Sibler Bárbara: y no tenemos que generar ningún tipo de
+
+149
+00:21:53.200 --> 00:22:09.889
+Sibler Bárbara: acceso a otros sistemas; Sí, beneficios de gestión mejora la gestión de los recursos. Sí, en este caso tenemos acceso a recursos humanos a los recursos. En este caso pueden ser clientes, sí,
+
+150
+00:22:09.940 --> 00:22:17.719
+Sibler Bárbara: mejora la toma de decisiones, porque tenemos acceso a todo lo que es la distinta información que se va gestionando en el sistema
+
+151
+00:22:17.920 --> 00:22:35.430
+Sibler Bárbara: y mejora todo lo que es la performance a través de la distinta información que se va cargando en las distintas áreas, ayuda a mejorar todo lo que es la performance que ge diariamente se va gestionando en el sistema. Sí,
+
+152
+00:22:35.660 --> 00:22:46.789
+Sibler Bárbara: beneficios estratégicos se genera un soporte de crecimiento actual y futuro del negocio si se va adaptando el L. R. P.
+
+153
+00:22:47.210 --> 00:22:55.590
+Sibler Bárbara: Los distintos crecimientos que pueda ir teniendo el negocio. El mercado sí en
+
+154
+00:22:56.000 --> 00:23:05.449
+Sibler Bárbara: se va haciendo una innovación de los procesos y más o menos se enfoca lo mismo A medida que se va adaptando, se va innovando los procesos.
+
+155
+00:23:05.600 --> 00:23:10.309
+Sibler Bárbara: se genera o se amplía la diferenciación de productos.
+
+156
+00:23:10.410 --> 00:23:29.310
+Sibler Bárbara: Se con, se puede construir todo lo que son alianzas externas y con algún otro proveedor y ofrecer el producto o acceder al producto con otro proveedor y permitir expansión a nivel mundial. Si Si tenemos distintas
+
+157
+00:23:29.330 --> 00:23:36.570
+Sibler Bárbara: sedes en distintos países, podemos acceder a implementarlo
+
+158
+00:23:36.910 --> 00:23:44.740
+Sibler Bárbara: según el I R P en las distintas sucursales que tengamos an en los distintos países
+
+159
+00:23:45.010 --> 00:23:53.769
+Sibler Bárbara: sin problemas. Siempre tenemos que ver qué y R Pi vamos a seleccionar para lo que es la implementación.
+
+160
+00:23:54.370 --> 00:24:05.619
+Sibler Bárbara: Bueno, beneficios de infraestructura aumenta, lo que es la infla, la flexibilidad de los negocios. Si esto un poco por todo lo que es, los procesos de negocios que se van adaptando a
+
+161
+00:24:05.890 --> 00:24:08.509
+Sibler Bárbara: la compañía sí
+
+162
+00:24:08.800 --> 00:24:21.949
+Sibler Bárbara: ayuda a reducir todo lo que son los costos de tecnología de la información y aumenta todo lo que es la capacidad de infraestructura en tecnologías de la información.
+
+163
+00:24:23.370 --> 00:24:30.730
+Sibler Bárbara: Y, por último, tenemos todo lo que son los beneficios organizacionales ya más enfocados a la organización.
+
+164
+00:24:30.780 --> 00:24:46.800
+Sibler Bárbara: soportar todos los cambios que ocurren en la en la organización enfocados en el negocio. Si Esto puede ser cambios que van ocurriendo en la compañía a lo largo sí de la vida o del tiempo que tenemos
+
+165
+00:24:46.890 --> 00:24:57.470
+Sibler Bárbara: en la compañía siempre van ocurriendo cambios. Y no es que implementamos un I, R, P Y a los 10 años no nos sirve más. No simplemente hay que ir
+
+166
+00:24:57.660 --> 00:25:03.040
+Sibler Bárbara: adaptando los cambios a la compañía, sí a todo lo que va pasando.
+
+167
+00:25:03.180 --> 00:25:15.880
+Sibler Bárbara: Facilitar el aprendizaje de los negocios, sí, cambiar la cultura con una visión común si un poco ir adaptando la cultura
+
+168
+00:25:16.130 --> 00:25:21.300
+Sibler Bárbara: y y y la los beneficios organizacionales a
+
+169
+00:25:21.420 --> 00:25:26.939
+Sibler Bárbara: el el I, R, P que tenemos y que se vaya adaptando todo junto
+
+170
+00:25:27.360 --> 00:25:34.730
+Sibler Bárbara: y bueno, mejora un poco la moral y la satisfacción de los empleados porque comienzan los empleados
+
+171
+00:25:34.810 --> 00:25:51.439
+Sibler Bárbara: a utilizar el sistema y se empiezan a familiarizar un poco con todo lo que es el sistema y empieza a gestionar y a generar una satisfacción en lo que son los empleados un poco enfoca. Eso.
+
+172
+00:25:52.540 --> 00:25:59.490
+Sibler Bárbara: niveles de cambio tenemos parametrización, personalización, modificación.
+
+173
+00:25:59.930 --> 00:26:16.779
+Sibler Bárbara: ampliación de extensión, desarrollo propio o modificaciones otra vez. Una es del proveedor y otra es del cliente. Si, por un lado, tenemos la parametrización, que son configuración de procesos de negocios
+
+174
+00:26:17.210 --> 00:26:26.520
+Sibler Bárbara: a variables específicas del sistema empresarial. Si entonces son variables, específicas que tenemos que configurar
+
+175
+00:26:26.720 --> 00:26:34.660
+Sibler Bárbara: después personalización de variables globales. Si, por ejemplo, armado de menús.
+
+176
+00:26:34.890 --> 00:26:49.079
+Sibler Bárbara: queremos armar un menú. Primero, poner una opción específica para ingresar, siempre ingresamos esa opción. Ponerla fija adelante disponible. Bueno, lo podemos armar, es una personalización.
+
+177
+00:26:49.120 --> 00:27:03.449
+Sibler Bárbara: modificaciones del proveedor si son paquetes de cambio de actualizaciones que nos libera para el sistema empresarial, por ejemplo, tenemos un sistema que liquida
+
+178
+00:27:03.480 --> 00:27:10.070
+Sibler Bárbara: sueldos. Bueno, frente a ciertas modificaciones que por ahí hace el gobierno
+
+179
+00:27:10.140 --> 00:27:25.210
+Sibler Bárbara: en cuanto a las retenciones que le hace a los emple a los a los empleados, la empresa en cuanto al sueldo, ciertas modificaciones que por ahí las tiene que largar.
+
+180
+00:27:25.310 --> 00:27:37.419
+Sibler Bárbara: El proveedor las debe generar a estas modificaciones las manda y 1 las tiene que implementar si
+
+181
+00:27:37.420 --> 00:27:49.350
+Sibler Bárbara: y en base a eso ya puede hacer, por ejemplo, liquidaciones, sí, y así puede haber otras modificaciones que el proveedor puede generar y nos puede mandar si
+
+182
+00:27:49.370 --> 00:27:53.450
+Sibler Bárbara: después tenemos ampliaciones o extensiones. Pueden ser
+
+183
+00:27:53.870 --> 00:28:04.270
+Sibler Bárbara: otras ampliaciones o extensiones o funcionalidades que nos hacen el el proveedor Sí, ¿
+
+184
+00:28:06.040 --> 00:28:07.410
+Sibler Bárbara: Con
+
+185
+00:28:07.660 --> 00:28:16.890
+Sibler Bárbara: mandándonos, por ejemplo, un modulito nuevo, ampliado a learpi o algo que esté disponible para que lo podamos implementar
+
+186
+00:28:17.090 --> 00:28:27.489
+Sibler Bárbara: después desarrollo propio, algo que nosotros que tenemos implementado el I R. P. Deseamos hacer un desarrollo propio, Sí,
+
+187
+00:28:27.790 --> 00:28:36.229
+Sibler Bárbara: algo que sea con alguna herramienta de construcción del sistema empresarial, en este caso, del Iarpi
+
+188
+00:28:36.680 --> 00:28:45.540
+Sibler Bárbara: y modificaciones del cliente. En este caso es muy parecido a desarrollos propios, pero es algo
+
+189
+00:28:45.720 --> 00:28:55.730
+Sibler Bárbara: puntual de un cambio de a los programas estándar del I A, R P. Si en este caso es algo
+
+190
+00:28:56.090 --> 00:28:59.780
+Sibler Bárbara: muy puntual, sí
+
+191
+00:28:59.800 --> 00:29:18.259
+Sibler Bárbara: desarrollos propios es un desarrollo más grande. Si, por ejemplo, hacer ponernos a hacer nosotros el desarrollo de un módulo. Nosotros por ahí tenemos gente. Contratamos gente como hay gen. Hay empresas que tienen implementan Sap.
+
+192
+00:29:18.310 --> 00:29:22.530
+Sibler Bárbara: Contratan a desarrolladores a D, a P.
+
+193
+00:29:22.670 --> 00:29:32.250
+Sibler Bárbara: Que le desarrollan módulos y hacen un desarrollo de un módulo para cierto sector.
+
+194
+00:29:32.630 --> 00:29:47.589
+Sibler Bárbara: para ampliar las funcionalidades del Sap. Bueno, en este caso, modificaciones del cliente sería algo más chiquito desarrollar, por ejemplo, con las funcionalidades que ofrece Sapp.
+
+195
+00:29:47.910 --> 00:30:02.789
+Sibler Bárbara: Un reporte algo más básico y con la funcionalidad que ofrece directamente el Rp: Si ahí está y radica la diferencia entre 1 y otro
+
+196
+00:30:02.950 --> 00:30:21.430
+Sibler Bárbara: sí para que no se confundan. Les doy el el ejemplo. Después tenemos otro sistema empresarial que se utiliza mucho hoy en día. Y también puede ser pregunta de examen parcial, es el C. R. M. Sí o Customer relationship management
+
+197
+00:30:21.630 --> 00:30:22.470
+Sibler Bárbara: es
+
+198
+00:30:22.660 --> 00:30:37.130
+Sibler Bárbara: un un sistema de gestión de toda la organización basada en la en el enfoque al cliente. Si básicamente en la gestión al cliente
+
+199
+00:30:37.450 --> 00:30:47.610
+Sibler Bárbara: y que se enfoca en a ver si tengo el gráfico acá que se enfoca en los distintos sectores donde interviene el cliente.
+
+200
+00:30:47.660 --> 00:31:07.429
+Sibler Bárbara: Fíjense que acá tenemos distintas comunicaciones, como pueden ser para el cliente. Si teléfono Mail hoy en día ya por ahí, no fax, pero sería Whatsapp. Sí, Después el cliente puede entrar por el call center. Sí, hacer una llamada.
+
+201
+00:31:08.230 --> 00:31:16.080
+Sibler Bárbara: Puedes a entrar una comunicación por el departamento de marketing. Si el departamento de marketing se puede comunicar
+
+202
+00:31:16.100 --> 00:31:19.959
+Sibler Bárbara: por medio levantar los datos de desde el C. R. M
+
+203
+00:31:19.960 --> 00:31:37.179
+Sibler Bárbara: del cliente y hacer una comunicación ofreciéndole alguna promoción que tenga disponible marketing al cliente. Si nos pasa mucho esto con por ahí. Los bancos sí que nos ofrecen seguros o alguna promoción disponible.
+
+204
+00:31:37.340 --> 00:31:53.909
+Sibler Bárbara: El departamento de ventas que nos ofrece algo que esté disponible para vendernos? Sí, ¿Alguna planeación o algo, sobre todo cuando queremos irnos, si cuando queremos dejar de pertenecer a esa empresa
+
+205
+00:31:54.110 --> 00:32:10.030
+Sibler Bárbara: y después, bueno, el soporte al cliente, que es cuando tenemos algún inconveniente. Si llamamos nosotros, sobre todo, nos pasa por ahí cuando tenemos algún inconveniente con Internet, si nuestro proveedor de Internet o algo
+
+206
+00:32:10.080 --> 00:32:29.209
+Sibler Bárbara: que llamamos. Y enseguida nos dicen si fijándose en el Crm, si hay algún inconveniente en la zona, si si están trabajando o bien nos conciernan, una cita para que venga la atención de alguna persona
+
+207
+00:32:29.250 --> 00:32:36.230
+Sibler Bárbara: para que nos atienda y nos revise la conexión de nuestro proveedor. Sí,
+
+208
+00:32:36.860 --> 00:32:43.289
+Sibler Bárbara: Bueno, hasta acá no sé si tienen alguna duda o consulta.
+
+209
+00:32:45.160 --> 00:32:46.649
+CESAR HECTOR MATIAS MAMANI: No, No todo bien.
+
+210
+00:32:48.530 --> 00:32:48.950
+Franco Lombroni: Todo y.
+
+211
+00:32:48.950 --> 00:32:50.080
+Sibler Bárbara: Bueno, genial.
+
+212
+00:32:51.720 --> 00:33:01.379
+Sibler Bárbara: Bueno, después tenemos Sas como servicio. Sí, un software como servicio saas. Se está utilizando mucho en los últimos tiempos.
+
+213
+00:33:01.380 --> 00:33:12.309
+Sibler Bárbara: Es un modelo de distribución de software donde los datos se alojan en un servidor de la compañía que provee los datos
+
+214
+00:33:12.370 --> 00:33:22.269
+Sibler Bárbara: y se accede a la información vía Internet desde un cliente. Si en este caso la empresa que provee la información
+
+215
+00:33:22.270 --> 00:33:38.680
+Sibler Bárbara: es la que se ocupa de todo lo que es el mantenimiento, la operación de área, el soporte, sí, y el cliente no tiene que hacer nada. Sí, eso es 1 de los beneficios que tiene. Lo que es El Sas
+
+216
+00:33:38.790 --> 00:33:41.029
+Sibler Bárbara: se accede siempre a través de Internet
+
+217
+00:33:43.640 --> 00:33:55.729
+Sibler Bárbara: y es un servicio de uso y de mantenimiento y no se paga por el uso, se paga por el uso perdón, no por la licencia. Sí,
+
+218
+00:33:55.770 --> 00:34:06.010
+Sibler Bárbara: por lo general se paga un una de un determinado fin mensual y no por la cantidad de gente que tengo conectada sí
+
+219
+00:34:06.070 --> 00:34:14.130
+Sibler Bárbara: mensualmente o semanalmente a el S A. S. Sí,
+
+220
+00:34:14.840 --> 00:34:17.110
+Sibler Bárbara: ventajas que tiene el S A. S
+
+221
+00:34:17.130 --> 00:34:36.110
+Sibler Bárbara: es bueno. Tiene reducción de costos? Sí, en este caso, no tengo que tener servidores. No tengo que tener nada disponible. No tengo que tener gente que me haga un mantenimiento ni nada, porque ya tengo un proveedor que se encarga de todo
+
+222
+00:34:36.110 --> 00:34:42.790
+Sibler Bárbara: del soporte del mantenimiento de todo. Entonces ahí se me reduce bastante los costos.
+
+223
+00:34:42.909 --> 00:34:51.729
+Sibler Bárbara: las actualizaciones y las nuevas funcionalidades son inmediatas y cuando las hace el proveedor son inmediatas que se generan.
+
+224
+00:34:52.080 --> 00:34:59.820
+Sibler Bárbara: tengo una menor inversión inicial porque no necesito adquirir nada para para realizarlo
+
+225
+00:34:59.950 --> 00:35:12.909
+Sibler Bárbara: después. Tengo un soporte rápido. Por lo general esto se coordina en el en el contrato inicial, pero inicialmente es un soporte rápido que tengo
+
+226
+00:35:13.130 --> 00:35:15.030
+Sibler Bárbara: y
+
+227
+00:35:15.210 --> 00:35:31.039
+Sibler Bárbara: y después tengo, obviamente, como dijimos recién menores esfuerzos de mantenimiento en los sistemas, sí, porque no necesito ni servidores, ni gente disponible.
+
+228
+00:35:31.370 --> 00:35:41.090
+Sibler Bárbara: Nada porque le pago a mi C, a mi proveedor, y él se encarga de todo sí mensual por por un fin mensual, Sí,
+
+229
+00:35:41.870 --> 00:35:50.179
+Sibler Bárbara: desventajas. Bueno, desconfianza en la seguridad de los datos. Hoy esto es un un tema bastante sensible. Sí,
+
+230
+00:35:50.280 --> 00:35:55.429
+Sibler Bárbara: Hoy en día ya la gran mayoría de las empresas ya tiene
+
+231
+00:35:56.280 --> 00:36:08.630
+Sibler Bárbara: ciberseguridad y me está ofreciendo sí determinadas ventajas en cuanto a la seguridad, pero siempre se genera sí dependiendo el tipo de
+
+232
+00:36:08.760 --> 00:36:24.129
+Sibler Bárbara: rama o o o nicho de la empresa. Se genera un tipo de desconfianza en cuanto a los datos que se gestionan problemas de integración entre el S A. S. Y algún otro sistema que tenga
+
+233
+00:36:24.130 --> 00:36:32.910
+Sibler Bárbara: la la empresa, Sí, por ahí que no sean del todo disponi de compatibles y tenga que hacer algún tipo de
+
+234
+00:36:32.920 --> 00:36:37.719
+Sibler Bárbara: integración muy específica. ¿sí?
+
+235
+00:36:38.280 --> 00:36:46.679
+Sibler Bárbara: Falta de un sistema de extracción de datos. Bueno, esto lo puedo
+
+236
+00:36:47.950 --> 00:36:57.040
+Sibler Bárbara: solucionar implementando algún Datawarehouse o algún sistema puntual que me permita extraer datos
+
+237
+00:36:58.190 --> 00:37:03.350
+Sibler Bárbara: y bueno falta de confianza en el proveedor. Esto obviamente
+
+238
+00:37:03.660 --> 00:37:16.200
+Sibler Bárbara: sucede con el correr del tiempo. Si esto hay que tratar de evitarlo Solucionándolo en un principio, cuando voy a elegir el proveedor
+
+239
+00:37:16.440 --> 00:37:26.739
+Sibler Bárbara: en el de de quizás y mirando bien todo lo que me ofrecen
+
+240
+00:37:26.790 --> 00:37:43.390
+Sibler B¡rbara: y que se adapte bien a las condiciones de mi empresa. Si en base a eso, bueno, tengo que armar un contrato con ciertas condiciones para que me cumpla con todo lo que yo necesito para la organizaciÃ³n. No.
+
+241
+00:37:44.450 --> 00:37:56.240
+Sibler BÃ¡rbara: Bueno, esto es mÃ¡s o menos lo que es un S A. SÃ­. EstÃ¡ en la nube, y me puedo comunicar, a travÃ©s del celular de la computadora si de una tableta de lo que sea que tenga Internet.
+
+242
+00:37:56.250 --> 00:38:09.889
+Sibler BÃ¡rbara: puedo ingresar. SÃ­, no necesito la mayorÃ­a de las veces instalarle nada. Por lo general, desde un explorador y un link ya ingreso. Â¿sÃ­? Y esta es la conexiÃ³n. SÃ­,
+
+243
+00:38:10.040 --> 00:38:13.059
+Sibler BÃ¡rbara: esto es lo que se enfoca con este grÃ¡fico.
+
+244
+00:38:13.710 --> 00:38:21.689
+Sibler BÃ¡rbara: Bueno, e commerce. Esto tambiÃ©n suele en algunos casos preguntarse.
+
+245
+00:38:22.020 --> 00:38:26.649
+Sibler BÃ¡rbara: Â¿estÃ¡ y business. SÃ­ que significa negocios a travÃ©s de Internet.
+
+246
+00:38:27.510 --> 00:38:42.079
+Sibler BÃ¡rbara: permite conectar los sistemas empresariales a sus principales clientes, proveedores o empleados, y despuÃ©s estÃ¡ el Ecommerce, que cubre los procesos por los cuales se llega a los consumidores, proveedores
+
+247
+00:38:42.620 --> 00:38:54.280
+Sibler BÃ¡rbara: o socios de negocios. SÃ­, dentro del E Commerce, tenemos el B to be Â¿QuÃ© es business to business o negocios online
+
+248
+00:38:54.340 --> 00:39:07.540
+Sibler BÃ¡rbara: a negocios. SÃ­, en este caso son empresas que venden a empresas, si no al consumidor final. Si esto es importante, que sepan la diferencia entre 1 y otro.
+
+249
+00:39:08.030 --> 00:39:09.870
+Sibler BÃ¡rbara: Y bueno.
+
+250
+00:39:10.860 --> 00:39:20.719
+Sibler BÃ¡rbara: bueno, en este caso les puse un ejemplo: si de un portal de General Motors sÃ­ que le vende
+
+251
+00:39:20.830 --> 00:39:30.149
+Sibler BÃ¡rbara: y y otro portal A o a empresas. SÃ­, de General Motors.
+
+252
+00:39:30.950 --> 00:39:34.269
+Sibler BÃ¡rbara: despuÃ©s? B, to C, que es empresas
+
+253
+00:39:34.470 --> 00:39:40.550
+Sibler BÃ¡rbara: business, tu Customer SÃ­, empresas a clientes.
+
+254
+00:39:40.670 --> 00:39:42.050
+Sibler BÃ¡rbara: Esto se enfoca.
+
+255
+00:39:42.510 --> 00:39:49.350
+Sibler BÃ¡rbara: Son empresas que le venden a clientes. Si en este caso, por ejemplo, Amazon, sÃ­
+
+256
+00:39:49.610 --> 00:39:55.020
+Sibler BÃ¡rbara: hay varios ejemplos en este caso, si sepanse un ejemplo
+
+257
+00:39:55.810 --> 00:40:00.980
+Sibler BÃ¡rbara: para lo que son los el examen parcial, Â¿sÃ­?
+
+258
+00:40:01.090 --> 00:40:05.810
+Sibler BÃ¡rbara: Y despuÃ©s, si tÃº sÃ­ que son Customer
+
+259
+00:40:06.300 --> 00:40:16.510
+Sibler BÃ¡rbara: tu Customer son clientes o consumidores, a consumidores o clientes, que
+
+260
+00:40:16.700 --> 00:40:28.340
+Sibler BÃ¡rbara: es un cliente que le vende otro cliente, si, por ejemplo, acÃ¡ tenemos lo que es mercado libre, si es 1 de los mÃ¡s conocidos, tambiÃ©n ebay. SÃ­, tambiÃ©n hay muchos
+
+261
+00:40:28.420 --> 00:40:39.170
+Sibler BÃ¡rbara: ejemplos. Siempre es un usuario final a otro usuario final sÃ­ que se vende.
+
+262
+00:40:39.950 --> 00:40:44.250
+Sibler BÃ¡rbara: Estos son los 3 ejemplos. Son importantes.
+
+263
+00:40:45.150 --> 00:41:00.599
+Sibler BÃ¡rbara: y el Ãºltimo concepto que tenemos en esta presentaciÃ³n de esta semana es el gobierno electrÃ³nico, que son todas las aplicaciones tecnolÃ³gicas que fueron surgiendo en el Ãºltimo tiempo. Toda esta tecnologÃ­a creciente
+
+264
+00:41:00.750 --> 00:41:14.080
+Sibler BÃ¡rbara: que fue implementando el gobierno, sobre todo enfocado en todo lo que es el sector pÃºblico, que ayuda a mejorar todo lo que es la comunicaciÃ³n
+
+265
+00:41:14.180 --> 00:41:30.630
+Sibler BÃ¡rbara: al ciudadano final sÃ­ que hoy en dÃ­a ya no necesitamos ir presencialmente a hacer la mayorÃ­a de los trÃ¡mites. Los podemos hacer vÃ­a Internet como sacar turnos cÃ³mo gestionar mucha informaciÃ³n. SÃ­,
+
+266
+00:41:30.660 --> 00:41:39.999
+Sibler BÃ¡rbara: hay otros turnos. Hay otros trÃ¡mites que sÃ­ necesitamos ir presencialmente, pero muchos o la gran mayorÃ­a.
+
+267
+00:41:40.010 --> 00:41:52.030
+Sibler BÃ¡rbara: No necesitamos ir en gran parte. Bueno, lo que lo que pasÃ³ en los Ãºltimos aÃ±os con la pandemia ayudÃ³ a esto.
+
+268
+00:41:52.350 --> 00:42:04.059
+Sibler BÃ¡rbara: pero ya venÃ­a trabajando todo lo que es el el gobierno en el desarrollo de todo lo que es. Las tecnologÃ­as de la informaciÃ³n
+
+269
+00:42:04.300 --> 00:42:07.000
+Sibler BÃ¡rbara: y las comunicaciones. SÃ­,
+
+270
+00:42:07.130 --> 00:42:15.220
+Sibler BÃ¡rbara: Bueno, algunas ventajas que tiene esto es, que son que son de rÃ¡pido inc acceso a la informaciÃ³n. Si hoy en dÃ­a, a travÃ©s de Internet, podemos.
+
+271
+00:42:15.750 --> 00:42:30.029
+Sibler BÃ¡rbara: si no conseguimos turno o si no podemos hacer el trÃ¡mite online, por lo menos podemos conseguir que nos digan quÃ© informaciÃ³n, quÃ© documentaciÃ³n tenemos que llevar para estar disponible al turno, no ir 2 veces si
+
+272
+00:42:30.180 --> 00:42:42.589
+Sibler BÃ¡rbara: podemos recopilar rÃ¡pida y f rÃ¡pida la informaciÃ³n. Podemos hacer transacciones mÃ³viles si a travÃ©s del celular podemos hacer y acceder a
+
+273
+00:42:42.590 --> 00:42:52.060
+Sibler BÃ¡rbara: informaciÃ³n de muchos, trÃ¡mites sin mucha informaciÃ³n que hoy que antes tenÃ­amos que ir presencialmente. Hoy la tenemos disponible
+
+274
+00:42:52.130 --> 00:42:55.649
+Sibler BÃ¡rbara: a travÃ©s de los dispositivos mÃ³viles
+
+275
+00:42:55.780 --> 00:43:06.459
+Sibler BÃ¡rbara: y el intercambio de informaciÃ³n es rÃ¡pido. Si hoy en dÃ­a estÃ¡ disponible rÃ¡pidamente esta esta informaciÃ³n.
+
+276
+00:43:07.150 --> 00:43:26.120
+Sibler BÃ¡rbara: algunas caracterÃ­sticas se puede acceder. Bueno a travÃ©s de los dispositivos mÃ³viles en cualquier horario, en cualquier informaciÃ³n, porque estÃ¡n disponibles en las pÃ¡ginas online y no tiene restricciÃ³n de horarios. La mayorÃ­a de de los trÃ¡mites que se realizan.
+
+277
+00:43:26.260 --> 00:43:33.710
+Sibler BÃ¡rbara: Los dispositivos mÃ³viles casi siempre estÃ¡n encendidos y disponibles.
+
+278
+00:43:34.160 --> 00:43:44.199
+Sibler BÃ¡rbara: son fÃ¡ciles de transportar y, obviamente, que hoy en dÃ­a todo el mundo, la gran mayorÃ­a accede a algÃºn dispositivo mÃ³vil
+
+279
+00:43:44.290 --> 00:43:55.029
+Sibler BÃ¡rbara: que tiene disponible esta informaciÃ³n, entonces son fÃ¡ciles de acceder y de solucionarlo. SÃ­, entonces
+
+280
+00:43:55.130 --> 00:44:01.429
+Sibler BÃ¡rbara: la verdad, que este desarrollo fue muy importante.
+
+281
+00:44:01.570 --> 00:44:07.740
+Sibler BÃ¡rbara: que se pudo ir llegando la verdad, que cada vez se va avanzando mÃ¡s en todos estos trÃ¡mites.
+
+282
+00:44:07.950 --> 00:44:19.760
+Sibler BÃ¡rbara: y es muy, muy rÃ¡pido que se accede a la informaciÃ³n. Bueno, y hasta acÃ¡ la informaciÃ³n de hoy.
+
+283
+00:44:19.940 --> 00:44:20.940
+Sibler BÃ¡rbara: SÃ­.
+
+284
+00:44:21.980 --> 00:44:28.070
+Sibler BÃ¡rbara: No sÃ© si les quedÃ³ alguna duda. Consulta.
+
+285
+00:44:31.240 --> 00:44:32.419
+Franco Lombroni: Por lo visto todo claro.
+
+286
+00:44:33.280 --> 00:44:37.770
+Sibler BÃ¡rbara: SÃ­. Perfecto de esa vez te escucho. Perfecto. Franco
+
+287
+00:44:38.000 --> 00:44:40.349
+Sibler BÃ¡rbara: a CÃ©sar. Se me dificulta escucharlo.
+
+288
+00:44:43.340 --> 00:44:53.850
+Sibler BÃ¡rbara: Bueno, gente perfecto que estÃ© Bien, recuerden que cualquier cosa me pueden escribir por pronto, Â¿sÃ­?
+
+289
+00:44:54.090 --> 00:45:06.799
+Sibler BÃ¡rbara: Si cuando vayan a acceder al examen parcial, les tira algÃºn error o algo, escriben en el Men, en el grupo general que tenemos de la materia. Si para que estemos todos alerta.
+
+290
+00:45:06.970 --> 00:45:17.790
+Sibler BÃ¡rbara: yo siempre estoy atenta los dÃ­as, que es. Sobre todo, hay exÃ¡menes para poder estar disponible y orientarlos rÃ¡pido.
+
+291
+00:45:18.860 --> 00:45:26.709
+Sibler BÃ¡rbara: Traten de tener disponible los la los programas que necesitan
+
+292
+00:45:26.730 --> 00:45:41.340
+Sibler BÃ¡rbara: el respondus y los programas que necesitan para rendir si el dÃ­a del examen sÃ­. FÃ­jense tener configuradas las cÃ¡maras con tiempo. No esperen hasta Ãºltimo momento.
+
+293
+00:45:41.460 --> 00:46:00.119
+Sibler BÃ¡rbara: Si les sale algÃºn error, MÃ¡ndenselo con un mail y un print de pantalla al agente de soporte, ellos los orientan. Pero si lo hacen sobre el dÃ­a, por ahÃ­ se les complica corresponderlo porque es una fecha que se rinden muchos exÃ¡menes parciales.
+
+294
+00:46:00.140 --> 00:46:07.720
+Sibler BÃ¡rbara: Entonces por ahÃ­ se complica sobre la marcha. Si no los tienen instalados vayanlo instalando con tiempo, Â¿sÃ­?
+
+295
+00:46:07.750 --> 00:46:15.229
+Sibler BÃ¡rbara: Y lo van solucionando. Si los tienen instalados, genial, ya es mÃ¡s o menos que tienen que hacer.
+
+296
+00:46:15.290 --> 00:46:29.640
+Sibler BÃ¡rbara: Solo tienen que estar disponibles ese dÃ­a. Y bueno, cualquier cosa me van avisando cualquier duda que tengan. Si me van avisando y me van escribiendo. SÃ­,
+
+297
+00:46:30.180 --> 00:46:39.749
+Sibler BÃ¡rbara: recuerden que siempre la comunicaciÃ³n por pronto es mÃ¡s rÃ¡pido. SÃ­, por lo general pronto contesto nada a las horas en el dÃ­a.
+
+298
+00:46:39.770 --> 00:46:50.929
+Sibler BÃ¡rbara: por ahÃ­ el mensaje de Blackboard me lleva a contestarlo el otro dÃ­a, si se extiende un poco, pero igual lo respondo. Por eso les digo, siempre que
+
+299
+00:46:50.990 --> 00:46:59.689
+Sibler BÃ¡rbara: me escriban por pronto es mÃ¡s rÃ¡pida la comunicaciÃ³n, si, sobre todo si estÃ¡n rindiendo, tienen el celular ahÃ­ cerca
+
+300
+00:46:59.710 --> 00:47:12.959
+Sibler BÃ¡rbara: y es mÃ¡s rÃ¡pida la comunicaciÃ³n sÃ­. Cuando empiezo a correr los minutos del examen parcial, Â¿sÃ­? AsÃ­ que, bueno, cualquier duda, estoy disponible. Si para las dudas que tengan.
+
+301
+00:47:13.030 --> 00:47:17.890
+Sibler BÃ¡rbara: me avisan y si no mucha suerte en los exÃ¡menes parciales.
+
+302
+00:47:17.980 --> 00:47:18.800
+Sibler BÃ¡rbara: SÃ­.
+
+303
+00:47:22.010 --> 00:47:23.069
+CESAR HECTOR MATIAS MAMANI: Muchas gracias.
+
+304
+00:47:23.070 --> 00:47:29.780
+Sibler BÃ¡rbara: Bueno, muchas gracias por conectarse. Gente Chao Chao: hasta luego, bueno, buen fin de semana.
+
+305
+00:47:30.280 --> 00:47:30.950
+Franco Lombroni: Igualmente.

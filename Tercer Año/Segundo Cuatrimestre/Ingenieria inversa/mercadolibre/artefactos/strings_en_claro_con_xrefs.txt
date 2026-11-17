@@ -1,0 +1,92 @@
+0x49b190    xrefs=32 'UVWSH'
+    en: 0x437bda 0x439d54 0x43bb7a 0x4443d2 0x444cd2 0x445c6f 0x448313 0x448ff6
+0x505e60    xrefs=23 'UVWH'
+    en: 0x43a0cd 0x43c0d5 0x43cf45 0x43d8a6 0x43e2cb 0x43ea48 0x43fb41 0x440069
+0x5060b0    xrefs=42 'UVWH'
+    en: 0x42a1df 0x430368 0x4305a3 0x43688d 0x439414 0x439853 0x43af0e 0x43b892
+0x5061e0    xrefs=4  'UVWH'
+    en: 0x4298a4 0x44cf1f 0x455508 0x45e849
+0x506450    xrefs=84 'UVWH'
+    en: 0x42bed5 0x42eba4 0x42f39f 0x4310e1 0x4313e8 0x43166d 0x431b58 0x432537
+0x5182c0    xrefs=2  'attempt to join into collection with len > usize::MAX/rustc/90b35a6239c3d8bdabc530a6a0816f7ff89a0aaf\\library\\alloc\\src\\str.rs'
+    en: 0x42669b 0x43e750
+0x518a48    xrefs=1  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6924.43 Safari/537.36crates/loc000000000headerspathspathregisterpollresult'
+    en: 0x46f37c
+0x518e38    xrefs=1  'C2 en uso:'
+    en: 0x43b5a2
+0x518e68    xrefs=1  '(r0)r1cacher0HKLMHKCUtmpnone'
+    en: 0x4489f5
+0x519242    xrefs=2  '6527c5b312'
+    en: 0x444ee0 0x4459cc
+0x519778    xrefs=1  'PARCIAL (del programado)PASS (binario marcado para borrado)'
+    en: 0x447575
+0x519848    xrefs=1  'posicionanadir'
+    en: 0x4553d9
+0x519908    xrefs=1  '\\\\.\\pipe\\99ba5137a5e0c152'
+    en: 0x43bddc
+0x519960    xrefs=1  'Maint-Scheduler-4d47'
+    en: 0x4450e4
+0x5199a8    xrefs=1  'os=FAILPASS (recon CIM)echotypedircopydelerasemoverenrenamesetvervolcdchdirclsmdmkdirrdrmdirforifremstartcallgototitlepausepromptassocftypesetlocalendlocalpushdpopdmklinkdatetimec
+    en: 0x4495a9
+0x519f80    xrefs=1  '02C9779E09FBxxxxxxxcrates/loc000000'
+    en: 0x43a6f6
+0x51a520    xrefs=1  'vigentePASADOPASS | '
+    en: 0x44bbaa
+0x5219c8    xrefs=1  'Scopenum_running_threads'
+    en: 0x493be0
+0x521c38    xrefs=1  'RUST_MIN_STACKfatal runtime error: something here is badly broken!'
+    en: 0x4bc172
+0x521e10    xrefs=2  'namefatal runtime error: thread result panicked on drop'
+    en: 0x494937 0x4ae821
+0x522fa0    xrefs=4  '\\.Components'
+    en: 0x4a4d75 0x4a5ec8 0x4a62cd 0x4a62f9
+0x5236e0    xrefs=1  'OnceOnceStatepoisonedPoisonErrorlock count overflow in reentrant mutexstd\\src\\sync\\reentrant_lock.rs'
+    en: 0x4aa2fb
+0x523900    xrefs=1  'note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.'
+    en: 0x4ab6b2
+0x524468    xrefs=1  'PermissionsNotFoundPermissionDeniedConnectionRefusedConnectionResetHostUnreachableNetworkUnreachableConnectionAbortedNotConnectedAddrInUseAddrNotAvailableNetworkDownBrokenPipeAlre
+    en: 0x4af14d
+0x5247c8    xrefs=1  '#$*+-./:?@\\_cmd.exe /e:ON /v:OFF /d /c "'
+    en: 0x4ba93f
+0x524d98    xrefs=1  'HOMEUSERPROFILE\\\\.\\pipe\\__rust_anonymous_pipe1__.'
+    en: 0x496b98
+0x524fb8    xrefs=2  '\\cmd.exemaximum number of ProcThreadAttributes exceeded'
+    en: 0x4b9ba7 0x4b9be8
+0x525690    xrefs=1  'RegularRawkernel32'
+    en: 0x47201c
+0x5256b8    xrefs=1  'GetTempPath2W'
+    en: 0x4bea92
+0x52a310    xrefs=1  'DW_UT_compileDW_UT_typeDW_UT_partialDW_UT_skeletonDW_UT_split_compileDW_UT_split_typeDW_UT_lo_userDW_UT_hi_userUnknown DwUt: '
+    en: 0x4da96d
+0x52a3a0    xrefs=1  'DW_CFA_advance_locDW_CFA_offsetDW_CFA_restoreDW_CFA_nopDW_CFA_set_locDW_CFA_advance_loc1DW_CFA_advance_loc2DW_CFA_advance_loc4DW_CFA_offset_extendedDW_CFA_restore_extendedDW_CFA_u
+    en: 0x4dac79
+0x52a670    xrefs=1  'DW_TAG_nullDW_TAG_array_typeDW_TAG_class_typeDW_TAG_entry_pointDW_TAG_enumeration_typeDW_TAG_formal_parameterDW_TAG_imported_declarationDW_TAG_labelDW_TAG_lexical_blockDW_TAG_memb
+    en: 0x4dae6a
+0x52afe0    xrefs=1  'DW_AT_nullDW_AT_siblingDW_AT_locationDW_AT_nameDW_AT_orderingDW_AT_byte_sizeDW_AT_bit_offsetDW_AT_bit_sizeDW_AT_stmt_listDW_AT_low_pcDW_AT_high_pcDW_AT_languageDW_AT_discrDW_AT_di
+    en: 0x4db65d
+0x52c800    xrefs=1  'DwFormDW_ATE_addressDW_ATE_booleanDW_ATE_complex_floatDW_ATE_floatDW_ATE_signedDW_ATE_signed_charDW_ATE_unsignedDW_ATE_unsigned_charDW_ATE_imaginary_floatDW_ATE_packed_decimalDW_A
+    en: 0x4dc926
+0x52cad0    xrefs=1  'DW_END_defaultDW_END_bigDW_END_littleDW_END_lo_userDW_END_hi_userUnknown DwEnd: '
+    en: 0x4dcdae
+0x52d038    xrefs=1  'DW_CC_normalDW_CC_programDW_CC_nocallDW_CC_pass_by_referenceDW_CC_pass_by_valueDW_CC_lo_userDW_CC_hi_userUnknown DwCc: '
+    en: 0x4dd767
+0x52d138    xrefs=1  'DW_ORD_row_majorDW_ORD_col_majorUnknown DwOrd: '
+    en: 0x4dd9bb
+0x52d1b0    xrefs=1  'DW_IDX_compile_unitDW_IDX_type_unitDW_IDX_die_offsetDW_IDX_parentDW_IDX_type_hashDW_IDX_lo_userDW_IDX_hi_userUnknown DwIdx: '
+    en: 0x4ddbaf
+0x52d3a8    xrefs=1  'DW_LNE_end_sequenceDW_LNE_set_addressDW_LNE_define_fileDW_LNE_set_discriminatorDW_LNE_lo_userDW_LNE_hi_userUnknown DwLne: '
+    en: 0x4ddf0d
+0x52d438    xrefs=1  'DW_LNCT_pathDW_LNCT_directory_indexDW_LNCT_timestampDW_LNCT_sizeDW_LNCT_MD5DW_LNCT_lo_userDW_LNCT_hi_userUnknown DwLnct: '
+    en: 0x4de06c
+0x52d4c8    xrefs=1  'DW_MACRO_defineDW_MACRO_undefDW_MACRO_start_fileDW_MACRO_end_fileDW_MACRO_define_strpDW_MACRO_undef_strpDW_MACRO_importDW_MACRO_define_supDW_MACRO_undef_supDW_MACRO_import_supDW_M
+    en: 0x4de1da
+0x5348c8    xrefs=1  'out of range integral type conversion attemptedcannot parse integer from empty stringinvalid digit found in stringnumber too large to fit in target typenumber too small to fit in 
+    en: 0x4ef5d7
+0x535a10    xrefs=1  '..], ..]]attempted to begin a new map entry without completing the previous one'
+    en: 0x4f4300
+0x5361e8    xrefs=1  'provided string was not `true` or `false`Chars(EncodeUtf16attempted to index str up to maximum usize'
+    en: 0x4fa8d7
+0x541a80    xrefs=1  'Mingw-w64 runtime failure:'
+    en: 0x50a688
+
+total filtrados: 45  (en big func: 16)

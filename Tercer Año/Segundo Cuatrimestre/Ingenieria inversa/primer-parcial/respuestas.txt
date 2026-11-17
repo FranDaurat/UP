@@ -1,0 +1,101 @@
+Primer parcial - Ingenieria Inversa - putty.exe
+
+Nota: cada respuesta va con su captura al lado en el examen (nunca la captura sola).
+Las lineas "(captura: ...)" son solo guia de que imagen pegar, no van en el texto.
+
+
+1. Hash, arquitectura y fecha de compilacion
+
+Hash (SHA-256): 0c82e654c09c8fd9fdf4899718efa37670974c9eec5a8fc18a167f93cea6ee83
+Uso SHA-256 porque es el estandar para identificar la muestra de forma unica.
+Arquitectura: PE32 de 32 bits (Intel x86), subsistema Windows GUI.
+Fecha de compilacion (TimeDateStamp del PE): 2021-07-10 09:51:55 UTC.
+Aclaro que la fecha "modificado" en disco (02/10/2021) no es la de compilacion.
+(captura: certutil -hashfile SHA256 + PEStudio file-header)
+
+
+2. Secciones
+
+Tiene 10 secciones: .text, .rdata, .data, .00cfg, .rsrc, .reloc, y ademas otra
+.text, .idata, otra .rsrc y otra .reloc. Un PuTTY legitimo tiene ~6, asi que las
+secciones repetidas mas la .idata extra no son normales. La segunda .text
+(RVA 0x122000) es de lectura/escritura/ejecucion y el entry point del binario
+apunta a esa seccion, no al .text original.
+(captura: PEStudio/CFF Explorer sections + AddressOfEntryPoint = 0x122000)
+
+
+3. Strings relevantes
+
+El string clave es un comando powershell.exe -nop -w hidden -noni -ep bypass con
+un bloque en base64. Decodificado (base64 + gzip) es un script "Powerfun" que abre
+un reverse shell contra bonus2.corporatebonusapplication.local al puerto 8443 con
+SSL. Tambien estan los strings normales de PuTTY 0.76 (algoritmos SSH, etc.), lo
+que confirma que la base es un PuTTY real. Ese string del powershell es el que
+lleva a la hipotesis de que es malicioso, y se comprueba en la ejecucion.
+(captura: PEStudio strings con el powershell + el resultado del decode)
+
+
+4. Esta empaquetado?
+
+No con un packer clasico. La entropia general es alta (~7.4) pero viene de la
+seccion de recursos .rsrc (7.83), que siempre es alta; la seccion de codigo .text
+tiene entropia ~6.6 y su tamano en disco es igual al de memoria, asi que no esta
+comprimida. Lo que tiene es una seccion de codigo inyectada con el entry point
+desviado hacia ella: es un binario parcheado/troyanizado, no empaquetado.
+(captura: PEStudio entropia por seccion / Detect It Easy "not packed")
+
+
+5. Imports relevantes
+
+ShellExecuteA y CreateProcessA para lanzar el powershell; LoadLibraryA +
+GetProcAddress para resolver funciones en tiempo de ejecucion (por eso la parte de
+red no figura en la tabla de imports estatica); RegCreateKeyExA / RegSetValueExA
+para tocar el registro; CreateMutexA e IsDebuggerPresent. El resto son los imports
+de GUI normales de PuTTY.
+(captura: PEStudio imports)
+
+
+6. Detonacion inicial
+
+Al ejecutar putty.exe se abre la ventana de PuTTY normal, o sea el programa
+funciona. Lo extrano es que al abrirlo se crea un proceso powershell.exe oculto
+que no deberia existir en un PuTTY limpio, y ese powershell hace una conexion
+saliente al puerto 8443. Ejecute primero sin internet y despues con el internet
+simulado (REMnux/INetSim); con el internet simulado el reverse shell conecto.
+Funciona el programa? Si. Algo extrano? Si: powershell oculto + conexion al C2.
+(captura: ventana de PuTTY abierta + terminal del listener con el banner)
+
+
+7. Procmon
+
+Filtrando por putty.exe se ve un Process Create de powershell.exe con la linea
+-nop -w hidden -noni -ep bypass y el bloque base64. Es la evidencia de que putty
+lanza el powershell malicioso.
+(captura: Procmon con el Process Create de powershell.exe)
+
+
+8. Wireshark
+
+Se ve la consulta DNS de bonus2.corporatebonusapplication.local (resuelta por el
+DNS simulado a la IP de REMnux) y despues la conexion TCP al puerto 8443 con
+handshake TLS. Es el trafico de command & control, cifrado.
+(captura: Wireshark con filtro dns || tcp.port==8443)
+
+
+9. TCPView
+
+La conexion saliente al 8443 no la tiene putty.exe sino powershell.exe, apuntando
+a la IP del C2 (en mi laboratorio 192.168.57.102:8443).
+(captura: TCPView con powershell.exe -> 192.168.57.102:8443)
+
+
+10. Tipo de malware y hallazgos
+
+Es un troyano / backdoor (RAT): un PuTTY legitimo troyanizado que ejecuta un
+reverse shell de PowerShell (Powerfun) sobre TLS para dar acceso remoto. En la
+ejecucion llegue a recibir la shell en la maquina que simula el C2, con el usuario
+y el equipo de la victima (ingrev / DESKTOP-E8DDK86), asi que el acceso remoto
+quedo comprobado. Otros hallazgos: la base es PuTTY real (mismos strings y
+timestamp), se uso inyeccion de seccion + desvio del entry point, el payload va
+ofuscado en base64/gzip y corre en memoria, y la conexion C2 es cifrada.
+(captura: listener con whoami/hostname ejecutados desde la shell recibida)

@@ -1,0 +1,3917 @@
+WEBVTT
+
+1
+00:00:19.800 --> 00:00:22.200
+Carlos Fabian Descalzo: Hola, chicos. Buenas tardes.
+
+2
+00:00:22.430 --> 00:00:24.140
+MATEO VALENZUELA: Hola. Profe Buenas tardes. ¿cómo va.
+
+3
+00:00:24.140 --> 00:00:26.079
+Carlos Fabian Descalzo: Cómo va todo en orden.
+
+4
+00:00:26.730 --> 00:00:27.450
+MATEO VALENZUELA: Qué? Bueno.
+
+5
+00:00:35.650 --> 00:00:36.920
+Carlos Fabian Descalzo: Muy viernes.
+
+6
+00:00:37.930 --> 00:00:40.339
+MATEO VALENZUELA: Sí, mal, muy amable.
+
+7
+00:00:41.070 --> 00:00:42.090
+CAROLINA OYARBIDE: Buenas buenas.
+
+8
+00:00:42.590 --> 00:00:43.920
+Carlos Fabian Descalzo: Buenas. Buenas.
+
+9
+00:00:48.650 --> 00:00:52.520
+Carlos Fabian Descalzo: Muy bien. Minuto que estoy acomodándome.
+
+10
+00:01:02.090 --> 00:01:02.830
+Carlos Fabian Descalzo: Mhm.
+
+11
+00:01:06.500 --> 00:01:09.060
+Carlos Fabian Descalzo: Ahí va ahí. Ya ven, no.
+
+12
+00:01:10.300 --> 00:01:10.820
+MATEO VALENZUELA: Sí.
+
+13
+00:01:11.820 --> 00:01:13.480
+Carlos Fabian Descalzo: Bien, perfecto.
+
+14
+00:01:33.690 --> 00:01:42.040
+Carlos Fabian Descalzo: Pero vamos un par de minutitos más. A ver si se suma alguien más y ya arranca
+
+15
+00:01:43.830 --> 00:01:54.039
+Carlos Fabian Descalzo: Ahí me llegaron algunas preguntas respecto de el tema del template del del trabajo práctico
+
+16
+00:01:54.550 --> 00:01:58.189
+Carlos Fabian Descalzo: que al menos 2 de los chicos me escribieron que no
+
+17
+00:01:58.780 --> 00:02:04.630
+Carlos Fabian Descalzo: un 1, un chico y una chica. Me escribieron
+
+18
+00:02:04.860 --> 00:02:11.479
+Carlos Fabian Descalzo: que no encontraban el template. Yo me voy a fijar. No sé si si algún otro. No lo he encontrado
+
+19
+00:02:11.790 --> 00:02:13.520
+Carlos Fabian Descalzo: o sí lo encontraron.
+
+20
+00:02:17.170 --> 00:02:23.419
+MATEO VALENZUELA: Por mi lado, tengo un template viejo que uso mío para todas las materias, así que pensaba entregarlo con S pero sí, yo.
+
+21
+00:02:23.420 --> 00:02:23.810
+Carlos Fabian Descalzo: Bien.
+
+22
+00:02:23.810 --> 00:02:24.700
+MATEO VALENZUELA: El template.
+
+23
+00:02:25.210 --> 00:02:30.859
+Carlos Fabian Descalzo: Está bien, está. No hay problema, ¿no? Yo lo que voy a hacer entonces Ahora, cuando hagamos el Break.
+
+24
+00:02:31.400 --> 00:02:38.810
+Carlos Fabian Descalzo: busco 1 y lo limpio un poco, y se los comparto.
+
+25
+00:02:39.030 --> 00:02:39.770
+Carlos Fabian Descalzo: Sí.
+
+26
+00:02:40.050 --> 00:02:40.780
+MATEO VALENZUELA: Vale buenísimo.
+
+27
+00:02:40.780 --> 00:02:41.320
+Carlos Fabian Descalzo: Sí.
+
+28
+00:02:41.320 --> 00:02:41.930
+MATEO VALENZUELA: Y los.
+
+29
+00:02:41.930 --> 00:02:44.380
+Carlos Fabian Descalzo: Sí. Mateo.
+
+30
+00:02:44.810 --> 00:02:49.630
+MATEO VALENZUELA: Pregunta: ¿qué tan extenso tiene que ser más o menos aproximado el.
+
+31
+00:02:49.630 --> 00:02:50.170
+Carlos Fabian Descalzo: Mira.
+
+32
+00:02:50.170 --> 00:02:50.890
+MATEO VALENZUELA: Entró.
+
+33
+00:02:51.400 --> 00:02:54.030
+Carlos Fabian Descalzo: Ahí
+
+34
+00:02:55.330 --> 00:03:02.320
+Carlos Fabian Descalzo: de por sí te va a decir, o sea, no sé si llegaste a saber todo el el desarrollo. No.
+
+35
+00:03:02.820 --> 00:03:10.350
+Carlos Fabian Descalzo: La idea es que puedan ver de desarrollar lo más que puedan cada 1 de los puntos. Si quieren.
+
+36
+00:03:10.640 --> 00:03:21.750
+Carlos Fabian Descalzo: podemos arrancar arrancar la clase de hoy. Si quieren revisar los puntos como para ver qué poner en cada 1 como perfilarlo o algo así por el estilo.
+
+37
+00:03:21.900 --> 00:03:22.310
+CAROLINA OYARBIDE: Sí, te.
+
+38
+00:03:22.310 --> 00:03:22.740
+Carlos Fabian Descalzo: Es una.
+
+39
+00:03:22.740 --> 00:03:24.879
+CAROLINA OYARBIDE: Para poder ubicarnos un poco no, o sea.
+
+40
+00:03:24.880 --> 00:03:25.490
+Carlos Fabian Descalzo: Sí.
+
+41
+00:03:25.490 --> 00:03:31.990
+CAROLINA OYARBIDE: Poner ni muy extenso ni tampoco tan poquito para que no sea suficiente con ese.
+
+42
+00:03:31.990 --> 00:03:32.320
+Carlos Fabian Descalzo: Guau!
+
+43
+00:03:32.320 --> 00:03:33.410
+CAROLINA OYARBIDE: Que falte.
+
+44
+00:03:33.850 --> 00:03:40.070
+Carlos Fabian Descalzo: Sí, sí, sí, sí igual. Siempre tengan en cuenta, cuando vayan a
+
+45
+00:03:40.730 --> 00:03:47.880
+Carlos Fabian Descalzo: si les toca en algún momento escribir alguna norma, algún procedimiento o algo.
+
+46
+00:03:48.170 --> 00:03:53.149
+Carlos Fabian Descalzo: no porque algo tenga mucho texto es bueno ni en mí.
+
+47
+00:03:53.150 --> 00:03:54.180
+MATEO VALENZUELA: No. Por eso.
+
+48
+00:03:54.690 --> 00:03:55.200
+Carlos Fabian Descalzo: Se entiende.
+
+49
+00:03:55.200 --> 00:03:58.339
+MATEO VALENZUELA: Sí, sí, a veces hasta más corto. Es mejor, Sí.
+
+50
+00:03:58.340 --> 00:04:01.770
+Carlos Fabian Descalzo: Claro, es lo justo y lo necesario. Por eso
+
+51
+00:04:01.930 --> 00:04:07.599
+Carlos Fabian Descalzo: van a ver qué, cómo se llama, van a ver que
+
+52
+00:04:08.200 --> 00:04:10.700
+Carlos Fabian Descalzo: cuando vean las normas I S o
+
+53
+00:04:10.860 --> 00:04:19.940
+Carlos Fabian Descalzo: cualquiera 9 027 20 000, la que sea, habla de información documentada no te dice
+
+54
+00:04:20.250 --> 00:04:26.670
+Carlos Fabian Descalzo: que el documento de nombre tal ni nada por el estilo. Entonces.
+
+55
+00:04:26.980 --> 00:04:34.449
+Carlos Fabian Descalzo: porque hay muchas cosas. Por ejemplo, cuando a mí me ha tocado desarrollar el marco normativo de seguridad de alguna empresa
+
+56
+00:04:34.740 --> 00:04:44.249
+Carlos Fabian Descalzo: en algunos tenía una norma y un procedimiento de a B m de usuario y dentro del mismo documento.
+
+57
+00:04:44.860 --> 00:04:50.390
+Carlos Fabian Descalzo: Así mencionaba las definiciones tanto para las cuentas de usuario
+
+58
+00:04:50.470 --> 00:05:06.700
+Carlos Fabian Descalzo: nominales, digamos no de las personas como las cuentas de usuarios especiales, que son las de alto privilegio: las de soporte, mantenimiento, las que se usan para los trabajos programados, por ejemplo, etcétera. Sí,
+
+59
+00:05:06.920 --> 00:05:08.200
+Carlos Fabian Descalzo: y en otras.
+
+60
+00:05:08.590 --> 00:05:14.750
+Carlos Fabian Descalzo: Lo he desdoblado por por el volumen del proceso que por ahí tenía la empresa
+
+61
+00:05:14.940 --> 00:05:25.500
+Carlos Fabian Descalzo: quedaba mucho más ordenado y mucho más claro: hacer un documento para las cuentas especiales y otro documento para las que son las cuentas nominales. Se entiende entonces
+
+62
+00:05:26.160 --> 00:05:39.560
+Carlos Fabian Descalzo: depende, no, no, y y siempre tengan en cuenta más allá del volumen de que sea claro. Digamos este lo lo que están queriendo, expresar si
+
+63
+00:05:39.810 --> 00:05:46.540
+Carlos Fabian Descalzo: este y que cubra de alguna manera el cómo se llama este
+
+64
+00:05:46.780 --> 00:05:50.909
+Carlos Fabian Descalzo: el contenido que les van a dar por objeto? Digamos ¿no?
+
+65
+00:05:51.700 --> 00:05:54.320
+Carlos Fabian Descalzo: Así que, bueno, hola los.
+
+66
+00:05:54.320 --> 00:05:55.550
+CAROLINA OYARBIDE: A mí me pasa.
+
+67
+00:05:55.850 --> 00:05:56.800
+Carlos Fabian Descalzo: Sí, hay un.
+
+68
+00:05:56.800 --> 00:06:13.139
+CAROLINA OYARBIDE: Hacer cuando yo estoy auditando a veces es como que me dan tanta documentación, que es lo que usted dice. No es lo que 1 necesita o lo que lo que me tiene que justificar lo que estoy pidiendo o lo que se tiene que tomar
+
+69
+00:06:13.580 --> 00:06:28.970
+CAROLINA OYARBIDE: o lo que se tiene que justificar. No valga la redundancia. Lo no no es que haya mucho implica de que sea suficiente, o sea lo correcto, o sea, lo que lo que lo que respalde, lo que estás pidiendo, No, Eso es así.
+
+70
+00:06:28.970 --> 00:06:29.610
+Carlos Fabian Descalzo: Claro.
+
+71
+00:06:30.710 --> 00:06:34.199
+Carlos Fabian Descalzo: Sí a ver. Primero que nada.
+
+72
+00:06:34.560 --> 00:06:39.329
+Carlos Fabian Descalzo: lo que me acabas de comentar es el viejo truco que le hacen al auditor.
+
+73
+00:06:40.500 --> 00:06:47.799
+Carlos Fabian Descalzo: Cualquiera de nosotros cuando he estado del otro lado y te están auditando. Lo que haces es le das
+
+74
+00:06:48.090 --> 00:06:52.560
+Carlos Fabian Descalzo: 5, 6 carpetones de 500 páginas cada 1.
+
+75
+00:06:52.940 --> 00:06:57.190
+Carlos Fabian Descalzo: Y esto dónde lo tenés escrito Y en 1 de estos libros está
+
+76
+00:06:58.200 --> 00:07:03.030
+Carlos Fabian Descalzo: entonces ahí más que nada, es el tema también.
+
+77
+00:07:03.380 --> 00:07:09.719
+Carlos Fabian Descalzo: La Lo que lo que yo tengo costumbre de de de auditar
+
+78
+00:07:10.340 --> 00:07:14.680
+Carlos Fabian Descalzo: es, primero. Pido un inventario documental. Viste
+
+79
+00:07:15.840 --> 00:07:23.739
+Carlos Fabian Descalzo: y del inventario documental. Me hago más o menos la idea de cómo está distribuido el marco normativo
+
+80
+00:07:23.960 --> 00:07:33.860
+Carlos Fabian Descalzo: y después, antes de ponerme a leer algo, le hago como una pequeña entrevista
+
+81
+00:07:34.440 --> 00:07:37.869
+Carlos Fabian Descalzo: para poder ubicarme de cómo son los procesos
+
+82
+00:07:38.670 --> 00:07:47.709
+Carlos Fabian Descalzo: y preguntarle, Che, pero que no me diga en alguno de los documentos está sino que me diga esto está en tal documento en tal lugar.
+
+83
+00:07:48.050 --> 00:07:55.070
+Carlos Fabian Descalzo: Entiendes entonces como que te puedes llegar a desmenuzar un poco más
+
+84
+00:07:55.270 --> 00:08:04.170
+Carlos Fabian Descalzo: dentro de la auditoría de enterarte qué es lo que hacen sin tener que leerte absolutamente la parva de hojas que que te tiran.
+
+85
+00:08:04.770 --> 00:08:14.149
+Carlos Fabian Descalzo: Sí, No sé sí, Este, digamos como lo ves, vos, que de la forma en que lo haces.
+
+86
+00:08:14.770 --> 00:08:18.579
+CAROLINA OYARBIDE: Bueno, yo es más que nada la parte impositiva, pero
+
+87
+00:08:18.680 --> 00:08:29.319
+CAROLINA OYARBIDE: es todo muy parecido. Es muy, muy parecido, o sea, para para ellos. Los chicos no, no, no lo saben, pero es justamente la auditoría Empezaron con
+
+88
+00:08:29.890 --> 00:08:34.639
+CAROLINA OYARBIDE: con con la parte contable y después se extendió a todo lo que a todo lo que se pueda ubicar.
+
+89
+00:08:34.799 --> 00:08:43.529
+CAROLINA OYARBIDE: Y Y sí, es fundamental saber donde, porque porque te pueden tirar un montón de de de documentos, un montón de este.
+
+90
+00:08:43.559 --> 00:08:56.489
+CAROLINA OYARBIDE: Pero vos primero tienes que saber para ubicarte qué es lo más importante para la empresa. ¿a qué le hace foco? Eso también es. Está bueno, ¿cuál es su activo tan importante que tiene.
+
+91
+00:08:56.660 --> 00:09:03.090
+CAROLINA OYARBIDE: ¿Qué es lo que le da tanto valor a la empresa, a la empresa, a la organización, a la entidad, lo que fuera
+
+92
+00:09:03.660 --> 00:09:20.129
+CAROLINA OYARBIDE: y este bueno y bueno, y ahí va. Y puedes ver, como vos decías, charlar, hablar, entrevistar este a las personas que están en las partes sensibles de la empresa ¿no? Y la parte sensible cual fuera por ahí, La La parte operativa era sensible.
+
+93
+00:09:20.590 --> 00:09:26.659
+CAROLINA OYARBIDE: No sabemos, No depende de qué estamos.
+
+94
+00:09:26.780 --> 00:09:35.550
+CAROLINA OYARBIDE: Y Y bueno, este eso también es importante. A mí también me pasa en el laburo cuando pedimos que nos expliquen qué es lo que hacen.
+
+95
+00:09:36.060 --> 00:09:46.519
+CAROLINA OYARBIDE: ¿es ¿Es eso que nos expliquen como si nosotros no supiésemos qué están haciendo. Y ahí, en la medida en que se van abriendo a ver qué es lo que hacen, porque
+
+96
+00:09:46.570 --> 00:10:02.410
+CAROLINA OYARBIDE: así, como usted dice, los papeles, nosotros tenemos los estatutos que dicen que la empresa se creó. La entidad, se creó por esto los objetos. Hay un montón de objetos sociales. El objeto social, si los chicos saben, es todo lo que puede hacer una una una entidad, una persona jurídica si
+
+97
+00:10:02.550 --> 00:10:12.920
+CAROLINA OYARBIDE: todo lo que pueda hacer, y pero por ahí no hace todo eso hace otra cosa. Entonces eso también es que es.
+
+98
+00:10:12.920 --> 00:10:27.089
+Carlos Fabian Descalzo: Cuando inscribís una empresa tenés, digamos, cuál es el objeto principal persona jurídica ahí, chicos. Digo, para aquellos que que no estén en en el tema de de lo que hace Caro
+
+99
+00:10:27.560 --> 00:10:36.979
+Carlos Fabian Descalzo: para simplificarlo, digamos, es una empresa, digamos no este en donde la empresa se inscribe
+
+100
+00:10:37.250 --> 00:10:41.520
+Carlos Fabian Descalzo: para poder tener un teniendo un objeto principal.
+
+101
+00:10:41.720 --> 00:10:46.529
+Carlos Fabian Descalzo: por ejemplo, ofrecer servicios de tecnología y ciberseguridad.
+
+102
+00:10:47.400 --> 00:10:50.489
+Carlos Fabian Descalzo: y después podés tener sub actividades
+
+103
+00:10:50.970 --> 00:10:57.339
+Carlos Fabian Descalzo: en donde pones, desarrollo de software. No sé,
+
+104
+00:10:57.880 --> 00:11:13.499
+Carlos Fabian Descalzo: ponerle consultoría, agregas, digamos, otras tareas, otras actividades, o puede ser también supóngase servicios de almacenamiento y procesamiento en Data Center. No sé,
+
+105
+00:11:14.030 --> 00:11:19.630
+Carlos Fabian Descalzo: pero hubo, tiene un objeto principal y después este sub
+
+106
+00:11:19.820 --> 00:11:23.829
+Carlos Fabian Descalzo: actividades. Digamos no, no, claro, no me equivoco, no.
+
+107
+00:11:24.210 --> 00:11:41.349
+CAROLINA OYARBIDE: No, no, sí, Sí, Sí, pueden tener muchas actividades, una principal, que es la que sostiene, por así decirlo, o por ahí es la principal. No la están haciendo hoy por hoy. Hacen cualquiera de las otras. Entonces es como que vos decís, bueno a ver qué hacen. Y acá está el estatuto, te tiran y.
+
+108
+00:11:41.350 --> 00:11:41.880
+Carlos Fabian Descalzo: Claro.
+
+109
+00:11:42.300 --> 00:12:00.810
+CAROLINA OYARBIDE: Y vos decís, bueno, pero de todo esto, ¿qué hacen? Y ahí es cuando empezaste a charlar. Y como vos decís visto de este lado de mi lado, sería eso. Y Y visto de de trauma más o menos también no te van a dar el estatuto. Pero como que te tiran toda la documentación de todos los procedimientos. Pero vos decís, está todo bien esto, pero bueno.
+
+110
+00:12:00.810 --> 00:12:01.380
+Carlos Fabian Descalzo: Claro.
+
+111
+00:12:01.380 --> 00:12:05.130
+CAROLINA OYARBIDE: Qué es lo que hace? Y en el momento en que vos empezás a hablar a
+
+112
+00:12:05.410 --> 00:12:09.979
+CAROLINA OYARBIDE: a comunicarte con el otro para interesarte de qué es lo que hace la empresa
+
+113
+00:12:10.300 --> 00:12:24.470
+CAROLINA OYARBIDE: y dónde vas a empezar a a poner el foco en Bueno, esto para la empresa. Esto es importante. Esto ayuda y bueno. Y ahí podemos empezar a armar el rompecabezas de para dónde ir, para el tema de de auditarlo, no.
+
+114
+00:12:24.960 --> 00:12:36.189
+Carlos Fabian Descalzo: Claro si esto es muy similar a lo que comentas a a lo que es una auditoría, hizo una auditoría de certificación en donde vos tenés un alcance del certificado.
+
+115
+00:12:36.710 --> 00:12:42.480
+Carlos Fabian Descalzo: por ejemplo prestación de servicios de de procesamiento de datos
+
+116
+00:12:43.050 --> 00:12:48.699
+Carlos Fabian Descalzo: y para ese alcance que es como si fuera el macroproceso, digamos.
+
+117
+00:12:48.960 --> 00:12:52.590
+Carlos Fabian Descalzo: vos después haces determinado tipo de actividades
+
+118
+00:12:52.830 --> 00:13:02.959
+Carlos Fabian Descalzo: que deben estar alineadas y en cumplimiento con los requisitos de la norma certificable y los controles aplicables, digamos no.
+
+119
+00:13:03.110 --> 00:13:04.570
+Carlos Fabian Descalzo: Y para eso.
+
+120
+00:13:04.690 --> 00:13:19.559
+Carlos Fabian Descalzo: en la primera auditoría de certificación hay una fase, 1 de la auditoría, que es revisar toda la documentación que tengan asociada a ese alcance que están mencionando.
+
+121
+00:13:19.990 --> 00:13:26.970
+Carlos Fabian Descalzo: y la de fase 2, que es, digamos, sentarte con el auditado
+
+122
+00:13:27.330 --> 00:13:38.679
+Carlos Fabian Descalzo: y que te empiece a contar para validar un poco también el conocimiento que tengan del proceso y contraponerlo, digamos, contra la documentación
+
+123
+00:13:39.000 --> 00:13:49.459
+Carlos Fabian Descalzo: y después, también, en ese momento se le va pidiendo también que vaya mostrando él la documentación y todo de en dónde está
+
+124
+00:13:49.830 --> 00:13:52.710
+Carlos Fabian Descalzo: escrito lo que nos están contando, Digamos ¿no?
+
+125
+00:13:53.010 --> 00:13:58.360
+Carlos Fabian Descalzo: Así que sí, es bastante similar, No, esto que que comentas
+
+126
+00:13:58.860 --> 00:14:02.779
+Carlos Fabian Descalzo: Yo pensé que que inicialmente, cuando decías de auditoría
+
+127
+00:14:03.440 --> 00:14:08.699
+Carlos Fabian Descalzo: que es estabas haciendo algo de auditoría de Haití, Bueno, así, por el estilo.
+
+128
+00:14:10.450 --> 00:14:20.569
+CAROLINA OYARBIDE: No, No, to, no, Todavía no, Pero lo veo, se asemeja mucho. Entonces, como que por ahí puedo
+
+129
+00:14:20.780 --> 00:14:29.979
+CAROLINA OYARBIDE: por ahí, me me interesa porque se asemeja mucho a lo que hago todo el tiempo Este y para nada tengo esa curiosidad.
+
+130
+00:14:31.250 --> 00:14:37.910
+Carlos Fabian Descalzo: Bien. Bien. Excelente. Bueno, sí, acá
+
+131
+00:14:38.190 --> 00:14:41.620
+Carlos Fabian Descalzo: La idea del trabajo en sí
+
+132
+00:14:42.200 --> 00:14:49.110
+Carlos Fabian Descalzo: es que ustedes puedan desarrollar en un documento como es
+
+133
+00:14:49.330 --> 00:14:52.889
+Carlos Fabian Descalzo: qué harían o cómo es que hacen
+
+134
+00:14:53.070 --> 00:14:57.759
+Carlos Fabian Descalzo: lo que es la gestión documental en particular, no es desarrollar
+
+135
+00:14:57.980 --> 00:15:05.589
+Carlos Fabian Descalzo: un documento de A, B, M, usuario o gestión de parches, o lo que fuera no es contar cómo es
+
+136
+00:15:05.790 --> 00:15:15.830
+Carlos Fabian Descalzo: el el digamos, Este, el de alguna manera, como el ciclo de vida de la documentación en en general. No por eso.
+
+137
+00:15:16.030 --> 00:15:21.819
+Carlos Fabian Descalzo: bueno, la pauta es analizar y desarrollar pautas para el marco documental
+
+138
+00:15:22.310 --> 00:15:31.669
+Carlos Fabian Descalzo: de ciberseguridad porque tratamos temas de de de Cyber en donde sabemos que existen estos niveles de documentos
+
+139
+00:15:31.890 --> 00:15:34.770
+Carlos Fabian Descalzo: donde cada 1 cumple una finalidad
+
+140
+00:15:35.170 --> 00:15:43.750
+Carlos Fabian Descalzo: esto para que les va a servir principalmente. Hay 1 de los puntos que van a ver que dice roles y responsabilidades, y es entender que
+
+141
+00:15:43.930 --> 00:15:47.370
+Carlos Fabian Descalzo: quien desarrolla un documento.
+
+142
+00:15:47.640 --> 00:15:57.720
+Carlos Fabian Descalzo: quien lo revisa y quien lo aprueba, digamos no. Y ahí, por ejemplo, en en esa pregunta. Ahora, cuando lleguemos, les voy a decir, como lo podrían hacer.
+
+143
+00:15:58.330 --> 00:16:04.680
+Carlos Fabian Descalzo: La idea es que puedan tener como dentro del entregable
+
+144
+00:16:05.750 --> 00:16:08.880
+Carlos Fabian Descalzo: lo más que puedan de estos 12 puntos.
+
+145
+00:16:08.980 --> 00:16:12.470
+Carlos Fabian Descalzo: Sí, o sea que de alguna manera.
+
+146
+00:16:13.460 --> 00:16:22.740
+Carlos Fabian Descalzo: el índice del del del documento que van a entregar del práctico. Tendría estos 12 puntos en sí.
+
+147
+00:16:23.810 --> 00:16:29.510
+Carlos Fabian Descalzo: Y para poder completar estos 12 puntos es lo que les dejé como guía acá debajo.
+
+148
+00:16:29.850 --> 00:16:41.749
+Carlos Fabian Descalzo: Sí, La idea es que ustedes entiendan para quién están haciendo el marco normativo y
+
+149
+00:16:42.160 --> 00:16:50.439
+Carlos Fabian Descalzo: describir, digamos, cuál es la cómo se llama este. ¿cuál es la.
+
+150
+00:16:51.380 --> 00:17:10.099
+Carlos Fabian Descalzo: digamos, la empresa. A qué se dedica? ¿qué tipo de servicios brinda, qué tipo de clientes tiene que inclusive si contrata o no terceros, etcétera. No, porque eso hace también un poco a esto que hablábamos recién de poder saber
+
+151
+00:17:10.230 --> 00:17:11.339
+Carlos Fabian Descalzo: y
+
+152
+00:17:11.730 --> 00:17:28.760
+Carlos Fabian Descalzo: que marco normativo es el que le conviene más. No por hay hay por ahí una definición de decir: bueno, ¿cómo se compone el marco normativo, entonces tiene una política de seguridad, una norma de de de cómo se llama
+
+153
+00:17:28.960 --> 00:17:40.550
+Carlos Fabian Descalzo: de A, B, m de usuario, de gestión tecnológica, etcétera, no van a van a ir armando, digamos, de alguna manera el el árbol, van a ir mencionando el árbol.
+
+154
+00:17:40.870 --> 00:17:49.909
+Carlos Fabian Descalzo: Y dentro de del conocimiento de esta estructura de tipo de documento. Si por eso menciona.
+
+155
+00:17:50.820 --> 00:18:03.199
+Carlos Fabian Descalzo: si quieren mencionar un par de procesos críticos que crean que están dentro de ese alcance que de lo que hace la compañía, etcétera, como para ir acotando, digamos, la la información
+
+156
+00:18:03.280 --> 00:18:16.479
+Carlos Fabian Descalzo: y acá algunas respuestas, digamos, respecto de también el contexto en el cual se está documentando. Hay consideraciones en la documentación.
+
+157
+00:18:16.610 --> 00:18:22.370
+Carlos Fabian Descalzo: que no es lo mismo que la empresa esté en
+
+158
+00:18:22.520 --> 00:18:30.160
+Carlos Fabian Descalzo: punto geográfico en donde no hay, por ejemplo, cuestiones climatológicas
+
+159
+00:18:31.170 --> 00:18:46.169
+Carlos Fabian Descalzo: geológicas, como un terremoto, inundaciones, etcétera, y otra en el en que si eso te condiciona también en relación a lo que tenés que documentar, en particular que documentarían
+
+160
+00:18:46.170 --> 00:18:51.709
+Carlos Fabian Descalzo: en casos como esos, qué tipo de documentos son los que tendrían si
+
+161
+00:18:52.090 --> 00:18:57.729
+Carlos Fabian Descalzo: qué necesidades, respecto de cómo se documenta
+
+162
+00:18:58.500 --> 00:19:12.199
+Carlos Fabian Descalzo: para las partes interesadas es el hecho de, por ejemplo, dependiendo del tipo de servicio por ahí para los clientes de de de un servicio en particular Por
+
+163
+00:19:12.320 --> 00:19:23.519
+Carlos Fabian Descalzo: es importante que dentro del marco normativo de seguridad, Por ejemplo, si ustedes ofrecen un servicio de procesamiento de datos
+
+164
+00:19:23.870 --> 00:19:27.400
+Carlos Fabian Descalzo: que el cliente me puede contratar en forma externa.
+
+165
+00:19:27.830 --> 00:19:33.630
+Carlos Fabian Descalzo: es lo que tenga que ver con continuidad de negocio, entonces yo debería de tener
+
+166
+00:19:33.840 --> 00:19:42.560
+Carlos Fabian Descalzo: una norma y un procedimiento de para la continuidad de negocios más allá de un R, P y un B, C, P,
+
+167
+00:19:42.690 --> 00:19:53.019
+Carlos Fabian Descalzo: En donde voy a mencionar en como generé ese documento, que hay una parte del documento
+
+168
+00:19:53.190 --> 00:19:57.490
+Carlos Fabian Descalzo: que le tengo que compartir al cliente, como por ejemplo.
+
+169
+00:19:57.720 --> 00:20:07.320
+Carlos Fabian Descalzo: o una parte del documento a nivel de lista de llamadas o generar un documento aparte para el cliente que sea el procedimiento de llamada ante contingencia.
+
+170
+00:20:07.400 --> 00:20:20.760
+Carlos Fabian Descalzo: sí de de cómo tiene que actuar el cliente en el caso de que yo entre en contingencia. Si un protocolo más alineado con la gestión de crisis, por ejemplo, si
+
+171
+00:20:21.180 --> 00:20:26.749
+Carlos Fabian Descalzo: se va entendiendo chicos, sí, sí, sí.
+
+172
+00:20:26.750 --> 00:20:27.410
+CAROLINA OYARBIDE: Sí, Sí, Sí.
+
+173
+00:20:27.410 --> 00:20:28.930
+Carlos Fabian Descalzo: Perfecto. Bien.
+
+174
+00:20:29.900 --> 00:20:42.789
+Carlos Fabian Descalzo: Y acá lo mismo es desarrollar cada 1 de estos puntos entendiendo de qué es lo que debería de tener el marco normativo este o o que que que en este, en el punto 3 puntualmente
+
+175
+00:20:42.940 --> 00:20:58.279
+Carlos Fabian Descalzo: identificación de necesidades documentales. Es un poco esto que les digo no entender el contexto, ver qué procesos y activos críticos son los que tengo dentro del proceso que voy a estar documentando a nivel de de ciberseguridad.
+
+176
+00:20:58.820 --> 00:21:04.579
+Carlos Fabian Descalzo: identificación de los riesgos, acá por ejemplo, es
+
+177
+00:21:05.920 --> 00:21:23.130
+Carlos Fabian Descalzo: y que qué tipo de riesgos son dentro de los servicios o del alcance que estoy poniendo, que que voy a estar este viendo en distintos documentos, inclusive se me ocurre hasta podría armar ahí
+
+178
+00:21:23.130 --> 00:21:33.499
+Carlos Fabian Descalzo: como una tablita, como mencionando un riesgo y identificar en donde es que estoy documentando algo en particular. Por ejemplo.
+
+179
+00:21:34.480 --> 00:21:38.660
+Carlos Fabian Descalzo: imagínense no sé un riesgo de inundación.
+
+180
+00:21:38.820 --> 00:21:46.559
+Carlos Fabian Descalzo: además de tenerlo dentro de lo que es la matriz de riesgos de la compañía.
+
+181
+00:21:46.750 --> 00:21:54.500
+Carlos Fabian Descalzo: hay un procedimiento de evacuación este del del edificio
+
+182
+00:21:54.570 --> 00:22:12.469
+Carlos Fabian Descalzo: y una lista de llamada especial frente a ese hecho, y en el de R P. O en el Bc P están identificados de cómo actuar frente a esa crisis. Por ejemplo, no se entiende.
+
+183
+00:22:12.790 --> 00:22:15.280
+Carlos Fabian Descalzo: o sea, ir ir viendo por ahí.
+
+184
+00:22:15.450 --> 00:22:18.749
+Carlos Fabian Descalzo: Sí, Este se me ocurre que que podría hacer eso.
+
+185
+00:22:19.490 --> 00:22:30.870
+Carlos Fabian Descalzo: Si en ese punto inclusive ustedes enumeran riesgos, nada más ponen inundación, coma este
+
+186
+00:22:31.940 --> 00:22:35.630
+Carlos Fabian Descalzo: incendio, coma y y cualquier otro riesgo
+
+187
+00:22:35.940 --> 00:22:41.709
+Carlos Fabian Descalzo: es lo mismo. Es como lo L, O sea, ahí es donde ustedes tienen que ver qué otra
+
+188
+00:22:41.840 --> 00:22:44.800
+Carlos Fabian Descalzo: cuestión adicional. Le pueden poner. Sí,
+
+189
+00:22:45.180 --> 00:22:53.060
+Carlos Fabian Descalzo: no los quiero condicionar. Eso es a lo que voy. Sí, Bien, después.
+
+190
+00:22:54.420 --> 00:23:00.590
+Carlos Fabian Descalzo: Y acá en el punto. Cuatro de planificación documental es explicar.
+
+191
+00:23:01.460 --> 00:23:06.800
+Carlos Fabian Descalzo: o sea, elaboración de alimentario, maestro de documentos. Bueno, es poner
+
+192
+00:23:07.080 --> 00:23:21.510
+Carlos Fabian Descalzo: esto. Se crea un inventario maestro de documentos que nos permite este realizar el control de vencimiento de los documentos que son revisados en forma anual
+
+193
+00:23:21.510 --> 00:23:32.039
+Carlos Fabian Descalzo: en base al al al inventario en donde, a su vez se menciona si los documentos están activos o no.
+
+194
+00:23:32.690 --> 00:23:43.040
+Carlos Fabian Descalzo: si en qué estado de aprobación están, si están en desarrollo, en cuál, en en qué estado del ciclo de vida está etcétera. Eso es explicarlo. Sí,
+
+195
+00:23:43.160 --> 00:23:45.660
+Carlos Fabian Descalzo: eso va. Va. Va con una explicación.
+
+196
+00:23:45.990 --> 00:23:51.119
+Carlos Fabian Descalzo: cómo se hace la separación entre elaboración, revisión y aprobación.
+
+197
+00:23:51.330 --> 00:23:58.680
+Carlos Fabian Descalzo: Ejemplo: la compañía cuenta con una herramienta de gestión documental que le permite separar en roles
+
+198
+00:23:58.770 --> 00:24:15.290
+Carlos Fabian Descalzo: el ciclo de vida de los documentos para que sean desarrollados, revisados y aprobados por cada 1 de los estadios en los que van generándose la documentación.
+
+199
+00:24:16.060 --> 00:24:20.400
+Carlos Fabian Descalzo: Eso sí, Y
+
+200
+00:24:21.610 --> 00:24:34.709
+Carlos Fabian Descalzo: el resto, igual como es que se como es que lo van a registrar como incorporan un documento al inventar, o sea, surge la necesidad de tener un documento nuevo. Bueno a
+
+201
+00:24:34.940 --> 00:24:54.369
+Carlos Fabian Descalzo: es explicar si en el mantenimiento de la del inventario. El documento que se crea nuevo una vez aprobado, se ingresa al al como se llama al inventario Este, una vez aprobado por el dueño del proceso. Ejemplo.
+
+202
+00:24:54.410 --> 00:24:55.250
+Carlos Fabian Descalzo: Sí.
+
+203
+00:24:55.430 --> 00:24:59.710
+Carlos Fabian Descalzo: Mhm.
+
+204
+00:24:59.960 --> 00:25:01.630
+Carlos Fabian Descalzo: El resto es lo mismo.
+
+205
+00:25:03.350 --> 00:25:08.729
+Carlos Fabian Descalzo: Si posiblemente, Por ejemplo, esto que dice publicación en un repositorio oficial.
+
+206
+00:25:09.440 --> 00:25:16.309
+Carlos Fabian Descalzo: La publicación del documento para que tenga acceso toda la compañía se realiza a través de
+
+207
+00:25:16.860 --> 00:25:35.170
+Carlos Fabian Descalzo: una intranet, de un sherpoint a donde tienen acceso todos los usuarios o en un Sherpon y en donde se segrega determinado tipo de documentos para los usuarios finales determinado tipo de documentos para los administradores y operadores de sistemas.
+
+208
+00:25:35.890 --> 00:25:44.080
+Carlos Fabian Descalzo: Ahí ustedes tienen que ir. Se entiende. No tienen que ir creando yo acá como les que les voy dando el guión
+
+209
+00:25:44.670 --> 00:25:50.420
+Carlos Fabian Descalzo: como para que ustedes escriban. La película, Sí, vamos. Bien, con la explicación.
+
+210
+00:25:51.630 --> 00:25:52.400
+Carlos Fabian Descalzo: Sí.
+
+211
+00:25:52.640 --> 00:25:53.669
+CAROLINA OYARBIDE: Sí, Sí, Sí.
+
+212
+00:25:54.190 --> 00:26:02.340
+Carlos Fabian Descalzo: Bien esto lo mismo a nivel de comunicación y concientización, siempre en función de
+
+213
+00:26:02.670 --> 00:26:05.840
+Carlos Fabian Descalzo: de de lo que es la parte documental, ¿no?
+
+214
+00:26:06.130 --> 00:26:12.179
+Carlos Fabian Descalzo: Y les tiro un texto que yo pondría acá
+
+215
+00:26:12.340 --> 00:26:28.470
+Carlos Fabian Descalzo: una vez publicado el documento y comunicado a través de un correo electrónico que le llega a todos los usuarios, indicando el nombre del documento en dónde está ubicado y cuál es el objetivo del documento
+
+216
+00:26:28.580 --> 00:26:31.000
+Carlos Fabian Descalzo: junto con el área de capital humano.
+
+217
+00:26:31.170 --> 00:26:45.799
+Carlos Fabian Descalzo: se desarrolla una actividad de capacitación para los temas específicos que estén desarrollados a nivel de proceso que están documentados en la norma tal tal recientemente publicada.
+
+218
+00:26:46.680 --> 00:26:48.370
+Carlos Fabian Descalzo: Eso sí.
+
+219
+00:26:49.580 --> 00:26:58.010
+Carlos Fabian Descalzo: Bueno, Bueno, ahora, acá esto es lo mismo. ¿cómo es que harían?
+
+220
+00:26:58.360 --> 00:27:03.870
+Carlos Fabian Descalzo: Verificarían la aplicación de las políticas, qué tipo de indicadores consideran que
+
+221
+00:27:04.010 --> 00:27:11.200
+Carlos Fabian Descalzo: que son los necesarios como para indicadores a nivel de capeíno, y
+
+222
+00:27:11.830 --> 00:27:16.849
+Carlos Fabian Descalzo: esto de incorporación de requisitos documentales en contratos de terceros.
+
+223
+00:27:17.530 --> 00:27:23.939
+Carlos Fabian Descalzo: Algo vieron que yo les les contaba, que que yo recomendaba vieron cuando vimos algo de
+
+224
+00:27:24.160 --> 00:27:29.719
+Carlos Fabian Descalzo: de gestión de proyectos que yo les decía que recomendaba
+
+225
+00:27:29.990 --> 00:27:39.390
+Carlos Fabian Descalzo: que en los contratos, por ejemplo, estén los requisitos relacionados con controles y bueno.
+
+226
+00:27:39.750 --> 00:27:46.190
+Carlos Fabian Descalzo: les comentaba lo de la necesidad de tener alineado, junto con nuestro proveedor.
+
+227
+00:27:46.400 --> 00:27:53.339
+Carlos Fabian Descalzo: nuestra gestión de incidentes, nuestra gestión de riesgos, gestión, de cambios. Bueno, eso
+
+228
+00:27:54.170 --> 00:27:56.129
+Carlos Fabian Descalzo: es lo que iría en ese punto.
+
+229
+00:27:57.090 --> 00:28:07.620
+Carlos Fabian Descalzo: Para lo que tiene que ver con la relación en la relación con terceros se asocia al marco contractual.
+
+230
+00:28:08.020 --> 00:28:24.640
+Carlos Fabian Descalzo: El procedimiento de gestión de incidentes de gestión de cambios y de gestión de riesgos. Este en donde se identifican los requisitos que debe cumplir el proveedor para alinearse con nuestros protocolos
+
+231
+00:28:26.050 --> 00:28:29.540
+Carlos Fabian Descalzo: sería explicar eso en ese punto sí
+
+232
+00:28:30.420 --> 00:28:33.120
+Carlos Fabian Descalzo: monitor torino y control, lo mismo.
+
+233
+00:28:36.060 --> 00:28:41.040
+Carlos Fabian Descalzo: Esto es cómo se haría la gestión de versiones y cambios.
+
+234
+00:28:44.850 --> 00:28:50.339
+Carlos Fabian Descalzo: Esto sería, digamos, como, así como arriba. Puse el alta del documento.
+
+235
+00:28:50.570 --> 00:28:53.680
+Carlos Fabian Descalzo: el tema de cómo sería la baja.
+
+236
+00:28:54.350 --> 00:29:01.400
+Carlos Fabian Descalzo: Y esto lo que quiere decir es Yo les dejo esta cantidad
+
+237
+00:29:02.680 --> 00:29:08.769
+Carlos Fabian Descalzo: que en esa enunciativa. Pueden usar 5, 6 de estos.
+
+238
+00:29:11.040 --> 00:29:13.389
+Carlos Fabian Descalzo: y es como si yo pusiera.
+
+239
+00:29:14.110 --> 00:29:17.269
+Carlos Fabian Descalzo: Ahora, después voy a buscar una tablita.
+
+240
+00:29:18.120 --> 00:29:25.840
+Carlos Fabian Descalzo: Es como si yo utilizara esta tabla y pongo política.
+
+241
+00:29:26.750 --> 00:29:37.179
+Carlos Fabian Descalzo: y acá en lugar de, bueno, la finalidad, y le agrego, por ejemplo, 3 columnas, no la de autor, la de revisor y la del firmante, digamos, la del aprobador.
+
+242
+00:29:37.630 --> 00:29:41.370
+Carlos Fabian Descalzo: entonces yo podría definir que las políticas.
+
+243
+00:29:42.150 --> 00:29:54.079
+Carlos Fabian Descalzo: el el autor es el analista de seguridad de la información, y perdón, Discúlpeme un cachito
+
+244
+00:29:59.010 --> 00:30:02.430
+Carlos Fabian Descalzo: y les presento a un muchacho
+
+245
+00:30:02.950 --> 00:30:07.160
+Carlos Fabian Descalzo: que es el que me jode cuando yo estoy hablando con ustedes.
+
+246
+00:30:09.090 --> 00:30:14.259
+Carlos Fabian Descalzo: Así que, bueno, le abro la puerta al hijo peludo. Y saben, 2 s.
+
+247
+00:30:20.540 --> 00:30:22.540
+Carlos Fabian Descalzo: Ah, bueno, ahora sí.
+
+248
+00:30:22.650 --> 00:30:29.600
+Carlos Fabian Descalzo: Entonces es como, por ejemplo, decir las políticas, las escribe. El analista de seguridad
+
+249
+00:30:30.190 --> 00:30:36.009
+Carlos Fabian Descalzo: las revisa el gerente y la firma en el CEO de la compañía.
+
+250
+00:30:37.110 --> 00:30:39.209
+Carlos Fabian Descalzo: En el caso de las normas
+
+251
+00:30:40.410 --> 00:30:53.009
+Carlos Fabian Descalzo: las va a desarrollar. El analista de seguridad, la revisa el área que sea propietaria del documento.
+
+252
+00:30:53.930 --> 00:30:58.089
+Carlos Fabian Descalzo: Por ejemplo, vieron que, dentro del marco normativo
+
+253
+00:30:59.000 --> 00:31:01.789
+Carlos Fabian Descalzo: de seguridad de la información, yo tengo
+
+254
+00:31:02.040 --> 00:31:06.670
+Carlos Fabian Descalzo: asociado documentos relacionados con el control de las personas.
+
+255
+00:31:07.660 --> 00:31:14.350
+Carlos Fabian Descalzo: esos documentos de las normas para usuarios y
+
+256
+00:31:14.620 --> 00:31:25.640
+Carlos Fabian Descalzo: los temas relacionados con sanciones, a las políticas, al no cumplimiento de de las políticas de seguridad, etc. El que la debe firmar es el gerente de capital humano.
+
+257
+00:31:25.820 --> 00:31:32.350
+Carlos Fabian Descalzo: no la firma, el gerente del sistema este y, A su vez.
+
+258
+00:31:33.080 --> 00:31:49.729
+Carlos Fabian Descalzo: si el gerente de seguridad puede ser quien la revise junto con alguien de capital humano. Pero el firmante aprobador es alguien de capital humano se entiende, entonces ahí podría llegar a ser eso. Y así con con el resto, digamos no.
+
+259
+00:31:49.880 --> 00:31:54.410
+Carlos Fabian Descalzo: Yo Ahora, después. También veo si si busco, tengo una tablita.
+
+260
+00:31:55.030 --> 00:31:59.189
+Carlos Fabian Descalzo: digamos, en donde menciono esto, que les digo
+
+261
+00:31:59.450 --> 00:32:11.729
+Carlos Fabian Descalzo: que se las comparto como para que tengan una idea más o menos porque creo que esto no no se los puse en los en los slide si Pero este tema de la de la Razi.
+
+262
+00:32:12.260 --> 00:32:16.769
+Carlos Fabian Descalzo: Es como para que ustedes tengan una idea de cuáles son los distintos roles
+
+263
+00:32:16.890 --> 00:32:23.870
+Carlos Fabian Descalzo: que podrían llegar a estar involucrados dentro del ciclo de vida, de de de cómo se llama
+
+264
+00:32:24.650 --> 00:32:30.389
+Carlos Fabian Descalzo: de la gestión documental, Sí, en cuanto a seguridad, y la documentación
+
+265
+00:32:31.430 --> 00:32:46.649
+Carlos Fabian Descalzo: es también una explicación de cómo se clasificarían. Por ejemplo, todo lo que tenga que ver con el marco normativo es clasificado como de uso interno de la compañía
+
+266
+00:32:46.860 --> 00:32:51.119
+Carlos Fabian Descalzo: Este, en en en su mayoría, salvo
+
+267
+00:32:51.560 --> 00:32:55.310
+Carlos Fabian Descalzo: tales documentos que tienen información confidencial.
+
+268
+00:32:55.410 --> 00:33:00.540
+Carlos Fabian Descalzo: Por ejemplo, los documentos que podrían llegar a ser confidenciales
+
+269
+00:33:01.390 --> 00:33:07.269
+Carlos Fabian Descalzo: son los que están relacionados con las configuraciones
+
+270
+00:33:08.190 --> 00:33:11.730
+Carlos Fabian Descalzo: a nivel de comunicaciones, los estándares de configuración
+
+271
+00:33:11.840 --> 00:33:20.619
+Carlos Fabian Descalzo: en donde vos. En ese documento. Lo que ponés es el parámetro y el valor de configuración de cada 1 de los sistemas. Sí,
+
+272
+00:33:20.780 --> 00:33:24.310
+Carlos Fabian Descalzo: ¿Qué tipo de control se hace.
+
+273
+00:33:24.530 --> 00:33:29.189
+Carlos Fabian Descalzo: En en cuanto a ese marco documental, Sí,
+
+274
+00:33:29.450 --> 00:33:37.940
+Carlos Fabian Descalzo: si es que digamos como una de las cosas que podría poner acá es que Realizo una
+
+275
+00:33:38.530 --> 00:33:46.770
+Carlos Fabian Descalzo: auditoría o un control semestral para verificar que los documentos
+
+276
+00:33:46.980 --> 00:33:55.559
+Carlos Fabian Descalzo: para verificar que 2 puntos, los documentos publicados estén todos vigentes
+
+277
+00:33:55.560 --> 00:34:11.510
+Carlos Fabian Descalzo: de que se esté respetando el ciclo de vida, de la creación de un documento que se esté completando, lo que tiene que ver con la verificación de la actualización de las necesidades de actualización de documentos, etcétera, etcétera, ¿no?
+
+278
+00:34:11.840 --> 00:34:17.929
+Carlos Fabian Descalzo: Y esto acá del cifrado, y
+
+279
+00:34:21.150 --> 00:34:29.000
+Carlos Fabian Descalzo: podrían llegar a agregarlo como para identificar dentro del marco documental.
+
+280
+00:34:29.739 --> 00:34:38.600
+Carlos Fabian Descalzo: si es que hay algún procedimiento o algún protocolo en donde haya información
+
+281
+00:34:39.460 --> 00:34:49.029
+Carlos Fabian Descalzo: confidencial que deba ser abierta a través del uso de una contraseña. Por ejemplo, no se me ocurre ahora
+
+282
+00:34:49.889 --> 00:34:54.550
+Carlos Fabian Descalzo: dentro de un marco documental que, pero
+
+283
+00:34:54.980 --> 00:35:10.909
+Carlos Fabian Descalzo: digo si lo ponen o no lo ponen en en este sentido, No, porque no, le no, No le encuentro ahí alguna explicación adicional a esto, no una una de las cosas que sí tiene sentido. Y y por qué lo lo puse ahí
+
+284
+00:35:11.150 --> 00:35:15.980
+Carlos Fabian Descalzo: es porque podríamos incluir como información documentada.
+
+285
+00:35:16.210 --> 00:35:35.400
+Carlos Fabian Descalzo: el en sobrado electrónico de contraseñas, por ejemplo, de lo que son contraseñas de de altos privilegios. En donde Bueno, yo tengo todas las contraseñas documentadas en en una este, ¿Cómo se llama en un bol de de seguridad, vieron que hay sistemas
+
+286
+00:35:35.830 --> 00:35:38.000
+Carlos Fabian Descalzo: como este
+
+287
+00:35:38.540 --> 00:35:50.459
+Carlos Fabian Descalzo: de del tipo Qipass, etcétera, en donde lo que hago es en un sobre electrónico, resguardar todas las contraseñas de altos privilegios, por ejemplo, no
+
+288
+00:35:50.470 --> 00:36:00.019
+Carlos Fabian Descalzo: Entonces, Bueno, podría decir que las contraseñas documentadas de altos privilegios en este tipo de sistemas se encuentra cifrado
+
+289
+00:36:00.140 --> 00:36:04.959
+Carlos Fabian Descalzo: para que no se pueda revelar el contenido, Digamos no
+
+290
+00:36:05.910 --> 00:36:17.470
+Carlos Fabian Descalzo: ¿Cómo es que que va a estar disponible en contingencia esta documentación, este marco normativo supóngase que yo puedo tener 2 cosas, si si es que lo tengo
+
+291
+00:36:17.670 --> 00:36:19.860
+Carlos Fabian Descalzo: onpremis, por así decirlo.
+
+292
+00:36:19.980 --> 00:36:29.230
+Carlos Fabian Descalzo: en en en un sharepoint o en una intranet de la compañía. Bueno, lo que hago es resguardar periódicamente.
+
+293
+00:36:30.200 --> 00:36:33.369
+Carlos Fabian Descalzo: siempre que digan periódicamente. Pónganle el tiempo, ¿
+
+294
+00:36:33.530 --> 00:36:38.930
+Carlos Fabian Descalzo: Porque si no, acá. La auditora nos va a retar y nos va a decir periódicamente qué
+
+295
+00:36:39.150 --> 00:36:45.290
+Carlos Fabian Descalzo: qué 3 meses, un mes, 2 días, no, no claro.
+
+296
+00:36:45.590 --> 00:36:50.010
+CAROLINA OYARBIDE: Sí, Sí, Sí, la felicidad no es lo mismo. Una semana, 2 meses no no.
+
+297
+00:36:50.010 --> 00:36:57.710
+Carlos Fabian Descalzo: Tal cual tal cual Ahí pónganle que, con respecto al tema del respaldo de de la documentación.
+
+298
+00:36:57.830 --> 00:37:06.659
+Carlos Fabian Descalzo: deberían de hacerlo cada 3, 4 meses, digamos una cosa así 3 veces al año.
+
+299
+00:37:06.850 --> 00:37:13.660
+Carlos Fabian Descalzo: porque tampoco es que haya mucho movimiento, salvo.
+
+300
+00:37:13.860 --> 00:37:25.049
+Carlos Fabian Descalzo: digamos, la creación de por una cuestión de cantidad o por una cuestión de criticidad de algunos documentos en en en particular, digamos.
+
+301
+00:37:25.350 --> 00:37:30.110
+Carlos Fabian Descalzo: pero entiendo yo que revisarlo cada 3 4 meses sería
+
+302
+00:37:30.440 --> 00:37:38.120
+Carlos Fabian Descalzo: sería suficiente y que ese backup que van a tomar
+
+303
+00:37:38.510 --> 00:37:53.499
+Carlos Fabian Descalzo: va a estar resguardado, por ejemplo, en el sitio alterno frente a contingencias, etcétera. U otra respuesta puede ser que, como tienen servicios de nube contratados
+
+304
+00:37:54.130 --> 00:37:56.380
+Carlos Fabian Descalzo: la al estar la
+
+305
+00:37:56.750 --> 00:38:05.910
+Carlos Fabian Descalzo: la publicación en un servicio de nube. Lo pueden acceder desde cualquier lugar, ante una contingencia que tengan
+
+306
+00:38:06.060 --> 00:38:08.729
+Carlos Fabian Descalzo: desde el punto de vista a nivel físico
+
+307
+00:38:09.310 --> 00:38:13.890
+Carlos Fabian Descalzo: y después, el tema de prevención de divulgación no autorizada, es
+
+308
+00:38:15.030 --> 00:38:18.719
+Carlos Fabian Descalzo: es decir, el el acceso es al igual que cualquier otra
+
+309
+00:38:18.870 --> 00:38:29.619
+Carlos Fabian Descalzo: aplicación en base una a credenciales, una cuenta de usuario y una contraseña de la compañía en donde primero, obviamente están validados en una de o algo así
+
+310
+00:38:29.870 --> 00:38:39.439
+Carlos Fabian Descalzo: sí, Así que eso no sé si si les quedó alguna duda. Si fui muy rápido o poco claro
+
+311
+00:38:41.430 --> 00:38:43.109
+Carlos Fabian Descalzo: en alguna cuestión.
+
+312
+00:38:44.810 --> 00:38:52.850
+FRANCISCO DAURAT: Yo entré tarde. Profe quizá lo explicaste, pero tenía la duda todavía. Si el template y viste que ya te había consultado por Blackboard.
+
+313
+00:38:53.160 --> 00:38:58.939
+Carlos Fabian Descalzo: Sí, Sí, sí. Yo ahí lo lo que quedé es que cuando hagamos el cómo se llama el Break.
+
+314
+00:38:59.210 --> 00:39:05.359
+Carlos Fabian Descalzo: yo voy a tomar 1 de los que me entregó alguno de los chicos. Cómo se llama
+
+315
+00:39:05.490 --> 00:39:13.190
+Carlos Fabian Descalzo: del cuatrimestre anterior y lo limpio, y se los pasó.
+
+316
+00:39:13.190 --> 00:39:14.000
+FRANCISCO DAURAT: Vale. Perfecto.
+
+317
+00:39:14.000 --> 00:39:14.819
+Carlos Fabian Descalzo: Todo es el mismo.
+
+318
+00:39:16.030 --> 00:39:16.640
+FRANCISCO DAURAT: Bárbaro.
+
+319
+00:39:17.150 --> 00:39:18.980
+Carlos Fabian Descalzo: Dale excelente.
+
+320
+00:39:19.210 --> 00:39:30.050
+Carlos Fabian Descalzo: Y así que bien, después, con respecto al al desarrollo en sí, alguien tiene alguna duda.
+
+321
+00:39:36.120 --> 00:39:37.919
+Carlos Fabian Descalzo: bien entiendo que no
+
+322
+00:39:42.600 --> 00:39:43.490
+Carlos Fabian Descalzo: bárbaro.
+
+323
+00:39:44.970 --> 00:39:57.730
+Carlos Fabian Descalzo: Entonces bueno, nada es. Sería esto, en particular lo que les tengo que compartir. Entonces después les quería mostrar.
+
+324
+00:39:58.160 --> 00:40:04.099
+Carlos Fabian Descalzo: Quiero ver si tengo lo tenga en otro disco.
+
+325
+00:40:04.860 --> 00:40:08.840
+Carlos Fabian Descalzo: París me parece.
+
+326
+00:40:12.990 --> 00:40:14.010
+Carlos Fabian Descalzo: Mhm.
+
+327
+00:40:20.210 --> 00:40:22.740
+Carlos Fabian Descalzo: Estoy buscando chicos. Un segu
+
+328
+00:40:28.910 --> 00:40:30.569
+Carlos Fabian Descalzo: si me parece.
+
+329
+00:40:38.940 --> 00:40:43.370
+Carlos Fabian Descalzo: bueno, no después se los busco tranquilo y les muestro.
+
+330
+00:40:45.310 --> 00:40:50.539
+Carlos Fabian Descalzo: Así que bien, bueno, Uy se largó su berche por acá.
+
+331
+00:40:52.240 --> 00:41:02.400
+Carlos Fabian Descalzo: Bien. Entonces seguimos con con lo nuestro Y
+
+332
+00:41:02.720 --> 00:41:06.129
+Carlos Fabian Descalzo: bueno, el el otro día vimos todo lo que era
+
+333
+00:41:06.740 --> 00:41:09.620
+Carlos Fabian Descalzo: este la la parte de P, C. I.
+
+334
+00:41:10.290 --> 00:41:12.799
+Carlos Fabian Descalzo: Ahora vamos a ver algo de shock.
+
+335
+00:41:13.100 --> 00:41:18.660
+Carlos Fabian Descalzo: La idea de de de shock parte
+
+336
+00:41:18.830 --> 00:41:30.349
+Carlos Fabian Descalzo: de lo que es o de lo que fue oportunamente un fraude bastante importante que hubo entre
+
+337
+00:41:30.530 --> 00:41:32.440
+Carlos Fabian Descalzo: en una empresa.
+
+338
+00:41:32.560 --> 00:41:35.910
+Carlos Fabian Descalzo: La causante de esto fue en rompefuezas. Hay varios
+
+339
+00:41:36.100 --> 00:41:40.250
+Carlos Fabian Descalzo: este incidentes que ocurrieron en en otras compañías
+
+340
+00:41:40.910 --> 00:41:48.179
+Carlos Fabian Descalzo: en donde una de las grandes consultoras que era auditora de Estados contables de la empresa.
+
+341
+00:41:48.750 --> 00:41:55.120
+Carlos Fabian Descalzo: Algunos socios han tenido, y alguna
+
+342
+00:41:55.260 --> 00:42:01.439
+Carlos Fabian Descalzo: asociación ilícita con directores y gerentes de esta empresa
+
+343
+00:42:02.130 --> 00:42:08.580
+Carlos Fabian Descalzo: en donde de alguna manera acordaron a toquetear el balance para que diera bien.
+
+344
+00:42:09.040 --> 00:42:23.849
+Carlos Fabian Descalzo: Y de alguna manera digamos se le ocultaba algún mal resultado a los accionistas, además de sacar ventajas relacionadas con lo que son las acciones en la bolsa, digamos no en
+
+345
+00:42:24.050 --> 00:42:29.029
+Carlos Fabian Descalzo: En en este caso en particular, en lo que tiene que ver con la Bolsa de Nueva York.
+
+346
+00:42:29.340 --> 00:42:34.520
+Carlos Fabian Descalzo: En función de eso, que se descubrió oportunamente. Bueno, obviamente, la
+
+347
+00:42:35.090 --> 00:42:42.690
+Carlos Fabian Descalzo: la empresa fue multada, inclusive la consultora, no existe más, y
+
+348
+00:42:43.020 --> 00:42:52.009
+Carlos Fabian Descalzo: lo que lo que se hizo fue a partir de 2 abogados
+
+349
+00:42:52.340 --> 00:42:56.610
+Carlos Fabian Descalzo: que eran senadores de del gobierno de Estados Unidos.
+
+350
+00:42:57.050 --> 00:43:01.449
+Carlos Fabian Descalzo: 1 salvarnes y el otro Oxley.
+
+351
+00:43:01.900 --> 00:43:05.920
+Carlos Fabian Descalzo: Por eso se llama la ley shock sí.
+
+352
+00:43:06.210 --> 00:43:15.720
+Carlos Fabian Descalzo: Y lo que hicieron fue establecer a partir de esta ley pautas, requerimientos
+
+353
+00:43:16.000 --> 00:43:31.059
+Carlos Fabian Descalzo: para la protección del accionista y de las empresas frente a estos temas, en en particular no en donde en lo que tiene que ver específicamente en este sentido de
+
+354
+00:43:31.410 --> 00:43:50.420
+Carlos Fabian Descalzo: con un gran enfoque a la a la integridad del del dato y a la gestión de los datos. En particular, está enfocado en lo que tiene que ver con la sección 404 de lo que es esta ley en en particular, no en donde
+
+355
+00:43:50.730 --> 00:43:58.060
+Carlos Fabian Descalzo: este control, de alguna manera, a nivel de de resultados de lo que deben hacer las compañías. Es revisado
+
+356
+00:43:58.380 --> 00:44:05.380
+Carlos Fabian Descalzo: por una entidad que es como si fuera la C, N. B, acá en en en Argentina.
+
+357
+00:44:05.690 --> 00:44:13.709
+Carlos Fabian Descalzo: que se llama Sec. Sí que establece una serie también de requisitos
+
+358
+00:44:14.390 --> 00:44:23.170
+Carlos Fabian Descalzo: relacionados tanto con la parte funcional del negocio de todo lo que sea material al balance y también
+
+359
+00:44:23.510 --> 00:44:29.230
+Carlos Fabian Descalzo: al al uso de la tecnología, sí, en donde después, también con el tema de la tecnología.
+
+360
+00:44:29.540 --> 00:44:34.580
+Carlos Fabian Descalzo: vamos a ver que se le dio muchísima preponderancia a lo que es ciberseguridad.
+
+361
+00:44:34.790 --> 00:44:41.220
+Carlos Fabian Descalzo: En función de algunos incidentes, 1 en particular que hizo que se actualizara
+
+362
+00:44:41.420 --> 00:44:48.239
+Carlos Fabian Descalzo: esta este reglamento de la S E. C para el cumplimiento de la ley shock.
+
+363
+00:44:48.820 --> 00:44:52.630
+Carlos Fabian Descalzo: Y en este sentido
+
+364
+00:44:53.570 --> 00:45:01.450
+Carlos Fabian Descalzo: es, digamos, lo que se genera a partir de esto es como se menciona acá no un informe de control interno.
+
+365
+00:45:01.970 --> 00:45:20.989
+Carlos Fabian Descalzo: Por eso también yo les hablo mucho del tema corporativo y les hablo mucho del tema de coso como manual de control interno, etc, porque hay mucho de esto, que está asociado principalmente a tener que no solamente cumplir con los temas de seguridad de la información y ciberseguridad
+
+366
+00:45:21.170 --> 00:45:23.690
+Carlos Fabian Descalzo: este, sino también
+
+367
+00:45:24.540 --> 00:45:41.989
+Carlos Fabian Descalzo: hasta desde el punto de vista tecnológico, cumplir con todo lo que es riesgo corporativo este a nivel de control interno. Si acá una para que tengan una idea, una breve descripción, no en particular de lo que hace a esta sección en sí, que es una parte de la ley
+
+368
+00:45:42.060 --> 00:45:49.830
+Carlos Fabian Descalzo: que, como bien dice, acá es la que requiere más tiempo y esfuerzo, en particular, no calculen ustedes
+
+369
+00:45:50.160 --> 00:45:52.660
+Carlos Fabian Descalzo: de que
+
+370
+00:45:53.710 --> 00:46:03.509
+Carlos Fabian Descalzo: me ha tocado en empresas en donde he liderado este tipo de de de proyectos desde el punto de vista de seguridad de la información.
+
+371
+00:46:04.120 --> 00:46:08.249
+Carlos Fabian Descalzo: No han sido procesos menores a los 2 años y medio 3 años.
+
+372
+00:46:08.430 --> 00:46:13.519
+Carlos Fabian Descalzo: el hecho de implementar, etcétera, no por el nivel de alcance.
+
+373
+00:46:14.100 --> 00:46:21.540
+Carlos Fabian Descalzo: por el nivel de la necesidad de la implementación de controles, en particular en donde
+
+374
+00:46:21.680 --> 00:46:28.369
+Carlos Fabian Descalzo: esto afecta no solamente afecta no en realidad no no incluye no solamente.
+
+375
+00:46:28.850 --> 00:46:34.690
+Carlos Fabian Descalzo: como les decía recién a procesos funcionales, sino también a procesos tecnológicos
+
+376
+00:46:35.020 --> 00:46:39.860
+Carlos Fabian Descalzo: en todo el ciclo de vida de la tecnología, no únicamente en el tema de la seguridad.
+
+377
+00:46:40.100 --> 00:46:44.759
+Carlos Fabian Descalzo: sino también en la operación en el desarrollo.
+
+378
+00:46:44.760 --> 00:47:00.610
+Carlos Fabian Descalzo: tanto el desarrollo de software como el la parte de arquitectura de Haití, de quienes crean el ambiente de los sistemas, etc, y todo depende del nivel de complejidad de de de la compañía.
+
+379
+00:47:01.490 --> 00:47:07.120
+Carlos Fabian Descalzo: Me ha tocado hacerlo en una empresa muy grande de retail
+
+380
+00:47:07.620 --> 00:47:16.310
+Carlos Fabian Descalzo: en donde, para que ustedes tengan una idea, había un gerente, un director
+
+381
+00:47:16.570 --> 00:47:25.000
+Carlos Fabian Descalzo: por la parte de seguridad de la información que tenía 5 gerencias debajo de ciberseguridad.
+
+382
+00:47:25.240 --> 00:47:41.119
+Carlos Fabian Descalzo: controles de cómo se llama en un área de de control. Es solamente para todo lo que es la parte de tecnología y y todo lo que era La la parte de Cyber, la parte de Networking la tenían incluida
+
+383
+00:47:41.120 --> 00:47:46.990
+Carlos Fabian Descalzo: dentro de networking perdón de lo que tiene que ver con
+
+384
+00:47:47.330 --> 00:47:54.410
+Carlos Fabian Descalzo: tema firewalls y y lo que es protección de fronteras. Había otra gerencia, en particular después tenía
+
+385
+00:47:55.150 --> 00:47:59.249
+Carlos Fabian Descalzo: una gerencia por línea de negocio, una gerencia de sistemas
+
+386
+00:47:59.420 --> 00:48:01.990
+Carlos Fabian Descalzo: por línea de negocio de la compañía.
+
+387
+00:48:02.350 --> 00:48:12.890
+Carlos Fabian Descalzo: Y había alrededor de 6 7 gerentes de sistemas en donde cada 1 atendía a una parte de la empresa, digamos no en en particular.
+
+388
+00:48:13.250 --> 00:48:23.259
+Carlos Fabian Descalzo: Después, además, tenías el director de arquitectura que tenía las torres de diseño de base de datos, diseño de sistemas operativos.
+
+389
+00:48:23.260 --> 00:48:35.880
+Carlos Fabian Descalzo: diseño de las redes, etcétera. Más un área enorme de desarrollo y compra de software. Bueno, imagínense eso más. Todas las áreas de negocio, no
+
+390
+00:48:36.510 --> 00:48:48.489
+Carlos Fabian Descalzo: 570, servidores de aplicación, más otros tantos de base de datos, entonces todo esto requiere además
+
+391
+00:48:49.270 --> 00:48:56.230
+Carlos Fabian Descalzo: no sólo que estén aplicado desde el punto de vista de implementación y
+
+392
+00:48:56.580 --> 00:49:04.020
+Carlos Fabian Descalzo: lo que está asociado a las configuraciones necesarias para poder proteger, sino que además tiene que estar todo documentado.
+
+393
+00:49:04.950 --> 00:49:08.540
+Carlos Fabian Descalzo: ¿cómo este se exige para que
+
+394
+00:49:08.600 --> 00:49:23.429
+Carlos Fabian Descalzo: todo esté asegurado desde el punto de vista metodológico, inclusive no con políticas. Por eso la muy alineado, también, digo, como implemento esto. Bueno, por ejemplo, con lo que me pide la 27. 1 000, Uno.
+
+395
+00:49:23.430 --> 00:49:32.330
+Carlos Fabian Descalzo: lo que me pide Covid, 2 019 desde el punto de vista de gobierno y tecnología, etcétera, como que me armo un combo
+
+396
+00:49:32.330 --> 00:49:33.710
+Carlos Fabian Descalzo: de distintos.
+
+397
+00:49:33.840 --> 00:49:35.940
+Carlos Fabian Descalzo: Este
+
+398
+00:49:36.890 --> 00:49:51.029
+Carlos Fabian Descalzo: Frameworks o o de distintos estándares lanista, 853, por ejemplo, es los controles alineados, al Siscontrol, etcétera. ¿no? Entonces, bueno, por eso
+
+399
+00:49:51.060 --> 00:49:59.190
+Carlos Fabian Descalzo: inclusive en todo toda ese marco documental, lo que me genera es el hecho de poder tener un ambiente que no solo
+
+400
+00:49:59.600 --> 00:50:09.910
+Carlos Fabian Descalzo: tenga establecido un marco de control, sino que, además, esos controles sean efectivos. En en en particular no y que la operación sea efectiva. También.
+
+401
+00:50:10.320 --> 00:50:14.819
+Carlos Fabian Descalzo: Bueno, esto se los dejo como para que lo lean. Es un poco.
+
+402
+00:50:15.230 --> 00:50:21.449
+Carlos Fabian Descalzo: Este, digamos, un poco más de lo que estuvimos hablando recién nosotros. Sí
+
+403
+00:50:21.720 --> 00:50:25.770
+Carlos Fabian Descalzo: está alineado, como les decía, a lo que tiene que ver con
+
+404
+00:50:25.970 --> 00:50:38.749
+Carlos Fabian Descalzo: la información financiera y los 3 grandes dominios que les mencionaba recién o 4 tienen que ver principalmente con los datos. No, Yo Esto lo lo armé en su momento
+
+405
+00:50:38.940 --> 00:50:49.020
+Carlos Fabian Descalzo: como para explicarles a los directores de la compañía, desde el punto de vista tecnológico, que es lo que se debería de tener en cuenta no y
+
+406
+00:50:49.540 --> 00:50:51.749
+Carlos Fabian Descalzo: qué qué tipo de
+
+407
+00:50:52.110 --> 00:50:58.790
+Carlos Fabian Descalzo: de controles y qué tipo de gestión es la que debería deberse, por ejemplo, lo que está en azul
+
+408
+00:50:59.040 --> 00:51:01.840
+Carlos Fabian Descalzo: está asociado con los datos, no
+
+409
+00:51:01.970 --> 00:51:21.119
+Carlos Fabian Descalzo: revisar y controlar y hacer, digamos, todo lo necesario para mantener la integridad. Esto se da dentro de lo que tiene que ver con con la parte de de los controles a nivel de aplicación, por ejemplo, y los motores de base de datos, etcétera. Tener una gestión de los datos, poder identificar
+
+410
+00:51:21.240 --> 00:51:35.280
+Carlos Fabian Descalzo: a través de flujos de datos, por ejemplo, y y una buena documentación a nivel de procesos, tener un mapa de de procesos para poder, por un lado, acotar el alcance
+
+411
+00:51:35.350 --> 00:51:42.080
+Carlos Fabian Descalzo: a donde estén centrados los datos que están relacionados con el balance
+
+412
+00:51:42.140 --> 00:51:45.180
+Carlos Fabian Descalzo: y y todo aquello que genere
+
+413
+00:51:45.210 --> 00:52:03.479
+Carlos Fabian Descalzo: algún tipo de dato financiero o económico que sabemos que afecta al balance y después el ciclo de vida del dato, en particular no porque una de las cosas que también se pide es que haya dentro del ciclo de vida no solo una buena
+
+414
+00:52:03.540 --> 00:52:13.489
+Carlos Fabian Descalzo: gestión, un buen procesamiento, etcétera, sino también una buena disposición final, digamos no una disposición final segura de los datos.
+
+415
+00:52:13.580 --> 00:52:16.800
+Carlos Fabian Descalzo: Después tenemos el ámbito de la infraestructura.
+
+416
+00:52:17.050 --> 00:52:34.869
+Carlos Fabian Descalzo: con lo que tiene que ver a nivel de controles de acceso asociado a operadores de sistemas arquitectos desarrolladores a todo lo que tenga que ver con los los recursos tecnológicos, las personas asociadas a la gestión de la tecnología.
+
+417
+00:52:35.210 --> 00:52:41.949
+Carlos Fabian Descalzo: la base de de lo que es la la operación, digamos, a nivel de Data Center
+
+418
+00:52:42.690 --> 00:52:51.999
+Carlos Fabian Descalzo: usuarios. ¿cómo es que se gestionan los usuarios de tanto cuentas especiales como las cuentas operativas del agente de sistemas. Sí,
+
+419
+00:52:52.040 --> 00:53:03.230
+Carlos Fabian Descalzo: acá también como para que vean un detalle de lo que pueden explicar en el práctico de de si es que se van por ese desarrollo
+
+420
+00:53:03.360 --> 00:53:10.330
+Carlos Fabian Descalzo: es que los usuarios, digamos, hay determinado tipo de documentación utilizada
+
+421
+00:53:10.630 --> 00:53:17.419
+Carlos Fabian Descalzo: y y segregada de tal manera, porque una cosa es el usuario.
+
+422
+00:53:17.680 --> 00:53:21.700
+Carlos Fabian Descalzo: Fabian descalzo como usuario de la compañía
+
+423
+00:53:22.070 --> 00:53:33.640
+Carlos Fabian Descalzo: que tiene una cuenta nominal f descalzo. Y otra cosa es el rol que él tiene dentro de sistemas, como, por ejemplo, administrador de base de datos.
+
+424
+00:53:33.850 --> 00:53:41.330
+Carlos Fabian Descalzo: en donde ahí yo debería de tener un documento que donde se mencione
+
+425
+00:53:41.470 --> 00:53:44.770
+Carlos Fabian Descalzo: qué tipo de herramienta estaría utilizando
+
+426
+00:53:45.130 --> 00:53:50.070
+Carlos Fabian Descalzo: para que yo, sin dejar de ser reconocido como f descalzo
+
+427
+00:53:50.280 --> 00:53:58.859
+Carlos Fabian Descalzo: y no utilizar una cuenta, admin, digamos, como cuenta genérica, pueda escalar privilegios
+
+428
+00:53:59.290 --> 00:54:05.709
+Carlos Fabian Descalzo: para poder tener trazabilidad con lo que hago dentro de los sistemas, me supe explicar chicos
+
+429
+00:54:08.930 --> 00:54:18.779
+Carlos Fabian Descalzo: sí bien buenísimo, entonces todo esto inclusive lo que tiene que ver con la gestión
+
+430
+00:54:18.790 --> 00:54:35.670
+Carlos Fabian Descalzo: de de lo que es la la parte de los procesos de servicios. Este tecnológicos, gestión de incidentes, la gestión misma de de la operación de los sistemas a nivel de seguridad, inclusive, y todo es lo que tengo en esta parte a nivel de infraestructura
+
+431
+00:54:35.670 --> 00:54:38.970
+Carlos Fabian Descalzo: y desde el punto de vista de la aplicación.
+
+432
+00:54:39.130 --> 00:54:42.499
+Carlos Fabian Descalzo: también controles de acceso, de que haya una
+
+433
+00:54:43.530 --> 00:54:51.539
+Carlos Fabian Descalzo: una segregación adecuada en las aplicaciones que yo le pueda asignar roles y privilegios de acceso a los usuarios
+
+434
+00:54:52.360 --> 00:54:55.820
+Carlos Fabian Descalzo: a través de, por ejemplo, el uso de puntos de menú,
+
+435
+00:54:56.140 --> 00:55:07.800
+Carlos Fabian Descalzo: aplicaciones en donde yo tenga una asignación de puntos de menú para que el usuario pueda o no pueda hacer algo, en particular, adentro de la de la
+
+436
+00:55:08.210 --> 00:55:10.179
+Carlos Fabian Descalzo: de la aplicación en sí,
+
+437
+00:55:10.460 --> 00:55:26.919
+Carlos Fabian Descalzo: en lo que tiene que ver con la parte de desarrollo que haya un procedimiento de desarrollo seguro del software que a su vez esté alineado, por ejemplo, con testeos de Oswas, Pntez, etcétera? No.
+
+438
+00:55:27.070 --> 00:55:38.780
+Carlos Fabian Descalzo: Y también lo que tiene que ver con incidentes, resguardo también del tema de las fuentes a nivel de desarrollo. No he Acá hay una. Hay
+
+439
+00:55:39.220 --> 00:55:41.940
+Carlos Fabian Descalzo: hay un control específico que tienen
+
+440
+00:55:42.410 --> 00:55:57.480
+Carlos Fabian Descalzo: que no solo está asociado a un tema de propiedad intelectual, sino también al hecho de asegurar las fuentes, el el código fuente, digamos, del del aplicativo, para que no pueda ser
+
+441
+00:55:57.820 --> 00:56:09.160
+Carlos Fabian Descalzo: modificado y que pueda llegar a quedar alguna duda respecto de, por ejemplo, de que alguien haya jarcodeado
+
+442
+00:56:09.880 --> 00:56:27.900
+Carlos Fabian Descalzo: alguna puerta de entrada con una clave y contraseña con una cuenta y contraseña, o que no haya dejado algún defecto en la aplicación a partir de la cual hay determinado tipo de privilegios que yo puedo alcanzar sin que tenga un control previo, digamos, no en en particular.
+
+443
+00:56:27.900 --> 00:56:30.190
+Carlos Fabian Descalzo: Entonces la parte del código fuente
+
+444
+00:56:30.500 --> 00:56:39.199
+Carlos Fabian Descalzo: también es muy importante para lo que tiene que ver con los controles shocks, además de A, B M. Usuarios, sobre todo el tema de las bajas.
+
+445
+00:56:39.400 --> 00:56:45.040
+Carlos Fabian Descalzo: El tema de bajas falla siempre. Si van a auditar gestión de usuarios.
+
+446
+00:56:45.530 --> 00:56:50.209
+Carlos Fabian Descalzo: vayan por el lado de las bajas, primero que se van a hacer una panzada
+
+447
+00:56:50.400 --> 00:56:57.100
+Carlos Fabian Descalzo: este y después todo lo que tiene que ver con la parte documental, no a nivel de gobierno y control
+
+448
+00:56:57.210 --> 00:57:13.700
+Carlos Fabian Descalzo: que existan, digamos, un marco normativo con una identificación, además no solamente por un tema de shock, sino de otro tipo de leyes y regulaciones locales, por ejemplo, que están asociadas al al cumplimiento
+
+449
+00:57:13.780 --> 00:57:26.290
+Carlos Fabian Descalzo: de también desde el punto de vista de Estados contables, la implementación de controles relacionados con tanto la parte de aplicación, infraestructura.
+
+450
+00:57:26.380 --> 00:57:35.079
+Carlos Fabian Descalzo: el uso de las plataformas tecnológicas, etcétera, y lo que es la gestión de riesgos.
+
+451
+00:57:35.180 --> 00:57:49.979
+Carlos Fabian Descalzo: en particular de lo que es tecnología y seguridad de la información, que debe de estar alineada con lo que es riesgo corporativo, No. En el caso que que yo les comenté de esta empresa de Retail, Por ejemplo.
+
+452
+00:57:50.120 --> 00:57:53.800
+Carlos Fabian Descalzo: una de las cosas que que establecimos
+
+453
+00:57:54.180 --> 00:58:00.589
+Carlos Fabian Descalzo: fue que, frente a a una necesidad, por ejemplo, de un proyecto tecnológico
+
+454
+00:58:00.970 --> 00:58:15.410
+Carlos Fabian Descalzo: en donde estaba asociado ese proyecto con un proceso de negocio en en particular, que que era crítico el que primero tenía que hacer la evaluación del impacto del proyecto tecnológico era la gente de riesgos
+
+455
+00:58:15.860 --> 00:58:25.650
+Carlos Fabian Descalzo: y riesgos era el que le daba la calificación para poder ver dentro del proceso de gestión de proyectos.
+
+456
+00:58:25.870 --> 00:58:29.340
+Carlos Fabian Descalzo: Cuál iba a ser el tratamiento no y la cantidad
+
+457
+00:58:29.450 --> 00:58:43.050
+Carlos Fabian Descalzo: de actores necesarios para poder llevar adelante ese proyecto, tanto desde el punto de vista de control interno con playas, seguridad de la información, tecnología y negocio. Por ejemplo, no
+
+458
+00:58:43.380 --> 00:58:51.330
+Carlos Fabian Descalzo: bien, esto es lo que les mencionaba respecto del tema del porque
+
+459
+00:58:51.470 --> 00:59:01.530
+Carlos Fabian Descalzo: nos alineamos, digamos con lo que tiene que ver con control interno y porque, desde el punto de vista tecnológico, no debemos desconocerlo. No. Si bien
+
+460
+00:59:01.970 --> 00:59:14.469
+Carlos Fabian Descalzo: habíamos mencionado en su momento cuando les mostraba un poco el tema de la toma de decisión a nivel de la dirección y todo es algo similar, digamos, y y el enfoque que tiene acá es el hecho que
+
+461
+00:59:14.650 --> 00:59:21.300
+Carlos Fabian Descalzo: en Schocz, al estar enfocado a la protección
+
+462
+00:59:21.620 --> 00:59:24.149
+Carlos Fabian Descalzo: desde el punto de vista corporativo.
+
+463
+00:59:24.200 --> 00:59:42.969
+Carlos Fabian Descalzo: a nivel de de de accionistas y resultados de de de la compañía. Yo, desde el punto de vista tecnológico. No puedo desconocer esta asociación y también necesidad que tengo de de de entender cuáles son los requisitos de control interno que tiene una organización
+
+464
+00:59:43.180 --> 00:59:49.930
+Carlos Fabian Descalzo: más allá del tema de cumplir con las metas de negocio, etcétera, que eso lo hacemos, digamos, dentro de nuestra
+
+465
+00:59:50.780 --> 01:00:01.649
+Carlos Fabian Descalzo: de nuestra habitualidad, digamos, como como rol de llevar tecnología al negocio. También tenemos que entender de que hay necesidades de cumplimiento. No.
+
+466
+01:00:02.540 --> 01:00:13.740
+Carlos Fabian Descalzo: Esto lo define también dentro de Covid, 2 019 a nivel de de gobierno de tecnología de en base a determinado tipo de de actividades
+
+467
+01:00:13.830 --> 01:00:25.479
+Carlos Fabian Descalzo: a revisar desde el lugar de desde el punto de vista del control interno, que identifica coso a nivel de riesgos, y es donde, después, principalmente
+
+468
+01:00:25.560 --> 01:00:39.220
+Carlos Fabian Descalzo: se apoya para poder establecer los controles que van a contener esos riesgos que se definen para el negocio desde el punto de vista tecnológico con y de la información con Iso, 27 000 Uno.
+
+469
+01:00:39.570 --> 01:00:45.270
+Carlos Fabian Descalzo: Esto que yo les cuento, tiene tanta relación de que coso
+
+470
+01:00:45.700 --> 01:00:49.330
+Carlos Fabian Descalzo: incluyó dentro de la segunda línea de defensa.
+
+471
+01:00:49.510 --> 01:00:56.030
+Carlos Fabian Descalzo: lo que es la seguridad de la información, se acuerda que cuando se acuerdan que cuando vimos
+
+472
+01:00:56.160 --> 01:01:03.699
+Carlos Fabian Descalzo: la parte de bancos, sucedió algo particular también con la 77. 24 que yo les comentaba esto mismo
+
+473
+01:01:06.290 --> 01:01:07.500
+Carlos Fabian Descalzo: lo recuerdan.
+
+474
+01:01:08.410 --> 01:01:11.180
+EXEQUIEL ALVAREZ BIANCO: Algo me acuerdo? No me acuerdo específicamente. ¿qué.
+
+475
+01:01:11.980 --> 01:01:19.110
+Carlos Fabian Descalzo: Bien, el tema es que oportunamente lo que habíamos visto es que
+
+476
+01:01:20.030 --> 01:01:27.399
+Carlos Fabian Descalzo: la 77 24 para poder alinear lo que tenía que ver con la cobertura de
+
+477
+01:01:27.700 --> 01:01:37.090
+Carlos Fabian Descalzo: del control interno. Desde el punto de vista tecnológico. Lo que hizo fue establecer lo que se llaman las 3 líneas de defensa.
+
+478
+01:01:37.330 --> 01:01:50.429
+Carlos Fabian Descalzo: Y esas 3 líneas de defensa que se mencionan dentro de la comunicación a 77 24 no es ni más ni menos que el mismo ejercicio que hacen las 3 líneas de defensa en coso.
+
+479
+01:01:50.570 --> 01:02:00.519
+Carlos Fabian Descalzo: Sí, alguno de ustedes. Creo que está viendo por la parte de auditoría este tema de coso con los R. M y cosas así por el estilo. No, Si mal no recuerdo
+
+480
+01:02:03.780 --> 01:02:08.440
+Carlos Fabian Descalzo: bien, me parece que no. Bien, entonces
+
+481
+01:02:08.630 --> 01:02:15.260
+Carlos Fabian Descalzo: tiene que ver con con esta cuestión, no de poder alinear seguridad de la información
+
+482
+01:02:15.780 --> 01:02:26.049
+Carlos Fabian Descalzo: como una herramienta dentro de la protección del negocio, como una barrera más de protección dentro del negocio en la segunda línea de defensa en sí.
+
+483
+01:02:26.640 --> 01:02:35.709
+Carlos Fabian Descalzo: Esto porque porque habíamos dicho también en su momento que la primer línea de defensa está asociada a lo que tiene que ver con monitoreo
+
+484
+01:02:36.330 --> 01:02:42.129
+Carlos Fabian Descalzo: el hecho de monitorear desde el punto de vista de de
+
+485
+01:02:42.800 --> 01:02:47.779
+Carlos Fabian Descalzo: de seguridad, por ejemplo, el parcheo de los servidores
+
+486
+01:02:48.350 --> 01:02:54.760
+Carlos Fabian Descalzo: en donde la actividad que hace dentro de la segunda. Eso lo hace la gente de Tai, por ejemplo.
+
+487
+01:02:55.210 --> 01:03:04.719
+Carlos Fabian Descalzo: y lo que hace la en la segunda línea de defensa. La gente de seguridad y ciberseguridad es establecer un control para verificar
+
+488
+01:03:04.910 --> 01:03:11.930
+Carlos Fabian Descalzo: que el monitoreo que está haciendo Ti sea eficiente y eficaz.
+
+489
+01:03:12.050 --> 01:03:19.359
+Carlos Fabian Descalzo: Sí que esté bien documentado que se haga en la periodicidad que se ha determinado.
+
+490
+01:03:19.890 --> 01:03:37.949
+Carlos Fabian Descalzo: este que se estén llevando adelante buenas prácticas que a su vez deben estar documentadas, que haya procedimientos, etcétera. Y en la tercer línea de defensa siempre les decía, en aquella oportunidad que corresponde a auditoría interna
+
+491
+01:03:38.220 --> 01:03:43.509
+Carlos Fabian Descalzo: qué es lo que hace auditoría interna? Si esto fuese como yo les cuento
+
+492
+01:03:44.160 --> 01:03:53.750
+Carlos Fabian Descalzo: no necesariamente las empresas lo hacen de esta manera. Y el problema es que cuando no lo hacen así, están duplicando esfuerzo, ¿no? Y después, claro, si queréis comentarme
+
+493
+01:03:54.180 --> 01:04:01.160
+Carlos Fabian Descalzo: auditora, que qué vivencias tenido. Pero lo que se supone que auditoría interna debería de hacer es
+
+494
+01:04:01.640 --> 01:04:11.959
+Carlos Fabian Descalzo: verificar que el control que hace la segunda línea de defensa sea eficiente y eficaz y no ir a ver directamente el monitoreo que se hace en la primera.
+
+495
+01:04:12.300 --> 01:04:13.960
+Carlos Fabian Descalzo: porque no tiene sentido.
+
+496
+01:04:14.160 --> 01:04:19.669
+Carlos Fabian Descalzo: porque para que tengo entonces la segunda línea que verifica que el proceso se esté haciendo bien
+
+497
+01:04:20.020 --> 01:04:23.500
+Carlos Fabian Descalzo: se entiende. No sé ahí caro. Vos Si quieres agregar algo.
+
+498
+01:04:24.550 --> 01:04:29.510
+CAROLINA OYARBIDE: No de la parte impositiva, No, No.
+
+499
+01:04:29.830 --> 01:04:35.609
+CAROLINA OYARBIDE: de parte de no, no, no, no, no, tengo mucha.
+
+500
+01:04:36.100 --> 01:04:39.590
+CAROLINA OYARBIDE: No tengo mucho conocimiento. En ese aspecto, nosotros auditamos
+
+501
+01:04:39.860 --> 01:04:52.740
+CAROLINA OYARBIDE: como parte de bueno trabajo en arcas. Entonces este estamos al otro lado de la está totalmente del otro lado y auditoría interna está dentro de la organización, pues está la auditoría interna, pues
+
+502
+01:04:53.410 --> 01:05:00.240
+CAROLINA OYARBIDE: ahí lo es. Es, tiene que asegurar que que las 2 primeras funciones, las 2 primeras líneas funcionen. No.
+
+503
+01:05:00.570 --> 01:05:01.150
+Carlos Fabian Descalzo: Claro.
+
+504
+01:05:01.500 --> 01:05:02.530
+CAROLINA OYARBIDE: En general.
+
+505
+01:05:02.970 --> 01:05:17.530
+CAROLINA OYARBIDE: este tiene que ser ese aseguramiento. Tiene que ser independiente. No tiene que estar condicionado a algo que baje de de la parte directiva y que esté condicionada en el sentido de. Bueno decís, igual que está todo bien.
+
+506
+01:05:17.900 --> 01:05:18.710
+CAROLINA OYARBIDE: ¿no?
+
+507
+01:05:18.830 --> 01:05:27.249
+CAROLINA OYARBIDE: Por eso quiere ser independiente. Sí, eso es lo único que yo tengo, más que nada por por el tema de los de que son auditorios, no.
+
+508
+01:05:28.210 --> 01:05:45.930
+Carlos Fabian Descalzo: Tal cual tal cual, y ahí es donde aparecen empresas como la mía. Sí, a nivel de las big for video estudios, digamos que son auditores externos. Digamos que están por arriba.
+
+509
+01:05:46.260 --> 01:05:55.170
+Carlos Fabian Descalzo: Están dentro de lo que es la parte del organismo de Gobierno y el Consejo son parte del Consejo de Comité de Auditoría, Por ejemplo.
+
+510
+01:05:55.280 --> 01:06:07.719
+Carlos Fabian Descalzo: a mí me tocó ser por parte del estudio auditor de 1 de los principales bancos, este nacionales
+
+511
+01:06:07.980 --> 01:06:14.260
+Carlos Fabian Descalzo: y yo, por ejemplo, participaba de los comités de auditoría, en donde
+
+512
+01:06:14.620 --> 01:06:22.340
+Carlos Fabian Descalzo: presentaba los resultados de la auditoría externa nuestra a los directores y a los accionistas y además.
+
+513
+01:06:22.880 --> 01:06:30.389
+Carlos Fabian Descalzo: acompañaba a la auditoría interna en su presentación, porque yo, estando acá arriba.
+
+514
+01:06:31.150 --> 01:06:45.199
+Carlos Fabian Descalzo: En realidad, el equipo tenía que verificar de cómo se estaba desarrollando la la auditoría interna, en en particular no por por una cuestión también de
+
+515
+01:06:45.680 --> 01:06:50.280
+Carlos Fabian Descalzo: de poder como auditor independiente.
+
+516
+01:06:50.410 --> 01:07:02.240
+Carlos Fabian Descalzo: Dar también la opinión respecto de cómo se estaban desarrollando los distintos ciclos de auditoría en particular, Sí, pero bueno, un poco es esto ¿no? Y Y
+
+517
+01:07:02.540 --> 01:07:06.350
+Carlos Fabian Descalzo: esto que se menciona del modelo de las 3 líneas de defensa.
+
+518
+01:07:06.580 --> 01:07:11.120
+Carlos Fabian Descalzo: si lo ven en el material que subí del de
+
+519
+01:07:12.080 --> 01:07:16.869
+Carlos Fabian Descalzo: de no solo de la presentación de la clase, sino que está el comunicado
+
+520
+01:07:17.000 --> 01:07:30.650
+Carlos Fabian Descalzo: a 77 24, o lo pueden buscar. Googlear en Internet, Digamos no. En En la página de del Banco Central van a encontrar que se habla
+
+521
+01:07:30.960 --> 01:07:48.869
+Carlos Fabian Descalzo: como parte de de gobierno, digamos, el la utilización del modelo de las 3 líneas de defensa para poder implementar controles, digamos no alineados a la protección del del negocio y que se utilizan bajo esta misma
+
+522
+01:07:49.150 --> 01:07:55.160
+Carlos Fabian Descalzo: forma. Digamos no que que yo les les estoy comentando. Ahora bien.
+
+523
+01:07:55.740 --> 01:08:00.759
+Carlos Fabian Descalzo: ¿qué es lo que yo veo? Cuáles son como los 3 principales dominios
+
+524
+01:08:01.120 --> 01:08:06.419
+Carlos Fabian Descalzo: que se revisan en en shocks para poder
+
+525
+01:08:06.810 --> 01:08:21.190
+Carlos Fabian Descalzo: brindar, como dicen el Slade, confianza a los inversionistas ¿no? Y con este tema de de de protección, digamos que deben de sentir en función de los resultados financieros de de de la compañía.
+
+526
+01:08:21.490 --> 01:08:29.739
+Carlos Fabian Descalzo: por un lado, lo que lo lógico, digamos, a nivel de seguridad, seguridad de la información, ciberseguridad en en en sí,
+
+527
+01:08:30.180 --> 01:08:31.450
+Carlos Fabian Descalzo: y
+
+528
+01:08:31.830 --> 01:08:48.749
+Carlos Fabian Descalzo: esa seguridad, o o ciberseguridad relacionado con con el tema de de tecnología está asociado también a lo que tiene que ver con el aseguramiento de los procesos tecnológicos. Digamos no Por eso aparece el tema de la operación Haití.
+
+529
+01:08:49.020 --> 01:08:55.130
+Carlos Fabian Descalzo: La operación Haití, en la forma en la que yo lo pongo en el Slide incluye
+
+530
+01:08:55.620 --> 01:08:57.739
+Carlos Fabian Descalzo: el desarrollo de software.
+
+531
+01:08:57.810 --> 01:09:17.779
+Carlos Fabian Descalzo: la construcción de soluciones tecnológicas en donde se compran bases de datos, sistemas operativos, servidores, servicios de nube, etcétera, para poder desarrollar un servicio tecnológico y ponerlo en producción para después ser operado y administrado. Sí,
+
+532
+01:09:17.779 --> 01:09:30.799
+Carlos Fabian Descalzo: y todo lo que tiene que ver con gestión de cambios. Sí, esto es lo que, como las 3 grandes, los 3 grandes dominios sobre los cuales se hace principal este enfoque.
+
+533
+01:09:31.140 --> 01:09:42.349
+Carlos Fabian Descalzo: ¿qué actividades de control se llevan también principalmente lo que tiene que ver con identidades roles contraseñas: la gestión de usuarios privilegiados. Fíjense ustedes
+
+534
+01:09:42.529 --> 01:09:45.099
+Carlos Fabian Descalzo: los controles de revisión de línea de base.
+
+535
+01:09:45.149 --> 01:09:55.110
+Carlos Fabian Descalzo: Esto que línea de base a que le llamamos sistema operativo base de datos. Ese es el software de base. Después tenemos la parte de la revisión
+
+536
+01:09:55.110 --> 01:10:05.259
+Carlos Fabian Descalzo: de de aplicaciones, Digamos no. Pero si ustedes se fijan todo está orientado a la identidad digital y a la y a los privilegios de acceso, digamos no en particular.
+
+537
+01:10:05.730 --> 01:10:09.159
+Carlos Fabian Descalzo: Por eso, también en relación al tema de los datos.
+
+538
+01:10:09.840 --> 01:10:22.829
+Carlos Fabian Descalzo: también se ve lo que es este la aplicación del proceso de clasificación de información, por ejemplo, como mínimo, digamos no el
+
+539
+01:10:23.140 --> 01:10:30.280
+Carlos Fabian Descalzo: el cute a la luna, por así decirlo, sería el hecho de tener un gobierno de datos en en particular. Sí,
+
+540
+01:10:30.450 --> 01:10:41.899
+Carlos Fabian Descalzo: en este sentido nos ha tocado también el hecho de trabajar en una empresa de servicios financieros
+
+541
+01:10:42.210 --> 01:10:46.089
+Carlos Fabian Descalzo: que cotiza en Bolsa de Nueva York.
+
+542
+01:10:46.660 --> 01:10:56.180
+Carlos Fabian Descalzo: en donde sus principales servicios financieros están puestos en en la nube, en donde a su vez
+
+543
+01:10:56.270 --> 01:11:06.529
+Carlos Fabian Descalzo: estaban implementando lo que son proyectos de Big data, Digamos con todo el tema de Machine learning por
+
+544
+01:11:06.560 --> 01:11:18.199
+Carlos Fabian Descalzo: por cuestiones de mejora de negocios y cosas así por el estilo, para lo cual ahí tuvimos que ir, digamos, a no ir con una simple clasificación
+
+545
+01:11:18.200 --> 01:11:28.929
+Carlos Fabian Descalzo: de información, sino más pensar también, como lo hablamos en la parte de gobierno de datos, teniendo roles específicos, no de un Chief Dattaoffficer con su
+
+546
+01:11:29.020 --> 01:11:38.020
+Carlos Fabian Descalzo: este, distintos roles, digamos, asociados que de acompañamiento de el gestor de datos, etcétera, no
+
+547
+01:11:38.240 --> 01:11:45.580
+Carlos Fabian Descalzo: en cuanto a lo que tiene que ver con también, como les decía antes, a nivel de desarrollo de software.
+
+548
+01:11:45.940 --> 01:11:54.290
+Carlos Fabian Descalzo: acá hay un detalle que siempre digo cuando audito tanto 27 como como en en este caso.
+
+549
+01:11:54.810 --> 01:12:10.470
+Carlos Fabian Descalzo: En algunos casos me ha pasado de que no hay dentro de la compañía aparte, generalmente mayormente no hay un área de desarrollo de software en particular, Y lo que yo siempre les recomiendo es que, de todas maneras
+
+550
+01:12:10.610 --> 01:12:16.370
+Carlos Fabian Descalzo: tengan una política y un al menos una norma
+
+551
+01:12:16.680 --> 01:12:23.499
+Carlos Fabian Descalzo: de desarrollo de software seguro, porque porque las pautas de seguridad
+
+552
+01:12:24.280 --> 01:12:30.300
+Carlos Fabian Descalzo: para quien yo le voy a pedir que me desarrolle software. Supóngase que en un momento determinado.
+
+553
+01:12:30.990 --> 01:12:34.309
+Carlos Fabian Descalzo: yo o contrato una software factory
+
+554
+01:12:34.880 --> 01:12:39.540
+Carlos Fabian Descalzo: o contrato o compro un software en particular
+
+555
+01:12:39.680 --> 01:12:55.139
+Carlos Fabian Descalzo: para cualquiera de las 2 situaciones. Por más que yo no tenga desarrollo de software, tengo que tener un documento en donde estén identificadas los principales requisitos relacionados a nivel de seguridad de lo que deben cumplir
+
+556
+01:12:55.330 --> 01:12:57.610
+Carlos Fabian Descalzo: el software dentro de la compañía.
+
+557
+01:12:58.500 --> 01:13:07.210
+Carlos Fabian Descalzo: Ese documento es el que yo voy a tener que compartir, por ejemplo, con la software factory.
+
+558
+01:13:08.230 --> 01:13:11.199
+Carlos Fabian Descalzo: o es el que voy a tener que utilizar
+
+559
+01:13:11.400 --> 01:13:15.679
+Carlos Fabian Descalzo: para poder identificar cuáles son los requisitos de seguridad mínimos
+
+560
+01:13:15.820 --> 01:13:22.040
+Carlos Fabian Descalzo: que debería de cumplir cualquier software que yo vaya a comprar sí, y
+
+561
+01:13:22.750 --> 01:13:24.829
+Carlos Fabian Descalzo: y los temas de seguridad van
+
+562
+01:13:25.650 --> 01:13:31.200
+Carlos Fabian Descalzo: tanto desde que el software tenga un módulo de seguridad.
+
+563
+01:13:31.720 --> 01:13:43.770
+Carlos Fabian Descalzo: un en donde yo pueda configurar pistas de auditoría segregar en roles y privilegios el largo de contraseña y el nivel de complejidad.
+
+564
+01:13:44.430 --> 01:13:51.389
+Carlos Fabian Descalzo: al igual que otro de los controles que se hacen en en la parte de Haití. Y Saiber
+
+565
+01:13:51.610 --> 01:13:56.089
+Carlos Fabian Descalzo: es, por ejemplo, el que los campos de información
+
+566
+01:13:56.490 --> 01:14:03.520
+Carlos Fabian Descalzo: no digamos en donde se esperan números. No me permita ingresar una letra.
+
+567
+01:14:03.720 --> 01:14:18.159
+Carlos Fabian Descalzo: digamos ¿no? Entonces ese tipo de controles desde el punto de vista funcional también hacen a a la seguridad, porque porque si hay un campo de información que me permite hacer cualquier cosa.
+
+568
+01:14:18.340 --> 01:14:26.600
+Carlos Fabian Descalzo: una de las cosas que pierdo en El resultado final como objetivo de esa aplicación es la pérdida de integridad del resultado.
+
+569
+01:14:27.000 --> 01:14:30.850
+Carlos Fabian Descalzo: S Se entiende. Me Me supo explicar con esto chicos.
+
+570
+01:14:33.230 --> 01:14:33.939
+FRANCISCO DAURAT: Sí, Sí.
+
+571
+01:14:34.300 --> 01:14:35.410
+Carlos Fabian Descalzo: Sí bien
+
+572
+01:14:38.180 --> 01:14:43.580
+Carlos Fabian Descalzo: dentro de lo que tiene que ver con el tema del software, es todo el ciclo de vida. Si.
+
+573
+01:14:43.830 --> 01:14:51.889
+Carlos Fabian Descalzo: desde, digamos, este, la creación hasta la puesta en producción, sí,
+
+574
+01:14:52.320 --> 01:15:00.710
+Carlos Fabian Descalzo: e inclusive en lo que tiene que ver con lo que sería tener ambientes segregados en en el
+
+575
+01:15:00.980 --> 01:15:06.690
+Carlos Fabian Descalzo: en la evolución del software. ¿esto qué quiere decir? Que tengo que tener un ambiente
+
+576
+01:15:07.000 --> 01:15:15.130
+Carlos Fabian Descalzo: de desarrollo, servidores, bases de datos, etcétera. En en un ambiente de desarrollo.
+
+577
+01:15:15.650 --> 01:15:28.839
+Carlos Fabian Descalzo: un ambiente de qua de en donde yo pueda hacer las pruebas previas a nivel funcional y a nivel de seguridad previo, a hacer la implementación en producción.
+
+578
+01:15:29.200 --> 01:15:30.889
+Carlos Fabian Descalzo: que es donde ya ahí
+
+579
+01:15:31.120 --> 01:15:42.549
+Carlos Fabian Descalzo: debería de estar implementando en forma segura, digamos no en donde ya está todo probado. Sabemos que todo anda y que todas las condiciones de seguridad est han sido tenidos en cuenta
+
+580
+01:15:43.350 --> 01:15:53.450
+Carlos Fabian Descalzo: estos 3 ambientes, Normalmente lo que pasa es que, como hay todo un costo atrás de esto, normalmente
+
+581
+01:15:53.770 --> 01:16:03.030
+Carlos Fabian Descalzo: podríamos decir que el ambiente de desarrollo y el ambiente de qua podrían estar juntos con segregación
+
+582
+01:16:03.460 --> 01:16:17.590
+Carlos Fabian Descalzo: de de credenciales en donde el desarrollador no se puede meter en la parte de de cua y el Cua no se puede meter en la parte de desarrollo, pero de repente, a nivel de recursos. Sobre todo ahora, con el tema de virtualización.
+
+583
+01:16:17.710 --> 01:16:21.120
+Carlos Fabian Descalzo: yo puedo tener en un mismo ambiente virtual.
+
+584
+01:16:21.220 --> 01:16:29.060
+Carlos Fabian Descalzo: servidores de desarrollo, por un lado, y servidores de cua por el otro, y sí totalmente separado.
+
+585
+01:16:29.390 --> 01:16:31.010
+Carlos Fabian Descalzo: la parte productiva
+
+586
+01:16:31.140 --> 01:16:43.799
+Carlos Fabian Descalzo: en donde los únicos que entran e implementan los las aplicaciones en el ambiente productivo son los operadores de los sistemas.
+
+587
+01:16:44.120 --> 01:16:47.359
+Carlos Fabian Descalzo: Ahí ya no se pueden meter ni los arquitectos
+
+588
+01:16:47.660 --> 01:16:56.360
+Carlos Fabian Descalzo: ni los desarrolladores si el administrador de sistemas. Lo que hace es administra
+
+589
+01:16:56.810 --> 01:17:07.370
+Carlos Fabian Descalzo: la parte de del software de base, digamos, sistemas operativos bases de datos, no los que son administradores o o
+
+590
+01:17:08.230 --> 01:17:17.360
+Carlos Fabian Descalzo: tanto de base de datos como de sistemas operativos, y el operador de los sistemas son los que se ocupan normalmente de la parte de las aplicaciones.
+
+591
+01:17:17.460 --> 01:17:20.580
+Carlos Fabian Descalzo: Sí, entonces esa sería la forma
+
+592
+01:17:20.780 --> 01:17:27.640
+Carlos Fabian Descalzo: dentro de la cual yo debería de tener segregado esto con algunos
+
+593
+01:17:27.840 --> 01:17:31.269
+Carlos Fabian Descalzo: cuestiones a nivel de control, en donde.
+
+594
+01:17:32.060 --> 01:17:44.009
+Carlos Fabian Descalzo: una vez que yo revisé que la parte funcional de la aplicación en el ambiente de Cuba está andando bien. El usuario final es el que prueba.
+
+595
+01:17:45.330 --> 01:17:50.710
+Carlos Fabian Descalzo: y es el que tiene que firmar, de que están dando todo bien. Y después viene
+
+596
+01:17:51.030 --> 01:17:57.229
+Carlos Fabian Descalzo: la gente de ciberseguridad o seguridad de la información que hace los controles
+
+597
+01:17:57.660 --> 01:18:04.190
+Carlos Fabian Descalzo: y verifica de que se hayan cumplido todas las políticas de seguridad escritas
+
+598
+01:18:04.360 --> 01:18:10.460
+Carlos Fabian Descalzo: y definidas también en los estándares de configuración que esto tiene que ver con
+
+599
+01:18:10.720 --> 01:18:14.010
+Carlos Fabian Descalzo: no solamente la aplicación de políticas de seguridad
+
+600
+01:18:14.360 --> 01:18:25.779
+Carlos Fabian Descalzo: y pistas de auditoría con el tema de caducidad de contraseña, largo complejidad, que las pistas de auditoría estén activas, etcétera, sino también
+
+601
+01:18:26.160 --> 01:18:33.850
+Carlos Fabian Descalzo: 1 de los controles en donde generalmente también hay errores, es en el que no hayan quedado cuentas
+
+602
+01:18:34.330 --> 01:18:47.320
+Carlos Fabian Descalzo: de arquitectos o de desarrolladores o en los motores de base de datos o jarcodeadas dentro de la aplicación, digamos no. Por eso
+
+603
+01:18:47.450 --> 01:18:50.360
+Carlos Fabian Descalzo: no solo se revisa
+
+604
+01:18:51.210 --> 01:19:03.169
+Carlos Fabian Descalzo: a nivel de cuentas de usuario y configuración, sino que se le hace un pen test y un análisis de código al al aplicativo Y una vez que eso está todo hecho, inclusive lo funcional.
+
+605
+01:19:03.610 --> 01:19:16.360
+Carlos Fabian Descalzo: se le pasa al dueño del negocio, ya sea un director o este. Si hay, como les decía en el ejemplo que les daba yo un gerente de sistemas que está, digamos.
+
+606
+01:19:16.540 --> 01:19:25.269
+Carlos Fabian Descalzo: alineado con ese negocio, etcétera. Él es el que da la aprobación final y la recepción de todos estos controles para que se ponga en producción.
+
+607
+01:19:25.990 --> 01:19:31.360
+Carlos Fabian Descalzo: Todo esto que les digo, es auditado dentro de lo que es el ambiente shock.
+
+608
+01:19:31.460 --> 01:19:38.939
+Carlos Fabian Descalzo: sí de dentro de de lo que tiene que ver con la necesidad de certificar
+
+609
+01:19:39.090 --> 01:19:48.449
+Carlos Fabian Descalzo: de que se está llevando bien adelante la integridad de lo material a nivel de balance a nivel financiero de de de la compañía. No
+
+610
+01:19:49.280 --> 01:19:56.260
+Carlos Fabian Descalzo: tengan en cuenta que cuando se dice Che, vamos a certificar shocks, en realidad shock no se certifica.
+
+611
+01:19:56.810 --> 01:20:06.160
+Carlos Fabian Descalzo: Sjokz es una ley y las leyes no se certifican, Lo que se certifican son determinado tipo de estándares, como algunas normas, Iso.
+
+612
+01:20:06.340 --> 01:20:10.799
+Carlos Fabian Descalzo: Lo que se hace con shock es validar, certificar
+
+613
+01:20:11.250 --> 01:20:19.350
+Carlos Fabian Descalzo: a través de un informe de auditor independiente de que la compañía cumple con todos los controles y requisitos establecidos por la ley.
+
+614
+01:20:20.000 --> 01:20:25.389
+Carlos Fabian Descalzo: Sí, digo como para que estén orientados con el texto, digamos no
+
+615
+01:20:25.570 --> 01:20:30.220
+Carlos Fabian Descalzo: una de las cosas que que tiene mucho
+
+616
+01:20:30.710 --> 01:20:36.560
+Carlos Fabian Descalzo: peso, digamos, y y que puede llegar a a tener que
+
+617
+01:20:37.840 --> 01:20:43.250
+Carlos Fabian Descalzo: que aplicar nuevamente determinado tipo de controles o volver a realizar algo.
+
+618
+01:20:43.640 --> 01:20:54.609
+Carlos Fabian Descalzo: sobre todo en aquellas actividades que se dicen se hacen una vez al año. Bueno, la justificación de que 1 escribe se hacen una vez al año frente a cambios
+
+619
+01:20:54.720 --> 01:20:56.400
+Carlos Fabian Descalzo: importantes
+
+620
+01:20:56.540 --> 01:21:08.029
+Carlos Fabian Descalzo: en los procesos o en los servicios tecnológicos, etcétera, tienen que ver con esto, no la adopción de una nueva tecnología. Hay que digamos esto, registrarlo.
+
+621
+01:21:08.200 --> 01:21:15.359
+Carlos Fabian Descalzo: documentarlo y haberle hecho un análisis de riesgo previo y hacer, digamos, todo el proceso.
+
+622
+01:21:15.580 --> 01:21:29.610
+Carlos Fabian Descalzo: inclusive en algo que también les comentaba el hecho de identificar las necesidades de capacitación, tanto a nivel de no solo la construcción de algún servicio tecnológico nuevo.
+
+623
+01:21:29.670 --> 01:21:36.269
+Carlos Fabian Descalzo: sino también en aquellos que los van a administrar a operar y principalmente en quienes lo van a controlar. Digamos
+
+624
+01:21:36.470 --> 01:21:44.360
+Carlos Fabian Descalzo: este. Y ahí, dependiendo de cómo sea el proyecto y cuáles sean los plazos del proyecto.
+
+625
+01:21:44.650 --> 01:21:50.319
+Carlos Fabian Descalzo: también, establecer la estrategia de si me conviene, mientras estoy preparando a mis auditores
+
+626
+01:21:50.470 --> 01:22:04.990
+Carlos Fabian Descalzo: contratar durante un periodo de tiempo a una consultora externa que que me ayude a auditar, ya que venga con el conocimiento de estas nuevas tecnologías, etcétera. Lo otro que puede llegar a surgir
+
+627
+01:22:05.200 --> 01:22:11.669
+Carlos Fabian Descalzo: es el hecho de que se se modifique, por ejemplo, el Reglamento de la S E. C,
+
+628
+01:22:11.940 --> 01:22:17.190
+Carlos Fabian Descalzo: que ha pasado esto en 20 23. Ahora vamos a ver un poco el el caso
+
+629
+01:22:18.230 --> 01:22:36.220
+Carlos Fabian Descalzo: y o, por ejemplo, que haya alguna modificación, digamos, en algún estándar o en alguna regulación legal local, perdón que bueno, que que que también va a afectar, digamos.
+
+630
+01:22:36.390 --> 01:22:50.939
+Carlos Fabian Descalzo: a este entorno de shock ¿no? Y, obviamente, lo que tenga que ver con la adquisición o fusión entre empresas, porque ahí sabemos que pueden cambiar no solamente los procesos de negocio.
+
+631
+01:22:51.370 --> 01:22:54.649
+Carlos Fabian Descalzo: sino que, además, los procesos de servicios tecnológicos.
+
+632
+01:22:55.360 --> 01:23:00.680
+Carlos Fabian Descalzo: Una de las cosas que se revisa. Esto se llama Deal Advisory.
+
+633
+01:23:01.460 --> 01:23:14.829
+Carlos Fabian Descalzo: Una de las cosas que se revisa previo a la compra de una empresa o a una fusión entre empresas es cuál sería el impacto a nivel de riesgos por esa fusión.
+
+634
+01:23:15.360 --> 01:23:21.279
+Carlos Fabian Descalzo: en donde es mucho más habitual que lo hagan a nivel de negocio por una cuestión de
+
+635
+01:23:21.520 --> 01:23:30.099
+Carlos Fabian Descalzo: de impacto en los procesos en donde la empresa que compra se vea perjudicada porque
+
+636
+01:23:30.370 --> 01:23:35.529
+Carlos Fabian Descalzo: sus procesos, que venían todos hechos: un relojito al embeberlos.
+
+637
+01:23:35.680 --> 01:23:38.680
+Carlos Fabian Descalzo: con los procesos de la otra compañía.
+
+638
+01:23:38.930 --> 01:23:42.389
+Carlos Fabian Descalzo: y hay que volver a revisar todo, a ver cómo queda. No ustedes
+
+639
+01:23:43.140 --> 01:23:52.540
+Carlos Fabian Descalzo: en este sentido, siempre piensen de que se nivela para abajo de alguna manera. ¿no? Entonces, si en algún momento estaba al 100 por 100.
+
+640
+01:23:52.700 --> 01:23:55.170
+Carlos Fabian Descalzo: Una cosa es que yo tome las precauciones
+
+641
+01:23:55.680 --> 01:24:12.320
+Carlos Fabian Descalzo: necesarias como para no tener un alto impacto y baje un 80 por 100 o a un 70 por 100 del cumplimiento, en donde tengo que ver de cómo volver a alinearme a que si no hice ningún tipo de análisis por ahí, me encuentro con que
+
+642
+01:24:12.390 --> 01:24:27.649
+Carlos Fabian Descalzo: todo aquello que estaba cumpliendo más de la mitad. No lo voy a estar cumpliendo porque está implementado ya de otra manera, digamos no. Lo mismo pasa a nivel de los servicios tecnológicos, sí, y sobre todo.
+
+643
+01:24:27.860 --> 01:24:32.889
+Carlos Fabian Descalzo: en lo que se llaman sistemas legados. Sí, hay
+
+644
+01:24:33.210 --> 01:24:39.169
+Carlos Fabian Descalzo: en en una compra o fusión de una empresa. Puede llegar a haber un una aplicación, un software.
+
+645
+01:24:39.700 --> 01:24:44.069
+Carlos Fabian Descalzo: en dónde, para ese proceso que yo estoy comprando.
+
+646
+01:24:44.800 --> 01:24:51.999
+Carlos Fabian Descalzo: No puedo reemplazar el software porque me saldría muy caro el el cambio del software.
+
+647
+01:24:52.730 --> 01:24:56.089
+Carlos Fabian Descalzo: para lo cual eso yo lo tengo que saber con anticipación.
+
+648
+01:24:56.590 --> 01:25:01.730
+Carlos Fabian Descalzo: para determinar qué controles mitigatorios tendría que poner y no
+
+649
+01:25:01.960 --> 01:25:08.689
+Carlos Fabian Descalzo: que lo tenga que pensar ya con el software legado, digamos, con el software heredado
+
+650
+01:25:08.770 --> 01:25:22.910
+Carlos Fabian Descalzo: ya en funcionamiento, digamos, en producción dentro de la organización. No, ¿Qué es lo que generalmente pasa en en en particular, no sé si algunos de ustedes
+
+651
+01:25:23.280 --> 01:25:34.069
+Carlos Fabian Descalzo: les ha pasado ver alguna cuestión de estas, no en en lo que estén laburando, porque esto es tanto para los que están en en algún shock o lo que están en algún servicio de
+
+652
+01:25:34.290 --> 01:25:35.900
+Carlos Fabian Descalzo: de soporte. No
+
+653
+01:25:39.790 --> 01:25:40.690
+Carlos Fabian Descalzo: bien.
+
+654
+01:25:41.090 --> 01:25:50.909
+Carlos Fabian Descalzo: si qué hora es 20 y 27. Si están de acuerdo. No sé si alguien quiere agregar algo a esto, que yo voy comentando.
+
+655
+01:25:51.440 --> 01:25:58.779
+Carlos Fabian Descalzo: pero si están de acuerdo, hacemos un break hasta menos 10.
+
+656
+01:25:59.240 --> 01:26:03.519
+Carlos Fabian Descalzo: Así veo de de ubicarles algo de lo que les prometí.
+
+657
+01:26:08.710 --> 01:26:09.500
+Carlos Fabian Descalzo: Sí.
+
+658
+01:26:09.720 --> 01:26:10.780
+MATEO VALENZUELA: Dale Bourizo.
+
+659
+01:26:10.780 --> 01:26:11.690
+Franco Zabala: Por mí está bien.
+
+660
+01:26:12.220 --> 01:26:12.830
+Carlos Fabian Descalzo: Bien.
+
+661
+01:26:12.830 --> 01:26:13.190
+FRANCISCO DAURAT: Le dais.
+
+662
+01:26:13.190 --> 01:26:13.820
+CAROLINA OYARBIDE: No sé.
+
+663
+01:26:14.280 --> 01:26:16.469
+Carlos Fabian Descalzo: Muy bien, nos vemos en breve.
+
+664
+01:51:26.290 --> 01:51:28.320
+Carlos Fabian Descalzo: Los chicos andan por ahí.
+
+665
+01:51:32.540 --> 01:51:33.920
+MATEO VALENZUELA: Sí sí pagando.
+
+666
+01:51:34.280 --> 01:51:43.459
+Carlos Fabian Descalzo: Muy bien. Vale un minutito más que ahí. Encontré varias cosas que pienso que les puede servir.
+
+667
+01:51:45.420 --> 01:51:46.200
+MATEO VALENZUELA: Buenísimo.
+
+668
+01:51:48.960 --> 01:51:50.430
+Carlos Fabian Descalzo: Mhm.
+
+669
+01:51:57.390 --> 01:51:58.570
+Carlos Fabian Descalzo: Bien.
+
+670
+01:52:07.520 --> 01:52:15.260
+Carlos Fabian Descalzo: acá. Encontré un poco lo lo que les comentaba.
+
+671
+01:52:18.200 --> 01:52:21.740
+Carlos Fabian Descalzo: Y se los voy a subir al cómo se llama
+
+672
+01:52:22.730 --> 01:52:25.280
+Carlos Fabian Descalzo: a la plataforma. Así les queda
+
+673
+01:52:25.530 --> 01:52:30.190
+Carlos Fabian Descalzo: para que lo puedan consultar, inclusive porque algo de esto les puede servir para el práctico, no
+
+674
+01:52:31.010 --> 01:52:38.499
+Carlos Fabian Descalzo: la norma, esta del central se la dejé ahí. Ya estaba subida esta, que hablábamos antes.
+
+675
+01:52:38.830 --> 01:52:41.180
+Carlos Fabian Descalzo: A ver
+
+676
+01:53:18.820 --> 01:53:22.080
+Carlos Fabian Descalzo: bien acá. Este primer documento.
+
+677
+01:53:23.140 --> 01:53:27.660
+Carlos Fabian Descalzo: Yo creo que les puede llegar a servir de guía.
+
+678
+01:53:27.960 --> 01:53:38.880
+Carlos Fabian Descalzo: Este es un documento que utilizo cuando estoy haciendo auditoría a un marco normativo. Digamos, no.
+
+679
+01:53:40.140 --> 01:53:42.319
+Carlos Fabian Descalzo: Ahí Están viendo bien, no chicos.
+
+680
+01:53:44.550 --> 01:53:45.070
+MATEO VALENZUELA: Sí.
+
+681
+01:53:45.840 --> 01:53:52.420
+Carlos Fabian Descalzo: Bien algunas de estas preguntas que hago por acá, les puede dar el pie
+
+682
+01:53:52.630 --> 01:53:58.509
+Carlos Fabian Descalzo: para que ustedes vayan armando el texto como un cuentito. Vieron, como les decía yo, que les explicaba cada punto
+
+683
+01:53:59.340 --> 01:54:02.510
+Carlos Fabian Descalzo: de cómo se hacen las cosas, etcétera.
+
+684
+01:54:03.130 --> 01:54:10.370
+Carlos Fabian Descalzo: Entonces les puede, hay un montón y esto inclusive
+
+685
+01:54:10.990 --> 01:54:16.620
+Carlos Fabian Descalzo: también les da por requisito. Esto tiene que ver con la 27 001, no
+
+686
+01:54:17.450 --> 01:54:20.250
+Carlos Fabian Descalzo: desde el punto de vista del marco normativo.
+
+687
+01:54:21.240 --> 01:54:30.380
+Carlos Fabian Descalzo: si hay un organigrama o no, inclusive acá Doy una sugerencia de qué tipo de documentación es la que tendría que estar viendo
+
+688
+01:54:30.550 --> 01:54:38.109
+Carlos Fabian Descalzo: para poder responder a ver si hay una lista de actores interesados, bla bla, bla, y toda la historia
+
+689
+01:54:40.910 --> 01:54:46.540
+Carlos Fabian Descalzo: se entiende, o los estoy confundiendo más yo. Para mí, esto es una ayuda para ustedes
+
+690
+01:54:47.480 --> 01:54:54.990
+Carlos Fabian Descalzo: que ya tienen, digamos, de alguna manera argumentos como para poder desarrollar los puntos que yo les di
+
+691
+01:54:55.110 --> 01:54:56.320
+Carlos Fabian Descalzo: para el práctico.
+
+692
+01:54:56.500 --> 01:55:00.059
+Carlos Fabian Descalzo: Sí lo ven de la misma manera.
+
+693
+01:55:02.640 --> 01:55:14.440
+CAROLINA OYARBIDE: A ver. Sí, entiendo es la tercer columna. Sería lo que deberías tener que te brinde la empresa que estás auditando de cada punto que vos estás listando.
+
+694
+01:55:14.890 --> 01:55:24.220
+Carlos Fabian Descalzo: Claro. En realidad, Vos esto Pensarlo viste que yo te dije de los puntos que están puestos en el como yo
+
+695
+01:55:25.040 --> 01:55:28.949
+Carlos Fabian Descalzo: en la guía, esa que les di para el práctico.
+
+696
+01:55:29.390 --> 01:55:37.020
+Carlos Fabian Descalzo: ustedes tienen que desarrollar esos puntos, contar cómo se hace una cosa, cómo se hace la otra. ¿y qué sé yo.
+
+697
+01:55:37.700 --> 01:55:48.090
+Carlos Fabian Descalzo: Si ustedes no tienen mucha idea de por dónde arrancar para contar cómo se hace algo, les dejo esto.
+
+698
+01:55:48.570 --> 01:55:58.929
+Carlos Fabian Descalzo: Entonces, vos decís, Che ¿Y qué debería de tener suponete vistes que hay un punto que dice: implementación del marco normativo? Bueno, lo contás acá
+
+699
+01:55:59.840 --> 01:56:06.830
+Carlos Fabian Descalzo: Por ejemplo, el marco normativo es una serie de documentos
+
+700
+01:56:07.280 --> 01:56:10.850
+Carlos Fabian Descalzo: que tiene políticas, procedimientos y directrices
+
+701
+01:56:11.080 --> 01:56:16.120
+Carlos Fabian Descalzo: que se mantienen bajo un bajo control y están disponibles en tal lado
+
+702
+01:56:16.880 --> 01:56:20.559
+Carlos Fabian Descalzo: y es comunicado por mail, bla, bla, bla. Y toda la historia.
+
+703
+01:56:20.910 --> 01:56:34.389
+Carlos Fabian Descalzo: Este tema de la evidencia, por ejemplo, del de de cómo se publica y todo un mail con la comunicación de la política de seguridad, que fue aprobada por la dirección. Se entiende dónde voy.
+
+704
+01:56:36.610 --> 01:56:37.680
+CAROLINA OYARBIDE: Sí, Sí.
+
+705
+01:56:38.050 --> 01:56:38.720
+Carlos Fabian Descalzo: Sí.
+
+706
+01:56:38.860 --> 01:56:49.090
+Carlos Fabian Descalzo: Bueno, yo se los dejo para que el que les sirva como guía lo lo lo utilice.
+
+707
+01:56:49.690 --> 01:56:59.700
+Carlos Fabian Descalzo: Sí, después vieron que de distintas maneras, yo les vengo hablando de
+
+708
+01:57:00.120 --> 01:57:06.020
+Carlos Fabian Descalzo: lo que son los estándares de configuración, bla, bla, bla, y toda la historia esto
+
+709
+01:57:06.140 --> 01:57:07.820
+Carlos Fabian Descalzo: no les va a servir.
+
+710
+01:57:10.540 --> 01:57:15.800
+Carlos Fabian Descalzo: Y sí alineado con los temas de shock.
+
+711
+01:57:17.670 --> 01:57:21.700
+Carlos Fabian Descalzo: Lo que les quiero dejar es una guía
+
+712
+01:57:22.490 --> 01:57:29.949
+Carlos Fabian Descalzo: de evidencias de cuáles son. Perdona el viejazo? Acá. Van a ver algunos sistemas que ya no existen más
+
+713
+01:57:30.230 --> 01:57:32.860
+Carlos Fabian Descalzo: en el universo, ni siquiera acá en la Tierra.
+
+714
+01:57:34.230 --> 01:57:36.500
+Carlos Fabian Descalzo: Pero para que ustedes tengan una idea
+
+715
+01:57:36.850 --> 01:57:42.200
+Carlos Fabian Descalzo: de cuáles son los distintos controles que se hacen
+
+716
+01:57:42.580 --> 01:57:46.310
+Carlos Fabian Descalzo: por en este caso, a nivel del sistema operativo
+
+717
+01:57:47.000 --> 01:57:51.669
+Carlos Fabian Descalzo: en los unix, en en los Windows? ¿qué se revisa?
+
+718
+01:57:53.090 --> 01:57:55.519
+Carlos Fabian Descalzo: Sí, como para que ustedes sepan
+
+719
+01:57:55.800 --> 01:57:58.069
+Carlos Fabian Descalzo: el nivel de controles que hay
+
+720
+01:57:58.630 --> 01:58:02.220
+Carlos Fabian Descalzo: por cada 1 de de los sistemas operativos. Sí.
+
+721
+01:58:02.420 --> 01:58:05.309
+Carlos Fabian Descalzo: Fíjense políticas de contraseña.
+
+722
+01:58:05.490 --> 01:58:20.460
+Carlos Fabian Descalzo: Hay temas puntuales, por ejemplo, dependiendo del sistema operativo. Esto del usuario 0, digamos que no esté duplicado o que no haya usuarios duplicados a nivel del sistema operativo puede pasar dentro de los Unix
+
+723
+01:58:20.900 --> 01:58:22.450
+Carlos Fabian Descalzo: y
+
+724
+01:58:22.900 --> 01:58:32.770
+Carlos Fabian Descalzo: no sé las cuentas por defecto que no se encuentren bloqueadas o renombradas. Esto puede ser para cualquier sistema operativo, Sí,
+
+725
+01:58:34.550 --> 01:58:41.960
+Carlos Fabian Descalzo: lo mismo para y cómo se llama, Y
+
+726
+01:58:43.410 --> 01:58:50.890
+Carlos Fabian Descalzo: 1 de sistemas operativos. Estos son bases de datos. Si mal no veo si son motores de base de datos, Sí,
+
+727
+01:58:51.260 --> 01:58:53.609
+Carlos Fabian Descalzo: lo mismo que es lo que se revisa.
+
+728
+01:58:56.500 --> 01:59:02.559
+Carlos Fabian Descalzo: Y acá en este en este hago un mapeo
+
+729
+01:59:09.630 --> 01:59:12.210
+Carlos Fabian Descalzo: de la plataforma.
+
+730
+01:59:13.150 --> 01:59:17.429
+Carlos Fabian Descalzo: ¿cuál debería de ser el objetivo de control? Digamos no
+
+731
+01:59:18.060 --> 01:59:24.999
+Carlos Fabian Descalzo: a lo que llamamos acceso a línea de comando. Es toda aquella operación que pueda hacer
+
+732
+01:59:25.970 --> 01:59:28.449
+Carlos Fabian Descalzo: que no sea a través de un aplicativo.
+
+733
+01:59:28.620 --> 01:59:39.240
+Carlos Fabian Descalzo: entrarle por atrás una base de datos, tipear un comando Cmd en en Windows sí se entiende
+
+734
+01:59:39.730 --> 01:59:46.760
+Carlos Fabian Descalzo: entrar a la línea de comando del unix, etcétera. ¿no? Entonces hay un control asociado con esto.
+
+735
+01:59:47.940 --> 01:59:57.539
+Carlos Fabian Descalzo: Este control tiene un este, digamos, este algún tipo de referencia respecto de
+
+736
+01:59:57.670 --> 02:00:01.370
+Carlos Fabian Descalzo: qué es lo que podría llegar a pasar, digamos, a nivel de riesgo
+
+737
+02:00:01.620 --> 02:00:10.900
+Carlos Fabian Descalzo: si este control? No lo hago o ven? Tiene el riesgo inherente acceso al sistema por personal no autorizado.
+
+738
+02:00:11.490 --> 02:00:14.750
+Carlos Fabian Descalzo: una breve descripción del control.
+
+739
+02:00:15.260 --> 02:00:18.350
+Carlos Fabian Descalzo: Si lo hubiese algún comentario técnico
+
+740
+02:00:18.500 --> 02:00:22.860
+Carlos Fabian Descalzo: y lo que es importante, siempre tengan en cuenta, cuando vayan a hacer una auditoría
+
+741
+02:00:23.670 --> 02:00:27.409
+Carlos Fabian Descalzo: de especificar cuál es el comando que esperan
+
+742
+02:00:27.790 --> 02:00:32.879
+Carlos Fabian Descalzo: a veces se entregan scripts, por ejemplo, no que se corren en los sistemas
+
+743
+02:00:33.200 --> 02:00:42.370
+Carlos Fabian Descalzo: que ya sacan un formato determinado del modelo de evidencia que necesito para poder este hacer el control.
+
+744
+02:00:43.300 --> 02:00:50.050
+Carlos Fabian Descalzo: Si yo no le doy el comando o no, le doy el script para que me saque las cosas como yo las necesito
+
+745
+02:00:50.840 --> 02:00:59.750
+Carlos Fabian Descalzo: Seguramente me voy a encontrar con que cada vez que le haga una auditoría me va a entregar algo diferente y en donde seguramente me va a faltar algo.
+
+746
+02:00:59.920 --> 02:01:07.680
+Carlos Fabian Descalzo: Entonces, para asegurarme, yo soy el que le tiene que dar siempre la herramienta, digamos, no en en particular.
+
+747
+02:01:08.210 --> 02:01:14.580
+Carlos Fabian Descalzo: Y Y esto les quería mostrar que cuando hablo de un estándar de configuración.
+
+748
+02:01:14.750 --> 02:01:23.550
+Carlos Fabian Descalzo: Me refiero a este tipo de documento. Esto es un documento también del marco documental. ¿sí? En donde yo lo que tengo acá es
+
+749
+02:01:24.050 --> 02:01:25.300
+Carlos Fabian Descalzo: cuáles son
+
+750
+02:01:25.580 --> 02:01:33.679
+Carlos Fabian Descalzo: los criterios de control que tengo sobre una plataforma determinada? En este caso es un S. Q. L,
+
+751
+02:01:34.300 --> 02:01:49.999
+Carlos Fabian Descalzo: con cuál es el parámi, el parámetro técnico. Esto, como era una base de datos vieja. Hay muchas cosas que no se pueden este hacer para eso había controles mitigatorios y cuál sería el valor estándar que debería de configurar
+
+752
+02:01:50.940 --> 02:01:52.690
+Carlos Fabian Descalzo: dentro de la plataforma?
+
+753
+02:01:53.000 --> 02:01:56.890
+Carlos Fabian Descalzo: Sí, por ejemplo, lo más notable son estos últimos 4. No.
+
+754
+02:01:57.320 --> 02:02:01.620
+Carlos Fabian Descalzo: Acá Lo que quiere decir esto es que
+
+755
+02:02:01.790 --> 02:02:05.090
+Carlos Fabian Descalzo: tengo que activar en la base de datos
+
+756
+02:02:05.390 --> 02:02:09.080
+Carlos Fabian Descalzo: la posibilidad o el modo de autenticación
+
+757
+02:02:09.290 --> 02:02:16.020
+Carlos Fabian Descalzo: que cuando quiero entrar a una tabla de la base de datos valida que yo tenga un usuario en Windows.
+
+758
+02:02:16.410 --> 02:02:22.440
+Carlos Fabian Descalzo: y si lo tengo en Windows y es un usuario real. Utiliza esas credenciales para poder entrar.
+
+759
+02:02:22.740 --> 02:02:23.850
+Carlos Fabian Descalzo: Se entiende.
+
+760
+02:02:25.070 --> 02:02:28.020
+Carlos Fabian Descalzo: Esto es un modo de autenticación
+
+761
+02:02:28.360 --> 02:02:33.630
+Carlos Fabian Descalzo: que se activa dentro del del motor de de base de datos, ¿sí?
+
+762
+02:02:34.700 --> 02:02:37.530
+Carlos Fabian Descalzo: Y en el caso de un sistema operativo.
+
+763
+02:02:38.510 --> 02:02:43.790
+Carlos Fabian Descalzo: este por ahí es un poquito más claro.
+
+764
+02:02:44.110 --> 02:02:51.419
+Carlos Fabian Descalzo: Ven que tengo un criterio respecto de políticas de contraseña y configuración de pistas de auditoría
+
+765
+02:02:52.030 --> 02:02:57.709
+Carlos Fabian Descalzo: que los valores que definió la compañía a nivel de seguridad. Son estos que están acá
+
+766
+02:02:57.950 --> 02:02:59.549
+Carlos Fabian Descalzo: en la última columna.
+
+767
+02:03:00.590 --> 02:03:08.089
+Carlos Fabian Descalzo: Estos valores que figuran acá es lo que llamamos línea base de configuración de seguridad.
+
+768
+02:03:08.600 --> 02:03:10.489
+Carlos Fabian Descalzo: y esto es lo que se audita.
+
+769
+02:03:11.390 --> 02:03:21.380
+Carlos Fabian Descalzo: Las políticas en los sistemas operativos deberían de estar configurados con estos valores que están en la última columna.
+
+770
+02:03:21.660 --> 02:03:23.880
+Carlos Fabian Descalzo: Por eso, cuando yo les doy un script
+
+771
+02:03:24.950 --> 02:03:30.950
+Carlos Fabian Descalzo: al operador para que me saque la información de cómo están configurados los servidores
+
+772
+02:03:31.930 --> 02:03:38.530
+Carlos Fabian Descalzo: en la devolución de él. Cuando yo lo reviso, debería de encontrar estos mismos valores, se entiende
+
+773
+02:03:39.450 --> 02:03:52.300
+Carlos Fabian Descalzo: y acá no sé, no se confían en que tienen una D, en donde
+
+774
+02:03:52.640 --> 02:03:58.969
+Carlos Fabian Descalzo: digamos, yo ya lo configuro desde la D, para que estas políticas bajen en todos los servidores.
+
+775
+02:03:59.440 --> 02:04:04.359
+Carlos Fabian Descalzo: porque en realidad, lo que suele pasar
+
+776
+02:04:04.900 --> 02:04:15.089
+Carlos Fabian Descalzo: es que, por algún tema de algún parche funcional del sistema operativo o algo así por el estilo haya servidores a los cuales no les queda aplicada la política.
+
+777
+02:04:16.030 --> 02:04:21.159
+Carlos Fabian Descalzo: Entonces, cuando auditen, si quieren, auditen
+
+778
+02:04:21.350 --> 02:04:25.480
+Carlos Fabian Descalzo: muestralmente en un porcentaje que sea razonable.
+
+779
+02:04:26.250 --> 02:04:29.830
+Carlos Fabian Descalzo: S O sea, no irán auditar al 100 por 100
+
+780
+02:04:31.080 --> 02:04:38.750
+Carlos Fabian Descalzo: si no tienen historial de que no ha fallado mucho y que se yo auditen un 60 o un 70 por 100, digamos
+
+781
+02:04:39.470 --> 02:04:45.630
+Carlos Fabian Descalzo: pero la auditoría al servidor puntual. Háganlo, no únicamente al dominio.
+
+782
+02:04:46.370 --> 02:04:48.899
+Carlos Fabian Descalzo: Se Se comprende. Me supe explicar chicos.
+
+783
+02:04:51.350 --> 02:04:52.940
+SOFIA LIBERTAD VELAZCO MONTAGNA: Sí sí ya entendió. Eso.
+
+784
+02:04:53.270 --> 02:04:57.640
+Carlos Fabian Descalzo: Bien, perfecto. Entonces, bueno, acá van a tener
+
+785
+02:04:58.360 --> 02:05:04.459
+Carlos Fabian Descalzo: los valores en los cuales deberían de estar configurados por en este caso. Bueno.
+
+786
+02:05:04.630 --> 02:05:12.199
+Carlos Fabian Descalzo: también perdón, el viejazo, pero es 2 003, 2 008, las versiones, sí, pero para que por lo menos les quede como
+
+787
+02:05:12.330 --> 02:05:14.300
+Carlos Fabian Descalzo: como un ejemplo, en particular
+
+788
+02:05:14.700 --> 02:05:21.360
+Carlos Fabian Descalzo: en lo que tiene que ver puntualmente lo que estamos viendo ahora al respecto. El tema documental que les diga el práctico
+
+789
+02:05:21.470 --> 02:05:24.630
+Carlos Fabian Descalzo: también les adjunto acá para que ustedes vean
+
+790
+02:05:26.370 --> 02:05:31.219
+Carlos Fabian Descalzo: lo que sería un inventario documental en donde yo tengo
+
+791
+02:05:31.570 --> 02:05:34.849
+Carlos Fabian Descalzo: el número de la norma. ¿cuál es el código?
+
+792
+02:05:35.370 --> 02:05:39.599
+Carlos Fabian Descalzo: El tipo de documento, en qué versión está con el nombre.
+
+793
+02:05:40.750 --> 02:05:45.270
+Carlos Fabian Descalzo: quién es el área responsable de de la documentación. Sí,
+
+794
+02:05:45.510 --> 02:05:48.960
+Carlos Fabian Descalzo: acá van a tener Haití Operaciones? Seguridad.
+
+795
+02:05:50.310 --> 02:05:56.659
+Carlos Fabian Descalzo: Sí, habrá algunos que que será recursos humanos. Sí, posiblemente
+
+796
+02:05:57.250 --> 02:06:00.320
+Carlos Fabian Descalzo: esto es el las cómo se llaman
+
+797
+02:06:00.670 --> 02:06:03.630
+Carlos Fabian Descalzo: iniciales de las personas que están
+
+798
+02:06:04.560 --> 02:06:12.260
+Carlos Fabian Descalzo: normalmente. Uno de los procesos que se hace para la aprobación documental, como también
+
+799
+02:06:12.690 --> 02:06:16.209
+Carlos Fabian Descalzo: puede llegar a estar aprobado por Comité de Seguridad.
+
+800
+02:06:17.560 --> 02:06:26.769
+Carlos Fabian Descalzo: no solo la firma, por ejemplo, como aprobador el presidente de la compañía, la política de seguridad, sino que
+
+801
+02:06:26.980 --> 02:06:33.559
+Carlos Fabian Descalzo: queda aprobado también dentro del Comité de Seguridad y acá se escribe
+
+802
+02:06:33.750 --> 02:06:45.260
+Carlos Fabian Descalzo: en este caso cuál es el número de acta en el que figura la aprobación de tal o cual norma, sí, y si hubiese algún acta de directorio, porque es algún documento especial
+
+803
+02:06:45.990 --> 02:06:51.130
+Carlos Fabian Descalzo: también se ve. Esto. Es una fórmula, en particular en donde se pone la fecha de vigencia
+
+804
+02:06:51.300 --> 02:07:03.580
+Carlos Fabian Descalzo: y cuál es la fecha de la próxima actualización. Si yo acá, le pongo 20, vamos a poner 11
+
+805
+02:07:03.830 --> 02:07:10.970
+Carlos Fabian Descalzo: del 9, ven, me aparece en verde porque recién como la revisión es anual.
+
+806
+02:07:11.490 --> 02:07:14.470
+Carlos Fabian Descalzo: Recién la voy a revisar el año que viene.
+
+807
+02:07:15.580 --> 02:07:23.979
+Carlos Fabian Descalzo: ¿qué sección cumple. Acá Esto es viejo, también la sección de la 46 009 era la vieja, la anterior a la a 77. 24,
+
+808
+02:07:24.130 --> 02:07:25.720
+Carlos Fabian Descalzo: yo acá. Le puedo poner.
+
+809
+02:07:27.660 --> 02:07:31.629
+TADEO ARIAS: Profe. Disculpe que lo interrumpa, pero me tengo que ir.
+
+810
+02:07:32.210 --> 02:07:33.430
+Carlos Fabian Descalzo: Bien, Bueno.
+
+811
+02:07:33.430 --> 02:07:37.190
+TADEO ARIAS: En el horario. Así que yo después miro lo que falta de la grabación.
+
+812
+02:07:37.410 --> 02:07:39.270
+Carlos Fabian Descalzo: Dale Dale Negrito. No hay problema.
+
+813
+02:07:39.270 --> 02:07:40.490
+TADEO ARIAS: Nos vemos chao.
+
+814
+02:07:40.690 --> 02:07:42.520
+Carlos Fabian Descalzo: Chao que descanses buen fin de.
+
+815
+02:07:42.520 --> 02:07:43.270
+TADEO ARIAS: Semana.
+
+816
+02:07:45.260 --> 02:07:45.990
+Carlos Fabian Descalzo: Bien
+
+817
+02:07:46.630 --> 02:07:56.160
+Carlos Fabian Descalzo: dónde está ubicado el documento? Y esta es la frecuencia en días que era lo que les mostraba recién que porque saca el cálculo de acá
+
+818
+02:07:56.560 --> 02:08:02.459
+Carlos Fabian Descalzo: del tiempo de revisión. Esto se los muestro también para que sepan cómo contar el cuentito
+
+819
+02:08:03.960 --> 02:08:14.529
+Carlos Fabian Descalzo: dentro de lo que tiene que ver con con el práctico y lo otro paraíso que les voy a dejar. Vieron que en un momento yo les nombré una herramienta de software. En particular.
+
+820
+02:08:15.320 --> 02:08:20.199
+Carlos Fabian Descalzo: yo acá les muestro esta herramienta
+
+821
+02:08:21.520 --> 02:08:28.700
+Carlos Fabian Descalzo: en donde acá tiene todo lo que puede hacer la herramienta para que ustedes también sepan qué contar cuando
+
+822
+02:08:28.850 --> 02:08:37.459
+Carlos Fabian Descalzo: les toque desarrollar, cómo se publica, cómo se tiene acceso, cómo se enteran los usuarios, etcétera, ¿no?
+
+823
+02:08:37.890 --> 02:08:46.390
+Carlos Fabian Descalzo: Y acá se explica todo lo que va a hacer, No, esta herramienta. Lo que hace es.
+
+824
+02:08:46.870 --> 02:08:57.029
+Carlos Fabian Descalzo: tiene una forma de poder almacenar los documentos, desarrollar estos procesos, como les decía, a nivel de de aprobación, etcétera, ¿no?
+
+825
+02:08:57.220 --> 02:09:11.230
+Carlos Fabian Descalzo: Y después, inclusive hasta poder gestionar, en lugar de tener esa tablita de excel que le mostré recién gestionar a partir de esta herramienta y poder hacer informes de control, etcétera.
+
+826
+02:09:12.650 --> 02:09:21.079
+Carlos Fabian Descalzo: Entonces, si quieren ver y y y conocer un poco de qué estamos hablando. ¿ven? Este es un proceso
+
+827
+02:09:21.240 --> 02:09:31.490
+Carlos Fabian Descalzo: a través del cual se se se tiene el ciclo de vida de de la parte documental. Sí, bien.
+
+828
+02:09:31.770 --> 02:09:37.560
+Carlos Fabian Descalzo: Y después, para que también
+
+829
+02:09:39.970 --> 02:09:47.770
+Carlos Fabian Descalzo: lo tengan en cuenta, vieron que yo les dije era el de las tablas de aprobación. Una cosa que pueden mostrar es algo así. Como esto. Ven
+
+830
+02:09:48.850 --> 02:09:55.979
+Carlos Fabian Descalzo: que tengo el marco documental, política, normas, procedimientos e instructivos.
+
+831
+02:09:56.990 --> 02:09:59.170
+Carlos Fabian Descalzo: Puedo tener más de un autor.
+
+832
+02:09:59.450 --> 02:10:06.310
+Carlos Fabian Descalzo: Puedo decir quién es. ¿puedo tener 1 o más revisores. También podría llegar a ser.
+
+833
+02:10:08.400 --> 02:10:13.359
+Carlos Fabian Descalzo: Y después están los aprobadores? Sí, Obviamente.
+
+834
+02:10:13.920 --> 02:10:19.170
+Carlos Fabian Descalzo: el presidente de la compañía, que sería acá como el socio director.
+
+835
+02:10:19.610 --> 02:10:25.179
+Carlos Fabian Descalzo: no va a aprobar un procedimiento de seguridad o un instructivo operativo
+
+836
+02:10:25.640 --> 02:10:35.230
+Carlos Fabian Descalzo: está para aprobar una política. A lo sumo, una norma, dependiendo del tipo de norma también porque fíjense ustedes que acá
+
+837
+02:10:35.680 --> 02:10:38.739
+Carlos Fabian Descalzo: era lo que les decía en relación a
+
+838
+02:10:38.910 --> 02:10:44.149
+Carlos Fabian Descalzo: si el documento, por ejemplo, hay una política de uso de redes sociales.
+
+839
+02:10:44.290 --> 02:10:55.089
+Carlos Fabian Descalzo: esa política de uso de redes sociales, la firma, la gente de marketing, que son los que definen cuáles son las distintas formas en las cuales yo
+
+840
+02:10:55.850 --> 02:11:00.279
+Carlos Fabian Descalzo: inclusive me voy a comportar como empleado de la empresa en las redes sociales.
+
+841
+02:11:00.410 --> 02:11:04.409
+Carlos Fabian Descalzo: Sí, de eso tiene mucho que ver
+
+842
+02:11:04.640 --> 02:11:09.530
+Carlos Fabian Descalzo: lo que habrán sentido nombrar del tema de huella digital y cosas así por el estilo.
+
+843
+02:11:09.690 --> 02:11:10.520
+Carlos Fabian Descalzo: ¿sí?
+
+844
+02:11:11.820 --> 02:11:15.760
+Carlos Fabian Descalzo: Así que, bueno, esto yo también voy a despersonalizar algunas cuestiones
+
+845
+02:11:16.570 --> 02:11:27.890
+Carlos Fabian Descalzo: y se los voy a compartir como para que les quede ejemplo. Y sepan ¿De qué estamos hablando, porque van a tener que contar cómo es una gestión documental, básicamente
+
+846
+02:11:28.030 --> 02:11:28.850
+Carlos Fabian Descalzo: sí.
+
+847
+02:11:31.550 --> 02:11:33.610
+Carlos Fabian Descalzo: Consideran que les sirve chicos.
+
+848
+02:11:35.600 --> 02:11:36.789
+EXEQUIEL ALVAREZ BIANCO: Sí, Sí, ver una.
+
+849
+02:11:36.790 --> 02:11:37.640
+CAROLINA OYARBIDE: Sí, Sí.
+
+850
+02:11:37.640 --> 02:11:40.610
+EXEQUIEL ALVAREZ BIANCO: Llega, digamos. Mhm. Te ayuda.
+
+851
+02:11:41.380 --> 02:11:49.650
+Carlos Fabian Descalzo: Bien, bien, bien, no, Pues no les quiero complicar la vida tampoco, ¿no? O sea bien perfecto.
+
+852
+02:11:49.890 --> 02:11:57.580
+Carlos Fabian Descalzo: Entonces volvemos a lo nuestro, a ver por dónde andamos
+
+853
+02:12:08.440 --> 02:12:13.059
+Carlos Fabian Descalzo: que perdón en breve. Ya estoy.
+
+854
+02:12:16.180 --> 02:12:17.850
+Carlos Fabian Descalzo: Estamos.
+
+855
+02:12:26.930 --> 02:12:28.480
+Carlos Fabian Descalzo: toma por acá.
+
+856
+02:12:28.600 --> 02:12:29.850
+Carlos Fabian Descalzo: Si mal no recuerdo
+
+857
+02:12:34.860 --> 02:12:35.770
+Carlos Fabian Descalzo: bien.
+
+858
+02:12:36.100 --> 02:12:45.050
+Carlos Fabian Descalzo: Mhm: Habíamos visto esta parte de a nivel de cambios. Estábamos por acá.
+
+859
+02:12:46.160 --> 02:12:56.909
+Carlos Fabian Descalzo: Bueno, esto les decía el tema de la operación programación de fallas. Esto es es otro control que van a ver. Seguramente lo van a encontrar en
+
+860
+02:12:57.310 --> 02:13:00.810
+Carlos Fabian Descalzo: en en algo de la documentación que les voy a compartir.
+
+861
+02:13:01.020 --> 02:13:12.040
+Carlos Fabian Descalzo: Otra de las cosas que se revisa a nivel de control shock son aquellas tareas programadas que queden, no.
+
+862
+02:13:12.590 --> 02:13:27.279
+Carlos Fabian Descalzo: no simplemente en lo que tiene que ver con, por ejemplo, la toma de Backup, que la pudo llegar a hacer en forma automática para que se dispare un job un día y en un horario determinado, sino que lo que se fijan acá
+
+863
+02:13:27.540 --> 02:13:33.730
+Carlos Fabian Descalzo: es todo lo que tenga que ver con el tema de Apis y
+
+864
+02:13:34.660 --> 02:13:52.340
+Carlos Fabian Descalzo: tareas programadas, como, por ejemplo, conciliaciones financieras conciliaciones económicas en el balance. Cuando hacen, Por ejemplo, en una empresa de retail, el cierre de caja al final del día, digamos, no. Y que todo eso
+
+865
+02:13:52.340 --> 02:14:07.979
+Carlos Fabian Descalzo: que antes se hacía manual y hoy ya se hace a través de algún robot o a través de algún script o con una Api, etcétera. Bueno, eso principalmente es lo que lo que se revisa, porque obviamente puede llegar a tener
+
+866
+02:14:07.980 --> 02:14:12.540
+Carlos Fabian Descalzo: algún tema de impacto en el en el balance, no
+
+867
+02:14:12.540 --> 02:14:18.679
+Carlos Fabian Descalzo: de la misma manera que el tratamiento de incidentes a nivel tecnológico y
+
+868
+02:14:18.690 --> 02:14:22.829
+Carlos Fabian Descalzo: cómo es que se respalda no no solo la metodología.
+
+869
+02:14:23.140 --> 02:14:39.360
+Carlos Fabian Descalzo: sino de que haya un control efectivo de la finalización del del respaldo, no que no haya dado error a algún backup en el caso de algún error físico, por el tema de las cintas e E, o o del dispositivo.
+
+870
+02:14:39.380 --> 02:14:44.219
+Carlos Fabian Descalzo: como se llama digital, que se esté usando.
+
+871
+02:14:44.970 --> 02:14:52.560
+Carlos Fabian Descalzo: ya sea algún tipo de Array de discos o o o de alguna solución este adicional. Si
+
+872
+02:14:52.560 --> 02:15:09.179
+Carlos Fabian Descalzo: en general esto lo que se ve desde el punto de vista nuestro, en en particular en lo que es la parte de nivel de entidad, digamos no en lo que tiene que ver con la parte corporativa es lo que está asociado a gobiernos de Haití
+
+873
+02:15:09.420 --> 02:15:12.469
+Carlos Fabian Descalzo: como y por eso yo les
+
+874
+02:15:12.530 --> 02:15:31.930
+Carlos Fabian Descalzo: les hago hincapié en el tema de coso en el tema de covid, etcétera. No porque una regulación como esta principalmente se basa en esa cuestión, ¿no? Emm: Y después está en estos se divide en estos 2 niveles.
+
+875
+02:15:31.950 --> 02:15:39.179
+Carlos Fabian Descalzo: Por eso también el mapita, ese que les mostraba que que había hecho en su oportunidad que está
+
+876
+02:15:39.260 --> 02:15:44.800
+Carlos Fabian Descalzo: desde el punto de vista de la aplicación que se utiliza principalmente
+
+877
+02:15:44.880 --> 02:15:54.440
+Carlos Fabian Descalzo: el I, R P, El el sistema contable, digamos, de de de la organización y los sistemas satélites que pueda llegar a tener.
+
+878
+02:15:54.440 --> 02:16:10.760
+Carlos Fabian Descalzo: Digamos este que que hacen a la conformación del balance en particular, no, y están los generales que les mencionaba antes. Respecto del tema de desarrollo de sistemas, la operación, gestión de cambios, seguridad, etcétera.
+
+879
+02:16:11.370 --> 02:16:15.249
+Carlos Fabian Descalzo: en lo que tiene que ver con
+
+880
+02:16:15.880 --> 02:16:20.730
+Carlos Fabian Descalzo: la representatividad entre la gestión tecnológica
+
+881
+02:16:21.160 --> 02:16:26.820
+Carlos Fabian Descalzo: y la gestión de negocio, digamos en en sí de lo que de lo que se revisa
+
+882
+02:16:27.310 --> 02:16:37.969
+Carlos Fabian Descalzo: en estas instancias, que vimos, no a nivel de privilegios de acceso, la necesidad de cómo se se se implementa la necesidad de conocer
+
+883
+02:16:38.120 --> 02:16:45.750
+Carlos Fabian Descalzo: en función de los roles definidos para las cuentas de usuario con los privilegios de acceso, etcétera.
+
+884
+02:16:45.889 --> 02:16:50.460
+Carlos Fabian Descalzo: y tiene que ver eso con cómo acceden
+
+885
+02:16:50.480 --> 02:16:56.880
+Carlos Fabian Descalzo: y cómo están segregadas las funciones tecnológicas a nivel de ventas, los inventarios.
+
+886
+02:16:56.879 --> 02:17:17.270
+Carlos Fabian Descalzo: las actualizaciones, inclusive y la gestión en lo que tiene que ver con el C. R. M en la parte de ventas y en tesorería, por ejemplo, en lo que tiene que ver con o la gestión administrativa, lo que tiene que ver con el I, R. P, No. ¿y qué tipo de controles son los que se implementan a través de la aplicación.
+
+887
+02:17:17.290 --> 02:17:19.200
+Carlos Fabian Descalzo: Y acá es donde yo les decía
+
+888
+02:17:19.730 --> 02:17:29.120
+Carlos Fabian Descalzo: este tema de que es parte de la política de seguridad de un aplicativo. El hecho de tener un módulo de seguridad
+
+889
+02:17:29.750 --> 02:17:33.340
+Carlos Fabian Descalzo: y, además, un módulo que me permita
+
+890
+02:17:34.030 --> 02:17:44.779
+Carlos Fabian Descalzo: lo que se llaman reglas de negocio, digamos no la parametrización de la aplicación de acuerdo a condiciones y a reglas de negocio, como, por ejemplo.
+
+891
+02:17:45.190 --> 02:17:55.510
+Carlos Fabian Descalzo: cuál es la carga impositiva de una facturación si Facturo desde San Juan o si Facturo de capital federal.
+
+892
+02:17:55.750 --> 02:18:03.090
+Carlos Fabian Descalzo: este o Si Facturo desde Ushuaia, entonces cada condición.
+
+893
+02:18:03.219 --> 02:18:08.749
+Carlos Fabian Descalzo: cada localización va a tener una condición diferente.
+
+894
+02:18:08.889 --> 02:18:13.729
+Carlos Fabian Descalzo: Y una de las cosas que yo tengo que asegurarme es de que haya un responsable
+
+895
+02:18:13.850 --> 02:18:18.330
+Carlos Fabian Descalzo: de identificar y de y de configurar
+
+896
+02:18:19.150 --> 02:18:27.139
+Carlos Fabian Descalzo: y velar porque eso se mantenga de esa manera, Digamos no porque inclusive esto me tocó en una oportunidad.
+
+897
+02:18:27.290 --> 02:18:31.600
+Carlos Fabian Descalzo: También hacer una investigación por un tema de fraude.
+
+898
+02:18:32.190 --> 02:18:36.200
+Carlos Fabian Descalzo: Había una empresa lechera.
+
+899
+02:18:36.350 --> 02:18:47.490
+Carlos Fabian Descalzo: No es la más conocida. No se les ocurra pensar en esa porque era otra. No tenía nada que ver. Este, pero que inclusive este italiana.
+
+900
+02:18:48.030 --> 02:19:00.689
+Carlos Fabian Descalzo: en dónde ellos sacaban promociones en en la para la distribución a supermercados, por ejemplo.
+
+901
+02:19:00.990 --> 02:19:13.339
+Carlos Fabian Descalzo: en donde esas promociones dependían de una determinada época del año y para una determinada localización, regiones del país en en particular, no.
+
+902
+02:19:14.360 --> 02:19:21.549
+Carlos Fabian Descalzo: entonces resulta que, como no estaban bien segregados los permisos de poder manejar estas reglas de negocio.
+
+903
+02:19:21.830 --> 02:19:24.690
+Carlos Fabian Descalzo: Se juntaron entre un par de gerentes
+
+904
+02:19:24.860 --> 02:19:27.260
+Carlos Fabian Descalzo: con un par de supervisores de venta
+
+905
+02:19:27.879 --> 02:19:32.379
+Carlos Fabian Descalzo: este alineados con 4 o 5 clientes
+
+906
+02:19:32.980 --> 02:19:36.800
+Carlos Fabian Descalzo: en donde ellos modificaban estas reglas
+
+907
+02:19:36.900 --> 02:19:45.860
+Carlos Fabian Descalzo: dentro de ellas. La la parte impositiva y los porcentajes de de cómo se llama de descuentos, por ejemplo.
+
+908
+02:19:46.219 --> 02:19:51.620
+Carlos Fabian Descalzo: en donde empezó a hacer ruido el tema, porque se fueron de Mambo y empezaron
+
+909
+02:19:51.910 --> 02:19:59.099
+Carlos Fabian Descalzo: a vender más barato que el costo del producto Ahí hizo ruido.
+
+910
+02:19:59.290 --> 02:20:04.909
+Carlos Fabian Descalzo: Empezamos a investigar, y el tema no pasaba netamente por un tema contable.
+
+911
+02:20:05.040 --> 02:20:09.420
+Carlos Fabian Descalzo: sino que pasaba por un tema tecnológico, O sea, cómo es.
+
+912
+02:20:09.980 --> 02:20:12.399
+Carlos Fabian Descalzo: A pesar de ser una regla de negocio.
+
+913
+02:20:13.060 --> 02:20:16.399
+Carlos Fabian Descalzo: La gestión de la operación de la aplicación
+
+914
+02:20:16.600 --> 02:20:19.700
+Carlos Fabian Descalzo: tiene que tener un determinado tipo de control
+
+915
+02:20:20.040 --> 02:20:23.590
+Carlos Fabian Descalzo: que lo lleva adelante la gente de seguridad
+
+916
+02:20:24.320 --> 02:20:27.829
+Carlos Fabian Descalzo: en donde el control no funcionaba bien.
+
+917
+02:20:28.290 --> 02:20:34.250
+Carlos Fabian Descalzo: Alguien dentro del negocio se dio cuenta de que podían hacer algo que deberían no poder hacerlo.
+
+918
+02:20:34.560 --> 02:20:38.729
+Carlos Fabian Descalzo: Y en lugar de avisar, lo utilizaron en provecho propio.
+
+919
+02:20:39.160 --> 02:20:41.669
+Carlos Fabian Descalzo: Y estuvieron así como un año más o menos.
+
+920
+02:20:42.810 --> 02:20:47.170
+Carlos Fabian Descalzo: Entonces imagínense el el nivel de problema. Lo mismo le pasó
+
+921
+02:20:47.390 --> 02:20:50.970
+Carlos Fabian Descalzo: en otro nivel en donde le costó inclusive
+
+922
+02:20:51.370 --> 02:21:00.800
+Carlos Fabian Descalzo: el puesto al presidente de la compañía, al gerente general y a 3 o 4 gerentes acá en Argentina a una empresa de seguridad también muy importante.
+
+923
+02:21:01.430 --> 02:21:10.210
+Carlos Fabian Descalzo: en donde había inclusive desde algún país de Europa, Este tema, también de
+
+924
+02:21:10.590 --> 02:21:14.000
+Carlos Fabian Descalzo: de poder vender con determinado tipo de facilidades
+
+925
+02:21:14.260 --> 02:21:19.859
+Carlos Fabian Descalzo: y recibir ellos un dinero en función de esa facilidad, digamos en en sí.
+
+926
+02:21:19.980 --> 02:21:34.589
+Carlos Fabian Descalzo: Entonces estos controles de aplicación están asociados a proteger a la organización y a los accionistas en esto que yo les comento, ¿no? Y ahí es donde caen lo que les explicaba recién de de de los controles generales.
+
+927
+02:21:34.590 --> 02:21:44.529
+Carlos Fabian Descalzo: que es donde cae a la parte más tecnológica, digamos no en donde tiene que haber un control técnico tecnológico.
+
+928
+02:21:44.590 --> 02:22:00.680
+Carlos Fabian Descalzo: no sólo a nivel de base de datos y sistema operativo, sino también, por ejemplo, en cómo se gestionan reglas de negocio, etcétera, directamente atrás de la aplicación que, por ejemplo, un usuario no le pueda entrar por atrás Una base de datos. Esto es este comentario o esta frase que digo
+
+929
+02:22:01.330 --> 02:22:07.429
+Carlos Fabian Descalzo: en el ambiente de auditoría lo van a escuchar bastante. Digamos no como que es algo que que se protege. Sí,
+
+930
+02:22:07.530 --> 02:22:19.250
+Carlos Fabian Descalzo: este. Así que, bueno, si yo no los quiero complicar más en un viernes, entonces por hoy dejaría acá
+
+931
+02:22:19.720 --> 02:22:26.360
+Carlos Fabian Descalzo: Y si quieren, utilizamos los últimos 6 min, si alguien tiene alguna consulta más
+
+932
+02:22:26.740 --> 02:22:29.839
+Carlos Fabian Descalzo: de del tema del del parcial
+
+933
+02:22:30.420 --> 02:22:33.340
+Carlos Fabian Descalzo: o o del práctico en general.
+
+934
+02:22:33.830 --> 02:22:41.029
+EXEQUIEL ALVAREZ BIANCO: Yo Profe. Te quería consultar porque yo también te tengo a vos en la materia de los lunes de.
+
+935
+02:22:41.030 --> 02:22:41.510
+Carlos Fabian Descalzo: De riesgo.
+
+936
+02:22:41.510 --> 02:22:43.330
+EXEQUIEL ALVAREZ BIANCO: Nombre de riesgos, Esa.
+
+937
+02:22:43.530 --> 02:22:51.019
+EXEQUIEL ALVAREZ BIANCO: Y bueno, viste que ahí el parcial es, hacemos el trabajo prácticos, pero hay que defender donde quedarse, No, si es que hay algo más. Y todo esto.
+
+938
+02:22:51.020 --> 02:22:59.309
+Carlos Fabian Descalzo: Es igual. Tengan en cuenta esto en los 2 casos Para aquellos que tienen las 2 materias, es igual la mecánica.
+
+939
+02:22:59.830 --> 02:23:06.869
+Carlos Fabian Descalzo: Lo que lo que hagan es subir el práctico.
+
+940
+02:23:07.240 --> 02:23:12.459
+Carlos Fabian Descalzo: Yo, cuando controlo de que veo que ya lo subieron. Los voy a leer
+
+941
+02:23:13.420 --> 02:23:17.460
+Carlos Fabian Descalzo: y espero llegar a leer todos los que los que lleguen a subir.
+
+942
+02:23:17.620 --> 02:23:24.379
+Carlos Fabian Descalzo: y si hay alguno que me queda alguna duda o algo en la clase. Yo les pregunto como para que lo defiendan.
+
+943
+02:23:24.880 --> 02:23:25.220
+EXEQUIEL ALVAREZ BIANCO: Okay.
+
+944
+02:23:25.220 --> 02:23:25.750
+Carlos Fabian Descalzo: Se entiende.
+
+945
+02:23:25.750 --> 02:23:38.760
+EXEQUIEL ALVAREZ BIANCO: Te quería consultar más que nada por el tema de que yo, el viernes que viene tengo una operación a la tarde, pero yo entonces nada. No, No sé si voy a llegar al tema de clase. No sé si hay alguna forma que lo pueda llegar a hacer algo.
+
+946
+02:23:38.760 --> 02:23:39.240
+Carlos Fabian Descalzo: Cuatro, 0.
+
+947
+02:23:39.240 --> 02:23:40.180
+EXEQUIEL ALVAREZ BIANCO: Otro día.
+
+948
+02:23:40.420 --> 02:23:43.199
+Carlos Fabian Descalzo: Despreocupate, porque yo lo que hago es
+
+949
+02:23:43.410 --> 02:23:46.279
+Carlos Fabian Descalzo: tratar de subirlo lo antes posible. Entonces.
+
+950
+02:23:46.280 --> 02:23:46.910
+EXEQUIEL ALVAREZ BIANCO: Sí.
+
+951
+02:23:47.170 --> 02:23:51.239
+Carlos Fabian Descalzo: Entonces yo lo que hago es cuando vos lo subas.
+
+952
+02:23:51.600 --> 02:23:54.279
+Carlos Fabian Descalzo: Si querés mandarme un mensajito al celu.
+
+953
+02:23:55.140 --> 02:23:57.610
+Carlos Fabian Descalzo: Y lo que hago, es, lo veo.
+
+954
+02:23:58.150 --> 02:24:04.509
+Carlos Fabian Descalzo: Y si tengo alguna pregunta que hacerte, te la hago por mail o o por mensajito
+
+955
+02:24:04.650 --> 02:24:08.280
+Carlos Fabian Descalzo: antes del viernes, y ya está te despreocupás.
+
+956
+02:24:08.680 --> 02:24:09.760
+EXEQUIEL ALVAREZ BIANCO: Dale, buenísimo.
+
+957
+02:24:09.760 --> 02:24:10.670
+Carlos Fabian Descalzo: Te parece.
+
+958
+02:24:10.850 --> 02:24:17.510
+EXEQUIEL ALVAREZ BIANCO: Sí, Sí, vale. Ahí hago el de hago el que es para el lunes ahora, y me pongo después con el otro. Vale.
+
+959
+02:24:17.510 --> 02:24:23.099
+Carlos Fabian Descalzo: Dale Dale. Y para este tienen una semana y media más o menos no o algo así,
+
+960
+02:24:23.430 --> 02:24:26.109
+Carlos Fabian Descalzo: porque creo que lo puse para el 18.
+
+961
+02:24:26.110 --> 02:24:26.890
+SOFIA LIBERTAD VELAZCO MONTAGNA: Semana.
+
+962
+02:24:27.080 --> 02:24:28.590
+Carlos Fabian Descalzo: Una semana, una semana.
+
+963
+02:24:28.740 --> 02:24:30.460
+Carlos Fabian Descalzo: Bien, bien, bien.
+
+964
+02:24:30.560 --> 02:24:38.879
+Carlos Fabian Descalzo: Así que, bueno, eso y con los que estén en riesgo se lo mismo. Y Y ahora este también,
+
+965
+02:24:39.290 --> 02:24:40.800
+Carlos Fabian Descalzo: súbanlo.
+
+966
+02:24:40.920 --> 02:24:47.480
+Carlos Fabian Descalzo: Y yo a lo sumo, les preguntaré en clase aquel que me quede alguna duda
+
+967
+02:24:48.200 --> 02:24:52.749
+Carlos Fabian Descalzo: o que yo consigue. Por ahí se podría ampliar un poquito más. Nada más que eso.
+
+968
+02:24:53.640 --> 02:24:55.650
+EXEQUIEL ALVAREZ BIANCO: Okay Dale. Bueno, muchísimas gracias.
+
+969
+02:24:55.880 --> 02:25:04.640
+Carlos Fabian Descalzo: Y bien, bueno, chicuelos, un gusto, haber estado con ustedes. Espero que ustedes piensen lo mismo de mí
+
+970
+02:25:04.870 --> 02:25:10.339
+Carlos Fabian Descalzo: este y y espero que que descansen y y que tengan un buen fin.
+
+971
+02:25:11.450 --> 02:25:12.450
+MATEO VALENZUELA: Dale.
+
+972
+02:25:12.450 --> 02:25:12.960
+FRANCISCO DAURAT: De gracias a.
+
+973
+02:25:12.960 --> 02:25:17.059
+CAROLINA OYARBIDE: Parbalatera no.
+
+974
+02:25:17.370 --> 02:25:20.320
+Carlos Fabian Descalzo: Claro, sí por malo?
+
+975
+02:25:21.290 --> 02:25:22.170
+Carlos Fabian Descalzo: Sí, Sí, Sí.
+
+976
+02:25:22.170 --> 02:25:23.460
+CAROLINA OYARBIDE: Nos vemos? Profe.
+
+977
+02:25:23.460 --> 02:25:24.930
+SALVADOR FERNÁNDEZ MADERO: Chao, muchas gracias por la clase.
+
+978
+02:25:24.930 --> 02:25:25.669
+CAROLINA OYARBIDE: Chao, chao.
+
+979
+02:25:25.670 --> 02:25:29.220
+Carlos Fabian Descalzo: Gracias a ustedes. Cuídense Chao, Chao!

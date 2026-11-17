@@ -1,0 +1,1771 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.100
+Dario Rizzo: Dime sí, entiendes, pero.
+
+2
+00:00:05.330 --> 00:00:06.110
+MATEO POGGIO CATALANO: Buenas.
+
+3
+00:00:06.630 --> 00:00:08.029
+Dario Rizzo: Buenas.
+
+4
+00:00:09.150 --> 00:00:13.600
+Dario Rizzo: Vale, eso. Te gusta mucho.
+
+5
+00:00:13.600 --> 00:00:13.970
+Esp. Lic. Rubén Darío Aybar: En a.
+
+6
+00:00:13.970 --> 00:00:14.630
+Dario Rizzo: Así.
+
+7
+00:00:16.160 --> 00:00:18.390
+Dario Rizzo: Hola, Sí. Sí.
+
+8
+00:00:19.400 --> 00:00:29.460
+Dario Rizzo: Rubén. Ya te te doy la potestad. Vamos a ver ahí. Se repitió ahí. Ya podrías compartir rubén.
+
+9
+00:00:29.920 --> 00:00:37.739
+Esp. Lic. Rubén Darío Aybar: Igual y bar dejos Bien. Excelente. Bueno, muy buenas noches a todos como están
+
+10
+00:00:40.450 --> 00:00:47.580
+Esp. Lic. Rubén Darío Aybar: acá. En el Zoom Bien, somos 4. Bueno, no sé cuántos
+
+11
+00:00:47.810 --> 00:00:54.619
+Esp. Lic. Rubén Darío Aybar: habrá en el aula, pero muy buenas noches a todos esperando que se encuentren muy bien.
+
+12
+00:00:56.640 --> 00:00:57.410
+JUAN SANABRIA: Buenas noches.
+
+13
+00:00:58.520 --> 00:01:01.050
+Esp. Lic. Rubén Darío Aybar: Buenas noches y.
+
+14
+00:01:01.050 --> 00:01:02.519
+MATEO POGGIO CATALANO: bien.
+
+15
+00:01:02.830 --> 00:01:06.709
+Esp. Lic. Rubén Darío Aybar: Ahí. Estuvieron viendo un poquito de la.
+
+16
+00:01:06.710 --> 00:01:07.100
+MATEO POGGIO CATALANO: Que es.
+
+17
+00:01:07.100 --> 00:01:18.020
+Esp. Lic. Rubén Darío Aybar: Del módulo 5 con con darío hablaron sobre
+
+18
+00:01:18.620 --> 00:01:25.199
+Esp. Lic. Rubén Darío Aybar: vulnerabilidades, numeración de vulnerabilidades, análisis de C, B, s. B, C C
+
+19
+00:01:25.330 --> 00:01:31.880
+Esp. Lic. Rubén Darío Aybar: y hablaron un poquito de lo que es meta Exployd.
+
+20
+00:01:32.480 --> 00:01:46.429
+Esp. Lic. Rubén Darío Aybar: Bueno, mi idea es el laboratorio que les mostré la clase pasada que en estos minutos podamos andar un poquito más en ese laboratorio.
+
+21
+00:01:47.090 --> 00:01:54.550
+Esp. Lic. Rubén Darío Aybar: yo voy a pasar a compartir Ustedes me van a decir si se está viendo
+
+22
+00:02:01.730 --> 00:02:04.080
+Esp. Lic. Rubén Darío Aybar: ahí se está viendo mi pantalla.
+
+23
+00:02:04.230 --> 00:02:05.329
+Esp. Lic. Rubén Darío Aybar: Simo el mouse.
+
+24
+00:02:05.330 --> 00:02:06.830
+Dario Rizzo: Sí, Ahí se ve la pantalla.
+
+25
+00:02:07.000 --> 00:02:08.000
+Esp. Lic. Rubén Darío Aybar: Excelente.
+
+26
+00:02:08.000 --> 00:02:08.630
+MATEO POGGIO CATALANO: Sí, Sí.
+
+27
+00:02:08.639 --> 00:02:21.079
+Esp. Lic. Rubén Darío Aybar: Bueno, si recuerdan, teníamos un laboratorio, yo les había mostrado que en ese laboratorio despliegue a través de contenedores.
+
+28
+00:02:21.879 --> 00:02:28.209
+Esp. Lic. Rubén Darío Aybar: un Docker con post que bajaba imágenes y teníamos
+
+29
+00:02:28.319 --> 00:02:42.879
+Esp. Lic. Rubén Darío Aybar: símil real, lo que era una infraestructura donde teníamos un Wordpress. Teníamos un servidor web teníamos un
+
+30
+00:02:42.999 --> 00:02:44.269
+Esp. Lic. Rubén Darío Aybar: D N. S.
+
+31
+00:02:44.859 --> 00:02:56.289
+Esp. Lic. Rubén Darío Aybar: Entonces en esta clase me pareció pertinente de que, al ser de vulnerabilidades, podamos hablar un poquito
+
+32
+00:02:56.659 --> 00:03:09.859
+Esp. Lic. Rubén Darío Aybar: en base a a esto que venían comentando con darío le es: comentó qué es una vulnerabilidad
+
+33
+00:03:10.029 --> 00:03:16.449
+Esp. Lic. Rubén Darío Aybar: El objetivo que persigue un atacante
+
+34
+00:03:16.669 --> 00:03:23.289
+Esp. Lic. Rubén Darío Aybar: al crear un pelo y abusar de esa vulnerabilidad.
+
+35
+00:03:25.759 --> 00:03:31.029
+Esp. Lic. Rubén Darío Aybar: Yo acá ya tengo desplegada las 2 Bms.
+
+36
+00:03:31.129 --> 00:03:32.569
+Esp. Lic. Rubén Darío Aybar: Esta de acá
+
+37
+00:03:32.889 --> 00:03:45.869
+Esp. Lic. Rubén Darío Aybar: es la B M que contiene docker docker compost está desplegada la infraestructura. Tengo el Cali. Bueno, ahora
+
+38
+00:03:47.259 --> 00:03:49.579
+Esp. Lic. Rubén Darío Aybar: salí, pero está el cali
+
+39
+00:03:57.479 --> 00:04:06.339
+Esp. Lic. Rubén Darío Aybar: Si voy a la máquina, acá. Está desplegado, los contenedores. Starter
+
+40
+00:04:08.639 --> 00:04:12.429
+Esp. Lic. Rubén Darío Aybar: Bueno, está recién estado andando.
+
+41
+00:04:14.129 --> 00:04:20.859
+Esp. Lic. Rubén Darío Aybar: Bueno, ¿qué pasó? La máquina está encendida.
+
+42
+00:04:21.049 --> 00:04:28.119
+Esp. Lic. Rubén Darío Aybar: pero debe haber pasado algo Ahí se desconectó, Vamos a hacer una cosa.
+
+43
+00:04:29.909 --> 00:04:37.909
+Esp. Lic. Rubén Darío Aybar: Yo tengo Ip dinámica. Acá Fíjense que antes me había fijado. Voy a hacer un nuevo ip. Config: ¿Y
+
+44
+00:04:38.409 --> 00:04:40.479
+Esp. Lic. Rubén Darío Aybar: qué pasó
+
+45
+00:04:45.489 --> 00:04:50.759
+Esp. Lic. Rubén Darío Aybar: si podemos ver, se lo muestra.
+
+46
+00:04:56.339 --> 00:04:57.839
+Esp. Lic. Rubén Darío Aybar: Y
+
+47
+00:05:13.269 --> 00:05:14.259
+Esp. Lic. Rubén Darío Aybar: Mhm.
+
+48
+00:05:20.759 --> 00:05:21.549
+Esp. Lic. Rubén Darío Aybar: Y
+
+49
+00:05:33.109 --> 00:05:34.089
+Esp. Lic. Rubén Darío Aybar: pero
+
+50
+00:05:39.319 --> 00:05:42.369
+Esp. Lic. Rubén Darío Aybar: pua, por suerte no lo voy a encontrar.
+
+51
+00:05:44.939 --> 00:05:55.809
+Esp. Lic. Rubén Darío Aybar: Vamos a hacer una cosa. La voy a reiniciar de forma rápida porque se debe haber cambiado leiper.
+
+52
+00:05:56.139 --> 00:06:01.969
+Esp. Lic. Rubén Darío Aybar: Vamos a ver, reiniciar y listo esta máquina.
+
+53
+00:06:02.819 --> 00:06:18.999
+Esp. Lic. Rubén Darío Aybar: La idea es que podamos empezar viendo desde lo que es detectar la versión del servidor web pasando por
+
+54
+00:06:19.559 --> 00:06:27.029
+Esp. Lic. Rubén Darío Aybar: ver si y esa versión del servidor web puede llegar a tener
+
+55
+00:06:27.409 --> 00:06:35.339
+Esp. Lic. Rubén Darío Aybar: algún tipo de vulnerabilidad conocida entonces investigar esa vulnerabilidad.
+
+56
+00:06:35.479 --> 00:06:42.119
+Esp. Lic. Rubén Darío Aybar: Y en base a eso, poder ejecutar acciones.
+
+57
+00:06:44.449 --> 00:06:47.269
+Esp. Lic. Rubén Darío Aybar: Bien, vamos a dejar que encienda
+
+58
+00:06:54.979 --> 00:06:59.879
+Esp. Lic. Rubén Darío Aybar: esto puede pasar. Así que disculpas.
+
+59
+00:07:01.340 --> 00:07:03.849
+Dario Rizzo: Sí, Sí, las vemos en vivo, siempre son son así.
+
+60
+00:07:05.000 --> 00:07:14.329
+Esp. Lic. Rubén Darío Aybar: Sí. Empecé, no me dejó ni empezar. Bueno, eso es bueno porque no habíamos ni empezado, así que es como que estuviera arrancando la máquina.
+
+61
+00:07:14.960 --> 00:07:16.499
+Esp. Lic. Rubén Darío Aybar: ¿qué es lo que estoy haciendo?
+
+62
+00:07:16.880 --> 00:07:24.980
+Esp. Lic. Rubén Darío Aybar: Así que, bueno, ahora vamos a ver qué Ip me brindó. Esto se le cambió la Ip, seguramente que ese problema. Bueno, yo tengo un usuario Raibar.
+
+63
+00:07:25.250 --> 00:07:27.609
+Esp. Lic. Rubén Darío Aybar: Pp: 1, 2, 3, 4.
+
+64
+00:07:29.340 --> 00:07:31.020
+Esp. Lic. Rubén Darío Aybar: Ahí está iniciando.
+
+65
+00:07:34.900 --> 00:07:43.869
+Esp. Lic. Rubén Darío Aybar: vamos a ejecutar ahora? Sí, Fíjense, es la 22 y ese era el problema. Por eso se desconectó
+
+66
+00:07:44.600 --> 00:07:48.740
+Esp. Lic. Rubén Darío Aybar: porque yo estaba en la 21,
+
+67
+00:07:50.640 --> 00:07:56.949
+Esp. Lic. Rubén Darío Aybar: Así que dinámicamente me cambió la Ip. Vamos a editar. Fíjense que yo tenía 21
+
+68
+00:07:57.100 --> 00:08:01.200
+Esp. Lic. Rubén Darío Aybar: era lógico que no me deje ingresar.
+
+69
+00:08:01.990 --> 00:08:11.719
+Esp. Lic. Rubén Darío Aybar: Bueno, ahí estamos, me voy a loguear. Acá. Este es el Mobile Kister, que les mostré la clase pasada.
+
+70
+00:08:11.860 --> 00:08:17.440
+Esp. Lic. Rubén Darío Aybar: Pp: Uno, 2, 3, 4. Recuerden, I es que
+
+71
+00:08:17.720 --> 00:08:20.909
+Esp. Lic. Rubén Darío Aybar: voy a agrandar un poquito para que se vea
+
+72
+00:08:23.760 --> 00:08:26.330
+Esp. Lic. Rubén Darío Aybar: un poco mejor del otro lado.
+
+73
+00:08:27.790 --> 00:08:32.380
+Esp. Lic. Rubén Darío Aybar: Bien, Bien.
+
+74
+00:08:41.390 --> 00:08:43.760
+Esp. Lic. Rubén Darío Aybar: Okay, ahhh.
+
+75
+00:08:47.830 --> 00:08:51.630
+Esp. Lic. Rubén Darío Aybar: Se Se habla 1, 3.
+
+76
+00:08:59.630 --> 00:09:09.840
+Esp. Lic. Rubén Darío Aybar: Bien, yo acá. Fui anotando a ver si tengo acá para ir más rápido.
+
+77
+00:09:15.120 --> 00:09:17.939
+Esp. Lic. Rubén Darío Aybar: pero no lo tengo claro
+
+78
+00:09:26.700 --> 00:09:29.580
+Esp. Lic. Rubén Darío Aybar: donde tengo.
+
+79
+00:09:37.650 --> 00:09:41.780
+Esp. Lic. Rubén Darío Aybar: Cali Ustedes ya lo vienen utilizando
+
+80
+00:09:53.700 --> 00:09:58.959
+Esp. Lic. Rubén Darío Aybar: bien ahí. Ingreso: ¿sí? Por abrir una consola.
+
+81
+00:10:05.810 --> 00:10:17.680
+Esp. Lic. Rubén Darío Aybar: Mhm: acá Yo estuve ya ejecutando los diferentes pasos, bien y
+
+82
+00:10:17.850 --> 00:10:23.180
+Esp. Lic. Rubén Darío Aybar: a ver si puedo agrandar esto ese un poquito mejor.
+
+83
+00:10:23.580 --> 00:10:25.150
+Esp. Lic. Rubén Darío Aybar: Sund en.
+
+84
+00:10:27.800 --> 00:10:37.110
+Esp. Lic. Rubén Darío Aybar: Y bueno, son el qué podemos hacer acá
+
+85
+00:10:37.260 --> 00:10:41.159
+Esp. Lic. Rubén Darío Aybar: a ver si llegamos al al servidor lo primero
+
+86
+00:10:43.530 --> 00:10:54.340
+Esp. Lic. Rubén Darío Aybar: a ver si llegamos al servidor que ejecute un qure menos. Si a la I P del servidor.
+
+87
+00:10:55.590 --> 00:11:01.479
+Esp. Lic. Rubén Darío Aybar: entonces yo detecto de que hay un servicio web.
+
+88
+00:11:01.710 --> 00:11:11.080
+Esp. Lic. Rubén Darío Aybar: Lo que voy a intentar hacer es identificar la versión del servidor.
+
+89
+00:11:11.860 --> 00:11:13.739
+Esp. Lic. Rubén Darío Aybar: A ver si llegamos primero.
+
+90
+00:11:13.970 --> 00:11:16.980
+Esp. Lic. Rubén Darío Aybar: Acá. Dijimos que era la 22
+
+91
+00:11:18.470 --> 00:11:20.730
+Esp. Lic. Rubén Darío Aybar: Ahí se está viendo no la consola.
+
+92
+00:11:23.060 --> 00:11:23.570
+JUAN SANABRIA: Sí.
+
+93
+00:11:23.570 --> 00:11:24.540
+Dario Rizzo: Sí. Perfecto.
+
+94
+00:11:24.860 --> 00:11:36.260
+Esp. Lic. Rubén Darío Aybar: Ahí. Agrande un poquito más Bien, el servidor está vivo. Los contenedores entonces, están vivos y me está respondiendo
+
+95
+00:11:36.810 --> 00:11:39.560
+Esp. Lic. Rubén Darío Aybar: un servidor web. En este caso.
+
+96
+00:11:39.710 --> 00:11:42.720
+Esp. Lic. Rubén Darío Aybar: nos damos cuenta de que tiene
+
+97
+00:11:43.990 --> 00:11:52.760
+Esp. Lic. Rubén Darío Aybar: todo toda la configuración para que nos devuelva versión de
+
+98
+00:11:53.370 --> 00:12:03.650
+Esp. Lic. Rubén Darío Aybar: el motor web. En este caso 200 449 que está desplegado en un servidor
+
+99
+00:12:03.900 --> 00:12:07.050
+Esp. Lic. Rubén Darío Aybar: Linux. Por eso nos dice, y Unix.
+
+100
+00:12:07.190 --> 00:12:13.830
+Esp. Lic. Rubén Darío Aybar: No sabemos que Linux es, pero nos dice que es de base unix y
+
+101
+00:12:14.080 --> 00:12:22.380
+Esp. Lic. Rubén Darío Aybar: que el motor web que el servidor web es una pacha. Acá Nos podría haber contestado que es un enginet con
+
+102
+00:12:22.620 --> 00:12:32.940
+Esp. Lic. Rubén Darío Aybar: tal versión o un Google. ¿cómo se llama el de Google?
+
+103
+00:12:33.080 --> 00:12:41.700
+Esp. Lic. Rubén Darío Aybar: Ahora no me sale el nombre del de 1 puede desplegar un servidor con flax flash
+
+104
+00:12:42.040 --> 00:12:58.500
+Esp. Lic. Rubén Darío Aybar: con Python, no el micro framework flags de Python. Entonces podría también utilizar el motor que ya trae ese micro Framework de
+
+105
+00:12:58.700 --> 00:12:59.940
+Esp. Lic. Rubén Darío Aybar: de Python.
+
+106
+00:13:00.150 --> 00:13:02.310
+Esp. Lic. Rubén Darío Aybar: En este caso es un servidor Apache.
+
+107
+00:13:02.590 --> 00:13:09.340
+Esp. Lic. Rubén Darío Aybar: Yo que hice, pues un Browser y busquet
+
+108
+00:13:09.850 --> 00:13:18.180
+Esp. Lic. Rubén Darío Aybar: lo que obtengo. Server Apache 2. 449 y unics, lo copié tal cual.
+
+109
+00:13:18.470 --> 00:13:23.429
+Esp. Lic. Rubén Darío Aybar: Ustedes se fijan, Hice una copia tal cual
+
+110
+00:13:25.430 --> 00:13:30.750
+Esp. Lic. Rubén Darío Aybar: ya con ese dato que nos está regalando el administrador
+
+111
+00:13:30.970 --> 00:13:37.599
+Esp. Lic. Rubén Darío Aybar: de ese servidor web que conseguimos un una versión
+
+112
+00:13:38.640 --> 00:13:48.850
+Esp. Lic. Rubén Darío Aybar: y un nombre de qué servidor está sirviendo el sitio web.
+
+113
+00:13:50.020 --> 00:13:51.870
+Esp. Lic. Rubén Darío Aybar: Es más, esto
+
+114
+00:13:55.420 --> 00:14:04.530
+Esp. Lic. Rubén Darío Aybar: vamos a ver si es real. Si yo hago esto y lo copio, y lo pego en mi Browser.
+
+115
+00:14:05.580 --> 00:14:12.890
+Esp. Lic. Rubén Darío Aybar: fíjense que también llego desde mi máquina Como llego desde el cali llego y el sitio web existe.
+
+116
+00:14:14.150 --> 00:14:15.739
+Esp. Lic. Rubén Darío Aybar: Me está atendiendo.
+
+117
+00:14:17.130 --> 00:14:31.480
+Esp. Lic. Rubén Darío Aybar: Esto También cabe aclarar que yo, desde mi Browser, voy a manejar más por línea de comando, porque después vamos a ejecutar herramientas. Pero desde mi Browser, si voy a herramientas
+
+118
+00:14:31.650 --> 00:14:40.150
+Esp. Lic. Rubén Darío Aybar: para el desarrollador, si yo recargo esto mismo, veo que acá
+
+119
+00:14:40.620 --> 00:14:46.660
+Esp. Lic. Rubén Darío Aybar: me sirve el si el documento después me sirve de diferentes script.
+
+120
+00:14:47.180 --> 00:14:50.760
+Esp. Lic. Rubén Darío Aybar: Y si yo me fijo, acá
+
+121
+00:14:51.070 --> 00:14:55.560
+Esp. Lic. Rubén Darío Aybar: perdón que tengo acá mismo, la la pantallita del
+
+122
+00:14:57.180 --> 00:15:00.249
+Esp. Lic. Rubén Darío Aybar: del zoom. Si yo me fijo.
+
+123
+00:15:00.390 --> 00:15:08.089
+Esp. Lic. Rubén Darío Aybar: me está dando la información que vemos por consola. Se entiende hasta acá venimos bien.
+
+124
+00:15:10.180 --> 00:15:10.990
+JUAN SANABRIA: Sí.
+
+125
+00:15:10.990 --> 00:15:11.850
+Dario Rizzo: Sí. Rubén.
+
+126
+00:15:12.400 --> 00:15:22.210
+Esp. Lic. Rubén Darío Aybar: Bien excelente, entonces ya tenemos un objetivo. Ya ese objetivo. Lo pudimos identificar.
+
+127
+00:15:22.850 --> 00:15:29.209
+Esp. Lic. Rubén Darío Aybar: Es un motor web que en este caso es Apache. Con tal versión.
+
+128
+00:15:29.430 --> 00:15:34.950
+Esp. Lic. Rubén Darío Aybar: yo hago una simple búsqueda y me aparece que hay.
+
+129
+00:15:35.220 --> 00:15:49.620
+Esp. Lic. Rubén Darío Aybar: Debe haber muchas vulnerabilidades en este caso. Si yo me fijo. Fíjense que acá empiezan a aparecer vulnerabilidades.
+
+130
+00:15:49.950 --> 00:15:54.309
+Esp. Lic. Rubén Darío Aybar: Y la que más se repite para esta versión
+
+131
+00:15:54.500 --> 00:16:00.430
+Esp. Lic. Rubén Darío Aybar: es una vulnerabilidad que es del año 20 21,
+
+132
+00:16:01.140 --> 00:16:10.129
+Esp. Lic. Rubén Darío Aybar: número 41, 773, recordando que cómo se compone un C. V
+
+133
+00:16:11.050 --> 00:16:23.659
+Esp. Lic. Rubén Darío Aybar: se ve y dónde el medio año en que fue publicado y empieza siempre en 0. Entonces, desde enero
+
+134
+00:16:24.530 --> 00:16:40.099
+Esp. Lic. Rubén Darío Aybar: hasta que fue publicado, reportado y publicado. Este se ve, llegó al 41, 773. Esto en el año 2 021. Debe haber andado más o menos.
+
+135
+00:16:40.100 --> 00:16:46.549
+Esp. Lic. Rubén Darío Aybar: imagino que más tirando a fin de año. Hoy en día, este número
+
+136
+00:16:47.390 --> 00:16:51.289
+Esp. Lic. Rubén Darío Aybar: ya se había conseguido. Ya se consiguió
+
+137
+00:16:51.430 --> 00:16:58.060
+Esp. Lic. Rubén Darío Aybar: por la masividad de la inteligencia artificial hace unos meses para atrás.
+
+138
+00:16:58.190 --> 00:17:11.660
+Esp. Lic. Rubén Darío Aybar: Entonces, este año se espera que se llegue casi a los 100 000 C. V reportados. ¿por qué? Por la masividad de la inteligencia artificial.
+
+139
+00:17:11.869 --> 00:17:17.860
+Esp. Lic. Rubén Darío Aybar: convengamos Microsoft El la el mes pasado
+
+140
+00:17:18.140 --> 00:17:30.640
+Esp. Lic. Rubén Darío Aybar: sacó 590 si mal no recuerdo el número o si no le voy a errar a infinito 593 o 573
+
+141
+00:17:31.260 --> 00:17:40.809
+Esp. Lic. Rubén Darío Aybar: cbs envió para que se coloquen los parches, no en el segundo martes
+
+142
+00:17:41.100 --> 00:17:47.369
+Esp. Lic. Rubén Darío Aybar: del mes pasado. Entonces ahí ya tenemos 500 no más o casi 600.
+
+143
+00:17:47.370 --> 00:17:50.380
+Dario Rizzo: Solamente en un mes, rubén.
+
+144
+00:17:50.860 --> 00:17:52.189
+Esp. Lic. Rubén Darío Aybar: Solamente en un mes.
+
+145
+00:17:52.800 --> 00:17:54.609
+Esp. Lic. Rubén Darío Aybar: Fue récord histórico.
+
+146
+00:17:55.010 --> 00:18:06.240
+Esp. Lic. Rubén Darío Aybar: porque eso, con la masividad de encontrar la gente de Microsoft encontró 500 y pico. Si lo buscamos, fue récord histórico para Microsoft.
+
+147
+00:18:07.280 --> 00:18:10.560
+Esp. Lic. Rubén Darío Aybar: Microsoft récord.
+
+148
+00:18:11.270 --> 00:18:16.790
+Esp. Lic. Rubén Darío Aybar: Se ve C. V e
+
+149
+00:18:22.060 --> 00:18:26.640
+Esp. Lic. Rubén Darío Aybar: Microsoft sep and all Time Company récord
+
+150
+00:18:26.860 --> 00:18:40.700
+Esp. Lic. Rubén Darío Aybar: Ford de Larguet Security a Day in the in is History Durante julio no estamos en Yo dije el mes pasado, no fue hace 2 meses, en julio.
+
+151
+00:18:41.820 --> 00:18:43.090
+Esp. Lic. Rubén Darío Aybar: 600 Veintidos.
+
+152
+00:18:43.090 --> 00:18:43.430
+Dario Rizzo: De en.
+
+153
+00:18:43.430 --> 00:18:51.470
+Esp. Lic. Rubén Darío Aybar: El epifies eran más de 600 solo Microsoft. Imagínense la cantidad de C. V. S.
+
+154
+00:18:51.760 --> 00:18:56.429
+Esp. Lic. Rubén Darío Aybar: Que hay por por por soluciones. ¿no?
+
+155
+00:18:56.990 --> 00:19:07.020
+Esp. Lic. Rubén Darío Aybar: Entonces este récord este año no solo va a ser récord para Microsoft. Va a ser récord histórico para mitre
+
+156
+00:19:07.800 --> 00:19:17.570
+Esp. Lic. Rubén Darío Aybar: para la base para la National Vulnerability Database, que mantiene mitre en Estados Unidos. Va a ser récord histórico este año
+
+157
+00:19:18.130 --> 00:19:30.370
+Esp. Lic. Rubén Darío Aybar: y se va a ir superando. Se va a ir superando y acá no me deja mentir la respuesta. Fíjense, ahí hay Power Power Bach Hunting System.
+
+158
+00:19:30.790 --> 00:19:36.589
+Esp. Lic. Rubén Darío Aybar: Todo esto en relación a la utilización de inteligencia artificial. Entonces.
+
+159
+00:19:37.000 --> 00:19:44.810
+Esp. Lic. Rubén Darío Aybar: volviendo este C V es del 20 21 y imagino que más tirando a fin de año.
+
+160
+00:19:45.010 --> 00:19:49.840
+Esp. Lic. Rubén Darío Aybar: Ahora, este número creció rotundamente bien
+
+161
+00:19:49.940 --> 00:19:55.740
+Esp. Lic. Rubén Darío Aybar: que nos dice este. Se ve. Podemos ver que es un pack transversal.
+
+162
+00:19:56.550 --> 00:20:04.730
+Esp. Lic. Rubén Darío Aybar: Quién sabe qué es un pack traversal. Bueno, ahí lo dice, pero alguien lo conocía un.
+
+163
+00:20:04.750 --> 00:20:05.270
+Dario Rizzo: Para el.
+
+164
+00:20:05.270 --> 00:20:09.049
+Esp. Lic. Rubén Darío Aybar: Transversal por un lado, y un Rc por el otro no.
+
+165
+00:20:10.760 --> 00:20:13.540
+Dario Rizzo: Una ejecución remota de comandos y
+
+166
+00:20:13.860 --> 00:20:18.890
+Dario Rizzo: un director y parte transversal. O sea, que te vas pasando, digamos, de la ruta.
+
+167
+00:20:19.830 --> 00:20:25.670
+Dario Rizzo: Mhm, o sea, una ruta alternativa, Digamos el ahí en el par.
+
+168
+00:20:26.680 --> 00:20:28.910
+Dario Rizzo: No sé o explícalo, bien, pero
+
+169
+00:20:29.130 --> 00:20:36.679
+Dario Rizzo: te pones a otro directorio y no, no deberías acceder, es decir.
+
+170
+00:20:37.870 --> 00:20:38.520
+Esp. Lic. Rubén Darío Aybar: Excelente.
+
+171
+00:20:38.520 --> 00:20:39.580
+Dario Rizzo: Por en.
+
+172
+00:20:40.570 --> 00:20:51.649
+Esp. Lic. Rubén Darío Aybar: Quieres repetirlo porque no se escuchó. Bien. Para los los chicos de de, acá. O sea, me pareció que estaba excelente la la respuesta, pero repetíla darío si podés.
+
+173
+00:20:52.990 --> 00:20:54.969
+Dario Rizzo: Ahora se escucha. Si no.
+
+174
+00:20:54.970 --> 00:20:57.970
+Esp. Lic. Rubén Darío Aybar: Ah, Perfecto. Dale Dale, Sí, Sí.
+
+175
+00:20:57.970 --> 00:20:59.030
+Dario Rizzo: Muchas gracias.
+
+176
+00:20:59.780 --> 00:21:04.319
+Dario Rizzo: Vas El directo de pata transversal, o.
+
+177
+00:21:04.320 --> 00:21:05.230
+Esp. Lic. Rubén Darío Aybar: Pack. Traverse.
+
+178
+00:21:05.230 --> 00:21:06.160
+Dario Rizzo: De reto.
+
+179
+00:21:07.500 --> 00:21:08.859
+Dario Rizzo: No, no.
+
+180
+00:21:08.860 --> 00:21:09.500
+Esp. Lic. Rubén Darío Aybar: Bueno.
+
+181
+00:21:10.450 --> 00:21:11.050
+Dario Rizzo: Sí.
+
+182
+00:21:11.310 --> 00:21:22.629
+Dario Rizzo: Este vas moviéndote, digamos, en el en el directorio.
+
+183
+00:21:23.320 --> 00:21:27.979
+Dario Rizzo: a rutas a las que no deberías acceder.
+
+184
+00:21:28.840 --> 00:21:32.779
+Dario Rizzo: o sea, directorios a los que no deberías entrar.
+
+185
+00:21:33.350 --> 00:21:35.430
+Dario Rizzo: porque no se deberían mostrar en teoría.
+
+186
+00:21:35.940 --> 00:21:36.570
+Esp. Lic. Rubén Darío Aybar: Bien.
+
+187
+00:21:36.570 --> 00:21:44.939
+Dario Rizzo: En barra punto, punto. Barra, punto. Punto y bueno, así sucesivamente, hasta encontrarla la que quieras acceder.
+
+188
+00:21:45.410 --> 00:21:58.990
+Esp. Lic. Rubén Darío Aybar: Excelente excelente. Es una vulnerabilidad y busque esta a propósito porque es una vulnerabilidad muy vieja, ataca sistemas operativos. Linux
+
+189
+00:21:59.220 --> 00:22:14.080
+Esp. Lic. Rubén Darío Aybar: más orientada a Linux, por lo que comentó el compañero, también llamada la van a encontrar como vulnerabilidad. Dot Dot dot dot es punto punto en inglés, entonces
+
+190
+00:22:14.290 --> 00:22:15.690
+Esp. Lic. Rubén Darío Aybar: de que abusa.
+
+191
+00:22:15.690 --> 00:22:16.320
+MATEO POGGIO CATALANO: Un día.
+
+192
+00:22:16.320 --> 00:22:23.170
+Esp. Lic. Rubén Darío Aybar: De una mala configuración, por un lado, del lado del servidor web.
+
+193
+00:22:23.370 --> 00:22:39.140
+Esp. Lic. Rubén Darío Aybar: En base a esa mala configuración. ¿qué es lo que sucede. Si yo agrego un pelo, esa carga útil para poder abusar. Voy a poner diferente cantidad de.
+
+194
+00:22:39.140 --> 00:22:39.730
+MATEO POGGIO CATALANO: No.
+
+195
+00:22:39.730 --> 00:22:50.830
+Esp. Lic. Rubén Darío Aybar: Barra punto, punto, porque la lógica es que yo me pueda mover hasta el Root de
+
+196
+00:22:51.110 --> 00:22:58.449
+Esp. Lic. Rubén Darío Aybar: lo que es el File System de Linux. Ustedes saben que si yo me muevo a un directorio
+
+197
+00:22:58.680 --> 00:23:07.670
+Esp. Lic. Rubén Darío Aybar: y luego empiezo, vamos a la consola. Si yo estoy en este directorio y me muevo.
+
+198
+00:23:08.590 --> 00:23:25.789
+Esp. Lic. Rubén Darío Aybar: Vamos a suponer apache. Infra. Si yo hago un CD Apache infra y luego quiero volver como hago CD: punto punto. Por eso es Dot. Dog. Fíjense que volvía al mismo directorio. Entonces esta vulnerabilidad.
+
+199
+00:23:25.830 --> 00:23:32.249
+Esp. Lic. Rubén Darío Aybar: abusa de que si yo voy poniendo en mi pelo diferentes.
+
+200
+00:23:32.930 --> 00:23:50.340
+Esp. Lic. Rubén Darío Aybar: Punto, punto, barra, punto, punto, barra, punto a donde voy a llegar. Voy a llegar a un momento en el que yo estoy parado Ahora, en el barrajón Barra Arraibar Barra Cyberlad.
+
+201
+00:23:50.450 --> 00:23:55.349
+Esp. Lic. Rubén Darío Aybar: y donde el medio módulo 3, Entonces, si yo hago 3 veces
+
+202
+00:23:55.690 --> 00:24:05.399
+Esp. Lic. Rubén Darío Aybar: CD: Va espacio. Punto a punto. Me voy a quedar posicionado en el barra, y desde ese momento
+
+203
+00:24:05.700 --> 00:24:16.150
+Esp. Lic. Rubén Darío Aybar: yo vamos a suponer, si quiero leer el archivo, etc. W, para conocer los usuarios.
+
+204
+00:24:16.640 --> 00:24:22.689
+Esp. Lic. Rubén Darío Aybar: Solamente tengo que agregar eso al pelo, agrego.
+
+205
+00:24:23.310 --> 00:24:27.050
+Esp. Lic. Rubén Darío Aybar: barra, punto punto X, cantidad de veces.
+
+206
+00:24:27.890 --> 00:24:42.199
+Esp. Lic. Rubén Darío Aybar: yo no sé a qué distancia estoy. Entonces. Yo puedo poner 5. Puedo poner 6, Puedo poner 7, y luego agrego ¿a qué archivo quiero acceder o a qué directorio quiero acceder
+
+207
+00:24:42.980 --> 00:24:55.760
+Esp. Lic. Rubén Darío Aybar: Entonces no sé quién explicó del otro lado, pero excelente. Es una vulnerabilidad muy vieja conocida como Dog Dogg o su nombre real, es Pack transversal.
+
+208
+00:24:56.210 --> 00:25:05.190
+Esp. Lic. Rubén Darío Aybar: donde se abusa de conocer que si existe la vulnerabilidad, yo voy a poder retroceder
+
+209
+00:25:05.420 --> 00:25:11.100
+Esp. Lic. Rubén Darío Aybar: hasta quedarme parado en el barro a más del barra. No voy a poder ir. Entonces, si puse.
+
+210
+00:25:11.530 --> 00:25:20.869
+Esp. Lic. Rubén Darío Aybar: acá son 3, si yo puse 5. Ya Me quedé posicionado en el barra y desde ese momento, todo lo que yo le indique
+
+211
+00:25:22.110 --> 00:25:31.010
+Esp. Lic. Rubén Darío Aybar: que vaya a po a posicionarse en tal directorio o que intente leer tal archivo.
+
+212
+00:25:31.530 --> 00:25:34.270
+Esp. Lic. Rubén Darío Aybar: Lo voy a poder lograr hacer.
+
+213
+00:25:34.960 --> 00:25:37.069
+Esp. Lic. Rubén Darío Aybar: Se entiende la vulnerabilidad.
+
+214
+00:25:40.660 --> 00:25:42.620
+Dario Rizzo: Sí, Sí.
+
+215
+00:25:42.830 --> 00:25:54.359
+Esp. Lic. Rubén Darío Aybar: Bien eso para explicar un poquito la vulnerabilidad que encontramos y se ve.
+
+216
+00:26:02.630 --> 00:26:08.020
+Esp. Lic. Rubén Darío Aybar: acá. No, no sé si lo tengo. No recuerdo bien dónde había viajado.
+
+217
+00:26:14.770 --> 00:26:16.400
+Esp. Lic. Rubén Darío Aybar: No sé si lo tenía anotado
+
+218
+00:26:20.140 --> 00:26:22.250
+Esp. Lic. Rubén Darío Aybar: donde es que tengo el archivo.
+
+219
+00:26:23.260 --> 00:26:30.110
+Esp. Lic. Rubén Darío Aybar: porque no es ahí C punto. CD: Cyber
+
+220
+00:26:35.160 --> 00:26:41.460
+Esp. Lic. Rubén Darío Aybar: acá. Se ve chinfro.
+
+221
+00:26:43.100 --> 00:26:47.340
+Esp. Lic. Rubén Darío Aybar: Bien, acá. Tengo 2 archivos. Ahora, sí, si hago un bi
+
+222
+00:26:50.750 --> 00:26:57.749
+Esp. Lic. Rubén Darío Aybar: Htt: Este es el archivo de configuración
+
+223
+00:26:57.900 --> 00:27:06.159
+Esp. Lic. Rubén Darío Aybar: donde tiene el server root. Tiene el listen, que está atendiendo en el puerto 80 y por eso
+
+224
+00:27:07.100 --> 00:27:11.540
+Esp. Lic. Rubén Darío Aybar: nos está atendiendo.
+
+225
+00:27:17.000 --> 00:27:36.050
+Esp. Lic. Rubén Darío Aybar: Yo acá tengo unas directivas donde las coloqué comentadas, estas que vemos. Acá, Si yo vengo.
+
+226
+00:27:42.170 --> 00:27:52.780
+Esp. Lic. Rubén Darío Aybar: acá, va a volver intento hacer este tipo de curro
+
+227
+00:27:57.190 --> 00:28:07.730
+Esp. Lic. Rubén Darío Aybar: donde fíjense, yo lo estaba probando. Me cambio la Ip, acá ¿no? Pero tengo el dot dog y cons
+
+228
+00:28:08.000 --> 00:28:15.980
+Esp. Lic. Rubén Darío Aybar: punto punto punto, punto, punto, punto punto punto. Y qué hago esto? Me tendría que llevar hasta el barra
+
+229
+00:28:17.110 --> 00:28:24.359
+Esp. Lic. Rubén Darío Aybar: si está afectado por lo que es el la vulnerabilidad.
+
+230
+00:28:24.640 --> 00:28:29.570
+Esp. Lic. Rubén Darío Aybar: Vamos a probarlo. Vamos a cambiarle. Era la 22
+
+231
+00:28:36.000 --> 00:28:37.560
+Esp. Lic. Rubén Darío Aybar: Entonces acá.
+
+232
+00:28:37.820 --> 00:28:40.380
+Esp. Lic. Rubén Darío Aybar: Vemos que yo lo tengo comentado.
+
+233
+00:28:41.610 --> 00:28:44.720
+Esp. Lic. Rubén Darío Aybar: Me está dando un Bat Records.
+
+234
+00:28:45.350 --> 00:28:48.400
+Esp. Lic. Rubén Darío Aybar: o sea, no me está permitiendo
+
+235
+00:28:48.640 --> 00:28:53.030
+Esp. Lic. Rubén Darío Aybar: qué estoy buscando yo ver el E. T. C. Pass: W.
+
+236
+00:28:56.530 --> 00:28:58.080
+Esp. Lic. Rubén Darío Aybar: Puedo intentar
+
+237
+00:29:04.890 --> 00:29:14.089
+Esp. Lic. Rubén Darío Aybar: utilizar lo que es, como dices, todo se me fue de la cabeza. Ahora, el
+
+238
+00:29:15.520 --> 00:29:24.130
+Esp. Lic. Rubén Darío Aybar: bueno en enmascarar para mostrarlo Primero, para que veamos que no estaba
+
+239
+00:29:24.550 --> 00:29:30.249
+Esp. Lic. Rubén Darío Aybar: poniendo más que el barra punto. Punto. Esto es en Ay, ¿quién me ayuda.
+
+240
+00:29:30.410 --> 00:29:36.220
+Esp. Lic. Rubén Darío Aybar: De ¿Cómo se llaman estos?
+
+241
+00:29:40.230 --> 00:29:41.639
+JUAN SANABRIA: Directorio dice.
+
+242
+00:29:42.210 --> 00:29:51.720
+Esp. Lic. Rubén Darío Aybar: No el punto hay 12. Esto es.
+
+243
+00:29:51.720 --> 00:29:52.510
+Dario Rizzo: Chantaje.
+
+244
+00:29:53.040 --> 00:29:57.829
+Esp. Lic. Rubén Darío Aybar: Porcentaje? Sí, pero esto tiene un nombre. Esto no, no me está saliendo ahora.
+
+245
+00:29:58.070 --> 00:30:04.790
+Esp. Lic. Rubén Darío Aybar: Entonces, utilizar la no, no me va a salir el nombre.
+
+246
+00:30:06.420 --> 00:30:07.680
+Esp. Lic. Rubén Darío Aybar: Vale.
+
+247
+00:30:09.090 --> 00:30:11.890
+Esp. Lic. Rubén Darío Aybar: Bueno,
+
+248
+00:30:13.260 --> 00:30:23.109
+Esp. Lic. Rubén Darío Aybar: No. M: No me sale el nombre. Acá. Fíjense que puse lo que lo que quiero decir acá lo podemos leer acá. Lo estoy enmascarando el pelo.
+
+249
+00:30:24.620 --> 00:30:25.920
+Esp. Lic. Rubén Darío Aybar: se entiende.
+
+250
+00:30:26.220 --> 00:30:36.969
+Esp. Lic. Rubén Darío Aybar: Esto significa lo mismo que esto, pero lo que estoy tratando de hacer es ver si me lo interpreta o no. El.
+
+251
+00:30:38.590 --> 00:30:40.440
+Dario Rizzo: Ofuscando Rubén.
+
+252
+00:30:42.590 --> 00:30:43.790
+Esp. Lic. Rubén Darío Aybar: Claro, estoy.
+
+253
+00:30:44.360 --> 00:30:47.980
+JUAN SANABRIA: O sea, dice, presiones regulares, No.
+
+254
+00:30:47.980 --> 00:30:49.510
+Esp. Lic. Rubén Darío Aybar: No.
+
+255
+00:30:51.590 --> 00:30:52.630
+Esp. Lic. Rubén Darío Aybar: Mhm.
+
+256
+00:30:53.790 --> 00:30:54.960
+Dario Rizzo: Audio del formato.
+
+257
+00:30:55.630 --> 00:30:59.109
+Esp. Lic. Rubén Darío Aybar: No es el tipo de de formato. Es
+
+258
+00:30:59.860 --> 00:31:03.619
+Esp. Lic. Rubén Darío Aybar: a ver si lo buscamos porque no me va a salir el nombre.
+
+259
+00:31:05.880 --> 00:31:14.970
+Esp. Lic. Rubén Darío Aybar: A dónde me quedo el Browser a ver soconus esto? ¿cómo se llama esto?
+
+260
+00:31:17.240 --> 00:31:34.490
+Esp. Lic. Rubén Darío Aybar: Codificación? El código representa el carácter punto en la codificación de Urls porcentaje de codificación equivale al punto, entonces estoy reemplazando el punto. Por esto.
+
+261
+00:31:34.830 --> 00:31:36.360
+Esp. Lic. Rubén Darío Aybar: a ver si me lo toma
+
+262
+00:31:36.560 --> 00:31:41.309
+Esp. Lic. Rubén Darío Aybar: es para tratar de bypasar esto para que nos puede servir. También
+
+263
+00:31:41.510 --> 00:31:44.470
+Esp. Lic. Rubén Darío Aybar: vamos a suponer que quiero ahí pasear un Waff.
+
+264
+00:31:45.890 --> 00:31:52.649
+Esp. Lic. Rubén Darío Aybar: Bueno, voy a intentar, en vez de enviar la U. R. L de esta forma.
+
+265
+00:31:52.800 --> 00:31:59.219
+Esp. Lic. Rubén Darío Aybar: como como dijo darío recién no intento
+
+266
+00:31:59.360 --> 00:32:04.860
+Esp. Lic. Rubén Darío Aybar: o buscarlo, No estoy utilizando criptografía ni nada bueno.
+
+267
+00:32:04.990 --> 00:32:09.780
+Esp. Lic. Rubén Darío Aybar: En este caso nos damos cuenta de que cambia el valor.
+
+268
+00:32:10.640 --> 00:32:13.079
+Esp. Lic. Rubén Darío Aybar: Es diferente back Request.
+
+269
+00:32:13.550 --> 00:32:20.210
+Esp. Lic. Rubén Darío Aybar: 400 a ahora llegué, o sea, esto me lo está tomando.
+
+270
+00:32:21.130 --> 00:32:27.739
+Esp. Lic. Rubén Darío Aybar: pero me da un for Biden. No tengo permisos. ¿para qué?
+
+271
+00:32:27.930 --> 00:32:32.649
+Esp. Lic. Rubén Darío Aybar: Para leer el archivo, etcpas. W
+
+272
+00:32:34.300 --> 00:32:48.110
+Esp. Lic. Rubén Darío Aybar: Eso es lo que me está diciendo: usted no tiene permisos para acceder a donde al recurso acá yo roaser sen Request.
+
+273
+00:32:48.520 --> 00:32:55.380
+Esp. Lic. Rubén Darío Aybar: No. Perdón. Acá. Bart Request, acá. Esto estaba buscando 400 bar Request, una
+
+274
+00:32:55.760 --> 00:33:07.100
+Esp. Lic. Rubén Darío Aybar: respuesta errónea? Acá. No me está diciendo, la respuesta es errónea. Me está diciendo, llegaste al recurso.
+
+275
+00:33:08.250 --> 00:33:12.400
+Esp. Lic. Rubén Darío Aybar: Pero no tienes acceso al recurso.
+
+276
+00:33:13.100 --> 00:33:15.049
+Esp. Lic. Rubén Darío Aybar: Se entiende la diferencia.
+
+277
+00:33:16.790 --> 00:33:22.199
+JUAN SANABRIA: Sí profe, Pero una pregunta, por ejemplo, en ese caso.
+
+278
+00:33:22.570 --> 00:33:28.289
+JUAN SANABRIA: que ¿qué estaría una vez que llega al directorio? ¿qué estaría haciendo el el el
+
+279
+00:33:28.500 --> 00:33:40.950
+JUAN SANABRIA: el exploide el Pelot, porque, por ejemplo, el Pass W, además tiene encriptada, por ejemplo, las contraseñas. Ni siquiera Root puede leerlas, por ejemplo. O sea, están perdóncriptadas, cifradas.
+
+280
+00:33:41.750 --> 00:33:42.510
+JUAN SANABRIA: Sí.
+
+281
+00:33:42.510 --> 00:33:43.380
+Esp. Lic. Rubén Darío Aybar: Pradas.
+
+282
+00:33:43.640 --> 00:33:44.130
+JUAN SANABRIA: Sí.
+
+283
+00:33:44.130 --> 00:33:52.270
+Esp. Lic. Rubén Darío Aybar: Están en realidad no cifradas. Tampoco están hackeadas.
+
+284
+00:33:52.510 --> 00:33:53.940
+JUAN SANABRIA: Claro, porque no me salía.
+
+285
+00:33:53.940 --> 00:34:02.150
+Esp. Lic. Rubén Darío Aybar: Que que un hash, y tiene la propiedad de que no importa.
+
+286
+00:34:02.440 --> 00:34:13.730
+Esp. Lic. Rubén Darío Aybar: La longitud de entrada siempre tiene la misma salida y tiene otra gran propiedad, que es su gran propiedad, de que a partir
+
+287
+00:34:13.840 --> 00:34:22.840
+Esp. Lic. Rubén Darío Aybar: de la entrada yo no puedo de la misma entrada, yo no puedo obtener el mismo resultado. No.
+
+288
+00:34:23.580 --> 00:34:25.819
+JUAN SANABRIA: Claro, no es reversible. Tampoco.
+
+289
+00:34:25.820 --> 00:34:31.920
+Esp. Lic. Rubén Darío Aybar: Eso. Eso me pare. No sé si lo apliqué bien. No es reversible.
+
+290
+00:34:32.120 --> 00:34:37.900
+Esp. Lic. Rubén Darío Aybar: Yo si pongo hola después. No tengo bola, no
+
+291
+00:34:38.010 --> 00:34:44.709
+Esp. Lic. Rubén Darío Aybar: que así trabaja el proceso de autenticación en los servidores linux.
+
+292
+00:34:47.199 --> 00:34:49.490
+Esp. Lic. Rubén Darío Aybar: Lo que hace es Match
+
+293
+00:34:49.530 --> 00:35:08.510
+Esp. Lic. Rubén Darío Aybar: de los hashes, no sin manche al hash. Entonces cada vez que nosotros nos lo guiamos a un a un sistema operativo, Linux lo que termina haciendo es haciendo el cálculo del hash. Y una vez que obtiene el hash compara el hash
+
+294
+00:35:08.930 --> 00:35:15.460
+Esp. Lic. Rubén Darío Aybar: que está en el E. T sellado con
+
+295
+00:35:15.680 --> 00:35:28.520
+Esp. Lic. Rubén Darío Aybar: el hard con el hash obtenido con el password que pusimos nosotros. Entonces lo hace en vivo eso. Y ahí, respondiendo a tu consulta, el E. T, C, D,
+
+296
+00:35:28.820 --> 00:35:34.040
+Esp. Lic. Rubén Darío Aybar: Esto ya hace años. años que se cambió el Linux.
+
+297
+00:35:34.380 --> 00:35:38.319
+Esp. Lic. Rubén Darío Aybar: No sé si lo sabían, pero ahí vos decías
+
+298
+00:35:38.480 --> 00:35:42.250
+Esp. Lic. Rubén Darío Aybar: el E. T. C, Pass: W. D, tiene
+
+299
+00:35:42.530 --> 00:35:52.989
+Esp. Lic. Rubén Darío Aybar: los hayes. No es correcto. Cuando yo hago el proceso de autenticación en el sistema, el archivo, vamos a leerlo. Acá.
+
+300
+00:35:59.540 --> 00:36:07.279
+Esp. Lic. Rubén Darío Aybar: Vi barra E. T. C, Pass: W. D,
+
+301
+00:36:08.630 --> 00:36:16.000
+Esp. Lic. Rubén Darío Aybar: Fíjense de que es totalmente elegible. Y lo que tiene son usuario.
+
+302
+00:36:16.470 --> 00:36:27.369
+Esp. Lic. Rubén Darío Aybar: Si tiene password, ese usuario y después información como nombre. ¿cuál es su hon del usuario Rood?
+
+303
+00:36:27.550 --> 00:36:31.930
+Esp. Lic. Rubén Darío Aybar: Lo que tiene Acá es el Home S root.
+
+304
+00:36:32.350 --> 00:36:38.680
+Esp. Lic. Rubén Darío Aybar: Si yo busco el usuario raibar. Fíjense que mi home es Home raibar.
+
+305
+00:36:38.810 --> 00:36:44.770
+Esp. Lic. Rubén Darío Aybar: Y por último, tiene que utilizo una Bimbage como Shell.
+
+306
+00:36:45.820 --> 00:36:51.000
+Esp. Lic. Rubén Darío Aybar: Entonces el tipo de Shell que estoy utilizando en Entonces
+
+307
+00:36:51.480 --> 00:36:59.670
+Esp. Lic. Rubén Darío Aybar: ahí yo les mostraba acá Ruth tiene Password, mi usuario Raibar tiene Password X.
+
+308
+00:36:59.960 --> 00:37:09.679
+Esp. Lic. Rubén Darío Aybar: Significa esto? Recuerden que hasta los 2 puntos, y luego es la división, entonces usuario, 2 puntos.
+
+309
+00:37:09.780 --> 00:37:15.649
+Esp. Lic. Rubén Darío Aybar: Si tiene password, 2 puntos: o id, 2 puntos.
+
+310
+00:37:15.760 --> 00:37:30.240
+Esp. Lic. Rubén Darío Aybar: group. I d 2 puntos: un nombre que es elegible, 2 puntos: ¿Cuál es el Home, 2 puntos, y cuál es la Schell. Esta es la forma de leer este archivo.
+
+311
+00:37:31.080 --> 00:37:37.760
+Esp. Lic. Rubén Darío Aybar: Ahora, ¿qué pasa Ahí había una equis. Hay otro archivo que utiliza Linux.
+
+312
+00:37:38.030 --> 00:37:42.560
+Esp. Lic. Rubén Darío Aybar: que si tiene una equis significa que ese usuario tiene un password.
+
+313
+00:37:42.750 --> 00:37:53.879
+Esp. Lic. Rubén Darío Aybar: y ese password no está en etc. Paz, W. D, sino que está en otro archivo llamado etc. Shadow.
+
+314
+00:37:55.300 --> 00:38:03.579
+Esp. Lic. Rubén Darío Aybar: No tengo permisos. No sé si tengo sudo, vi E. T. C.
+
+315
+00:38:05.500 --> 00:38:06.470
+Esp. Lic. Rubén Darío Aybar: Shadow.
+
+316
+00:38:11.870 --> 00:38:20.540
+Esp. Lic. Rubén Darío Aybar: acá. Sí, tengo el usuario Raibar, 2 puntos: El Hash.
+
+317
+00:38:21.240 --> 00:38:26.109
+Esp. Lic. Rubén Darío Aybar: 2 puntos, y tiene más información.
+
+318
+00:38:26.330 --> 00:38:39.789
+Esp. Lic. Rubén Darío Aybar: acá continúa. Fíjense qué es tiempo de caducidad del password. ¿cuánto tiempo tengo para el próximo cambio del password.
+
+319
+00:38:40.690 --> 00:38:50.399
+Esp. Lic. Rubén Darío Aybar: mucha información Acá también. Este Este hash tiene por un lado
+
+320
+00:38:50.770 --> 00:38:54.200
+Esp. Lic. Rubén Darío Aybar: un salt, Todos saben lo que es saltear.
+
+321
+00:38:58.000 --> 00:38:59.399
+JUAN SANABRIA: No, no ¿A que.
+
+322
+00:39:01.010 --> 00:39:06.820
+Esp. Lic. Rubén Darío Aybar: Bueno, un salt es yo genero un hash, y
+
+323
+00:39:07.510 --> 00:39:18.270
+Esp. Lic. Rubén Darío Aybar: a ese hash, lo que le agrego es un salto, una Salt, Vamos, acá Siempre me gusta
+
+324
+00:39:18.350 --> 00:39:36.700
+Esp. Lic. Rubén Darío Aybar: mostrar esta imagen porque creo que se ve bien. Esto está bueno, porque si no hablamos de tratar de leer un archivo, pero no, no. Si no entendemos qué son los archivos, cómo se maneja un un sistema operativo? Linux? Tampoco tiene mucha lógica. No
+
+325
+00:39:36.700 --> 00:39:43.769
+Esp. Lic. Rubén Darío Aybar: sal haching. Y si yo busco imágenes. Fíjense que es un proceso
+
+326
+00:39:43.890 --> 00:39:51.199
+Esp. Lic. Rubén Darío Aybar: en el cual me gusta siempre utilizar esta imagen. No sé si la están viendo bien. Si no me me dicen
+
+327
+00:39:51.600 --> 00:39:53.789
+Esp. Lic. Rubén Darío Aybar: esta imagen, la están viendo bien.
+
+328
+00:39:53.990 --> 00:39:54.760
+JUAN SANABRIA: Sí, Sí.
+
+329
+00:39:54.760 --> 00:39:55.440
+Dario Rizzo: Bueno.
+
+330
+00:39:55.770 --> 00:39:56.800
+Esp. Lic. Rubén Darío Aybar: Entonces.
+
+331
+00:39:56.800 --> 00:39:57.160
+MATEO POGGIO CATALANO: De vez.
+
+332
+00:39:57.160 --> 00:40:03.929
+Esp. Lic. Rubén Darío Aybar: ¿qué hace Linux? Yo pongo un password seteo, Mi password le agrega
+
+333
+00:40:04.430 --> 00:40:16.940
+Esp. Lic. Rubén Darío Aybar: un una serie de caracteres. Acá Fíjense letras, números más letras, más números, más letras aleatorio.
+
+334
+00:40:17.280 --> 00:40:28.630
+Esp. Lic. Rubén Darío Aybar: Tiene un algoritmo que genera un salto aleatorio. Cada vez que yo, genero un password, ese Salt se une
+
+335
+00:40:28.900 --> 00:40:30.929
+Esp. Lic. Rubén Darío Aybar: a lo que es el password
+
+336
+00:40:32.230 --> 00:40:44.540
+Esp. Lic. Rubén Darío Aybar: se genera el hash y lo que se obtiene es el hash de el password, más. El Salt
+
+337
+00:40:45.920 --> 00:40:57.319
+Esp. Lic. Rubén Darío Aybar: se entiende entonces cuando yo me logueo al sistema. Hace este mismo proceso con el password que utilice.
+
+338
+00:40:57.590 --> 00:41:01.660
+Esp. Lic. Rubén Darío Aybar: Si yo utilizo el Password. ¿correcto?
+
+339
+00:41:02.150 --> 00:41:08.899
+Esp. Lic. Rubén Darío Aybar: Más el sal que genera genera el hash, ese hash
+
+340
+00:41:09.440 --> 00:41:15.690
+Esp. Lic. Rubén Darío Aybar: lo toma como resultado. Compara con qué cosa con esto
+
+341
+00:41:15.890 --> 00:41:19.790
+Esp. Lic. Rubén Darío Aybar: que tenemos acá con esto, que yo tengo todo en rojo.
+
+342
+00:41:19.950 --> 00:41:26.630
+Esp. Lic. Rubén Darío Aybar: Si hace un Match, un match absoluto. Yo ingreso al sistema operativo Linux.
+
+343
+00:41:27.300 --> 00:41:41.069
+Esp. Lic. Rubén Darío Aybar: ¿por qué? Porque lo que hace Match no es el Wellcome, Uno, en realidad no es Welcome Uno es que cuando hizo este proceso de unir Well con 1 más
+
+344
+00:41:41.290 --> 00:41:50.830
+Esp. Lic. Rubén Darío Aybar: el salt generar el hash, el hash iso match con el que tengo, acá
+
+345
+00:41:51.260 --> 00:41:59.599
+Esp. Lic. Rubén Darío Aybar: se entiende. Ese es el proceso que hace cada vez que nosotros nos logueamos a un sistema operativo. Linux
+
+346
+00:42:01.200 --> 00:42:04.980
+Esp. Lic. Rubén Darío Aybar: lo conocían que así trabajo en Linux.
+
+347
+00:42:05.470 --> 00:42:06.690
+JUAN SANABRIA: No la primera vez que.
+
+348
+00:42:06.800 --> 00:42:07.779
+MATEO POGGIO CATALANO: Ahora. Gracias.
+
+349
+00:42:09.270 --> 00:42:09.800
+Esp. Lic. Rubén Darío Aybar: Bien y.
+
+350
+00:42:09.800 --> 00:42:10.730
+JUAN SANABRIA: De las.
+
+351
+00:42:11.000 --> 00:42:16.120
+Esp. Lic. Rubén Darío Aybar: Bueno, esto está bueno, porque si estamos hablando o el o acá
+
+352
+00:42:16.290 --> 00:42:27.279
+Esp. Lic. Rubén Darío Aybar: de qué estoy queriendo leer, acá nos damos cuenta que lo que quiero obtener es el etc. Pas: W. D, que me qué datos me va a dar
+
+353
+00:42:27.520 --> 00:42:29.359
+Esp. Lic. Rubén Darío Aybar: nombres de usuario.
+
+354
+00:42:29.980 --> 00:42:33.010
+Esp. Lic. Rubén Darío Aybar: Todos todos los nombres de usuarios
+
+355
+00:42:33.290 --> 00:42:41.310
+Esp. Lic. Rubén Darío Aybar: que yo tengo en mi sistema operativo Linux. ¿qué más me va a dar? Me va a dar y usera Id.
+
+356
+00:42:41.820 --> 00:42:58.349
+Esp. Lic. Rubén Darío Aybar: Entonces que usera Id en el sistema operativo. Se corresponde con el usuario. Es un número único e y inequívoco que se vincula a un nombre que
+
+357
+00:42:58.810 --> 00:43:04.389
+Esp. Lic. Rubén Darío Aybar: de un nombre, un número y el Grupo Id.
+
+358
+00:43:04.510 --> 00:43:08.019
+Esp. Lic. Rubén Darío Aybar: el número de grupo de ese usuario en particular.
+
+359
+00:43:08.270 --> 00:43:15.069
+Esp. Lic. Rubén Darío Aybar: y después puedo obtener cuál es su hon ¿Puedo obtener ¿Cuál es?
+
+360
+00:43:15.500 --> 00:43:18.710
+Esp. Lic. Rubén Darío Aybar: Luego Shell
+
+361
+00:43:19.110 --> 00:43:33.229
+Esp. Lic. Rubén Darío Aybar: puede ser bimbache, como vimos ahí puede ser una Z, C. H puede ser una bin Sh: Yo tengo diferentes después tipos de Shell
+
+362
+00:43:33.420 --> 00:43:40.230
+Esp. Lic. Rubén Darío Aybar: Cincel, a ver si había alguno. Eso también es súper interesante porque yo puedo tener
+
+363
+00:43:40.600 --> 00:43:48.930
+Esp. Lic. Rubén Darío Aybar: al obtener este archivo, la próxima clase. Vamos a seguir igual. Pero está bueno ir desarrollando el laboratorio.
+
+364
+00:43:49.120 --> 00:43:55.489
+Esp. Lic. Rubén Darío Aybar: Si vuelvo acá lo login y user ese B, I n. Lo login.
+
+365
+00:43:56.970 --> 00:44:09.300
+Esp. Lic. Rubén Darío Aybar: Entonces este usuario, que es un usuario de sistema Ozyslock, está bien que su Yel
+
+366
+00:44:09.550 --> 00:44:20.430
+Esp. Lic. Rubén Darío Aybar: sea No Login. ¿qué quiere decir eso de que nadie se va a poder loguear al sistema con ese usuario del sistema.
+
+367
+00:44:22.150 --> 00:44:31.910
+Esp. Lic. Rubén Darío Aybar: Pero si yo me puedo loguear con una vimbage con un usuario que no es de sistema mi usuario Raibar o el usuario Root
+
+368
+00:44:32.690 --> 00:44:34.010
+Esp. Lic. Rubén Darío Aybar: se entiende.
+
+369
+00:44:34.470 --> 00:44:35.950
+Esp. Lic. Rubén Darío Aybar: Conocían esto.
+
+370
+00:44:38.290 --> 00:44:43.850
+Esp. Lic. Rubén Darío Aybar: Terminamos dando una clase de de Linux básica sin quererlo.
+
+371
+00:44:45.840 --> 00:44:51.709
+Dario Rizzo: Sí sí tienen. Tienen una materia en primer año, no en primero de segundo, no de Linux. Y sí que esto no lo vieron.
+
+372
+00:44:52.150 --> 00:44:53.050
+Dario Rizzo: No.
+
+373
+00:44:53.050 --> 00:44:53.520
+JUAN SANABRIA: Bueno.
+
+374
+00:44:53.520 --> 00:44:55.610
+Dario Rizzo: Ya ven comandos muy básicos. Dice.
+
+375
+00:44:55.810 --> 00:44:58.780
+Esp. Lic. Rubén Darío Aybar: Me parece rarísimo, porque esto.
+
+376
+00:44:59.160 --> 00:45:09.689
+JUAN SANABRIA: El archivo, el archivo shado para doble S. Pero términos como el protocolo como saldi y todo eso no no profundizamos tanto. Es más Linux en general.
+
+377
+00:45:09.920 --> 00:45:11.970
+Esp. Lic. Rubén Darío Aybar: Mira qué loco?
+
+378
+00:45:12.350 --> 00:45:14.220
+Esp. Lic. Rubén Darío Aybar: Sí, sí es
+
+379
+00:45:14.390 --> 00:45:28.760
+Esp. Lic. Rubén Darío Aybar: es súper interesante. Y todo el proceso, porque nosotros escribimos el posword y capaz, pensamos. Ah, está haciendo Match, esto que yo estoy escribiendo acá contra tiene que decir lo mismo. Y por detrás no pasa todo eso.
+
+380
+00:45:28.840 --> 00:45:44.060
+Esp. Lic. Rubén Darío Aybar: pasa a un proceso que involucra hayes. ¿no? Y después voy a tener blow. Fish: Voy a tener, no sé. M: de 5, ya 1 ya 256, ya 1 000. 24
+
+381
+00:45:44.210 --> 00:45:51.519
+Esp. Lic. Rubén Darío Aybar: Yo le puedo setear a mi sistema operativo. También hay archivos que yo puedo entrar y le puedo cambiar
+
+382
+00:45:52.520 --> 00:45:55.699
+Esp. Lic. Rubén Darío Aybar: que no use Shadow, 56,
+
+383
+00:45:56.170 --> 00:46:02.670
+Esp. Lic. Rubén Darío Aybar: sino que use ya 1 024, porque quiero que ese hash sea mucho más robusto.
+
+384
+00:46:03.480 --> 00:46:04.480
+Esp. Lic. Rubén Darío Aybar: Bien.
+
+385
+00:46:04.640 --> 00:46:15.709
+Esp. Lic. Rubén Darío Aybar: bueno, nos estamos quedando sin tiempo igual, pero vamos a seguir la próxima clase. Esto nos da el puntapié, darío igual si te parece después
+
+386
+00:46:16.300 --> 00:46:22.669
+Esp. Lic. Rubén Darío Aybar: para poder continuar porque busco este archivo porque voy a buscar obtener
+
+387
+00:46:22.780 --> 00:46:26.930
+Esp. Lic. Rubén Darío Aybar: ese tipo de información de donde partimos.
+
+388
+00:46:27.210 --> 00:46:35.120
+Esp. Lic. Rubén Darío Aybar: de simplemente haber encontrado que el servidor web y lo pudimos ver que yo puedo buscar
+
+389
+00:46:35.810 --> 00:46:51.989
+Esp. Lic. Rubén Darío Aybar: primero. Ni siquiera abriendo un cali directamente. Estoy navegando la página. Fuimos a las herramientas de el desarrollador y ya vimos que nos da esta información, pero después vengo al cali y me puedo
+
+390
+00:46:52.260 --> 00:46:54.740
+Esp. Lic. Rubén Darío Aybar: fijar si puedo hacer más cosas.
+
+391
+00:46:55.530 --> 00:46:57.210
+Esp. Lic. Rubén Darío Aybar: Yo voy a poder.
+
+392
+00:46:57.440 --> 00:47:09.460
+Esp. Lic. Rubén Darío Aybar: Así, ejecutamos, aunque sea una herramienta, hoy, no algo, pero después Me Me gustaría que lo sigamos. Esta parte de vulnerabilidades es súper interesante. Yo acá. A ver. Me había anotado.
+
+393
+00:47:10.610 --> 00:47:12.320
+Esp. Lic. Rubén Darío Aybar: Bueno.
+
+394
+00:47:14.460 --> 00:47:27.890
+Esp. Lic. Rubén Darío Aybar: vamos a estar ejecutando herramientas ahí darío. Yo estuve escuchando su clase. Les hablo de herramientas como meta Exployd, si es una herramienta
+
+395
+00:47:27.890 --> 00:47:35.499
+Esp. Lic. Rubén Darío Aybar: que se utiliza Pero hoy hay herramientas como nuplay también. No, que se están
+
+396
+00:47:35.720 --> 00:47:44.609
+Esp. Lic. Rubén Darío Aybar: utilizando mucho. Mucha gente está haciendo. Es en base a script.
+
+397
+00:47:44.850 --> 00:47:59.600
+Esp. Lic. Rubén Darío Aybar: se hacen script en punto llamen, y 1 puede colaborar. No puede armar su propio script. Puede colaborar con la base de script de nucley acá Como vemos
+
+398
+00:47:59.770 --> 00:48:05.560
+Esp. Lic. Rubén Darío Aybar: nuclear, menos 1 de U. R. L, La Ul.
+
+399
+00:48:05.560 --> 00:48:10.879
+Dario Rizzo: Rubén. Mi grupo, rubén. Disculpa. No viene ya bien instalada en Cali hay que instalarla aparte.
+
+400
+00:48:11.310 --> 00:48:16.240
+Esp. Lic. Rubén Darío Aybar: No viene si la quieren utilizar, viene
+
+401
+00:48:20.390 --> 00:48:27.520
+Esp. Lic. Rubén Darío Aybar: si la quieren utilizar. Bueno, acá, tienen un comando básico para
+
+402
+00:48:27.650 --> 00:48:32.980
+Esp. Lic. Rubén Darío Aybar: poder verificar en este caso, si
+
+403
+00:48:33.170 --> 00:48:42.049
+Esp. Lic. Rubén Darío Aybar: estamos viendo a través de un aire puntual, que fue lo que detectamos en este caso, el Cb: Dos 1 021.
+
+404
+00:48:42.480 --> 00:48:49.079
+Esp. Lic. Rubén Darío Aybar: 41, 7, 7, 3 y menos b de ver box, No siempre.
+
+405
+00:48:50.680 --> 00:48:52.980
+Esp. Lic. Rubén Darío Aybar: Bien, Si yo ejecuto esto.
+
+406
+00:48:53.850 --> 00:48:59.169
+Esp. Lic. Rubén Darío Aybar: si nos devuelve algo, le voy a tener que cambiar ahí. Fíjense que ya otra vez
+
+407
+00:48:59.420 --> 00:49:10.450
+Esp. Lic. Rubén Darío Aybar: estoy armando la la documentación de a poco inicia, y acá fíjense que intentó
+
+408
+00:49:11.730 --> 00:49:14.140
+Esp. Lic. Rubén Darío Aybar: hacer lo que veníamos haciendo nosotros.
+
+409
+00:49:14.640 --> 00:49:26.140
+Esp. Lic. Rubén Darío Aybar: ¿por qué? Porque le indicamos directamente el C V. Entonces ya podemos empezar a ver qué hace.
+
+410
+00:49:26.680 --> 00:49:31.060
+Esp. Lic. Rubén Darío Aybar: Nos dice Http Connection. Tres que son estas.
+
+411
+00:49:31.570 --> 00:49:39.190
+Esp. Lic. Rubén Darío Aybar: una nueva 2 reusadas encontró una nueva ahora. Y
+
+412
+00:49:39.440 --> 00:49:52.690
+Esp. Lic. Rubén Darío Aybar: fíjense que es diferente. Taylock con tratando de hacer una Bin Sh tratando de obtener en estas 2 el E, T. C, Pass: W. D.
+
+413
+00:49:55.890 --> 00:50:01.920
+Esp. Lic. Rubén Darío Aybar: Bueno, estamos estamos sobre la hora en Okay.
+
+414
+00:50:02.480 --> 00:50:11.010
+Esp. Lic. Rubén Darío Aybar: vamos vamos a dejarlo. Acá son las 10. Pero si te parece darío esto, lo vamos a continuar porque la idea
+
+415
+00:50:11.710 --> 00:50:18.469
+Esp. Lic. Rubén Darío Aybar: es que podamos ver si hay una mala. Yo les mostré la buena configuración.
+
+416
+00:50:18.960 --> 00:50:24.780
+Esp. Lic. Rubén Darío Aybar: Acá Yo les mostré para cerrar esto. Yo les mostré de que
+
+417
+00:50:24.920 --> 00:50:39.819
+Esp. Lic. Rubén Darío Aybar: tengo el archivo. Y lo primero que hice fue mostrar de que yo esto lo tengo comentado ahora. Si un administrador empieza a agregar dentro de las directivas
+
+418
+00:50:40.090 --> 00:50:55.529
+Esp. Lic. Rubén Darío Aybar: aló Overlock no recurerd Old Granter. Entonces estoy dando permisos option index y multiview, le empiezo a agregar
+
+419
+00:50:56.160 --> 00:51:03.200
+Esp. Lic. Rubén Darío Aybar: porque estoy configurando ese servidor web y hice malas configuraciones.
+
+420
+00:51:03.870 --> 00:51:08.090
+Esp. Lic. Rubén Darío Aybar: La idea es ver si podemos llegar a obtener
+
+421
+00:51:08.470 --> 00:51:14.840
+Esp. Lic. Rubén Darío Aybar: ese archivo E. T, C, paz. W: Si lo podemos llegar a ver
+
+422
+00:51:15.410 --> 00:51:20.599
+Esp. Lic. Rubén Darío Aybar: a través de nuestras, el de nuestra consola del Cali Linux.
+
+423
+00:51:22.250 --> 00:51:30.839
+Esp. Lic. Rubén Darío Aybar: Entonces identificamos una vulnerabilidad a partir de que identificamos esa vulnerabilidad. Ahora
+
+424
+00:51:30.950 --> 00:51:35.319
+Esp. Lic. Rubén Darío Aybar: llegamos a un punto de que pudimos ver
+
+425
+00:51:36.790 --> 00:51:51.420
+Esp. Lic. Rubén Darío Aybar: que no nos da un 400 bate récords. Después hicimos algo nuevo. Tratamos de ofuscar y ya vimos Che. Pero si es vulnerable.
+
+426
+00:51:51.630 --> 00:51:56.859
+Esp. Lic. Rubén Darío Aybar: pero me da un fort Biden, ¿por qué el Fort Biden, porque tengo
+
+427
+00:51:57.230 --> 00:52:11.300
+Esp. Lic. Rubén Darío Aybar: comentadas las directivas. Ahora, ¿qué pasa si puse mal las directivas? Bueno, lo dejamos para la próxima clase que me pase un minuto. Pero cambia este 403. Puedo llegar a obtener
+
+428
+00:52:11.470 --> 00:52:19.589
+Esp. Lic. Rubén Darío Aybar: ese archivo y bueno, y seguiremos viendo Yo acá. Les había preparado. Después, nos fuimos para otro lado, pero
+
+429
+00:52:19.750 --> 00:52:29.399
+Esp. Lic. Rubén Darío Aybar: les tenía preparado después la base de datos de C B de Mitre, la de National, la N. B, D. De National
+
+430
+00:52:29.400 --> 00:52:44.010
+Esp. Lic. Rubén Darío Aybar: vulnerabilities. Entonces tenemos mucho. Hay para ahondar mucho en este tema. La verdad, que es muy rico y a través del laboratorio, me parece que que se ve cómo se podría hacer una simple
+
+431
+00:52:44.010 --> 00:52:59.459
+Esp. Lic. Rubén Darío Aybar: explotación por una algo que dijo darío en un momento, yo lo lo escuchaba. Y él decía: malas configuraciones, no porque el administrador sea malo, lo capaz que tiene 1 000 tareas y se le fue, copió, pegó
+
+432
+00:52:59.480 --> 00:53:01.850
+Esp. Lic. Rubén Darío Aybar: una configuración y se le fue.
+
+433
+00:53:01.910 --> 00:53:05.119
+Esp. Lic. Rubén Darío Aybar: Después nos entraron hasta la cocina. ¿no?
+
+434
+00:53:05.430 --> 00:53:07.579
+Esp. Lic. Rubén Darío Aybar: Así sucede muchas veces.
+
+435
+00:53:09.000 --> 00:53:10.790
+Esp. Lic. Rubén Darío Aybar: Así que, bueno.
+
+436
+00:53:10.790 --> 00:53:11.180
+Dario Rizzo: Bueno.
+
+437
+00:53:11.180 --> 00:53:13.110
+Esp. Lic. Rubén Darío Aybar: Continuamos la clase que viene chef.
+
+438
+00:53:13.240 --> 00:53:17.530
+Dario Rizzo: Vale impecable impecable. Muchas gracias por todo y buenas noches a todos.
+
+439
+00:53:18.610 --> 00:53:19.520
+MATEO POGGIO CATALANO: Buenas noches.
+
+440
+00:53:19.730 --> 00:53:21.500
+JUAN SANABRIA: Luego buen fine suerte.
+
+441
+00:53:21.500 --> 00:53:23.270
+Esp. Lic. Rubén Darío Aybar: Buen finde hasta luego.
+
+442
+00:53:24.570 --> 00:53:25.500
+MATEO POGGIO CATALANO: Buenas noches.
+
+

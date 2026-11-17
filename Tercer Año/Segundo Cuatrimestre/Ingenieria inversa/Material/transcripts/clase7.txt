@@ -1,0 +1,6017 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.970
+Ariel Luis Cessario: Y no, Entonces gente sí.
+
+2
+00:00:06.270 --> 00:00:13.519
+ARIEL ALEJANDRO QUINTERO: Aprovecho ahí a comentarle que, efectivamente es Mauricio me acaba de transcriptor del del
+
+3
+00:00:14.070 --> 00:00:17.810
+ARIEL ALEJANDRO QUINTERO: la clase pasada y fue que no estaba en ningún grupo, Sí.
+
+4
+00:00:18.570 --> 00:00:36.820
+Ariel Luis Cessario: Perfecto. Gracias. Sally. Entonces, listo, Ya está resuelto. Eso se va. Felipe entra Mauricio y quedan 5 en el primer equipo. Así que se salvaron mateo, te salvaste. No te vas a tener que desencariñar con la gente, vas a poder seguir en ese y tenemos. Entonces
+
+5
+00:00:37.520 --> 00:00:50.580
+Ariel Luis Cessario: te voy a dejar grabado. Así ya sabemos que queda al principio de la clase, grupo, 1 con Martín Paulina, Sofia, Lucas Francisco y Mateo, el grupo 2 con Agustín Nico Bombicino. El otro nico, también
+
+6
+00:00:50.680 --> 00:01:01.540
+Ariel Luis Cessario: Ariel franco Zabala. Después, grupo 3, Mariano Juan Manuel Sebastián Damián Demian y fede dóbalo dóbalo.
+
+7
+00:01:01.780 --> 00:01:11.500
+Ariel Luis Cessario: Después el equipo, 4, Mauricio, candela franco, facundo y exequiel Estamos dudas consultas. Con eso
+
+8
+00:01:14.780 --> 00:01:15.890
+Ariel Luis Cessario: estamos.
+
+9
+00:01:15.890 --> 00:01:17.030
+MATEO VALENZUELA: Todo clarísimo.
+
+10
+00:01:17.520 --> 00:01:24.509
+Ariel Luis Cessario: Estamos listos para el equipo. Bueno, yo les recomendaría de nuevo que vayan chupeando que vayan chupeando algún malware.
+
+11
+00:01:25.440 --> 00:01:31.870
+Ariel Luis Cessario: o sea como para tener ahí, porque la idea sería por ahí.
+
+12
+00:01:32.350 --> 00:01:38.850
+Ariel Luis Cessario: Mhm: Después de esta clase que ya vamos a ver dinámico, avanzado
+
+13
+00:01:40.090 --> 00:01:42.399
+Ariel Luis Cessario: si ustedes se quieren tirar a hacer.
+
+14
+00:01:42.830 --> 00:01:47.509
+Ariel Luis Cessario: Ya pueden empezar a jugar un poco con con algún malware.
+
+15
+00:01:49.380 --> 00:01:53.620
+FACUNDO DURIGON: Cuál es la consigna puntual, o sea, la vas a cargar después o cómo.
+
+16
+00:01:54.050 --> 00:01:56.430
+Ariel Luis Cessario: No, no hay consigna puntual, eso.
+
+17
+00:01:56.430 --> 00:01:58.460
+MARTIN DAUS: Me parcial profe.
+
+18
+00:01:58.460 --> 00:02:04.710
+Ariel Luis Cessario: No el parcial va a ir. Esto es reemplazo del oral, digamos, reemplazo de la nota oral que tengo que poner
+
+19
+00:02:05.460 --> 00:02:07.160
+Ariel Luis Cessario: en parcial.
+
+20
+00:02:07.340 --> 00:02:08.950
+Ariel Luis Cessario: Perdone espéreme un segundo.
+
+21
+00:02:11.150 --> 00:02:20.550
+Ariel Luis Cessario: No tenía que sacar algo porque me estaba acabando el valor en el parcial. Es relativamente simple.
+
+22
+00:02:20.910 --> 00:02:24.090
+MARTIN DAUS: No me refiero a responder Las 10 preguntas del parcial.
+
+23
+00:02:24.120 --> 00:02:29.339
+Ariel Luis Cessario: Ah, no, no, eso. No. Esto es una competencia. Esto se tiene que cagar a un tiros ustedes. Yo tengo.
+
+24
+00:02:29.930 --> 00:02:44.249
+Ariel Luis Cessario: Voy a tener una equis cantidad de 10, una X, cantidad de nueves, una X, cantidad de 8 y una X cantidad de 7, el equipo que sale primero se lleva todos los días. El equipo que sale segundo se lleva todos los 9, el equipo que sale tercero se lleva todos los 8, el equipo que sale cuarto.
+
+25
+00:02:44.250 --> 00:02:47.019
+FACUNDO DURIGON: Pero cuáles son las consignas? ¿bajo qué contexto.
+
+26
+00:02:47.380 --> 00:02:51.039
+Ariel Luis Cessario: Bajo qué contexto cada 1, cada equipo agarra un malware
+
+27
+00:02:51.360 --> 00:03:03.439
+Ariel Luis Cessario: lo va a tener que desarmar, buscar indicadores de compromiso puede poner también mecánicas. Decir, bueno, ¿cómo hace esto? Y después se va a enfrentar el equipo 1 con el equipo, 2, por ejemplo.
+
+28
+00:03:04.360 --> 00:03:08.880
+Ariel Luis Cessario: no y cómo se enfrentan los 2 equipos.
+
+29
+00:03:09.030 --> 00:03:17.789
+Ariel Luis Cessario: Sé si cambian el malware y los 2 hacen de nuevo el análisis y agarramos en una semana
+
+30
+00:03:18.010 --> 00:03:24.359
+Ariel Luis Cessario: y se juntan primero el equipo, 1 contra el equipo, 2 y después el equipo, 2 contra el equipo, 3. Y vamos a ver quién gana de esos.
+
+31
+00:03:24.870 --> 00:03:35.849
+Ariel Luis Cessario: que es ganar es agarrar. Y decir, Che mira, yo encontré tantos indicadores de compromiso. Ahora no me llegan indicadores de compromiso, el nombre porque no es un indicador de compromiso
+
+32
+00:03:37.140 --> 00:03:49.640
+Ariel Luis Cessario: tan valedero. Vamos con cosas que son más profundas y pez hashes dominios de todo.
+
+33
+00:03:49.810 --> 00:04:04.170
+Ariel Luis Cessario: Pueden agarrar Sí, cualquier malware ojo, con lo que agarran Sophie y acuérdense de bajarlo desde malware bazar que dentro de lo que ya sabemos que son malware. Por lo menos sabemos que los malware que bajamos son efectivamente esos.
+
+34
+00:04:04.400 --> 00:04:05.380
+Ariel Luis Cessario: Bueno.
+
+35
+00:04:05.910 --> 00:04:14.760
+Ariel Luis Cessario: malware bazar o de su Hay algunas páginas que son las que les había comentado en en su momento como para que pudieran tener en cuenta igual. Ahora, si quieren, vemos alguna más.
+
+36
+00:04:14.760 --> 00:04:15.190
+FEDERICO JOSÉ DÓBALO: De la.
+
+37
+00:04:15.820 --> 00:04:17.390
+Ariel Luis Cessario: He entonces.
+
+38
+00:04:17.390 --> 00:04:18.220
+FEDERICO JOSÉ DÓBALO: bien.
+
+39
+00:04:18.600 --> 00:04:28.189
+Ariel Luis Cessario: Tiramos tiran eso. Ustedes tienen que agarrar y pelearse. Un equipo contra el otro equipo, que básicamente es agarrar el comparar los hallazgos que tienen y el que tiene a
+
+40
+00:04:28.330 --> 00:04:38.520
+Ariel Luis Cessario: más hallazgos cruzados, o sea, el que si vos. Le encontraste más al otro y el otro te encontró menos a vos. Entonces gana el equipo X, pero fue.
+
+41
+00:04:38.520 --> 00:04:39.110
+MATEO VALENZUELA: Sí.
+
+42
+00:04:39.500 --> 00:04:39.940
+Ariel Luis Cessario: Sí.
+
+43
+00:04:39.940 --> 00:04:44.629
+MATEO VALENZUELA: ¿no sería mejor que nos des voz, un malware y nosotros no tener el mismo. Y ahí.
+
+44
+00:04:45.060 --> 00:04:45.560
+FEDERICO JOSÉ DÓBALO: En la.
+
+45
+00:04:45.560 --> 00:04:48.449
+Ariel Luis Cessario: No, no, no, no, no. Esa es la parte divertida.
+
+46
+00:04:49.490 --> 00:04:51.859
+Ariel Luis Cessario: Esa es la parte divertida. Mateo.
+
+47
+00:04:51.860 --> 00:04:52.999
+MATEO VALENZUELA: Y si lo escribe.
+
+48
+00:04:53.940 --> 00:04:54.730
+Ariel Luis Cessario: Qué?
+
+49
+00:04:54.890 --> 00:04:56.430
+MATEO VALENZUELA: Y si lo escribo yo, el malware.
+
+50
+00:04:56.770 --> 00:04:57.450
+Ariel Luis Cessario: Joder.
+
+51
+00:04:58.040 --> 00:04:58.740
+MATEO VALENZUELA: Vale.
+
+52
+00:04:59.190 --> 00:05:00.840
+Ariel Luis Cessario: Vale, Vale.
+
+53
+00:05:01.150 --> 00:05:06.849
+Ariel Luis Cessario: Vale, Eso Les iba a decir, si se animan a escribir un malware, Lo pueden hacer sin problema.
+
+54
+00:05:08.600 --> 00:05:10.080
+Ariel Luis Cessario: Si se animan, se lo.
+
+55
+00:05:10.080 --> 00:05:15.200
+FEDERICO JOSÉ DÓBALO: Los profes. Si 1 lo escribe, lo conoce mucho mejor que el que va a agarrar del malware Bazar.
+
+56
+00:05:15.530 --> 00:05:18.490
+Ariel Luis Cessario: Sí. Si te encuentra todo listo, nada.
+
+57
+00:05:19.020 --> 00:05:21.850
+Ariel Luis Cessario: No perdiste, no ganaste. Básicamente.
+
+58
+00:05:21.850 --> 00:05:22.419
+FEDERICO JOSÉ DÓBALO: Ok, Y.
+
+59
+00:05:22.420 --> 00:05:29.820
+Ariel Luis Cessario: El otro también. Vos y vos le pasas un malware completamente complicado.
+
+60
+00:05:31.340 --> 00:05:37.990
+Ariel Luis Cessario: El otro, muy posiblemente no encuentre tanto, porque Además, escribir un malware no es.
+
+61
+00:05:38.110 --> 00:05:47.849
+Ariel Luis Cessario: no es una cosa imposible, pero no es una cosa fácil. Yo, el año pasado les di la oportunidad a los chicos de que agarraran y dijeran: o escriben ellos el malware o buscan 1.
+
+62
+00:05:48.360 --> 00:05:55.279
+FEDERICO JOSÉ DÓBALO: No lo que yo, lo que yo pienso, no no sé cómo será, pero S se puede buscar 1 ya hecho y ofuscarlo. Y eso.
+
+63
+00:05:56.440 --> 00:06:01.949
+Ariel Luis Cessario: Si vos agarras y lo podés hacer.
+
+64
+00:06:03.650 --> 00:06:06.529
+Ariel Luis Cessario: No es tan fácil cambiar un malware, ya hecho.
+
+65
+00:06:07.380 --> 00:06:10.500
+FEDERICO JOSÉ DÓBALO: No, no ofuscarlo, o sea, en beberlo y ofuscarlo.
+
+66
+00:06:11.430 --> 00:06:22.149
+Ariel Luis Cessario: Mirá si es eso solamente lo que vos hiciste y el otro, porque o sea, vos lo buscas. Pero hay un, o sea que vas a buscar efectivamente diferente.
+
+67
+00:06:22.350 --> 00:06:25.300
+Ariel Luis Cessario: o sea mejores, Sí, pero con.
+
+68
+00:06:25.300 --> 00:06:25.950
+FEDERICO JOSÉ DÓBALO: Y y.
+
+69
+00:06:27.520 --> 00:06:30.870
+Ariel Luis Cessario: Pero que, y después lo vas a volver a meter compilado adentro.
+
+70
+00:06:31.410 --> 00:06:36.620
+Ariel Luis Cessario: porque si no le estás dando un pedazo de código nada más. No le estás dando un malware. El Marwal tiene que ser funcional.
+
+71
+00:06:36.990 --> 00:06:42.369
+FEDERICO JOSÉ DÓBALO: Sí, Sí, sí, eso. Ese es el pelo que en en un ejecutable, no sé común, Digamos.
+
+72
+00:06:42.990 --> 00:06:45.009
+Ariel Luis Cessario: Por eso vas a cambiar el ejecutable.
+
+73
+00:06:45.230 --> 00:06:49.880
+FEDERICO JOSÉ DÓBALO: Como el puti, Digamos como el que nos pasaron, que bueno, que en realidad era tenía algo embebido, digamos.
+
+74
+00:06:50.430 --> 00:06:54.489
+Ariel Luis Cessario: Claro, pero eso era el código de pute y adentro. Tenía código escrito.
+
+75
+00:06:54.920 --> 00:06:55.610
+FEDERICO JOSÉ DÓBALO: Sí.
+
+76
+00:06:56.100 --> 00:06:57.879
+Ariel Luis Cessario: Y tienes que saber cómo hacerlo eso.
+
+77
+00:06:58.780 --> 00:07:05.279
+FEDERICO JOSÉ DÓBALO: Sí, no hay algunas herramientas de de cali que lo hacen. Hacen casi por una hora. Hay una herramienta para todo.
+
+78
+00:07:05.790 --> 00:07:11.910
+Ariel Luis Cessario: Sí. Pero si el otro te agarra y te encuentra que es cáli, te te te invalida directamente todo el coso porque te lo te lo rompió al toque.
+
+79
+00:07:12.270 --> 00:07:14.720
+Ariel Luis Cessario: te dice, no. Esto lo hicieron con Ms F, venom.
+
+80
+00:07:16.110 --> 00:07:18.449
+Ariel Luis Cessario: Y eso está todo.
+
+81
+00:07:18.450 --> 00:07:23.230
+FEDERICO JOSÉ DÓBALO: Y si yo, aparte de eso, si me preguntas, si yo, aparte de eso, lo busco, son.
+
+82
+00:07:24.550 --> 00:07:25.190
+Ariel Luis Cessario: Vale.
+
+83
+00:07:25.190 --> 00:07:25.950
+FEDERICO JOSÉ DÓBALO: Puede hacer.
+
+84
+00:07:26.870 --> 00:07:27.990
+Ariel Luis Cessario: Sí. Lo que pasa es que fue.
+
+85
+00:07:27.990 --> 00:07:30.090
+FEDERICO JOSÉ DÓBALO: Venimos a hacerlo, a buscarlo. No venimos.
+
+86
+00:07:30.090 --> 00:07:42.040
+Ariel Luis Cessario: Bien, Pero buscarlo es un camino de ida. Es un camino de ida, pero tiene una vuelta bastante fácil de ubicación. Por eso te digo, no entiendo bien cuál sería el beneficio de hacer eso más que generar un trabajo extra, vos
+
+87
+00:07:42.270 --> 00:07:51.140
+Ariel Luis Cessario: que en realidad es un paso que si usás cualquier herramienta de ofuscación común, es posible que haya una herramienta de desofuscación común, entendes para eso.
+
+88
+00:07:51.360 --> 00:07:55.390
+FEDERICO JOSÉ DÓBALO: No, no, no, Yo no, O sea, yo deseo buscarlo por fuera igual, Pero
+
+89
+00:07:56.330 --> 00:07:59.220
+FEDERICO JOSÉ DÓBALO: yo, para que no se vea el código, o sea, no, no, lo no lo no lo pueden recoger.
+
+90
+00:07:59.220 --> 00:08:01.589
+Ariel Luis Cessario: Lo que pasa es que el tema.
+
+91
+00:08:01.590 --> 00:08:04.780
+FEDERICO JOSÉ DÓBALO: Eso suponemos, No, Yo lo paso a.
+
+92
+00:08:04.780 --> 00:08:05.200
+Ariel Luis Cessario: Y me.
+
+93
+00:08:05.200 --> 00:08:11.440
+FEDERICO JOSÉ DÓBALO: El ejecutable lo le asigna una variable. Eso es un dato, y eso lo cifró que ha cifrado.
+
+94
+00:08:11.750 --> 00:08:16.179
+FEDERICO JOSÉ DÓBALO: ¿y qué es eso se desofusque justo antes de ejecutarse. Entonces es como que.
+
+95
+00:08:16.950 --> 00:08:19.790
+Ariel Luis Cessario: Te lo freno con el de Bayern y te saco el pelo.
+
+96
+00:08:20.070 --> 00:08:21.640
+FEDERICO JOSÉ DÓBALO: Y además, me quedé en el estado.
+
+97
+00:08:21.640 --> 00:08:22.720
+Ariel Luis Cessario: Mi abuelo ejecutado.
+
+98
+00:08:22.720 --> 00:08:23.590
+FEDERICO JOSÉ DÓBALO: Estático.
+
+99
+00:08:23.590 --> 00:08:28.409
+Ariel Luis Cessario: Claro. Además, cuando vos lo ejecutas y decís qué, Bueno, yo ejecuto un second stage.
+
+100
+00:08:28.710 --> 00:08:33.500
+Ariel Luis Cessario: Estás de sofuscando lo copiaste el disco listo. Ya tienen el ejecutable de sofuscado.
+
+101
+00:08:34.090 --> 00:08:35.899
+FEDERICO JOSÉ DÓBALO: Está bien, ¿Tienes razón? Sí. Sí. Sí.
+
+102
+00:08:35.909 --> 00:08:38.429
+Ariel Luis Cessario: Y de
+
+103
+00:08:38.649 --> 00:08:53.879
+Ariel Luis Cessario: les voy a mostrar un código ofuscado de Shelkow igual. ¿cómo funciona? Por eso te digo, no es fácil esa parte, esa parte vos tenés que hacer el rapper. Y si vos cambias el ofuscado que está dentro, ya para que sea como un shelco
+
+104
+00:08:54.149 --> 00:08:58.609
+Ariel Luis Cessario: tenés que crearle. Primero que tenés que pegarle si lo vas a meter adentro de un ejecutable.
+
+105
+00:08:58.799 --> 00:09:02.449
+Ariel Luis Cessario: tienes que pegarle a todo el tamaño exacto del shelco que estas reemplazando.
+
+106
+00:09:03.709 --> 00:09:09.949
+Ariel Luis Cessario: Segundo, tienes que agarrar y tenés que cambiar el código donde dice que llama la función específica que ejecuta ese gelco
+
+107
+00:09:10.329 --> 00:09:14.939
+Ariel Luis Cessario: y después toda la lógica que pueda venir adentro de un malware. Si vos no lo hiciste.
+
+108
+00:09:15.639 --> 00:09:19.469
+Ariel Luis Cessario: ese cerco para que tenga sentido, en donde.
+
+109
+00:09:19.729 --> 00:09:29.909
+Ariel Luis Cessario: en en en en ese contexto, porque si no le vas a estar, metiendo como algo que el El El resto del caparazón del Marwa no lo sabe, pero te preguntaba tanto, porque hay un hay
+
+110
+00:09:30.599 --> 00:09:35.029
+Ariel Luis Cessario: Hay unos programas que son más fáciles de enfocar, que son los programas que están hechos con punto Net.
+
+111
+00:09:35.959 --> 00:09:49.999
+Ariel Luis Cessario: problemas que están hechos con punto, Net que también se los voy a mostrar. Esos son más fáciles de que vengan ofuscados. Entonces yo pensé que por ahí me decías eso de cambiar la ofuscación a un programa que está hecho en punto Net, que tampoco es fácil. Pero es un poco más simple.
+
+112
+00:09:50.269 --> 00:09:51.239
+Ariel Luis Cessario: Me entiendes.
+
+113
+00:09:51.240 --> 00:09:56.580
+FEDERICO JOSÉ DÓBALO: Sí, Sí, sí, no, no. Yo estaba pensando en lo otro. Pero bueno, si no me avivé que claro lo tenés que ejecutar. Y ahí
+
+114
+00:09:57.260 --> 00:09:58.069
+FEDERICO JOSÉ DÓBALO: sí eso se.
+
+115
+00:09:58.070 --> 00:09:58.520
+Ariel Luis Cessario: Cuando un.
+
+116
+00:09:58.520 --> 00:10:00.329
+FEDERICO JOSÉ DÓBALO: Descifra, en definitiva está.
+
+117
+00:10:00.720 --> 00:10:10.759
+Ariel Luis Cessario: Claro. Una de las una de las metodologías que hay como para agarrar y decir che qué es lo que se está ejecutando es ir paso por paso.
+
+118
+00:10:11.100 --> 00:10:13.539
+Ariel Luis Cessario: El cambio de código que se está dando.
+
+119
+00:10:14.470 --> 00:10:20.300
+Ariel Luis Cessario: Entonces eso se puede hacer, pero se puede hacer Light.
+
+120
+00:10:20.460 --> 00:10:26.689
+Ariel Luis Cessario: Entonces ahí es donde decía mirá que lo que te estás metiendo, más quilombo que programarlos desde 0.
+
+121
+00:10:27.360 --> 00:10:30.539
+Ariel Luis Cessario: Sí, ¿Quién fue el que dijo que lo quería poner. Mar Mateo.
+
+122
+00:10:31.380 --> 00:10:31.910
+MATEO VALENZUELA: Sí.
+
+123
+00:10:32.970 --> 00:10:38.920
+Ariel Luis Cessario: Y de de no te quiero preguntar, porque si no te estoy quemando, pero eso de.
+
+124
+00:10:38.920 --> 00:10:39.630
+MATEO VALENZUELA: Se puede, no.
+
+125
+00:10:39.630 --> 00:10:40.410
+Ariel Luis Cessario: Pero cuando.
+
+126
+00:10:40.670 --> 00:10:45.730
+MATEO VALENZUELA: Sería para el laburo como sumar un equipo ofensivo. Tenemos un malware desarrollado, pero.
+
+127
+00:10:45.930 --> 00:10:48.230
+Ariel Luis Cessario: La la la a el.
+
+128
+00:10:48.230 --> 00:10:49.179
+NICOLAS BOMBICINO: No vale ese tramo.
+
+129
+00:10:49.180 --> 00:10:52.390
+Ariel Luis Cessario: Interesante, igual.
+
+130
+00:10:52.390 --> 00:10:56.950
+MATEO VALENZUELA: Mi duda más es, tenemos que arrancar todos con el primer stage.
+
+131
+00:10:57.320 --> 00:11:02.330
+MATEO VALENZUELA: Y de ahí era todos los stages o como como son la regla del juego. Ahí.
+
+132
+00:11:02.650 --> 00:11:04.800
+Ariel Luis Cessario: Y mira ahí. En ese caso.
+
+133
+00:11:06.460 --> 00:11:12.899
+Ariel Luis Cessario: como no va, si si es un malware que tienen ustedes, no va a poder bajar un segundo stage a menos que el stage esté metido adentro.
+
+134
+00:11:13.030 --> 00:11:15.980
+Ariel Luis Cessario: Si es todo dentro del mismo código.
+
+135
+00:11:16.750 --> 00:11:24.579
+Ariel Luis Cessario: si es todo dentro del mismo código, entonces serían todos los stage que tendría que revisar
+
+136
+00:11:24.900 --> 00:11:29.840
+Ariel Luis Cessario: si es malware que viene con multi stage, pero que lo tienen que bajar
+
+137
+00:11:30.000 --> 00:11:35.809
+Ariel Luis Cessario: ahí. No los quiero meter en ese quilombo, entonces sería el primer stage que tienen que que tienen que descular.
+
+138
+00:11:37.530 --> 00:11:38.569
+Ariel Luis Cessario: Se entiende.
+
+139
+00:11:39.170 --> 00:11:47.579
+MATEO VALENZUELA: Okay. Y si, en el caso de que el hijo no sea 1 más conocido, no sé como algún malware de Lazarus o no sé el.
+
+140
+00:11:48.250 --> 00:11:51.119
+Ariel Luis Cessario: Sí alguno.
+
+141
+00:11:51.120 --> 00:11:54.080
+MATEO VALENZUELA: En ese caso.
+
+142
+00:11:55.630 --> 00:12:03.560
+MATEO VALENZUELA: cuentas. Imagínate. Yo analicé 3 Stagecis por y les mandé al otro equipo al primer stage y te analizaron solo 2.
+
+143
+00:12:04.690 --> 00:12:06.830
+Ariel Luis Cessario: Cómo, cómo, cómo, ¿Cómo vuelve a.
+
+144
+00:12:06.830 --> 00:12:12.699
+MATEO VALENZUELA: En el caso de, por ejemplo, elijo X, y sigo arranco.
+
+145
+00:12:13.140 --> 00:12:19.349
+MATEO VALENZUELA: sí un manual equis reciente y que se pueden descargar los segundos. Tercer y todos los testes que tengas.
+
+146
+00:12:19.550 --> 00:12:23.460
+MATEO VALENZUELA: Y yo analizo desde el primer stage
+
+147
+00:12:24.040 --> 00:12:29.450
+MATEO VALENZUELA: y no sé a analizar todos los Stages, que son 3. Y después al otro equipo le mandó el primer stage.
+
+148
+00:12:30.300 --> 00:12:31.330
+MATEO VALENZUELA: Si no soy la.
+
+149
+00:12:31.330 --> 00:12:31.740
+Ariel Luis Cessario: Cerdo y.
+
+150
+00:12:31.740 --> 00:12:32.470
+MATEO VALENZUELA: Primero.
+
+151
+00:12:32.920 --> 00:12:36.190
+Ariel Luis Cessario: Si lo pudiste hacer con herramientas
+
+152
+00:12:36.870 --> 00:12:46.499
+Ariel Luis Cessario: que vivimos en la clase y no usando un laboratorio del laburo que está ahí perrecontra más preparado y toda la bola
+
+153
+00:12:46.710 --> 00:12:52.990
+Ariel Luis Cessario: sí, porque no quiero. No quiero que se generen
+
+154
+00:12:53.930 --> 00:12:59.040
+Ariel Luis Cessario: diferencias en cuanto a las herramientas utilizadas o las metodologías que se conocen.
+
+155
+00:12:59.270 --> 00:13:14.399
+Ariel Luis Cessario: Entonces, si vos agarrás y me decís que utilizaste herramientas de acá y eso lo puedes reproducir con los laboratorios de acá sin agarrar y abrirte a Internet específicamente, sino diciendo: mira, Yo bajé porque vi que decía esto y lo busqué,
+
+156
+00:13:14.560 --> 00:13:23.140
+Ariel Luis Cessario: lo busqué y aparece fácil con un indicador de compromiso obvio, entonces sí, pero
+
+157
+00:13:23.250 --> 00:13:33.530
+Ariel Luis Cessario: no me quiero zarpar tampoco a que me digas. No dice con esto y porque tengo un arreglo con ese que me dieron el segundo Stage y esas cosas entiendes.
+
+158
+00:13:34.460 --> 00:13:35.150
+MATEO VALENZUELA: Okay.
+
+159
+00:13:36.340 --> 00:13:40.979
+Ariel Luis Cessario: O sea, el vecino. Sí, los quieres matar a todos.
+
+160
+00:13:40.980 --> 00:13:43.809
+MATEO VALENZUELA: Digo, bueno, si le mandás a la guerra, yo voy a ir con todo.
+
+161
+00:13:43.810 --> 00:13:46.109
+Ariel Luis Cessario: Ya estás con el casco puesto.
+
+162
+00:13:46.110 --> 00:13:46.530
+MATEO VALENZUELA: Sí, Sí.
+
+163
+00:13:46.530 --> 00:13:51.199
+Ariel Luis Cessario: Si no me parece bien, o sea como gustarme, me encanta la idea.
+
+164
+00:13:51.630 --> 00:13:53.960
+Ariel Luis Cessario: No te voy a mentir.
+
+165
+00:13:54.930 --> 00:14:06.309
+Ariel Luis Cessario: pero estoy viendo cómo implementarlo. Porque además, recuerden que esta es la segunda vez que lo hago, Así que también parte de lo que es el aprendizaje de esto es para mí para ver a ver cómo lo podemos hacer. Así que acepto ideas
+
+166
+00:14:06.650 --> 00:14:08.570
+Ariel Luis Cessario: de que podría llegar a ser.
+
+167
+00:14:08.690 --> 00:14:19.930
+Ariel Luis Cessario: Por eso digo de lo del lo del malware. No lo quiero dar. Yo quiero ver a ver con lo que me con lo que viene, pero sí programarlo. Es es legal
+
+168
+00:14:21.200 --> 00:14:23.599
+Ariel Luis Cessario: Programarlo es legal.
+
+169
+00:14:23.800 --> 00:14:27.090
+Ariel Luis Cessario: Y después qué? Más consultas más dudas con esto.
+
+170
+00:14:27.420 --> 00:14:36.800
+FEDERICO JOSÉ DÓBALO: No profe por las fechas. Si sabes la fecha del segundo parcial y de y y esto, en teoría, tenemos una semana para analizar el nuestro y después a la otra es con el cruzando con los otros equipos. No.
+
+171
+00:14:37.160 --> 00:14:39.180
+Ariel Luis Cessario: Claro, serían 3 semanas.
+
+172
+00:14:39.530 --> 00:14:41.320
+Ariel Luis Cessario: Eran 3 semanas en total.
+
+173
+00:14:41.670 --> 00:14:49.420
+Ariel Luis Cessario: La primera de la primera a la segunda, no si 3 semanas, pero completas. ¿no sería la primera semana
+
+174
+00:14:49.590 --> 00:14:58.070
+Ariel Luis Cessario: analizas el tuyo segunda semana a
+
+175
+00:14:59.530 --> 00:15:09.409
+Ariel Luis Cessario: lo de cometer un crimen sin querer. Sí, hay que tener cuidado. Por eso hay que usar las máquinas. Por eso no me quiero zarpar tanto con lo de los Stations y todo eso. La segunda semana.
+
+176
+00:15:09.590 --> 00:15:13.619
+Ariel Luis Cessario: te cruzas con el otro equipo y listo. Y la última semana
+
+177
+00:15:14.360 --> 00:15:20.450
+Ariel Luis Cessario: se cruzan los 2 ganadores contra los 2 perdedores y al final de esa semana es que lo dice
+
+178
+00:15:21.130 --> 00:15:24.769
+Ariel Luis Cessario: el examen. De nuevo, yo se los voy a dar examen. No es complicado.
+
+179
+00:15:25.200 --> 00:15:32.680
+Ariel Luis Cessario: Creo que tenemos tiempo nosotros, cuando es cuando ustedes, cuando tienen etapa de examen en en esta parte en noviembre, no.
+
+180
+00:15:32.920 --> 00:15:33.530
+FEDERICO JOSÉ DÓBALO: Sí.
+
+181
+00:15:34.660 --> 00:15:38.729
+Ariel Luis Cessario: La U D debe ser a ver. Vamos a ver un poco la.
+
+182
+00:15:38.730 --> 00:15:43.100
+FEDERICO JOSÉ DÓBALO: Por lo menos, no sé, los no sé mis compañeros, ¿no? Pero el las semanas
+
+183
+00:15:43.620 --> 00:15:47.480
+FEDERICO JOSÉ DÓBALO: según no la primera y segunda semana de noviembre son las más complicadas.
+
+184
+00:15:47.780 --> 00:15:50.580
+FACUNDO DURIGON: No la de 9. Es la más complicada.
+
+185
+00:15:50.580 --> 00:15:51.340
+FEDERICO JOSÉ DÓBALO: Sí, claro.
+
+186
+00:15:51.340 --> 00:15:52.620
+Ariel Luis Cessario: El 9.
+
+187
+00:15:52.620 --> 00:15:52.950
+FACUNDO DURIGON: Claro.
+
+188
+00:15:52.950 --> 00:15:56.880
+Ariel Luis Cessario: Pero eso es porque son exámenes y después viene recuperatorios.
+
+189
+00:15:57.230 --> 00:15:57.870
+FEDERICO JOSÉ DÓBALO: Sí.
+
+190
+00:15:58.340 --> 00:16:00.930
+Ariel Luis Cessario: O sea, 9 y 16 son las semanas.
+
+191
+00:16:04.350 --> 00:16:08.889
+Ariel Luis Cessario: Sería la semana del 9 y la semana del 16. En principio, las complicadas.
+
+192
+00:16:12.200 --> 00:16:14.879
+FEDERICO JOSÉ DÓBALO: Sí, Sí, Yo sí.
+
+193
+00:16:15.680 --> 00:16:16.459
+Ariel Luis Cessario: Si no en.
+
+194
+00:16:16.460 --> 00:16:18.099
+FEDERICO JOSÉ DÓBALO: El ruido. No sé si se está escuchando perdón por.
+
+195
+00:16:18.100 --> 00:16:20.849
+Ariel Luis Cessario: No, no está Perfecto. Nosotros estamos, acá
+
+196
+00:16:21.480 --> 00:16:30.690
+Ariel Luis Cessario: yo diría de de agarrar estas 3 semanas. Entonces, fíjense arrancamos el 12, acá. Termina el primer análisis
+
+197
+00:16:31.330 --> 00:16:32.899
+Ariel Luis Cessario: acá. Se lo cruzan
+
+198
+00:16:34.940 --> 00:16:41.190
+Ariel Luis Cessario: a ver. Vamos a hacerlo de jueves, a jueves, vamos a decir, acá. Por ejemplo, si arrancamos el jueves, si
+
+199
+00:16:43.750 --> 00:16:48.739
+Ariel Luis Cessario: si acá el jueves 8 hacemos la primera cruzada, no a ver jueves. Quince
+
+200
+00:16:49.050 --> 00:16:56.530
+Ariel Luis Cessario: hacemos la primera cruzada primera ronda, ustedes arrancaron a analizar acá.
+
+201
+00:16:58.890 --> 00:17:05.100
+Ariel Luis Cessario: No está bien. La primera ronda acá acá acá se cruzaron el malware.
+
+202
+00:17:05.240 --> 00:17:07.129
+Ariel Luis Cessario: El 15 se cruza en el malware
+
+203
+00:17:08.099 --> 00:17:12.180
+Ariel Luis Cessario: tienen una semana hasta el 22 y el 22 hacemos
+
+204
+00:17:13.369 --> 00:17:22.530
+Ariel Luis Cessario: segundo contra tercero, perdón. Los 4 equipos, 2 contra 2 de acá el 22 Sacamos
+
+205
+00:17:23.150 --> 00:17:29.300
+Ariel Luis Cessario: serían los ganadores y los perdedores de la primera ronda.
+
+206
+00:17:29.770 --> 00:17:37.829
+Ariel Luis Cessario: Y en esta semana al 29, Acá se cruzan los ganadores y los perdedores, ¿Cómo lo ven.
+
+207
+00:17:39.620 --> 00:17:41.359
+MARTIN DAUS: Mandar la fecha después de.
+
+208
+00:17:41.360 --> 00:17:42.100
+MATEO VALENZUELA: Y en.
+
+209
+00:17:42.100 --> 00:17:43.069
+SOFIA LIBERTAD VELAZCO MONTAGNA: Repetir las fechas.
+
+210
+00:17:43.070 --> 00:17:46.869
+FEDERICO JOSÉ DÓBALO: El Quince Quince 22 y el 29. Sería todo el desafío, Digamos.
+
+211
+00:17:47.210 --> 00:17:52.490
+Ariel Luis Cessario: Claro, 15 22 y 29. Sería todo el desafío. Nos quedan 3, acá el 8.
+
+212
+00:17:53.090 --> 00:17:54.310
+Ariel Luis Cessario: El día, 8.
+
+213
+00:17:55.100 --> 00:18:01.549
+Ariel Luis Cessario: Ustedes ya tendrían que tener el malware y se toman esta semana para analizarlo, o si lo quieren empezar a analizar desde acá
+
+214
+00:18:02.060 --> 00:18:07.910
+Ariel Luis Cessario: pueden. Pero yo les diría que, pues si no va a ser muy complicado para todos. Pero puede llegar a ser divertido
+
+215
+00:18:08.640 --> 00:18:17.849
+Ariel Luis Cessario: que arranque en el 8, el 8 de decimos: bueno, vamos a arrancar con tal malware. Yo que les recomendaría esta semana, es que revisen algunos Malware en general.
+
+216
+00:18:17.950 --> 00:18:20.560
+Ariel Luis Cessario: porque no todos son tan fáciles como parece.
+
+217
+00:18:20.740 --> 00:18:23.030
+Ariel Luis Cessario: y no todos son tan difíciles como parece.
+
+218
+00:18:23.340 --> 00:18:30.950
+Ariel Luis Cessario: Entonces por ahí, si quieren empezar a evaluar algunos malware acá listo y el 8, el 8 nos pasamos los hayes que
+
+219
+00:18:32.130 --> 00:18:40.099
+Ariel Luis Cessario: dejamos los 4 hayes de los archivos que van a analizar para ya saber que son esos, efectivamente los que se van a los que se van a usar
+
+220
+00:18:41.160 --> 00:18:42.390
+Ariel Luis Cessario: el Quince.
+
+221
+00:18:43.810 --> 00:18:48.059
+Ariel Luis Cessario: tienen toda esta semana del 8 al Quince para hacer el análisis.
+
+222
+00:18:49.160 --> 00:18:53.369
+Ariel Luis Cessario: El Quince se los cruzan el equipo, 1 con el 2, el 3, con el 4,
+
+223
+00:18:54.310 --> 00:18:58.539
+Ariel Luis Cessario: y ahí cada 1 de los otros equipos tiene una semana para analizarlo.
+
+224
+00:18:58.690 --> 00:19:07.929
+Ariel Luis Cessario: El 22 se hace la primera competencia. Equipo, 1, contra equipo. Dos equipo, 3 contra equipo, 4 de Acá van a salir 2 ganadores, 2 perdedores.
+
+225
+00:19:09.760 --> 00:19:17.100
+Ariel Luis Cessario: Los perdedores se cruzan. El malware entre sí. Los ganadores se cruzan. El malware entre sí
+
+226
+00:19:18.370 --> 00:19:24.120
+Ariel Luis Cessario: una semana más y acá hacemos las finales, la final y la semifinal ahora.
+
+227
+00:19:24.500 --> 00:19:29.279
+MATEO VALENZUELA: Profe perdón. En ese caso, no puede ser que por ahí se repita
+
+228
+00:19:29.670 --> 00:19:32.469
+MATEO VALENZUELA: la final con alguien que ya lo hicimos.
+
+229
+00:19:33.440 --> 00:19:40.290
+Ariel Luis Cessario: ¿cómo sería eso? Porque sería el 1 contra el 2, el 2 con el 3. Si gana el 1 y gana el 3
+
+230
+00:19:40.510 --> 00:19:44.440
+Ariel Luis Cessario: son los 2 que se cruzan y el
+
+231
+00:19:44.840 --> 00:19:48.049
+Ariel Luis Cessario: 2 con el 4 serían los que se cruzan en la ronda de perdedores o no.
+
+232
+00:19:48.570 --> 00:19:49.750
+Ariel Luis Cessario: o me estoy equivocando.
+
+233
+00:19:51.380 --> 00:19:54.970
+NICOLAS BOMBICINO: Estoy repitiendo una fecha, el Quince y el 22.
+
+234
+00:19:55.480 --> 00:19:56.020
+MATEO VALENZUELA: Sí.
+
+235
+00:19:56.680 --> 00:19:58.530
+Ariel Luis Cessario: No, no, el Quince.
+
+236
+00:19:58.790 --> 00:19:59.390
+FACUNDO DURIGON: No.
+
+237
+00:19:59.390 --> 00:20:00.230
+Ariel Luis Cessario: El Quince es para.
+
+238
+00:20:00.230 --> 00:20:04.630
+FACUNDO DURIGON: Se cambian. O sea, en realidad son 2 semanas de análisis desde el Quince, al 22.
+
+239
+00:20:04.630 --> 00:20:04.980
+Ariel Luis Cessario: Claro.
+
+240
+00:20:04.980 --> 00:20:06.440
+FACUNDO DURIGON: 22 o 29.
+
+241
+00:20:07.420 --> 00:20:07.980
+Ariel Luis Cessario: La otra.
+
+242
+00:20:07.980 --> 00:20:08.580
+MATEO VALENZUELA: Ah, claro.
+
+243
+00:20:08.580 --> 00:20:09.040
+Ariel Luis Cessario: Es a.
+
+244
+00:20:09.040 --> 00:20:09.570
+MATEO VALENZUELA: Que.
+
+245
+00:20:09.570 --> 00:20:12.749
+Ariel Luis Cessario: En la 15. Además, otra cosa que se hace
+
+246
+00:20:12.920 --> 00:20:21.509
+Ariel Luis Cessario: el equipo que eligió el malware, el por ejemplo, el 1, el el el 8, el equipo. Uno elige el malware a
+
+247
+00:20:21.830 --> 00:20:28.540
+Ariel Luis Cessario: Acá el 15 entrega el informe con todos los hallazgos, y es contra lo que compara el 22.
+
+248
+00:20:31.760 --> 00:20:32.720
+MATEO VALENZUELA: Okay? Josh.
+
+249
+00:20:34.340 --> 00:20:42.690
+Ariel Luis Cessario: Ustedes me van corrigiendo. Si ven que me está, me estoy equivocando con algo, porque además, el año pasado le hice solo con 2 equipos. Y esta es la primera vez que lo hago con 4.
+
+250
+00:20:42.690 --> 00:20:46.360
+MARTIN DAUS: Vos. Vas a abrir una estancia profe para que cada 1 entregue sus informes.
+
+251
+00:20:47.300 --> 00:20:52.119
+Ariel Luis Cessario: No. Posiblemente si quieren, 1 del equipo que me lo mande por privado.
+
+252
+00:20:52.120 --> 00:20:56.009
+MARTIN DAUS: Pensé que se podía analizar tipo hasta el último día, o una cosa así.
+
+253
+00:20:56.520 --> 00:21:00.319
+Ariel Luis Cessario: No sé, ustedes lo pueden analizar hasta el 15, Si todos tienen una semana.
+
+254
+00:21:00.770 --> 00:21:06.979
+Ariel Luis Cessario: entonces, de hecho, los equipos originales tienen una ventaja porque, como les decía, ya pueden ir revisando
+
+255
+00:21:07.160 --> 00:21:09.630
+Ariel Luis Cessario: a ver algunos malware como para tener una idea.
+
+256
+00:21:10.010 --> 00:21:14.100
+Ariel Luis Cessario: pero el 8 es donde cerramos con el malware que va que va a hacer.
+
+257
+00:21:15.470 --> 00:21:16.499
+Ariel Luis Cessario: Yo te diría.
+
+258
+00:21:16.500 --> 00:21:19.059
+MARTIN DAUS: Abras, una instancia.
+
+259
+00:21:19.360 --> 00:21:24.739
+Ariel Luis Cessario: Una instancia o le decís abrir una carpetita para que suban cosas En la plataforma de Blackboard.
+
+260
+00:21:25.400 --> 00:21:28.769
+MARTIN DAUS: No abril, algo con fecha anterior, 15
+
+261
+00:21:29.420 --> 00:21:35.300
+MARTIN DAUS: mismo, acá en clase. Si hace falta, y 1 por grupo entrega el informe y chao.
+
+262
+00:21:35.300 --> 00:21:36.320
+Ariel Luis Cessario: Bueno.
+
+263
+00:21:36.320 --> 00:21:37.630
+MARTIN DAUS: De que se.
+
+264
+00:21:38.610 --> 00:21:42.380
+Ariel Luis Cessario: Lo voy a revisar y se los dejo armado. Y después tenemos
+
+265
+00:21:42.520 --> 00:21:49.079
+Ariel Luis Cessario: hasta la semana del 9. Tenemos otras 2 semanas como para repasar cualquier cosa. Y ya hacemos el examen y listo.
+
+266
+00:21:49.330 --> 00:21:50.210
+Ariel Luis Cessario: entonces.
+
+267
+00:21:50.210 --> 00:21:55.559
+FACUNDO DURIGON: Profe, Pero en esas en esas semanas, en el medio, ¿qué qué o sea, qué temas quedan pendientes de ver.
+
+268
+00:21:56.190 --> 00:22:09.579
+Ariel Luis Cessario: Uy. Nos quedan, No, todavía nos quedan. Tengo como tengo un par nuevos que quiero ver, que el otro día estaba en una reunión con con analistas, por ejemplo, Y y me dieron unos de porque me contaron de un malware que
+
+269
+00:22:10.050 --> 00:22:12.260
+Ariel Luis Cessario: que cómo se llama
+
+270
+00:22:13.080 --> 00:22:28.210
+Ariel Luis Cessario: que era tan hijo de puta que agarraba. Y era recontra difícil para agarrar y de baguearlo, se colgaba con todo, no lo podían ver, no lo podían ver, No lo podían ver. Y me pasaron un par de herramientas de análisis stable, o sea, más incógnito
+
+271
+00:22:28.770 --> 00:22:30.750
+Ariel Luis Cessario: que y
+
+272
+00:22:31.070 --> 00:22:50.160
+Ariel Luis Cessario: quiero prepararnos una clase con eso. O sea, tengo un montón de cosas todavía para darles como para para que tengan. Pero les recomiendo que los programas que utilicen ahora sean programas de seo de rastro de nimo de algún lenguaje que sea compilado y no pre compilado.
+
+273
+00:22:50.240 --> 00:22:59.409
+Ariel Luis Cessario: o sea, traten de evitar punto Netti y esas cosas. Si bien punto Net, yo se lo voy a ir mostrando en estas fechas, en estas fechas que vienen
+
+274
+00:22:59.680 --> 00:23:06.539
+Ariel Luis Cessario: con otras cosas, nada. Si quieren agarrar 1 de punto nets, si ven que les gusta la semana que viene, casi seguro vamos a estar viéndolo de punto. Net.
+
+275
+00:23:06.910 --> 00:23:12.859
+Ariel Luis Cessario: Si quieren agarrar algo tipo punto. Net to Java, pueden hacerlo. No es un problema, pero nada
+
+276
+00:23:13.700 --> 00:23:15.499
+Ariel Luis Cessario: Vamos a ver esas cosas.
+
+277
+00:23:15.740 --> 00:23:17.510
+Ariel Luis Cessario: El Quince.
+
+278
+00:23:18.530 --> 00:23:36.740
+Ariel Luis Cessario: O sea, nosotros vamos a tener clases 15, 22, no los hasta el 8, igual vamos a estar viendo el Quince va a ser competencia. El 22 va a ser competencia, el 29 y el 5, vamos a tener repaso y otros malware también para ver, porque vamos a ir. Viendo. Les voy a seguir mostrando cosas.
+
+279
+00:23:36.740 --> 00:23:45.469
+Ariel Luis Cessario: y ya te digo, si les puedo armar una clase sobre estas herramientas específicamente me encantaría poder armárselas. Y como necesito tiempo. La verdad que estas fechas me vienen perfecto.
+
+280
+00:23:46.380 --> 00:23:47.460
+Ariel Luis Cessario: Después.
+
+281
+00:23:47.700 --> 00:23:58.500
+Ariel Luis Cessario: En principio, acá, tendrían el 12. Tendrían el examen, el 19, el recuperatorio. Y después creo que en diciembre, Bueno, estas semanas van a ser las de los finales
+
+282
+00:24:00.160 --> 00:24:01.129
+Ariel Luis Cessario: y ya está.
+
+283
+00:24:02.930 --> 00:24:05.550
+Ariel Luis Cessario: Pero como para ver, tenemos como para ver un
+
+284
+00:24:06.400 --> 00:24:11.720
+Ariel Luis Cessario: un un montón de cosas. Siempre me queda re recorta la la materia.
+
+285
+00:24:12.170 --> 00:24:16.060
+Ariel Luis Cessario: Vamos metiendo cosas.
+
+286
+00:24:16.060 --> 00:24:16.620
+EXEQUIEL ALVAREZ BIANCO: Con su tono.
+
+287
+00:24:16.620 --> 00:24:16.980
+Ariel Luis Cessario: Bueno.
+
+288
+00:24:16.980 --> 00:24:22.240
+EXEQUIEL ALVAREZ BIANCO: Final va a ser tipos parciales, poner a hacer un análisis y te lo entregamos.
+
+289
+00:24:22.240 --> 00:24:26.660
+Ariel Luis Cessario: Exactamente lo mismo. Una cosa, una pregunta con eso, porque siempre se nos como olvido
+
+290
+00:24:26.790 --> 00:24:31.080
+Ariel Luis Cessario: cuando ya son los exámenes, son los exámenes, los finales.
+
+291
+00:24:31.350 --> 00:24:35.249
+Ariel Luis Cessario: El problema que hay es que Blackboard no me muestra quien se anotó.
+
+292
+00:24:36.570 --> 00:24:38.809
+Ariel Luis Cessario: No me muestra quien se anota en los finales.
+
+293
+00:24:41.020 --> 00:24:48.099
+Ariel Luis Cessario: Entonces mándenme un mensaje diciéndome. Profe Me anoté en la instancia de tal fecha. Así les disponibilizo el
+
+294
+00:24:48.280 --> 00:24:51.199
+Ariel Luis Cessario: el malware para que lo puedan ver y lo puedan analizar.
+
+295
+00:24:53.680 --> 00:24:54.350
+Ariel Luis Cessario: Estamos
+
+296
+00:24:54.590 --> 00:25:08.370
+Ariel Luis Cessario: eso no se olviden, porque si no, si se acuerdan, el último día es una cagada igual. Algunos chicos que tuvieron ese problema cambiaron el el día del examen y listo. No hubo problema, pero ténganlo en cuenta que a mí. Blackboard no me avisa quien se anota.
+
+297
+00:25:09.340 --> 00:25:11.580
+Ariel Luis Cessario: entonces me tienen que avisar ustedes.
+
+298
+00:25:13.070 --> 00:25:13.440
+EXEQUIEL ALVAREZ BIANCO: Eso por.
+
+299
+00:25:13.440 --> 00:25:13.820
+Ariel Luis Cessario: De la.
+
+300
+00:25:13.820 --> 00:25:19.130
+EXEQUIEL ALVAREZ BIANCO: No hay que hacerlo para las entradas grupales propios grupos en Blackboard o no. Hace falta.
+
+301
+00:25:19.970 --> 00:25:28.479
+Ariel Luis Cessario: No, en principio nunca lo hice, pero lo puedo probar, o sea, Blackwork, si tiene una herramienta que ustedes me dicen que les sirve para esto.
+
+302
+00:25:28.610 --> 00:25:34.470
+Ariel Luis Cessario: Se los dejo. No van a tener que subir tanto. Es solamente y no.
+
+303
+00:25:34.470 --> 00:25:40.920
+MARTIN DAUS: Yo diría que para la entrega abras una estancia ponga 1 por grupo, tal.
+
+304
+00:25:40.920 --> 00:25:41.470
+EXEQUIEL ALVAREZ BIANCO: A para.
+
+305
+00:25:41.470 --> 00:25:42.120
+MARTIN DAUS: No, eso.
+
+306
+00:25:42.120 --> 00:25:46.500
+EXEQUIEL ALVAREZ BIANCO: Claro, porque si no vas a tener que hacer ansiado.
+
+307
+00:25:47.040 --> 00:25:51.749
+Ariel Luis Cessario: No, no, cada 1, no, pero instancia, de qué me dice? Porque tengo acá.
+
+308
+00:25:51.750 --> 00:25:54.259
+MARTIN DAUS: Me refiero a como una actividad.
+
+309
+00:25:55.100 --> 00:25:59.670
+Ariel Luis Cessario: O una actividad, o sea, crear una nueva actividad dentro de lo que son las cosas, a ver.
+
+310
+00:25:59.670 --> 00:26:00.239
+MARTIN DAUS: Claro, nos.
+
+311
+00:26:00.240 --> 00:26:13.479
+Ariel Luis Cessario: Almacenamiento. Si no, igual lo pregunto, no hay problema con eso. Si le pregunto a la gente de de Leupe y listo, pero quería ver exactamente cuál era el que tenían ustedes. Porque yo acá tengo para armar los grupos.
+
+312
+00:26:14.610 --> 00:26:17.230
+MARTIN DAUS: Que soy la clase, 9.
+
+313
+00:26:18.270 --> 00:26:21.860
+Ariel Luis Cessario: Ponele? Sí.
+
+314
+00:26:21.860 --> 00:26:23.150
+MARTIN DAUS: A la no y de.
+
+315
+00:26:23.150 --> 00:26:24.410
+Ariel Luis Cessario: A las 9.
+
+316
+00:26:24.410 --> 00:26:32.430
+MARTIN DAUS: En la Doce, que está el cambio, la clase, 12, que entiendo que sería de clases. El día que nos cambiamos entre equipos.
+
+317
+00:26:33.120 --> 00:26:35.560
+Ariel Luis Cessario: Hay una actividad desde ahí a dar clase.
+
+318
+00:26:35.560 --> 00:26:43.670
+MARTIN DAUS: Ese día. Decir? Bueno, chicos, No sé. Abrí la actividad Franco Manden, el informe al Malware y.
+
+319
+00:26:43.670 --> 00:26:44.100
+Ariel Luis Cessario: De un.
+
+320
+00:26:44.100 --> 00:26:46.050
+MARTIN DAUS: Es y show 1 por el grupo Este.
+
+321
+00:26:46.050 --> 00:26:50.099
+Ariel Luis Cessario: Estoy viendo acá a ver que me dejan hacer, pero bueno, lo voy a buscar.
+
+322
+00:26:50.920 --> 00:26:54.579
+Ariel Luis Cessario: Lo voy a buscar, crear, a ver que me deja crear.
+
+323
+00:26:55.540 --> 00:26:56.330
+Ariel Luis Cessario: Mira
+
+324
+00:26:57.040 --> 00:27:06.810
+Ariel Luis Cessario: documento en el enlace, herramienta, examen, actividad. Esto es lo que estabas comentando a ver. Entonces acá me deja crear una actividad a
+
+325
+00:27:07.270 --> 00:27:16.190
+Ariel Luis Cessario: instrucciones, categoría, papá, papá, papá. Bueno, yo creo que a partir de acá y después me me fijo.
+
+326
+00:27:16.580 --> 00:27:24.370
+Ariel Luis Cessario: me fijo a ver qué onda, Porque esta actividad nueva actividad, tanto supongo que sí
+
+327
+00:27:25.160 --> 00:27:28.860
+Ariel Luis Cessario: me aparece ahora nueva actividad. Tengo la posibilidad.
+
+328
+00:27:29.460 --> 00:27:38.280
+Ariel Luis Cessario: Bueno, desapareció. No lo habré grabado. Bueno, vamos a seguir con la clase si se les va ocurriendo alguna
+
+329
+00:27:39.200 --> 00:27:41.559
+Ariel Luis Cessario: alguna otra consulta, sí.
+
+330
+00:27:41.560 --> 00:27:42.799
+MATEO VALENZUELA: Última pregunta.
+
+331
+00:27:43.180 --> 00:27:43.650
+Ariel Luis Cessario: Día de.
+
+332
+00:27:43.650 --> 00:27:45.689
+MATEO VALENZUELA: Santpelu, un E D E. R alquilar.
+
+333
+00:27:47.450 --> 00:27:51.169
+Ariel Luis Cessario: Si querés sí, No, no.
+
+334
+00:27:51.580 --> 00:27:55.750
+Ariel Luis Cessario: Y si querés sí.
+
+335
+00:27:56.130 --> 00:27:57.659
+MATEO VALENZUELA: Bonito de.
+
+336
+00:27:57.660 --> 00:28:14.130
+Ariel Luis Cessario: Que sí. Para no lo tomes sólo para ganar tómalo, también. Como actividad tómalo. No hagas 1 que ya hayas analizado vos en el laburo, porque si no le estás quitando también toda la experiencia a los de a los del equipo, o sea, La idea es que analicen algo en conjunto.
+
+337
+00:28:16.490 --> 00:28:19.619
+MATEO VALENZUELA: Técnicamente no lo analice, así que estaría.
+
+338
+00:28:19.620 --> 00:28:21.159
+Ariel Luis Cessario: Técnicamente no era.
+
+339
+00:28:21.160 --> 00:28:26.099
+MATEO VALENZUELA: No es un single que no está dando vueltas por todos lados. Así que por ahí se la.
+
+340
+00:28:26.100 --> 00:28:26.639
+Ariel Luis Cessario: El que.
+
+341
+00:28:26.640 --> 00:28:28.299
+MATEO VALENZUELA: Que no va a tener reporte público.
+
+342
+00:28:28.700 --> 00:28:32.270
+Ariel Luis Cessario: Okay, Perfecto. Se puede, si es eso, se puede.
+
+343
+00:28:32.270 --> 00:28:32.660
+MATEO VALENZUELA: Y te.
+
+344
+00:28:32.660 --> 00:28:45.390
+Ariel Luis Cessario: Quiero ver. Quiero que tengan actividad. Quiero ver con qué problemas se cruzaron y todas esas cosas. Yo no lo veo Sofia hasta el último día. A mí no me parece, hasta el último día. 24 h antes, recién me aparece la lista de personas que se anotan a los finales.
+
+345
+00:28:45.730 --> 00:29:02.259
+Ariel Luis Cessario: lo que es en el curso. No hay problema: la la cruzada. No hay problema. Lo veo siempre, obviamente, pero lo que son los finales, Yo lo veo un día antes, nada más, Entonces no lo no le puedo, No, No lo puedo activar. Bueno, entonces gente primero
+
+346
+00:29:02.320 --> 00:29:08.149
+Ariel Luis Cessario: alguno se llegó a bajar el Ida y lo pudo parchear. Tuvieron problemas, soluciones con eso o algo.
+
+347
+00:29:08.510 --> 00:29:17.250
+Ariel Luis Cessario: Si no les muestro, les muestro un toquecito un poquito aida. Vamos a poner. Cuál está Bueno, para ver.
+
+348
+00:29:17.550 --> 00:29:20.660
+Ariel Luis Cessario: Funk Creation, creo que estaba bien. Bien.
+
+349
+00:29:22.580 --> 00:29:26.240
+Ariel Luis Cessario: ¿Pero ¿qué lenguaje le qué
+
+350
+00:29:26.590 --> 00:29:31.650
+Ariel Luis Cessario: qué le metía esto? Que no? No parece importa. Fire Querial.
+
+351
+00:29:33.490 --> 00:29:35.320
+Ariel Luis Cessario: No sé dónde tengo el coso.
+
+352
+00:29:35.450 --> 00:29:38.069
+Ariel Luis Cessario: Vamos a hacer una copia de esto acá
+
+353
+00:29:39.670 --> 00:29:47.920
+Ariel Luis Cessario: y vamos a abrir el aida. Bueno, como les decía el Ida a mí, en principio no es el que más me gusta, pero
+
+354
+00:29:48.340 --> 00:30:02.579
+Ariel Luis Cessario: pero no les voy a mentir. Estuve jugando un poco esta semana. ¿qué pasó con el con el Ida, Y tampoco me disgustó tanto las cosas que tenían. Empecé a encontrar un par de citas que me parecían copadas. Y dije la puta madre
+
+355
+00:30:03.260 --> 00:30:09.080
+Ariel Luis Cessario: por ahí, tengo que empezar a dar lo más, y por esa razón, y
+
+356
+00:30:09.560 --> 00:30:24.829
+Ariel Luis Cessario: vamos a vamos a revisar un poquito esto. Vamos a agarrar esta, o sea, Rafael Creation. Fíjense que tiene algunas diferencias. A mí me da un error de carga. Fíjense si ustedes les da lo mismo a mí particularmente. No me jodió ese error.
+
+357
+00:30:25.280 --> 00:30:31.920
+Ariel Luis Cessario: pero nada puede cambiar con otro con otro equipo, ya saben cómo es esto.
+
+358
+00:30:32.160 --> 00:30:42.600
+Ariel Luis Cessario: Entonces tenemos acá tenemos para elegir Yo no cambio nada. En principio hay una. Por ejemplo, creo que el Main fallaba un poco con eso.
+
+359
+00:30:42.830 --> 00:30:58.399
+Ariel Luis Cessario: pero bueno, nada ahora está cargando. Lo dejan un segundito ta Ta: ta les va a aparecer. Todo esto aida. Tiene un ¿Ven? Acá Tengo el error filete en Ta y me dice un error que no me jodió. Tampoco lo busqué a.
+
+360
+00:30:58.760 --> 00:31:11.750
+Ariel Luis Cessario: pero puede ser por el tema del del craqueado, que tiene cosas bastante interesantes de aida en sí,
+
+361
+00:31:12.040 --> 00:31:18.199
+Ariel Luis Cessario: te ubica muy fácil directamente en la función main del hijo de puta. Eso Por eso yo, che. Bueno.
+
+362
+00:31:18.630 --> 00:31:22.489
+Ariel Luis Cessario: por ahí conviene empezar a verlo un poco.
+
+363
+00:31:22.810 --> 00:31:28.719
+Ariel Luis Cessario: Me gusta que no se encuentre para que podamos entender todo lo que todo lo que necesitamos.
+
+364
+00:31:28.980 --> 00:31:32.710
+Ariel Luis Cessario: Pero, por otro lado, digo que
+
+365
+00:31:33.630 --> 00:31:39.639
+Ariel Luis Cessario: qué lógica avanzada que tiene para para poder entender siempre cuál es la la función Main.
+
+366
+00:31:40.970 --> 00:31:50.179
+Ariel Luis Cessario: Entonces, si se fijan, yo abrí el fil creation y se acuerdan del Fil Creation no te llevaba directamente al main. En ninguno de los programas te llevaban todos Alan Tripoint
+
+367
+00:31:50.650 --> 00:31:58.130
+Ariel Luis Cessario: en este directamente T A, C. Estoy en el Maine. Fíjense que tiene las que tiene las
+
+368
+00:31:59.950 --> 00:32:07.559
+Ariel Luis Cessario: todas las cosas que hace. Se escuchan un ruido de fondo. No sé por qué carajos tengo a alguien que está golpeando en las paredes de mi casa.
+
+369
+00:32:07.950 --> 00:32:09.980
+Ariel Luis Cessario: Tengo un
+
+370
+00:32:10.390 --> 00:32:15.090
+Ariel Luis Cessario: nuevo habitante, porque en esta casa estoy yo solo ahora, y la gata que está durmiendo al lado mío.
+
+371
+00:32:15.630 --> 00:32:21.750
+Ariel Luis Cessario: Entonces, fíjense qué rapidez que tiene para encontrarlo.
+
+372
+00:32:22.430 --> 00:32:26.100
+Ariel Luis Cessario: pequeñas cosas que tiene que no sé por qué no me lo tomo.
+
+373
+00:32:26.780 --> 00:32:31.840
+Ariel Luis Cessario: Acá Se le puede poner el número de línea que está bastante Bueno, para que se pueda ver
+
+374
+00:32:32.280 --> 00:32:41.519
+Ariel Luis Cessario: en qué posiciones estamos, si no acá tenemos una opción para cambiar el tipo de vista y se pone en
+
+375
+00:32:41.720 --> 00:32:44.630
+Ariel Luis Cessario: textil in Thextview.
+
+376
+00:32:44.870 --> 00:32:48.249
+Ariel Luis Cessario: Tiene te da más parecido
+
+377
+00:32:49.240 --> 00:32:58.459
+Ariel Luis Cessario: a lo que sería hidra. Cuando estás viendo la pantalla principal. Fíjense que acá. Está la función
+
+378
+00:32:59.040 --> 00:33:08.859
+Ariel Luis Cessario: tiene todas las las secciones, lo mismo. La lo único que tiene esto, que también no está malo es en qué sección estás parado?
+
+379
+00:33:10.410 --> 00:33:22.570
+Ariel Luis Cessario: ¿en qué? ¿en qué sección está? Estás parado? Tiene la posición de memoria? ¿tiene el nombre de la etiqueta, en donde de Asembler, donde se está moviendo
+
+380
+00:33:23.080 --> 00:33:27.749
+Ariel Luis Cessario: y después el opcode y el y los parámetros.
+
+381
+00:33:29.840 --> 00:33:34.130
+Ariel Luis Cessario: Si nosotros acá tocamos f 5, si mal no recuerdo.
+
+382
+00:33:35.150 --> 00:33:41.659
+Ariel Luis Cessario: vamos a entrar, perdón que se me fue la vista. Se me fue la voz. Vamos a entrar a la
+
+383
+00:33:42.080 --> 00:33:46.860
+Ariel Luis Cessario: al pseudocódigo y Fíjense de nuevo, muy bien armado.
+
+384
+00:33:47.770 --> 00:33:54.310
+Ariel Luis Cessario: muy bien armado, y me parece que inclusive hasta bastante más limpio que el código que
+
+385
+00:33:54.420 --> 00:33:55.819
+Ariel Luis Cessario: que nos daba hidra.
+
+386
+00:33:57.200 --> 00:34:06.530
+Ariel Luis Cessario: Entonces nada realmente me pareció que estaba bastante bueno. Bueno, Después tenemos varias vistas que son las de las de headview, los tipos
+
+387
+00:34:06.860 --> 00:34:20.420
+Ariel Luis Cessario: de cada una de las de las funciones. Y qué es lo que se está usando imports y export que de nuevo, si esto lo quieren usar también acá. Les da una buena vista. Me pareció muy copada. La vista está
+
+388
+00:34:20.810 --> 00:34:31.090
+Ariel Luis Cessario: de ver por cada una de las? D. L: L: ¿Qué ¿Qué funciones están? Se están invocando? Y la verdad que me pareció que estaba bastante bastante bien.
+
+389
+00:34:31.230 --> 00:34:37.599
+Ariel Luis Cessario: Los exportan bien que eran las cosas que se estaban exportando. Así que realmente
+
+390
+00:34:38.710 --> 00:34:41.939
+Ariel Luis Cessario: me desdijo de lo que les dije en su momento.
+
+391
+00:34:43.110 --> 00:34:51.320
+Ariel Luis Cessario: no es que no, no, no, ya no, me no me disgusta tanto. Hidra Me está Id aida. Me está empezando a gustar un poquito más y creo que
+
+392
+00:34:51.639 --> 00:35:04.070
+Ariel Luis Cessario: le vamos a dar un poquito de idas y vuelta. Con todo, vamos a usar hidra aida, y hoy vamos a usar el monstruo gente. Les presento.
+
+393
+00:35:05.120 --> 00:35:12.429
+Ariel Luis Cessario: Les presento al X 32 o 64 d d. G.
+
+394
+00:35:15.490 --> 00:35:22.429
+Ariel Luis Cessario: Este es con el que si pensaron que lo que se veía en el aida y en el hidra era bastante molesto.
+
+395
+00:35:24.240 --> 00:35:27.810
+Ariel Luis Cessario: Prepárense, porque esto es bastante peor.
+
+396
+00:35:28.120 --> 00:35:37.770
+Ariel Luis Cessario: Acá. Si efectivamente vemos lo que está pasando en memoria, vemos lo que está pasando a nivel procesador. Vemos un montón de cosas que son, como es el programa
+
+397
+00:35:38.370 --> 00:35:40.060
+Ariel Luis Cessario: cuando se está ejecutando.
+
+398
+00:35:40.360 --> 00:35:43.319
+Ariel Luis Cessario: No solamente vamos a tener acceso al
+
+399
+00:35:43.530 --> 00:35:49.589
+Ariel Luis Cessario: código binario, sino que vamos a tener acceso a
+
+400
+00:35:49.830 --> 00:35:53.480
+Ariel Luis Cessario: al flujo de trabajo del software.
+
+401
+00:35:55.160 --> 00:36:02.519
+Ariel Luis Cessario: Y esto que ahora se ve bastante vacío, es una pantalla bastante compleja. Yo ahora abrí el 32,
+
+402
+00:36:03.450 --> 00:36:06.420
+Ariel Luis Cessario: pero creo que no me va a dejar abrir demasiado.
+
+403
+00:36:06.640 --> 00:36:13.510
+Ariel Luis Cessario: Vamos a ver si me deja abrir mail porque creo que son todos 64 los que tengo. Así que ahora les digo
+
+404
+00:36:14.250 --> 00:36:17.560
+Ariel Luis Cessario: a ver, Sí, Fíjense, ven acá abajo que me dice
+
+405
+00:36:18.510 --> 00:36:23.250
+Ariel Luis Cessario: tenés que usar el X. 64 D G. Para depurar este archivo.
+
+406
+00:36:24.290 --> 00:36:28.850
+Ariel Luis Cessario: Entonces vamos a abrir el X 64 de Bg.
+
+407
+00:36:32.110 --> 00:36:36.529
+Ariel Luis Cessario: y vamos a abrir el main ex
+
+408
+00:36:40.300 --> 00:36:42.490
+Ariel Luis Cessario: Mailpoints.
+
+409
+00:36:42.980 --> 00:36:48.300
+Ariel Luis Cessario: Entonces acá vamos a ver varias cosas.
+
+410
+00:36:50.700 --> 00:36:55.560
+Ariel Luis Cessario: Y voy a tomar aire para empezar a comentarles. Primero, vamos a empezar por lo fácil
+
+411
+00:36:56.220 --> 00:37:02.879
+Ariel Luis Cessario: para los que programan, ya lo deben tener bastante claro. Estos botoncitos que están acá arriba
+
+412
+00:37:03.480 --> 00:37:11.729
+Ariel Luis Cessario: son muy parecidos a los que tienen en cualquier ventana de de divader de cualquier I D e de programación.
+
+413
+00:37:14.620 --> 00:37:17.239
+Ariel Luis Cessario: El primero es abrir archivo.
+
+414
+00:37:17.410 --> 00:37:24.770
+Ariel Luis Cessario: El primero es abrir archivo. El segundo es restar la ejecución de un archivo. El segundo es finalizarla.
+
+415
+00:37:25.070 --> 00:37:28.809
+Ariel Luis Cessario: Esto después es ejecutar el ejecutar, funciona.
+
+416
+00:37:29.790 --> 00:37:44.859
+Ariel Luis Cessario: al igual que en los cides de programación, tiene así como determinadas cosas. Cuando vos le das a ejecutar algo, va a ejecutar hasta el próximo Break Point o hasta el próximo punto que considere de Breakpoint.
+
+417
+00:37:46.650 --> 00:37:52.090
+Ariel Luis Cessario: En este caso, en este caso, cuando
+
+418
+00:37:52.710 --> 00:38:05.839
+Ariel Luis Cessario: le damos ejecutar el siguiente punto que va a arrancar, o sea, nosotros le vamos a ejecutar cuando el programa arranca en el X de Bg: 64 o 32,
+
+419
+00:38:06.460 --> 00:38:13.590
+Ariel Luis Cessario: lo que hace es agarrar y situarse en el último punto de la N Tdl antes de que le dé el control al programa
+
+420
+00:38:14.500 --> 00:38:24.929
+Ariel Luis Cessario: cuando nosotros después lo ejecutamos, le damos F 9. Y lo que hace es saltar de módulo. Pasa a m. P, D, L, Y pasa al mail punto ex. Y en el mail punto ex se pone en el entripoint.
+
+421
+00:38:25.210 --> 00:38:29.670
+Ariel Luis Cessario: Ahí es donde a nosotros nos importaba averiguar el Entropoint Mhm.
+
+422
+00:38:30.130 --> 00:38:33.860
+Ariel Luis Cessario: ¿en qué más?
+
+423
+00:38:35.520 --> 00:38:41.050
+Ariel Luis Cessario: Eso es lo que hace el Ram. Después tenemos el pausa. Esto ayuda a y
+
+424
+00:38:41.260 --> 00:38:56.530
+Ariel Luis Cessario: bastante porque a veces 1 se 1 ve que acá abajo le empieza a quedar corriendo en algún lup o algo este le le permite pagar en ese momento para ver, por ejemplo, qué qué variables son las que cómo están cargadas las variables. Ahora vamos a llegar al resto de las ventanas.
+
+425
+00:38:57.190 --> 00:39:03.450
+Ariel Luis Cessario: Después tenemos el este pinto que esto para los que saben, Si nosotros tenemos una función.
+
+426
+00:39:03.880 --> 00:39:07.780
+Ariel Luis Cessario: tenemos la función main, no la función principal
+
+427
+00:39:08.120 --> 00:39:12.890
+Ariel Luis Cessario: y adentro de la función principal. Tenemos invocación a muchas otras funciones
+
+428
+00:39:13.170 --> 00:39:16.030
+Ariel Luis Cessario: cuando nosotros venimos corriendo con el Divagger.
+
+429
+00:39:17.310 --> 00:39:25.110
+Ariel Luis Cessario: Si nosotros tocamos el Steppinto cuando llega a una función, lo que va a hacer es el divagar el próximo paso
+
+430
+00:39:25.430 --> 00:39:32.230
+Ariel Luis Cessario: que va a ejecutar es el Pri. La primera sentencia de la función en la que está parado.
+
+431
+00:39:32.850 --> 00:39:39.969
+Ariel Luis Cessario: ¿Va a ejecutar todo eso. Después va a devolver a la función main y va a seguir con el paso siguiente. Todo esto
+
+432
+00:39:40.930 --> 00:39:45.809
+Ariel Luis Cessario: se ejecuta paso a paso, es 1 a 1 que lo va haciendo.
+
+433
+00:39:47.180 --> 00:40:06.499
+Ariel Luis Cessario: La diferencia del este Power es si estamos en la función Main, viene, llega a la función esta que teníamos ahí adentro. Si le damos al este Power, en vez de meterse adentro de esa función directamente, la ejecuta espera el resultado y sigue con el siguiente paso, pero siempre de la función Main
+
+434
+00:40:06.540 --> 00:40:10.290
+Ariel Luis Cessario: nunca se mete adentro de la segunda función.
+
+435
+00:40:12.050 --> 00:40:27.479
+Ariel Luis Cessario: y después, bueno, tenemos acá a Tracy y 3 software que no lo vamos a estar utilizando y executi Tirritán puede ser que lo lleguemos a ejecutar, a utilizar, que es ejecutarse hasta que salga de una función dada
+
+436
+00:40:29.480 --> 00:40:35.240
+Ariel Luis Cessario: después de acá Tenemos interesante. Es esta herramienta herramienta que se llama sila
+
+437
+00:40:35.360 --> 00:40:44.280
+Ariel Luis Cessario: o esquila, o lo van a escuchar pronunciado de un montón de palabras de de maneras. A mí me gusta decirles saila, así que le voy a decir, Saila.
+
+438
+00:40:44.750 --> 00:40:52.280
+Ariel Luis Cessario: Y esto lo que te permite hacer es extraer código de otro ejecutable.
+
+439
+00:40:52.460 --> 00:41:03.829
+Ariel Luis Cessario: Y lo que tiene de bueno esta herramienta es que también les va a reconstruir la tabla de imports. Porque muchas veces, cuando es código Shelkode, si vos lo querés extraer para ver a ver qué hace.
+
+440
+00:41:04.180 --> 00:41:13.600
+Ariel Luis Cessario: Solamente te extrae el shelco y el shelco no tiene toda la parte de los encabezados, y todo eso. Solamente el código de lo que va, digamos, en el Text, en la mayoría de los casos.
+
+441
+00:41:13.840 --> 00:41:16.529
+Ariel Luis Cessario: y eso después, como se inyecta en otro
+
+442
+00:41:16.740 --> 00:41:31.709
+Ariel Luis Cessario: en otro proceso. Y ese proceso ya tiene todas las llamadas y tiene todas las cosas. Entonces funciona. Pero si vos lo estás sacando y lo querés poner en un archivo aparte. Necesitas saber cuáles son todos esos llamados que se hacen para que el programa te pueda llegar a funcionar.
+
+443
+00:41:32.560 --> 00:41:33.660
+Ariel Luis Cessario: En
+
+444
+00:41:33.770 --> 00:41:48.630
+Ariel Luis Cessario: En ese caso, en este caso, esta herramienta es muy útil para eso. Bueno, todo lo demás nada son. Tiene acá. Calculadoras. Tiene un montón de cosas que son como para ayudar a que te sea más fácil el
+
+445
+00:41:49.810 --> 00:41:51.450
+Ariel Luis Cessario: el el trabajo.
+
+446
+00:41:53.330 --> 00:41:57.680
+Ariel Luis Cessario: La pantalla principal, La pantalla principal, como pueden ver, tiene varias solapas.
+
+447
+00:41:58.930 --> 00:42:12.540
+Ariel Luis Cessario: La La solapa principal es una. Es una vista del código muy parecido al que nosotros podríamos llegar a ver en Aida o en
+
+448
+00:42:13.310 --> 00:42:15.610
+Ariel Luis Cessario: o en hidra.
+
+449
+00:42:16.550 --> 00:42:20.069
+Ariel Luis Cessario: Vamos a ir abriendo hidra, porque vamos a necesitarlo.
+
+450
+00:42:22.950 --> 00:42:29.260
+Ariel Luis Cessario: Esperen que voy a ir cargando este programita para que ya quede, porque si no después va a tardar un montón
+
+451
+00:42:30.900 --> 00:42:33.349
+Ariel Luis Cessario: bueno, le sigo explicando mientras viene esto.
+
+452
+00:42:34.370 --> 00:42:40.559
+Ariel Luis Cessario: entonces está a la vista de Cpu, Esto es lo que se está ejecutando y es instrucción instrucción lo que va a ir recibiendo el Cpu.
+
+453
+00:42:44.150 --> 00:42:46.740
+Ariel Luis Cessario: Acá. Tienen muchas solapas.
+
+454
+00:42:46.740 --> 00:43:08.860
+Ariel Luis Cessario: Tienen bueno, una solapa de lox que a veces está Bueno, les brinda información interesante. Estas notas son notas que puede que pueden ustedes ir anotándose y tener para para su día, pues tienen acá la lista de Break Points está ahora. La vamos a ver el Breakpoint. Son esos puntos de frenado que podemos ponerle a la ejecución del código para nosotros ver qué es lo que está pasando en ese momento
+
+455
+00:43:10.010 --> 00:43:14.530
+Ariel Luis Cessario: Tenemos un Memorymap. Esta pantalla es súper hiper recontra importante.
+
+456
+00:43:15.630 --> 00:43:22.369
+Ariel Luis Cessario: Es la que nos va a dar una ayuda fundamental para un paso específico que ahora les voy a decir que
+
+457
+00:43:22.980 --> 00:43:29.680
+Ariel Luis Cessario: chucho estábamos con mail. No, este era el mail punto. Ex sí. Entonces vamos a dejar el mail punto X acá. Que se vaya para
+
+458
+00:43:30.480 --> 00:43:31.920
+Ariel Luis Cessario: acá van a tener
+
+459
+00:43:32.620 --> 00:43:42.199
+Ariel Luis Cessario: posiciones de memoria. Direcciones de memoria. ¿van a tener tamaños. ¿van a tener menor? Quiénes son los usuarios de dueños de estas partes? ¿van a tener la información
+
+460
+00:43:42.790 --> 00:43:50.919
+Ariel Luis Cessario: que es info Info contenido, el tipo, el tipo de protección y el permiso inicial.
+
+461
+00:43:51.350 --> 00:43:52.730
+MARTIN DAUS: Sí consultado.
+
+462
+00:43:52.730 --> 00:43:53.130
+Ariel Luis Cessario: Sí.
+
+463
+00:43:53.130 --> 00:43:55.350
+MARTIN DAUS: El que está marcado en negro significa algo.
+
+464
+00:43:56.210 --> 00:44:01.959
+Ariel Luis Cessario: Creo que es en donde está parado. Ahora Él iba a ver.
+
+465
+00:44:02.500 --> 00:44:03.600
+MARTIN DAUS: espectacular.
+
+466
+00:44:04.080 --> 00:44:14.219
+Ariel Luis Cessario: Pero no estoy del todo seguro. Ese no, no, no, No te quiero mentir. Supon Suponemos que puede llegar a ser eso. Vamos a confirmarlo. Entonces sabemos que es esta memoria. 95 000
+
+467
+00:44:15.410 --> 00:44:21.560
+Ariel Luis Cessario: carrera no está parado ahí en las está parado en el en
+
+468
+00:44:21.760 --> 00:44:29.899
+Ariel Luis Cessario: en el punto Text, o sea, está en la sección. Es el 95 y acá tenés estás con un offet de 300, pero estás en la sección Text.
+
+469
+00:44:30.050 --> 00:44:35.800
+Ariel Luis Cessario: Básicamente debe tener con eso, con la posición en la que estás parado a nosotros, la que nos importa es ésta.
+
+470
+00:44:36.670 --> 00:44:38.560
+Ariel Luis Cessario: ¿Por qué nos importa esta línea?
+
+471
+00:44:38.920 --> 00:44:44.460
+Ariel Luis Cessario: Porque es la posición de memoria en la que Windows agarró y cargó este programa
+
+472
+00:44:44.650 --> 00:44:54.110
+Ariel Luis Cessario: y para qué nos sirve para poder igualar posiciones de memoria con otros programas, para que si encontramos algo en algún otro programa, podamos venir acá y poner un break point.
+
+473
+00:44:54.260 --> 00:45:01.670
+Ariel Luis Cessario: ¿cómo es eso? Todo Ahora de ahora se los voy a contar. ¿cómo identificamos esa línea, que esa es la parte por ahí que ahora
+
+474
+00:45:02.040 --> 00:45:05.570
+Ariel Luis Cessario: importa más Es la línea. Es la única línea
+
+475
+00:45:05.770 --> 00:45:07.980
+Ariel Luis Cessario: que tiene el nombre del programa.
+
+476
+00:45:08.520 --> 00:45:10.259
+Ariel Luis Cessario: El nombre exacto es
+
+477
+00:45:10.970 --> 00:45:18.249
+Ariel Luis Cessario: exacto. Si el programa se llama main punto Exe. La línea tiene que decir Main exee en Info.
+
+478
+00:45:18.980 --> 00:45:22.930
+Ariel Luis Cessario: y esa es nuestra línea en la que nos da el Bay Sadders.
+
+479
+00:45:24.220 --> 00:45:40.430
+Ariel Luis Cessario: entonces esa es la parte importante. Después tenemos el colsta, tenemos todo lo que son todas estas. No las vamos a ver. No me quiero meter mucho en en detalle. Por ejemplo, el surf. A mí nunca me funcionó bien en referencias a veces carga. A veces no.
+
+480
+00:45:40.430 --> 00:45:52.580
+Ariel Luis Cessario: Fredz, la cantidad de frenos, los Handlers, el 3 de del de de de las de las llamadas. Pero son cosas que no vamos a ver ahora. No las vamos a necesitar por ahora, porque sino es un montonazo.
+
+481
+00:45:53.040 --> 00:45:57.870
+Ariel Luis Cessario: Vamos a manejarnos en general entre estas 3 solapas.
+
+482
+00:45:59.500 --> 00:46:06.830
+Ariel Luis Cessario: C, p. U breakpoints y memory map. Ténganlo en cuenta como que son esas las más las más importantes. Por ahora
+
+483
+00:46:07.770 --> 00:46:13.519
+Ariel Luis Cessario: acá tenemos una pequeña ventanita, esta chiquitita de acá que muestra qué es lo que se está ejecutando.
+
+484
+00:46:13.930 --> 00:46:22.950
+Ariel Luis Cessario: Y acá bueno, voy a ir por esta, que es un poco menos importante. Acá Lo que vemos es lo mismo que lo que estamos viendo arriba, pero visto directamente en el Dumb.
+
+485
+00:46:23.000 --> 00:46:35.979
+Ariel Luis Cessario: con su paginado y todo de donde se está ejecutando. Esto va a cobrar más sentido cuando hagamos sobre escritura de del programa de la memoria. Ahí vamos a ver un par de cosas que están.
+
+486
+00:46:36.260 --> 00:46:39.449
+Ariel Luis Cessario: que que es que se van a ver más que nada en esta pantalla.
+
+487
+00:46:41.700 --> 00:46:46.900
+Ariel Luis Cessario: Acá a la derecha acá arriba tenemos lo que son todos
+
+488
+00:46:47.520 --> 00:46:49.790
+Ariel Luis Cessario: Uy. Y ahora, sobre todo los rallistas
+
+489
+00:46:50.820 --> 00:46:58.670
+Ariel Luis Cessario: como este. Es de 64 bits. Tenemos el R, pero recuerden, acá, en la mitad de
+
+490
+00:46:59.100 --> 00:47:05.370
+Ariel Luis Cessario: pueden ver como aparece acá Fíjense e A, X,
+
+491
+00:47:05.620 --> 00:47:12.219
+Ariel Luis Cessario: e B. X, En realidad está hablando de esta mitad, pero es el mismo registro. Si ustedes ven e a X.
+
+492
+00:47:12.850 --> 00:47:15.940
+Ariel Luis Cessario: Fíjense acá en el R A. X
+
+493
+00:47:17.690 --> 00:47:20.849
+Ariel Luis Cessario: acá están los que son los flags, que era lo que les comentaba.
+
+494
+00:47:20.970 --> 00:47:25.370
+Ariel Luis Cessario: Este es el flag que más nos va a importar a nosotros el shiro flag.
+
+495
+00:47:26.930 --> 00:47:42.999
+Ariel Luis Cessario: Y después bueno, tienen todos los demás registras que tiene el procesador, que son un montón. Tiene un montón de información que en general, a menos que sea algo muy específico. No lo vamos a estar viendo. De hecho, los que más nos van a importar son estos estos 3, el R, 8 y el R. Nueve los usa bastante.
+
+496
+00:47:43.130 --> 00:47:48.310
+Ariel Luis Cessario: Y después acá tenemos el famoso Stack que tanto les había hablado.
+
+497
+00:47:48.520 --> 00:47:53.040
+Ariel Luis Cessario: Y ustedes van a ir viendo que el stack crece para acá
+
+498
+00:47:53.580 --> 00:48:04.959
+Ariel Luis Cessario: y decrece para acá Y fíjense que los números en realidad están invertidos, o sea, para cada crece el número para acá baja. Pero ustedes, cuando vean que esto trabaja.
+
+499
+00:48:05.750 --> 00:48:10.589
+Ariel Luis Cessario: va a ir, se va a ir llenando para este lado para acá arriba, para los números más bajos.
+
+500
+00:48:12.540 --> 00:48:17.769
+Ariel Luis Cessario: Entonces dudas, consultas hasta ahora, con esto
+
+501
+00:48:20.640 --> 00:48:26.240
+Ariel Luis Cessario: estamos todos bien. Les parece muy complicado. Por ahora, como cómo les les va apareciendo.
+
+502
+00:48:27.030 --> 00:48:30.239
+NICOLAS BOMBICINO: Me queda una consulta, que es.
+
+503
+00:48:30.240 --> 00:48:30.890
+Ariel Luis Cessario: Sí.
+
+504
+00:48:31.600 --> 00:48:41.510
+NICOLAS BOMBICINO: Qué es lo que me aparece dentro de este X. 32 ó 64 que no me puede aparecer, por ejemplo, en Lydra o en ida.
+
+505
+00:48:42.530 --> 00:48:47.469
+Ariel Luis Cessario: Primero, el tema principal es que son 2 programas que apuntan a 2 cosas diferentes.
+
+506
+00:48:47.640 --> 00:48:53.719
+Ariel Luis Cessario: Uno es para que vos veas estáticamente el Código y puedas analizarlo y retocarlo ahí.
+
+507
+00:48:54.210 --> 00:49:09.290
+Ariel Luis Cessario: Y esto es para que lo veas mientras se ejecuta, y lo que podés ver efectivamente en hidra, en un programa que no está en ejecución, puede ser totalmente diferente a lo que veas en un programa de ejecución. ¿por qué? Por lo que comentaba? Fede? Por ejemplo, ofuscación de código.
+
+508
+00:49:10.010 --> 00:49:13.649
+Ariel Luis Cessario: vos agarrás y vos sabéis, el vidra y el hidra por ahí no te muestra nada.
+
+509
+00:49:15.240 --> 00:49:24.259
+Ariel Luis Cessario: De hecho, por ahí se se tara el hidra, porque el código está muy, muy enroscado a propósito, ofuscado
+
+510
+00:49:24.480 --> 00:49:30.980
+Ariel Luis Cessario: y recién vos lo vas a ver funcional que lo vamos a averiguar eso y
+
+511
+00:49:33.910 --> 00:49:39.619
+Ariel Luis Cessario: vos lo vas a ver. Cuando lo ves funcional, vas a ver que a medida que pasan las instrucciones.
+
+512
+00:49:40.150 --> 00:49:50.160
+Ariel Luis Cessario: cambia el cambia el código para que te des una idea, entiendes, o sea, la diferencia es
+
+513
+00:49:50.270 --> 00:49:58.380
+Ariel Luis Cessario: principalmente, ya te digo que se usan para diferentes cosas. Uno es para que hagas estático y el otro es para que hagas dinámico y en el dinámico que efectivamente lo veas corriendo.
+
+514
+00:49:58.520 --> 00:50:02.150
+Ariel Luis Cessario: porque un programa corriendo no es lo mismo que un programa, descansando en la comp.
+
+515
+00:50:02.920 --> 00:50:04.230
+Ariel Luis Cessario: No sé si se entiende.
+
+516
+00:50:04.540 --> 00:50:05.649
+NICOLAS BOMBICINO: Sí. Sí. Perfecto.
+
+517
+00:50:06.650 --> 00:50:18.280
+FACUNDO DURIGON: Entonces a partir de ahora. Ya cuando es momento de hacer el análisis dinámico, no como hicimos con el Puting, por ejemplo, no le damos doble clic y lo abrimos, sino lo descargamos acá y lo corremos desde acá.
+
+518
+00:50:19.070 --> 00:50:25.549
+Ariel Luis Cessario: No, Eso no. Ninguna de las herramientas sustituye a la otra. Y ninguno de los análisis pisa al otro.
+
+519
+00:50:25.930 --> 00:50:29.990
+Ariel Luis Cessario: Los 4 análisis. Los tienes que seguir haciendo. Facundo los 4.
+
+520
+00:50:29.990 --> 00:50:36.579
+FACUNDO DURIGON: No, no, Eso sí. El tema es cuando yo lo tengo que correr A partir de ahora No, le no lo corro dándole doble clic. Lo tengo que correr.
+
+521
+00:50:37.080 --> 00:50:40.900
+Ariel Luis Cessario: Sí, Sí, sí, Por eso te digo, lo seguís haciendo lo seguís haciendo
+
+522
+00:50:41.690 --> 00:50:49.399
+Ariel Luis Cessario: el análisis estático. El análisis dinámico básico. Lo seguís haciendo tal cual lo venías haciendo antes, te agarras
+
+523
+00:50:50.580 --> 00:50:58.809
+Ariel Luis Cessario: lo ejecutas, lo ejecutas con el promón corriendo lo ejecutas con el
+
+524
+00:50:59.440 --> 00:51:05.180
+Ariel Luis Cessario: con el cómo se llama el T. C. P. View: Todo eso. Y lo ves. Y recién después
+
+525
+00:51:05.530 --> 00:51:14.369
+Ariel Luis Cessario: lo ejecutas porque porque vos lo que haces con la ejecución simple. Si yo te hago ejecutar esto muy difícilmente veas. Bien todos los indicadores.
+
+526
+00:51:15.350 --> 00:51:20.100
+Ariel Luis Cessario: o sea, una vez lo tenés que ejecutar así normal para medirlo.
+
+527
+00:51:20.280 --> 00:51:26.089
+Ariel Luis Cessario: Y después lo que tenés que ir haciendo es ir confirmando tus hallazgos.
+
+528
+00:51:26.710 --> 00:51:32.499
+Ariel Luis Cessario: Siempre vuelvo a lo mismo, viste que lo que tenemos que hacer nosotros es confirmar los hallazgos que vamos que vamos teniendo.
+
+529
+00:51:32.820 --> 00:51:35.290
+Ariel Luis Cessario: Y esto es efectivamente eso.
+
+530
+00:51:35.990 --> 00:51:41.980
+Ariel Luis Cessario: Entonces, efectivamente, es, o sea, agarrar y decir, bueno, está bien, ejecuto tacos Funciona
+
+531
+00:51:42.250 --> 00:52:02.060
+Ariel Luis Cessario: que hizo tal tal tal y tal bueno, ahora vamos a verlo efectivamente que me parece que hace tal otra cosa. Lo puedo frenar acá para ver a ver qué hace Che y qué hace cuando cree estar jugando, por ejemplo, vos una cosa que por ahí no ves cuando cuando haces la ejecución dinámica básica
+
+532
+00:52:02.140 --> 00:52:09.959
+Ariel Luis Cessario: es: qué instrucción se está ejecutando porque por ahí está ofuscada por ahí, está oculta. Y el próximo no te la deja ver y bla bla bla.
+
+533
+00:52:10.060 --> 00:52:20.510
+Ariel Luis Cessario: Entonces, agarras el Che. Yo sé que acá está pasando un parámetro, pero no lo estoy pudiendo encontrar. Entonces ahí ejecutas con el divagar y te fijas. Efectivamente, ¿qué es lo que se está enviando y qué es lo que se está revisando recibiendo?
+
+534
+00:52:21.500 --> 00:52:22.660
+Ariel Luis Cessario: Pero de nuevo.
+
+535
+00:52:23.290 --> 00:52:33.750
+Ariel Luis Cessario: por ejemplo, el que era. Creo que fue el mal, la pieza de malware del primer examen o o una de las primeras que bajábamos, que bajaba al Jaba Bike con
+
+536
+00:52:34.800 --> 00:52:40.289
+Ariel Luis Cessario: esa se puede ver desde el estático avanzado.
+
+537
+00:52:40.720 --> 00:52:43.010
+Ariel Luis Cessario: qué es lo que hace, Pero por ahí,
+
+538
+00:52:44.070 --> 00:52:47.680
+Ariel Luis Cessario: o sea, desde le desde el estático avanzado. Vos ves que lo copia, ¿no?
+
+539
+00:52:47.990 --> 00:52:57.540
+Ariel Luis Cessario: Pero por ahí hay algo más que hace que no lo estás viendo. Y con esto te puede ser más fácil verlo porque vas a hacerlo. Paso por paso, nosotros ahora estamos parados a
+
+540
+00:52:57.840 --> 00:53:00.379
+Ariel Luis Cessario: una cosa que me olvidé de decirles Acá arriba
+
+541
+00:53:00.510 --> 00:53:14.330
+Ariel Luis Cessario: Acá arriba donde dice módulo, ustedes saben en dónde estaban parados, fíjense. Si yo le doy volver a ejecutar me dice que están en E, en en en N, T, de L, L, Esto es lo que les decía que está en el último paso antes de darle el control A.
+
+542
+00:53:14.470 --> 00:53:17.720
+Ariel Luis Cessario: No están aho. Acá No estamos ni siquiera parados en nuestro programa.
+
+543
+00:53:19.360 --> 00:53:37.409
+Ariel Luis Cessario: Acá está el último, el último momento antes de que el Windows dice: Che. Te voy a dar a vos Windows a vos programa. Te voy a dar el control para que te empieces a ejecutar. Ya tené. Ya puedes hacer lo que quieras, o sea lo que quieras, vas a hacer lo que está programado, pero ya te doy ya te dejo para que lo empieces a hacer
+
+544
+00:53:38.770 --> 00:53:42.399
+Ariel Luis Cessario: un segundito. Estoy teniendo un problema acá con unas cosas.
+
+545
+00:53:43.380 --> 00:53:51.149
+Ariel Luis Cessario: Entonces tenemos que está parado ahí. Si nosotros le damos una vez
+
+546
+00:53:52.130 --> 00:53:54.460
+Ariel Luis Cessario: al F Cinc al F 9,
+
+547
+00:53:55.210 --> 00:54:00.550
+Ariel Luis Cessario: vamos a pararnos. Fíjense cambio, el módulo y arrancó en lo que nosotros
+
+548
+00:54:00.960 --> 00:54:05.749
+Ariel Luis Cessario: para lo que nosotros es el en el Endry Point.
+
+549
+00:54:06.660 --> 00:54:17.060
+Ariel Luis Cessario: Fíjense que acá dice dirección del Entry Point, esto es lo que consigue de los encabezados. Y con esos encabezados sabe dónde arranca el Entry Point entonces sabe que está ahí
+
+550
+00:54:17.860 --> 00:54:20.700
+Ariel Luis Cessario: en entonces.
+
+551
+00:54:20.930 --> 00:54:31.430
+Ariel Luis Cessario: Fíjense que si lo ven es más o menos bueno, la información que que que que ya bueno, se los voy a mostrar.
+
+552
+00:54:31.870 --> 00:54:36.230
+Ariel Luis Cessario: Fíjense que acá tenemos una una posición de memoria. No tenemos una dirección de memoria.
+
+553
+00:54:36.830 --> 00:54:42.939
+Ariel Luis Cessario: Lo que les comentaba es que nosotros, si queremos ver efectivamente a ver si el código es ese lo que tenemos que
+
+554
+00:54:43.410 --> 00:54:50.140
+Ariel Luis Cessario: ver. Primeramente, es si este en Trípoint es el mismo. Y fíjense de un detalle.
+
+555
+00:54:50.480 --> 00:54:56.269
+Ariel Luis Cessario: R, C, P: Coma, Su R, C, P, 28, No, entonces.
+
+556
+00:54:57.220 --> 00:55:00.789
+Ariel Luis Cessario: Ta: Ta: Ta: Sub, R. C, P: 28
+
+557
+00:55:01.720 --> 00:55:12.689
+Ariel Luis Cessario: esta instrucción parece que la misma Cold Mail Tarara, y acá. Empieza a cambiar. ¿por qué? Porque la forma que tiene de nomenclar. Una cosa es posiblemente diferente a la otra.
+
+558
+00:55:12.880 --> 00:55:16.829
+Ariel Luis Cessario: Entonces, salvo que hace un llamado a una función y después hace una R, C, P,
+
+559
+00:55:17.120 --> 00:55:28.500
+Ariel Luis Cessario: de 28 más. Entonces, si efectivamente está haciendo un al R, C, P, también de 28 y después tenemos un champ a una función también. Efectivamente.
+
+560
+00:55:28.830 --> 00:55:32.979
+Ariel Luis Cessario: Ahora, si nosotros lo queremos ejecutar y vamos a empezar a ejecutar con.
+
+561
+00:55:33.510 --> 00:55:44.830
+Ariel Luis Cessario: Vamos a ir con el Step Uber primero. Entonces yo voy a ver este power. Hizo acá que se yo y acá. Hizo. Acá Va a ser todo el seteo de la Simi Cookie.
+
+562
+00:55:45.200 --> 00:55:47.270
+Ariel Luis Cessario: ¿por qué? Porque lo sabemos del código
+
+563
+00:55:48.010 --> 00:55:51.170
+Ariel Luis Cessario: después de hacer esto, y ahora va a venir acá al mail.
+
+564
+00:55:52.400 --> 00:55:56.009
+Ariel Luis Cessario: Si yo ahora le doy, fíjense esto.
+
+565
+00:55:56.610 --> 00:56:00.019
+Ariel Luis Cessario: Vamos a hacer así. Lo voy a minimizar un poquito.
+
+566
+00:56:00.930 --> 00:56:04.150
+Ariel Luis Cessario: Fíjense esto. Si yo hago así, ahora
+
+567
+00:56:06.600 --> 00:56:10.790
+Ariel Luis Cessario: vamos a seguir un poquito más. Fus
+
+568
+00:56:11.420 --> 00:56:17.779
+Ariel Luis Cessario: como le está pasando. Me está. Me está haciendo caer bastante mal porque tendría que ya sí perdón.
+
+569
+00:56:17.960 --> 00:56:24.500
+Ariel Luis Cessario: Ahí está ahí. Me fui. Me fui de la de la ejecución. Pero si yo le doy acá acá tendría que haber ido
+
+570
+00:56:25.460 --> 00:56:30.890
+Ariel Luis Cessario: claro. Bueno, no es una función. Va Va al champ salta
+
+571
+00:56:32.760 --> 00:56:46.099
+Ariel Luis Cessario: donde le dice la instrucción porque no tiene otra forma donde irse, no puede saltar. Eso. Eso es que tenés que ir para allá, no necesariamente después del Jump, se vuelve al mismo lugar. El Jump es diferente al llamado de una función.
+
+572
+00:56:46.760 --> 00:56:53.079
+Ariel Luis Cessario: porque la función siempre devuelve el control al último paso, pero el Jump no necesariamente vuelve a ese último paso.
+
+573
+00:56:53.870 --> 00:57:11.179
+Ariel Luis Cessario: O sea, yo vengo ahí, pero después no es que siempre que vos te vas de un salto a otro lado del código de ese salto vuelvas a ese está todo dentro de lo mismo, pero no necesariamente. Por eso el Divager puede asumir que saltando esa función.
+
+574
+00:57:11.500 --> 00:57:17.170
+Ariel Luis Cessario: Lo que está haciendo está bien, No se corresponde con la ejecución formal.
+
+575
+00:57:18.400 --> 00:57:21.689
+Ariel Luis Cessario: Entonces va a donde tiene que saltar
+
+576
+00:57:22.100 --> 00:57:26.580
+Ariel Luis Cessario: ahora. Ya en este salto. A nosotros se nos complicó un montón.
+
+577
+00:57:27.040 --> 00:57:32.059
+Ariel Luis Cessario: ¿por qué? Porque yo no sé esta posición de memoria. ¿cuál es comparada con esta?
+
+578
+00:57:32.350 --> 00:57:38.730
+Ariel Luis Cessario: Porque no tienen la misma base. Fíjense que este arranca con 14 triple 0, y este es
+
+579
+00:57:40.140 --> 00:57:41.470
+Ariel Luis Cessario: con cualquier otro número
+
+580
+00:57:42.640 --> 00:57:48.140
+Ariel Luis Cessario: a una una consideración importante con el tema de los divagar no se puede volver para atrás.
+
+581
+00:57:48.480 --> 00:58:05.690
+Ariel Luis Cessario: Si yo quiero volver a la instrucción anterior, lo que tengo que hacer es reiniciar el programa. Entonces yo ahora lo reinicié. Vamos a dejar esto así? Acá un toque y vamos a ponernos acá de nuevo, Fíjense, yo tengo esta este, este comando, que
+
+582
+00:58:05.920 --> 00:58:10.589
+Ariel Luis Cessario: su Rcp 0 98, que es este que está acá pero fíjense en la posición de memoria
+
+583
+00:58:13.210 --> 00:58:14.779
+Ariel Luis Cessario: la parte de atrás.
+
+584
+00:58:15.430 --> 00:58:21.610
+Ariel Luis Cessario: El 13 38 es igual, porque es el mismo offset. Eso es difícil que cambie.
+
+585
+00:58:21.940 --> 00:58:26.120
+Ariel Luis Cessario: pero la base, pero la base es diferente.
+
+586
+00:58:26.920 --> 00:58:33.299
+Ariel Luis Cessario: Entonces, nosotros, si quería, si queremos hacer un seguimiento 1 a 1 de cada paso, qué es lo que se va dando?
+
+587
+00:58:33.740 --> 00:58:39.730
+Ariel Luis Cessario: Y más importante, si encontré algo en Hydra, y lo quiero encontrar acá, cómo hago.
+
+588
+00:58:41.690 --> 00:58:45.710
+Ariel Luis Cessario: les voy a mostrar los breakpoint. Y así les muestro
+
+589
+00:58:45.920 --> 00:58:48.440
+Ariel Luis Cessario: por qué esto del tema de idas y vueltas.
+
+590
+00:58:48.880 --> 00:58:59.620
+Ariel Luis Cessario: Fíjense, yo acá sabía que tengo un salto, ¿no? Si yo le doy al programa para que corra directamente. Se me cierra porque se me cierra porque cumple con la ejecución. Y termina
+
+591
+00:59:00.930 --> 00:59:06.319
+Ariel Luis Cessario: entonces yo lo vuelvo a ejecutar. Pero esta vez le voy a poner un break point acá
+
+592
+00:59:06.830 --> 00:59:13.330
+Ariel Luis Cessario: para poner un break point. Lo pueden hacer acá directamente por pantalla tocando el boton, el el
+
+593
+00:59:13.690 --> 00:59:17.330
+Ariel Luis Cessario: el circulito gris que tienen acá al lado de la memoria.
+
+594
+00:59:17.480 --> 00:59:20.749
+Ariel Luis Cessario: o pueden ponerlo acá por comando utilizando
+
+595
+00:59:21.150 --> 00:59:25.940
+Ariel Luis Cessario: B p. Y el la posición de memoria en la que ustedes quieren setear el breakpoint.
+
+596
+00:59:27.910 --> 00:59:31.490
+Ariel Luis Cessario: Si yo ahora le vuelvo a dar ejecutar. Fíjense que se frenó acá.
+
+597
+00:59:31.710 --> 00:59:41.909
+Ariel Luis Cessario: Los Break Points son puntos de freno. Si no estás frenando en ese break point puede ser porque está ya está saltando antes. Por ejemplo, si yo pongo un break point acá
+
+598
+00:59:42.800 --> 00:59:54.459
+Ariel Luis Cessario: vamos a volver a ejecutar esto. Fíjense que los Bret Point también se guardan de ejecución a ejecución y les van a quedar acá disponibles para que ustedes lo puedan ver, y acá, los pueden habilitar deshabilitar. Pueden hacer varias cosas también.
+
+599
+00:59:55.630 --> 01:00:06.240
+Ariel Luis Cessario: Entonces, fíjense, yo lo puse después del champ si yo ahora ejecuto. Fíjense que el programa igual finalizó porque porque nunca pasó por ese break Point porque saltó antes. A
+
+600
+01:00:06.530 --> 01:00:12.360
+Ariel Luis Cessario: Entonces eso es el porqué de este Break Point es medio inútil puesto ahí.
+
+601
+01:00:12.780 --> 01:00:18.639
+Ariel Luis Cessario: Entonces vamos a sacarlo ahora de nuevo, Yo estoy parado. Acá.
+
+602
+01:00:18.940 --> 01:00:29.810
+Ariel Luis Cessario: Y la posición de memoria no me coinciden con el programa de análisis estático que tengo yo. ¿y por qué me serviría eso? Porque vamos a buscar la función main.
+
+603
+01:00:30.040 --> 01:00:33.080
+Ariel Luis Cessario: Vamos a buscar la función main. Y entonces nos venimos, acá.
+
+604
+01:00:33.930 --> 01:00:36.170
+Ariel Luis Cessario: Vamos a poner acá. Acá. Está
+
+605
+01:00:37.090 --> 01:00:50.380
+Ariel Luis Cessario: y yo quiero ver qué es lo que está haciendo. Acá. Este es un Hola, mundo. Nada más. Pero entonces yo digo, Che. Me quiero parar acá. Quiero pararme justo antes de que imprima esto. ¿por qué? Porque, por ejemplo, puede ser el momento en el que me esté descifrando ya un
+
+606
+01:00:51.050 --> 01:00:56.849
+Ariel Luis Cessario: un mensaje de texto que yo necesito. Y sé que es ahí, porque lo estoy viendo en el hidra, porque lo encontré ahí.
+
+607
+01:00:57.400 --> 01:01:00.899
+Ariel Luis Cessario: Entonces agarro. Y digo, bueno, voy a copiar la posición de memoria.
+
+608
+01:01:01.320 --> 01:01:03.349
+Ariel Luis Cessario: Y voy a poner un break point acá
+
+609
+01:01:04.280 --> 01:01:10.040
+Ariel Luis Cessario: como hago para poner un break point. De nuevo, escribo, acá, bp, pego la posición de memoria y le doy enter
+
+610
+01:01:10.660 --> 01:01:20.380
+Ariel Luis Cessario: Fíjense que acá. Lo que me dijo es che tenes un error seteando el Bréacon. Porque, efectivamente, porque la base de la memoria es muy diferente a la una de la otra.
+
+611
+01:01:21.120 --> 01:01:24.240
+Ariel Luis Cessario: Ahí es donde entran estas pantallitas que les decía
+
+612
+01:01:25.260 --> 01:01:29.349
+Ariel Luis Cessario: que tenemos acá Lo primero es venirnos a la de Memory Map.
+
+613
+01:01:29.790 --> 01:01:35.390
+Ariel Luis Cessario: Y en la ventana de Memorymap. Buscar en donde está el nombre del ejecutable que nosotros estamos utilizando
+
+614
+01:01:35.780 --> 01:01:40.790
+Ariel Luis Cessario: lo que nosotros estamos analizando, nos paramos acá
+
+615
+01:01:40.950 --> 01:01:47.400
+Ariel Luis Cessario: sobre la izquierda y le decimos copiar copy padres
+
+616
+01:01:48.110 --> 01:01:50.770
+Ariel Luis Cessario: con esa dirección. Nos venimos al hidra.
+
+617
+01:01:53.140 --> 01:02:00.109
+Ariel Luis Cessario: ¿no? Este esta ventana. No nos venimos al Hydra. Y buscamos esto que es como si fuera una memoria Ram chiquitita
+
+618
+01:02:00.830 --> 01:02:07.820
+Ariel Luis Cessario: y adentro de esto. Fíjense que tiene todas las todas las posiciones de memoria de lo que es de lo que es el la distribución del programa.
+
+619
+01:02:08.310 --> 01:02:12.020
+Ariel Luis Cessario: Y buscamos el botón que dice set image base
+
+620
+01:02:14.300 --> 01:02:18.269
+Ariel Luis Cessario: y pegamos la dirección que copiamos del Divaver. Le damos, Ok.
+
+621
+01:02:18.490 --> 01:02:25.710
+Ariel Luis Cessario: Esto lo que va a hacer es un rebate completo de la de de por qué
+
+622
+01:02:26.700 --> 01:02:37.269
+Ariel Luis Cessario: el el hidra, el aire y todo eso igual descomprime el programa memoria y agarran una asignación de memoria que Hidra es casi siempre la misma, aunque es randomizada por
+
+623
+01:02:38.230 --> 01:02:39.359
+Ariel Luis Cessario: por el Windows.
+
+624
+01:02:40.250 --> 01:02:54.990
+Ariel Luis Cessario: agarra eso y lo pone en una posición de memoria y le da una dirección de memoria. Lo que puede hacer esto es agarrar y modificar eso para si che ponete en otra posición de memoria arranca en otra posición de memoria. Básicamente, gracias.
+
+625
+01:02:54.990 --> 01:03:00.769
+ARIEL ALEJANDRO QUINTERO: Pero podemos repetir esta parte de cómo se copia el memorymap del
+
+626
+01:03:01.000 --> 01:03:03.829
+ARIEL ALEJANDRO QUINTERO: X 64 veces, si no me equivoco y lo pone acá.
+
+627
+01:03:04.350 --> 01:03:05.739
+Ariel Luis Cessario: Sí, no hay problema.
+
+628
+01:03:07.190 --> 01:03:26.220
+Ariel Luis Cessario: Primero y principal, nos vamos estando en el módulo principal. No se queden en el Ntl, porque si no les va a ser más complicado, igual creo que lo carga de todas maneras, pero estemos seguros de que están en el main punto Exe. Vienen a la solapa de Memory Map en la pantalla principal del X, 32 a 64 de Bg.
+
+629
+01:03:27.670 --> 01:03:31.260
+Ariel Luis Cessario: Y lo que tienen que buscar acá específicamente es
+
+630
+01:03:31.520 --> 01:03:37.539
+Ariel Luis Cessario: la línea que tenga la columna de info, el nombre del ejecutable que están corriendo ustedes.
+
+631
+01:03:39.140 --> 01:03:46.490
+Ariel Luis Cessario: Esa es la parte, la la línea que les importa a ustedes vienen lo más a la izquierda que pueden en adrez la dirección.
+
+632
+01:03:46.970 --> 01:03:49.050
+Ariel Luis Cessario: Esa dirección es la dirección
+
+633
+01:03:50.130 --> 01:03:54.299
+Ariel Luis Cessario: en la que se cargó el programa a partir de ahí para abajo. Es lo que está todo.
+
+634
+01:03:54.870 --> 01:03:59.139
+Ariel Luis Cessario: Entonces copiamos el Adres.
+
+635
+01:04:00.330 --> 01:04:01.280
+Ariel Luis Cessario: Hola, gata.
+
+636
+01:04:02.590 --> 01:04:04.250
+Ariel Luis Cessario: Venimos al gidra.
+
+637
+01:04:05.090 --> 01:04:06.490
+Ariel Luis Cessario: Venimos al hidra
+
+638
+01:04:06.610 --> 01:04:13.119
+Ariel Luis Cessario: y en el hidra, buscamos la que es la memoria la que está acá arriba, que va a ser Display Memory Map
+
+639
+01:04:14.170 --> 01:04:14.990
+Ariel Luis Cessario: y
+
+640
+01:04:15.340 --> 01:04:21.539
+Ariel Luis Cessario: y tocamos la casita que es Set Image Base acá. Es donde seteamos el valor base de la imagen.
+
+641
+01:04:23.380 --> 01:04:36.359
+Ariel Luis Cessario: Y acá es donde lo pegamos. Yo ya si lo pego ahora. Bueno, no va a hacer nada, porque ya es la misma dirección, pero no sé si se entiende igual. Ahora termino con esto y les voy a dar 10 minutitos para que lo puedan hacer. Y me digan las a ver, por ejemplo, cuántos fueron los que
+
+642
+01:04:36.470 --> 01:04:44.850
+Ariel Luis Cessario: cuánto fueron efectivamente los que les quedó en la misma base, porque hay un montón de veces que te tenés la misma base y cuantos tuvieron que hacer el reves.
+
+643
+01:04:45.250 --> 01:04:46.550
+Ariel Luis Cessario: Entonces, una.
+
+644
+01:04:46.550 --> 01:04:49.300
+FACUNDO DURIGON: Profe? ¿qué te muestra.
+
+645
+01:04:49.680 --> 01:05:02.619
+Ariel Luis Cessario: Vamos a ponerlo en el aire, porque también yo lo quiero practicar, pero no me acuerdo exactamente dónde está. Así que déjame ver, porque lo vi el otro día. Pero todavía no me acuerdo de memoria en este
+
+646
+01:05:02.880 --> 01:05:10.450
+Ariel Luis Cessario: bager, no selective Bager yus mhm.
+
+647
+01:05:11.280 --> 01:05:21.410
+Ariel Luis Cessario: pero en que no debo tener, vamos vamos a preguntarle a la señora Ya Ribeys Aida, un segundo
+
+648
+01:05:21.600 --> 01:05:28.840
+Ariel Luis Cessario: entonces E tendrá Edit en el Edit está acá y acá en algún lado.
+
+649
+01:05:29.050 --> 01:05:42.120
+Ariel Luis Cessario: si ustedes lo ven, me dicen, pero acá Editch, segmento, segmentos, revesprogram.
+
+650
+01:05:43.110 --> 01:05:51.659
+Ariel Luis Cessario: Y acá estamos con el mismo. No estamos con el fi Creation. No probé el mail porque el mail saben que particularmente acá esperen, vamos a
+
+651
+01:05:52.100 --> 01:05:55.980
+Ariel Luis Cessario: mhm espere, vamos a hacer una cosa.
+
+652
+01:05:57.090 --> 01:06:00.660
+Ariel Luis Cessario: Vamos a abrir también el el main ahí en el en el otro.
+
+653
+01:06:01.840 --> 01:06:07.580
+Ariel Luis Cessario: Pero quiero hacer una carpeta. Si no se me ensucia. Todo gatita. Salí del medio
+
+654
+01:06:12.330 --> 01:06:19.470
+Ariel Luis Cessario: en excel, pero listo
+
+655
+01:06:22.550 --> 01:06:28.470
+Ariel Luis Cessario: open de esto en Excel Main?
+
+656
+01:06:28.920 --> 01:06:31.500
+Ariel Luis Cessario: Perfecto. Vamos a abrir este
+
+657
+01:06:38.520 --> 01:06:44.049
+Ariel Luis Cessario: Mhm: Entonces lo lo está abriendo, creo, a su velocidad. Pero
+
+658
+01:06:44.620 --> 01:06:47.050
+Ariel Luis Cessario: si vemos que se traba mucho ahí está,
+
+659
+01:06:50.510 --> 01:06:52.740
+Ariel Luis Cessario: ya está, me estás volviendo loco changuita.
+
+660
+01:06:57.390 --> 01:07:03.370
+Ariel Luis Cessario: Ahí está. Vamos a ver aquí en el análisis perfecto. Y acá. Está el Hola, mundo.
+
+661
+01:07:04.190 --> 01:07:09.540
+Ariel Luis Cessario: Vamos a ponerlo en vista de texto textuviese.
+
+662
+01:07:12.000 --> 01:07:17.970
+Ariel Luis Cessario: acá. Está y acá. Vamos a hacer entonces un edit, segmentos.
+
+663
+01:07:18.590 --> 01:07:22.790
+Ariel Luis Cessario: rebase program. Vamos a pegarle esto y vamos a ver
+
+664
+01:07:24.320 --> 01:07:28.460
+Ariel Luis Cessario: a ver cómo se cómo es el Uy. No me digas que me estoy quedando sin batería ni
+
+665
+01:07:29.890 --> 01:07:36.899
+Ariel Luis Cessario: se me está quedando sin batería. Esto por ahí en 20 min, tengo que cambiar de auriculares, y los otros a veces hacen problemitas.
+
+666
+01:07:37.230 --> 01:07:40.690
+Ariel Luis Cessario: Esperen a ver cómo tenemos que poner bien esto.
+
+667
+01:07:42.210 --> 01:07:49.659
+FACUNDO DURIGON: Ser. Cuando venías ahí a abrirse adres o segmento.
+
+668
+01:07:50.080 --> 01:07:50.870
+FACUNDO DURIGON: No.
+
+669
+01:07:50.870 --> 01:07:52.930
+Ariel Luis Cessario: No. I más race. Tiene que ser ahí.
+
+670
+01:07:52.930 --> 01:07:53.500
+FACUNDO DURIGON: Ajá.
+
+671
+01:07:53.990 --> 01:08:00.339
+Ariel Luis Cessario: Pero puede ser por el formato que me está viniendo de cosas por el formato que me está viniendo de acá de
+
+672
+01:08:02.510 --> 01:08:06.820
+Ariel Luis Cessario: ahora, si así me lo deja ahí, está ahí está.
+
+673
+01:08:07.100 --> 01:08:13.290
+Ariel Luis Cessario: Entonces ahora tenemos y fíjense que el logo Word lo tenemos en el 100 D, a ver
+
+674
+01:08:14.090 --> 01:08:21.389
+Ariel Luis Cessario: en el hidra aparte porque tengo ahora abierto 2. Vamos a cerrar este Fil Creation así no tenemos tanto.
+
+675
+01:08:21.520 --> 01:08:26.999
+Ariel Luis Cessario: Vamos a probar a ver si me lo salva. Sí, lo salvo sin problema.
+
+676
+01:08:27.319 --> 01:08:31.359
+Ariel Luis Cessario: ¿qué? Bueno, eso vamos a buscar el vidra
+
+677
+01:08:31.770 --> 01:08:47.580
+Ariel Luis Cessario: para enciende también. Fíjense que están todos en lo mismo. Y entonces lo que podemos hacer ahora, ya sea de un lado o del otro, podemos agarrar y también venir y copiar la dirección, no justo de el
+
+678
+01:08:47.960 --> 01:08:50.120
+Ariel Luis Cessario: la la instrucción anterior.
+
+679
+01:08:51.979 --> 01:08:56.679
+Ariel Luis Cessario: Y entonces agarramos, venimos acá. Y decimos
+
+680
+01:08:58.800 --> 01:09:01.259
+Ariel Luis Cessario: a tita que difícil que me los eches.
+
+681
+01:09:03.359 --> 01:09:07.110
+Ariel Luis Cessario: entonces en que admito a 1 de los chicos
+
+682
+01:09:07.430 --> 01:09:10.170
+Ariel Luis Cessario: entonces ahora tenemos acá la posición.
+
+683
+01:09:10.399 --> 01:09:18.659
+Ariel Luis Cessario: Y fíjense que si le damos, me dice break point set a tal punto. Si yo le hago clic al link que se genera, acá
+
+684
+01:09:19.069 --> 01:09:24.840
+Ariel Luis Cessario: vengo acá. Y fíjense dónde estoy. Efectivamente estoy en el punto anterior.
+
+685
+01:09:24.970 --> 01:09:35.009
+Ariel Luis Cessario: Al Hola mundo. Entonces ahora lo que puedo hacer es agarrar, venir acá abrir esto. Acá
+
+686
+01:09:35.260 --> 01:09:40.230
+Ariel Luis Cessario: porque recuerden que cuando estamos haciendo el divaging, el programa se está ejecutando de fondo.
+
+687
+01:09:40.540 --> 01:09:47.560
+Ariel Luis Cessario: Entonces yo vengo acá y le doy que ejecute y se va a frenar, porque está el break point. Se va a frenar justo antes
+
+688
+01:09:47.910 --> 01:09:53.309
+Ariel Luis Cessario: de la ejecución que le dije que me interesaba que era la de lo de lamundo.
+
+689
+01:09:53.830 --> 01:09:57.490
+Ariel Luis Cessario: Entonces agarro vamos a hacer un este power.
+
+690
+01:09:57.720 --> 01:10:06.970
+Ariel Luis Cessario: vamos a hacer acá. Y acá. Tendría que estar llamando en este punto. Tendría que estar llamando a él
+
+691
+01:10:07.870 --> 01:10:10.890
+Ariel Luis Cessario: cómo se llama al Print. F.
+
+692
+01:10:11.990 --> 01:10:15.549
+Ariel Luis Cessario: Fíjense que después de que ejecutó esta función.
+
+693
+01:10:16.980 --> 01:10:24.070
+Ariel Luis Cessario: Apareció el Print F Y tenemos. El Hola. Mundo.
+
+694
+01:10:25.790 --> 01:10:37.779
+Ariel Luis Cessario: Fíjense acá. Algunas cosas. Vamos a volver a ejecutarlo. Vamos a volver a ejecutarlo. Vamos a mirar ahora un poco lo que es esta esta parte de acá de la derecha
+
+695
+01:10:40.260 --> 01:10:41.300
+Ariel Luis Cessario: o no?
+
+696
+01:10:41.790 --> 01:10:50.949
+Ariel Luis Cessario: Vamos a hacer una cosa, porque tengo que cambiar los auriculares. Así que tómense 10 minutitos, 10 minutitos
+
+697
+01:10:52.240 --> 01:10:57.080
+Ariel Luis Cessario: para ver si pueden llegar hasta este punto.
+
+698
+01:10:57.500 --> 01:11:03.119
+Ariel Luis Cessario: Me gustaría ver alguno que efectivamente no haya podido, o sea, la idea, si pueden, todos.
+
+699
+01:11:03.530 --> 01:11:07.660
+Ariel Luis Cessario: Me parecería muy raro, porque en general esto trae dolores de cabeza.
+
+700
+01:11:07.880 --> 01:11:11.299
+Ariel Luis Cessario: Entonces traten de hacerlo.
+
+701
+01:11:11.680 --> 01:11:17.969
+Ariel Luis Cessario: Y díganme a ver cómo cómo les va alguno, ya está tratando de hacerlo.
+
+702
+01:11:18.540 --> 01:11:19.690
+Ariel Luis Cessario: No les pregunté.
+
+703
+01:11:20.500 --> 01:11:22.229
+MARTIN DAUS: Yo me perdí en el camino.
+
+704
+01:11:22.750 --> 01:11:29.740
+Ariel Luis Cessario: Te perdiste en el camino. Me parece perfecto. Igual. Eso Martín es lo que
+
+705
+01:11:30.070 --> 01:11:32.720
+Ariel Luis Cessario: lo que lo que me tenías que decir.
+
+706
+01:11:33.030 --> 01:11:40.740
+Ariel Luis Cessario: Es muy difícil esto de una de de primera mano. Y ¿Vos Sofi me dijiste, así como Ok, como que lo tenés hecho.
+
+707
+01:11:42.880 --> 01:11:43.530
+MARTIN DAUS: Mhm.
+
+708
+01:11:47.140 --> 01:11:49.519
+Ariel Luis Cessario: Sofy si querés escribirme, ah
+
+709
+01:11:49.810 --> 01:11:55.559
+Ariel Luis Cessario: que entendiste, pero yo te quiero haciendo el coso. Pues si no, pues ya sabes que se complica.
+
+710
+01:11:55.610 --> 01:12:00.220
+Ariel Luis Cessario: Ponete con la máquina virtual. Hacerlo porque mira que vas a pasar en un momento, ¿
+
+711
+01:12:00.250 --> 01:12:16.799
+Ariel Luis Cessario: No, hoy, no creo, porque No, no sé si llegamos con el tiempo, pero bueno, los dejo 10 min, nada más gente que así hago este cambio de auricular y todo eso, pero traten de traten de hacerle un toque. Si por ahí salgo y vuelvo a entrar. Bueno, es porque no me tomo los auriculares
+
+712
+01:17:11.620 --> 01:17:13.409
+Ariel Luis Cessario: a ver gente ahí. Me escuchan.
+
+713
+01:17:14.520 --> 01:17:15.120
+NICOLAS BOMBICINO: Sí.
+
+714
+01:17:16.050 --> 01:17:22.480
+Ariel Luis Cessario: Buenísimo, buenísimo, buenísimo. Bueno, ¿cómo van?
+
+715
+01:17:22.740 --> 01:17:26.990
+Ariel Luis Cessario: ¿cómo le fue con esto alguno? Con duda, problema tema con esto.
+
+716
+01:17:27.630 --> 01:17:39.880
+Ariel Luis Cessario: Martín vos querés compartir y y mostras hasta donde llegas, y en dónde te frenás show.
+
+717
+01:17:39.880 --> 01:17:50.589
+MARTIN DAUS: A, digamos, llegué tampoco la la gran explicación, pero yo me mando el cabezazo. No tengo problema.
+
+718
+01:17:50.590 --> 01:17:56.520
+Ariel Luis Cessario: No te frenan con nada guacho. Me parece cobertura, densidad.
+
+719
+01:17:57.590 --> 01:18:03.370
+Ariel Luis Cessario: Esto sofi no no influye. O sea, además acordate que
+
+720
+01:18:04.600 --> 01:18:21.619
+Ariel Luis Cessario: se con con red o sin red, porque en todos los casos, estás solo en el En el mejor de los casos, estás solo con una Internet, nada, pero no estás conectada a Internet. Efectivamente, no me asuste de que estás conectada a Internet porque me asusto en serio.
+
+721
+01:18:25.400 --> 01:18:29.729
+Ariel Luis Cessario: No, no, pero para vos estás con estás con Internet en la máquina virtual.
+
+722
+01:18:30.880 --> 01:18:35.870
+Ariel Luis Cessario: Sofi. Esa máquina no puede tener. No puede tener Internet acordate. Tiene un cartel rojo gigante.
+
+723
+01:18:37.250 --> 01:18:46.280
+Ariel Luis Cessario: Esa parte acordate que es la primera clase. Vimos el tema de seguridad.
+
+724
+01:18:47.080 --> 01:18:51.089
+Ariel Luis Cessario: Claro, ya ya está. Por eso estabas cometiendo el crimen.
+
+725
+01:18:53.960 --> 01:19:04.719
+Ariel Luis Cessario: No, Internet. No había, no había que habilitar nunca. Internet justamente es lo único que no se habilita en ningún momento en ninguna máquina virtual de laboratorio de
+
+726
+01:19:05.180 --> 01:19:08.869
+Ariel Luis Cessario: de de de de cosas o de mal, de reversi y de malware.
+
+727
+01:19:09.170 --> 01:19:14.280
+Ariel Luis Cessario: Eso es como decir, nada. Voy a traer de todos los márgos. Y los voy a dejar ahí corriendo
+
+728
+01:19:15.190 --> 01:19:18.990
+Ariel Luis Cessario: los archivos, no los descargas de Internet en el
+
+729
+01:19:19.510 --> 01:19:24.190
+Ariel Luis Cessario: sophi tenés que rever todas las clases, todas las clases.
+
+730
+01:19:28.120 --> 01:19:34.570
+Ariel Luis Cessario: Bueno, a ver, no se conecta a Internet. La máquina, la máquina principal, no se no se conecta.
+
+731
+01:19:34.990 --> 01:19:42.100
+Ariel Luis Cessario: los archivos se arrastran. Por eso están puestas las máquinas para bidireccionar en cuanto a lo que es el el arrastrado de archivos
+
+732
+01:19:42.390 --> 01:19:56.629
+Ariel Luis Cessario: o en el y te recomendaría que resetees tu máquina, porque no sé qué tan
+
+733
+01:19:57.430 --> 01:19:59.740
+Ariel Luis Cessario: qué tan complicada puedes llegar a estar
+
+734
+01:20:00.650 --> 01:20:04.889
+Ariel Luis Cessario: si no ejecutaste ninguna de las copias vivas de malware.
+
+735
+01:20:05.330 --> 01:20:17.580
+Ariel Luis Cessario: Sí, Sí, sí, ya estás Y, claro.
+
+736
+01:20:17.690 --> 01:20:23.950
+Ariel Luis Cessario: nada. Internet. Internet no no puede tener la máquina virtual.
+
+737
+01:20:24.480 --> 01:20:27.849
+Ariel Luis Cessario: Va a ver Martín. Perfecto.
+
+738
+01:20:28.680 --> 01:20:31.779
+Ariel Luis Cessario: Estás ahí? Excelente.
+
+739
+01:20:32.150 --> 01:20:38.669
+Ariel Luis Cessario: Ahora, el tema que tenés, vos, ¿cuál sería? ¿cómo podés poner el break point en el Hola, mundo.
+
+740
+01:20:40.360 --> 01:20:43.739
+MARTIN DAUS: No, en realidad no, porque lo tengo hecho
+
+741
+01:20:44.770 --> 01:20:53.040
+MARTIN DAUS: como eso como tal. Lo tengo hecho Ahora es un medio que llegué este Busc cuando lo
+
+742
+01:20:53.180 --> 01:20:54.750
+MARTIN DAUS: bueno, eso es otra.
+
+743
+01:20:54.750 --> 01:21:02.000
+Ariel Luis Cessario: Forma. El Eso es otra forma, o sea, pero ahora sí tenés que hacer el rebatse
+
+744
+01:21:02.320 --> 01:21:05.450
+Ariel Luis Cessario: tenés que hacer el rebase para que te quede todo en la misma base.
+
+745
+01:21:05.630 --> 01:21:11.940
+Ariel Luis Cessario: lo puedes hacer, o o esa parte era la que se te complicaba, porque No sé bien cuál era la duda que tenías.
+
+746
+01:21:12.320 --> 01:21:17.170
+MARTIN DAUS: La duda que me quedó a mí. Sí, era esa parte del rebate Okay.
+
+747
+01:21:17.900 --> 01:21:19.310
+Ariel Luis Cessario: Andar.
+
+748
+01:21:19.310 --> 01:21:23.229
+MARTIN DAUS: Había probado antes, pero no sé. Me perdí en el proceso.
+
+749
+01:21:25.450 --> 01:21:43.380
+Ariel Luis Cessario: Es perdón. Martínez. Es, como dice Nico, se bajan los archivos a tu computadora en general, tendrías que agarrar y tendrías que tener una carpeta excluida dentro de lo que es el dentro de lo que es el Windows, defender.
+
+750
+01:21:44.380 --> 01:21:48.339
+Ariel Luis Cessario: porque hay algunos algunos archivos que te los va a detectar como maliciosos.
+
+751
+01:21:48.690 --> 01:21:52.710
+Ariel Luis Cessario: No, no hace falta si no ejecutaste.
+
+752
+01:21:53.340 --> 01:22:10.159
+Ariel Luis Cessario: Mira si hubiera sido que ejecutaste a alguno de los malware, que efectivamente están subidos a la clase. Te tendría que decir que resetes totalmente. La máquina House no el no el tenías que resultar. Tenías que resetear tu máquina completa, porque posiblemente estuviera infectada con algo.
+
+753
+01:22:10.720 --> 01:22:14.719
+Ariel Luis Cessario: porque hay algunos de esos que saltan el sandbox.
+
+754
+01:22:14.920 --> 01:22:22.599
+Ariel Luis Cessario: Pero si no ejecutaste ninguno de los que estaban. Si si solo ejecutaste los programas
+
+755
+01:22:22.850 --> 01:22:32.730
+Ariel Luis Cessario: que eran de finalidad educativa y entonces Okay, El tema es que
+
+756
+01:22:32.830 --> 01:22:35.590
+Ariel Luis Cessario: tienes que tener mucho cuidado con eso, porque
+
+757
+01:22:36.080 --> 01:22:41.149
+Ariel Luis Cessario: bueno, nada de eso te puede afectar todo a vos y a todas las máquinas de la red de tu casa.
+
+758
+01:22:41.780 --> 01:22:51.029
+Ariel Luis Cessario: Y sí, es Heavy. Por eso esta materia es para hacerla con cuidado, porque podés terminar con un problema.
+
+759
+01:22:51.370 --> 01:22:59.809
+Ariel Luis Cessario: Además de que si ejecutas una instancia de algún malware y alguien te está detectando, puede ser peligroso.
+
+760
+01:23:00.970 --> 01:23:08.889
+Ariel Luis Cessario: Y una ahí. Martín. ¿vos Ya te copiaste la la la posición de memoria del X. D. G.
+
+761
+01:23:10.160 --> 01:23:12.169
+MARTIN DAUS: Sí lo había copiado. Lo del main.
+
+762
+01:23:12.850 --> 01:23:17.230
+Ariel Luis Cessario: Habías copiado de el mail. Perfecto. Eso ahora en la línea.
+
+763
+01:23:17.230 --> 01:23:18.380
+MARTIN DAUS: Que eso.
+
+764
+01:23:18.610 --> 01:23:21.990
+Ariel Luis Cessario: Está perfecto. Va a salir.
+
+765
+01:23:22.340 --> 01:23:23.130
+MARTIN DAUS: Tengo ganas.
+
+766
+01:23:23.130 --> 01:23:27.900
+Ariel Luis Cessario: Y ahora sí tienes que tocar la casita que está arriba al lado de la Cruz Roja.
+
+767
+01:23:29.230 --> 01:23:32.650
+Ariel Luis Cessario: y tomas arriba en la barra de navegación, y ahí pega la dirección.
+
+768
+01:23:33.060 --> 01:23:34.730
+MARTIN DAUS: Sí, Sí, Hasta acá. Llegué.
+
+769
+01:23:35.230 --> 01:23:36.180
+Ariel Luis Cessario: Okay. Perfecto.
+
+770
+01:23:36.180 --> 01:23:37.889
+MARTIN DAUS: Hasta ahí.
+
+771
+01:23:38.100 --> 01:23:43.859
+Ariel Luis Cessario: No, Pero tenés todo hecho ya Ahora, lo que tenés que hacer es lo siguiente: ahora cerrá esta ventana
+
+772
+01:23:46.090 --> 01:23:50.210
+Ariel Luis Cessario: Ahora ubica el mail Te acordás yendo a la derecha.
+
+773
+01:23:50.530 --> 01:23:53.609
+Ariel Luis Cessario: Si vas al programa de la derecha ahí baja a bajar.
+
+774
+01:23:54.660 --> 01:23:59.750
+Ariel Luis Cessario: y más o menos la función que está en la línea. 40 o 39. Creo que son
+
+775
+01:24:00.130 --> 01:24:07.409
+Ariel Luis Cessario: ¿no? ¿sí? 40. Ponle. Fíjate línea, no, perdón, 60, ¿no? 40 perdón estaba viendo más.
+
+776
+01:24:07.410 --> 01:24:08.139
+MARTIN DAUS: O qué.
+
+777
+01:24:08.440 --> 01:24:19.259
+Ariel Luis Cessario: Viendo chiquititos, las 60 selec clic ahí una sola vez dale sí, no hay problema.
+
+778
+01:24:19.680 --> 01:24:26.769
+Ariel Luis Cessario: Y Andá en realidad es un poquito más arriba. Es la función que termina F de mi.
+
+779
+01:24:27.170 --> 01:24:32.240
+Ariel Luis Cessario: Fíjate que es una. Esa fíjate que tiene los 3 Mov y el col.
+
+780
+01:24:35.130 --> 01:24:36.630
+MARTIN DAUS: Mhm: Claro.
+
+781
+01:24:37.090 --> 01:24:41.539
+Ariel Luis Cessario: Esa es la main. Entonces dale doble clic a full al de al lado
+
+782
+01:24:42.390 --> 01:24:46.570
+Ariel Luis Cessario: baja un poquito. Y fíjate que ahí tenés. El Hola. Mundo. Deberías tener.
+
+783
+01:24:46.570 --> 01:24:47.090
+MARTIN DAUS: Sí.
+
+784
+01:24:47.090 --> 01:24:50.230
+Ariel Luis Cessario: Mhm: Está ahí o no lo veo. Yo.
+
+785
+01:24:51.390 --> 01:24:52.580
+Ariel Luis Cessario: sí.
+
+786
+01:24:52.580 --> 01:24:53.620
+MARTIN DAUS: Es que.
+
+787
+01:24:53.620 --> 01:24:54.870
+Ariel Luis Cessario: Sí, creo.
+
+788
+01:24:55.780 --> 01:24:58.870
+Ariel Luis Cessario: Pero se ve media rara.
+
+789
+01:24:58.870 --> 01:25:00.580
+MARTIN DAUS: Sé, no sé porque esta me ha.
+
+790
+01:25:01.150 --> 01:25:04.240
+Ariel Luis Cessario: Sí, media media extraña, pero
+
+791
+01:25:04.350 --> 01:25:14.240
+Ariel Luis Cessario: nada es esa. Bueno. Fíjate que ahí tiene una posición de memoria al lado, o sea a la izquierda la columna, entonces puedes copiarte una posición de memoria cualquiera de esas.
+
+792
+01:25:14.630 --> 01:25:21.499
+Ariel Luis Cessario: No hace falta que lo selecciones todo. Si le das botón derecho, el botón derecho ahí o directamente con el cursor.
+
+793
+01:25:22.500 --> 01:25:26.769
+Ariel Luis Cessario: control C Copia y directo, y ya te copia el valor, ese.
+
+794
+01:25:27.330 --> 01:25:27.809
+MARTIN DAUS: O qué.
+
+795
+01:25:27.810 --> 01:25:30.860
+Ariel Luis Cessario: Más que nada, porque la selección a veces viste es Media Media Chunga.
+
+796
+01:25:30.860 --> 01:25:32.420
+MARTIN DAUS: Se me ve rara.
+
+797
+01:25:32.650 --> 01:25:35.680
+Ariel Luis Cessario: Media Chota, Sí. Ahora anda al X de Vejez.
+
+798
+01:25:38.180 --> 01:25:46.019
+Ariel Luis Cessario: Y anda a la pantalla de C, p. U, En realidad lo puedes hacer desde Acá también. No hay problema. Fíjate que abajo tenés una línea que es coma
+
+799
+01:25:47.150 --> 01:25:48.619
+Ariel Luis Cessario: abajo de todo.
+
+800
+01:25:48.620 --> 01:25:49.220
+MARTIN DAUS: Sí, Sí.
+
+801
+01:25:50.160 --> 01:25:53.949
+Ariel Luis Cessario: Ahí le haces un clic y escribís B, larga. P.
+
+802
+01:25:55.710 --> 01:26:01.460
+Ariel Luis Cessario: Espacio, y pegar a la posición de memoria que te acabas de copiar al enter.
+
+803
+01:26:01.700 --> 01:26:06.430
+Ariel Luis Cessario: ves que te dice Breakpoint, ese at ta ta ta sit abajo.
+
+804
+01:26:06.430 --> 01:26:07.220
+MARTIN DAUS: Sí.
+
+805
+01:26:07.720 --> 01:26:08.320
+MARTIN DAUS: Y entonces.
+
+806
+01:26:08.320 --> 01:26:12.650
+Ariel Luis Cessario: Fíjate que ahí te lo seteó. Si le das clic, ya te lleva a ese lugar.
+
+807
+01:26:13.300 --> 01:26:13.940
+MARTIN DAUS: Claro.
+
+808
+01:26:15.660 --> 01:26:17.840
+Ariel Luis Cessario: Uno más que no haya podido
+
+809
+01:26:20.790 --> 01:26:24.299
+Ariel Luis Cessario: o que quiera preguntar algo o que quiera comentar algo.
+
+810
+01:26:27.510 --> 01:26:32.859
+NICOLAS BOMBICINO: Yo estoy un par de pasos atrás, pero no quiero. No quiero consumir tanto tiempo ahora de última. Lo vemos después.
+
+811
+01:26:33.570 --> 01:26:36.670
+Ariel Luis Cessario: A mí no me jode que lo hagamos.
+
+812
+01:26:37.640 --> 01:26:42.959
+NICOLAS BOMBICINO: No. Lo que no. Lo que pasa es que no es en el no es en el X 86, y estoy sum.
+
+813
+01:26:44.100 --> 01:26:44.780
+Ariel Luis Cessario: No es.
+
+814
+01:26:44.780 --> 01:26:49.580
+NICOLAS BOMBICINO: También me cuesta encontrar la función para llegar hasta el Hello World y.
+
+815
+01:26:49.580 --> 01:26:57.959
+Ariel Luis Cessario: No hay problema. Si querés, lo vemos un poquito eso también. Porque no jode que lo lo revisemos y lo hagamos la verdad, que ayuda en general.
+
+816
+01:26:59.010 --> 01:27:06.300
+Ariel Luis Cessario: creo que ya se lo saben. Lo saben porque se los habrán dicho, pero los
+
+817
+01:27:06.510 --> 01:27:14.049
+Ariel Luis Cessario: cómo se llama en general, esas cosas terminan ayudando a los compañeros también. Así que si lo podemos ver, le parece.
+
+818
+01:27:14.050 --> 01:27:15.799
+NICOLAS BOMBICINO: Vale, te comparto.
+
+819
+01:27:16.370 --> 01:27:20.100
+Ariel Luis Cessario: Sí, espérame que no me está dejando Hacerte Cohoust.
+
+820
+01:27:21.370 --> 01:27:23.350
+Ariel Luis Cessario: No sé por qué. pues ya sé.
+
+821
+01:27:23.680 --> 01:27:30.770
+Ariel Luis Cessario: Ahí está un segundo, convertir en anfitrión. Ahora sí, ahí está
+
+822
+01:27:36.060 --> 01:27:38.050
+Ariel Luis Cessario: ahí. Te tendría que dejar mico.
+
+823
+01:27:38.360 --> 01:27:39.730
+NICOLAS BOMBICINO: Mhm.
+
+824
+01:27:43.890 --> 01:27:45.030
+NICOLAS BOMBICINO: Ahí se ven.
+
+825
+01:27:46.100 --> 01:27:48.459
+Ariel Luis Cessario: Todavía no hay estas. Ahora Sí, estamos.
+
+826
+01:27:48.580 --> 01:27:54.799
+NICOLAS BOMBICINO: Bueno, acá yo ya lo cargue, lo ejecute y estoy cargado acá en el Entrepoint.
+
+827
+01:27:55.160 --> 01:28:00.879
+Ariel Luis Cessario: Igual que estás en en el programa Ing Red. Pero vamos a hacerlo con este.
+
+828
+01:28:01.340 --> 01:28:03.419
+NICOLAS BOMBICINO: perdón y lo otro. ¿cuál era.
+
+829
+01:28:03.420 --> 01:28:06.650
+Ariel Luis Cessario: Mail punto exe. Pero no importa quédate con este.
+
+830
+01:28:06.830 --> 01:28:07.289
+NICOLAS BOMBICINO: Okay con.
+
+831
+01:28:07.290 --> 01:28:08.330
+Ariel Luis Cessario: Cuídate.
+
+832
+01:28:08.820 --> 01:28:10.520
+NICOLAS BOMBICINO: Está bien.
+
+833
+01:28:10.900 --> 01:28:11.950
+Ariel Luis Cessario: Mhm.
+
+834
+01:28:11.950 --> 01:28:18.639
+NICOLAS BOMBICINO: No. Y lo que me estaba pasando era que no encontraba acá en el al principio todo, Pero
+
+835
+01:28:19.270 --> 01:28:25.220
+NICOLAS BOMBICINO: este es el en Tripoint, pero no encontraba el el Hello World. Pero bueno, estaba buscando en otro programa.
+
+836
+01:28:25.760 --> 01:28:29.389
+Ariel Luis Cessario: Claro, por eso se te iba a complicar. Pero como estabas haciendo vos.
+
+837
+01:28:29.610 --> 01:28:33.949
+NICOLAS BOMBICINO: No me está. Creo que si no me confundo, pero tenía que ir en este que era el primero.
+
+838
+01:28:34.070 --> 01:28:38.079
+NICOLAS BOMBICINO: y esto me llevaba a esta parte de acá. Y tocar la primera función puede ser.
+
+839
+01:28:38.080 --> 01:28:42.180
+Ariel Luis Cessario: No. La primera. No tenés que buscar la que tiene 3 movie y un call
+
+840
+01:28:42.880 --> 01:28:47.930
+Ariel Luis Cessario: lo encontrás se lo encontrás más fácil. A la derecha.
+
+841
+01:28:48.870 --> 01:28:49.310
+NICOLAS BOMBICINO: Okay.
+
+842
+01:28:49.310 --> 01:28:52.130
+Ariel Luis Cessario: Da a la pantalla de la derecha bajá
+
+843
+01:28:52.240 --> 01:28:59.249
+Ariel Luis Cessario: y en las líneas más o menos. Fíjate que entre la 59 y la 64. Una cosa así.
+
+844
+01:28:59.250 --> 01:28:59.980
+NICOLAS BOMBICINO: Esta.
+
+845
+01:29:01.360 --> 01:29:08.069
+Ariel Luis Cessario: Ese sí, efectivamente es esa coll, la tenés. Ahora.
+
+846
+01:29:08.100 --> 01:29:08.690
+NICOLAS BOMBICINO: Ah, el tema.
+
+847
+01:29:08.690 --> 01:29:13.299
+Ariel Luis Cessario: A es la base de este programa. Es la misma que la base del otro.
+
+848
+01:29:13.940 --> 01:29:21.999
+NICOLAS BOMBICINO: acá. Tenemos eso, te digo, no tengo la.
+
+849
+01:29:22.000 --> 01:29:27.190
+Ariel Luis Cessario: Tenés La Entonces acá lo que tenés que hacer es lo de Memory Map. Te vas a la solapa de Memory Map.
+
+850
+01:29:27.470 --> 01:29:28.140
+NICOLAS BOMBICINO: Sí.
+
+851
+01:29:28.830 --> 01:29:41.200
+Ariel Luis Cessario: Igual. Gente vayan abriendo Este vayan abriendo in red, porque ahora les voy a mostrar algo con ref que está bueno para, y también porque es importante el tema de poder correrlo en un diván.
+
+852
+01:29:42.750 --> 01:29:50.800
+Ariel Luis Cessario: Entonces copiaste ahí la posición de memoria. Ahora vas a la casilla son la Comisión que más rápido sacó lo del ribate.
+
+853
+01:29:51.340 --> 01:29:52.130
+NICOLAS BOMBICINO: Pero que.
+
+854
+01:29:52.130 --> 01:29:54.769
+Ariel Luis Cessario: No sé si algo algo pasó la verdad.
+
+855
+01:29:54.770 --> 01:29:56.899
+NICOLAS BOMBICINO: Computadora inicial se me quedó trabado en.
+
+856
+01:29:57.260 --> 01:29:59.300
+Ariel Luis Cessario: Se te quedó pegado, el coso, no el.
+
+857
+01:29:59.540 --> 01:30:04.199
+NICOLAS BOMBICINO: Sí, Ahora hay ahora, por fin.
+
+858
+01:30:05.170 --> 01:30:06.659
+NICOLAS BOMBICINO: Ohh, Pará pará.
+
+859
+01:30:06.830 --> 01:30:09.240
+NICOLAS BOMBICINO: Se me está revoyendo. Luego, yo te la cojo.
+
+860
+01:30:09.240 --> 01:30:11.940
+Ariel Luis Cessario: Sí te te está haciendo una cosa muy raro
+
+861
+01:30:12.670 --> 01:30:22.699
+Ariel Luis Cessario: a ver que estoy diciendo justo mateo profe para el sample de la batalla Campal vale malware hecho en Go o Ras. No hay problema con eso.
+
+862
+01:30:22.960 --> 01:30:25.520
+Ariel Luis Cessario: Podés hacer el lo que quieras. Maté.
+
+863
+01:30:27.590 --> 01:30:30.380
+NICOLAS BOMBICINO: Okay. Ahí creo que eso debería estar.
+
+864
+01:30:31.360 --> 01:30:36.820
+Ariel Luis Cessario: Perfecto. Entonces ahora, si podés agarrar dale click a la ventana de la derecha.
+
+865
+01:30:37.100 --> 01:30:41.709
+Ariel Luis Cessario: porque cuando te hace el rebase la ventana central de la muerte. Pero la ventana de la derecha no.
+
+866
+01:30:42.100 --> 01:30:42.680
+NICOLAS BOMBICINO: Las aquí.
+
+867
+01:30:42.680 --> 01:30:45.169
+Ariel Luis Cessario: Y ya te vuelve a la a la función principal.
+
+868
+01:30:45.430 --> 01:30:46.040
+NICOLAS BOMBICINO: Perfecto.
+
+869
+01:30:46.040 --> 01:30:46.390
+Ariel Luis Cessario: Se es.
+
+870
+01:30:46.390 --> 01:30:46.720
+NICOLAS BOMBICINO: A que.
+
+871
+01:30:46.720 --> 01:30:47.440
+Ariel Luis Cessario: Eso es un.
+
+872
+01:30:47.860 --> 01:30:50.440
+NICOLAS BOMBICINO: Cuál es la que yo voy a mirar este o este.
+
+873
+01:30:50.970 --> 01:31:03.049
+Ariel Luis Cessario: La de abajo. A partir de ahí, la voz en donde te dice funciones ahí abajo te está esperando la función que estás encontrando. Y fíjate que ahí a la derecha, en griseíto, la columna más a la derecha. Un poco más abajo
+
+874
+01:31:03.500 --> 01:31:13.870
+Ariel Luis Cessario: ya te aparece el file Dad. Y todo eso que era ese el ejercicio que tenía que tenía. Este programa, que era el que teníamos que poner en password y crear el archivo y la sala sin temor.
+
+875
+01:31:14.300 --> 01:31:15.510
+NICOLAS BOMBICINO: Sí, Bien.
+
+876
+01:31:15.890 --> 01:31:22.750
+Ariel Luis Cessario: Entonces, ahora, casi querés, puedes copiar una posición de memoria de las que están sobre la columna de la izquierda y.
+
+877
+01:31:22.750 --> 01:31:23.279
+MARTIN DAUS: Profe de.
+
+878
+01:31:23.280 --> 01:31:25.240
+Ariel Luis Cessario: Scott: Sí.
+
+879
+01:31:25.640 --> 01:31:26.620
+MARTIN DAUS: Pregunta.
+
+880
+01:31:26.750 --> 01:31:29.869
+MARTIN DAUS: Me queda un poco de duda con el tema de que era el rebase.
+
+881
+01:31:29.870 --> 01:31:30.490
+NICOLAS BOMBICINO: Hobby.
+
+882
+01:31:31.380 --> 01:31:38.320
+Ariel Luis Cessario: El Ribat. Lo que hace es agarrar y decirle a Windows que recargue el programa y lo ponga en la misma.
+
+883
+01:31:38.320 --> 01:31:38.710
+MARTIN DAUS: Sapo.
+
+884
+01:31:38.710 --> 01:31:39.380
+Ariel Luis Cessario: Y muy.
+
+885
+01:31:39.380 --> 01:31:40.920
+MARTIN DAUS: Claro y los.
+
+886
+01:31:40.920 --> 01:31:41.309
+Ariel Luis Cessario: A la.
+
+887
+01:31:41.310 --> 01:31:44.250
+MARTIN DAUS: Deja entre el hidra y el aida.
+
+888
+01:31:45.040 --> 01:31:48.519
+Ariel Luis Cessario: Entre el entre todos, hidra aida.
+
+889
+01:31:48.520 --> 01:31:50.020
+MARTIN DAUS: No, no, aída, no.
+
+890
+01:31:50.020 --> 01:31:51.260
+Ariel Luis Cessario: Pero sí.
+
+891
+01:31:51.260 --> 01:31:53.320
+MARTIN DAUS: De de de.
+
+892
+01:31:53.760 --> 01:31:56.060
+Ariel Luis Cessario: El sarasa el sarasa de.
+
+893
+01:31:56.060 --> 01:31:57.699
+MARTIN DAUS: Cucaracha, la que.
+
+894
+01:31:57.700 --> 01:31:59.320
+Ariel Luis Cessario: Cucaracha es.
+
+895
+01:31:59.320 --> 01:32:00.040
+MARTIN DAUS: Ah.
+
+896
+01:32:00.040 --> 01:32:04.859
+Ariel Luis Cessario: Eso te lo ponen todos con la misma base. Dicen: Che. Todos arrancamos en
+
+897
+01:32:05.300 --> 01:32:09.700
+Ariel Luis Cessario: mistres al 1 000 para que tengamos todos la misma altura. ¿es eso.
+
+898
+01:32:09.700 --> 01:32:13.080
+MARTIN DAUS: Sí listo. Ok.
+
+899
+01:32:13.340 --> 01:32:19.420
+NICOLAS BOMBICINO: Acá ya copié la de la primera función que tenía File Dad puse acá Bp con el Address.
+
+900
+01:32:19.830 --> 01:32:20.180
+Ariel Luis Cessario: Sí.
+
+901
+01:32:20.180 --> 01:32:22.650
+NICOLAS BOMBICINO: ¿y acá. Cuál era este power.
+
+902
+01:32:23.240 --> 01:32:29.140
+Ariel Luis Cessario: Claro, Pero primero, bueno, no ahí le das Run, el que está a la izquierda del cuadradito.
+
+903
+01:32:30.420 --> 01:32:31.250
+NICOLAS BOMBICINO: E, T.
+
+904
+01:32:31.660 --> 01:32:32.280
+Ariel Luis Cessario: Sí.
+
+905
+01:32:33.100 --> 01:32:36.450
+Ariel Luis Cessario: Él no a ver, vuelve a darle.
+
+906
+01:32:36.560 --> 01:32:38.339
+Ariel Luis Cessario: Te tomó el break point.
+
+907
+01:32:38.470 --> 01:32:39.100
+NICOLAS BOMBICINO: Ahí va.
+
+908
+01:32:39.400 --> 01:32:44.700
+Ariel Luis Cessario: Ahí está. Y ahí debería estar a ver. Dale de nuevo. Vuelve a ejecutar. Dale otra vez.
+
+909
+01:32:44.700 --> 01:32:45.670
+NICOLAS BOMBICINO: Ran de vuelta.
+
+910
+01:32:46.150 --> 01:32:46.700
+Ariel Luis Cessario: Sí.
+
+911
+01:32:48.530 --> 01:32:52.640
+Ariel Luis Cessario: Pero ahí estás en el entry point. Fíjate que ahí estás en el entry point.
+
+912
+01:32:52.790 --> 01:32:53.400
+NICOLAS BOMBICINO: Sí.
+
+913
+01:32:53.400 --> 01:32:56.720
+Ariel Luis Cessario: Rum de nuevo. Ahora tendría que ir al otro Break Point que tenés vos.
+
+914
+01:32:57.070 --> 01:32:58.099
+NICOLAS BOMBICINO: Ya está proceso.
+
+915
+01:32:58.100 --> 01:32:59.050
+Ariel Luis Cessario: Ahora, sí,
+
+916
+01:32:59.190 --> 01:33:06.130
+Ariel Luis Cessario: Y ahí ya estás en la misma posición. Entonces ahí ya puedes empezar a ver efectivamente lo que está haciendo esa función y dónde se traba.
+
+917
+01:33:06.290 --> 01:33:08.729
+Ariel Luis Cessario: Y lo que tiene de 1 es que si agarras
+
+918
+01:33:09.190 --> 01:33:14.299
+Ariel Luis Cessario: y abrís la parte visual de hidra cat rocoso podes, ver
+
+919
+01:33:14.820 --> 01:33:21.380
+Ariel Luis Cessario: a qué posiciones de memoria te tendría que llevar igual. Si ustedes ven ahí en el ide de X de vejez
+
+920
+01:33:22.000 --> 01:33:30.309
+Ariel Luis Cessario: tienen a la izquierda, un O sea, si bajas un poquito más, tienen como unas líneas punteadas que salen.
+
+921
+01:33:31.550 --> 01:33:35.489
+Ariel Luis Cessario: Fíjense que son las flechitas como que salen y vuelven a entrar Exactamente esas.
+
+922
+01:33:35.700 --> 01:33:42.580
+Ariel Luis Cessario: Eso es Esos son los flujos de control, o sea, los 2, el flujo del programa.
+
+923
+01:33:42.760 --> 01:33:52.930
+Ariel Luis Cessario: ¿cómo se va para todos los para todos los lados? Entonces, vos sabes que si llega a la línea que termina.
+
+924
+01:33:54.120 --> 01:33:59.780
+Ariel Luis Cessario: no veo nada, así que no te voy a. No te voy a decir porque no veo.
+
+925
+01:33:59.780 --> 01:34:00.390
+NICOLAS BOMBICINO: Que no.
+
+926
+01:34:00.720 --> 01:34:09.179
+Ariel Luis Cessario: Pero nada. Si ves al principio de una de una de las niñitas te paras ahí, casi seguro. Eso es un champ.
+
+927
+01:34:09.680 --> 01:34:11.919
+Ariel Luis Cessario: si te fijas. Fíjate que es un Jn.
+
+928
+01:34:12.320 --> 01:34:16.460
+Ariel Luis Cessario: J. N, E te dice a donde salta dependiendo del valor.
+
+929
+01:34:16.460 --> 01:34:16.960
+NICOLAS BOMBICINO: Qué va.
+
+930
+01:34:16.960 --> 01:34:24.680
+Ariel Luis Cessario: De la Syro Flag, que es el fla de
+
+931
+01:34:24.810 --> 01:34:30.060
+Ariel Luis Cessario: que ustedes ven a las izquierdas. Hay un valor que se llama z F.
+
+932
+01:34:32.430 --> 01:34:41.360
+Ariel Luis Cessario: Ese valor es el que revisa para saber parado si tiene que saltar o no. Si tiene que continuar con la instrucción que le sigue
+
+933
+01:34:41.600 --> 01:34:47.959
+Ariel Luis Cessario: o si tiene que agarrar, y tiene que saltar hasta donde está. El fin de la flechita.
+
+934
+01:34:48.220 --> 01:34:53.200
+Ariel Luis Cessario: Trata de ejecutarlo ahora, pero con el este Power.
+
+935
+01:34:54.380 --> 01:34:55.930
+NICOLAS BOMBICINO: Directo, sin tocar nada más.
+
+936
+01:34:56.070 --> 01:34:59.019
+Ariel Luis Cessario: Sin tocar nada más. Es a darle con el este. Power
+
+937
+01:35:01.800 --> 01:35:11.289
+Ariel Luis Cessario: Dale. Fíjate cómo van cambiando los valores del de la derecha. Fíjate ahí cómo cambió el R. S. X. Ahora contiene el valor password.
+
+938
+01:35:11.810 --> 01:35:17.609
+Ariel Luis Cessario: Fíjate que agarro. Y en un momento se agarró, está haciendo el comper. Y ahora
+
+939
+01:35:17.900 --> 01:35:20.029
+Ariel Luis Cessario: vamos a ver qué haces. Y le volés a dar.
+
+940
+01:35:22.280 --> 01:35:23.770
+Ariel Luis Cessario: Se empieza a ir.
+
+941
+01:35:23.770 --> 01:35:24.340
+NICOLAS BOMBICINO: Es el.
+
+942
+01:35:25.160 --> 01:35:33.510
+Ariel Luis Cessario: Y se va a empezar a ir. ¿por qué? Porque ni siquiera tiene el password. Entonces, perfecto. Nico: te te saco el control de la pantalla, un toque.
+
+943
+01:35:33.870 --> 01:35:34.190
+NICOLAS BOMBICINO: De la.
+
+944
+01:35:34.190 --> 01:35:39.859
+Ariel Luis Cessario: Quiero mostrar unas cosas. ¿no? Por favor, entendió, quedó claro más o menos con eso.
+
+945
+01:35:39.860 --> 01:35:40.810
+NICOLAS BOMBICINO: Sí. Perfecto.
+
+946
+01:35:41.410 --> 01:35:45.710
+Ariel Luis Cessario: Excelente, buenísimo, más dudas sobre esto. Gente
+
+947
+01:35:49.300 --> 01:35:53.550
+Ariel Luis Cessario: más dudas sobre alguna de estas cosas. Estamos todos bien.
+
+948
+01:35:56.680 --> 01:36:03.200
+Ariel Luis Cessario: lo pudieron hacer. Bueno, entonces tomstones en Tons.
+
+949
+01:36:03.930 --> 01:36:05.380
+Ariel Luis Cessario: Vamos a abrir otro programa.
+
+950
+01:36:05.820 --> 01:36:07.009
+Ariel Luis Cessario: Vamos a abrir.
+
+951
+01:36:08.770 --> 01:36:12.170
+Ariel Luis Cessario: Vamos a abrir el que estamos viendo ahí, que es.
+
+952
+01:36:13.830 --> 01:36:16.000
+Ariel Luis Cessario: qué tenía de raro el ingeo.
+
+953
+01:36:17.690 --> 01:36:19.429
+MARTIN DAUS: No sé el que era de mi ingenulgar.
+
+954
+01:36:20.100 --> 01:36:30.520
+Ariel Luis Cessario: No debes tener nada. Sophie igual, si no. Pero por las dudas que monitorea las conexiones salientes. Fíjate si cómo se llama.
+
+955
+01:36:30.990 --> 01:36:32.870
+Ariel Luis Cessario: No tenés nada raro con
+
+956
+01:36:33.360 --> 01:36:38.159
+Ariel Luis Cessario: del T. C. P. Vi 1 de esos, y fíjate, pero no creo que tengas nada si no te hubieras dado cuenta.
+
+957
+01:36:38.820 --> 01:36:42.739
+Ariel Luis Cessario: ¿y qué me decías? Martín? Perdón.
+
+958
+01:36:43.530 --> 01:36:46.239
+MARTIN DAUS: Puede ser que esté compilado con mi G. Wm.
+
+959
+01:36:47.300 --> 01:36:48.830
+Ariel Luis Cessario: El.
+
+960
+01:36:48.830 --> 01:36:50.860
+MARTIN DAUS: Tirando. ¿a Adivinar. Sí.
+
+961
+01:36:50.860 --> 01:37:01.669
+Ariel Luis Cessario: El Isrev, si puede ser claro, no entraste al banco, no Sophie, porque eso sí hubiera sido bastante complicado.
+
+962
+01:37:02.380 --> 01:37:09.650
+Ariel Luis Cessario: no la las máquinas, estas en en en fuera de chiste no se usan para no se usan para nada más que para esto, para que sean.
+
+963
+01:37:10.430 --> 01:37:17.009
+Ariel Luis Cessario: Si me pueden dejar algo, no hay problema. No me enojo. No
+
+964
+01:37:17.320 --> 01:37:21.650
+Ariel Luis Cessario: con la cuenta a ver si alguien hace un depósito, la puta madre.
+
+965
+01:37:21.920 --> 01:37:28.369
+Ariel Luis Cessario: Bueno, entonces vamos a abrir acá también este.
+
+966
+01:37:29.370 --> 01:37:31.219
+Ariel Luis Cessario: Vamos a subir acá. Esto.
+
+967
+01:37:31.800 --> 01:37:35.070
+Ariel Luis Cessario: El red lo tengo. Acá Así que vamos a abrir ese.
+
+968
+01:37:36.520 --> 01:37:43.739
+Ariel Luis Cessario: O sea, Ohh, ¿Qué me pasó ahí con la máquina? Lo que estoy estoy infectado. Soy yo. Me parece
+
+969
+01:37:44.790 --> 01:37:46.640
+Ariel Luis Cessario: que flasheo feo que me dio.
+
+970
+01:37:47.110 --> 01:37:52.919
+Ariel Luis Cessario: Sí, puede ser que esté con minge. W, No, No me acuerdo exactamente este con que está,
+
+971
+01:37:53.490 --> 01:37:55.990
+Ariel Luis Cessario: pero puede ser tranquilamente.
+
+972
+01:37:56.790 --> 01:37:58.529
+MARTIN DAUS: Se apunta a eso La pregunta, igual.
+
+973
+01:37:58.990 --> 01:38:06.330
+Ariel Luis Cessario: No, No, en realidad lo de vo vos que decías? Lo de yo no sé ni que pregunté ahora.
+
+974
+01:38:06.920 --> 01:38:10.019
+MARTIN DAUS: Que tenía de raro el link ref.
+
+975
+01:38:10.240 --> 01:38:11.479
+Ariel Luis Cessario: No elías revolo tenía.
+
+976
+01:38:11.480 --> 01:38:12.779
+MARTIN DAUS: Otro parámetro.
+
+977
+01:38:13.150 --> 01:38:22.170
+Ariel Luis Cessario: Claro, tenía tenía 2 cosas. Primero, tenía que tener creada la el archivo en el disco, y segundo.
+
+978
+01:38:23.000 --> 01:38:29.430
+Ariel Luis Cessario: tenía que teníamos que ponerle pájara. Entonces necesitaba parámetro para la ejecución
+
+979
+01:38:29.570 --> 01:38:34.420
+Ariel Luis Cessario: y a su vez, necesitaba un archivo creado en el disco
+
+980
+01:38:34.960 --> 01:38:39.799
+Ariel Luis Cessario: para para poder ejecutarse y salir del flujo completo.
+
+981
+01:38:40.760 --> 01:38:49.820
+Ariel Luis Cessario: Entonces vamos a arrancar de nuevo. Por acá Supongamos que ya tenemos todo el análisis estático. Hecho. El análisis dinámico, básico. También he hecho y todo. Entonces empezamos a movernos acá
+
+982
+01:38:50.490 --> 01:38:58.470
+Ariel Luis Cessario: que bueno, vamos a esta función. Tag: Lo tengo, acá es esta función. Si tiene toda la mugre, esta que había visto antes.
+
+983
+01:38:58.760 --> 01:39:01.470
+Ariel Luis Cessario: Si lo miraba en los gráficos.
+
+984
+01:39:01.770 --> 01:39:09.569
+Ariel Luis Cessario: si lo miraba en los gráficos, me encontraba hiciste nivel. Tal
+
+985
+01:39:10.160 --> 01:39:28.150
+Ariel Luis Cessario: me encontraba con que venía hasta acá se fijaba a ver si Password estaba, hacía un string con pea y todo esto, nosotros medio que lo habíamos dilucidado a partir de suponer. Porque cuando nos metíamos acá en estas funciones, encontrábamos que estas funciones eran funciones de copiado.
+
+986
+01:39:29.520 --> 01:39:38.000
+Ariel Luis Cessario: Entonces, funciones de copiado funciones Estaba el f Open. Entonces sabíamos que estaba tratando de abrir un archivo para ver a ver qué qué había dentro.
+
+987
+01:39:38.220 --> 01:39:39.010
+Ariel Luis Cessario: Entonces es.
+
+988
+01:39:39.240 --> 01:39:47.319
+Ariel Luis Cessario: Sabemos que cuando venía por acá. Primero acciones sin comper contra esto y después, además, revisaba a ver si estaba el el
+
+989
+01:39:48.290 --> 01:39:55.430
+Ariel Luis Cessario: este, este archivo acá en el disco, y después salía todo eso. Pero esto es un programa muy simple.
+
+990
+01:39:55.570 --> 01:39:57.599
+Ariel Luis Cessario: Este es un programa muy simple.
+
+991
+01:39:58.390 --> 01:39:59.660
+Ariel Luis Cessario: Tiene muchos problemas
+
+992
+01:40:00.420 --> 01:40:17.350
+Ariel Luis Cessario: y creamos el archivo y funcionaba, pero por ahí, el archivo no es que solamente verifica que está creado, sino que verifica un patrón específico de cosas que está dentro metido y después hace otra comparación después hace otra y después hace otra, y después hace otra, y después hace otra, y después hace otra. Y si todas esas le dan Ok.
+
+993
+01:40:17.720 --> 01:40:22.709
+Ariel Luis Cessario: Ahí es donde pasa que nosotros lo que nos interesa es este camino de acá. Para que salga por acá
+
+994
+01:40:24.000 --> 01:40:26.699
+Ariel Luis Cessario: todos estos caminos, a nosotros no nos interesa.
+
+995
+01:40:28.280 --> 01:40:31.230
+Ariel Luis Cessario: Entonces, ¿qué podemos hacer
+
+996
+01:40:31.940 --> 01:40:42.740
+Ariel Luis Cessario: nuevo? Imagínense que les pide el pavo. Después le pide la creación de archivo después que el archivo tenga una cosita después que el archivo ya no lo tenga después, que se borren 3 ms después de que haga esto después que haga aquello.
+
+997
+01:40:43.730 --> 01:40:51.249
+Ariel Luis Cessario: Entonces vamos al al al programita. Este el zaraza divagar
+
+998
+01:40:52.620 --> 01:40:58.160
+Ariel Luis Cessario: o la cucaracha como estaba bautizada. Ahora, la cucaracha, 64. Vamos ahora.
+
+999
+01:40:58.280 --> 01:41:00.820
+Ariel Luis Cessario: Entonces nos paramos. Acá.
+
+1000
+01:41:00.960 --> 01:41:10.190
+Ariel Luis Cessario: Estamos parados en el programa. Venimos a Memorymap y buscamos dónde está el de red, acá. Listo, Vamos a agarrar y vamos a copiar
+
+1001
+01:41:10.750 --> 01:41:11.810
+Ariel Luis Cessario: la dirección.
+
+1002
+01:41:12.310 --> 01:41:23.210
+Ariel Luis Cessario: ¿por qué? Porque ya vi que las direcciones no son son muy parecidas, Así que vamos a necesitar un revés seguro. Hay varias veces en que no vale necesita regates. No, no es obligatorio. Este paso.
+
+1003
+01:41:24.170 --> 01:41:28.230
+Ariel Luis Cessario: hacemos un rebates, acá fijamos ac
+
+1004
+01:41:29.280 --> 01:41:32.000
+Ariel Luis Cessario: nos paramos acá en la función y decimos: bueno.
+
+1005
+01:41:33.990 --> 01:41:38.170
+Ariel Luis Cessario: el parámetro fácil que ya sabemos, es el
+
+1006
+01:41:38.970 --> 01:41:41.780
+Ariel Luis Cessario: el de coso. Nosotros queremos entrar.
+
+1007
+01:41:41.930 --> 01:41:57.989
+Ariel Luis Cessario: Acá Nosotros queremos entrar acá cuando hace esto, cuando hace este print. Efe Para nosotros, este print efe es el que nos está diciendo de que terminó. Con todo, si no me equivoco, no hay más nada, porque ya están los otros, los otros mensajes son 3.
+
+1008
+01:41:58.420 --> 01:42:08.080
+Ariel Luis Cessario: Entonces, como nosotros analizamos el programa y dijimos: Che. La última salida que a mí me interesa, la última salida que a mí me interesa es esta que dice muy bien.
+
+1009
+01:42:09.300 --> 01:42:14.710
+Ariel Luis Cessario: es esta que dice acá muy bien. Entonces a mí, lo que me interesa llegar a ese prink F.
+
+1010
+01:42:15.610 --> 01:42:21.670
+Ariel Luis Cessario: Entonces, para llegar a ese print, efe sé que está en esta posición de memoria. ¿ven acá
+
+1011
+01:42:21.980 --> 01:42:23.270
+Ariel Luis Cessario: y la copio.
+
+1012
+01:42:23.810 --> 01:42:29.470
+Ariel Luis Cessario: Vengo a la cucaracha y Acá vete.
+
+1013
+01:42:30.930 --> 01:42:35.110
+Ariel Luis Cessario: Le ponemos el break point. Ya está seteado y nos venimos. Acá
+
+1014
+01:42:35.870 --> 01:42:43.280
+Ariel Luis Cessario: Entonces decimos, excelente, Me siento hiper recontra regreso. Ya tengo analizado dónde quiero ir. Voy a llegar hasta ahí.
+
+1015
+01:42:43.450 --> 01:42:45.390
+Ariel Luis Cessario: Entonces le agarro y le doy ejecutar.
+
+1016
+01:42:46.340 --> 01:42:49.940
+Ariel Luis Cessario: Vuelvo a dar ejecutar, y espero a que me agarre el Breakpoint
+
+1017
+01:42:52.030 --> 01:43:01.320
+Ariel Luis Cessario: Ararat. Fíjense que acá está, crea. Está el el freno de ejecutándose. Fíjense, acá está la información que sé, yo
+
+1018
+01:43:02.030 --> 01:43:05.229
+Ariel Luis Cessario: desapareció. Me llegó el break Point, No.
+
+1019
+01:43:05.860 --> 01:43:06.790
+Ariel Luis Cessario: Por qué.
+
+1020
+01:43:06.990 --> 01:43:13.520
+Ariel Luis Cessario: Y primero y principal, porque hay 2 condiciones que ya sabemos que existían antes y nosotros no las estamos cumpliendo. Entonces.
+
+1021
+01:43:14.330 --> 01:43:22.720
+Ariel Luis Cessario: ¿qué podemos hacer? Vamos a recargar el programa Acá Hay varios pasos para varias herramientas que permite el Xdbg como para poder
+
+1022
+01:43:22.900 --> 01:43:28.630
+Ariel Luis Cessario: encarar estos problemas. Primero y principal, les permite hacer esto.
+
+1023
+01:43:29.030 --> 01:43:32.959
+Ariel Luis Cessario: Y dice: Che, ¿quieres ejecutar esto con un parámetro.
+
+1024
+01:43:33.530 --> 01:43:35.140
+Ariel Luis Cessario: Entonces venimos acá.
+
+1025
+01:43:35.710 --> 01:43:41.060
+Ariel Luis Cessario: Y podemos poner parámetros. Yo voy a poner el primer parámetro para que sea más fácil.
+
+1026
+01:43:42.080 --> 01:43:45.670
+Ariel Luis Cessario: Y dije, para que sea más fácil. Y me acordé cómo estaba escrito Password.
+
+1027
+01:43:47.190 --> 01:43:50.859
+Ariel Luis Cessario: Ahí la pasé mal. Entonces vamos a copiar esto.
+
+1028
+01:43:51.780 --> 01:43:52.760
+Ariel Luis Cessario: Copy.
+
+1029
+01:43:53.200 --> 01:43:55.689
+Ariel Luis Cessario: Vamos a ver si me copió lo que me debía copiar
+
+1030
+01:43:56.870 --> 01:44:00.020
+Ariel Luis Cessario: y acá se le puede pegar directamente esto.
+
+1031
+01:44:00.690 --> 01:44:07.240
+Ariel Luis Cessario: Otra cosa que vamos a hacer. Vamos a ir a los Breakpoints. Vamos a ir al Brepoint que pusimos nosotros
+
+1032
+01:44:07.450 --> 01:44:18.090
+Ariel Luis Cessario: y vamos a buscar un poquito antes en donde están las condiciones. Entonces vamos a ver, por ejemplo, que acá yo tengo un samp y acá tengo otro champ
+
+1033
+01:44:18.400 --> 01:44:23.230
+Ariel Luis Cessario: Entonces por la duda, me voy a parar. Acá ¿Por qué?
+
+1034
+01:44:24.160 --> 01:44:30.099
+Ariel Luis Cessario: Y porque de esa manera, yo sé que la función arranca por acá
+
+1035
+01:44:30.970 --> 01:44:37.070
+Ariel Luis Cessario: cómo están Además, los datos. Asumo que la función arranca por acá Y si me voy a buscar la liquida
+
+1036
+01:44:38.020 --> 01:44:46.259
+Ariel Luis Cessario: y busco, está en la vía 50, el inicio de la función. Y efectivamente, acá tengo el inicio de la función en 50. Entonces yo sé que la función arranca acá
+
+1037
+01:44:46.880 --> 01:44:49.330
+Ariel Luis Cessario: como yo la pude ver. Acá Yo
+
+1038
+01:44:50.050 --> 01:44:54.729
+Ariel Luis Cessario: ya la pude ver. Acá ya sé qué es lo que más o menos está haciendo en estos pasos.
+
+1039
+01:44:55.170 --> 01:44:57.729
+Ariel Luis Cessario: Porque lo vengo mirando básicamente.
+
+1040
+01:44:59.070 --> 01:45:02.750
+Ariel Luis Cessario: Entonces me vuelvo y digo ahora, sí,
+
+1041
+01:45:02.850 --> 01:45:07.959
+Ariel Luis Cessario: Si quiero, puedo poner 1 acá para decir a ver qué es lo que pasa con las con las variables. Entonces
+
+1042
+01:45:08.420 --> 01:45:11.940
+Ariel Luis Cessario: arranco con esto le vamos a dar
+
+1043
+01:45:12.410 --> 01:45:23.710
+Ariel Luis Cessario: play hasta que lleguemos ahora. Sí, efectivamente frenó en el Break Point y frenó en el Breakpoint, Porque justamente puse lo puse antes de las bifurcaciones
+
+1044
+01:45:24.090 --> 01:45:32.149
+Ariel Luis Cessario: y Puedo empezar a caminar gente de Frene Messi tienen consultas, dudas o algunas cosas de esas.
+
+1045
+01:45:33.450 --> 01:45:40.499
+Ariel Luis Cessario: Y vamos a ver mientras tanto. Mientras llegamos a eso, vamos a ver un poquito el tema del Stack. Fíjense, Acá tenemos el Stack.
+
+1046
+01:45:41.170 --> 01:45:48.290
+Ariel Luis Cessario: Y miren acá lo que dice su Rcp: 38. Rcp. Fíjense que es esto. Entonces, acá.
+
+1047
+01:45:48.970 --> 01:45:50.940
+Ariel Luis Cessario: Fíjense cómo va cambiando eso.
+
+1048
+01:45:51.860 --> 01:46:01.139
+Ariel Luis Cessario: Vamos a hacer todavía. No lo hace. Fíjense ahora el número de Rcp. Y fíjense cómo se movió tanto acá abajo como el valor de Rcp que cambió. Acá
+
+1049
+01:46:01.710 --> 01:46:05.060
+Ariel Luis Cessario: Y fíjense que el valor de Rcp es el mismo del valor del stand.
+
+1050
+01:46:06.720 --> 01:46:13.340
+Ariel Luis Cessario: ¿qué es lo que hizo agarró y restó 38 para dejar el espacio reservado para la función que va a ejecutar.
+
+1051
+01:46:14.240 --> 01:46:24.460
+Ariel Luis Cessario: Entonces lo primero que hace es agarrar y buscar el valor de Racks y lo mueve a este este cuadro del pointer que está en R. C Plus, 20.
+
+1052
+01:46:25.250 --> 01:46:34.670
+Ariel Luis Cessario: Entonces, si quieren rastrearlo más o menos, les cuento cómo cómo es, pero no me voy a poner a rastrearlo todo ahora o que podemos rastrear alguno. Es el
+
+1053
+01:46:34.830 --> 01:46:42.859
+Ariel Luis Cessario: 3 e e 8 que va a aparecer en algún lugar. De ahí, fíjense ahí donde se para donde se paró. Y
+
+1054
+01:46:44.280 --> 01:46:48.770
+Ariel Luis Cessario: y acá fíjense que puso el valor de 3 e 8,
+
+1055
+01:46:49.080 --> 01:46:53.080
+Ariel Luis Cessario: el valor que tenía asignado Racks.
+
+1056
+01:46:56.080 --> 01:47:00.110
+Ariel Luis Cessario: Y después lo que hace es mover el 8
+
+1057
+01:47:00.490 --> 01:47:10.890
+Ariel Luis Cessario: al e a X que tendría que ser esta partecita de acá lo que pasa, que no sé si se va a ver el cambio. Bueno, si se ve el cambio, fíjense que movió un 8 a la primera parte de él.
+
+1058
+01:47:11.100 --> 01:47:15.410
+Ariel Luis Cessario: Register R a X a la parte derecha de R a X.
+
+1059
+01:47:16.670 --> 01:47:32.359
+Ariel Luis Cessario: No, No, no conozco una forma de agarrar y decir que muevo solamente a la parte izquierda, a los a los 32 del eje de la izquierda. Así que en principio van a ver a X o R a X, No se preocupen, que no van a ir viendo ahí. Lo que sí pueden ver es
+
+1060
+01:47:32.550 --> 01:47:38.899
+Ariel Luis Cessario: A, H o A. L, Ay, perdón si a H o
+
+1061
+01:47:39.160 --> 01:47:45.380
+Ariel Luis Cessario: sí, No sé si Sa: no me acuerdo ahora a H o A, L o L, a a H. Ahora se.
+
+1062
+01:47:45.380 --> 01:47:47.899
+LUCAS MADRAZO: Jay helado en vez de X, L, o H.
+
+1063
+01:47:47.900 --> 01:47:53.110
+Ariel Luis Cessario: Pero no me acuerdo cómo era si era H A o H. Ahora se me haches.
+
+1064
+01:47:54.160 --> 01:47:55.359
+LUCAS MADRAZO: R, A, H.
+
+1065
+01:47:55.970 --> 01:48:02.530
+Ariel Luis Cessario: Sí va. Se va a ver. En algunos casos, se ve a H. Son los menos, pero se ve
+
+1066
+01:48:02.780 --> 01:48:05.779
+Ariel Luis Cessario: o a L depende, pero los van a encontrar.
+
+1067
+01:48:06.620 --> 01:48:13.390
+Ariel Luis Cessario: Entonces, bueno, acá. Tienen lo mismo todos movimientos que si quieren, los pueden ir siguiendo, los van a tener todos acá. A la derecha.
+
+1068
+01:48:13.940 --> 01:48:20.940
+Ariel Luis Cessario: los van a ir pudiendo seguir, pero vamos a avanzar un poquito hasta
+
+1069
+01:48:21.190 --> 01:48:23.819
+Ariel Luis Cessario: acá. Está haciendo el col. Este col
+
+1070
+01:48:24.000 --> 01:48:38.049
+Ariel Luis Cessario: nosotros suponemos, suponíamos, No suponemos ni suponíamos. Era un Era el coso. Era el string compart. Estoy diciendo mal, la función era el string compart que si lo buscamos en el 10 82
+
+1071
+01:48:38.770 --> 01:48:40.670
+Ariel Luis Cessario: en el 10 82
+
+1072
+01:48:41.850 --> 01:48:52.009
+Ariel Luis Cessario: y es 82, acá esta, el string compar efectivamente. Y los 2 parámetros con los que se está moviendo son el parámetro de entrada que es el paramuno
+
+1073
+01:48:52.380 --> 01:48:55.970
+Ariel Luis Cessario: y comparado con el string password que tenemos nosotros.
+
+1074
+01:48:58.150 --> 01:49:04.830
+Ariel Luis Cessario: Volvemos a la cucarachita Dame que tengo que hacer una cosita Bueno, que no esté escribiendo a nadie, afectó.
+
+1075
+01:49:05.350 --> 01:49:11.100
+Ariel Luis Cessario: No quiero tener ningún susto. Estuvimos con los ter estuvimos con el trabajo, Hasta las bolas, parecieron cada cosas raras
+
+1076
+01:49:11.460 --> 01:49:14.500
+Ariel Luis Cessario: en entonces
+
+1077
+01:49:14.740 --> 01:49:22.759
+Ariel Luis Cessario: tenemos el string con per que es esta función de acá porque porque la vimos en el aire en el hidra.
+
+1078
+01:49:23.960 --> 01:49:32.140
+Ariel Luis Cessario: Entonces acá lo que va a hacer esto es devolver un valor que ese valor va a ir a parar a R a X.
+
+1079
+01:49:32.720 --> 01:49:40.879
+Ariel Luis Cessario: ¿por qué? Porque todas las funciones devuelven él, devuelven el valor
+
+1080
+01:49:41.190 --> 01:49:47.709
+Ariel Luis Cessario: de cuando se resuelven las funciones, lo mandan siempre a R a X o a e a X,
+
+1081
+01:49:49.390 --> 01:49:53.879
+Ariel Luis Cessario: es la función específica de ese registro.
+
+1082
+01:49:54.410 --> 01:50:03.319
+Ariel Luis Cessario: Ahora se puede usar para otras cosas. Sí, se puede usar para otras cosas. Pero la función específica es guardar el resultado de las funciones.
+
+1083
+01:50:03.560 --> 01:50:05.379
+Ariel Luis Cessario: Es un contador para eso.
+
+1084
+01:50:06.110 --> 01:50:13.450
+Ariel Luis Cessario: Entonces seguimos avanzando. Y Fíjense que apareció 0, debería ser Okay.
+
+1085
+01:50:14.910 --> 01:50:17.620
+Ariel Luis Cessario: El test es una función completa
+
+1086
+01:50:18.970 --> 01:50:30.370
+Ariel Luis Cessario: que evalúa Efectivamente, no me acuerdo bien qué tiene adentro el test, pero es más de una instrucción. No es una sola instrucción. Y lo que hace es justamente revisar a ver si el valor que está
+
+1087
+01:50:30.600 --> 01:50:42.580
+Ariel Luis Cessario: que devolvió es el valor correcto. No es un valor de error. Mejor dicho, entonces, acá ahora este salto.
+
+1088
+01:50:42.880 --> 01:50:46.849
+Ariel Luis Cessario: este salto va a revisar el valor del sido flag.
+
+1089
+01:50:47.190 --> 01:50:54.659
+Ariel Luis Cessario: Ciro Flag está en 1, quiere decir que la respuesta dio 0. La respuesta anterior, la del test
+
+1090
+01:50:55.870 --> 01:51:03.460
+Ariel Luis Cessario: si eso es 0, entonces lo que debería pasar es, efectivamente, que el programa no se vaya para acá
+
+1091
+01:51:04.090 --> 01:51:06.790
+Ariel Luis Cessario: Ahora vamos a poner mal el password. Y lo vamos a ver.
+
+1092
+01:51:07.220 --> 01:51:09.810
+Ariel Luis Cessario: Entonces vamos a seguir ahora.
+
+1093
+01:51:14.120 --> 01:51:20.929
+Ariel Luis Cessario: La función acá va a seguir averiguando, acá va a volver a hacer. Este es Esta es la
+
+1094
+01:51:21.120 --> 01:51:27.130
+Ariel Luis Cessario: la función más complicada que era con el F Open. Y todo eso para revisar a ver Si efectivamente el archivo existía.
+
+1095
+01:51:29.180 --> 01:51:35.120
+Ariel Luis Cessario: entonces va a venir. Acá va a seguir a que para porque yo tengo el dat creado
+
+1096
+01:51:36.670 --> 01:51:40.440
+Ariel Luis Cessario: por ahí. Lo tengo creado el file Dak de antes. Y.
+
+1097
+01:51:45.010 --> 01:51:45.790
+Ariel Luis Cessario: Mhm.
+
+1098
+01:51:46.070 --> 01:51:49.130
+Ariel Luis Cessario: Hoy, no.
+
+1099
+01:51:54.650 --> 01:52:00.159
+Ariel Luis Cessario: Ehh El file, el file, el file, el file.
+
+1100
+01:52:02.290 --> 01:52:06.420
+Ariel Luis Cessario: Bueno, no, no lo tengo creado. Así que en principio no debería, No, no debería decirme.
+
+1101
+01:52:07.240 --> 01:52:12.850
+Ariel Luis Cessario: yo lo tengo. ¿no? Entonces ejecuto la función ejecuta la función
+
+1102
+01:52:14.000 --> 01:52:15.869
+Ariel Luis Cessario: y no me dio. No me dio un minuto.
+
+1103
+01:52:16.080 --> 01:52:17.409
+Ariel Luis Cessario: ¿por qué no me diste 1
+
+1104
+01:52:18.590 --> 01:52:21.190
+Ariel Luis Cessario: a ver? Vamos a seguir viendo. Entonces
+
+1105
+01:52:21.710 --> 01:52:25.610
+Ariel Luis Cessario: hago el testeo me fijo. El flag está en 1.
+
+1106
+01:52:26.270 --> 01:52:32.510
+Ariel Luis Cessario: Pero si efectivamente no lo tengo creado, este es J. E, Este es saltar
+
+1107
+01:52:33.190 --> 01:52:42.990
+Ariel Luis Cessario: si está saltar si está, si no está en 0 igual. No recuerdo siempre me cuestan un montón estas, pero es básicamente la contraria.
+
+1108
+01:52:43.440 --> 01:52:54.839
+Ariel Luis Cessario: Ahora decimos Che. La verdad que yo no quiero crear ese archivo porque no lo puedo crear porque la sarasa y acá el problema que hay es que me va a decir. Falta algo más que efectivamente se fue para este lado.
+
+1109
+01:52:56.270 --> 01:53:03.490
+Ariel Luis Cessario: Entonces, ¿cómo puedo solucionar eso? Si no tengo posibilidad de escribir el archivo, volvemos a ejecutar.
+
+1110
+01:53:04.400 --> 01:53:09.220
+Ariel Luis Cessario: Ya sabemos que hasta acá se ejecuta bien. Así que le voy a dar directamente con S.
+
+1111
+01:53:09.340 --> 01:53:12.380
+Ariel Luis Cessario: Y si yo quiero, también podría ponerle un
+
+1112
+01:53:13.870 --> 01:53:19.360
+Ariel Luis Cessario: un break point ahí para que se ejecute hasta ese lugar. Entonces estoy parado. Acá
+
+1113
+01:53:19.640 --> 01:53:23.569
+Ariel Luis Cessario: Y yo sé que este está validando contra esto.
+
+1114
+01:53:23.970 --> 01:53:28.110
+Ariel Luis Cessario: Y este valor, si es 1, el Z. F, F, Si es 1,
+
+1115
+01:53:28.520 --> 01:53:33.199
+Ariel Luis Cessario: se me va de la Se me va la función, pero como no lo puedo crear, hay algo que puedo hacer.
+
+1116
+01:53:33.660 --> 01:53:35.139
+Ariel Luis Cessario: Le doy doble clic
+
+1117
+01:53:36.580 --> 01:53:43.379
+Ariel Luis Cessario: y eso me permite cambiar el registro en tiempo real. Entonces, si yo ahora efectivamente le doy ejecutar.
+
+1118
+01:53:43.560 --> 01:53:45.339
+Ariel Luis Cessario: no se va a ir por ese look
+
+1119
+01:53:45.990 --> 01:53:48.600
+Ariel Luis Cessario: se va a ir, por donde yo quiero que vaya
+
+1120
+01:53:49.300 --> 01:53:52.039
+Ariel Luis Cessario: entonces ahí. Fíjense que me va a imprimir.
+
+1121
+01:53:52.890 --> 01:54:00.549
+Ariel Luis Cessario: Va a imprimir el muy bien, vamos a dejarlo que ejecute. Quieren que se vaya de esto. No me voy a ir del todo.
+
+1122
+01:54:00.730 --> 01:54:08.440
+Ariel Luis Cessario: pero fíjense que ahora efectivamente ejecutó los pasos como debía, pero sin el archivo creado.
+
+1123
+01:54:09.860 --> 01:54:11.949
+Ariel Luis Cessario: se entendió cómo lo vieron.
+
+1124
+01:54:14.080 --> 01:54:14.820
+NICOLAS BOMBICINO: Perfecto.
+
+1125
+01:54:17.260 --> 01:54:18.340
+Ariel Luis Cessario: Perfecto.
+
+1126
+01:54:18.710 --> 01:54:23.470
+Ariel Luis Cessario: Alguno con dudas alguna, cosa que les haya complicado.
+
+1127
+01:54:23.850 --> 01:54:28.600
+FACUNDO DURIGON: Profe. Esto lo entendí. El tema es que después era un malware que no sé lo que hace
+
+1128
+01:54:28.740 --> 01:54:30.799
+FACUNDO DURIGON: ahí me quiero ver, pero bueno.
+
+1129
+01:54:30.800 --> 01:54:33.130
+Ariel Luis Cessario: No vas a hacer otro deber.
+
+1130
+01:54:33.130 --> 01:54:37.960
+MARTIN DAUS: Eso mismo como que no entiendo por qué analizarlo
+
+1131
+01:54:38.720 --> 01:54:41.060
+MARTIN DAUS: tan bajo, digamos tan bajo nivel.
+
+1132
+01:54:41.760 --> 01:54:47.980
+Ariel Luis Cessario: Porque la verdad Martín hay algunos que son mucho más difíciles que todo esto.
+
+1133
+01:54:48.600 --> 01:54:53.630
+MARTIN DAUS: Obvio. O sea, en este caso, estaba bueno verlo porque sabemos lo que hace
+
+1134
+01:54:54.440 --> 01:54:59.499
+MARTIN DAUS: y vamos moviendo cada vez más bajo nivel, pero es como que si agarro 1 de 0, y lo veo.
+
+1135
+01:55:00.780 --> 01:55:02.840
+MARTIN DAUS: no sé.
+
+1136
+01:55:02.840 --> 01:55:03.389
+Ariel Luis Cessario: Cosas, a.
+
+1137
+01:55:03.550 --> 01:55:08.889
+MARTIN DAUS: Y no. O sea, no sé si voy a poder sacar conclusiones.
+
+1138
+01:55:09.730 --> 01:55:27.460
+FACUNDO DURIGON: Como como en tu caso de Recién no digo, si yo primero ejecuto un malware haciendo el el primer análisis, no con el T, C, P, El y todo eso, y el sistema crea registros, o o o de alguna manera registra que ya hizo determinados pasos y cuando lo vuelvo a ejecutar con esto no los hace.
+
+1139
+01:55:29.140 --> 01:55:33.560
+Ariel Luis Cessario: Eso puede ser que tenga un antivir. Ahí es donde entran las
+
+1140
+01:55:34.600 --> 01:55:40.570
+Ariel Luis Cessario: donde entran las otras herramientas que te comentaba de de de de sigilo para verlo con con sigilo.
+
+1141
+01:55:40.570 --> 01:55:41.180
+FACUNDO DURIGON: Okay.
+
+1142
+01:55:42.040 --> 01:55:50.219
+Ariel Luis Cessario: Y traten de agarrar algo que cuando ustedes lo ejecutan en el Divager
+
+1143
+01:55:50.390 --> 01:56:01.269
+Ariel Luis Cessario: no se salga automáticamente ni tenga algunas cosas raras, También lo que pueden hacer es revisar algunos right ups de algunas o algunas análisis hechos sobre la misma familia.
+
+1144
+01:56:01.400 --> 01:56:07.830
+Ariel Luis Cessario: el programa, la misma familia del programa y después simplemente agarrar y
+
+1145
+01:56:08.620 --> 01:56:13.280
+Ariel Luis Cessario: agarrar otra variante. Entonces ahí ya saben, por donde guiarse
+
+1146
+01:56:13.470 --> 01:56:16.290
+Ariel Luis Cessario: con lo que me decías Martín.
+
+1147
+01:56:16.870 --> 01:56:20.490
+Ariel Luis Cessario: Y en un momento, sabes por dónde arrancar.
+
+1148
+01:56:21.590 --> 01:56:34.609
+Ariel Luis Cessario: o sea, el el el año pasado, el cuatrimestre pasado hubo un malware que llegó justo. Llegó justo antes de la clase, y lo abrimos ahí. Y tienes un montón de cosas por donde tirar, te sorprenderías todo lo que vas a ver.
+
+1149
+01:56:35.400 --> 01:56:38.880
+MARTIN DAUS: No, no, Eso sí, digo, pero
+
+1150
+01:56:40.090 --> 01:56:46.040
+MARTIN DAUS: no sé si arrancaría por este, por el pues de a.
+
+1151
+01:56:46.040 --> 01:56:47.580
+Ariel Luis Cessario: Este es el último paso.
+
+1152
+01:56:47.810 --> 01:56:52.050
+MARTIN DAUS: Claro por eso. Pero claro
+
+1153
+01:56:52.570 --> 01:57:01.549
+MARTIN DAUS: es que sería mi último paso. Digamos que tanto más puedo profundizar en las conclusiones que yo saqué y con las demás cosas.
+
+1154
+01:57:01.740 --> 01:57:02.849
+MARTIN DAUS: por así decirlo.
+
+1155
+01:57:03.440 --> 01:57:10.440
+Ariel Luis Cessario: Mira en este si tenés código ofuscado. Esta es la única forma que vas a tener de verlo.
+
+1156
+01:57:12.220 --> 01:57:12.900
+MARTIN DAUS: Claro.
+
+1157
+01:57:13.480 --> 01:57:13.950
+Ariel Luis Cessario: Entiendes.
+
+1158
+01:57:13.950 --> 01:57:14.450
+MARTIN DAUS: No se.
+
+1159
+01:57:14.450 --> 01:57:14.870
+Ariel Luis Cessario: Es un.
+
+1160
+01:57:14.870 --> 01:57:18.380
+MARTIN DAUS: Este malware es el mejor ejemplo, porque ya de entrada lo conocíamos completo.
+
+1161
+01:57:18.810 --> 01:57:23.530
+Ariel Luis Cessario: Claro. Pero, por ejemplo, si tenés un pedazo de sylco ofuscado adentro no.
+
+1162
+01:57:24.130 --> 01:57:24.870
+MARTIN DAUS: Mhm.
+
+1163
+01:57:25.350 --> 01:57:29.400
+Ariel Luis Cessario: Y sabes que te lo inyecta en algún A, D. L.
+
+1164
+01:57:30.060 --> 01:57:33.819
+Ariel Luis Cessario: Si tenés que sacarlo de esa L L es bastante paja.
+
+1165
+01:57:34.350 --> 01:57:38.459
+Ariel Luis Cessario: Pero aún así te vas a tener que conectar con el Diván. Si vos querés el final.
+
+1166
+01:57:39.140 --> 01:57:49.730
+Ariel Luis Cessario: al puedes conectarte a la D. L Desde acá. Con el attage. Esto tiene una una función que te permite atacharte a programas que están activos
+
+1167
+01:57:51.660 --> 01:57:55.719
+Ariel Luis Cessario: y ver qué es lo que están corriendo. Y puedes controlar vos la ejecución.
+
+1168
+01:57:57.300 --> 01:57:57.980
+MARTIN DAUS: Mira.
+
+1169
+01:57:58.410 --> 01:58:01.230
+Ariel Luis Cessario: Te podés meter Y puedes decir, bueno.
+
+1170
+01:58:01.640 --> 01:58:11.060
+Ariel Luis Cessario: yo ya revisé. Y vi que con el process Explorer vi que este programa había quedado cargado en memoria.
+
+1171
+01:58:11.520 --> 01:58:14.989
+Ariel Luis Cessario: Este programa había quedado cargado en memoria
+
+1172
+01:58:15.320 --> 01:58:22.079
+Ariel Luis Cessario: en tal posición en tal delere. Entonces me atacho, está aquí y agarro y agarro el sila. Y le doy
+
+1173
+01:58:22.210 --> 01:58:34.089
+Ariel Luis Cessario: y recorto eso, y le empiezo a arrancar. La otra es agarrar el programa cuando se está ejecutando antes de que haga la inyección, agarras eso. Y te lo copias te lo llevas.
+
+1174
+01:58:34.370 --> 01:58:38.429
+Ariel Luis Cessario: Entonces, el divaga era ahí, es fundamental, de hecho, es
+
+1175
+01:58:39.720 --> 01:58:45.450
+Ariel Luis Cessario: para mí, es es la herramienta más importante que tienes al final.
+
+1176
+01:58:46.620 --> 01:58:49.539
+Ariel Luis Cessario: como para terminar, de dilucidar toda la ejecución.
+
+1177
+01:58:49.920 --> 01:59:00.069
+Ariel Luis Cessario: inclusive cuando hace cuando 3 programas como el que teníamos del Put I, que se ejecutaba y por ejecutado muy rápido, no llegas a ver la conexión en el Tcp View.
+
+1178
+01:59:00.600 --> 01:59:05.710
+Ariel Luis Cessario: Si vos ya lo abriste con el con el hidra, puedes reponer un break point
+
+1179
+01:59:06.440 --> 01:59:11.650
+Ariel Luis Cessario: antes o después y ver a ver cuáles son los datos con los que ejecuta la la conexión ahí,
+
+1180
+01:59:12.500 --> 01:59:22.030
+Ariel Luis Cessario: porque por ahí la conexión también está repartida en otro lado, está guardada como otro dato. Y justo antes de ese momento vas a ver los parámetros exactos, como se pasa.
+
+1181
+01:59:22.800 --> 01:59:27.209
+MARTIN DAUS: Sí. Lo de los Breakpoint es lo que veo. Más.
+
+1182
+01:59:27.380 --> 01:59:30.760
+MARTIN DAUS: Al menos yo lo veo como lo más que clave digamos.
+
+1183
+01:59:31.630 --> 01:59:32.550
+Ariel Luis Cessario: En.
+
+1184
+01:59:32.550 --> 01:59:32.880
+MARTIN DAUS: Ya.
+
+1185
+01:59:32.880 --> 01:59:33.340
+Ariel Luis Cessario: Muy bien.
+
+1186
+01:59:33.340 --> 01:59:35.310
+MARTIN DAUS: Dando pasitos en la ejecución.
+
+1187
+01:59:35.950 --> 01:59:42.899
+Ariel Luis Cessario: Claro y haber para el tema de que puedas cambiar los registros del procesador en tiempo real. Es
+
+1188
+01:59:43.050 --> 01:59:43.930
+Ariel Luis Cessario: un montón.
+
+1189
+01:59:44.770 --> 01:59:48.839
+Ariel Luis Cessario: O sea, imagínate que vos estás cambiando todo el flujo de ejecución de un programa.
+
+1190
+01:59:52.150 --> 01:59:53.000
+Ariel Luis Cessario: Sí.
+
+1191
+01:59:53.470 --> 01:59:55.919
+MARTIN DAUS: Me llamó la atención es que
+
+1192
+01:59:56.360 --> 01:59:58.309
+MARTIN DAUS: y pensé que se iba a hacer mierda, pero no.
+
+1193
+01:59:58.310 --> 02:00:05.020
+Ariel Luis Cessario: No. Eso pasa cuando agarras. Y si tenés el programa acá y lo estás ejecutando
+
+1194
+02:00:05.550 --> 02:00:07.949
+Ariel Luis Cessario: y quieres cambiar esto en tiempo real
+
+1195
+02:00:09.140 --> 02:00:17.419
+Ariel Luis Cessario: y lo cambias por más valores de los que deberían ser en vez de cambiarlo por una C. C. Lo cambias por 2 by, por ejemplo, ahí si rompiste todo el programa.
+
+1196
+02:00:18.300 --> 02:00:18.750
+MARTIN DAUS: Mhm.
+
+1197
+02:00:18.750 --> 02:00:26.239
+Ariel Luis Cessario: Osaka. También puedes escribir, o sea, acá podés cambiar lo que hay efectivamente de ejecución en memoria.
+
+1198
+02:00:27.430 --> 02:00:28.090
+MARTIN DAUS: Claro.
+
+1199
+02:00:28.520 --> 02:00:31.140
+Ariel Luis Cessario: Entonces ahí y también, puedes.
+
+1200
+02:00:32.590 --> 02:00:35.159
+Ariel Luis Cessario: Bueno, el segundo examen. Creo que es
+
+1201
+02:00:35.710 --> 02:00:48.520
+Ariel Luis Cessario: entonces el segundo examen o el final. No lo cambié desde acá pero lo cambié desde otro programa cambio. Una una cosa que no quería que se viera y directamente. Cuando yo estaba compilado, me metí y lo escribí y listo, y con eso ya estaba.
+
+1202
+02:00:48.700 --> 02:00:56.459
+Ariel Luis Cessario: Esa parte es en serio meterte debajo del capón del del auto y darle y darle para adelante con eso.
+
+1203
+02:00:57.370 --> 02:01:03.860
+Ariel Luis Cessario: Y lo puedes hacer bastante bastante puré. Lo que pasa es que también
+
+1204
+02:01:04.150 --> 02:01:07.309
+Ariel Luis Cessario: son horas q lo que le tenés que dedicar en general a esto.
+
+1205
+02:01:07.920 --> 02:01:08.690
+Ariel Luis Cessario: Esa es la parte.
+
+1206
+02:01:08.690 --> 02:01:10.640
+MARTIN DAUS: Sí, por supuesto.
+
+1207
+02:01:11.600 --> 02:01:14.509
+Ariel Luis Cessario: Después. La verdad es que es un
+
+1208
+02:01:15.850 --> 02:01:18.620
+Ariel Luis Cessario: es un muy lindo programa y es
+
+1209
+02:01:18.750 --> 02:01:23.480
+Ariel Luis Cessario: una muy linda tarea. En general, lo que empezás a encontrar en.
+
+1210
+02:01:23.710 --> 02:01:42.209
+Ariel Luis Cessario: bueno, gente más dudas, consultas. Me gustaría que se tomen 5 min 10 minutitos como para ver este programa, traten de hacer eso lo de cambiar el Flan. Y díganme a ver si les da un error o algo. Mientras tanto, contesto preguntas de lo que de lo que tengan de lo que quieran.
+
+1211
+02:01:42.900 --> 02:01:43.820
+Ariel Luis Cessario: Me van.
+
+1212
+02:01:43.820 --> 02:01:46.310
+NICOLAS BOMBICINO: Pensamiento. Quería hacer una consulta.
+
+1213
+02:01:46.700 --> 02:01:47.340
+Ariel Luis Cessario: Dígame, señor.
+
+1214
+02:01:47.340 --> 02:01:51.470
+NICOLAS BOMBICINO: Pues, me acuerdo que el Not Phetia, 1 de los malware.
+
+1215
+02:01:51.470 --> 02:01:51.870
+Ariel Luis Cessario: Sí.
+
+1216
+02:01:51.870 --> 02:01:57.909
+NICOLAS BOMBICINO: Tenía un archivo que lo buscaba en el No sé qué directorio que se llamaba Perfect
+
+1217
+02:01:58.110 --> 02:02:03.240
+NICOLAS BOMBICINO: o algo así. Y si existía, no infectaba esa máquina, entonces.
+
+1218
+02:02:03.240 --> 02:02:04.990
+Ariel Luis Cessario: Mira, vos no me acordaba yo de eso.
+
+1219
+02:02:05.280 --> 02:02:19.329
+NICOLAS BOMBICINO: Si sucediera eso, no más en esto, en esto iba a ver lo podríamos ver. O sea, como que busca un file con un nombre y le podemos cambiar el ciro flag para que esté en 0.
+
+1220
+02:02:19.630 --> 02:02:22.020
+NICOLAS BOMBICINO: Por ejemplo, una cosa así sí.
+
+1221
+02:02:22.020 --> 02:02:23.560
+Ariel Luis Cessario: Sin problema. Lo podrías hacer.
+
+1222
+02:02:23.740 --> 02:02:29.400
+Ariel Luis Cessario: si es que está hecho con un champ porque no es sólo esa comparación que puede.
+
+1223
+02:02:29.840 --> 02:02:37.850
+Ariel Luis Cessario: si son esas comparaciones las que puede hacer en general, pero pueden ser un poco más complejas y más rebuscadas que solamente comparar el nombre como está en este en este archivo.
+
+1224
+02:02:38.270 --> 02:02:45.710
+Ariel Luis Cessario: Pero sí podrías, si lo seguís y entendés, el flujo para dónde va y qué es lo que hace.
+
+1225
+02:02:46.040 --> 02:02:49.169
+Ariel Luis Cessario: porque, por ejemplo, de Lugo, no
+
+1226
+02:02:50.810 --> 02:02:57.229
+Ariel Luis Cessario: vos cambiaste una vez el sylow flag lo cambiaste a 0, pero lo va a volver a revisar.
+
+1227
+02:02:57.710 --> 02:03:04.030
+Ariel Luis Cessario: Y en en en equis cantidad de tiempo entiendes.
+
+1228
+02:03:04.320 --> 02:03:08.419
+Ariel Luis Cessario: tiene que verificar a ver si es es una copia o no legal.
+
+1229
+02:03:09.360 --> 02:03:14.210
+Ariel Luis Cessario: entonces eso te lo va a verificar, ¿no? Una vez te lo va a verificar 50
+
+1230
+02:03:15.190 --> 02:03:17.009
+Ariel Luis Cessario: 50 por minuto o por ahí,
+
+1231
+02:03:17.410 --> 02:03:28.119
+Ariel Luis Cessario: entonces ahí te puede llegar a servir eso. Pero por ahí un Fred está averiguando eso. Y vos lo cambiaste, dijiste, listo, ya lo tengo y ves que se te corta.
+
+1232
+02:03:29.910 --> 02:03:37.110
+Ariel Luis Cessario: Entonces por eso te digo, no necesariamente con cambiar. Una vez te sirve. Lo que ahí deberías cambiar
+
+1233
+02:03:37.560 --> 02:03:45.650
+Ariel Luis Cessario: es modificar toda la lógica que busca ese archivo, entender cómo va esa lógica, decirle que voy a reescribir este ejecutable.
+
+1234
+02:03:47.080 --> 02:03:51.110
+Ariel Luis Cessario: Voy a reescribir este ejecutarlo. Y voy a cambiar esta partecita de acá
+
+1235
+02:03:51.720 --> 02:03:58.560
+Ariel Luis Cessario: no es fácil, porque si quieres cambiar la lógica, lo que sí después podés meter son scripts acá
+
+1236
+02:03:58.960 --> 02:04:04.370
+Ariel Luis Cessario: Entonces por ahí podés agarrar directamente, hacer un script que cada vez que vea eso, haga el cambio.
+
+1237
+02:04:04.780 --> 02:04:07.619
+Ariel Luis Cessario: Yo, la verdad que los scripts no los manejo. Bien.
+
+1238
+02:04:07.740 --> 02:04:10.100
+Ariel Luis Cessario: me dijeron que es una herramienta
+
+1239
+02:04:11.000 --> 02:04:14.169
+Ariel Luis Cessario: recontra poderosa, pero no lo manejo bien, yo
+
+1240
+02:04:14.310 --> 02:04:27.369
+Ariel Luis Cessario: si puedo. Les Les voy a tratar de dar algo, porque me gustaría me gustaría meterle meterle mayor. Así que si puedo, en una de estas clases que nos van quedando También agrego esto
+
+1241
+02:04:28.080 --> 02:04:29.150
+Ariel Luis Cessario: en
+
+1242
+02:04:30.430 --> 02:04:38.099
+Ariel Luis Cessario: y con eso podrías cerrar, y podrías evitar que revises siempre esa carpeta o que siempre revise eso para saber si
+
+1243
+02:04:38.420 --> 02:04:44.110
+Ariel Luis Cessario: si termina infectando o no en
+
+1244
+02:04:45.340 --> 02:04:48.529
+Ariel Luis Cessario: y nada. Creo que no sé si con eso te contesté. Nico.
+
+1245
+02:04:48.530 --> 02:04:49.550
+NICOLAS BOMBICINO: Sí. Perfecto.
+
+1246
+02:04:50.690 --> 02:04:53.640
+Ariel Luis Cessario: Vos Martín, Querías decir algo más perdón.
+
+1247
+02:04:55.430 --> 02:04:56.610
+MARTIN DAUS: No, no. Por el momento No.
+
+1248
+02:04:56.950 --> 02:05:00.830
+Ariel Luis Cessario: okay okay, pensé que estabas pensé que estabas por decir algo, sí,
+
+1249
+02:05:01.450 --> 02:05:05.820
+Ariel Luis Cessario: perdón. Te voy a estar puteando con la garganta. Porque ahora me quedo picante.
+
+1250
+02:05:06.750 --> 02:05:14.409
+Ariel Luis Cessario: Bueno, alguno que tenga dudas, consultas, problemas con esto. ¿cómo vienen?
+
+1251
+02:05:18.260 --> 02:05:22.849
+Ariel Luis Cessario: Lo pudieron encontrar, pudieron hacer los rebates pudieron hacer todo.
+
+1252
+02:05:26.210 --> 02:05:36.800
+Ariel Luis Cessario: Vamos a hacer una cosa así. Ya terminan con eso. Y los dejo en vamos a agarren a ver
+
+1253
+02:05:39.530 --> 02:05:45.719
+Ariel Luis Cessario: Agarre el banchel.
+
+1254
+02:05:48.970 --> 02:05:53.519
+Ariel Luis Cessario: agarran el bayencel y traten de frenarse
+
+1255
+02:05:53.880 --> 02:05:58.749
+Ariel Luis Cessario: antes y después de que abra de que abra los puertos.
+
+1256
+02:05:58.920 --> 02:06:05.820
+Ariel Luis Cessario: Así lo así lo podemos ver, No les digo 1 para conectarse otra máquina. Pero este por lo menos que puedan verlo.
+
+1257
+02:06:06.210 --> 02:06:10.870
+Ariel Luis Cessario: Me gustaría que puedan ver con el tcp view cuando es que hace eso.
+
+1258
+02:06:22.690 --> 02:06:26.400
+Ariel Luis Cessario: Vayan abriendo. Vayan haciendo. Yo también lo voy a ir haciendo. Pero
+
+1259
+02:06:26.670 --> 02:06:30.080
+Ariel Luis Cessario: ¿cómo me gustaría que alguien lo pueda mostrar.
+
+1260
+02:06:31.580 --> 02:06:36.730
+Ariel Luis Cessario: Vamos a conseguir esto justo ahí donde tenés que ponerlo.
+
+1261
+02:06:39.020 --> 02:06:45.799
+Ariel Luis Cessario: y vamos a probar, ya que estamos, voy a voy a silenciarme un poquito. Vamos a
+
+1262
+02:06:46.420 --> 02:07:00.010
+Ariel Luis Cessario: hacerlo con el con el así. Me me voy acostumbrando en Shell toppy en su celular carpetita.
+
+1263
+02:07:07.310 --> 02:07:09.420
+Ariel Luis Cessario: Vamos a copiar esto.
+
+1264
+02:07:10.300 --> 02:07:11.530
+Ariel Luis Cessario: Vamos a abrir
+
+1265
+02:07:14.650 --> 02:07:15.350
+Ariel Luis Cessario: Mhm.
+
+1266
+02:07:17.870 --> 02:07:24.809
+Ariel Luis Cessario: Vamos a ver quién se quién quiere pasar a a a explicarlo, No.
+
+1267
+02:07:34.330 --> 02:07:37.340
+Ariel Luis Cessario: Bueno, este a ver lo que sea.
+
+1268
+02:07:40.460 --> 02:07:43.470
+Ariel Luis Cessario: Esto fue, Tengo que sentarme a revisar, pero tiene
+
+1269
+02:07:43.780 --> 02:07:47.110
+Ariel Luis Cessario: está buenísimo porque tienes acá todas las arquitecturas.
+
+1270
+02:07:50.190 --> 02:07:58.590
+Ariel Luis Cessario: depende de lo que estés abriendo. Claro, este lo que pasa es que es el Pro también, ah pudie alguno pudo ya bajárselo, instalarselo o ninguno probó.
+
+1271
+02:07:59.750 --> 02:08:00.770
+MARTIN DAUS: Yo lo instalé.
+
+1272
+02:08:01.430 --> 02:08:02.199
+Ariel Luis Cessario: Y qué tal.
+
+1273
+02:08:03.470 --> 02:08:06.899
+MARTIN DAUS: No sé bastante fácil. Es ejecutar el comando ese y.
+
+1274
+02:08:06.900 --> 02:08:07.480
+Ariel Luis Cessario: Por la.
+
+1275
+02:08:07.480 --> 02:08:08.680
+MARTIN DAUS: Y peores. La ruta.
+
+1276
+02:08:09.730 --> 02:08:10.990
+Ariel Luis Cessario: Y te funcionó sin problemas.
+
+1277
+02:08:11.650 --> 02:08:13.750
+MARTIN DAUS: Sí sí es el que estaba usando.
+
+1278
+02:08:14.370 --> 02:08:22.020
+Ariel Luis Cessario: Perfecto, excelente, buenísimo, excelente, también. Sofi. Y sí, franco, Está tranquilo.
+
+1279
+02:08:23.180 --> 02:08:25.910
+ARIEL ALEJANDRO QUINTERO: Alegre, porque ya la figura 1 instalada.
+
+1280
+02:08:26.290 --> 02:08:28.149
+Ariel Luis Cessario: Claro, pero ese es el free.
+
+1281
+02:08:28.640 --> 02:08:29.490
+ARIEL ALEJANDRO QUINTERO: okay.
+
+1282
+02:08:29.910 --> 02:08:35.569
+Ariel Luis Cessario: Ese es el free. Y me parece que ya cuando lo abrí, salí, te va a aparecer como que la licencia expiró y no te deja usarlo.
+
+1283
+02:08:39.770 --> 02:08:47.519
+Ariel Luis Cessario: El ejercicio fue lo cómo que el virus te lo borró, pero no deberían.
+
+1284
+02:08:49.430 --> 02:08:52.330
+Ariel Luis Cessario: no deberías tener un virus Ahora, todavía.
+
+1285
+02:08:57.040 --> 02:09:01.580
+Ariel Luis Cessario: Menos mal. Menos mal. No me asustes sofi.
+
+1286
+02:09:01.700 --> 02:09:03.070
+Ariel Luis Cessario: Y
+
+1287
+02:09:03.540 --> 02:09:11.949
+Ariel Luis Cessario: bueno, entonces, cuando aparecen así funciones como esta, decimos que ¿qué es lo que hace efectivamente, ¿dónde habría acá?
+
+1288
+02:09:12.640 --> 02:09:17.690
+Ariel Luis Cessario: ¿dónde es que abre Una de las cosas que están buenas de esto
+
+1289
+02:09:18.420 --> 02:09:29.490
+Ariel Luis Cessario: sería, por ejemplo, tratar de agarrar y frenarse en cada 1 de los pasos que ustedes les parecen más interesantes como para ver a ver qué es lo que está haciendo efectivamente ese programa.
+
+1290
+02:09:29.990 --> 02:09:31.040
+Ariel Luis Cessario: Entonces
+
+1291
+02:09:31.140 --> 02:09:39.549
+Ariel Luis Cessario: una de las cosas que pueden hacer es, por ejemplo, si yo no me acuerdo. ¿qué hace exactamente el W S. A. Entonces agarro
+
+1292
+02:09:42.070 --> 02:09:49.960
+Ariel Luis Cessario: y lo busco, o sea, un poco doble de S. A.
+
+1293
+02:09:51.260 --> 02:09:56.620
+Ariel Luis Cessario: Socket, es el doble B No es el A en M. S. D. L:
+
+1294
+02:09:57.420 --> 02:10:03.729
+Ariel Luis Cessario: Entonces tengo acá. A mí en general, me gusta más el inglés.
+
+1295
+02:10:04.940 --> 02:10:10.480
+Ariel Luis Cessario: pero no est no estaría apareciendo en inglés Bueno.
+
+1296
+02:10:14.900 --> 02:10:20.420
+Ariel Luis Cessario: y acá. Te dice, crea un socket enlazado a un proveedor de servicios de transporte específico.
+
+1297
+02:10:21.860 --> 02:10:25.160
+Ariel Luis Cessario: Qué parámetros recibe todos estos.
+
+1298
+02:10:25.770 --> 02:10:29.540
+Ariel Luis Cessario: Y acá te dice: 1, 2, 3, 4, 5, 6 parámetros.
+
+1299
+02:10:30.430 --> 02:10:38.320
+Ariel Luis Cessario: si nosotros vamos y vemos acá en la función. Fíjense que hay 1, 2, 3, 4, 5, 6 y
+
+1300
+02:10:39.270 --> 02:10:43.059
+Ariel Luis Cessario: parámetros que mueve, que son efectivamente los 6 parámetros de la función.
+
+1301
+02:10:44.370 --> 02:10:48.580
+Ariel Luis Cessario: Se saca una cosa que también se puede hacer. Nos vamos a la parte de texto.
+
+1302
+02:10:49.670 --> 02:10:58.780
+Ariel Luis Cessario: aunque no saben dónde está el doble dedazo que estás acá.
+
+1303
+02:10:59.040 --> 02:11:04.520
+Ariel Luis Cessario: Fíjense que tenemos. Entonces acá inclusive el aida, está también. Muy bueno.
+
+1304
+02:11:04.990 --> 02:11:09.669
+Ariel Luis Cessario: les dice cuál es el nombre del parámetro. Y si nosotros revisamos acá.
+
+1305
+02:11:10.550 --> 02:11:18.669
+Ariel Luis Cessario: Y se fijan en esta parte de acá. Vamos a ponerlo así. Vamos a venir. Acá acá están los parámetros, y Fíjense que lo que les comentaba la otra vez.
+
+1306
+02:11:19.980 --> 02:11:22.840
+Ariel Luis Cessario: El El parámetro
+
+1307
+02:11:23.140 --> 02:11:27.459
+Ariel Luis Cessario: a F es el primero, pero si ustedes lo ven, acá es El último que se está cargando
+
+1308
+02:11:29.340 --> 02:11:30.939
+Ariel Luis Cessario: es el último que se cargó.
+
+1309
+02:11:31.980 --> 02:11:40.719
+Ariel Luis Cessario: ¿por qué? Porque esto va al revés a efe tai protocolp protocol G. I: Wfl: Fíjense que son todos estos mismos
+
+1310
+02:11:40.950 --> 02:11:44.400
+Ariel Luis Cessario: parámetros que están, acá pero efectivamente invertidos.
+
+1311
+02:11:46.090 --> 02:11:55.660
+Ariel Luis Cessario: Entonces, esperen, voy a hacer una cosa, porque así tomar asistencia como resistencia.
+
+1312
+02:11:55.990 --> 02:12:06.110
+Ariel Luis Cessario: Díganme, si alguno no menciona que haya dejado dicho en el chat. Así lo lo veo, Mauricio. Estabas.
+
+1313
+02:12:10.860 --> 02:12:13.360
+Ariel Luis Cessario: Mauricio estaba había entrado en un.
+
+1314
+02:12:13.360 --> 02:12:13.790
+Mauricio MAURICIO ADALIAN: A fe.
+
+1315
+02:12:13.790 --> 02:12:16.850
+Ariel Luis Cessario: Apariciones. Sí, estás.
+
+1316
+02:12:16.850 --> 02:12:17.920
+Mauricio MAURICIO ADALIAN: Sí, Sí, estoy.
+
+1317
+02:12:18.400 --> 02:12:22.170
+Ariel Luis Cessario: Que era Mauricio el que había pasado al grupo Cuatro.
+
+1318
+02:12:23.880 --> 02:12:25.140
+Mauricio MAURICIO ADALIAN: No al 2.
+
+1319
+02:12:26.330 --> 02:12:30.059
+Ariel Luis Cessario: Sí, pero porque habías entrado último, pero después te tuvimos que pasar
+
+1320
+02:12:30.540 --> 02:12:36.610
+Ariel Luis Cessario: porque hay un felipe que me lo imaginé y quedó en el grupo 4. Así que ahora estás en el grupo 4.
+
+1321
+02:12:37.070 --> 02:12:41.329
+Mauricio MAURICIO ADALIAN: Ok, yo me sumé. Le mandé un mail profe hoy que recién aterricé y.
+
+1322
+02:12:41.330 --> 02:12:41.680
+Ariel Luis Cessario: Y la.
+
+1323
+02:12:41.680 --> 02:12:43.840
+Mauricio MAURICIO ADALIAN: Un rato. La clase sí sí.
+
+1324
+02:12:43.840 --> 02:12:44.400
+Ariel Luis Cessario: Sí.
+
+1325
+02:12:44.400 --> 02:12:48.049
+Mauricio MAURICIO ADALIAN: Lo hablaron hoy porque no llegué a ver el principio de la chapa. Ok.
+
+1326
+02:12:48.050 --> 02:12:53.999
+Ariel Luis Cessario: Lo hablamos hoy por eso, y teníamos que mencionar, te lo y ahora estamos cumpliendo. Y te lo estamos mencionando. Así que excelente.
+
+1327
+02:12:54.000 --> 02:12:55.159
+Mauricio MAURICIO ADALIAN: Dale: Bueno, gracias.
+
+1328
+02:12:55.160 --> 02:12:55.690
+Ariel Luis Cessario: El.
+
+1329
+02:12:55.690 --> 02:13:00.010
+Mauricio MAURICIO ADALIAN: Iba a dar la clase después, pero me quedo en el grupo 4. Entonces.
+
+1330
+02:13:00.370 --> 02:13:02.420
+Ariel Luis Cessario: Te quedas en el grupo Cuatro. Efectivamente.
+
+1331
+02:13:02.420 --> 02:13:02.930
+Mauricio MAURICIO ADALIAN: Mhm.
+
+1332
+02:13:02.930 --> 02:13:04.600
+Ariel Luis Cessario: Paulina.
+
+1333
+02:13:05.950 --> 02:13:07.149
+Ariel Luis Cessario: Estás por ahí.
+
+1334
+02:13:10.000 --> 02:13:13.929
+Ariel Luis Cessario: Paulina, ¿dónde está cava, pero en que, bueno
+
+1335
+02:13:16.830 --> 02:13:29.580
+Ariel Luis Cessario: a ver Paulina, Bueno, Paulina no está. Entonces está ese exequiel? Sí, estaba nico bombicino. Si estaba también.
+
+1336
+02:13:30.350 --> 02:13:36.440
+Ariel Luis Cessario: Francisco Dund: me parece que justo. Salió. Puede ser o Francisco está por ahí.
+
+1337
+02:13:36.440 --> 02:13:37.820
+NICOLAS BOMBICINO: No se acabe.
+
+1338
+02:13:38.070 --> 02:13:38.490
+MARTIN DAUS: Es el.
+
+1339
+02:13:38.490 --> 02:13:43.289
+Ariel Luis Cessario: Acaba de ir, bueno, pero estuvo así. Estuvo toda tarde. Martín Daus Está por ahí.
+
+1340
+02:13:43.910 --> 02:13:44.570
+MARTIN DAUS: Acá.
+
+1341
+02:13:45.080 --> 02:13:47.590
+Ariel Luis Cessario: Perfecto. Agustin Derrow.
+
+1342
+02:13:47.640 --> 02:13:48.570
+AGUSTIN DE ROO: ¡venga! Profe.
+
+1343
+02:13:49.190 --> 02:13:54.200
+Ariel Luis Cessario: Buenísimo nico diaz, buenísimo.
+
+1344
+02:13:54.200 --> 02:13:55.030
+NICOLAS DIAZ: No, entonces.
+
+1345
+02:13:55.030 --> 02:13:55.790
+Ariel Luis Cessario: Se de.
+
+1346
+02:13:56.170 --> 02:13:57.020
+FEDERICO JOSÉ DÓBALO: Presente.
+
+1347
+02:13:58.430 --> 02:14:00.410
+Ariel Luis Cessario: Facundo Bribon.
+
+1348
+02:14:02.620 --> 02:14:04.269
+FACUNDO DURIGON: Acá profe allá. Te doy.
+
+1349
+02:14:04.270 --> 02:14:05.070
+Ariel Luis Cessario: Buenísimo.
+
+1350
+02:14:05.070 --> 02:14:05.490
+MARTIN DAUS: Sí.
+
+1351
+02:14:05.490 --> 02:14:06.280
+Ariel Luis Cessario: Coma.
+
+1352
+02:14:09.130 --> 02:14:14.080
+Ariel Luis Cessario: Yo creo que no lo escuché a Juanma hoy seba cruz.
+
+1353
+02:14:14.810 --> 02:14:15.900
+SEBASTIÁN NICOLÁS FLORES CRUZ: Acá profe.
+
+1354
+02:14:16.460 --> 02:14:21.100
+Ariel Luis Cessario: Buenísimo, Franco Bangert.
+
+1355
+02:14:21.100 --> 02:14:22.000
+FRANCO GONZALO LEO BANGERT: Sí a que estoy.
+
+1356
+02:14:22.480 --> 02:14:23.380
+Ariel Luis Cessario: Perfecto.
+
+1357
+02:14:23.530 --> 02:14:25.920
+Ariel Luis Cessario: Cande también estaba por ahí.
+
+1358
+02:14:26.560 --> 02:14:27.610
+CANDELA LIS: Ahora estoy.
+
+1359
+02:14:28.830 --> 02:14:30.160
+Ariel Luis Cessario: Lucas Madrazo.
+
+1360
+02:14:30.850 --> 02:14:31.750
+LUCAS MADRAZO: ¡venga! Profe.
+
+1361
+02:14:32.490 --> 02:14:34.350
+Ariel Luis Cessario: Médicibo, Médici.
+
+1362
+02:14:34.950 --> 02:14:35.790
+MARIANO MÉDICI: La orga.
+
+1363
+02:14:36.470 --> 02:14:39.429
+Ariel Luis Cessario: Y si no Ari también estaba por ahí.
+
+1364
+02:14:41.040 --> 02:14:41.950
+ARIEL ALEJANDRO QUINTERO: Siempre hay que estudiar.
+
+1365
+02:14:42.560 --> 02:14:46.600
+Ariel Luis Cessario: Mateo estuvo, Creo que hasta recién hasta hace un ratito. Nada más.
+
+1366
+02:14:46.820 --> 02:14:55.499
+Ariel Luis Cessario: Sophie. También estabas ahí, demian de mira dónde estaba la verdad.
+
+1367
+02:14:56.380 --> 02:15:02.869
+Ariel Luis Cessario: Y franco, ¿Quién fue el que me dijo que se iba un toque por franco?
+
+1368
+02:15:03.700 --> 02:15:08.239
+Ariel Luis Cessario: Sí, fue franco, listo? Bueno, ya estamos con.
+
+1369
+02:15:08.510 --> 02:15:11.139
+Ariel Luis Cessario: Bueno, entonces volviendo a esto.
+
+1370
+02:15:12.160 --> 02:15:18.579
+Ariel Luis Cessario: fíjense que acá. Tenemos el código. Tenemos esto, que es básicamente la apertura del del Socket.
+
+1371
+02:15:20.110 --> 02:15:29.050
+Ariel Luis Cessario: Bueno, acá tenemos ya todo lo que sería el el guindeado por lo que parece. Y acá la parte que se queda en escucha
+
+1372
+02:15:29.720 --> 02:15:31.810
+Ariel Luis Cessario: acá es cuando acepta.
+
+1373
+02:15:33.200 --> 02:15:35.470
+Ariel Luis Cessario: Y vamos a ver, vamos a verlo un poco en Co.
+
+1374
+02:15:47.500 --> 02:15:50.290
+FEDERICO JOSÉ DÓBALO: Profe se cortó, No se lo está escuchando. Se está hablando.
+
+1375
+02:15:50.290 --> 02:15:51.190
+FACUNDO DURIGON: Sí. Yo perdí.
+
+1376
+02:15:51.190 --> 02:15:52.949
+MARIANO MÉDICI: Sí se engordó, se le murió.
+
+1377
+02:15:53.190 --> 02:15:56.529
+MARTIN DAUS: No, pero veo que se trabó la transmisión también, así que me parece que.
+
+1378
+02:16:32.250 --> 02:16:35.559
+Ariel Luis Cessario: Ente perdón, acá. Estoy, acá. Estoy acá. Estoy acá. Estoy acá. Estoy
+
+1379
+02:16:35.750 --> 02:16:43.450
+Ariel Luis Cessario: reclamar rol de anfitrión de anfitrión. Ahí está. Se me había cortado, perdón esta porquería. Se me
+
+1380
+02:16:43.850 --> 02:16:51.249
+Ariel Luis Cessario: No sé que toqué. Quería tocar F: 5. Lo toqué en la cosa. Me tiró del otro lado, casi no se salvaron.
+
+1381
+02:16:51.590 --> 02:17:01.989
+Ariel Luis Cessario: Mira, qué listo. Tu mensaje sofia, te tengo ahí anotada. Bueno, a ver. Entonces vamos. Acá. Bueno.
+
+1382
+02:17:02.920 --> 02:17:05.900
+Ariel Luis Cessario: Esto es algo que me pasó ya con las partes.
+
+1383
+02:17:05.900 --> 02:17:07.350
+FACUNDO DURIGON: Compartiendo. Profe, creo.
+
+1384
+02:17:07.350 --> 02:17:08.849
+Ariel Luis Cessario: Ah, lo estoy compartiendo. Perdón.
+
+1385
+02:17:12.500 --> 02:17:19.299
+Ariel Luis Cessario: Ahora, sí, esto es algo que me pasó y nada. No, no me hace del todo ven acá
+
+1386
+02:17:20.270 --> 02:17:28.090
+Ariel Luis Cessario: acá. La de compilación. No me la hizo. Entonces, eso es algo que todavía no sé qué problema es el que tiene. No sé si soy yo el que tiene un problema
+
+1387
+02:17:28.299 --> 02:17:32.290
+Ariel Luis Cessario: y nos vemos seba.
+
+1388
+02:17:32.650 --> 02:17:37.259
+Ariel Luis Cessario: No sé qué problema hay, pero bueno, es es básicamente que
+
+1389
+02:17:37.440 --> 02:17:39.949
+Ariel Luis Cessario: que no me deja hacerla de compilación ahí.
+
+1390
+02:17:40.120 --> 02:17:51.730
+Ariel Luis Cessario: Entonces vamos a agarrar el X X X. 64 de dejé.
+
+1391
+02:17:53.980 --> 02:17:58.869
+Ariel Luis Cessario: Vamos a abrir esto. Vamos a abrir el programa Open.
+
+1392
+02:17:59.750 --> 02:18:10.309
+Ariel Luis Cessario: Vamos a poner tú en Shell. Vamos a abrir este
+
+1393
+02:18:14.440 --> 02:18:16.309
+Ariel Luis Cessario: que es este. Es una cosa.
+
+1394
+02:18:18.139 --> 02:18:21.959
+Ariel Luis Cessario: Este es 32, fíjense este. Bueno, me quedo
+
+1395
+02:18:22.440 --> 02:18:24.880
+Ariel Luis Cessario: me quedo colgado. puede ser. Por eso
+
+1396
+02:18:26.110 --> 02:18:32.020
+Ariel Luis Cessario: tenga problemas con los de 32 bits. Este después tendría que revisar eso.
+
+1397
+02:18:34.469 --> 02:18:37.079
+Ariel Luis Cessario: X, 32 D, B, G.
+
+1398
+02:18:40.920 --> 02:18:46.380
+Ariel Luis Cessario: Es: ¿Vamos a sacar esto? Vamos a abrir la carpetita.
+
+1399
+02:18:47.650 --> 02:18:56.050
+Ariel Luis Cessario: Esto no sé por qué se me quedó en 32, tengo la más pálida idea, porque.
+
+1400
+02:18:57.020 --> 02:19:01.310
+Ariel Luis Cessario: pero bueno, nada vamos a agarrar y vamos a buscar el Memorymap.
+
+1401
+02:19:01.500 --> 02:19:06.269
+Ariel Luis Cessario: Vamos a buscar este este. Me parece que es justo en este caso.
+
+1402
+02:19:07.040 --> 02:19:11.580
+Ariel Luis Cessario: Quedó el mismo en este caso. Me parece que quedó el mismo.
+
+1403
+02:19:12.730 --> 02:19:15.720
+Ariel Luis Cessario: Aquí voy a cerrar esta ventana de mail.
+
+1404
+02:19:18.170 --> 02:19:23.160
+Ariel Luis Cessario: Sí, vamos a abrir acá.
+
+1405
+02:19:24.840 --> 02:19:28.309
+Ariel Luis Cessario: Vamos a hacer el rebase
+
+1406
+02:19:31.469 --> 02:19:38.769
+Ariel Luis Cessario: segmentos Program. Fíjense que es el mismo. Entonces este no tiene que cambiar. Yo ya sí le pongo un break Point acá
+
+1407
+02:19:40.400 --> 02:19:46.850
+Ariel Luis Cessario: ¿Y acá? ¿cómo se copia la Mhm: No tienen copia así.
+
+1408
+02:19:47.320 --> 02:19:49.689
+Ariel Luis Cessario: No me lo estoy pidiendo perdiendo Yo no.
+
+1409
+02:19:57.040 --> 02:20:03.730
+Ariel Luis Cessario: Copy, ahí está. Bueno, entonces vamos a hacer así. Vamos a hacer un breakpoint.
+
+1410
+02:20:04.540 --> 02:20:06.349
+Ariel Luis Cessario: Vamos a ponerlo. Acá.
+
+1411
+02:20:07.010 --> 02:20:09.079
+Ariel Luis Cessario: Vamos a ir a ese punto.
+
+1412
+02:20:09.330 --> 02:20:12.700
+Ariel Luis Cessario: Estamos acá. Y acá sabemos que es.
+
+1413
+02:20:14.220 --> 02:20:17.800
+Ariel Luis Cessario: No sé por qué copié ese justo antes del Kleegna Up.
+
+1414
+02:20:18.470 --> 02:20:22.580
+Ariel Luis Cessario: El recontrapedo copiese que me interesaba todo por Acá arriba.
+
+1415
+02:20:24.570 --> 02:20:32.579
+Ariel Luis Cessario: Fíjense, acá. Tienen lo del C. M. Punto Exe, Si quieren, si quieren, pueden agarrar y decir, bueno, está bien a ver cuándo se están ejecutando los comandos
+
+1416
+02:20:32.680 --> 02:20:36.109
+Ariel Luis Cessario: también. Este es el que yo quería copy.
+
+1417
+02:20:37.050 --> 02:20:40.190
+Ariel Luis Cessario: Sucede esto, el Pe.
+
+1418
+02:20:42.040 --> 02:20:46.050
+Ariel Luis Cessario: Entonces ahí tengo el Breakpoint, puesto. Entonces vamos a darle.
+
+1419
+02:20:48.430 --> 02:20:50.989
+Ariel Luis Cessario: Vamos a seguir dándole ahí. Ya estoy.
+
+1420
+02:20:51.120 --> 02:20:59.129
+Ariel Luis Cessario: Y ahora puedo empezar a ver acá a ver si efectivamente alguna de estas funciones es la que deja abierto el puerto escuchando.
+
+1421
+02:20:59.410 --> 02:21:02.220
+Ariel Luis Cessario: Porque acá también, si nosotros revisamos
+
+1422
+02:21:03.310 --> 02:21:09.699
+Ariel Luis Cessario: acá una de las cosas que se puede hacer es hacer la evaluación. No sé si esto me lo voy a dejar hacer.
+
+1423
+02:21:10.670 --> 02:21:18.350
+Ariel Luis Cessario: Follow in damp Follows, elects padres. Y acá.
+
+1424
+02:21:18.770 --> 02:21:20.619
+Ariel Luis Cessario: Lo que pasa es que acá no.
+
+1425
+02:21:21.310 --> 02:21:23.320
+Ariel Luis Cessario: Electric Tader es más 4.
+
+1426
+02:21:23.760 --> 02:21:29.659
+Ariel Luis Cessario: Sí, lo que pasa que lo voy a volver loco. Pero son estos valores justo con este. No es el mejor para para mostrarlo
+
+1427
+02:21:30.450 --> 02:21:32.480
+Ariel Luis Cessario: con este. No es el mejor para mostrarlo.
+
+1428
+02:21:33.700 --> 02:21:37.230
+Ariel Luis Cessario: Bueno, se los voy a se los voy a mostrar mejor la semana que viene.
+
+1429
+02:21:38.090 --> 02:21:39.690
+Ariel Luis Cessario: Mhm.
+
+1430
+02:21:41.680 --> 02:21:43.839
+Ariel Luis Cessario: A ver si hay alguna forma de verlo fácil.
+
+1431
+02:21:47.460 --> 02:21:48.840
+Ariel Luis Cessario: Following nump
+
+1432
+02:21:52.740 --> 02:21:55.790
+Ariel Luis Cessario: Sí, no.
+
+1433
+02:21:57.920 --> 02:22:04.179
+Ariel Luis Cessario: Bueno, No, no está para verlo fácil. No importa. Vamos a seguir con esto. Y vamos a ver si, efectivamente, después de esto.
+
+1434
+02:22:04.380 --> 02:22:08.659
+Ariel Luis Cessario: a ver si lo veo acá, o no, no, todavía, no, entonces tengo que seguir.
+
+1435
+02:22:11.560 --> 02:22:20.700
+Ariel Luis Cessario: o sea, puedo seguir buscando. Este. Me parece que dejaba abierto el puerto No, no me acuerdo exactamente. Me parece que este si dejaba abierto el puerto, vamos a hacer una cosa.
+
+1436
+02:22:21.360 --> 02:22:24.320
+Ariel Luis Cessario: Vamos a minimizar acá y vamos a empezar a correr.
+
+1437
+02:22:24.460 --> 02:22:25.500
+Ariel Luis Cessario: Entonces
+
+1438
+02:22:25.720 --> 02:22:32.489
+Ariel Luis Cessario: acá en algún momento, o lo vemos o no nos vamos a dar cuenta, nos vamos a dar cuenta
+
+1439
+02:22:33.020 --> 02:22:38.310
+Ariel Luis Cessario: probando Ahí está. Fíjense, ven acá. Atrás.
+
+1440
+02:22:38.660 --> 02:22:41.979
+Ariel Luis Cessario: Entonces ya sabemos que esta función que está acá
+
+1441
+02:22:42.830 --> 02:22:48.149
+Ariel Luis Cessario: es la que está terminando de hacer todo el circuito de apertura
+
+1442
+02:22:48.810 --> 02:22:54.860
+Ariel Luis Cessario: del puerto para que quede mostrado Entonces podemos agarrar y volver acá y decirle a 15 78.
+
+1443
+02:22:56.330 --> 02:22:59.640
+Ariel Luis Cessario: Ahora era 15, 78,
+
+1444
+02:23:01.710 --> 02:23:05.030
+Ariel Luis Cessario: 15, 68. Cuando ejecuta el listen
+
+1445
+02:23:05.740 --> 02:23:09.679
+Ariel Luis Cessario: cuando ejecuta el listen. Es efectivamente cuando
+
+1446
+02:23:09.960 --> 02:23:15.450
+Ariel Luis Cessario: el programa se está, se está quedando disponible, y ustedes lo pueden dejar, acá
+
+1447
+02:23:15.920 --> 02:23:22.380
+Ariel Luis Cessario: y el Close Socket y todo eso ni siquiera lo tienen. Por qué ejecutar. Se pueden quedar acá? Mirando y qué es lo que pasa.
+
+1448
+02:23:23.040 --> 02:23:29.670
+Ariel Luis Cessario: Y lo mismo pueden hacer con un montón de otras cosas que se van y
+
+1449
+02:23:29.980 --> 02:23:36.359
+Ariel Luis Cessario: que se van sucediendo en el programa. Y ustedes pueden ahí ir analizando en cada punto que es efectivamente lo que está pasando
+
+1450
+02:23:36.980 --> 02:23:50.550
+Ariel Luis Cessario: la semana que viene vamos a ver un poquito con algunos programas un poco más simple. Todo el tema de parámetros y esas cosas igual. La semana que viene tenemos para ver principalmente la parte de punto Net. Pero un poquito más de esto. Vamos a ver
+
+1451
+02:23:51.720 --> 02:23:53.929
+Ariel Luis Cessario: gente de dudas, consultas.
+
+1452
+02:23:54.330 --> 02:23:57.979
+FEDERICO JOSÉ DÓBALO: Yo tengo una pregunta por ahí es por ahí me mata por esta preguntarse.
+
+1453
+02:23:58.300 --> 02:23:59.739
+Ariel Luis Cessario: No te no te preocupes Desiré.
+
+1454
+02:23:59.740 --> 02:24:03.479
+FEDERICO JOSÉ DÓBALO: El X, 32, El D. V. G. No.
+
+1455
+02:24:03.800 --> 02:24:04.560
+Ariel Luis Cessario: Sí.
+
+1456
+02:24:04.560 --> 02:24:07.840
+FEDERICO JOSÉ DÓBALO: Yo vi que usted lo vio si abrió el puerto con que se perdió.
+
+1457
+02:24:08.580 --> 02:24:09.270
+Ariel Luis Cessario: Sí.
+
+1458
+02:24:09.270 --> 02:24:12.130
+FEDERICO JOSÉ DÓBALO: Eso lo está mirando en su en la en la Fler B. M, Digamos.
+
+1459
+02:24:12.720 --> 02:24:13.550
+Ariel Luis Cessario: Ajá.
+
+1460
+02:24:13.550 --> 02:24:25.969
+FEDERICO JOSÉ DÓBALO: Yo pensaba que que de alguna manera, como usted podía cambiar los parámetros e ir moviéndose por el código. Y así como que jugando con la ejecución, por decirlo de alguna manera, pensé que era como en un entorno más como contenido, digamos.
+
+1461
+02:24:27.510 --> 02:24:30.980
+Ariel Luis Cessario: No, no entiendo bien la, o sea.
+
+1462
+02:24:30.980 --> 02:24:33.490
+FEDERICO JOSÉ DÓBALO: Que se cuando usted le da click en Run en
+
+1463
+02:24:33.850 --> 02:24:35.549
+FEDERICO JOSÉ DÓBALO: en X, 32, no
+
+1464
+02:24:36.240 --> 02:24:39.169
+FEDERICO JOSÉ DÓBALO: como un programa común y corriente como cualquier programa.
+
+1465
+02:24:39.170 --> 02:24:44.039
+Ariel Luis Cessario: Sí. Cuando corras el virus vas a tener que si estás corriendo un virus.
+
+1466
+02:24:44.240 --> 02:24:49.340
+Ariel Luis Cessario: posiblemente tengas que agarrar una vez que ejecutes el un
+
+1467
+02:24:49.670 --> 02:24:52.369
+Ariel Luis Cessario: sí. Vas a tener que volver al snapshot anterior.
+
+1468
+02:24:52.370 --> 02:24:53.260
+FEDERICO JOSÉ DÓBALO: Okay Okay.
+
+1469
+02:24:53.790 --> 02:24:58.490
+Ariel Luis Cessario: Esa es una de las cosas que lo termina siendo también recontra lento. Todo este tema.
+
+1470
+02:24:58.830 --> 02:25:11.410
+FEDERICO JOSÉ DÓBALO: Pero pero si si es un programa que se está ejecutando, no Co: ¿Cómo permite volver, o sea, ¿cómo ¿cómo es todo eso que que vimos en clase, que de alguna manera se juega con el código. Eso me cuesta entender.
+
+1471
+02:25:11.830 --> 02:25:18.949
+Ariel Luis Cessario: No vas a poder mucho con 1 que ya se está ejecutando. Si es una ley que se está ejecutando. Por ejemplo, vos no vas a tener el control
+
+1472
+02:25:19.600 --> 02:25:21.409
+Ariel Luis Cessario: completo de la ejecución.
+
+1473
+02:25:21.810 --> 02:25:22.210
+FEDERICO JOSÉ DÓBALO: Ajá.
+
+1474
+02:25:22.210 --> 02:25:34.469
+Ariel Luis Cessario: Puedes llegar a volver a hacer la ejecución podés volver a hacer las cosas, pero no necesariamente quiere decir que te lo vaya a dejar. Porque si quiere volver a ejecutar el una Dl que está siendo usada, te va a dar un error de acceso.
+
+1475
+02:25:35.130 --> 02:25:35.830
+FEDERICO JOSÉ DÓBALO: Okay.
+
+1476
+02:25:36.240 --> 02:25:37.940
+Ariel Luis Cessario: Entendés.
+
+1477
+02:25:38.060 --> 02:25:40.720
+Ariel Luis Cessario: Eso es muy caso a caso. Y Fede.
+
+1478
+02:25:41.170 --> 02:25:42.840
+FEDERICO JOSÉ DÓBALO: Okay Okay.
+
+1479
+02:25:42.840 --> 02:25:48.489
+Ariel Luis Cessario: En algunos te va a dejar mucho más control y en otros te va a dejar muchísimo menos control.
+
+1480
+02:25:48.790 --> 02:25:49.490
+FEDERICO JOSÉ DÓBALO: Claro.
+
+1481
+02:25:50.400 --> 02:25:51.170
+Ariel Luis Cessario: Entiendes.
+
+1482
+02:25:51.370 --> 02:25:52.580
+FEDERICO JOSÉ DÓBALO: Sí, Sí, Sí. Muchas gracias.
+
+1483
+02:25:53.040 --> 02:25:58.989
+Ariel Luis Cessario: No, por favor, igual Fede! Ahora, si quieres, nos quedamos un rato por el tema de lo que me habías preguntado.
+
+1484
+02:25:59.630 --> 02:26:02.400
+FEDERICO JOSÉ DÓBALO: Ah, en otro momento, si puede ser. Después le comento.
+
+1485
+02:26:02.400 --> 02:26:07.389
+Ariel Luis Cessario: Dale, Dale, Dale, No, no, no como vos quieras. Yo, por vos. Más que nada.
+
+1486
+02:26:09.060 --> 02:26:10.300
+FEDERICO JOSÉ DÓBALO: Gracias. Gracias. Jordi.
+
+1487
+02:26:10.760 --> 02:26:14.099
+Ariel Luis Cessario: No, no te preocupes más consultas, dudas.
+
+1488
+02:26:17.850 --> 02:26:18.880
+NICOLAS BOMBICINO: No por ahora nada.
+
+1489
+02:26:19.610 --> 02:26:21.680
+Ariel Luis Cessario: Por ahora nada bueno.
+
+1490
+02:26:22.090 --> 02:26:28.629
+Ariel Luis Cessario: Ya por la hora que es, son menos 20. Así que ya estamos en hora de de terminación.
+
+1491
+02:26:28.930 --> 02:26:31.450
+Ariel Luis Cessario: si quieren gente.
+
+1492
+02:26:31.560 --> 02:26:42.470
+Ariel Luis Cessario: podría ir desconectándose como siempre. Muchas gracias. Buen fin de semana nos vemos la semana que viene el que se quiera quedar para preguntar algo más de esto o de cualquier otra cosa.
+
+1493
+02:26:42.670 --> 02:26:47.300
+Ariel Luis Cessario: ya sabe, se van quedando. Y si no al resto
+
+1494
+02:26:47.630 --> 02:26:55.310
+Ariel Luis Cessario: nos vemos, les mando un abrazo muy grande, buen finde que se viene primaveral, así que hay que aprovecharlo.
+
+1495
+02:26:55.880 --> 02:26:57.040
+Ariel Luis Cessario: Así que nada.
+
+1496
+02:26:58.730 --> 02:27:00.059
+FACUNDO DURIGON: Muchas gracias. Buenas.
+
+1497
+02:27:00.060 --> 02:27:00.530
+FEDERICO JOSÉ DÓBALO: Yo creo que.
+
+1498
+02:27:00.530 --> 02:27:01.730
+Mauricio MAURICIO ADALIAN: Gracias. Un abrazo.
+
+1499
+02:27:01.730 --> 02:27:02.380
+NICOLAS BOMBICINO: Se es.
+
+1500
+02:27:02.380 --> 02:27:03.750
+Ariel Luis Cessario: Abrazo, abrazo.
+
+1501
+02:27:05.170 --> 02:27:07.210
+FRANCO GONZALO LEO BANGERT: Buen fin de Gracias. Profe: Hasta luego.
+
+1502
+02:27:07.210 --> 02:27:08.580
+Ariel Luis Cessario: El de Franco.
+
+1503
+02:27:08.930 --> 02:27:09.450
+FRANCO GONZALO LEO BANGERT: Mucho.
+
+1504
+02:27:09.450 --> 02:27:10.579
+Ariel Luis Cessario: Yo bebo.

@@ -1,0 +1,2881 @@
+WEBVTT
+
+1
+00:00:09.520 --> 00:00:10.660
+JUAN SANABRIA: Buen día.
+
+2
+00:00:11.100 --> 00:00:12.390
+JUAN SANABRIA: Buenas tardes.
+
+3
+00:02:57.720 --> 00:02:59.869
+JUAN SANABRIA: no, no se escucha.
+
+4
+00:03:11.270 --> 00:03:12.529
+Dario Rizzo: Hola. Se escucha.
+
+5
+00:03:13.210 --> 00:03:14.179
+JUAN SANABRIA: Sí. Ahora, sí.
+
+6
+00:03:15.710 --> 00:03:17.249
+Dario Rizzo: Bueno, perfecto. Gracias.
+
+7
+00:03:29.940 --> 00:03:32.420
+Dario Rizzo: Bueno, buenas noches a todos. Gente como andan.
+
+8
+00:03:36.870 --> 00:03:42.020
+Dario Rizzo: Bueno, la última clase antes del del examen, está bien la semana que viene está el
+
+9
+00:03:42.500 --> 00:03:45.880
+Dario Rizzo: el parcial, el primero de los 2.
+
+10
+00:03:46.310 --> 00:03:48.110
+Dario Rizzo: ¿cómo viene con los temas?
+
+11
+00:03:48.950 --> 00:03:52.230
+Dario Rizzo: Bien, Bien, todos los días, la semana que viene.
+
+12
+00:03:53.480 --> 00:03:54.449
+JUAN SANABRIA: Creo que sí.
+
+13
+00:03:54.450 --> 00:03:55.270
+Dario Rizzo: Lo menos. ¿
+
+14
+00:03:56.140 --> 00:04:05.869
+Dario Rizzo: Bueno, hoy vamos a continuar con las etapas de del proceso de escaneo de análisis
+
+15
+00:04:06.790 --> 00:04:16.079
+Dario Rizzo: buscando vulnerabilidades. Bien, Bueno, hoy vamos a ver ya la etapa de explotación también. Y va a ser over flow que piensan que es el buffer Over Flow.
+
+16
+00:04:17.980 --> 00:04:21.120
+Dario Rizzo: Desde luego, de rap íbamos a
+
+17
+00:04:23.180 --> 00:04:27.169
+Dario Rizzo: bajar. Tiene un tamaño fijo. No sé 15
+
+18
+00:04:27.470 --> 00:04:31.569
+Dario Rizzo: de Diego David Elvic de tirar, 16 y
+
+19
+00:04:31.690 --> 00:04:43.279
+Dario Rizzo: como un vaso sereccionado de agua empieza a desbordar también esto. Los programadores lo tienen que saber así los desarrolladores, también, muchas veces
+
+20
+00:04:44.370 --> 00:05:01.929
+Dario Rizzo: por errores de de diseño, de aplicación o, de, digamos, desarrollo, 1 capaz que no limita una variable de X. Está bien, No, la no la define bien y no hace ningún tipo de chequeo o control o bueno, de manejo de errores, y esto produce que
+
+21
+00:05:02.100 --> 00:05:03.929
+Dario Rizzo: de bocadito fallo. Está bien.
+
+22
+00:05:05.130 --> 00:05:10.010
+Dario Rizzo: Obviamente que estos fallos no sé o puede ser que nosotros los encontremos de forma medio
+
+23
+00:05:11.080 --> 00:05:14.670
+Dario Rizzo: de suerte o que alguien las encuentre y
+
+24
+00:05:14.860 --> 00:05:20.329
+Dario Rizzo: anuncie la el C B sobre este tipo de
+
+25
+00:05:21.660 --> 00:05:35.730
+Dario Rizzo: de fallo que puede afectar a un montón de de herramientas y de software también no es solamente para un software particular. También puede ser el sistema operativo. Aplicaciones, navegadores, programas de diseño
+
+26
+00:05:35.840 --> 00:05:43.129
+Dario Rizzo: base de datos o lo que sea, también cualquier tipo de aplicación puede pasar. Esto no es que solamente está destinado a un tipo de aplicación también.
+
+27
+00:05:44.930 --> 00:05:45.860
+Dario Rizzo: Y yo.
+
+28
+00:05:46.390 --> 00:06:05.249
+Dario Rizzo: claro, sí, podríamos, si lo asimilamos con algo parecido. Sí, es algo como que vos digamos, tenés, le llena la memoria que tiene de para ese tipo de esa variable, y ya esa variable ya pierde el control y como que la la la aplicación se como no lo maneja el error se tara y queda congelado, También
+
+29
+00:06:05.680 --> 00:06:24.830
+Dario Rizzo: puede pasar. Estamos hablando de azul de Windows. La aplicación se cierra de forma automática. También eso son son manejos de errores que no se hicieron también. Y puede. Básicamente es eso. Es como un una adicción de servicios básicamente también, pero bueno a nivel de aplicación, no de de una infraestructura también
+
+30
+00:06:29.920 --> 00:06:36.899
+Dario Rizzo: bueno. Arrancamos con las vulnerabilidades, que es una vulnerabilidad. Creo que algo habíamos mencionado hasta ahora
+
+31
+00:06:38.870 --> 00:06:40.740
+Dario Rizzo: sin leer sin leer vamos.
+
+32
+00:06:40.960 --> 00:06:41.920
+Dario Rizzo: Oleam.
+
+33
+00:06:43.870 --> 00:06:47.739
+Dario Rizzo: Ya son casi cuasi expertos en ciberseguridad, vamos.
+
+34
+00:06:51.870 --> 00:06:54.940
+Dario Rizzo: es un punto débil pero medio. Bien.
+
+35
+00:06:55.780 --> 00:07:11.449
+Dario Rizzo: sí sí le voy a definir un montón de montón de veces un fa fallo, un mal de diseño vienen acarriadas con varios tipos de de tribunalidades que que buenas pueden ser debido a que, por ejemplo.
+
+36
+00:07:12.470 --> 00:07:18.250
+Dario Rizzo: una una mala mala praxis, exactamente. Sí, marco.
+
+37
+00:07:18.520 --> 00:07:22.520
+Dario Rizzo: Sí, claro, adquirir compromisos.
+
+38
+00:07:24.660 --> 00:07:25.350
+Dario Rizzo: Muy bien.
+
+39
+00:07:25.660 --> 00:07:32.040
+Dario Rizzo: Está bien, pero hasta ahora, todo lo que ustedes nombraron son fallos, Sí, pero
+
+40
+00:07:32.150 --> 00:07:44.789
+Dario Rizzo: ¿quién los hace humanos totalmente. Muchas veces, obviamente, casi casi todos tipo de fallos, Son humanos también. Bueno, hoy en día, capaz que la I a hace hace un desarrollo mal también que pa que pasa.
+
+41
+00:07:44.890 --> 00:07:58.420
+Dario Rizzo: Pero bueno, todo esto es una idea. Acuérdense que van a tener un código de vulnerabilidad que lo vieron que la semana pasada, cuando yo la parte práctica a rubén les comentaba que todas las unidades tienen un Cb no
+
+42
+00:07:58.670 --> 00:08:08.370
+Dario Rizzo: guión el año en que se descubre y después se le da el número que cada año arranca de 0, de o sea, de 1 hasta
+
+43
+00:08:09.320 --> 00:08:23.209
+Dario Rizzo: lo que termine el año. También. Bueno, las encontradas exactamente claro, exactamente tengan en cuenta que, bueno, estas unidades se van encontrando, O sea, puede ser que se encuentre alguien que o alguien que hace cua está bien
+
+44
+00:08:23.360 --> 00:08:31.860
+Dario Rizzo: que puede generar ciertas circunstancias Qne esta vulnerabilidad. No se nos nos sale al mercado, eso sea el lo bueno de tener un área adecuada, bien definida. No sé si hago una secu a
+
+45
+00:08:33.080 --> 00:08:33.900
+Dario Rizzo: no.
+
+46
+00:08:35.200 --> 00:08:44.189
+Dario Rizzo: bueno, siempre cuando hay un área de desarrollo y hacemos aplicaciones y demás, siempre está bueno que una declaración adecuada de calidad o no de calidad, que determine si hay una falla de éstas
+
+47
+00:08:44.520 --> 00:08:50.439
+Dario Rizzo: o que nos llegue el usuario final? No, básicamente. Pero bueno, piensen que esto también pasa. Estas Estos fallos
+
+48
+00:08:50.560 --> 00:09:01.620
+Dario Rizzo: vayan, ocurren en software de empresas, importantísimas de primer nivel de primer mundo de primer nivel. Imagínense en un área, un área de desarrollo de una empresa pequeña, obviamente puede pasar
+
+49
+00:09:01.720 --> 00:09:08.690
+Dario Rizzo: a nivel mayor, ¿no? Obviamente tiene menos controles y demás, no ten en cuenta que también
+
+50
+00:09:08.990 --> 00:09:14.820
+Dario Rizzo: de de mayo. Creo que se puede ser un fabricante que tiene más unidades encontradas se vea.
+
+51
+00:09:15.910 --> 00:09:23.589
+Dario Rizzo: Creo que Rubén le había dicho que el mes pasado habían encontrado cuantas 500, 600 no en un mes de Windows. Bueno, es una animalada, también
+
+52
+00:09:23.820 --> 00:09:27.090
+Dario Rizzo: bueno. Hoy, justo leí Hoy le pasé al
+
+53
+00:09:27.260 --> 00:09:31.889
+Dario Rizzo: al director de la maestría de la licenciatura en
+
+54
+00:09:32.370 --> 00:09:39.649
+Dario Rizzo: en ciberseguía, que hacían una nota en la en Icoae que decía que no sé si vieron que el director de Open, ya
+
+55
+00:09:39.940 --> 00:09:55.649
+Dario Rizzo: Así que 1 que renunció. Se fue porque ya él notaba que dentro de la empresa ya estaban perdiendo el control sobre la Ia y que en unos años. Puede ser que la I a mate personas. No sé si en la nota dijo, bueno, lean la que estaba intenta interesante.
+
+56
+00:09:55.690 --> 00:10:02.310
+Dario Rizzo: Trabajó en opinión mía y otra más. Antropic era la otra. Bueno, se fue de una fue la otra y se dio cuenta que no.
+
+57
+00:10:03.480 --> 00:10:04.470
+Dario Rizzo: Sí, ahí,
+
+58
+00:10:05.230 --> 00:10:17.739
+Dario Rizzo: claro. Es como no sé si fue fue puro marketing o realidad, pero bueno, ahora, a fin de mes hay una una charla que va a dar la gente de acá en la facultad. No sé si la vieron
+
+59
+00:10:17.830 --> 00:10:33.210
+Dario Rizzo: que la da, que es parte del del Congreso hacket que le da la gente de Seguretia Bueno, y habla de de este tema de que, bueno, si yo vi el tráiler de la no de la de la entrevista y está buena de la charla que van a dar de que ahora, bueno de Terminator comparan terminator con la Ia, ¿no?
+
+60
+00:10:33.530 --> 00:10:37.030
+Dario Rizzo: Que ya básicamente sí sí parece mentira, pero bueno.
+
+61
+00:10:38.320 --> 00:10:40.159
+Dario Rizzo: y van a hablar de mitos?
+
+62
+00:10:40.270 --> 00:10:43.209
+Dario Rizzo: Bueno, no sé si escucharon de mitos. He contado, Escucharon algo
+
+63
+00:10:43.560 --> 00:10:55.299
+Dario Rizzo: bueno y va todo esto. Si yo siento, estaba viendo los los fallos que fueron encontrando con los años en en en la base de datos de C, B, y van a ver que en los años como se va creciendo
+
+64
+00:10:55.610 --> 00:11:00.790
+Dario Rizzo: la cantidad de C. V que van encontrando. Bueno, eso también lo ayuda la obviamente la y la I A
+
+65
+00:11:00.890 --> 00:11:13.300
+Dario Rizzo: que encuentra fallos, y también si usan la I A para desarrollar eso, también produce, si no tienen el control y no no analizan el código fuente que genera el I A, obviamente también va a tener fallos también
+
+66
+00:11:14.520 --> 00:11:34.110
+Dario Rizzo: ten en cuenta que capaz, hay gente que desarrolla y hace como 3, 4 o 5 versiones con la misma Ia y le va encontrando errores cada vez que va corriendo el proceso de software. Entonces, bueno, eso son. Si 1 lo copia y lo pega sin saber lo que está haciendo, es muy posible que tenga un fallo de seguridad de fallo importante cuando lo lo publiquen mi producción, No.
+
+67
+00:11:36.140 --> 00:11:36.940
+Dario Rizzo: Bueno.
+
+68
+00:11:38.560 --> 00:11:48.529
+Dario Rizzo: una unidad en un programa informático sobre un error, un problema sin su código, su configuración. Bueno, ahí vieron que ya son 3 tipos de unavidades. Anteriormente.
+
+69
+00:11:48.890 --> 00:12:01.170
+Dario Rizzo: todos son problemas de humanos, básicamente que siempre hay un humano atrás, que es el desarrollador o el administrador, que es una mala configuración por desconocimiento o lo que sea, configuró mal el
+
+70
+00:12:01.720 --> 00:12:05.940
+Dario Rizzo: el aplicativo o la infraestructura que le da soporte a esa aplicación. También
+
+71
+00:12:07.410 --> 00:12:25.609
+Dario Rizzo: es muy probable que, por no decir que se use siempre que los programas contengan errores, puesto que no han sido creados por seres humanos que ha sido creados por seres humanos, tengan en cuenta que posiblemente siempre encuentran un error Cuando hacen un software, ustedes también nadie lo va a hacer en forma perfecta de una, sino que van a tener que hacer varios.
+
+72
+00:12:25.610 --> 00:12:31.030
+Dario Rizzo: Van a correr el el el el Sol, van a notar un error y, bueno, y así le van a ir dando
+
+73
+00:12:31.040 --> 00:12:35.129
+Dario Rizzo: hasta que salga, salgan equis versiones para poder corregir los errores. También
+
+74
+00:12:36.500 --> 00:12:52.820
+Dario Rizzo: También tengan en cuenta que hay aplicaciones que digamos que son multiplataformas también. Y si es una un error en el código fuente, no va a afectar a todos distintas también después. También hay algunas que, en base al sistema operativo van a ser específicas del sistema operativo también.
+
+75
+00:12:53.730 --> 00:13:03.450
+Dario Rizzo: pues si así, si es algo un un sistema, usted, un software. No sé en Java, que es multiplataforma, Obviamente que si si es el código fuente va
+
+76
+00:13:03.720 --> 00:13:10.440
+Dario Rizzo: a seguir con la aplicación. Entonces, en todos los lugares donde te lo instalan también. No importa si a lino Windows mac o lo que sea también
+
+77
+00:13:11.890 --> 00:13:25.189
+Dario Rizzo: pero bueno, muchas veces también hay especificaciones educativos que, bueno, que ya es, independientemente de la aplicación que ustedes estén corriendo. También es el software de base el que tiene la vulnerabilidad también.
+
+78
+00:13:25.610 --> 00:13:28.799
+Dario Rizzo: Y eso puede ser que también sea un
+
+79
+00:13:28.930 --> 00:13:36.690
+Dario Rizzo: un camino a la vulnerabilidad que ustedes se encuentran en el software no separaron de todo.
+
+80
+00:13:45.230 --> 00:13:56.399
+Dario Rizzo: Bueno, la prioridad que comete un simple fallo en una humanidad es la posibilidad de que el abuso inteligente, este defecto pudiera llevar a cabo un riesgo de seguridad que compromete el sistema sobre el que ejecuta la aplicación.
+
+81
+00:13:57.700 --> 00:14:12.759
+Dario Rizzo: Lo más preocupante de, digamos, de un fallo es que el fallo de aplicación también afecta al sistema operativo. Está bien que, por medio de la aplicación, ingresen al sistema operativo y toman el control operativo, Eso ya sería un fallo de seguridad muy importante si es la aplicación bueno, capaz que
+
+82
+00:14:12.880 --> 00:14:18.820
+Dario Rizzo: la aplicación se encuentran algo, pero sí, ¿
+
+83
+00:14:20.020 --> 00:14:37.840
+Dario Rizzo: Cualquier cosa que capaz que se toman el control o no sé, por medio de la aplicación, puede llegar a un directorio de sistema operativo o un permiso tomar. No sé, hay aplicaciones que necesitan tener un que correrse o en base a un usuario tipo de usuario particular.
+
+84
+00:14:37.840 --> 00:14:43.680
+Dario Rizzo: y que con esa aplicación se inyecten códigos del sistema operativo, y eso también afectará al
+
+85
+00:14:43.790 --> 00:14:48.499
+Dario Rizzo: al sistema el sistema operativo de base. Digamos que ahí eso ya sería un fallo seguridad mucho mayor.
+
+86
+00:14:48.620 --> 00:14:58.100
+Dario Rizzo: La aplicación tiene tiene un impacto en el siempre, en la también acción operativo, pero si no es si no llegan a acción operativa es menor. El impacto, obviamente no.
+
+87
+00:15:03.060 --> 00:15:23.610
+Dario Rizzo: ¿qué es una buena bebida? Bueno, una bebida es un fallo del programa. Si no es neumático que no cualquiera, sino un fallo de seguridad. Está bien. Si el si el sistema, si ustedes hacen, sacan una aplicación, la aplicación se se abre y se cierra automáticamente. No es un fallo de seguridad también. Pero si la vulgaridad ya impacta en la seguridad del sistema completo ya si ahí pasa a ser una volatilidad, también. No, un fallo.
+
+88
+00:15:23.610 --> 00:15:24.310
+Dario Rizzo: Está bien
+
+89
+00:15:26.350 --> 00:15:40.549
+Dario Rizzo: necesaria esta distinción, puesto que no todos los errores de programación derivan en un fallo de seguridad. Como dijimos recién, no todos los una mala mala codificación es un fallo de seguridad, sino que puede ser un fallo de la aplicación básicamente, y no afecta a la seguridad. También.
+
+90
+00:15:42.050 --> 00:15:46.289
+Dario Rizzo: Un error en un programa puede llevar a que no funcione correctamente o que su comportamiento no sea el esperado.
+
+91
+00:15:46.510 --> 00:15:51.269
+Dario Rizzo: Pero no todos estos tipos de problemas pueden considerarse fallos de seguridad. Bueno, más de lo mismo, ¿no?
+
+92
+00:15:52.000 --> 00:16:11.959
+Dario Rizzo: Según la capacidad de aprovecharse de ese defecto, la vulnerabilidad será más o menos grave. También bueno es como se llama recién, o sea, un fallo de seguridad que yo pueda tomar cuando sea operativo o de o escalar privilegios o descubrir máquinas en la red o lo que sea. Obviamente, es más grave que no sé que la aplicación se cierre o no sé o
+
+93
+00:16:12.120 --> 00:16:24.749
+Dario Rizzo: y le haga una captura de pantalla, o no sé, le le modifique los colores. Está bien, No sé, son fallas de seguridad pequeños, Pero, bueno, son fallos de seguridad, Fallos de fallos de programación, no de seguridad. Está bien.
+
+94
+00:16:25.480 --> 00:16:32.220
+Dario Rizzo: Una de ellas se define básicamente por 5 factores o parámetros que deben identificarla también producto.
+
+95
+00:16:32.660 --> 00:16:50.700
+Dario Rizzo: Para definir una buena idea. Lo primero que es necesario conocer es a qué producto afecta yo lo que tengo que saber, esa buena bebida, a qué productos afecta, van a ver que, por ejemplo, cuando vean ustedes, el C, V. Siempre van a ver qué tipo de fallos, o sea que a qué tipo está afectada, ¿no? Y a que hay versiones también afecta de ese de ese esa aplicación
+
+96
+00:16:50.700 --> 00:16:55.260
+Dario Rizzo: o decirlo, sistema operativo, por lo general,
+
+97
+00:16:57.570 --> 00:17:06.050
+Dario Rizzo: claro. Exactamente ahí eso. Ellos dicen que, bueno, el fallo que encontraron. Lo descubrieron Windows, 7 para abajo. Por ejemplo, esta bien.
+
+98
+00:17:06.910 --> 00:17:13.680
+Dario Rizzo: si vos tenés un Windows, Windows, 10 o Windows 11 ese fallo no te afecta, Te afectará a otro, pero no ese en particular. También
+
+99
+00:17:14.720 --> 00:17:18.810
+Dario Rizzo: el caso de ese fallo, ese fallo muy importante que descubrieron. Bueno.
+
+100
+00:17:19.210 --> 00:17:38.659
+Dario Rizzo: y bueno, es una unidad muy grande de Windows que que bueno, que era de la necedad, no que habían encontrado el sí que te daba acceso a la red.
+
+101
+00:17:39.280 --> 00:17:46.100
+Dario Rizzo: Ya ves. Bueno, le conté lo del mi proceso de criptografía, No, mi proceso de quitografía? Bueno, no.
+
+102
+00:17:47.280 --> 00:17:57.139
+Dario Rizzo: En el posgrado. Tuve a un profesor llamado Hugo Skolming. Bueno, un tipo en Argentina que que el tema de criptografía es 1 de los referentes. Bueno, lo de la materia.
+
+103
+00:17:57.930 --> 00:18:09.400
+Dario Rizzo: una que un par de horas que se nos dio él y que él contaba que, bueno, en los trabajos que hizo Microsoft para hacer en su banda cuando era Windows, N, T. En Windows Cnt N. T. Que era muy viejo.
+
+104
+00:18:09.910 --> 00:18:11.510
+Dario Rizzo: Y
+
+105
+00:18:11.720 --> 00:18:20.940
+Dario Rizzo: para hacer la parte, digamos, de seguridad de la contra las contraseñas de los usuarios. Está bien, querían que encripten que manejen la limitación de las claves de las claves del usuario.
+
+106
+00:18:21.600 --> 00:18:30.679
+Dario Rizzo: Bueno, era ese todo el código, todo el código, ese que le pidieron lo mandan que se pueda revisar. Se lo devuelve diciendo que debería agregar un par de líneas. La new macro le pide
+
+107
+00:18:31.160 --> 00:18:39.369
+Dario Rizzo: y le dice, pero bueno, lo revisa y dice, no, Esto es un fallo de seguridad, lo saca y lo vuelve a mandar, y le dice, no, Eso tiene que estar sí o sí.
+
+108
+00:18:39.630 --> 00:18:42.560
+Dario Rizzo: Y le pregunta por qué no? Porque la N. S. A nos pide
+
+109
+00:18:42.710 --> 00:18:57.369
+Dario Rizzo: que todo software que se fabrica en Estados Unidos tenga una puerta de acceso a acceso para ellos. En particular, también ellos no pueden no pueden no tener acceso a nada que se fabrique y se venda en Estados Unidos. La N sea.
+
+110
+00:18:57.740 --> 00:19:12.030
+Dario Rizzo: entonces digamos todo lo que nosotros nosotros usamos que sea mar in usa, o sea, marcas de de Estados Unidos, tienen un una puerta trasera que, en el caso de Irlanda sea por cuestiones de seguridad nacional, ingresen y van a ingresar a nuestro a lo que sea. No.
+
+111
+00:19:12.310 --> 00:19:18.530
+Dario Rizzo: esta que es lenovo, No sé. Pero bueno, una máquina del una máquina Mac, o lo que sea.
+
+112
+00:19:18.720 --> 00:19:27.809
+Dario Rizzo: Windows: Bueno, tiene un una puerta, seguramente, para que ellos solo puedan ingresar a ese hardware o software que necesitan entrar
+
+113
+00:19:29.550 --> 00:19:34.569
+Dario Rizzo: y se fabrica y se comercializa si se fabrica de Estados Unidos
+
+114
+00:19:34.910 --> 00:19:37.410
+Dario Rizzo: y se usa en Estados Unidos también.
+
+115
+00:19:38.060 --> 00:19:55.530
+Dario Rizzo: Sí, No es una locura, O sea, yo cuando lo lo contó, nos quedamos todos. Pero, bueno, no sé, quiero reventar, pero bueno, él lo contó. Pero bueno, esto fue Windows, N. N. T, que era un mes muy, no viejo, pero calculo que debe seguir por la misma, debe seguir por la misma metodología?
+
+116
+00:19:55.650 --> 00:19:59.520
+Dario Rizzo: No, no, no, no.
+
+117
+00:19:59.710 --> 00:20:09.809
+Dario Rizzo: Bueno, hoy me con hoy me conté, me encontré con el proveedor de los antivirus que tenemos ahí en el hospital que vende. Bueno, vende ese y me contaba que
+
+118
+00:20:10.060 --> 00:20:18.080
+Dario Rizzo: el comercializa bueno. Es Casperki y me mandaron. Vieron que Kapeky es ruso, Bueno.
+
+119
+00:20:18.450 --> 00:20:30.499
+Dario Rizzo: capaz, que no puede. Tenía un montón de clientes en Estados Unidos cuando vino un no sé qué Presidente vino, di dijo, saquemos a porque nos están espiando. Sacaron a Kaspeky de todos lados. Entonces, Bueno, entre Esset y Mccaffy
+
+120
+00:20:30.760 --> 00:20:39.360
+Dario Rizzo: agarraron el mercado que dejó libre Kaspersky y bueno, Kasper que hizo empezó a vender en Latinoamérica. Latinoamérica. El mercado es mucho más chico también.
+
+121
+00:20:39.770 --> 00:20:58.339
+Dario Rizzo: Y quería volver a vender en Estados Unidos. Lo que hizo fue abrir el código fuente para que lo vea todo el mundo y vean que realmente no estaban espiando nada. Digamos que era agarrar el el el archivo que encontraba malicioso, lo revisaba y nada más. Ellos pensaban que bueno. Pero bueno, igual ni con eso
+
+122
+00:20:58.340 --> 00:21:01.510
+Dario Rizzo: pudieron vender una licencia en Estados Unidos también en Karapesky.
+
+123
+00:21:01.680 --> 00:21:05.339
+Dario Rizzo: Pero bueno, en realidad abrió el código fuente a todo el mundo. Y bueno, al
+
+124
+00:21:06.130 --> 00:21:10.679
+Dario Rizzo: no sirvió de nada para poder seguir. Ven seguir vendiendo a Estados Unidos. Entonces, bueno, ahí ven que
+
+125
+00:21:11.180 --> 00:21:18.710
+Dario Rizzo: también la geopolítica muchas veces también influye en lo que es la ciberseguridad. No, Bueno.
+
+126
+00:21:20.340 --> 00:21:38.819
+Dario Rizzo: Bueno, es el mismo programa. Puede afectar a una sola versión o a toda una rama o incluso a programas totalmente diferentes que comparten. El mismo fallo. Puede ser que un mismo fallo sea aplicado a varios varios software, no a distintos distintos programas que se ussó, un fallo que sea transversal a la marca o el proveedor del del software. No.
+
+127
+00:21:39.870 --> 00:21:44.829
+Dario Rizzo: este último supuesto ocurre cuando la aplicación afectada por la modalidad reside en sistemas objetivos diferentes.
+
+128
+00:21:45.160 --> 00:21:54.599
+Dario Rizzo: Todas las distribuciones de Linux comparten una buena cantidad de software, entre ellos el propio núcleo de sistema vieron que el Linux tiene un carnet también que, básicamente, el carnet es es es
+
+129
+00:21:54.840 --> 00:22:08.140
+Dario Rizzo: íntegro para todos, y lo que le van cada. No sé, cada reja distribución reja suz ubuntu o lo que sea, lo que le le modificas, la capa de arriba para que diferenciarlo también.
+
+130
+00:22:09.310 --> 00:22:16.799
+Dario Rizzo: Mhm: Nosotros ahí en policía usamos hora que el Linux, también, que es una copia, el Rehat
+
+131
+00:22:16.950 --> 00:22:27.450
+Dario Rizzo: Copy Paste hicieron, y lo único que cambiaron fue el el ícono del que sacaron el I el sombrero rojo y le pusieron un símbolo de ahora que básicamente nos Dijeron, los dólares No, No, No es dimitiendo.
+
+132
+00:22:27.510 --> 00:22:40.959
+Dario Rizzo: Pero, bueno, como no querían gastarse en horas de desarrollo ni nada hicieron Copy Pet del código fuente, el carnet, lo que sea, lo compilaron y lo lo lograron como ahora que el hora que el lino para eso compatible con toda la gente que tiene reja. Está bien.
+
+133
+00:22:42.100 --> 00:22:55.480
+Dario Rizzo: Bueno, ahí. Si el carné, el el carnet, por ejemplo, tiene un fallo, obviamente que iba a afectar también al ahora, al ahora que el Linux y al Reja también le iba a afectar, porque el carnet seguía, continuaba el mismo sistema operativo está bien.
+
+134
+00:22:57.410 --> 00:23:08.159
+Dario Rizzo: Una sola variedad en el carne puede afectar a todas instituciones que utilicen desde debian a mandriva, pasando por Open Open, suce bueno, eso se ve que esos esas esas distribuciones, yo mandriba. No la conozco.
+
+135
+00:23:08.500 --> 00:23:12.139
+Dario Rizzo: Se se se ve que esas 3
+
+136
+00:23:12.380 --> 00:23:15.409
+Dario Rizzo: distribuciones comparten el mismo carnet. Entonces, digamos.
+
+137
+00:23:15.610 --> 00:23:19.000
+Dario Rizzo: si copian el carnet, realmente van a ir copiando el error, no
+
+138
+00:23:20.880 --> 00:23:27.570
+Dario Rizzo: para identificar correctamente una buena idea diversificarse a qué productos o versiones de productos afecta concretamente. Está bien.
+
+139
+00:23:28.500 --> 00:23:36.559
+Dario Rizzo: Cuando cuando lanzan, vieron que esperemos adelante, vamos a ver una página que tiene todo el listado de todas las vulnerabilidades que hay en el mercado.
+
+140
+00:23:38.470 --> 00:23:46.110
+Dario Rizzo: Yo tengo que definir, definir, cuando la vulgaridad y tengo que definir bien a qué afecta? ¿por qué se piensa que debo definir eso?
+
+141
+00:23:46.800 --> 00:23:52.729
+Dario Rizzo: ¿a qué afecta aquí? ¿qué hago, ¿Por qué ¿Por qué hago? Porque soy, bueno, y digo ¿a qué afecta.
+
+142
+00:23:54.490 --> 00:24:05.279
+Dario Rizzo: Yo descuro una vuelidad también. Y digo, bueno, y entonces se la par, la comparto a la comunidad también, y tengo que porque se piensa que es importantísimo definir a que
+
+143
+00:24:05.440 --> 00:24:08.449
+Dario Rizzo: versión o tipo de software afecta
+
+144
+00:24:09.170 --> 00:24:13.760
+Dario Rizzo: no en en equis en el lo que sea
+
+145
+00:24:16.330 --> 00:24:31.200
+Dario Rizzo: exactamente, ¿Para qué? Para que que todos vean esa vulnerabilidad, vean si están afectados y automáticamente actualicen o bueno, también cuando descubran la vulgaridad. Por lo general también descu tienen que decir como arreglarla también, no por lo general.
+
+146
+00:24:32.760 --> 00:24:42.590
+Dario Rizzo: la mayoría de las veces, por lo general es actualizar la versión superior. Pero, bueno, eso también actualizamos una versión superior, y eso también tiene una vulnerabilidad. Y así, bueno, todo un ciclo de vida de que nunca termina no
+
+147
+00:24:42.770 --> 00:24:51.250
+Dario Rizzo: exactamente sí a veces autorizadas, y es peor la solución que el remedio, que el problema no
+
+148
+00:24:51.500 --> 00:24:53.570
+Dario Rizzo: también pasa eso.
+
+149
+00:24:59.910 --> 00:25:06.349
+Dario Rizzo: Este fin de semana también tuve otro otro informe de, según informática que se ve que no me no le gusta que duerma los fines de semana.
+
+150
+00:25:06.460 --> 00:25:12.120
+Dario Rizzo: Me me me mandaron una nota diciendo que mandaron una una bebida bueno y mandaba el C B
+
+151
+00:25:12.310 --> 00:25:15.700
+Dario Rizzo: para para que lo que lo que lo arregle.
+
+152
+00:25:15.810 --> 00:25:19.559
+Dario Rizzo: Así empecé que elaboran los sábados nada más. Hoy, los domingos
+
+153
+00:25:23.250 --> 00:25:25.460
+Dario Rizzo: de agente remoto está todo bien.
+
+154
+00:25:26.310 --> 00:25:27.130
+JUAN SANABRIA: Sí, Sí.
+
+155
+00:25:28.220 --> 00:25:29.800
+Dario Rizzo: Están están muy callados.
+
+156
+00:25:31.770 --> 00:25:33.310
+JUAN SANABRIA: Estamos atentos, por favor. Eso.
+
+157
+00:25:35.260 --> 00:25:36.200
+Dario Rizzo: Cómo.
+
+158
+00:25:37.630 --> 00:25:38.960
+JUAN SANABRIA: Estamos atentos por eso.
+
+159
+00:25:38.960 --> 00:25:43.260
+Dario Rizzo: Bien. Bien, Bien, vi. Viene, venimos bien hasta ahora? Ninguna duda.
+
+160
+00:25:43.660 --> 00:25:44.679
+JUAN SANABRIA: No, no, pero.
+
+161
+00:25:45.240 --> 00:25:46.230
+Dario Rizzo: Bueno, genial.
+
+162
+00:25:47.790 --> 00:25:53.080
+Dario Rizzo: Bueno, otro punto importante es donde no del de la buena Navidad.
+
+163
+00:25:54.850 --> 00:25:57.929
+Dario Rizzo: Vimos el producto y en dónde está bien.
+
+164
+00:25:58.470 --> 00:26:05.080
+Dario Rizzo: Estos puntos que vamos a ver ahora van a ver que después, cuando vean el busquen USB en particular, van a ver que están todos estos puntos tan
+
+165
+00:26:05.450 --> 00:26:11.379
+Dario Rizzo: bien marcado también, y esto se ve, van a ser la base de que
+
+166
+00:26:12.390 --> 00:26:15.950
+Dario Rizzo: que se les ocurre que todo esto se parece bien, entonces tienen una base de C, B,
+
+167
+00:26:18.580 --> 00:26:21.330
+Dario Rizzo: No, Sí. Bueno, sí era una base de datos.
+
+168
+00:26:21.840 --> 00:26:29.549
+Dario Rizzo: sí, bueno, pero que, pero ¿por qué? ¿quién quién o sea, va a ser la fuente? De qué
+
+169
+00:26:30.590 --> 00:26:36.929
+Dario Rizzo: no? La red social? No, bien, por ahí viene
+
+170
+00:26:38.860 --> 00:26:41.830
+Dario Rizzo: de los software que buscan vulnerabilidades. También
+
+171
+00:26:42.440 --> 00:27:00.469
+Dario Rizzo: lo sobre lo que hacen es que son herramientas mágicas. Lo que hacen es tienen la base de datos de todo lo C, V. También analizan el software y descubren si descubren que van comparando, porque realmente, en base a la base de datos que tienen. Ellos dicen. Bueno, tengo el C. B A fletata versión. Esta versión está bien, y así, con todo.
+
+172
+00:27:00.890 --> 00:27:05.849
+Dario Rizzo: entonces va a ir. Eso va a ir analizando, digamos, la la la aplicación de ustedes también.
+
+173
+00:27:07.010 --> 00:27:11.490
+Dario Rizzo: y va a ir machando todo a ver. Tiene
+
+174
+00:27:11.740 --> 00:27:21.759
+Dario Rizzo: el Linux, ahora que el lino versión 7, 2, Bueno, a ver en 7 puntos que tengo, tengo que informar que desde esta vulnerabilidad y así, con todas las aplicaciones que tengan, también.
+
+175
+00:27:24.010 --> 00:27:36.040
+Dario Rizzo: Téngan en cuenta que a veces muchas veces esos softwares son hacen análisis muy para arriba que se meten mucho en la en la infraestructura, en la plataforma, también porque es una cuestión, digamos, de permisos.
+
+176
+00:27:37.150 --> 00:27:47.420
+Dario Rizzo: Tengan en cuenta que si si no sé si has un un barrido de la base, la pueden tirar abajo y así sucesivamente con, no sé sistema operativo también. Si lo hace muy brusco el
+
+177
+00:27:47.540 --> 00:27:51.239
+Dario Rizzo: el análisis. No vuelvo a decir también, no lo puede voltear, pero Bueno.
+
+178
+00:27:51.390 --> 00:28:06.130
+Dario Rizzo: básicamente lo que va a mirar es eso en base a lo que encuentra analiza. Le va a mostrar en base a lo que tiene hecho bueno, y también le va a mostrar esos colores que vimos el verde naranja rojo. Lo que sea. Se lo voy mostrando de manera va a ser a la
+
+179
+00:28:06.170 --> 00:28:17.980
+Dario Rizzo: criticidad que tiene marcado el C V. También. Cada Cb que encuentran le va a marcar una crecida y le va a decir, bueno, este se ve, tiene este fallo con este esto y la crecida que tiene
+
+180
+00:28:20.330 --> 00:28:21.030
+Dario Rizzo: Mhm.
+
+181
+00:28:21.730 --> 00:28:29.029
+Dario Rizzo: Bueno, los programas suelen componerse de varios módulos que tratan de sí. Obviamente, un software siempre tienen varios módulos. No es que solamente es
+
+182
+00:28:29.150 --> 00:28:38.800
+Dario Rizzo: una lo que ustedes ven, sino que detrás de eso está la parte gráfica y la parte, digamos, de código fuente y la parte del compilador. Todo eso forma el software, ¿no?
+
+183
+00:28:40.540 --> 00:28:45.859
+Dario Rizzo: Una vía puede encontrarse en un módulo concreto del programa o bien utilizar una configuración concreta. Está Bien.
+
+184
+00:28:46.040 --> 00:28:54.580
+Dario Rizzo: Bueno, acá. Hay 2 ejemplos bastante buenos. Hay 1 que no sé si ustedes lloran. Salgo a iluminar. No me agancho. No Bueno, era un reproductor
+
+185
+00:28:55.330 --> 00:28:58.250
+Dario Rizzo: hermoso de de m de D P: Tres, También
+
+186
+00:28:59.010 --> 00:29:06.629
+Dario Rizzo: hoy está el Spotify. Bueno, antes no existía. Bueno, lo que teníamos que hacer era bajarnos, bajarnos el tema en M P, Tres también, que era un formato de compresión.
+
+187
+00:29:07.920 --> 00:29:13.570
+Dario Rizzo: Uno tenía el C. D, lo ponía, lo pasaba en M P: Tres y escuchaba música con eso también. Bueno.
+
+188
+00:29:14.470 --> 00:29:26.749
+Dario Rizzo: pero bueno, no sé por qué en el de Win and había había también, obviamente había fallos. Y había en ese momento había un fallo en el procesamiento del M. P. Tres. Bueno, había un fallo de seguridad, un fallo en la aplicación.
+
+189
+00:29:26.890 --> 00:29:35.359
+Dario Rizzo: Después, por ejemplo, hay de Word y se puede, si tiene una brevedad en el módulo de interpretación de los ficheros en formato de Rtf. Vieron Rtf Es un formato también
+
+190
+00:29:36.130 --> 00:29:49.509
+Dario Rizzo: en Word, sin afectar el módulo que procesa otro tipo de fichero aparte. Ustedes ven, abren formato. Rtf Rtf: Ese espacio lo tiene para ese formato y no lo tiene para el formato. Punto. Doc, por ejemplo, no o txt también.
+
+191
+00:29:51.210 --> 00:29:51.950
+Dario Rizzo: Mhm.
+
+192
+00:29:52.750 --> 00:30:07.649
+Dario Rizzo: Es posible que la humanidad no pueda ser aprovechada si este módulo no se encuentra en activo. O sea, obviamente que no sé, ustedes, por ejemplo, en el Word, no lo usan. El Df. Lo tienen deshabilitado o o no lo usan. Y el fallo no está latente. Si lo ti, si lo usan, si no.
+
+193
+00:30:07.790 --> 00:30:12.510
+Dario Rizzo: el fallo no, no, no no afecta la a la aplicación. Está bien.
+
+194
+00:30:14.500 --> 00:30:31.479
+Dario Rizzo: El modo de pensamiento de Javascript. En los cuentos Pdf no se encuentra activo por efecto en la red de arriba, por ejemplo, el procedimiento. Si ustedes quieren, en el el adobe ustedes cuando abre un adobe, si tienen javascript por cuestiones de seguridad, lo tienes a veces activado. ¿qué más tienes activado?
+
+195
+00:30:31.480 --> 00:30:40.710
+Dario Rizzo: Es también el módulo de firma. Si ustedes lo abren, le dice, si quieres ver la firma, no te lo abre por defecto por una cuestión también de seguridad, o sea, una macro de
+
+196
+00:30:40.860 --> 00:30:55.839
+Dario Rizzo: de de excel. Se un montón de montón de cosas que que vienen ya hoy en día vienen desactivadas, por ejemplo, por una cuestión de seguridad que antes venían. Ya 1 lo abría y te lo mostraba. Pero bueno, hoy, como descubrieron que hay muchos fallos sobre ese es esas tecnologías
+
+197
+00:30:55.840 --> 00:31:02.959
+Dario Rizzo: Ya te lo el proveedor te la ve, ya te las instalas, ya viene desactivado por defecto y te deja el a vos si quieres activarlo también
+
+198
+00:31:04.230 --> 00:31:17.200
+Dario Rizzo: antes. Por ejemplo, no sé. Uno abría una pa una una aplicación que usaba Java Java y ahora te parecía la máquina que te alejaba también el iconito de Java, que era remolesto. Bueno, hoy en día 1 puede configurar si quiere que
+
+199
+00:31:17.200 --> 00:31:26.679
+Dario Rizzo: en el navegador cuando abra, sea automático o el nivel también de de seguridad que tiene Java, también se puede configurar por fallos que fueron encontrando. ¿
+
+200
+00:31:30.220 --> 00:31:38.370
+Dario Rizzo: Bueno, yo no ver, no antes había en las cuando hacían las en las primeras páginas web copadas.
+
+201
+00:31:38.720 --> 00:31:42.460
+Dario Rizzo: Usaba Flash: Bueno, sí, vamos a entrar
+
+202
+00:31:42.600 --> 00:31:45.329
+Dario Rizzo: 50 000 000 000 de fallos. Tenía
+
+203
+00:31:45.550 --> 00:31:49.050
+Dario Rizzo: entonces, por ejemplo, por ejemplo, Steve Jobs.
+
+204
+00:31:49.850 --> 00:32:09.699
+Dario Rizzo: no podías ver una página con Flash en Mac porque el tipo decía que era una porquería, era un fallo de seguridad importante. Y entonces el tipo dijo yo en mi navegador. Flash, No lo autorizo. Entonces, vos podías verías una página en mac Off y veías una página en safari y una en la misma página window, la veías hermosa. Y en Mccola, veías un desastre.
+
+205
+00:32:10.230 --> 00:32:25.130
+Dario Rizzo: Entonces él decía, bueno, que se adapten a mí y que la modifiquen en base a mis productos de de de diseño también, por ejemplo. Pero, bueno, voy a poner una cuestión no de no de capricho, sino que el tipo no quería que su sistema sea inseguro por una aplicación de terceros.
+
+206
+00:32:26.360 --> 00:32:29.149
+Dario Rizzo: Pues el flash me das porque después ya murió porque
+
+207
+00:32:29.730 --> 00:32:31.199
+Dario Rizzo: lo dejaron de usar. Por eso
+
+208
+00:32:33.900 --> 00:32:39.430
+Dario Rizzo: causa y consecuencia, bueno, varias preguntas. ¿cuál es el origen del problema también
+
+209
+00:32:39.970 --> 00:32:48.610
+Dario Rizzo: importante? Si yo encuentro un fallo? Bueno, la idea sería encontrar el la cosa del problema, obviamente para poder encontrarla también. Después. La solución. No.
+
+210
+00:32:49.370 --> 00:32:54.920
+Dario Rizzo: en qué falló su programador. Tampoco vamos a ir a la casa del programador siempre pobre, porque tampoco tiene la culpa. No.
+
+211
+00:32:55.700 --> 00:33:02.039
+Dario Rizzo: A veces también los programadores corren con tiempo que tienen que cumplir y le dicen chatal sacarlo así como está en producción.
+
+212
+00:33:02.310 --> 00:33:10.189
+Dario Rizzo: Mi hermano en el banco le decían eso. Sacálo a producción que lo que estén los usuarios finales, que son los usuarios, nosotros. Y después vemos qué pasa también? Pero Bueno.
+
+213
+00:33:10.900 --> 00:33:18.699
+Dario Rizzo: hay que cumplir con los tiempos de la normativa y, a veces es más importante el negocio de no perder plata que la seguridad. Obviamente no.
+
+214
+00:33:18.990 --> 00:33:20.869
+Dario Rizzo: O a mí me pasa también en el hospital.
+
+215
+00:33:21.260 --> 00:33:29.119
+Dario Rizzo: Tengo que cumplir con, no sé con me apuran para sacar un software. Y bueno, no hemos llegado a tiempo a probarlo. Y bueno, vamos a sacarlo como están. Vamos a ver si está bien.
+
+216
+00:33:29.280 --> 00:33:33.399
+Dario Rizzo: Y bueno que funcione como funciona. Y vamos viendo sobre la marcha
+
+217
+00:33:35.810 --> 00:33:39.049
+Dario Rizzo: cómo funciona. Escucharon el concepto de beta permanente
+
+218
+00:33:39.870 --> 00:33:41.969
+Dario Rizzo: de beta permanente, Sabes, hacer una beta.
+
+219
+00:33:42.710 --> 00:33:44.150
+Dario Rizzo: Bueno.
+
+220
+00:33:44.150 --> 00:34:02.740
+Dario Rizzo: está el concepto de beta permanente también que, como que si el software siempre está en beta, también esa producción lo testedes, todo siempre está en beta también. Entonces, todo el siglo de vida, el software es eterno, básicamente también siempre van a encontrar algo y va a iniciar de vuelta el proceso de desarrollo o a Ta Ta. Ta: también.
+
+221
+00:34:04.500 --> 00:34:10.879
+Dario Rizzo: Bueno, esto se refiere a fallo técnico concreto que cometió el programador a la hora de crear la aplicación, que es el origen de la volatilidad, No.
+
+222
+00:34:11.420 --> 00:34:15.630
+Dario Rizzo: por ejemplo, puede que no comprobase bien qué valores alojaba en una variable.
+
+223
+00:34:15.840 --> 00:34:23.110
+Dario Rizzo: No, eso puede pasar los límites de la memoria o que olvidara establecer unos permisos adecuados a unos ficheros.
+
+224
+00:34:24.090 --> 00:34:27.050
+Dario Rizzo: Ten en cuenta que sí. Bueno, nos vimos antes, no el
+
+225
+00:34:27.260 --> 00:34:33.849
+Dario Rizzo: si yo le doy una memoria, la defino mal. Obviamente, puedo hacer un fallo de memoria, como el World Floyd, y luego no lo que hago es
+
+226
+00:34:34.380 --> 00:34:38.939
+Dario Rizzo: usar más la memoria que tengo permitida, y eso produce un fallo encima operativo.
+
+227
+00:34:41.350 --> 00:34:48.469
+Dario Rizzo: Las consecuencias técnicas de estos fallos suelen ser diferentes. Pueden ocurrir. O sea, puede ser que y yo, bueno.
+
+228
+00:34:49.389 --> 00:34:59.570
+Dario Rizzo: tengo la variable. La defino mal es un es un fallo. Si le toqué permiso a un fichero que no correspondía. Vieron que en el Linux tiene fichero. No sé
+
+229
+00:34:59.800 --> 00:35:07.400
+Dario Rizzo: si le pone 6, 6, 6, tiene ma un permiso para lectura, escritura y bordadas. Y bueno.
+
+230
+00:35:07.740 --> 00:35:12.180
+Dario Rizzo: si el plan muchas veces pasa eso cuando 1, si, si bueno, no.
+
+231
+00:35:12.470 --> 00:35:21.739
+Dario Rizzo: Según la hoja en infra, puede jugar con esos permisos en una aplicación en un fichero. Van a ver que no sé si le ponen 6 6. Seis. Lo van a ver en la página. Anda bien, si le ponen
+
+232
+00:35:21.740 --> 00:35:34.819
+Dario Rizzo: cuatrocien. Si. Bueno, vamos girando con los códigos de de de escritura y de lectura para ver que después es capaz que la página se cae porque no tiene acceso a ese a ese archivo, y así sucesivamente. ¿no?
+
+233
+00:35:36.200 --> 00:35:38.029
+Dario Rizzo: Pero bueno. Todo eso
+
+234
+00:35:38.640 --> 00:35:54.889
+Dario Rizzo: y si también también hace también cambian el permiso, digamos, del usuario, que es el dueño del de la del fichero, también puede pasar que también no sé. El apache se le hincha Manapache y el apache de lucero apache. No puede ver un fichero que lo tiene el Rut bueno y también produce que un fallo
+
+235
+00:35:55.350 --> 00:36:01.530
+Dario Rizzo: pero bueno, darle demás permisos de más a un archivo también es peligroso. También
+
+236
+00:36:03.360 --> 00:36:09.960
+Dario Rizzo: soluciona el problema. Sí, anda, pero bueno, es peligroso para el tema de que tiene más permisos de lo que debería tener, no
+
+237
+00:36:11.900 --> 00:36:23.489
+Dario Rizzo: siempre, si siempre se trata de hacer, es el, digamos, la teoría del mínimo privilegio. No relaciona el mismo privilegio. Y después bueno, vamos viendo a ver. Fíjate esto, ¿no? Bueno a ver ahora, y así sucesivamente.
+
+238
+00:36:23.640 --> 00:36:28.889
+Dario Rizzo: hasta tratar de darle el menor privilegio posible a la persona o a la aplicación.
+
+239
+00:36:30.660 --> 00:36:39.679
+Dario Rizzo: Bueno, desde luego tenía famosos diferentes desbordamiento de memoria hasta el consumo excesivo de memoria. También. A veces también es que
+
+240
+00:36:40.250 --> 00:36:46.829
+Dario Rizzo: desbordo la memoria o consumo un montón de memoria en la aplicación. Bueno, vieron que a veces aplicaciones que
+
+241
+00:36:46.940 --> 00:36:56.360
+Dario Rizzo: las lanzan y ven que la memoria se consume en modo de memoria. No sabemos por qué. Pero, bueno, es por un fallo de fallo de diseño de la aplicación. No.
+
+242
+00:36:56.870 --> 00:37:06.109
+Dario Rizzo: que también es un fallo, porque puede ser que consuma mucha memoria. Y bueno, ahí me voltee la máquina si no tengo memoria de sobra.
+
+243
+00:37:08.590 --> 00:37:25.700
+Dario Rizzo: ¿qué más. Estas consecuencias suelen ser siempre las mismas derivadas de los mismos descuidos, y es lo que buscarán los cazadores de Navidades no siempre lo que lo que atacan esta tarde, cuando alguna aplicación quieren probar si tiene una falla, pero por lo general siempre buscan estos fallos, que son fallos humanos de desarrollo
+
+244
+00:37:25.850 --> 00:37:26.630
+Dario Rizzo: vale
+
+245
+00:37:29.470 --> 00:37:41.150
+Dario Rizzo: Un ejemplo claro de es una falta de comprobación de caracteres en una pieza web causa lleva inyección de inyección de Sq. L La consecuencia vieron que conocen, como es la inyección de S. Q. L,
+
+246
+00:37:42.040 --> 00:37:57.899
+Dario Rizzo: Bueno, eso también es un fallo muy común que le pasan a un a un campo de texto. Le agregan un parámetro de 1 a 1 o no sé la Comisita. Claro. Bueno, todo eso no
+
+247
+00:37:58.240 --> 00:38:03.190
+Dario Rizzo: todo medio armado para que inyección no debería
+
+248
+00:38:03.490 --> 00:38:20.759
+Dario Rizzo: el tema que 1 dice, no, no debería pasar porque, obviamente que hoy hoy en día ya también tenés un montón de de software antes de llegar a la aplicación o al al servidor web que debería parártelo también. Pero bueno, si no lo tenés.
+
+249
+00:38:20.760 --> 00:38:27.570
+Dario Rizzo: maurice en la en la experiencia de desarrollador, obviamente. Pero bueno, todo puede pasar
+
+250
+00:38:28.360 --> 00:38:31.430
+Dario Rizzo: si van a si si buscas por Internet, van a encontrar un montón de cosas no
+
+251
+00:38:32.180 --> 00:38:35.219
+Dario Rizzo: ahí con busquen después de con Joan
+
+252
+00:38:35.400 --> 00:38:41.580
+Dario Rizzo: la Brian yo empiecen a buscar yo a servidores. Bueno, después terminan con el con el cron viste busquen.
+
+253
+00:38:41.750 --> 00:38:45.580
+Dario Rizzo: S. Q. L. Comandos de cómo se llama de.
+
+254
+00:38:46.480 --> 00:38:48.299
+JUAN SANABRIA: Google Doc Doorks.
+
+255
+00:38:48.430 --> 00:38:52.659
+Dario Rizzo: Exactamente con con eso. Busquen y van a encontrar un montón de cosas, no
+
+256
+00:38:52.760 --> 00:39:00.810
+Dario Rizzo: el contenido pasado. Encontramos una buscamos de M. P, en la extensión de del Backup de M. P:
+
+257
+00:39:01.060 --> 00:39:10.450
+Dario Rizzo: Sí, Y encontramos un montón de de de archivos de de de backup en la red, disponibles que 1 lo puede bajar y lo lo montan en la base de datos y y ve los datos también.
+
+258
+00:39:14.120 --> 00:39:24.940
+Dario Rizzo: Después te voy a pedir que me hagas un análisis a una a la página de la página del hospital, ¿no? Pero en serio. Te digo, hay muchas cosas que 1 lee, las las considera como diciendo.
+
+259
+00:39:25.150 --> 00:39:28.610
+Dario Rizzo: no puede ser. Y y sí,
+
+260
+00:39:29.040 --> 00:39:37.440
+Dario Rizzo: por ejemplo, cuando hay un salón. Sale el que es este paseo de páginas web, como se llama el Wordpress. Bueno, es un colador, es un colador. Básicamente
+
+261
+00:39:38.260 --> 00:39:49.309
+Dario Rizzo: lo sé por experiencia con mi señora, en el negocio de ella, que es, es, es muy complicado a tu manera actualizado, pues sacan Barcelona todos los días. Pla Pla Pla: Pla: y a veces también tiene muchos Plugin.
+
+262
+00:39:50.120 --> 00:40:07.970
+Dario Rizzo: Eso. Plugin también tiene fallos capaz de instalarse el plugin Al otro día, te sale el nuevo, y así es muy difícil de llevarte también también lo que tiene que si no te es un buen Backup, de la de la configuración que vos. Tenés de los productos. Todo lo que cargaste, te rompe toda la página. Y tienes que ahora todo. Entonces la gente lo va a hacer.
+
+263
+00:40:08.010 --> 00:40:15.289
+Dario Rizzo: Lo la lo deja en si tiene wordpress. Yo creo que haces un análisis por Navidades, y lo puedes voltear tranquilamente en cualquier sitio
+
+264
+00:40:15.680 --> 00:40:24.160
+Dario Rizzo: porque no no tiene un mantenimiento correcto o es imposible de seguirle el ritmo a esa a esa aplicación.
+
+265
+00:40:27.480 --> 00:40:37.800
+Dario Rizzo: Bueno, otro ejemplo: una falta: una falta de comprobación de límites de una variable causa puede llevar a un desbordamiento de memoria intermedia. Consecuencia, no como mencionamos recién
+
+266
+00:40:38.300 --> 00:40:42.570
+Dario Rizzo: y un último ejemplo, un descuido a la hora de establecer los permisos en un servicio de Windows causa
+
+267
+00:40:42.850 --> 00:40:45.379
+Dario Rizzo: puede llevar un salto de decisiones, consecuencia. No
+
+268
+00:40:46.540 --> 00:41:00.450
+Dario Rizzo: vieron que los avisos de Windows también van en base al usuario, al nivel de usuario que tengan. Y bueno, si tienen un servicio que tiene una modalidad y acceden y escalan el privilegio. Pueden, Bueno, obviamente
+
+269
+00:41:00.690 --> 00:41:10.449
+Dario Rizzo: salto restricciones. Y bueno, pueden hacer pararlo o inicial, o sea, para bajar el servicio. Y el servicio, puede afectar la estabilidad del sistema operativo
+
+270
+00:41:14.230 --> 00:41:16.510
+Dario Rizzo: impacto, siempre y cuando tengan
+
+271
+00:41:17.370 --> 00:41:22.159
+Dario Rizzo: un campo, va a ser el impacto que el impacto que tiene sobre el sistema afectado. ¿no?
+
+272
+00:41:26.990 --> 00:41:33.480
+Dario Rizzo: El impacto es lo que puede conseguir un atacante para aprovecharse de la vulnerabilidad también.
+
+273
+00:41:33.900 --> 00:41:40.379
+Dario Rizzo: Por ejemplo, si tú necesitas un equivoco de memoria intermedia. Es posible que el atacante pueda conseguir ejecutar código
+
+274
+00:41:41.140 --> 00:41:46.510
+Dario Rizzo: si tiene efecto, la memoria puede inyectar código y ejecutarlo en la memoria, No.
+
+275
+00:41:46.970 --> 00:41:59.559
+Dario Rizzo: Si la consecuencia de la volatilidad es que el programa comienza a consumir recursos, o sea, empieza a consumir cosas de forma excesiva. Obviamente, es posible que el atacante pueda llegar a conseguir una delegación de servicio, como dijimos anteriormente, no.
+
+276
+00:42:00.220 --> 00:42:07.650
+Dario Rizzo: ¿por qué? Porque llena, empieza a consumir recursos, recursos, recursos, recursos, recursos que llega un momento que es llamativo.
+
+277
+00:42:07.900 --> 00:42:16.150
+Dario Rizzo: ya no puede manejar más los recursos, No tiene memoria, no tiene procesamiento lo que sea. Y bueno, ¿qué hace eso? Se cae el sistema operativo y se cae todo.
+
+278
+00:42:19.250 --> 00:42:22.859
+Dario Rizzo: Y si no se han comprobado bien los permisos del programa causa
+
+279
+00:42:23.290 --> 00:42:36.620
+Dario Rizzo: puede ser, Puede que se produzca un salto de restricciones consecuencia y que el atacante consiga elevar privilegios en el sistema, también, como llamo recientemente ten en cuenta que los privilegios también son un tema muy importante en la en la en las aplicaciones.
+
+280
+00:42:39.590 --> 00:42:54.459
+Dario Rizzo: Bueno, el impacto define en gran medida la gravedad de la humanidad, el aborde del impacto que tenga la esa Cssb. Vamos a ver si es grave o no también. Y eso va a estar afectado después a el nivel de crisis que tiene y los colores que le va a poner
+
+281
+00:42:54.630 --> 00:42:58.859
+Dario Rizzo: la aplicación que han hagan análisis de de estos C V
+
+282
+00:42:59.880 --> 00:43:08.390
+Dario Rizzo: son de código orbitario suponen la mayor gravedad, puesto que significa que el atacante podrá ejecutar cualquier programa en el sistema de su víctima. No
+
+283
+00:43:09.420 --> 00:43:23.620
+Dario Rizzo: ten en cuenta que si yo tengo una encuentro, no sé una buena idea que puedo inyectar código o ejecutar cualquier tipo de código o en algún permiso en particular, obviamente puedo yo bajar un programa que hice yo. Y puedo hacer cualquier cosa sobre el sistema, No, obviamente.
+
+284
+00:43:24.490 --> 00:43:28.240
+Dario Rizzo: Por lo tanto, podría realizar cualquier acción. No.
+
+285
+00:43:29.280 --> 00:43:39.610
+Dario Rizzo: En todo caso, se dice que el sistema queda comprometido porque ha quedado en manos y la voluntad de un tercero. Obviamente, si yo ya un tercero ajeno a la
+
+286
+00:43:40.430 --> 00:43:51.659
+Dario Rizzo: no tiene una persona ajena que no tiene, no debería tener acceso al sistema tiene acceso inyecta, código y ya está. Estamos prácticamente regalados. Y bueno, ya estamos a merced de ellos de que hagan lo que quieran, No, obviamente
+
+287
+00:43:52.470 --> 00:43:58.649
+Dario Rizzo: peor sería de que también que te ha tenga acceso y que no, no, no, no lo podamos descubrir. Y la persona
+
+288
+00:43:58.840 --> 00:44:03.950
+Dario Rizzo: que esté ahí en forma persistente y y tenga esté bastante tiempo, No, Obviamente, también eso también es peor, también. No
+
+289
+00:44:04.880 --> 00:44:20.540
+Dario Rizzo: el tema, Obviamente que siempre, por lo general es es evitar que entren Bueno, no se capaz. No se puede 100 por 100, pero bueno ni para detectarlo a tiempo y ver cómo accionamos en el caso de que una vez ya está ahí adentro, la vi el el atacante, no
+
+290
+00:44:22.450 --> 00:44:23.740
+Dario Rizzo: el vector.
+
+291
+00:44:24.220 --> 00:44:32.490
+Dario Rizzo: el vector del ataque, no que que, ¿qué es lo que hace que pueda se hacer uso de esa vulnerabilidad. No vamos a ver por qué
+
+292
+00:44:33.870 --> 00:44:41.889
+Dario Rizzo: eso también va a estar siempre. No te va. Te van a van a decir el vector que usa el atacante para poder hacer uso de esa vulnerabilidad, explotarla. No
+
+293
+00:44:44.080 --> 00:44:58.430
+Dario Rizzo: acá hace referencia al vector a la forma que tiene el atacante de aprovechar la volatilidad se le conoce como vector de ataque. Está bien. Todo toda vulnerabilidad va a tener un vector de ataque si no, no, no, tiene, no tiene gracia de de de de de explicar el C V no
+
+294
+00:44:58.880 --> 00:45:00.120
+Dario Rizzo: y publicarlo.
+
+295
+00:45:01.650 --> 00:45:14.879
+Dario Rizzo: Ten en cuenta que esto se ve también muchas veces también muchas empresas. Lo que hacen es, digamos, es decirle bueno, a ver abro el software a la comunidad y que encuentre los fallos también. Eso también es bueno. Entonces, bueno, hago un programa de Batmanti.
+
+296
+00:45:14.940 --> 00:45:28.690
+Dario Rizzo: algún premio, un concurso o lo que sea el que encuentran a la humanidad. Bueno, di un premio y puedo solucionarlo sin ver afectado, digamos, a todo el público. Después, cuando el software lo comercialice o lo implemente
+
+297
+00:45:29.910 --> 00:45:36.360
+Dario Rizzo: modelo del back común es el envío de información especialmente manipulada a un puerto concreto del sistema, vieron que
+
+298
+00:45:36.370 --> 00:45:54.010
+Dario Rizzo: todos sistemas tienen puertos. Si yo tengo un puerto determinado que está escuchando, esperando a una un a una información en particular, y yo la manipulo. Obviamente que eso también, una modalidad también, o sea, enviarlo a un puerto, una, un pedazo de código manipulado. Está bien.
+
+299
+00:45:54.650 --> 00:46:00.890
+Dario Rizzo: Otra forma de conseguir aprovechar una oportunidad es creando un fichero manipulado que será procesado por ese programa.
+
+300
+00:46:02.230 --> 00:46:09.630
+Dario Rizzo: Por ejemplo, si se encuentra una unidad de Word, es muy probable que el vector de ataque sea un archivo, formato doc que aproveche la volatilidad. También
+
+301
+00:46:09.830 --> 00:46:14.490
+Dario Rizzo: yo descubro, descubren, no un C V para que fue Ta World. ¿saben
+
+302
+00:46:15.390 --> 00:46:29.440
+Dario Rizzo: lo más lógico, Es decir, bueno a ver, empezamos a dar phishing con un archivo de doc manipulado y que lo abre, obviamente va a abrir y para que haga uso de esa vulnerabilidad que la explote. Eso pasa generalmente.
+
+303
+00:46:32.130 --> 00:46:45.589
+Dario Rizzo: si la víctima la procesa con un work vulnerable atacante, conseguirá el impacto deseado, o sea, si justo tiene la versión que afecta, que se ve afectada por S, C, B o esa vulnerabilidad, obviamente que van a ejecutarlo. ¿va a encontrar la
+
+304
+00:46:46.050 --> 00:46:50.140
+Dario Rizzo: el vector de ataque para poder manipular el sistema, no
+
+305
+00:46:50.980 --> 00:47:04.789
+Dario Rizzo: igualmente por lo general, si bien deberían, si tiene un antivirus, debería pararlo, pero muchas veces, como es un word legítimo que no no lee dentro del archivo. Uno lo abre y explota la vulnerabilidad también.
+
+306
+00:47:05.390 --> 00:47:08.980
+Dario Rizzo: Y ya cuando lo el amigo lo reconoce. Ya es tarde, también
+
+307
+00:47:09.570 --> 00:47:15.060
+Dario Rizzo: muy distinto de si tienen un de un E, D E, R o un X de R, también. X, R,
+
+308
+00:47:15.220 --> 00:47:26.869
+Dario Rizzo: que lo que hace a mí, ese comportamiento es capaz, que cuando usted lo abren, ve el comportamiento que ejecuta el sol, el el momento del archivo y lo para también hasta que 1 lo analice
+
+309
+00:47:27.000 --> 00:47:30.630
+Dario Rizzo: hoy. Me contaba esta persona de
+
+310
+00:47:31.130 --> 00:47:37.130
+Dario Rizzo: de ese que, por ejemplo, no sé, dice una licencia de ese normal, vale ponerle 10 pesos, no
+
+311
+00:47:38.180 --> 00:47:46.450
+Dario Rizzo: 10 dólares, más o menos 10 dólares más algo más real y un E. D R. Ponerle dice que vale por lo menos 5 veces más un 50 dólares
+
+312
+00:47:46.670 --> 00:47:50.469
+Dario Rizzo: y un X D R. Varía. Dice que valía 10 veces más.
+
+313
+00:47:50.680 --> 00:47:58.079
+Dario Rizzo: ¿por qué? Porque dice que el el R y el otro y el X R. Tienen Tienen atrás de eso servicios de shock. Está bien.
+
+314
+00:47:58.440 --> 00:48:03.990
+Dario Rizzo: Entonces bueno, lo que hacen ellos es, digamos, si 1 no tiene, digamos, un shock implementado en su
+
+315
+00:48:04.990 --> 00:48:13.769
+Dario Rizzo: en su sitio. En su organización, conviene comprar un E, R, porque tiene el sobre de D, D, ese que revisa. También anda monitoreando constantemente todas las
+
+316
+00:48:13.920 --> 00:48:19.690
+Dario Rizzo: las alertas que dice el el software. No, obviamente
+
+317
+00:48:20.220 --> 00:48:22.910
+Dario Rizzo: que lo que hace es, le da el gases te
+
+318
+00:48:23.040 --> 00:48:25.899
+Dario Rizzo: que comprueba un proceso que está
+
+319
+00:48:26.360 --> 00:48:30.850
+Dario Rizzo: trabajando medio sospechoso, lo para automáticamente lo corta al proceso
+
+320
+00:48:31.070 --> 00:48:37.450
+Dario Rizzo: y le da interacción al usuario, a la persona, al administrador para que él diga qué hacer.
+
+321
+00:48:38.070 --> 00:48:45.090
+Dario Rizzo: El que toma la decisión final es el de usuario. No te dice, bueno, no ejecutarlo. Bueno, ya bajo tu responsabilidad. Pero yo te advertí. Está bien.
+
+322
+00:48:45.840 --> 00:49:01.650
+Dario Rizzo: Me contaba también en un caso de una una Pyme en Córdoba que se habían quejado con ellos porque no tenían el Tenían todos esos antiguos. Ese, Pero bueno, le entró un vaso le invitó toda la información
+
+323
+00:49:02.200 --> 00:49:04.400
+Dario Rizzo: y le pidieron 50 000 dólares de rescate.
+
+324
+00:49:05.750 --> 00:49:10.309
+Dario Rizzo: La gente del sistema dijo mirá pagalo porque no no pongo descifrar los archivos, lo pagaron
+
+325
+00:49:10.570 --> 00:49:16.150
+Dario Rizzo: y les mandó el software y el número de de aquí para seguir todos. Bueno, los Tips.
+
+326
+00:49:16.760 --> 00:49:18.629
+Dario Rizzo: yo me reía muy bien.
+
+327
+00:49:18.750 --> 00:49:30.910
+Dario Rizzo: Dice que el agente del sistema de la empresa no sabía usarlo. Se le pidió el favor a los tipos si podían. Se le dio acceso remoto a los delincuentes a los estafadores para que sí no es terrible
+
+328
+00:49:31.140 --> 00:49:37.390
+Dario Rizzo: para que le ayuden los tipos de ayudar. Me quedaron amigos. Dice que si Eugeo voy a los chats, y si no lo puedo creer.
+
+329
+00:49:37.610 --> 00:49:45.170
+Dario Rizzo: y si te estafaron, te cobraron 60 000 dólares y después que estaban, le agradecían porque los habían ayudado para recuperar toda tu información.
+
+330
+00:49:45.510 --> 00:50:02.060
+Dario Rizzo: No, No, no es terrible. Pero bueno, me dice, pasa más de lo que nos imaginamos. Me dijo, me dijo, me dijo él desde ese solo vemos cada cosa terrible que que obviamente no se ve. No lo vemos cotidianamente. Pero de la empresa se ve un montón de eso
+
+331
+00:50:02.870 --> 00:50:13.889
+Dario Rizzo: más de más de lo que más de lo pensado. Yo sé que hay muy poca gente que tiene backup y casi siempre cuando le quitas, lamentablemente pagan. Algunos lo reciben en series y otros no.
+
+332
+00:50:14.370 --> 00:50:15.040
+Dario Rizzo: no.
+
+333
+00:50:15.220 --> 00:50:22.240
+Dario Rizzo: Sí, Sí, Por lo general siempre se recomienda no pagar, pero bueno, después ya queda en 1
+
+334
+00:50:22.530 --> 00:50:25.700
+Dario Rizzo: cuán desesperado está para recuperar toda la información. No
+
+335
+00:50:28.080 --> 00:50:47.879
+Dario Rizzo: dice otros vectores de ataque. Pueden ser muy sencillos de llevar a cabo como hacer en la víctima el vicio del enlace, obviamente el famoso phishing se le manda un link, Hago clic, ese archivo, descarga un archivo malicioso y tomo el control, muchas también, lo que son, lo que veíamos mucho en policía que mandaban. Mandaban phishing, bastante
+
+336
+00:50:48.570 --> 00:50:58.210
+Dario Rizzo: poco poco probable que caigas. Pero bueno, caía la gente no que te decía, No sé, soy el rey de no sé qué cosa bla, bla, bla.
+
+337
+00:50:58.600 --> 00:51:01.770
+Dario Rizzo: y te mandaban
+
+338
+00:51:02.460 --> 00:51:07.920
+Dario Rizzo: te adjunto. La factura para que no me hagas la transferencia. Y voy a hacer una imagen de un P, D, F.
+
+339
+00:51:08.330 --> 00:51:15.630
+Dario Rizzo: Hacía o hacías clic y te llevaba a Google, drive y te bajaba un archivo a ver.
+
+340
+00:51:15.930 --> 00:51:20.950
+Dario Rizzo: Sí, Bueno, pues un punto ex después, también
+
+341
+00:51:21.180 --> 00:51:34.290
+Dario Rizzo: en un momento, hicieron una campaña difícil. Digamos que se hacían pasar por el jefe de policía de Interpol y que, bueno, había una una casa judicial en tu nombre tal tal que bajes la cédula de citación. Y bueno, 1 la bajaba.
+
+342
+00:51:34.290 --> 00:51:47.789
+Dario Rizzo: Y bueno, también tengo, si lo lo abrías tenía O, bueno es, como decía, el punto, exe con lo quería abrir y realidad ejecutaba 1 lo abre y ejecuta y no te muestra nada, y hace un montón de procesos por detrás.
+
+343
+00:51:47.910 --> 00:51:51.759
+Dario Rizzo: Nosotros lo analizamos en la en la sanbox.
+
+344
+00:51:51.850 --> 00:52:09.109
+Dario Rizzo: Y veíamos eso que vos lo Ejecutabas no te mostraba nada. Pero ¿por qué no ejecuta, viste normal? Lo que haría es ejecutaría como 89 veces porque no hace nada. Pero bueno, corría un montón de procesos. Te crea un montón de procesos por detrás que lo que hacía bueno era infectar el
+
+345
+00:52:09.240 --> 00:52:11.030
+Dario Rizzo: el la víctima, ¿no?
+
+346
+00:52:12.030 --> 00:52:18.630
+Dario Rizzo: Pero bueno, no te mostraba nada o no había nada. Entonces ya no pasó nada pero bueno, ejecutado por atrás, un montón de procesos.
+
+347
+00:52:20.490 --> 00:52:25.580
+Dario Rizzo: Muchas de las unidades encontradas en los navegadores son aprovechadas por atacama y creando una página web adulterada
+
+348
+00:52:26.080 --> 00:52:37.490
+Dario Rizzo: a solicitada con el navegador vulnerable y aprovecha la vulnerabilidad. No Muchas veces también vieron que ya hemos visto Modback, se vieron un montón de de de face que hacen de páginas web que lo que hacen es
+
+349
+00:52:37.690 --> 00:52:40.809
+Dario Rizzo: copian de forma similar. No sé si alguna vez le pidieron a la
+
+350
+00:52:41.030 --> 00:52:43.709
+Dario Rizzo: a la idea que le haga una copia de una página donde me pidieron.
+
+351
+00:52:43.920 --> 00:52:47.299
+Dario Rizzo: bueno es textual, te la crea textual
+
+352
+00:52:47.470 --> 00:52:56.280
+Dario Rizzo: idéntica o la publicada, si es igual una que varía del dominio. Obviamente porque no no tenemos acceso al dominio, pero te la crea idéntica.
+
+353
+00:52:57.580 --> 00:53:00.140
+Dario Rizzo: Y el otro día, el otro día nos estábamos probando un buen amigo
+
+354
+00:53:00.400 --> 00:53:08.139
+Dario Rizzo: en la página del P. J. M. Si podía acceder a una causa, no mira que la tiene un buscador de causas.
+
+355
+00:53:08.490 --> 00:53:09.350
+Dario Rizzo: Bueno.
+
+356
+00:53:09.460 --> 00:53:17.840
+Dario Rizzo: veías como el de allá, abría la página y intentaba saltear el captcha. O sea, primero analizaba la página web. Decía, bueno, tiene 2 campos. Bueno.
+
+357
+00:53:18.000 --> 00:53:33.919
+Dario Rizzo: el coso después decía, bueno, llenaba los campos, le daba a ejecutar. Normalmente no ejecutaba porque le faltaba el captcha también. Bueno, y después me empezó a probar el captcha, a romper, descifrar el captcha hasta que lo pude descifrar y Y ejecutó la consulta de la causa
+
+358
+00:53:33.970 --> 00:53:38.249
+Dario Rizzo: automáticamente. Si la página, digamos no, no, no comprueba que en realidad
+
+359
+00:53:38.500 --> 00:53:42.520
+Dario Rizzo: es un humano el que está atrás de la consulta.
+
+360
+00:53:43.120 --> 00:53:46.530
+Dario Rizzo: te pueden, digamos, ejecutar la consulta que quieran. Digamos.
+
+361
+00:53:48.070 --> 00:54:02.039
+Dario Rizzo: bueno, por lo tanto, enviar un enlace a la potencial de la víctima Si el vector de ataque en este caso, y el impacto podría ser la ejecución del del código malicioso? ¿no? Obviamente. Bueno, eso también va con lo que vimos anteriormente, que acuerda cuando vimos la primera, las primeras etapas que eran la primera etapa
+
+362
+00:54:03.240 --> 00:54:14.749
+Dario Rizzo: y sí reconocimiento. Exactamente. Bueno, yo reconozco a la víctima. Entonces, bueno, empiezo a mandarle phishing dirigido también
+
+363
+00:54:16.720 --> 00:54:27.389
+Dario Rizzo: y capaz que tengo la suerte que bueno que tiene de navegador vulnerable o me baja el el famoso, el P. D. F, que le mandé, que es un vouche para comprarse el iphone 18 que salió ahora, hoy no
+
+364
+00:54:27.960 --> 00:54:32.120
+Dario Rizzo: el plegable se llama. Pero bueno, el el
+
+365
+00:54:33.760 --> 00:54:37.759
+Dario Rizzo: no. Si está 18 18 18 pros, el Max y el otro. No sé cómo se llama el.
+
+366
+00:54:38.570 --> 00:54:41.340
+Dario Rizzo: Bueno, te ganaste, Te iba a decir, ganaste el iphone.
+
+367
+00:54:43.240 --> 00:54:50.579
+Dario Rizzo: Uno va a estar contento, que se lo ganó, lo va a bajar y va a como loquitas viendo el voucher. Y bueno, el Baucha no era un voucher, sino un virus. ¿no?
+
+368
+00:54:52.150 --> 00:55:01.549
+Dario Rizzo: Bueno, acá hay un ejemplo de todo lo conocen, lo que es el famoso Marx of Pain. Obviamente lo conocen, lo han usado. Seguramente sí. Ese sí no me diga que no lo usaron porque
+
+369
+00:55:01.750 --> 00:55:03.599
+Dario Rizzo: no hay personas en el mundo que no lo use.
+
+370
+00:55:04.380 --> 00:55:21.909
+Dario Rizzo: No creo que todas siguen en Windows. Así que, bueno, la versión de diseño gráfico necesita conocer el tamaño de la imagen que va a abrir antes de procesarla. Obviamente, es un 1, dice, bueno, es un dato bastante. Debería saberlo, ¿no? Obviamente, si no, ¿cómo puedo abrir una imagen, si no, si no tengo el tamaño, no del archivo.
+
+371
+00:55:22.150 --> 00:55:29.219
+Dario Rizzo: Para conseguir esto, marco son peine. Se ayuda de un oficio llamado Image 6. Dl: L. L. De Win de Microsoft.
+
+372
+00:55:29.340 --> 00:55:34.210
+Dario Rizzo: que está especializado en esta función, no está hecha de sable. L está destinada a eso.
+
+373
+00:55:35.180 --> 00:55:39.460
+Dario Rizzo: El programador de la aplicación microsoftpain, 7. No sé qué versión estará ahora.
+
+374
+00:55:39.580 --> 00:55:56.710
+Dario Rizzo: Omitió la comprobación correcta de decir de un parámetro que define longitud, que debe tener una imagen también en la función set image si se del fichero y Size Dl: Así pues, como no se comprueba que el valor del parámetro coincida con el tamaño real de la imagen. Se produce un desbordamiento de memoria.
+
+375
+00:55:57.140 --> 00:55:59.919
+Dario Rizzo: Estamos hablando de una empresa marzo que tiene
+
+376
+00:56:00.370 --> 00:56:16.119
+Dario Rizzo: recursos, calculo que debe tener un área adecuada, también bien conformada, ya tiene una experi Bueno, tiene un historial de, digamos, de fallo de seguridad importante? Bueno, debía tener más control con las lo con lo que hace, ¿no? Pero bueno.
+
+377
+00:56:18.680 --> 00:56:23.249
+Dario Rizzo: explicado de forma sencilla, la memoria del ordenador lleva a sitios donde no debería. Está bien.
+
+378
+00:56:23.660 --> 00:56:33.769
+Dario Rizzo: Por tanto, un atacante puede tocar la cabecera de una imagen para modificar su atributo de tamaño, añadir una imagen, el código que se quiere ejecutar y aprovecharse de la vulnerabilidad.
+
+379
+00:56:34.820 --> 00:56:36.129
+Dario Rizzo: Van a ver qué
+
+380
+00:56:36.930 --> 00:56:52.799
+Dario Rizzo: muchas imágenes también tienen las imágenes. También se le puede poner este tipo de fallos, obviamente. Y bueno, una simple imagen. Uno puede afectar un sistema, no, obviamente que 1 dice, no una imagen, no pasa nada. Yo la veo en Jpg. La abro también.
+
+381
+00:56:53.160 --> 00:56:59.540
+Dario Rizzo: Y bueno, ¿puede ¿puede afectarme el sistema operativo? Y la Y bueno, después puede
+
+382
+00:56:59.810 --> 00:57:07.180
+Dario Rizzo: los P. D, F, Con Con Con todo, con todos, casi todos los los archivos. Bueno, van World, Bueno, le vimos recién
+
+383
+00:57:09.630 --> 00:57:16.969
+Dario Rizzo: es que exactamente es un es un peligro. El ex también tiene los macros, también los magros no macros de los macros
+
+384
+00:57:17.650 --> 00:57:22.350
+Dario Rizzo: en realidad son, puedes programar básicamente dentro de de de la aplicación. Vale.
+
+385
+00:57:25.510 --> 00:57:30.060
+Dario Rizzo: va a ser obvio de Flow. Bueno, desbordamiento de baza
+
+386
+00:57:31.360 --> 00:57:33.840
+Dario Rizzo: 27. Son un Break. Te parece.
+
+387
+00:57:34.700 --> 00:57:44.530
+Dario Rizzo: Yo había veo caras medias de cuánto falta hace falta bastante que todo todo lista.
+
+388
+00:57:46.910 --> 00:57:47.540
+JUAN SANABRIA: Bueno.
+
+389
+00:58:04.080 --> 00:58:06.290
+Dario Rizzo: Pues mira, mira mira lo que te lo que tengo acá?
+
+390
+00:58:10.710 --> 00:58:12.980
+Dario Rizzo: Bueno, más resistencia
+
+391
+00:58:17.110 --> 00:58:18.270
+Dario Rizzo: alguna.
+
+392
+00:58:20.200 --> 00:58:22.110
+Dario Rizzo: Valenti ¿no?
+
+393
+00:58:23.010 --> 00:58:26.270
+Dario Rizzo: Sánchez Daurat.
+
+394
+00:58:27.500 --> 00:58:28.820
+FRANCISCO DAURAT: Acá presente, profe.
+
+395
+00:58:30.130 --> 00:58:43.900
+Dario Rizzo: Figueroa Fiore Barberies de es bicarbo maturano.
+
+396
+00:58:45.330 --> 00:58:46.380
+Dario Rizzo: Michelle.
+
+397
+00:58:50.570 --> 00:58:57.120
+Dario Rizzo: Michelle: ¡
+
+398
+00:58:57.120 --> 00:59:00.779
+JUAN SANABRIA: Se unió una vez acá virtual. Profe, pero se fue, me parece.
+
+399
+00:59:01.220 --> 00:59:12.020
+Dario Rizzo: Bueno, Pereira de M Catalano, catalano.
+
+400
+00:59:14.520 --> 00:59:16.150
+mateo Poggio Catalano: Acá acá Daley.
+
+401
+00:59:17.380 --> 00:59:20.350
+Dario Rizzo: Sachi Mhm.
+
+402
+00:59:20.350 --> 00:59:21.430
+ELISEO SACHI: Precedente profe.
+
+403
+00:59:21.720 --> 00:59:22.580
+Dario Rizzo: Sachi.
+
+404
+00:59:23.300 --> 00:59:24.609
+ELISEO SACHI: Acá virtual.
+
+405
+00:59:25.270 --> 00:59:27.350
+Dario Rizzo: Perfecto. Sanabria.
+
+406
+00:59:27.350 --> 00:59:28.220
+JUAN SANABRIA: Es de.
+
+407
+00:59:29.510 --> 00:59:30.700
+Dario Rizzo: Bustamante.
+
+408
+00:59:33.420 --> 00:59:40.089
+Dario Rizzo: Tengan en cuenta. Les quiero mostrar todavía. No le publiqué la unidad, pero bueno, acá van a ver. Van a tener un
+
+409
+00:59:43.360 --> 00:59:49.440
+Dario Rizzo: Natividad individual. Bueno, acá. Van a ver. Van a tener 3 C. V. Ah, no lo ven, los virtuales no no.
+
+410
+00:59:50.050 --> 00:59:52.370
+JUAN SANABRIA: No profe hay sueño, mille.
+
+411
+00:59:52.800 --> 00:59:53.590
+mateo Poggio Catalano: No, no.
+
+412
+00:59:55.300 --> 01:00:01.830
+Dario Rizzo: Pantalla a cambio, entró Mille.
+
+413
+01:00:02.600 --> 01:00:03.590
+JUAN SANABRIA: Sí.
+
+414
+01:00:06.230 --> 01:00:11.709
+Dario Rizzo: Bien, ahora me pongo presente. Bueno, acá van a ver que
+
+415
+01:00:12.130 --> 01:00:18.799
+Dario Rizzo: considerando el 13 B que lo van estos T, C B, que lo pueden buscar en Internet, lo van a encontrar Bueno.
+
+416
+01:00:19.190 --> 01:00:20.749
+Dario Rizzo: y tienen que ver.
+
+417
+01:00:23.090 --> 01:00:40.499
+Dario Rizzo: van a ver buscar los sitios web sugeridos de otros que pueden encontrar en esto, que brindique cada 1 de los C V. También. Bueno, van a ver si pueden busquen sitios que pueden que tengan esto C, V, que pueden encontrarlos, obviamente van a van a encontrar en Internet ¿En qué sitio está ese C, V. Por lo general, si lo buscan, van a encontrarlo.
+
+418
+01:00:42.010 --> 01:00:51.430
+Dario Rizzo: Sí, Sí, buscan ese C, B, Mira cómo hizo el hotel rubén que buscó el C V y le y lo llevaba a que si un montón de sitios que tenían ese C B, también
+
+419
+01:00:53.800 --> 01:01:03.520
+Dario Rizzo: forma que se utiliza el exployd. También busquen también eso. Van a ver la teoría de de ese exployd como se utili de ese ese fallo. ¿con qué se utiliza también
+
+420
+01:01:03.880 --> 01:01:06.520
+Dario Rizzo: código fuente de descuento? ¿será accesible
+
+421
+01:01:07.630 --> 01:01:13.460
+Dario Rizzo: explicar los efectos de ser ejecutado ese Deployd y que me devuelve. Está bien
+
+422
+01:01:13.570 --> 01:01:20.620
+Dario Rizzo: y cómo prevenir el sistema para que no sea vulnerable dichos plugid también que tengo que modificar yo en el sitio para que ese plura?
+
+423
+01:01:21.700 --> 01:01:24.060
+Dario Rizzo: Sí, Sí. Sí.
+
+424
+01:01:26.250 --> 01:01:29.080
+Dario Rizzo: Sí. Sí. Búsquenlo de.
+
+425
+01:01:30.940 --> 01:01:37.380
+Dario Rizzo: Bueno, pongan todos esos datos. Y, bueno, encuentren, traten de encontrar, eso, se ve y bueno.
+
+426
+01:01:37.970 --> 01:01:40.170
+Dario Rizzo: pongan todo en el en el trabajo. Está bien.
+
+427
+01:01:42.800 --> 01:01:45.000
+Dario Rizzo: Ahora fue público. La La unidad.
+
+428
+01:01:50.490 --> 01:02:07.330
+Dario Rizzo: como ustedes me están engañando de una manera, estoy llegando.
+
+429
+01:02:07.500 --> 01:02:12.699
+Dario Rizzo: No sé cuál vence ahora el cua el 4 para el hierro.
+
+430
+01:02:12.700 --> 01:02:15.339
+JUAN SANABRIA: Profesor justo. Le quería preguntar acerca de eso.
+
+431
+01:02:15.460 --> 01:02:16.870
+JUAN SANABRIA: Sí, Sí,
+
+432
+01:02:16.980 --> 01:02:24.150
+JUAN SANABRIA: yo estoy teniendo problemas con el Open, vas porque no, me no me sincronizan las Feed vio este.
+
+433
+01:02:24.730 --> 01:02:26.110
+JUAN SANABRIA: No sé si.
+
+434
+01:02:27.100 --> 01:02:29.399
+Dario Rizzo: Sí, a mí me pasó que
+
+435
+01:02:29.510 --> 01:02:34.250
+Dario Rizzo: para instalarlo fue un lío. Hay una forma de instalarlo con Docker.
+
+436
+01:02:34.700 --> 01:02:42.909
+JUAN SANABRIA: A ver, yo probé, yo probé instalarlo a través de un script de la Comunidad y probé a instalarlo directamente en los repositorios de Linux.
+
+437
+01:02:43.090 --> 01:02:51.390
+JUAN SANABRIA: El problema no es instalarlo. El problema es que al momento yo, de entrar a la página no al localho que me pone.
+
+438
+01:02:51.610 --> 01:02:59.600
+JUAN SANABRIA: Se tienen que sincronizar las las las bases, las bases de datos, la vulnerabilidad, pero nunca nunca se terminan de sincronizar.
+
+439
+01:02:59.900 --> 01:03:03.150
+JUAN SANABRIA: Yo he visto tutoriales, todos y me dicen que, bueno, tarda un rato.
+
+440
+01:03:03.390 --> 01:03:10.279
+JUAN SANABRIA: pero a mí me tarda, o sea, yo he esperado una hora y media, y no, me no, me no me carga, ¿no? Entonces.
+
+441
+01:03:10.280 --> 01:03:15.829
+Dario Rizzo: A la lo pudo levantar en el Open vas.
+
+442
+01:03:21.380 --> 01:03:25.699
+mateo Poggio Catalano: Estoy teniendo problemas con con el servicio en sí, así que no tampoco.
+
+443
+01:03:27.020 --> 01:03:34.620
+Dario Rizzo: Sí después, que es la 4, No.
+
+444
+01:03:34.620 --> 01:03:35.660
+JUAN SANABRIA: Sí.
+
+445
+01:03:37.330 --> 01:03:43.099
+Dario Rizzo: Y porque me acuerdo que Rubén había mostrado, una vez de instalarlo con la
+
+446
+01:03:43.480 --> 01:03:53.420
+Dario Rizzo: con localizado Vos Te Bajabas, la el Docker con el open más incorporado. Y estaba adentro instalado, viste lo bajabas, lo levantabas y te levantaba automáticamente, pero no.
+
+447
+01:03:54.790 --> 01:03:59.629
+Dario Rizzo: Luego no, no en lo el el fue. No, no, no.
+
+448
+01:04:00.440 --> 01:04:08.450
+Dario Rizzo: el cua no fue cuando me he pasado lo que le puedo decir a ver si me puede mandar un tutorial, un video de cómo hacerlo, para levantarlo con el Docker.
+
+449
+01:04:10.090 --> 01:04:11.580
+Dario Rizzo: porque
+
+450
+01:04:14.770 --> 01:04:20.839
+Dario Rizzo: pero Si me lleva bastante de abuelo tipo podré resolverlo porque si no, no vamos a poder hacer el trabajo.
+
+451
+01:04:21.020 --> 01:04:37.920
+Dario Rizzo: lo podríamos hacer, pero no podríamos hacer capturas en pantalla. Vencelons ha vencido, no a ver.
+
+452
+01:04:41.380 --> 01:04:42.360
+Dario Rizzo: Bueno, por eso.
+
+453
+01:04:42.360 --> 01:04:43.680
+JUAN SANABRIA: Profe otra pregunta.
+
+454
+01:04:43.680 --> 01:04:47.079
+Dario Rizzo: Ahí lo Metic, el 4, la fecha de entrega.
+
+455
+01:04:48.600 --> 01:04:58.039
+JUAN SANABRIA: Profe eso de Nesus, la actividad de Nesus. No entiendo muy bien qué hay que hay que hacer, porque nos da la máquina y el usuario, pero no.
+
+456
+01:04:59.430 --> 01:05:00.790
+Dario Rizzo: ¿cuál es el la?
+
+457
+01:05:00.790 --> 01:05:01.240
+JUAN SANABRIA: En el.
+
+458
+01:05:01.240 --> 01:05:01.610
+Dario Rizzo: Sí.
+
+459
+01:05:01.610 --> 01:05:02.449
+JUAN SANABRIA: El cuadro no.
+
+460
+01:05:04.600 --> 01:05:05.420
+Dario Rizzo: En serio.
+
+461
+01:05:11.430 --> 01:05:13.930
+JUAN SANABRIA: Dice: actividad individual de sushi.
+
+462
+01:05:13.930 --> 01:05:18.730
+Dario Rizzo: No vendo Awan Oporto. No.
+
+463
+01:05:19.290 --> 01:05:19.980
+Dario Rizzo: Mhm.
+
+464
+01:05:23.840 --> 01:05:29.179
+Dario Rizzo: Sí, está. No. En realidad hay que hacer la de Open Bach, No, la de en eso no.
+
+465
+01:05:30.340 --> 01:05:31.450
+JUAN SANABRIA: bien.
+
+466
+01:05:31.450 --> 01:05:35.920
+Dario Rizzo: Lo que pueden hacer. También pueden usar el Nexus para hacer lo mismo que no que con el Open Bass.
+
+467
+01:05:36.280 --> 01:05:39.659
+JUAN SANABRIA: Sí, yo no tengo idea de que es por eso pregunto que es como un open vases.
+
+468
+01:05:39.660 --> 01:05:43.690
+Dario Rizzo: Si quieren, pueden usar el N e X, u si total es lo mismo.
+
+469
+01:05:43.930 --> 01:05:45.120
+JUAN SANABRIA: Bien, bien, bien.
+
+470
+01:05:45.120 --> 01:05:54.149
+Dario Rizzo: Ten en cuenta que el Ope, el open base es la versión bueno, Igual tiene la versión pro también paga, Pero bueno, es la versión gratuita de como de Nexus. Saben.
+
+471
+01:05:55.790 --> 01:06:08.290
+Dario Rizzo: a mí también a mí me costó un montón levantarlo el open mayor lo con el cali lo quise levantar, y nunca me levanto. Me pasaba, me pasaba la lengua que le pasaba a él, que estaba la base de datos, esa que trataba de bajar bajaba bajar, a bajar.
+
+472
+01:06:08.290 --> 01:06:14.320
+JUAN SANABRIA: Claro, Sí, sí, no. Yo la traté de bajar manualmente con una máquina de como de 80 gigas.
+
+473
+01:06:14.470 --> 01:06:20.999
+JUAN SANABRIA: y la primera vez que lo intentó, se me llenó el disco. Profe. Así que tuve que borrar la máquina y volverlo a hacer todo.
+
+474
+01:06:21.000 --> 01:06:29.610
+Dario Rizzo: En una, lo eliminé. La virtual. La levanté de vuelta, me me bajó la base, y cuando lo quise iniciar, nunca me inició.
+
+475
+01:06:30.180 --> 01:06:31.400
+JUAN SANABRIA: Claro si no.
+
+476
+01:06:31.400 --> 01:06:31.950
+Dario Rizzo: Qué más.
+
+477
+01:06:33.110 --> 01:06:39.540
+Dario Rizzo: Pero bueno, estaba la la cena, esa de de de de localizado que está está buena, pues ya te viene
+
+478
+01:06:39.740 --> 01:06:43.089
+Dario Rizzo: en la en el contenedor. Ya te viene.
+
+479
+01:06:43.270 --> 01:06:45.999
+Dario Rizzo: Se ha levantado la base de hocistalada, todo.
+
+480
+01:06:46.440 --> 01:06:48.040
+JUAN SANABRIA: Había 90. Tantos: Sí.
+
+481
+01:06:51.180 --> 01:06:54.789
+Dario Rizzo: Pero bueno, última, si no les anda el open vasos en el Nexus.
+
+482
+01:06:55.140 --> 01:07:04.459
+Dario Rizzo: Pero bueno, si si quieren, después pruébenlo con el si quiere probarlo probalo y a ver si si, si, pero bueno, es lo mismo
+
+483
+01:07:06.800 --> 01:07:08.870
+Dario Rizzo: y el
+
+484
+01:07:09.130 --> 01:07:14.549
+Dario Rizzo: el necio, si lo bajas, creo que te deja varias Ip gratis. Ya después te empieza a cobrar.
+
+485
+01:07:15.110 --> 01:07:19.040
+JUAN SANABRIA: O sea, solo una vez, como O sea que que.
+
+486
+01:07:19.040 --> 01:07:19.410
+Dario Rizzo: Sí, claro.
+
+487
+01:07:19.410 --> 01:07:20.060
+JUAN SANABRIA: Seguro que es.
+
+488
+01:07:20.060 --> 01:07:24.120
+Dario Rizzo: Da. No sé cuántas cosas ipe libres para poder escanear en.
+
+489
+01:07:24.120 --> 01:07:25.969
+JUAN SANABRIA: Con que me dije una vez nomás.
+
+490
+01:07:25.970 --> 01:07:32.519
+Dario Rizzo: Pero bueno, pero alcanza para el trabajo. Alcanza a la virtual de Windows
+
+491
+01:07:33.250 --> 01:07:46.290
+Dario Rizzo: es que dice, si no, si lo que tiene la la la de Windows, que está bastante liberada como para que te dé bastante largo El reporte
+
+492
+01:07:46.700 --> 01:08:05.740
+Dario Rizzo: no tenés que chamular para fines académicos, ¿no? Si le decís que firmas a un acuerdo de confidencialidad, decirle a ver si te dice te a ver qué te dice
+
+493
+01:08:05.810 --> 01:08:12.260
+Dario Rizzo: lo tenés firmado, hay que tratar de de darle la vuelta.
+
+494
+01:08:12.780 --> 01:08:27.630
+Dario Rizzo: ¿no? Pero sí. Pero hay alumnos que hicieron sobre Wind con la Windows en el año pasado, y a 1 le pega un sitio X,
+
+495
+01:08:27.890 --> 01:08:38.300
+Dario Rizzo: Pero, bueno, el precio vale y el límite. De qué qué te lo da
+
+496
+01:08:38.850 --> 01:08:48.470
+Dario Rizzo: el acuerdo? Confidencialidad con el usuario? El Acuerdo de Janeo. Si no tienes acuerdo, te pueden decirte que puede ser un ataque.
+
+497
+01:08:51.270 --> 01:08:53.119
+Dario Rizzo: No, No, no, no, dije nada, No dije nada.
+
+498
+01:08:56.000 --> 01:08:57.959
+Dario Rizzo: Bueno, vamos al recreo.
+
+499
+01:09:04.100 --> 01:09:11.449
+Dario Rizzo: Si tienen alguna consulta sobre las unidades anteriores para el examen después, le creo. Lo las analizamos.
+
+500
+01:09:17.210 --> 01:09:17.930
+Dario Rizzo: Mhm
+
+501
+01:09:21.370 --> 01:09:31.540
+Dario Rizzo: a ver.
+
+502
+01:09:33.270 --> 01:09:42.830
+Dario Rizzo: Mhm: No, ¿sí?
+
+503
+01:09:43.470 --> 01:09:54.390
+Dario Rizzo: Y Velázquez, no, ahí levantamos fuera de clase.
+
+504
+01:09:58.320 --> 01:09:59.190
+Dario Rizzo: ¿no?
+
+505
+01:10:00.270 --> 01:10:03.650
+Dario Rizzo: Y son la verdad.
+
+506
+01:10:06.060 --> 01:10:07.110
+Dario Rizzo: Bueno, pua.
+
+507
+01:10:09.430 --> 01:10:19.510
+Dario Rizzo: Entonces el Barcelona informe y eso no no los matan a ver.
+
+508
+01:10:21.430 --> 01:10:22.939
+Dario Rizzo: Pero bueno para el final lo es?
+
+509
+01:10:23.280 --> 01:10:35.900
+Dario Rizzo: Sí pregunta. No lo tengo en el blanco. Así que en teoría, y lo sé,
+
+510
+01:10:37.870 --> 01:10:48.610
+Dario Rizzo: el poder entrar en el parcial cuando entrabas, hay una vulnerabilidad de sol.
+
+511
+01:10:48.610 --> 01:11:07.869
+Dario Rizzo: cambiabas los números y entrabas y entrabas a cualquier archivo que esté publicado. Había un poco de papel
+
+512
+01:11:07.870 --> 01:11:09.449
+Dario Rizzo: a lo mejor veo ser.
+
+513
+01:11:10.100 --> 01:11:16.360
+Dario Rizzo: Pero igual eso para eso está. Es un servicio que te vende la empresa de vlado, pero
+
+514
+01:11:16.720 --> 01:11:30.520
+Dario Rizzo: sí. Pero bueno, ese número y ten el examen. Uff
+
+515
+01:11:34.320 --> 01:11:35.580
+Dario Rizzo: gracias a ti.
+
+516
+01:57:13.130 --> 01:57:13.800
+Dario Rizzo: dentro.
+
+517
+01:57:14.050 --> 01:57:15.840
+Dario Rizzo: Bueno, hoy hoy me abandono
+
+518
+01:57:16.000 --> 01:57:19.350
+Dario Rizzo: el profe de la parte práctica. Así que, Bueno, vamos a ir con la teoría.
+
+519
+01:57:22.250 --> 01:57:23.050
+Dario Rizzo: Mhm.
+
+520
+01:57:31.470 --> 01:57:34.069
+Dario Rizzo: Gente remota, me escucha. Está viendo la presentación.
+
+521
+01:57:34.070 --> 01:57:35.180
+JUAN SANABRIA: Sí, Sí.
+
+522
+01:57:35.830 --> 01:57:36.540
+Dario Rizzo: Genial.
+
+523
+01:57:37.510 --> 01:57:42.800
+Dario Rizzo: Bueno, como mencionamos antes, desbordamiento de Buffer.
+
+524
+01:57:44.920 --> 01:57:48.269
+Dario Rizzo: Q ¿Qué dijimos antes? Que era el desbordamiento?
+
+525
+01:57:49.830 --> 01:57:50.949
+Dario Rizzo: Ohh, tengo agua.
+
+526
+01:57:54.190 --> 01:58:04.839
+Dario Rizzo: Bueno, son la la capacidad exactamente. Tengo una variable asignada o no sé un peso de memoria que tengo que que tengo, que vi ustedes vieron? ¿qué vieron el programa? Vieron ya así?
+
+527
+01:58:05.610 --> 01:58:07.490
+Dario Rizzo: ¿qué creemos que le hemos separación? Vieron.
+
+528
+01:58:08.260 --> 01:58:17.869
+Dario Rizzo: bueno, pero sí vino. Se vieron que se pueden manejar memoria. O sea, bueno,
+
+529
+01:58:19.160 --> 01:58:30.049
+Dario Rizzo: bueno, mira qué buena? Bueno, hay una buena variable mal definida. Obviamente, si la puedo decir, la siento un varón más alto. La rombo, ¿no?
+
+530
+01:58:30.900 --> 01:58:38.889
+Dario Rizzo: Bueno o capaz que no se quiere guardar en una ray. Quiero guardarme una palabra no me entra obviamente me va a quedar fuera de la palabra o, es decir, no.
+
+531
+01:58:39.430 --> 01:58:58.719
+Dario Rizzo: Bueno, debo hacer del inglés. Va a ser Flow. No es un error de software que se produce cuando un programa no controla adecuadamente la cantidad de datos que se copian sobre un área de memoria reservada a tal efecto. El va a ser, no, pero que el va a ser está guardado ahí. Tengo un espacio de memoria asignado 1 que cuando ¿qué pasa cuando compila el software
+
+532
+01:58:58.960 --> 01:59:05.110
+Dario Rizzo: empieza a analizar las cosas. Entonces ya sabe que hay una variable que tiene tanto espacio de muertos y la reserva para esa variable no.
+
+533
+01:59:05.890 --> 01:59:09.870
+Dario Rizzo: Pero la memoria es aleatoria. No es como guarda una información
+
+534
+01:59:11.330 --> 01:59:19.660
+Dario Rizzo: bueno, de forma que si dicha cantidad es superior a la capacidad de reasignada, los bytes sobrantes se almacenan en zonas de memoria adyacente, no
+
+535
+01:59:20.420 --> 01:59:31.090
+Dario Rizzo: sobrescribiendo su contenido original. ¿qué pasa Yo tengo reservado para 5 caracteres. Llega 3, 6, 7, y 8. Lo va a guardar. Lo va a guardar en cualquier lugar de la memoria.
+
+536
+01:59:31.310 --> 01:59:42.690
+Dario Rizzo: Si en ese lugar había algo importante o tenía una dirección, un puntero a otra otro lugar lo va a pisar también. Entonces, ¿qué hace? Rompe toda la la la información que está guardada en memoria
+
+537
+01:59:44.190 --> 01:59:50.489
+Dario Rizzo: que esto constituye un fallo de programación. Como dijimos anteriormente, que los fallos eran casi todos eran humanos. No los fallos de
+
+538
+01:59:50.880 --> 01:59:54.060
+Dario Rizzo: y la de desarrollo más. Casi todos.
+
+539
+01:59:54.500 --> 02:00:01.120
+Dario Rizzo: Bueno, en las escrituras comunes de computadoras no existe separaciones de las zonas de memoria dedicadas a datos y las dedicadas a programas.
+
+540
+02:00:01.440 --> 02:00:09.150
+Dario Rizzo: por lo que los se desbordan del Buffer podían grabarse donde antes había instrucciones, una instrucción.
+
+541
+02:00:09.320 --> 02:00:17.029
+Dario Rizzo: Obviamente que esa instrucción ya se elimina de la memoria y no sabe como continuar el proceso de ejecución del programa, no
+
+542
+02:00:18.210 --> 02:00:26.099
+Dario Rizzo: por lo que los guays que desbordan el Buffer podrán grabarse donde antes había instrucciones, lo que implicaría la posibilidad de alterar el flujo del programa.
+
+543
+02:00:26.500 --> 02:00:39.129
+Dario Rizzo: llevándole a realizar operaciones imprevistas que el programador original no tuvo en cuenta. Yo, y yo ya perdí el control de la memoria, digamos, de las variables guardadas, los punteros, las
+
+544
+02:00:39.420 --> 02:00:54.610
+Dario Rizzo: como que decía ahí los y las instrucciones. Yo, como programador, obviamente eso no lo tengo controlado, porque yo no consideré bien el tamaño de la variable obviamente va a romper todo el la ejecución del programa está bien.
+
+545
+02:00:56.420 --> 02:00:59.049
+Dario Rizzo: Bueno, eso es lo que se conoce como una vulnerabilidad.
+
+546
+02:01:01.400 --> 02:01:15.100
+Dario Rizzo: Bueno, una medida obviamente puede ser apoyada por un ser humano lesionado para influir en el funcionamiento del sistema. Ya lo dijimos anteriormente, en algunos casos en los dólares, la capacidad de conseguir el 18 nivel de control salándose las limitaciones de seguridad habituales, 1 de los una de las posiblemente desde los
+
+547
+02:01:15.100 --> 02:01:22.589
+Dario Rizzo: uso de hacer uso de esta vulnerabilidad es obviamente, siempre es conseguir un nivel más elevado del que tengo como usuario, no.
+
+548
+02:01:23.730 --> 02:01:29.149
+Dario Rizzo: Si el programa con el error de cuestión tiene privilegios especiales. Cuando dice un fallo de grave de seguridad.
+
+549
+02:01:29.380 --> 02:01:45.669
+Dario Rizzo: se denomina Shelcode al Código ejecutable, especialmente preparado, que se copia el host objeto del ataque para tener los privilegios del programa vulnerable van a ver que muchos de los Exployd que ustedes ejecutan o vean dentro del, digamos, de las herramientas de de para hacer, digamos.
+
+550
+02:01:45.860 --> 02:01:53.680
+Dario Rizzo: hacer, uso de una barbaridad. Obviamente van a tratar, digamos, de enviar código a la máquina atacada para poder ejecutarse de forma remota.
+
+551
+02:01:55.770 --> 02:01:56.840
+Dario Rizzo: No
+
+552
+02:01:56.990 --> 02:02:14.339
+Dario Rizzo: la capacidad de los proveedores en la clase pasada. Bueno, en la idea era en la en la práctica que mostraba rubén la idea era por medio de una de un de un error poder subir, llegar a una carpeta de Ruth era el la casa pasada.
+
+553
+02:02:14.530 --> 02:02:30.630
+Dario Rizzo: Obviamente que si todo lo que esté guardado en Root obviamente es el usuario super que tiene superpoderes dentro de Linux. Y si yo consigo un archivo de que está guardando en la barra de Barra Root, obviamente ya vulneré el sistema, digamos toda la seguridad que tiene el sistema, obviamente
+
+554
+02:02:32.820 --> 02:02:46.689
+Dario Rizzo: que era era atacar el archivo donde guardan todas las contraseñas y poder sacar de ahí la contraseña de Ruth y bueno, y hacer después ya tener la contraseña y bueno, y hacer lo que quiero cuando el sistema operativo, una vez que yo, una que yo soy Ruth en Linux.
+
+555
+02:02:46.870 --> 02:02:49.410
+Dario Rizzo: Soy el dueño del sistema. Está bien.
+
+556
+02:02:49.980 --> 02:03:01.329
+Dario Rizzo: Te permite conectar los los archivos como si tuvieras, o sea, como si fueras el el dueño, digamos.
+
+557
+02:03:01.520 --> 02:03:10.160
+Dario Rizzo: Y eso también es importante.
+
+558
+02:03:10.930 --> 02:03:21.479
+Dario Rizzo: Sí, sí, tal cual. Ten en cuenta. Bueno, ustedes, cuando vean en un sistema de sistema de linos, los usuarios y demás grupos y demás. Eso
+
+559
+02:03:21.580 --> 02:03:33.989
+Dario Rizzo: hay que dar los usuarios, los los grupos donde ponen cada usuario. Eso también es un tema porque si lo ponen un usuario en un grupo equivocado que tenga muchos permisos, eso también puede ser también un problema de seguridad. También
+
+560
+02:03:35.730 --> 02:03:41.819
+Dario Rizzo: aplicaciones en Linux. Por lo general, todo lo que son servicios le van creando usuarios también.
+
+561
+02:03:42.270 --> 02:03:50.379
+Dario Rizzo: Y esos usuarios tienen que tener privilegios para poder ejecutar el software. Y bueno, si ese usuario tiene muchos permisos, pueden hacer cualquier cosa.
+
+562
+02:03:52.070 --> 02:04:00.230
+Dario Rizzo: Bueno, la capacidad de los procesadores modernas para marcar zonas de memoria como protegidas pueden usarse para anonimar a aminorar el problema. ¿no?
+
+563
+02:04:01.110 --> 02:04:11.679
+Dario Rizzo: Hoy en día, muchas cosas digamos que antes capaz que hoy en día, con el tema de la, digamos que el hardware dentro de todo se va es más económico de lo que era en su momento.
+
+564
+02:04:12.180 --> 02:04:31.189
+Dario Rizzo: una computadora capaz que no algunos fallos, unos fallos en el tema de lo que sería el desarrollo de las aplicaciones. Obviamente no se nota tanto. Porque, bueno, hoy en día, casi todas las mallas vienen con 8 8 diseños, ya de memoria bueno, antes venían con memoria muy reducida. Entonces, digamos, un fallo de programación, no
+
+565
+02:04:31.430 --> 02:04:39.800
+Dario Rizzo: un malo manejo de recursos físicos, hacía que la aplicación se auto boicotee? No, obviamente.
+
+566
+02:04:40.010 --> 02:04:42.740
+Dario Rizzo: Bueno, es capaz que pasa de más desapercibido de lo que era antes.
+
+567
+02:04:44.480 --> 02:04:52.270
+Dario Rizzo: Bueno, si se produce un nintendo de escritura en una zona de memoria protegida se genera una sección del sistema de acceso a memoria, seguido de la terminación del programa.
+
+568
+02:04:53.430 --> 02:05:05.940
+Dario Rizzo: Por desgracia, para que esta técnica sea efectiva, los programadores han de indicar el sistema operativo de las zonas que se necesita. Bueno, vieron que hoy el desarrollador pobre es el la víctima. Ahora estamos atacando de todos lados pobres. No.
+
+569
+02:05:06.450 --> 02:05:14.620
+Dario Rizzo: no pasa nada. Vos Serías de desarrolladora. No. Ah, quién era desarrollador? Había un desarrollador. Ah, bueno, disculparnos, pero bueno, es así.
+
+570
+02:05:15.750 --> 02:05:21.060
+Dario Rizzo: Siempre. Buah, yo cuando estaba en en el área de infra bueno. El desarrollador siempre me peleaba con desarrolladores porque
+
+571
+02:05:21.220 --> 02:05:27.450
+Dario Rizzo: me me me me pasaban de desarrollo a producción en Querían pasar los archivos en 10 s
+
+572
+02:05:27.830 --> 02:05:31.469
+Dario Rizzo: le digo, pero los probaste sí, sí, ya está probado, viste y eran
+
+573
+02:05:32.100 --> 02:05:34.240
+Dario Rizzo: imposible que lo pruebe en 10 s.
+
+574
+02:05:35.060 --> 02:05:44.640
+Dario Rizzo: Pero, bueno, bueno, un desbordamiento de Buffer ocurre cuando los datos se escriben en un buffer corrompen aquellos datos en direcciones de memoria adyacentes a los datos diseñados por el buffer
+
+575
+02:05:44.780 --> 02:05:47.859
+Dario Rizzo: debido a una falta de validación de los datos de entrada.
+
+576
+02:05:49.350 --> 02:05:51.979
+Dario Rizzo: Ahora, Acá esto esto que voy a mostrarles.
+
+577
+02:05:53.360 --> 02:06:08.600
+Dario Rizzo: Bueno, acá tenemos un mafer. Ocho by tipo String String a la ven y otros 2 Byte de tipo entero que es el B también acá dice, o sea, esto ya tiene nulos. Los bytes no están vacíos también.
+
+578
+02:06:10.410 --> 02:06:16.099
+Dario Rizzo: Bueno, ti, cuando tiene acá 1, 2, 3, 4, 5, 6, 7, 8. Lo que decía el esquina, No.
+
+579
+02:06:17.110 --> 02:06:22.460
+Dario Rizzo: yo reservo para la variable a 8. Byte. ¿ven?
+
+580
+02:06:24.060 --> 02:06:25.020
+Dario Rizzo: Bueno.
+
+581
+02:06:26.180 --> 02:06:42.740
+Dario Rizzo: ¿Qué pasa el programa mañana? ¿es demasiado. También entonces demasiado empiezo a escribir a demasiado, y la o se me sale, digamos, de la versión reservado también. Y me escribe en la variable de al lado que estaba la la la variable B. También.
+
+582
+02:06:43.490 --> 02:06:57.889
+Dario Rizzo: No volví a hacer el ojito de la cadena. Si yo no esto, esto no lo controlé, Obviamente que no lo tengo controlado, escribo escribo, escribo, escribo todo lo que el usuario me guardó esa variable, obviamente. ¿qué pasa ahí? Ha pasado lo que se dice, el desbordamiento de la memoria también.
+
+583
+02:06:58.020 --> 02:07:04.630
+Dario Rizzo: Entonces la o va allá escribe en la otra variable que estaba al lado el espacio reservado de memoria.
+
+584
+02:07:05.320 --> 02:07:08.270
+Dario Rizzo: A pesar de que el programador no quería cambiar el contenido del Bafterb.
+
+585
+02:07:09.050 --> 02:07:21.470
+Dario Rizzo: El valor de este ha sido reemplazado por un número equivalente, aparte de la cadena de caracteres también porque Goivber se pasó. No cortó y no controló la cantidad de caracteres que tenía que tener la memoria: la variable.
+
+586
+02:07:22.470 --> 02:07:32.589
+Dario Rizzo: Si B fuese la única variable parte de A definida en el programa La escritura de datos que sobrepasa los límites B generarían un error como segmentación favore, concluyendo así el programa. Obviamente.
+
+587
+02:07:33.660 --> 02:07:40.369
+Dario Rizzo: si esto escribo acá como va a llegar. Así se corrompe y el programa se termina de forma brusca, digamos no, porque ya
+
+588
+02:07:41.020 --> 02:07:46.419
+Dario Rizzo: la variable sobre pasó la en la memoria que tenía almacenada o reservada para esa variable.
+
+589
+02:07:49.120 --> 02:08:01.630
+Dario Rizzo: Bueno, Ahora vamos a ver un código ejemplo de código. C: Hay un error de programación. Está bien y si no en el siguiente ejemplo, si quieren eso, pues compiló ni péguenlo ni ejecútenlo si tienen algún compilador. Ese y van a ver el la falla.
+
+590
+02:08:01.740 --> 02:08:13.089
+Dario Rizzo: El siguiente ejemplo se presenta un código fuente C, con un error de programación. En una vez compilado, el programa genera un desbordamiento de gafas y se le invoca desde la línea de comandos con un argumento lo suficientemente grande.
+
+591
+02:08:13.940 --> 02:08:18.670
+Dario Rizzo: pues este argumento se usa para llenar el buffer sin validar previamente su longitud.
+
+592
+02:08:20.950 --> 02:08:22.529
+Dario Rizzo: Ahí tienen el código fuente.
+
+593
+02:08:23.560 --> 02:08:33.510
+Dario Rizzo: ¿alguien ¿Alguien alguien lo puede leer y sabe que hace cada cada cada función Sí, sí,
+
+594
+02:08:33.770 --> 02:08:36.820
+Dario Rizzo: Bueno, no importa, obviamente, pero bueno.
+
+595
+02:08:36.990 --> 02:08:39.829
+Dario Rizzo: pero bueno, ¿el qué ¿Qué ven ahí mal
+
+596
+02:08:44.180 --> 02:08:47.790
+Dario Rizzo: modo de uso supera la de los reservados.
+
+597
+02:08:48.010 --> 02:08:55.659
+Dario Rizzo: Calculo tiene 1, 2, 3, 4, 5, porque el espacio también cuenta 6, 7, 8, 9, 10, 11. Está bien.
+
+598
+02:08:58.370 --> 02:09:00.999
+Dario Rizzo: y nosotros nosotros, que reservábamos 10, también.
+
+599
+02:09:01.320 --> 02:09:02.190
+Dario Rizzo: Bueno.
+
+600
+02:09:05.510 --> 02:09:11.360
+Dario Rizzo: ahora vamos vamos a reescribirlo. Se reescribe con la solución para
+
+601
+02:09:12.130 --> 02:09:16.970
+Dario Rizzo: para para para para arreglarlo con la función String Copy. Está bien
+
+602
+02:09:18.620 --> 02:09:33.000
+Dario Rizzo: bueno. Y ahí ya con eso, Supuestamente, si ustedes ejecutan, copian un ipdrol en un copiador de ese, y van a ver que con esto no va a haber el programa. Se va a ejecutar bien. Me va a mostrar todo bien y no se va a
+
+603
+02:09:33.210 --> 02:09:35.890
+Dario Rizzo: a tirar el el error de ejecución, tiempo de ejecución.
+
+604
+02:09:40.230 --> 02:09:41.619
+Dario Rizzo: Bueno, explotación.
+
+605
+02:09:41.730 --> 02:09:46.579
+Dario Rizzo: Obviamente que yo conozco vulnerabilidades. La idea sería explotarlas, no
+
+606
+02:09:48.770 --> 02:09:53.949
+Dario Rizzo: que no es: no es tierra, no tirar una bomba, obviamente no, que es explotar una buena bebida
+
+607
+02:09:54.900 --> 02:09:58.150
+Dario Rizzo: en palabras pagárselo.
+
+608
+02:10:01.040 --> 02:10:05.529
+Dario Rizzo: Mire que el final es oral. ¿
+
+609
+02:10:05.980 --> 02:10:08.729
+Dario Rizzo: ¿puedo tomar ahora de final? ¿puedo tomar oral este año.
+
+610
+02:10:09.780 --> 02:10:16.109
+mateo Poggio Catalano: No sería abusar de lo que ya ya está descubierto como una falla.
+
+611
+02:10:16.680 --> 02:10:17.049
+Dario Rizzo: Se me.
+
+612
+02:10:17.050 --> 02:10:19.200
+mateo Poggio Catalano: Ser un más.
+
+613
+02:10:20.200 --> 02:10:22.530
+Dario Rizzo: Sí, Sí, termino terminar la la idea.
+
+614
+02:10:23.390 --> 02:10:24.190
+mateo Poggio Catalano: No, no.
+
+615
+02:10:27.490 --> 02:10:28.390
+Dario Rizzo: Lo que
+
+616
+02:10:30.400 --> 02:10:41.860
+Dario Rizzo: bueno la idea de bueno es, o sea, es esa, digamos, aprovechar por medio de una técnica alguna bebida que ya está descubierta, ¿no? O que yo descubrí si tengo la suerte de descubrirlo, No, Obviamente
+
+617
+02:10:44.680 --> 02:10:54.440
+Dario Rizzo: es necesario explotar todas las modalidades que se encuentran en la fase de numeración. Yo en escaneo. Encuentro 50 manualidades. La tengo que explotar todas.
+
+618
+02:10:55.130 --> 02:10:56.140
+Dario Rizzo: ¿por qué?
+
+619
+02:10:56.820 --> 02:11:03.600
+Dario Rizzo: Y porque, o sea, sería, se puede.
+
+620
+02:11:04.050 --> 02:11:08.410
+Dario Rizzo: Sí, sería hasta tiempo.
+
+621
+02:11:09.680 --> 02:11:25.220
+Dario Rizzo: ¿ Claro que encuentre una una y la pueda explotar. Ya está. Mi objetivo ya está ya está cumplido, Digamos no, eso, o sea, seguir con las otras 49, ¿No tiene sentido también
+
+622
+02:11:25.460 --> 02:11:30.929
+Dario Rizzo: política de la no, Pero bueno ya con una tratar de si ya pruebo con una, le
+
+623
+02:11:31.000 --> 02:11:38.080
+Dario Rizzo: puedo encontrar el fallo, la exploto y puedo acceder y llegar a mi objetivo ya con eso. Ya estamos satisfecho.
+
+624
+02:11:38.150 --> 02:11:52.219
+Dario Rizzo: Si después veo otra que me que es mejor que me da más acceso o puedo hacer más daño o lo que sea bueno o otra cosa también. Pero bueno, no hace falta todas las que encontré explotarlas.
+
+625
+02:11:52.300 --> 02:12:01.829
+Dario Rizzo: Claro. Bueno, sí sí capaz, que si es la, no sé, arca viste que.
+
+626
+02:12:01.920 --> 02:12:13.350
+Dario Rizzo: pero aún así, de sí es verdad. También También de también depende también, digamos la el si no capaz, que también la motivación de la que te lleva a vos hacer el ataque. Obviamente, si vos Sos, una persona, Digamos que no sé
+
+627
+02:12:13.350 --> 02:12:22.890
+Dario Rizzo: que Sos del I S. I S y encontrás alguna alguna buenidad en un sitio de Estados Unidos vas a querer matar la la la 900, unidades que encontradas está bien.
+
+628
+02:12:23.660 --> 02:12:25.200
+Dario Rizzo: Soy el zombie
+
+629
+02:12:25.900 --> 02:12:38.659
+Dario Rizzo: más pata. Te da exactamente cuanto más más esa burnería, más daño haga, obviamente te van a dar más plata, porque para encontrarte algo más crítico, digamos no en el sistema. Eso también es verdad.
+
+630
+02:12:39.150 --> 02:12:42.299
+Dario Rizzo: Todo Todo depende de la motivación que 1 tenga. ¿no? Obviamente, también.
+
+631
+02:12:43.120 --> 02:12:50.769
+Dario Rizzo: Bueno, hacer esto es una tarea intrusiva, como dijimos anteriormente: ¿Qué pasa cuando hacemos intrusivo? Una que te intrusiva? ¿qué puede pasar?
+
+632
+02:12:51.070 --> 02:12:52.520
+Dario Rizzo: Sí, poder estar
+
+633
+02:12:55.450 --> 02:13:03.909
+Dario Rizzo: exactamente si yo tengo las de las 50 en empiezo a hacer hacer tratar de hacer uso con todas capaz que cuanto más acá más uso, más más
+
+634
+02:13:03.960 --> 02:13:20.719
+Dario Rizzo: más quiero entrar, más, voy a dejar capaz que con una, no pasa a pasar desapercibido, no y capaz, que con ha Hago 2 o 3 más, y ya me detectan también. Y me cortan el acceso, o bueno, o o a toda la herramienta de día. Si está bien implementado ahora una herramienta de ciberseguridad que me bloquee también.
+
+635
+02:13:21.810 --> 02:13:26.110
+Dario Rizzo: Bueno, hacer una tarea intrusiva por más que se haga de manera controlada. Obviamente.
+
+636
+02:13:26.590 --> 02:13:41.159
+Dario Rizzo: debe quedar claro al cliente que las acciones que llevaremos en esa fase en nuestro bueno, Nba, firmados donde se especifica dicha cuestión. Bueno, entonces, en el caso de que si lo hacemos en con algún cliente, estamos pactado Obviamente que todo lo que encontremos
+
+637
+02:13:41.300 --> 02:13:56.060
+Dario Rizzo: y si algunas, hacemos, si está firmado en el acuerdo que vamos, podemos explotarla, la hacemos, la explotamos también hasta ver dónde llegamos. Si en el acuerdo no dice que las vamos a explotar. No tenemos que hacerlo. También decimos. Mirá. Encontré esto.
+
+638
+02:13:56.200 --> 02:14:10.029
+Dario Rizzo: Esto es la forma de explotarla, y esta es la forma de remediarlo también porque, por una cuestión digamos de que no tengo, no tengo el el el permiso concreto del de la de la víctima o del cliente para entrar al sistema? Obviamente no.
+
+639
+02:14:11.470 --> 02:14:21.640
+Dario Rizzo: porque no sabemos nosotros, si perdemos una variedad que capaz, que que ¿Cómo impacta en el lado del cliente capaz que entramos vulnera y se cae todo. Y bueno, el cliente te va a matar, no, obviamente
+
+640
+02:14:24.020 --> 02:14:31.640
+Dario Rizzo: o capaz, que no tienen forma, digamos, de de como como s. ¿cómo arreglarlo en forma inmediata. Está bien? Bueno, explíca vez
+
+641
+02:14:32.460 --> 02:14:47.319
+Dario Rizzo: de manera por offenc insecuty y su proyecto con fin y fines de lucro que se ofrece como un servicio público de seguridad ofensiva. También van a ver que esta esta base de datos de exploy hay un montón de bases de Deploy que ustedes pueden pueden revisar y Bueno, van a encontrar para todo tipo de vulnerabilidades también.
+
+642
+02:14:50.060 --> 02:15:03.140
+Dario Rizzo: Bueno, ahí tienen dentro del Cáliz para usar esta herramienta también que pueden encontrarla. Pueden buscar ahí. Searchployd eterna Blue. Y le va a mostrar todos los datos que tengan. Para ese Exployd, no
+
+643
+02:15:05.130 --> 02:15:10.750
+Dario Rizzo: van a ver, acá acá. Bueno, acá. Ven Python también
+
+644
+02:15:11.040 --> 02:15:21.379
+Dario Rizzo: está desarrollado en Python y acá le dice los posibles las posibles víctimas que le convenga. Decía esa buena que decía que era de 7 para abajo en el canal. Lo bueno ahí está
+
+645
+02:15:21.970 --> 02:15:24.779
+Dario Rizzo: comprobado. Así que no, no mentía el compañero.
+
+646
+02:15:27.700 --> 02:15:30.160
+Dario Rizzo: Acá. Vamos a ver acá.
+
+647
+02:15:31.560 --> 02:15:32.520
+Dario Rizzo: Ahí está.
+
+648
+02:15:33.680 --> 02:15:36.840
+Dario Rizzo: Acá. Hay un montón de Van a ver un par de páginas acá. En la
+
+649
+02:15:37.310 --> 02:15:41.270
+Dario Rizzo: Ahora fue la vía pública. Van a ver que tienen
+
+650
+02:15:42.370 --> 02:15:49.620
+Dario Rizzo: base de datos de C, B también para para encontrar esta. Está muy buena a ver
+
+651
+02:15:54.350 --> 02:16:03.820
+Dario Rizzo: ten en cuenta que en algunas capas se las bloquea el antivirus o la herramienta de que tengan. Si tienen algún filtro en el en la navegación se la va, se la va a bloquear. Está bien.
+
+652
+02:16:05.560 --> 02:16:07.819
+Dario Rizzo: ¿qué quieren buscar, a ver qué vende o quieren buscar.
+
+653
+02:16:13.070 --> 02:16:23.070
+Dario Rizzo: Sí, es una una empresa en particular. Sí, Sony. Sony, a ver de alguna.
+
+654
+02:16:27.750 --> 02:16:30.300
+Dario Rizzo: Bueno, poquitas poquitas se encontraba poquitas.
+
+655
+02:16:31.560 --> 02:16:32.900
+Dario Rizzo: No tiene muchas.
+
+656
+02:16:33.350 --> 02:16:38.110
+Dario Rizzo: Bueno, mira, acá tienen, ves, le dice cadera en la columna.
+
+657
+02:16:38.110 --> 02:16:43.349
+mateo Poggio Catalano: La la a la pantalla, a la a la pantalla de búsqueda.
+
+658
+02:16:43.610 --> 02:16:44.539
+Dario Rizzo: Sí, por ejemplo.
+
+659
+02:16:44.549 --> 02:16:45.729
+mateo Poggio Catalano: No, no pasa nada.
+
+660
+02:16:47.320 --> 02:16:49.719
+Dario Rizzo: Me emociono y no me olvido de compartir.
+
+661
+02:16:50.820 --> 02:16:51.909
+Dario Rizzo: Ahí la ven.
+
+662
+02:16:52.789 --> 02:16:54.249
+JUAN SANABRIA: Esta caravana.
+
+663
+02:16:54.900 --> 02:16:59.389
+Dario Rizzo: Bueno, esta página es la página que estaba ahí en la presentación. Buscamos Sony.
+
+664
+02:17:04.530 --> 02:17:14.110
+Dario Rizzo: bueno, y acá van a encontrar un montón de variedades que tienen que encontré que descubrieron cuál es el fabricante igual. Son poquitas. Acá No hay muchas para Sony. En particular.
+
+665
+02:17:14.629 --> 02:17:19.790
+Dario Rizzo: Hemos dado 77 Navidades que afectan 444 productos de Sony.
+
+666
+02:17:20.090 --> 02:17:31.020
+Dario Rizzo: en teoría, sí, pues ya están descubiertas y ya están liberadas para que vos si tienes el producto afectado, lo encuentres y lo lo actualices
+
+667
+02:17:31.570 --> 02:17:32.790
+Dario Rizzo: a buscar.
+
+668
+02:17:32.799 --> 02:17:34.419
+JUAN SANABRIA: Y Bm: Con y Bm profe.
+
+669
+02:17:34.420 --> 02:17:38.200
+Dario Rizzo: De m a hombre hindú,
+
+670
+02:17:39.360 --> 02:17:55.639
+Dario Rizzo: julio. Vieron como fueron, fue surgiendo. Bueno, calculo que acá el color también demuestra la comicidad, No, también el rojito más oscuro. Pero bueno, ya ahí 8 645 y ven que son 10 años.
+
+671
+02:17:55.860 --> 02:18:02.540
+Dario Rizzo: tampoco es tanto. Y bueno, hubieron como fueron creciendo los años. ¿cómo fueron exponencialmente las las vulnerabilidades?
+
+672
+02:18:04.610 --> 02:18:06.870
+Dario Rizzo: Después a ver Microsoft.
+
+673
+02:18:12.690 --> 02:18:15.900
+Dario Rizzo: 16 498 vulnerabilidades.
+
+674
+02:18:16.020 --> 02:18:18.870
+Dario Rizzo: Intel One.
+
+675
+02:18:25.309 --> 02:18:30.179
+Dario Rizzo: 1 875 que eso que eso produce realmente fabrica. Hardware no
+
+676
+02:18:30.450 --> 02:18:33.100
+Dario Rizzo: hace un montón. Hace un montón igual.
+
+677
+02:18:33.760 --> 02:18:34.760
+Dario Rizzo: Hola que
+
+678
+02:18:36.950 --> 02:18:44.620
+Dario Rizzo: estas vulnerabilidades se refieren a la empresa, al sistema interno, no a los a los pro a los productos.
+
+679
+02:18:45.059 --> 02:18:45.799
+Dario Rizzo: muy bien.
+
+680
+02:18:46.480 --> 02:19:06.109
+Dario Rizzo: Ahora que no sé, por ejemplo, no sé a ver, acá tiene cuantas 12 486, puede ser, pero la que el lino que fabrican ellos la base de datos. Ahora que el no sé algún producto, ellos compraron también a Java o algo de Java, el el cómo se llama el el vitorizador que usamos acá
+
+681
+02:19:06.309 --> 02:19:09.850
+Dario Rizzo: el para para visualizar. Estamos con nosotros.
+
+682
+02:19:10.190 --> 02:19:10.620
+JUAN SANABRIA: No.
+
+683
+02:19:10.629 --> 02:19:16.069
+Dario Rizzo: Al bosque de ellos. Ahora también es un fallo que encuentran ahí. También lo sumo a ellos. También
+
+684
+02:19:16.279 --> 02:19:17.489
+Dario Rizzo: es un montón.
+
+685
+02:19:17.589 --> 02:19:18.999
+Dario Rizzo: Y en el caso de Intes
+
+686
+02:19:19.489 --> 02:19:27.719
+Dario Rizzo: y desde el hardware, un hardware de hardware o un driver por generar un driver que afecte el hardware.
+
+687
+02:19:29.159 --> 02:19:43.099
+Dario Rizzo: ¿qué más a ver ¿Cómo? Ok Sí, Mira nada, 27. ¿no?
+
+688
+02:19:44.539 --> 02:19:57.129
+Dario Rizzo: ¿qué fabrica esta casa? Bueno, servicio de seguridad que tenga mucha seguridad de no me enteré.
+
+689
+02:19:57.549 --> 02:20:01.819
+Dario Rizzo: Nos nos sirve de mucho ¿Qué más Che.
+
+690
+02:20:01.820 --> 02:20:03.279
+JUAN SANABRIA: Con circo puede probar.
+
+691
+02:20:03.280 --> 02:20:10.400
+Dario Rizzo: Sí, ¿Cómo sí sí que estaba? Bueno, Bueno, bastantes. ¿
+
+692
+02:20:11.240 --> 02:20:21.030
+Dario Rizzo: El lema que todas estas cosas, Lo preocupante que digamos que 1 capaz que dice piensa que está todo todo bien. Y el día tienen un fallo bastante importante, cosa que es Cisco
+
+693
+02:20:21.170 --> 02:20:27.700
+Dario Rizzo: fabrica es una empresa que más o menos fabrica. No sé, deben tener por lo menos en el mercado 80 por 100 de lo que es la parte de conectividad.
+
+694
+02:20:28.230 --> 02:20:35.010
+Dario Rizzo: Y bueno, igual el 2 016 tienen bastantes pocas, pero bueno, hubo un momento. Se ve que estaba
+
+695
+02:20:35.240 --> 02:20:49.060
+Dario Rizzo: estaba medio complicado en un par de años, pero bueno, fabrican, O sea, tengan en cuenta que fabrican, digamos, el las grandes compañías tienen fijo para la parte, digamos, de toda la parte de interna de las compañías. Los provee de Internet también
+
+696
+02:20:49.620 --> 02:20:57.220
+Dario Rizzo: tiene 5 también un fallo que encuentren en una compañía como esta es es es es arpado.
+
+697
+02:20:59.090 --> 02:21:02.720
+Dario Rizzo: ¿qué más alguna más? El debido no
+
+698
+02:21:10.700 --> 02:21:11.660
+Dario Rizzo: es iba a.
+
+699
+02:21:11.660 --> 02:21:14.450
+JUAN SANABRIA: Amazon Profe con el Amazon Web services.
+
+700
+02:21:20.000 --> 02:21:23.489
+Dario Rizzo: Mira Poquitas Mira, 2 016. No.
+
+701
+02:21:24.580 --> 02:21:31.259
+JUAN SANABRIA: No creo que si no Amazon en general, porque el website es un producto.
+
+702
+02:21:31.960 --> 02:21:35.540
+Dario Rizzo: Bueno, ahí ya ves 1 en esa acá y vas viendo los
+
+703
+02:21:36.820 --> 02:21:44.780
+Dario Rizzo: ven que le ponen el el año y el número. Este número, el número es de todo lo que mandaron de todas las compañías en todo el año también.
+
+704
+02:21:45.290 --> 02:21:50.139
+Dario Rizzo: y se la encontraron. Ah, Mirá 9. Nueve. Hoy fue publicada. Mirá
+
+705
+02:21:51.800 --> 02:21:58.840
+Dario Rizzo: la zona hace una hora. Mirá. ¿qué dice?
+
+706
+02:21:59.750 --> 02:22:00.460
+Dario Rizzo: Ya está?
+
+707
+02:22:00.580 --> 02:22:11.489
+Dario Rizzo: Sí, dime una hora más insiste en E. P. S Con es base score ¿Nueve? Seis.
+
+708
+02:22:12.770 --> 02:22:14.070
+Dario Rizzo: Sí, no es significativa.
+
+709
+02:22:14.400 --> 02:22:18.440
+Dario Rizzo: Improvilización, Inspección, m Com
+
+710
+02:22:23.980 --> 02:22:29.739
+Dario Rizzo: Preference Amazon: Bueno, pero bueno, mira, encontramos una que sí, en realidad es.
+
+711
+02:22:33.120 --> 02:22:35.859
+Dario Rizzo: La puedes la puedes usar. Yo creo que esta es la
+
+712
+02:22:37.140 --> 02:22:46.759
+Dario Rizzo: bueno, dice que Amazon Gómez se validation pobre, Beronsi, 11, 7.
+
+713
+02:22:48.880 --> 02:22:54.360
+Dario Rizzo: Era mandado, un mensaje de seguridad, ¿ De seguridad.
+
+714
+02:22:54.710 --> 02:23:04.400
+Dario Rizzo: y está complicado, pero viste que creo que Amazon fue que echó un montón de gente de ciberseguridad y puso ya un fin de semana y tuvo que devolverla el lunes a la gente de vuelta porque le tiró todo abajo.
+
+715
+02:23:04.990 --> 02:23:10.100
+Dario Rizzo: Pero bueno, ahí mirá. Esta es ya caliente.
+
+716
+02:23:10.680 --> 02:23:19.869
+Dario Rizzo: Cuando arrancamos la clase, el recreo fue la buena bebida. Pero bueno, vieron que esto es constante.
+
+717
+02:23:24.610 --> 02:23:25.840
+Dario Rizzo: La bellota
+
+718
+02:23:29.700 --> 02:23:32.150
+Dario Rizzo: y septiembre fue complicado. Parece para Amazon.
+
+719
+02:23:35.010 --> 02:23:51.059
+Dario Rizzo: pero bueno, está, acá. Tiene toda la base. Bueno, esta base, obviamente que hay una parte que creo que la vi por acá para que una la puede bajar esta base de C, B, S, y le va a montarla en una una aplicación para poder usarla como como fuente para los escaneos, también.
+
+720
+02:24:00.350 --> 02:24:02.550
+Dario Rizzo: Bueno, alguna duda o consulta.
