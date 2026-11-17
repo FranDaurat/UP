@@ -188,32 +188,48 @@
 ⭐ **1.** **Nanotecnología: qué es, para qué sirve y ejemplos.**
 
 > [!success]- Respuesta
-> **Qué es:** ciencia que manipula la materia a nivel de átomos y moléculas (1 a 100 nm).
-> **Para qué sirve:** materiales, electrónica, medicina y energía.
-> **Ejemplos:** nanobots en el cuerpo, superficies autolimpiantes, ropa inteligente.
+> **Qué es:** campo de las ciencias aplicadas dedicado al **control y manipulación de la materia a nanoescala**, a nivel de átomos y moléculas . La diferencia con las ciencias tradicionales es que estas tratan átomos y moléculas en conjunto, mientras que la nanociencia los trabaja de forma individual (discriminada).
+> **Para qué sirve:** permite crear productos nuevos o mejorar los existentes. Áreas principales:
+> - **Materiales:** más resistentes y con características particulares (pantallas de tablets).
+> - **Electrónica:** miniaturización de componentes (chips súper flexibles).
+> - **Medicina:** apuntar a las células dañadas con más precisión que la cirugía.
+> - **Energía:** más económica y menos contaminante.
+> **Ejemplos:** nanobots, superficies autolimpiantes, ropa inteligente, medicamentos "inteligentes" y lentes de contacto flexibles.
 
 ⭐ **2.** **Relacionar 5G con IoT.**
 
 > [!success]- Respuesta
-> El **5G** da conexión rápida, estable y permite conectar muchísimos dispositivos a la vez. Por eso es lo que **hace posible el IoT**: a más 5G, más objetos conectados en tiempo real.
+> El **5G** es la quinta generación de comunicación inalámbrica: velocidades ~1000 veces mayores al 4G, baja latencia (~1 ms), más cobertura y capacidad de conectar muchísimos dispositivos a la vez.
+> El **IoT (Internet de las Cosas)** es la interconexión de objetos cotidianos con Internet para compartir datos.
+> **Relación:** el 5G es el **habilitador** del IoT. Gracias a su velocidad, estabilidad y capacidad de conexión masiva, permite que una enorme cantidad de dispositivos inteligentes (del hogar, la ciudad y la industria) funcionen conectados y en tiempo real. Por eso, cuanto más se expande el 5G, más crece el IoT; la contra es que también aumentan los riesgos de ciberseguridad al haber más aparatos conectados.
 
 ⭐ **3.** **Relacionar robótica con IoT.**
 
 > [!success]- Respuesta
-> Un **robot conectado a Internet es un objeto del IoT**: capta datos con sus sensores y se controla a distancia. Ej: la aspiradora robot manejada desde el celular o los robots de Amazon coordinados en red.
+> La **robótica** crea máquinas con sensores (perciben el entorno) y actuadores (ejecutan acciones físicas); el **IoT** conecta objetos a Internet para compartir datos.
+> **Relación:** un robot conectado a la red se vuelve un **objeto más del IoT**. Cumple las dos partes del sistema: capta datos del ambiente con sus sensores y actúa físicamente sobre el mundo, y al estar en red puede ser **controlado y monitoreado a distancia** y coordinarse con otros dispositivos. El IoT funciona como el "sistema nervioso" que comunica a los robots entre sí.
+> **Ejemplos:** la aspiradora robot o el cortacésped manejados desde el celular, los robots de depósito de Amazon coordinados por la red, y los drones agrícolas con GPS y sensores que monitorean cultivos a distancia.
 
 ⭐ **4.** **Ejemplos de domótica.**
 
 > [!success]- Respuesta
-> Espejo inteligente, heladera con WiFi, aspiradora robot, asistentes virtuales y control de luces/aire desde el celular.
+> La domótica es la automatización inteligente de la vivienda. Ejemplos:
+> - **Espejos inteligentes:** cambian la temperatura del hogar, encienden luces, programan el aire.
+> - **Heladera con WiFi:** controla las existencias y avisa qué comprar (lanza la orden de compra online).
+> - **Horno inteligente:** con sensores de peso, volumen y humedad para calcular tiempo y temperatura.
+> - **Lavarropas con WiFi:** se programa a distancia.
+> - **Aspiradora robot:** limpia de forma autónoma.
+> - **Asistentes virtuales:** control por voz de la casa (luces, música, alarmas) disponibles 24/7.
+> - **In Home Delivery (Walmart):** el delivery entra con clave o QR y deja las compras en la heladera.
 
 ⭐ **5.** **Definir cibercultura.**
 
 > [!success]- Respuesta
-> La **cultura que nace del uso del ordenador e Internet (TIC)** para comunicarse, entretenerse y comprar.
+> Es la **cultura que surge del uso del ordenador** para la comunicación, el entretenimiento y el mercado electrónico; una cultura **nacida del uso de las TIC como Internet**. Abarca ámbitos como las redes sociales, los polos tecnológicos, la impresión 3D y la alfabetización digital.
 
 ⭐ **6.** **¿Qué es ChatGPT, para qué sirve y ejemplos?**
 
 > [!success]- Respuesta
-> **Qué es:** una IA generativa de **OpenAI** basada en GPT (redes neuronales) que genera texto y conversa.
-> **Para qué sirve / ejemplos:** redactar y corregir textos, responder dudas y estudiar, traducir, resumir y programar.
+> **Qué es:** una aplicación de **IA generativa** desarrollada por **OpenAI**, basada en **GPT (Generative Pre-trained Transformer)**, una familia de modelos de **redes neuronales** con arquitectura de transformadores. Se usa desde su web creando una cuenta y escribiendo en la barra de chat, en español u otros idiomas.
+> **Para qué sirve:** mantener conversaciones y **generar texto** a partir de lo que se le pide, respondiendo en lenguaje natural.
+> **Ejemplos:** redactar y corregir textos (mails, resúmenes, ensayos), responder dudas y explicar temas de estudio, traducir idiomas, resumir documentos y generar o explicar código.
